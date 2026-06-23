@@ -1,0 +1,117 @@
+# Backstage
+
+[![GitHub stars](https://img.shields.io/github/stars/shano/awesome-backstage?style=flat)](https://github.com/shano/awesome-backstage/stargazers)
+
+# Awesome Backstage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="backstage-logo.svg" align="right" width="100">](https://backstage.io)
+
+A curated list of awesome [Backstage](https://backstage.io/) resources, plugins, tech docs, and more! Backstage is an open-source platform that helps developers build, test, and maintain software with ease. This repository aims to provide a comprehensive collection of resources and tools for using Backstage effectively.
+
+## Contents
+
+- [Official Resources](#official-resources)
+- [Plugins](#plugins)
+- [Tutorials and Guides](#tutorials-and-guides)
+- [Tools and Integrations](#tools-and-integrations)
+- [Community and Contributions](#community-and-contributions)
+- [Articles and Presentations](#articles-and-presentations)
+- [Related Projects](#related-projects)
+
+## Official Resources
+
+- [GitHub Repository](https://github.com/backstage/backstage) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage?style=flat)](https://github.com/backstage/backstage/stargazers)
+- [Documentation](https://backstage.io/docs/)
+- [Blog](https://backstage.io/blog/)
+- [Demo](https://demo.backstage.io/)
+- [Plugin Directory](https://backstage.io/plugins/) - Discover official and community plugins in one place.
+
+## Plugins
+
+A collection of awesome Backstage plugins to enhance your platform's capabilities.
+
+### Core Plugins
+
+- [Catalog](https://github.com/backstage/backstage/tree/master/plugins/catalog) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage/tree/master/plugins/catalog?style=flat)](https://github.com/backstage/backstage/tree/master/plugins/catalog/stargazers) - Provides an inventory of all components in your ecosystem.
+- [TechDocs](https://github.com/backstage/backstage/tree/master/plugins/techdocs) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage/tree/master/plugins/techdocs?style=flat)](https://github.com/backstage/backstage/tree/master/plugins/techdocs/stargazers) - Manage and display technical documentation for your components.
+- [Scaffolder](https://github.com/backstage/backstage/tree/master/plugins/scaffolder) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage/tree/master/plugins/scaffolder?style=flat)](https://github.com/backstage/backstage/tree/master/plugins/scaffolder/stargazers) - Create new components using templates.
+- [Cost Insights](https://github.com/backstage/community-plugins/tree/main/workspaces/cost-insights/plugins/cost-insights) [![GitHub stars](https://img.shields.io/github/stars/backstage/community-plugins/tree/main/workspaces/cost-insights/plugins/cost-insights?style=flat)](https://github.com/backstage/community-plugins/tree/main/workspaces/cost-insights/plugins/cost-insights/stargazers) - Gain insights into your cloud costs.
+
+### Community Plugins
+
+- [Community Plugins](https://github.com/backstage/community-plugins) [![GitHub stars](https://img.shields.io/github/stars/backstage/community-plugins?style=flat)](https://github.com/backstage/community-plugins/stargazers) - Where Backstage maintains the list of community plugins available.
+- [GitHub Actions](https://roadie.io/backstage/plugins/github-actions/) - Monitor your GitHub Actions workflows.
+- [Jenkins](https://roadie.io/backstage/plugins/jenkins/) - Integrate Jenkins for CI/CD.
+- [SonarQube](https://roadie.io/backstage/plugins/sonarqube/) - Analyze and monitor code quality with SonarQube.
+- [CircleCI](https://roadie.io/backstage/plugins/circle-ci/) - Monitor your CircleCI builds.
+- [Prometheus](https://roadie.io/backstage/plugins/prometheus/) - Monitor application performance using Prometheus.
+- [Bazaar](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar) [![GitHub stars](https://img.shields.io/github/stars/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar?style=flat)](https://github.com/backstage/community-plugins/tree/main/workspaces/bazaar/plugins/bazaar/stargazers) - Discover and collaborate on internal projects within your organization.
+- [backstage-aws-cloudformation-plugin](https://github.com/purple-technology/backstage-aws-cloudformation-plugin) [![GitHub stars](https://img.shields.io/github/stars/purple-technology/backstage-aws-cloudformation-plugin?style=flat)](https://github.com/purple-technology/backstage-aws-cloudformation-plugin/stargazers) - Manage AWS CloudFormation stacks.
+- [aws-lambda](https://roadie.io/backstage/plugins/aws-lambda/) - Manage and monitor your AWS Lambda functions.
+- [AiKA](https://backstage.spotify.com/discover/blog/aika-data-plugins-coming-to-portal/) - AI-powered assistant for context-aware answers from your internal docs and APIs.
+- [RAG AI Plugin](https://www.opslevel.com/resources/top-10-backstage-plugins-for-2025) - Adds retrieval-augmented generation using LLMs for your internal knowledge.
+- [Announcements Plugin](https://www.npmjs.com/package/@backstage-community/plugin-announcements) - Create and manage internal announcements directly in Backstage.
+- [Git Release Manager](https://backstage.spotify.com/partners/spotify/plugin/git-release-manager/) - Automate GitHub release workflows from within Backstage.
+- [Port Plugin](https://www.port.io/blog/top-5-backstage-plugins) - Sync data from across your stack into scorecards and dashboards.
+- [Env0 Plugin](https://www.env0.com/blog/new-backstage-plugin-manage-and-deploy-iac-from-your-internal-developer-portal) - Manage Infrastructure as Code (IaC) workflows and self-service provisioning.
+- [Tech Insights Scorecards](https://roadie.io/backstage/plugins/tech-insights/) - Automate service maturity scorecards with centralized checks across your catalog.
+- [Scaffolder Yeoman Module](https://www.npmjs.com/package/@backstage/plugin-scaffolder-backend-module-yeoman) - Extend golden paths with Yeoman blueprints and new template actions like GitHub Issues or Terraform Cloud.
+- [Microsoft Graph Catalog Module](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-msgraph) - Synchronize Azure AD users and groups as Backstage entities.
+- [Azure DevOps Catalog Modules](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-azure) - Bring Azure Repos, Boards, and Pipelines metadata into the catalog backend.
+- [Search Backend Modules](https://www.npmjs.com/package/@backstage/plugin-search-backend-module-elasticsearch) - Unlock faster, filtered search with Elasticsearch or Lunr-powered hybrid indexing.
+- [New Relic](https://www.npmjs.com/package/@backstage-community/plugin-newrelic) - Jump straight from service catalog entries to New Relic dashboards.
+- [Apiiro](https://github.com/backstage/community-plugins/blob/main/workspaces/apiiro/plugins/apiiro/README.md) [![GitHub stars](https://img.shields.io/github/stars/backstage/community-plugins/blob/main/workspaces/apiiro/plugins/apiiro/README.md?style=flat)](https://github.com/backstage/community-plugins/blob/main/workspaces/apiiro/plugins/apiiro/README.md/stargazers) - Surface Apiiro application risk context directly in Backstage entities.
+- [Wiz Security](https://github.com/wiz-sec-public/backstage-plugin-wiz) [![GitHub stars](https://img.shields.io/github/stars/wiz-sec-public/backstage-plugin-wiz?style=flat)](https://github.com/wiz-sec-public/backstage-plugin-wiz/stargazers) - Display Wiz cloud risk scores alongside scorecards to prioritize remediation.
+
+## Tutorials and Guides
+
+- [Backstage Learn](https://backstage.spotify.com/learn/)
+- [Getting Started with Backstage](https://backstage.io/docs/getting-started/)
+- [Creating a Plugin](https://backstage.io/docs/plugins/create-a-plugin)
+- [Integrating with Existing Infrastructure](https://backstage.io/docs/integrations/)
+- [Customizing the UI](https://backstage.io/docs/getting-started/app-custom-theme/)
+- [Module Federation](https://backstage.io/docs/frontend-system/building-apps/module-federation) - Compose frontend capabilities across app boundaries with dynamic module loading.
+- [Plugin Directory Audit](https://backstage.io/docs/next/plugins/plugin-directory-audit) - Validate plugin metadata and readiness for directory publishing.
+
+## Tools and Integrations
+
+- [Portal](https://backstage.spotify.com/docs/portal/) - A no-code IDP based on Backstage and maintained by Spotify.
+- [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
+- [Upgrade Helper](https://backstage.github.io/upgrade-helper/?to=1.48.0) - Compare versions and plan dependency updates for Backstage upgrades.
+- [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage/blob/master/contrib/docker/?style=flat)](https://github.com/backstage/backstage/blob/master/contrib/docker//stargazers) - Run Backstage in Docker containers.
+- [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage/blob/master/contrib/kubernetes/?style=flat)](https://github.com/backstage/backstage/blob/master/contrib/kubernetes//stargazers) - Deploy Backstage on Kubernetes.
+- [Backstage Helm Chart](https://github.com/backstage/charts) [![GitHub stars](https://img.shields.io/github/stars/backstage/charts?style=flat)](https://github.com/backstage/charts/stargazers) - Helm chart for deploying Backstage on Kubernetes.
+- [Backstage ArgoCD Integration](https://roadie.io/backstage/plugins/argo-cd/) - Present ArgoCD's GitOps workflows in Backstage.
+- [Kratix with Backstage](https://docs.kratix.io/main/learn-more/how-kratix-complements/backstage) - Integrate Kratix Platform Engineering Framework with Backstage to easily deploy promises.
+- [Crossplane with Backstage](https://www.youtube.com/watch?v=d2L6PWGfhXI) - Guide on integrating Crossplane with Backstage.
+
+## Community and Contributions
+
+- [Backstage Community](https://github.com/backstage/community) [![GitHub stars](https://img.shields.io/github/stars/backstage/community?style=flat)](https://github.com/backstage/community/stargazers) - Join the Backstage community to ask questions and share your knowledge.
+- [Good First Issues](https://github.com/backstage/backstage/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22?style=flat)](https://github.com/backstage/backstage/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22/stargazers) - Contribute to the project by tackling "Good First Issues" on GitHub.
+- [Discord](https://discord.com/invite/MUpMjP2) - Join the Backstage Discord server to connect with other developers and get live support.
+- [Get a Jump on ContribFest](https://backstage.io/blog/2026/02/25/get-a-jump-on-contribfest) - Learn how to participate in the latest contribution event cycle.
+- [ContribFest App](https://contribfest.backstage.io/) - Browse contribution opportunities and project tracks for ContribFest.
+
+## Articles and Presentations
+
+- [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
+- [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
+- [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
+- [Backstage v1.50.4 Release Notes](https://backstage.io/docs/releases/v1.50.4/) - Latest stable release (2026-04-29) with platform updates and bug fixes.
+- [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
+- [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
+- [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.
+- [CVE-2024-26150 Security Notice](https://backstage.io/blog/2024/02/28/security-notice/) - Scaffolder path traversal fix and recommended upgrades.
+- [Actions Registry + MCP Integration (v1.40.0)](https://backstage.io/docs/releases/v1.40.0) - Actions Registry services and MCP server integration notes.
+- [MCP Actions Backend Plugin Docs](https://backstage.io/api/stable/modules/_backstage_plugin-mcp-actions-backend.html) - Expose Backstage actions as MCP tools for AI clients.
+- [RFCs on GitHub](https://github.com/backstage/backstage/labels/RFC) [![GitHub stars](https://img.shields.io/github/stars/backstage/backstage/labels/RFC?style=flat)](https://github.com/backstage/backstage/labels/RFC/stargazers) - Track active proposals and community feedback.
+
+## Related Projects
+
+- [Lighthouse](https://github.com/GoogleChrome/lighthouse-ci) [![GitHub stars](https://img.shields.io/github/stars/GoogleChrome/lighthouse-ci?style=flat)](https://github.com/GoogleChrome/lighthouse-ci/stargazers) - Automate running Lighthouse for every commit and viewing the changes over time.
+- [Roadie](https://roadie.io/) - Managed Backstage service for enterprises.
+
+## Contributing
+
+Contributions are more than welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.

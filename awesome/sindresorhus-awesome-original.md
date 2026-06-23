@@ -894,8 +894,8 @@
 
 ## Related
 
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
+- [All Awesome Lists](https://github.com/topics/awesome) [![GitHub stars](https://img.shields.io/github/stars/topics/awesome?style=flat)](https://github.com/topics/awesome/stargazers) - All the Awesome lists on GitHub.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) [![GitHub stars](https://img.shields.io/github/stars/basharovV/StumbleUponAwesome?style=flat)](https://github.com/basharovV/StumbleUponAwesome/stargazers) - Discover random pages from the Awesome dataset using a browser extension.
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) [![GitHub stars](https://img.shields.io/github/stars/umutphp/awesome-cli?style=flat)](https://github.com/umutphp/awesome-cli/stargazers) - A simple command-line tool to dive into Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.

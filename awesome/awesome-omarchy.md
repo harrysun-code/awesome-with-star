@@ -1,6 +1,6 @@
 # Omarchy
 
-> Stars: 376 | [GitHub](https://github.com/aorumbayev/awesome-omarchy)
+[![GitHub stars](https://img.shields.io/github/stars/aorumbayev/awesome-omarchy?style=flat)](https://github.com/aorumbayev/awesome-omarchy/stargazers)
 
 # Awesome Omarchy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -21,217 +21,217 @@
 
 ## Official Resources
 
-- [Omarchy](https://github.com/basecamp/omarchy) - The main Omarchy project by Basecamp.
+- [Omarchy](https://github.com/basecamp/omarchy) [![GitHub stars](https://img.shields.io/github/stars/basecamp/omarchy?style=flat)](https://github.com/basecamp/omarchy/stargazers) - The main Omarchy project by Basecamp.
 - [Omarchy Documentation](https://learn.omacom.io/2/the-omarchy-manual) - Official website with installation guides and documentation.
 
 ## Alternative Implementations
 
-- [armarchy](https://github.com/nilszeilon/armarchy) - ARM architecture-optimized fork of Omarchy.
-- [deckarchy](https://github.com/aorumbayev/deckarchy) - Steam Deck hardware fixes and optimizations for Omarchy installation.
-- [Fedpunk](https://github.com/hinriksnaer/Fedpunk) - Omarchy-based desktop configuration and modular theming engine for Fedora.
-- [hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Arch / Omarchy - Fast, accurate and easy system-wide Whisper dictation.
-- [Okimarchy](https://github.com/cristian-fleischer/okimarchy) - An Omarchy fork that adds support for niri window manager alongside Hyprland, with runtime switching and unified theming.
-- [omadora](https://github.com/elpritchos/omadora) - Minimal Fedora install based on Omarchy.
-- [omarchy-cachyos](https://github.com/lentra0/omarchy-cachyos) - Opinionated CachyOS/Hyprland Setup.
-- [omarchy-nix](https://github.com/henrysipp/omarchy-nix) - NixOS version of Omarchy with declarative configuration.
-- [omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for Omarchy on top of CachyOS.
-- [omarchy-titus](https://github.com/ChrisTitusTech/omarchy-titus) - Chris Titus Tech's customized version of Omarchy.
-- [typecraft-dev/omarchy-supplement](https://github.com/typecraft-dev/omarchy-supplement) - Additional packages, dotfiles, and overrides to be used after installing Omarchy.
-- [harilvfs/omarchy](https://github.com/harilvfs/omarchy) - Opinionated Arch/Hyprland Setup.
-- [omarchy-hub](https://github.com/deepakness/omarchy-hub) - A comprehensive resource library for Omarchy Linux.
+- [armarchy](https://github.com/nilszeilon/armarchy) [![GitHub stars](https://img.shields.io/github/stars/nilszeilon/armarchy?style=flat)](https://github.com/nilszeilon/armarchy/stargazers) - ARM architecture-optimized fork of Omarchy.
+- [deckarchy](https://github.com/aorumbayev/deckarchy) [![GitHub stars](https://img.shields.io/github/stars/aorumbayev/deckarchy?style=flat)](https://github.com/aorumbayev/deckarchy/stargazers) - Steam Deck hardware fixes and optimizations for Omarchy installation.
+- [Fedpunk](https://github.com/hinriksnaer/Fedpunk) [![GitHub stars](https://img.shields.io/github/stars/hinriksnaer/Fedpunk?style=flat)](https://github.com/hinriksnaer/Fedpunk/stargazers) - Omarchy-based desktop configuration and modular theming engine for Fedora.
+- [hyprwhspr](https://github.com/goodroot/hyprwhspr) [![GitHub stars](https://img.shields.io/github/stars/goodroot/hyprwhspr?style=flat)](https://github.com/goodroot/hyprwhspr/stargazers) - Native speech-to-text for Arch / Omarchy - Fast, accurate and easy system-wide Whisper dictation.
+- [Okimarchy](https://github.com/cristian-fleischer/okimarchy) [![GitHub stars](https://img.shields.io/github/stars/cristian-fleischer/okimarchy?style=flat)](https://github.com/cristian-fleischer/okimarchy/stargazers) - An Omarchy fork that adds support for niri window manager alongside Hyprland, with runtime switching and unified theming.
+- [omadora](https://github.com/elpritchos/omadora) [![GitHub stars](https://img.shields.io/github/stars/elpritchos/omadora?style=flat)](https://github.com/elpritchos/omadora/stargazers) - Minimal Fedora install based on Omarchy.
+- [omarchy-cachyos](https://github.com/lentra0/omarchy-cachyos) [![GitHub stars](https://img.shields.io/github/stars/lentra0/omarchy-cachyos?style=flat)](https://github.com/lentra0/omarchy-cachyos/stargazers) - Opinionated CachyOS/Hyprland Setup.
+- [omarchy-nix](https://github.com/henrysipp/omarchy-nix) [![GitHub stars](https://img.shields.io/github/stars/henrysipp/omarchy-nix?style=flat)](https://github.com/henrysipp/omarchy-nix/stargazers) - NixOS version of Omarchy with declarative configuration.
+- [omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) [![GitHub stars](https://img.shields.io/github/stars/mroboff/omarchy-on-cachyos?style=flat)](https://github.com/mroboff/omarchy-on-cachyos/stargazers) - Installation script for Omarchy on top of CachyOS.
+- [omarchy-titus](https://github.com/ChrisTitusTech/omarchy-titus) [![GitHub stars](https://img.shields.io/github/stars/ChrisTitusTech/omarchy-titus?style=flat)](https://github.com/ChrisTitusTech/omarchy-titus/stargazers) - Chris Titus Tech's customized version of Omarchy.
+- [typecraft-dev/omarchy-supplement](https://github.com/typecraft-dev/omarchy-supplement) [![GitHub stars](https://img.shields.io/github/stars/typecraft-dev/omarchy-supplement?style=flat)](https://github.com/typecraft-dev/omarchy-supplement/stargazers) - Additional packages, dotfiles, and overrides to be used after installing Omarchy.
+- [harilvfs/omarchy](https://github.com/harilvfs/omarchy) [![GitHub stars](https://img.shields.io/github/stars/harilvfs/omarchy?style=flat)](https://github.com/harilvfs/omarchy/stargazers) - Opinionated Arch/Hyprland Setup.
+- [omarchy-hub](https://github.com/deepakness/omarchy-hub) [![GitHub stars](https://img.shields.io/github/stars/deepakness/omarchy-hub?style=flat)](https://github.com/deepakness/omarchy-hub/stargazers) - A comprehensive resource library for Omarchy Linux.
 
 ## Themes
 
-- [aetheria](https://github.com/JJDizz1L/aetheria) - Ethereal and modern theme with balanced aesthetics.
-- [omarchy-aamis-theme](https://github.com/vyrx-dev/omarchy-aamis-theme) - Near‑black canvas, creamy text.
-- [omarchy-alabaster-theme](https://github.com/grierson/omarchy-alabaster-theme) - Alabaster theme with clean, minimalist design.
-- [omarchy-akane-theme](https://github.com/Grenish/omarchy-akane-theme) - Akane theme with Japanese-inspired colors.
-- [omarchy-agentuity.theme](https://github.com/rblalock/omarchy-agentuity.theme) - Agentuity-inspired theme with professional color palette.
-- [omarchy-all-hallows-eve-theme](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme) - Dark Halloween-inspired theme with spooky aesthetics.
-- [omarchy-amberbyte-theme](https://github.com/tahfizhabib/omarchy-amberbyte-theme) - Modern, animated, and minimal theme with amber accents.
-- [omarchy-ash-theme](https://github.com/bjarneo/omarchy-ash-theme) - Subtle ash-gray color scheme.
-- [omarchy-aura-theme](https://github.com/bjarneo/omarchy-aura-theme) - Aura theme providing visually appealing configuration set.
-- [omarchy-ayaka-theme](https://github.com/abhijeet-swami/omarchy-ayaka-theme) - Minimalist theme with glass-like blur effects and vibrant accents.
-- [omarchy-ayu-mirage-theme](https://github.com/fdidron/omarchy-ayumirage) - Ayu Mirage color scheme adaptation with balanced contrast.
-- [omarchy-azure-glow-theme](https://github.com/Hydradevx/omarchy-azure-glow-theme) - Azure blue theme with glowing accents.
-- [omarchy-bauhaus-theme](https://github.com/somerocketeer/omarchy-bauhaus-theme) - Minimalist theme inspired by Bauhaus design principles.
-- [omarchy-batou-theme](https://github.com/HANCORE-linux/omarchy-batou-theme) - Moody theme inspired by Batou's car and iconic opening scene aesthetics.
-- [omarchy-blackgold-theme](https://github.com/HANCORE-linux/omarchy-blackgold-theme) - Sleek black-and-gold theme with luxurious aesthetics.
-- [omarchy-blackmoney-theme](https://github.com/HANCORE-linux/omarchy-blackmoney-theme) - Bold midnight theme with rich green-gold accents.
-- [omarchy-blackturq-theme](https://github.com/HANCORE-linux/omarchy-blackturq-theme) - Black turquoise theme based on Evo80 keyboard color pattern.
-- [omarchy-blueridge-dark-theme](https://github.com/hipsterusername/omarchy-blueridge-dark-theme) - Dark theme inspired by mountain ridge aesthetics.
-- [omarchy-cobalt2-theme](https://github.com/hoblin/omarchy-cobalt2-theme) - Cobalt2 theme inspired by the iconic VSCode theme.
-- [omarchy-crimson-gold-theme](https://github.com/knappkevin/omarchy-crimson-gold-theme) - Luxurious crimson and gold color combination.
-- [omarchy-doom-theme](https://github.com/AX200M/omarchy-doom-theme) - Material theme inspired by MF DOOM wallpaper.
-- [omarchy-dracula-theme](https://github.com/catlee/omarchy-dracula-theme) - Popular Dracula theme adaptation.
-- [omarchy-delorean-theme](https://github.com/jbnunn/omarchy-delorean-theme) - Retro-inspired time traveler's theme.
-- [omarchy-ember-n-ash-theme](https://github.com/Hydradevx/omarchy-ember-n-ash-theme) - Warm ember orange and ash gray color combination.
-- [omarchy-elysian-theme](https://github.com/bjarneo/omarchy-elysian-theme) - Mythical forest theme with golden-green light and high-contrast workspace.
-- [omarchy-everblush-theme](https://github.com/Swarnim114/omarchy-everblush-theme) - Everblush color scheme adaptation.
-- [omarchy-evergarden-theme](https://github.com/celsobenedetti/omarchy-evergarden) - Evergarden theme with lush greens and soft pastels.
-- [omarchy-felix-theme](https://github.com/TyRichards/omarchy-felix-theme) - Clean theme with balanced colors and modern design.
-- [omarchy-fiery-ocean-theme](https://github.com/bjarneo/omarchy-fiery-ocean-theme) - Fiery Ocean theme with vibrant aquatic colors.
-- [omarchy-flexoki-dark-theme](https://github.com/euandeas/omarchy-flexoki-dark-theme) - Flexoki color palette adaptation.
-- [omarchy-flexoki-light-theme](https://github.com/euandeas/omarchy-flexoki-light-theme) - Light version of Flexoki color palette.
-- [omarchy-forest-green-theme](https://github.com/abhijeet-swami/omarchy-forest-green-theme) - Nature-inspired forest green color scheme.
-- [omarchy-frutiger-aero](https://github.com/VECTORG99/omarchy-frutiger-aero) - Frutiger Aero theme with 6 EWW desktop widgets, liquid glass aesthetics, celestial gradients, and light/dark support.
-- [omarchy-futurism-theme](https://github.com/bjarneo/omarchy-futurism-theme) - Futuristic theme with modern aesthetics.
-- [omarchy-gold-rush-theme](https://github.com/tahayvr/omarchy-gold-rush-theme) - Luxurious gold-themed color scheme.
-- [omarchy-gtk-theme](https://github.com/bjarneo/omarchy-gtk-theme) - Universal GTK styling to match Omarchy across applications.
-- [omarchy-green-garden-theme](https://github.com/kalk-ak/omarchy-green-garden-theme) - Fresh and calming theme inspired by nature with vibrant yet soothing green tones.
-- [omarchy-harbor-theme](https://github.com/HANCORE-linux/omarchy-harbor-theme) - Calm, paper-light color scheme with cool ink accents inspired by Nordic tones.
-- [omarchy-harbordark-theme](https://github.com/HANCORE-linux/omarchy-harbordark-theme) - Dark version of Harbor theme with deep tones and cool accents.
-- [omarchy-hollow-knight-theme](https://github.com/bjarneo/omarchy-hollow-knight-theme) - Hollow Knight inspired theme with gaming aesthetics.
-- [omarchy-hook-theme-set-ex](https://github.com/imbypass/omarchy-hook-theme-set-ex) - Modular interpretation of the Omarchy theme-set hook.
-- [omarchy-inkypinky-theme](https://github.com/HANCORE-linux/omarchy-inkypinky-theme) - Bold meets blush in a swirl of creative elegance.
-- [omarchy-kimiko-theme](https://github.com/krymzonn/omarchy-kimiko-theme) - Elegant theme with Japanese-inspired aesthetics.
-- [omarchy-mars-theme](https://github.com/steve-lohmeyer/omarchy-mars-theme) - Mars-inspired red theme.
-- [omarchy-mechanoonna-theme](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme) - Mecha no Onna (メカの女) the "Metal Woman" theme.
-- [omarchy-matte-black](https://github.com/tahayvr/omarchy-matte-black) - Sleek matte black theme for minimalists.
-- [omarchy-midnight-theme](https://github.com/JaxonWright/omarchy-midnight-theme) - Dark midnight theme optimized for OLED displays.
-- [omarchy-milkmatcha-light-theme](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme) - Light theme with soft matcha green and creamy colors.
-- [omarchy-monochrome-theme](https://github.com/Swarnim114/omarchy-monochrome-theme) - Clean monochrome design.
-- [omarchy-moodpeak-theme](https://github.com/HANCORE-linux/omarchy-moodpeak-theme) - Mood-lifting theme designed to pull you back to peak focus.
-- [omarchy-nes-theme](https://github.com/bjarneo/omarchy-nes-theme) - Retro NES theme with nostalgic gaming aesthetics.
-- [omarchy-nagai-twilight-theme](https://github.com/somerocketeer/omarchy-nagai-twilight-theme) - Twilight-inspired theme with elegant color transitions.
-- [omarchy-one-dark-pro-theme](https://github.com/sc0ttman/omarchy-one-dark-pro) - One Dark Pro color scheme adaptation.
-- [omarchy-osaka-jade-theme](https://github.com/Justikun/omarchy-osaka-jade-theme) - Elegant jade-colored theme inspired by Osaka aesthetics.
-- [omarchy-purplewave-theme](https://github.com/dotsilva/omarchy-purplewave-theme) - Purple wave-inspired theme with elegant purple tones.
-- [omarchy-retropc-theme](https://github.com/rondilley/omarchy-retropc-theme) - Nostalgic retro PC theme with vintage computing aesthetics.
-- [omarchy-retro-fallout-theme](https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme) - Post-apocalyptic theme with Vault-inspired colors and Fallout-themed styling.
-- [omarchy-rose-pine-dark](https://github.com/guilhermetk/omarchy-rose-pine-dark) - Rose Pine inspired dark theme.
-- [omarchy-serenity-theme](https://github.com/bjarneo/omarchy-serenity-theme) - Serenity theme with calm and peaceful color scheme.
-- [omarchy-shadesofjade-theme](https://github.com/HANCORE-linux/omarchy-shadesofjade-theme) - Serene green-toned theme.
-- [omarchy-snow-theme](https://github.com/bjarneo/omarchy-snow-theme) - Snow theme with clean winter-inspired aesthetics.
-- [omarchy-solarized-light-theme](https://github.com/dfrico/omarchy-solarized-light-theme) - Light version of Solarized color scheme.
-- [omarchy-solarized-osaka-theme](https://github.com/motorsss/omarchy-solarizedosaka-theme) - Solarized theme with Osaka-inspired modifications.
-- [omarchy-solarized-theme](https://github.com/Gazler/omarchy-solarized-theme) - Classic Solarized color scheme adaptation.
-- [omarchy-space-monkey-theme](https://github.com/TyRichards/omarchy-space-monkey-theme) - Space-inspired theme with cosmic elements.
-- [omarchy-spectra-theme](https://github.com/abhijeet-swami/omarchy-spectra-theme) - Blur and transparency theme that adapts to any wallpaper.
-- [omarchy-sunset-drive-theme](https://github.com/tahayvr/omarchy-sunset-drive-theme) - Sunset-inspired theme with warm gradients.
-- [omarchy-synthwave84-theme](https://github.com/omacom-io/omarchy-synthwave84-theme) - Synthwave 84 inspired theme with retro aesthetics.
-- [omarchy-thegreek-theme](https://github.com/HANCORE-linux/omarchy-thegreek-theme) - Sleek, strategic spy theme blending classic espionage with modern intrigue.
-- [omarchy-velocity-theme](https://github.com/perfektnacht/omarchy-velocity-theme) - Dynamic theme with speed-inspired design elements.
-- [omarchy-velvetnight-theme](https://github.com/HANCORE-linux/omarchy-velvetnight-theme) - Dark, night-inspired theme with soft contrasts and subtle glimmers.
-- [omarchy-vesper-theme](https://github.com/thmoee/omarchy-vesper-theme) - Dark theme with warm vesper-orange highlights.
-- [omarchy-vhs80-theme](https://github.com/tahayvr/omarchy-vhs80-theme) - Retro VHS-inspired theme with 80s aesthetics and neon colors.
-- [omarchy-void-theme](https://github.com/vyrx-dev/omarchy-void-theme.git) - Low-contrast purple theme with soft accents for a calm UI.
-- [omarchy-wasteland-theme](https://github.com/perfektnacht/omarchy-wasteland-theme) - Post-apocalyptic wasteland-inspired color scheme.
-- [omarchy-whitegold-theme](https://github.com/HANCORE-linux/omarchy-whitegold-theme) - Light and elegance intertwined with gold accents.
-- [omarchy-waveform-dark-theme](https://github.com/hipsterusername/omarchy-waveform-dark-theme) - Dark theme with waveform-inspired design patterns.
-- [omarchy-motivator-theme](https://github.com/rondilley/omarchy-motivator-theme) - Omarchy Theme for maximum motivation.
-- [omarchy-archriot-theme](https://github.com/CyphrRiot/omarchy-archriot-theme) - ArchRiot theme for Omarchy by CyphrRiot.
-- [omarchy-arc-blueberry](https://github.com/vale-c/omarchy-arc-blueberry) - Arc Blueberry inspired colors tailored for Omarchy.
-- [omarchy-ayu-dark-theme](https://github.com/fdidron/omarchy-ayu-dark-theme) - Omarchy Ayu Dark Theme.
-- [omarchy-ayu-light-theme](https://github.com/fdidron/omarchy-ayu-light-theme) - Omarchy Ayu Light Theme.
-- [omarchy-github-light-theme](https://github.com/ryanyogan/omarchy-github-light-theme) - GitHub Light theme adaptation.
-- [omarchy-night-owl-theme](https://github.com/maxberggren/omarchy-night-owl-theme) - Dark blue night owl theme for Omarchy.
-- [omarchy-catppuccin-mocha-theme](https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme) - Catppuccin Mocha theme for Omarchy.
-- [omarchy-kanagawa-dragon-theme](https://github.com/MrTrigger/omarchy-kanagawa-dragon-theme) - Kanagawa Dragon theme adaptation.
-- [omarchy-monokai-dark-theme](https://github.com/ericrswanny/omarchy-monokai-dark-theme) - Monokai inspired dark theme.
-- [omarchy-monokai-theme](https://github.com/bjarneo/omarchy-monokai-theme) - High-contrast Monokai Pro inspired variant.
-- [omarchy-obsidian-theme](https://github.com/Hydradevx/omarchy-obsidian-theme) - Obsidian-inspired dark theme.
-- [omarchy-rose-pine-dawn-theme](https://github.com/ryanyogan/omarchy-rose-pine-dawn-theme) - Rose Pine Dawn light theme.
-- [omarchy-rose-pine](https://github.com/guilhermetk/omarchy-rose-pine) - Rose Pine theme for Omarchy.
-- [omarchy-anonymous-theme](https://github.com/j4v3l/omarchy-anonymous-theme) - Minimalist monochrome modern theme.
-- [omarchy-firesky-theme](https://github.com/bjarneo/omarchy-firesky-theme) - Fire-lit sky inspired theme for deep focus.
-- [omarchy-wood-theme](https://github.com/bjarneo/omarchy-wood-theme) - Natural wood-inspired theme.
-- [omarchy-pulsar-theme](https://github.com/bjarneo/omarchy-pulsar-theme) - Vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars.
-- [omarchy-pina-theme](https://github.com/bjarneo/omarchy-pina-theme) - Tropical pineapple-inspired palette with warm accents.
-- [pink-blood-omarchy-theme](https://github.com/ITSZXY/pink-blood-omarchy-theme) - Bold pink-themed design.
-- [omarchy-reverie-theme](https://github.com/bjarneo/omarchy-reverie-theme) - Simple, elegant, dark theme for Omarchy designed for deep focus.
-- [omarchy-sakura-theme](https://github.com/bjarneo/omarchy-sakura-theme) - Elegant, high-contrast theme inspired by the delicate beauty of cherry blossoms.
-- [omarchy-sapphire-theme](https://github.com/HANCORE-linux/omarchy-sapphire-theme) - Vivid blue theme with rich accents.
-- [omarchy-fireside-theme](https://github.com/bjarneo/omarchy-fireside-theme) - Warm, cozy theme inspired by the gentle glow of a crackling fire.
-- [omarchy-frost-theme](https://github.com/bjarneo/omarchy-frost-theme) - Simple, elegant theme inspired by the serene beauty of frost patterns.
-- [omarchy-pure-latin-theme](https://github.com/daurydicaprio/omarchy-pure-latin-theme) - Custom theme for Omarchy Linux.
-- [omarchy-tycho](https://github.com/leonardobetti/omarchy-tycho) - Minimalist pastel theme inspired by musician Tycho's aesthetics.
-- [omarchy-c64-theme](https://github.com/scar45/omarchy-c64-theme) - C64-inspired retro theme for Omarchy.
-- [F1-omarchy](https://github.com/999Gabriel/F1-omarchy) - Formula 1 inspired Omarchy layout with racing telemetry flair.
-- [dracula/omarchy](https://github.com/dracula/omarchy) - Official Dracula theme for Omarchy.
+- [aetheria](https://github.com/JJDizz1L/aetheria) [![GitHub stars](https://img.shields.io/github/stars/JJDizz1L/aetheria?style=flat)](https://github.com/JJDizz1L/aetheria/stargazers) - Ethereal and modern theme with balanced aesthetics.
+- [omarchy-aamis-theme](https://github.com/vyrx-dev/omarchy-aamis-theme) [![GitHub stars](https://img.shields.io/github/stars/vyrx-dev/omarchy-aamis-theme?style=flat)](https://github.com/vyrx-dev/omarchy-aamis-theme/stargazers) - Near‑black canvas, creamy text.
+- [omarchy-alabaster-theme](https://github.com/grierson/omarchy-alabaster-theme) [![GitHub stars](https://img.shields.io/github/stars/grierson/omarchy-alabaster-theme?style=flat)](https://github.com/grierson/omarchy-alabaster-theme/stargazers) - Alabaster theme with clean, minimalist design.
+- [omarchy-akane-theme](https://github.com/Grenish/omarchy-akane-theme) [![GitHub stars](https://img.shields.io/github/stars/Grenish/omarchy-akane-theme?style=flat)](https://github.com/Grenish/omarchy-akane-theme/stargazers) - Akane theme with Japanese-inspired colors.
+- [omarchy-agentuity.theme](https://github.com/rblalock/omarchy-agentuity.theme) [![GitHub stars](https://img.shields.io/github/stars/rblalock/omarchy-agentuity.theme?style=flat)](https://github.com/rblalock/omarchy-agentuity.theme/stargazers) - Agentuity-inspired theme with professional color palette.
+- [omarchy-all-hallows-eve-theme](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme) [![GitHub stars](https://img.shields.io/github/stars/guilhermetk/omarchy-all-hallows-eve-theme?style=flat)](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme/stargazers) - Dark Halloween-inspired theme with spooky aesthetics.
+- [omarchy-amberbyte-theme](https://github.com/tahfizhabib/omarchy-amberbyte-theme) [![GitHub stars](https://img.shields.io/github/stars/tahfizhabib/omarchy-amberbyte-theme?style=flat)](https://github.com/tahfizhabib/omarchy-amberbyte-theme/stargazers) - Modern, animated, and minimal theme with amber accents.
+- [omarchy-ash-theme](https://github.com/bjarneo/omarchy-ash-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-ash-theme?style=flat)](https://github.com/bjarneo/omarchy-ash-theme/stargazers) - Subtle ash-gray color scheme.
+- [omarchy-aura-theme](https://github.com/bjarneo/omarchy-aura-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-aura-theme?style=flat)](https://github.com/bjarneo/omarchy-aura-theme/stargazers) - Aura theme providing visually appealing configuration set.
+- [omarchy-ayaka-theme](https://github.com/abhijeet-swami/omarchy-ayaka-theme) [![GitHub stars](https://img.shields.io/github/stars/abhijeet-swami/omarchy-ayaka-theme?style=flat)](https://github.com/abhijeet-swami/omarchy-ayaka-theme/stargazers) - Minimalist theme with glass-like blur effects and vibrant accents.
+- [omarchy-ayu-mirage-theme](https://github.com/fdidron/omarchy-ayumirage) [![GitHub stars](https://img.shields.io/github/stars/fdidron/omarchy-ayumirage?style=flat)](https://github.com/fdidron/omarchy-ayumirage/stargazers) - Ayu Mirage color scheme adaptation with balanced contrast.
+- [omarchy-azure-glow-theme](https://github.com/Hydradevx/omarchy-azure-glow-theme) [![GitHub stars](https://img.shields.io/github/stars/Hydradevx/omarchy-azure-glow-theme?style=flat)](https://github.com/Hydradevx/omarchy-azure-glow-theme/stargazers) - Azure blue theme with glowing accents.
+- [omarchy-bauhaus-theme](https://github.com/somerocketeer/omarchy-bauhaus-theme) [![GitHub stars](https://img.shields.io/github/stars/somerocketeer/omarchy-bauhaus-theme?style=flat)](https://github.com/somerocketeer/omarchy-bauhaus-theme/stargazers) - Minimalist theme inspired by Bauhaus design principles.
+- [omarchy-batou-theme](https://github.com/HANCORE-linux/omarchy-batou-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-batou-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-batou-theme/stargazers) - Moody theme inspired by Batou's car and iconic opening scene aesthetics.
+- [omarchy-blackgold-theme](https://github.com/HANCORE-linux/omarchy-blackgold-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-blackgold-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-blackgold-theme/stargazers) - Sleek black-and-gold theme with luxurious aesthetics.
+- [omarchy-blackmoney-theme](https://github.com/HANCORE-linux/omarchy-blackmoney-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-blackmoney-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-blackmoney-theme/stargazers) - Bold midnight theme with rich green-gold accents.
+- [omarchy-blackturq-theme](https://github.com/HANCORE-linux/omarchy-blackturq-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-blackturq-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-blackturq-theme/stargazers) - Black turquoise theme based on Evo80 keyboard color pattern.
+- [omarchy-blueridge-dark-theme](https://github.com/hipsterusername/omarchy-blueridge-dark-theme) [![GitHub stars](https://img.shields.io/github/stars/hipsterusername/omarchy-blueridge-dark-theme?style=flat)](https://github.com/hipsterusername/omarchy-blueridge-dark-theme/stargazers) - Dark theme inspired by mountain ridge aesthetics.
+- [omarchy-cobalt2-theme](https://github.com/hoblin/omarchy-cobalt2-theme) [![GitHub stars](https://img.shields.io/github/stars/hoblin/omarchy-cobalt2-theme?style=flat)](https://github.com/hoblin/omarchy-cobalt2-theme/stargazers) - Cobalt2 theme inspired by the iconic VSCode theme.
+- [omarchy-crimson-gold-theme](https://github.com/knappkevin/omarchy-crimson-gold-theme) [![GitHub stars](https://img.shields.io/github/stars/knappkevin/omarchy-crimson-gold-theme?style=flat)](https://github.com/knappkevin/omarchy-crimson-gold-theme/stargazers) - Luxurious crimson and gold color combination.
+- [omarchy-doom-theme](https://github.com/AX200M/omarchy-doom-theme) [![GitHub stars](https://img.shields.io/github/stars/AX200M/omarchy-doom-theme?style=flat)](https://github.com/AX200M/omarchy-doom-theme/stargazers) - Material theme inspired by MF DOOM wallpaper.
+- [omarchy-dracula-theme](https://github.com/catlee/omarchy-dracula-theme) [![GitHub stars](https://img.shields.io/github/stars/catlee/omarchy-dracula-theme?style=flat)](https://github.com/catlee/omarchy-dracula-theme/stargazers) - Popular Dracula theme adaptation.
+- [omarchy-delorean-theme](https://github.com/jbnunn/omarchy-delorean-theme) [![GitHub stars](https://img.shields.io/github/stars/jbnunn/omarchy-delorean-theme?style=flat)](https://github.com/jbnunn/omarchy-delorean-theme/stargazers) - Retro-inspired time traveler's theme.
+- [omarchy-ember-n-ash-theme](https://github.com/Hydradevx/omarchy-ember-n-ash-theme) [![GitHub stars](https://img.shields.io/github/stars/Hydradevx/omarchy-ember-n-ash-theme?style=flat)](https://github.com/Hydradevx/omarchy-ember-n-ash-theme/stargazers) - Warm ember orange and ash gray color combination.
+- [omarchy-elysian-theme](https://github.com/bjarneo/omarchy-elysian-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-elysian-theme?style=flat)](https://github.com/bjarneo/omarchy-elysian-theme/stargazers) - Mythical forest theme with golden-green light and high-contrast workspace.
+- [omarchy-everblush-theme](https://github.com/Swarnim114/omarchy-everblush-theme) [![GitHub stars](https://img.shields.io/github/stars/Swarnim114/omarchy-everblush-theme?style=flat)](https://github.com/Swarnim114/omarchy-everblush-theme/stargazers) - Everblush color scheme adaptation.
+- [omarchy-evergarden-theme](https://github.com/celsobenedetti/omarchy-evergarden) [![GitHub stars](https://img.shields.io/github/stars/celsobenedetti/omarchy-evergarden?style=flat)](https://github.com/celsobenedetti/omarchy-evergarden/stargazers) - Evergarden theme with lush greens and soft pastels.
+- [omarchy-felix-theme](https://github.com/TyRichards/omarchy-felix-theme) [![GitHub stars](https://img.shields.io/github/stars/TyRichards/omarchy-felix-theme?style=flat)](https://github.com/TyRichards/omarchy-felix-theme/stargazers) - Clean theme with balanced colors and modern design.
+- [omarchy-fiery-ocean-theme](https://github.com/bjarneo/omarchy-fiery-ocean-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-fiery-ocean-theme?style=flat)](https://github.com/bjarneo/omarchy-fiery-ocean-theme/stargazers) - Fiery Ocean theme with vibrant aquatic colors.
+- [omarchy-flexoki-dark-theme](https://github.com/euandeas/omarchy-flexoki-dark-theme) [![GitHub stars](https://img.shields.io/github/stars/euandeas/omarchy-flexoki-dark-theme?style=flat)](https://github.com/euandeas/omarchy-flexoki-dark-theme/stargazers) - Flexoki color palette adaptation.
+- [omarchy-flexoki-light-theme](https://github.com/euandeas/omarchy-flexoki-light-theme) [![GitHub stars](https://img.shields.io/github/stars/euandeas/omarchy-flexoki-light-theme?style=flat)](https://github.com/euandeas/omarchy-flexoki-light-theme/stargazers) - Light version of Flexoki color palette.
+- [omarchy-forest-green-theme](https://github.com/abhijeet-swami/omarchy-forest-green-theme) [![GitHub stars](https://img.shields.io/github/stars/abhijeet-swami/omarchy-forest-green-theme?style=flat)](https://github.com/abhijeet-swami/omarchy-forest-green-theme/stargazers) - Nature-inspired forest green color scheme.
+- [omarchy-frutiger-aero](https://github.com/VECTORG99/omarchy-frutiger-aero) [![GitHub stars](https://img.shields.io/github/stars/VECTORG99/omarchy-frutiger-aero?style=flat)](https://github.com/VECTORG99/omarchy-frutiger-aero/stargazers) - Frutiger Aero theme with 6 EWW desktop widgets, liquid glass aesthetics, celestial gradients, and light/dark support.
+- [omarchy-futurism-theme](https://github.com/bjarneo/omarchy-futurism-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-futurism-theme?style=flat)](https://github.com/bjarneo/omarchy-futurism-theme/stargazers) - Futuristic theme with modern aesthetics.
+- [omarchy-gold-rush-theme](https://github.com/tahayvr/omarchy-gold-rush-theme) [![GitHub stars](https://img.shields.io/github/stars/tahayvr/omarchy-gold-rush-theme?style=flat)](https://github.com/tahayvr/omarchy-gold-rush-theme/stargazers) - Luxurious gold-themed color scheme.
+- [omarchy-gtk-theme](https://github.com/bjarneo/omarchy-gtk-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-gtk-theme?style=flat)](https://github.com/bjarneo/omarchy-gtk-theme/stargazers) - Universal GTK styling to match Omarchy across applications.
+- [omarchy-green-garden-theme](https://github.com/kalk-ak/omarchy-green-garden-theme) [![GitHub stars](https://img.shields.io/github/stars/kalk-ak/omarchy-green-garden-theme?style=flat)](https://github.com/kalk-ak/omarchy-green-garden-theme/stargazers) - Fresh and calming theme inspired by nature with vibrant yet soothing green tones.
+- [omarchy-harbor-theme](https://github.com/HANCORE-linux/omarchy-harbor-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-harbor-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-harbor-theme/stargazers) - Calm, paper-light color scheme with cool ink accents inspired by Nordic tones.
+- [omarchy-harbordark-theme](https://github.com/HANCORE-linux/omarchy-harbordark-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-harbordark-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-harbordark-theme/stargazers) - Dark version of Harbor theme with deep tones and cool accents.
+- [omarchy-hollow-knight-theme](https://github.com/bjarneo/omarchy-hollow-knight-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-hollow-knight-theme?style=flat)](https://github.com/bjarneo/omarchy-hollow-knight-theme/stargazers) - Hollow Knight inspired theme with gaming aesthetics.
+- [omarchy-hook-theme-set-ex](https://github.com/imbypass/omarchy-hook-theme-set-ex) [![GitHub stars](https://img.shields.io/github/stars/imbypass/omarchy-hook-theme-set-ex?style=flat)](https://github.com/imbypass/omarchy-hook-theme-set-ex/stargazers) - Modular interpretation of the Omarchy theme-set hook.
+- [omarchy-inkypinky-theme](https://github.com/HANCORE-linux/omarchy-inkypinky-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-inkypinky-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-inkypinky-theme/stargazers) - Bold meets blush in a swirl of creative elegance.
+- [omarchy-kimiko-theme](https://github.com/krymzonn/omarchy-kimiko-theme) [![GitHub stars](https://img.shields.io/github/stars/krymzonn/omarchy-kimiko-theme?style=flat)](https://github.com/krymzonn/omarchy-kimiko-theme/stargazers) - Elegant theme with Japanese-inspired aesthetics.
+- [omarchy-mars-theme](https://github.com/steve-lohmeyer/omarchy-mars-theme) [![GitHub stars](https://img.shields.io/github/stars/steve-lohmeyer/omarchy-mars-theme?style=flat)](https://github.com/steve-lohmeyer/omarchy-mars-theme/stargazers) - Mars-inspired red theme.
+- [omarchy-mechanoonna-theme](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-mechanoonna-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme/stargazers) - Mecha no Onna (メカの女) the "Metal Woman" theme.
+- [omarchy-matte-black](https://github.com/tahayvr/omarchy-matte-black) [![GitHub stars](https://img.shields.io/github/stars/tahayvr/omarchy-matte-black?style=flat)](https://github.com/tahayvr/omarchy-matte-black/stargazers) - Sleek matte black theme for minimalists.
+- [omarchy-midnight-theme](https://github.com/JaxonWright/omarchy-midnight-theme) [![GitHub stars](https://img.shields.io/github/stars/JaxonWright/omarchy-midnight-theme?style=flat)](https://github.com/JaxonWright/omarchy-midnight-theme/stargazers) - Dark midnight theme optimized for OLED displays.
+- [omarchy-milkmatcha-light-theme](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme) [![GitHub stars](https://img.shields.io/github/stars/hipsterusername/omarchy-milkmatcha-light-theme?style=flat)](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme/stargazers) - Light theme with soft matcha green and creamy colors.
+- [omarchy-monochrome-theme](https://github.com/Swarnim114/omarchy-monochrome-theme) [![GitHub stars](https://img.shields.io/github/stars/Swarnim114/omarchy-monochrome-theme?style=flat)](https://github.com/Swarnim114/omarchy-monochrome-theme/stargazers) - Clean monochrome design.
+- [omarchy-moodpeak-theme](https://github.com/HANCORE-linux/omarchy-moodpeak-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-moodpeak-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-moodpeak-theme/stargazers) - Mood-lifting theme designed to pull you back to peak focus.
+- [omarchy-nes-theme](https://github.com/bjarneo/omarchy-nes-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-nes-theme?style=flat)](https://github.com/bjarneo/omarchy-nes-theme/stargazers) - Retro NES theme with nostalgic gaming aesthetics.
+- [omarchy-nagai-twilight-theme](https://github.com/somerocketeer/omarchy-nagai-twilight-theme) [![GitHub stars](https://img.shields.io/github/stars/somerocketeer/omarchy-nagai-twilight-theme?style=flat)](https://github.com/somerocketeer/omarchy-nagai-twilight-theme/stargazers) - Twilight-inspired theme with elegant color transitions.
+- [omarchy-one-dark-pro-theme](https://github.com/sc0ttman/omarchy-one-dark-pro) [![GitHub stars](https://img.shields.io/github/stars/sc0ttman/omarchy-one-dark-pro?style=flat)](https://github.com/sc0ttman/omarchy-one-dark-pro/stargazers) - One Dark Pro color scheme adaptation.
+- [omarchy-osaka-jade-theme](https://github.com/Justikun/omarchy-osaka-jade-theme) [![GitHub stars](https://img.shields.io/github/stars/Justikun/omarchy-osaka-jade-theme?style=flat)](https://github.com/Justikun/omarchy-osaka-jade-theme/stargazers) - Elegant jade-colored theme inspired by Osaka aesthetics.
+- [omarchy-purplewave-theme](https://github.com/dotsilva/omarchy-purplewave-theme) [![GitHub stars](https://img.shields.io/github/stars/dotsilva/omarchy-purplewave-theme?style=flat)](https://github.com/dotsilva/omarchy-purplewave-theme/stargazers) - Purple wave-inspired theme with elegant purple tones.
+- [omarchy-retropc-theme](https://github.com/rondilley/omarchy-retropc-theme) [![GitHub stars](https://img.shields.io/github/stars/rondilley/omarchy-retropc-theme?style=flat)](https://github.com/rondilley/omarchy-retropc-theme/stargazers) - Nostalgic retro PC theme with vintage computing aesthetics.
+- [omarchy-retro-fallout-theme](https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme) [![GitHub stars](https://img.shields.io/github/stars/zdravkodanailov7/omarchy-retro-fallout-theme?style=flat)](https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme/stargazers) - Post-apocalyptic theme with Vault-inspired colors and Fallout-themed styling.
+- [omarchy-rose-pine-dark](https://github.com/guilhermetk/omarchy-rose-pine-dark) [![GitHub stars](https://img.shields.io/github/stars/guilhermetk/omarchy-rose-pine-dark?style=flat)](https://github.com/guilhermetk/omarchy-rose-pine-dark/stargazers) - Rose Pine inspired dark theme.
+- [omarchy-serenity-theme](https://github.com/bjarneo/omarchy-serenity-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-serenity-theme?style=flat)](https://github.com/bjarneo/omarchy-serenity-theme/stargazers) - Serenity theme with calm and peaceful color scheme.
+- [omarchy-shadesofjade-theme](https://github.com/HANCORE-linux/omarchy-shadesofjade-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-shadesofjade-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-shadesofjade-theme/stargazers) - Serene green-toned theme.
+- [omarchy-snow-theme](https://github.com/bjarneo/omarchy-snow-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-snow-theme?style=flat)](https://github.com/bjarneo/omarchy-snow-theme/stargazers) - Snow theme with clean winter-inspired aesthetics.
+- [omarchy-solarized-light-theme](https://github.com/dfrico/omarchy-solarized-light-theme) [![GitHub stars](https://img.shields.io/github/stars/dfrico/omarchy-solarized-light-theme?style=flat)](https://github.com/dfrico/omarchy-solarized-light-theme/stargazers) - Light version of Solarized color scheme.
+- [omarchy-solarized-osaka-theme](https://github.com/motorsss/omarchy-solarizedosaka-theme) [![GitHub stars](https://img.shields.io/github/stars/motorsss/omarchy-solarizedosaka-theme?style=flat)](https://github.com/motorsss/omarchy-solarizedosaka-theme/stargazers) - Solarized theme with Osaka-inspired modifications.
+- [omarchy-solarized-theme](https://github.com/Gazler/omarchy-solarized-theme) [![GitHub stars](https://img.shields.io/github/stars/Gazler/omarchy-solarized-theme?style=flat)](https://github.com/Gazler/omarchy-solarized-theme/stargazers) - Classic Solarized color scheme adaptation.
+- [omarchy-space-monkey-theme](https://github.com/TyRichards/omarchy-space-monkey-theme) [![GitHub stars](https://img.shields.io/github/stars/TyRichards/omarchy-space-monkey-theme?style=flat)](https://github.com/TyRichards/omarchy-space-monkey-theme/stargazers) - Space-inspired theme with cosmic elements.
+- [omarchy-spectra-theme](https://github.com/abhijeet-swami/omarchy-spectra-theme) [![GitHub stars](https://img.shields.io/github/stars/abhijeet-swami/omarchy-spectra-theme?style=flat)](https://github.com/abhijeet-swami/omarchy-spectra-theme/stargazers) - Blur and transparency theme that adapts to any wallpaper.
+- [omarchy-sunset-drive-theme](https://github.com/tahayvr/omarchy-sunset-drive-theme) [![GitHub stars](https://img.shields.io/github/stars/tahayvr/omarchy-sunset-drive-theme?style=flat)](https://github.com/tahayvr/omarchy-sunset-drive-theme/stargazers) - Sunset-inspired theme with warm gradients.
+- [omarchy-synthwave84-theme](https://github.com/omacom-io/omarchy-synthwave84-theme) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-synthwave84-theme?style=flat)](https://github.com/omacom-io/omarchy-synthwave84-theme/stargazers) - Synthwave 84 inspired theme with retro aesthetics.
+- [omarchy-thegreek-theme](https://github.com/HANCORE-linux/omarchy-thegreek-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-thegreek-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-thegreek-theme/stargazers) - Sleek, strategic spy theme blending classic espionage with modern intrigue.
+- [omarchy-velocity-theme](https://github.com/perfektnacht/omarchy-velocity-theme) [![GitHub stars](https://img.shields.io/github/stars/perfektnacht/omarchy-velocity-theme?style=flat)](https://github.com/perfektnacht/omarchy-velocity-theme/stargazers) - Dynamic theme with speed-inspired design elements.
+- [omarchy-velvetnight-theme](https://github.com/HANCORE-linux/omarchy-velvetnight-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-velvetnight-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-velvetnight-theme/stargazers) - Dark, night-inspired theme with soft contrasts and subtle glimmers.
+- [omarchy-vesper-theme](https://github.com/thmoee/omarchy-vesper-theme) [![GitHub stars](https://img.shields.io/github/stars/thmoee/omarchy-vesper-theme?style=flat)](https://github.com/thmoee/omarchy-vesper-theme/stargazers) - Dark theme with warm vesper-orange highlights.
+- [omarchy-vhs80-theme](https://github.com/tahayvr/omarchy-vhs80-theme) [![GitHub stars](https://img.shields.io/github/stars/tahayvr/omarchy-vhs80-theme?style=flat)](https://github.com/tahayvr/omarchy-vhs80-theme/stargazers) - Retro VHS-inspired theme with 80s aesthetics and neon colors.
+- [omarchy-void-theme](https://github.com/vyrx-dev/omarchy-void-theme.git) [![GitHub stars](https://img.shields.io/github/stars/vyrx-dev/omarchy-void-theme.git?style=flat)](https://github.com/vyrx-dev/omarchy-void-theme.git/stargazers) - Low-contrast purple theme with soft accents for a calm UI.
+- [omarchy-wasteland-theme](https://github.com/perfektnacht/omarchy-wasteland-theme) [![GitHub stars](https://img.shields.io/github/stars/perfektnacht/omarchy-wasteland-theme?style=flat)](https://github.com/perfektnacht/omarchy-wasteland-theme/stargazers) - Post-apocalyptic wasteland-inspired color scheme.
+- [omarchy-whitegold-theme](https://github.com/HANCORE-linux/omarchy-whitegold-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-whitegold-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-whitegold-theme/stargazers) - Light and elegance intertwined with gold accents.
+- [omarchy-waveform-dark-theme](https://github.com/hipsterusername/omarchy-waveform-dark-theme) [![GitHub stars](https://img.shields.io/github/stars/hipsterusername/omarchy-waveform-dark-theme?style=flat)](https://github.com/hipsterusername/omarchy-waveform-dark-theme/stargazers) - Dark theme with waveform-inspired design patterns.
+- [omarchy-motivator-theme](https://github.com/rondilley/omarchy-motivator-theme) [![GitHub stars](https://img.shields.io/github/stars/rondilley/omarchy-motivator-theme?style=flat)](https://github.com/rondilley/omarchy-motivator-theme/stargazers) - Omarchy Theme for maximum motivation.
+- [omarchy-archriot-theme](https://github.com/CyphrRiot/omarchy-archriot-theme) [![GitHub stars](https://img.shields.io/github/stars/CyphrRiot/omarchy-archriot-theme?style=flat)](https://github.com/CyphrRiot/omarchy-archriot-theme/stargazers) - ArchRiot theme for Omarchy by CyphrRiot.
+- [omarchy-arc-blueberry](https://github.com/vale-c/omarchy-arc-blueberry) [![GitHub stars](https://img.shields.io/github/stars/vale-c/omarchy-arc-blueberry?style=flat)](https://github.com/vale-c/omarchy-arc-blueberry/stargazers) - Arc Blueberry inspired colors tailored for Omarchy.
+- [omarchy-ayu-dark-theme](https://github.com/fdidron/omarchy-ayu-dark-theme) [![GitHub stars](https://img.shields.io/github/stars/fdidron/omarchy-ayu-dark-theme?style=flat)](https://github.com/fdidron/omarchy-ayu-dark-theme/stargazers) - Omarchy Ayu Dark Theme.
+- [omarchy-ayu-light-theme](https://github.com/fdidron/omarchy-ayu-light-theme) [![GitHub stars](https://img.shields.io/github/stars/fdidron/omarchy-ayu-light-theme?style=flat)](https://github.com/fdidron/omarchy-ayu-light-theme/stargazers) - Omarchy Ayu Light Theme.
+- [omarchy-github-light-theme](https://github.com/ryanyogan/omarchy-github-light-theme) [![GitHub stars](https://img.shields.io/github/stars/ryanyogan/omarchy-github-light-theme?style=flat)](https://github.com/ryanyogan/omarchy-github-light-theme/stargazers) - GitHub Light theme adaptation.
+- [omarchy-night-owl-theme](https://github.com/maxberggren/omarchy-night-owl-theme) [![GitHub stars](https://img.shields.io/github/stars/maxberggren/omarchy-night-owl-theme?style=flat)](https://github.com/maxberggren/omarchy-night-owl-theme/stargazers) - Dark blue night owl theme for Omarchy.
+- [omarchy-catppuccin-mocha-theme](https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme) [![GitHub stars](https://img.shields.io/github/stars/KidDogDad/omarchy-catppuccin-mocha-theme?style=flat)](https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme/stargazers) - Catppuccin Mocha theme for Omarchy.
+- [omarchy-kanagawa-dragon-theme](https://github.com/MrTrigger/omarchy-kanagawa-dragon-theme) [![GitHub stars](https://img.shields.io/github/stars/MrTrigger/omarchy-kanagawa-dragon-theme?style=flat)](https://github.com/MrTrigger/omarchy-kanagawa-dragon-theme/stargazers) - Kanagawa Dragon theme adaptation.
+- [omarchy-monokai-dark-theme](https://github.com/ericrswanny/omarchy-monokai-dark-theme) [![GitHub stars](https://img.shields.io/github/stars/ericrswanny/omarchy-monokai-dark-theme?style=flat)](https://github.com/ericrswanny/omarchy-monokai-dark-theme/stargazers) - Monokai inspired dark theme.
+- [omarchy-monokai-theme](https://github.com/bjarneo/omarchy-monokai-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-monokai-theme?style=flat)](https://github.com/bjarneo/omarchy-monokai-theme/stargazers) - High-contrast Monokai Pro inspired variant.
+- [omarchy-obsidian-theme](https://github.com/Hydradevx/omarchy-obsidian-theme) [![GitHub stars](https://img.shields.io/github/stars/Hydradevx/omarchy-obsidian-theme?style=flat)](https://github.com/Hydradevx/omarchy-obsidian-theme/stargazers) - Obsidian-inspired dark theme.
+- [omarchy-rose-pine-dawn-theme](https://github.com/ryanyogan/omarchy-rose-pine-dawn-theme) [![GitHub stars](https://img.shields.io/github/stars/ryanyogan/omarchy-rose-pine-dawn-theme?style=flat)](https://github.com/ryanyogan/omarchy-rose-pine-dawn-theme/stargazers) - Rose Pine Dawn light theme.
+- [omarchy-rose-pine](https://github.com/guilhermetk/omarchy-rose-pine) [![GitHub stars](https://img.shields.io/github/stars/guilhermetk/omarchy-rose-pine?style=flat)](https://github.com/guilhermetk/omarchy-rose-pine/stargazers) - Rose Pine theme for Omarchy.
+- [omarchy-anonymous-theme](https://github.com/j4v3l/omarchy-anonymous-theme) [![GitHub stars](https://img.shields.io/github/stars/j4v3l/omarchy-anonymous-theme?style=flat)](https://github.com/j4v3l/omarchy-anonymous-theme/stargazers) - Minimalist monochrome modern theme.
+- [omarchy-firesky-theme](https://github.com/bjarneo/omarchy-firesky-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-firesky-theme?style=flat)](https://github.com/bjarneo/omarchy-firesky-theme/stargazers) - Fire-lit sky inspired theme for deep focus.
+- [omarchy-wood-theme](https://github.com/bjarneo/omarchy-wood-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-wood-theme?style=flat)](https://github.com/bjarneo/omarchy-wood-theme/stargazers) - Natural wood-inspired theme.
+- [omarchy-pulsar-theme](https://github.com/bjarneo/omarchy-pulsar-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-pulsar-theme?style=flat)](https://github.com/bjarneo/omarchy-pulsar-theme/stargazers) - Vibrant, cosmic-inspired dark theme for Omarchy that captures the brilliant energy of neutron stars.
+- [omarchy-pina-theme](https://github.com/bjarneo/omarchy-pina-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-pina-theme?style=flat)](https://github.com/bjarneo/omarchy-pina-theme/stargazers) - Tropical pineapple-inspired palette with warm accents.
+- [pink-blood-omarchy-theme](https://github.com/ITSZXY/pink-blood-omarchy-theme) [![GitHub stars](https://img.shields.io/github/stars/ITSZXY/pink-blood-omarchy-theme?style=flat)](https://github.com/ITSZXY/pink-blood-omarchy-theme/stargazers) - Bold pink-themed design.
+- [omarchy-reverie-theme](https://github.com/bjarneo/omarchy-reverie-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-reverie-theme?style=flat)](https://github.com/bjarneo/omarchy-reverie-theme/stargazers) - Simple, elegant, dark theme for Omarchy designed for deep focus.
+- [omarchy-sakura-theme](https://github.com/bjarneo/omarchy-sakura-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-sakura-theme?style=flat)](https://github.com/bjarneo/omarchy-sakura-theme/stargazers) - Elegant, high-contrast theme inspired by the delicate beauty of cherry blossoms.
+- [omarchy-sapphire-theme](https://github.com/HANCORE-linux/omarchy-sapphire-theme) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/omarchy-sapphire-theme?style=flat)](https://github.com/HANCORE-linux/omarchy-sapphire-theme/stargazers) - Vivid blue theme with rich accents.
+- [omarchy-fireside-theme](https://github.com/bjarneo/omarchy-fireside-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-fireside-theme?style=flat)](https://github.com/bjarneo/omarchy-fireside-theme/stargazers) - Warm, cozy theme inspired by the gentle glow of a crackling fire.
+- [omarchy-frost-theme](https://github.com/bjarneo/omarchy-frost-theme) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/omarchy-frost-theme?style=flat)](https://github.com/bjarneo/omarchy-frost-theme/stargazers) - Simple, elegant theme inspired by the serene beauty of frost patterns.
+- [omarchy-pure-latin-theme](https://github.com/daurydicaprio/omarchy-pure-latin-theme) [![GitHub stars](https://img.shields.io/github/stars/daurydicaprio/omarchy-pure-latin-theme?style=flat)](https://github.com/daurydicaprio/omarchy-pure-latin-theme/stargazers) - Custom theme for Omarchy Linux.
+- [omarchy-tycho](https://github.com/leonardobetti/omarchy-tycho) [![GitHub stars](https://img.shields.io/github/stars/leonardobetti/omarchy-tycho?style=flat)](https://github.com/leonardobetti/omarchy-tycho/stargazers) - Minimalist pastel theme inspired by musician Tycho's aesthetics.
+- [omarchy-c64-theme](https://github.com/scar45/omarchy-c64-theme) [![GitHub stars](https://img.shields.io/github/stars/scar45/omarchy-c64-theme?style=flat)](https://github.com/scar45/omarchy-c64-theme/stargazers) - C64-inspired retro theme for Omarchy.
+- [F1-omarchy](https://github.com/999Gabriel/F1-omarchy) [![GitHub stars](https://img.shields.io/github/stars/999Gabriel/F1-omarchy?style=flat)](https://github.com/999Gabriel/F1-omarchy/stargazers) - Formula 1 inspired Omarchy layout with racing telemetry flair.
+- [dracula/omarchy](https://github.com/dracula/omarchy) [![GitHub stars](https://img.shields.io/github/stars/dracula/omarchy?style=flat)](https://github.com/dracula/omarchy/stargazers) - Official Dracula theme for Omarchy.
 
 ## Development Tools
 
-- [awesome-omarchy-tui](https://github.com/aorumbayev/awesome-omarchy-tui) - Terminal UI for browsing awesome-omarchy repository content.
-- [omaclip](https://github.com/rhemvi/omaclip) - A clipboard manager with cross-device sync and hot theme reloading.
-- [omarchy-ai](https://github.com/mitkox/omarchy-ai) - AI-powered enhancements and tools for Omarchy.
-- [omarchy-iso](https://github.com/omacom-io/omarchy-iso) - Custom ISO builder for Omarchy installations.
-- [omarchy-box](https://github.com/dylanbr/omarchy-box) - Containerized Omarchy environment.
-- [omarchy-chromium](https://github.com/omacom-io/omarchy-chromium) - Chromium browser integration and optimizations for Omarchy.
-- [omarchy-configurator](https://github.com/omacom-io/omarchy-configurator) - Configuration management tool for Omarchy.
-- [omarchy-installer](https://github.com/omacom-io/omarchy-installer) - Enhanced installation utilities and scripts for Omarchy setup.
-- [omarchy-themes-generator](https://github.com/hipsterusername/omarchy-themes-generator) - Tool for generating custom Omarchy themes.
-- [omarchy-theme-generator](https://github.com/maxberggren/omarchy-theme-generator) - Alternative theme generation utility.
-- [aether](https://github.com/bjarneo/aether) - Desktop theming toolkit that streamlines crafting Omarchy themes.
-- [tema](https://github.com/bjarneo/tema) - Modern Omarchy theming UI with live previews and presets.
-- [omarchy-tmux](https://github.com/joaofelipegalvao/omarchy-tmux) - Tmux status bar themes styled to match Omarchy.
-- [omarchy-migrate](https://github.com/CyphrRiot/Migrate) - Stunningly beautiful terminal backup and restore tool written in Pure Go.
-- [Neovim-theme-switcher](https://github.com/HectorBjernersjo/Neovim-theme-switcher) - Lightweight theme switcher for Neovim compatible with Omarchy.
-- [omarchy-material-waybar](https://github.com/thatmechguy/omarchy-material-waybar) - Material design style Waybar configuration for Hyprland.
-- [omarchy-monitor-settings](https://github.com/ryanyogan/omarchy-monitor-settings) - Omarchy Monitor Settings TUI.
-- [Pacsea](https://github.com/Firstp1ck/Pacsea) - Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.
-- [omarchy-waybar](https://github.com/timmo001/omarchy-waybar) - Omarchy Waybar configuration and customizations.
-- [waybar-themes](https://github.com/HANCORE-linux/waybar-themes) - Collection of Waybar themes with various styles and combinations for Omarchy.
-- [omarchy-hypr](https://github.com/timmo001/omarchy-hypr) - Omarchy Hyprland configuration files and settings.
-- [OMARCHY-VM-UTM](https://github.com/hjanuschka/OMARCHY-VM-UTM) - OMARCHY VM for UTM - Pre-configured Arch Linux virtual machine.
-- [omarchy-workspace-mover](https://github.com/jonashan/omarchy-workspace-mover) - A Omarchy plugin for moving workspaces between monitors.
-- [omarchy-wireguard-vpn-toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) - WireGuard VPN toggle for Omarchy's Waybar.
-- [omarchy-vpn](https://github.com/limehawk/omarchy-vpn) - WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.
-- [omazed](https://github.com/APS6/omazed) - Live theme switching for Zed editor in Omarchy.
-- [flutter_omarchy](https://github.com/aloisdeniel/flutter_omarchy) - Develop Flutter apps for Omarchy.
-- [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) - Official Omarchy packages and utilities.
-- [omarchy-cheat-sheet](https://github.com/acrogenesis/omarchy-cheat-sheet) - Quick reference guide for Omarchy commands and shortcuts.
-- [omarchy-theme-builder](https://github.com/gitcoder89431/omarchy-theme-builder) - Interactive, real-time theme builder for Omarchy.
-- [omarchy-theme-builder](https://github.com/jg-k/omarchy-theme-builder) - Advanced theme building tool for Omarchy.
-- [FW12Rotate](https://github.com/2disbetter/FW12Rotate) - Framework 12 rotation application specifically for Omarchy Linux.
-- [JaimeStill/omarchy-theme-generator](https://github.com/JaimeStill/omarchy-theme-generator) - Generate Omarchy themes based on images.
-- [omarchist](https://github.com/tahayvr/omarchist) - GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.
-- [omarchy-enhanced-bindings](https://github.com/nemuiyarou/omarchy-enhanced-bindings) - Enhanced keyboard bindings for Omarchy.
-- [Adsovetzky-Omarchy-s-Waybar](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar) - Custom Waybar configurations for Omarchy.
-- [omarchy-gui](https://github.com/amanat361/omarchy-gui) - GUI tools for Omarchy configuration.
-- [hyprmon](https://github.com/erans/hyprmon) - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.
-- [hyprmarker](https://github.com/devmobasa/hyprmarker) - ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.
-- [hypruler](https://github.com/t4t5/hypruler) - Measure anything on your screen. Inspired by PixelSnap for Mac.
-- [omarchy-cleaner](https://github.com/maxart/omarchy-cleaner) - Quickly and easily remove pre-installed apps and webapps.
-- [clipboard-manager](https://github.com/Grenish/clipboard-manager) - Windows-like clipboard manager for Omarchy.
-- [edit](https://github.com/mirarr-app/editt) - Beautiful image viewer and editor with Omarchy styling support.
-- [omarchy-speech-to-text](https://github.com/michabbb/omarchy-speech-to-text) - Whisper-backed speech-to-text integrations for Omarchy.
-- [omarchy-steam-gaming-mode](https://github.com/cephalization/omarchy-steam-gaming-mode) - Steam Deck-like gaming experience for Omarchy.
-- [live-wallpaper-for-omarchy-linux](https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux) - A robust script to manage and cycle through live video wallpapers on Omarchy/Hyprland.
-- [omarchy-calculator](https://github.com/aloisdeniel/omarchy_calculator) - Official Omarchy calculator application built with Flutter.
-- [manual-nas-backup-tool](https://github.com/daurydicaprio/manual-nas-backup-tool) - A simple script to make incremental copies, encrypted or not.
-- [omarchy-monitor-toggle](https://github.com/daurydicaprio/omarchy-monitor-toggle) - Tools for automating monitor power management within Omarchy.
-- [hyprBluetooth](https://github.com/magudb/hyprBluetooth) - Bluetoothctl-powered TUI for quickly pairing devices on Omarchy.
-- [omarchpods](https://github.com/tomycostantino/omarchpods) - TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.
-- [wayscriber](https://github.com/devmobasa/wayscriber) - Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.
-- [lazyVPN-for-Omarchy](https://github.com/blank-query/lazyVPN-for-Omarchy) - A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.
+- [awesome-omarchy-tui](https://github.com/aorumbayev/awesome-omarchy-tui) [![GitHub stars](https://img.shields.io/github/stars/aorumbayev/awesome-omarchy-tui?style=flat)](https://github.com/aorumbayev/awesome-omarchy-tui/stargazers) - Terminal UI for browsing awesome-omarchy repository content.
+- [omaclip](https://github.com/rhemvi/omaclip) [![GitHub stars](https://img.shields.io/github/stars/rhemvi/omaclip?style=flat)](https://github.com/rhemvi/omaclip/stargazers) - A clipboard manager with cross-device sync and hot theme reloading.
+- [omarchy-ai](https://github.com/mitkox/omarchy-ai) [![GitHub stars](https://img.shields.io/github/stars/mitkox/omarchy-ai?style=flat)](https://github.com/mitkox/omarchy-ai/stargazers) - AI-powered enhancements and tools for Omarchy.
+- [omarchy-iso](https://github.com/omacom-io/omarchy-iso) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-iso?style=flat)](https://github.com/omacom-io/omarchy-iso/stargazers) - Custom ISO builder for Omarchy installations.
+- [omarchy-box](https://github.com/dylanbr/omarchy-box) [![GitHub stars](https://img.shields.io/github/stars/dylanbr/omarchy-box?style=flat)](https://github.com/dylanbr/omarchy-box/stargazers) - Containerized Omarchy environment.
+- [omarchy-chromium](https://github.com/omacom-io/omarchy-chromium) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-chromium?style=flat)](https://github.com/omacom-io/omarchy-chromium/stargazers) - Chromium browser integration and optimizations for Omarchy.
+- [omarchy-configurator](https://github.com/omacom-io/omarchy-configurator) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-configurator?style=flat)](https://github.com/omacom-io/omarchy-configurator/stargazers) - Configuration management tool for Omarchy.
+- [omarchy-installer](https://github.com/omacom-io/omarchy-installer) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-installer?style=flat)](https://github.com/omacom-io/omarchy-installer/stargazers) - Enhanced installation utilities and scripts for Omarchy setup.
+- [omarchy-themes-generator](https://github.com/hipsterusername/omarchy-themes-generator) [![GitHub stars](https://img.shields.io/github/stars/hipsterusername/omarchy-themes-generator?style=flat)](https://github.com/hipsterusername/omarchy-themes-generator/stargazers) - Tool for generating custom Omarchy themes.
+- [omarchy-theme-generator](https://github.com/maxberggren/omarchy-theme-generator) [![GitHub stars](https://img.shields.io/github/stars/maxberggren/omarchy-theme-generator?style=flat)](https://github.com/maxberggren/omarchy-theme-generator/stargazers) - Alternative theme generation utility.
+- [aether](https://github.com/bjarneo/aether) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/aether?style=flat)](https://github.com/bjarneo/aether/stargazers) - Desktop theming toolkit that streamlines crafting Omarchy themes.
+- [tema](https://github.com/bjarneo/tema) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/tema?style=flat)](https://github.com/bjarneo/tema/stargazers) - Modern Omarchy theming UI with live previews and presets.
+- [omarchy-tmux](https://github.com/joaofelipegalvao/omarchy-tmux) [![GitHub stars](https://img.shields.io/github/stars/joaofelipegalvao/omarchy-tmux?style=flat)](https://github.com/joaofelipegalvao/omarchy-tmux/stargazers) - Tmux status bar themes styled to match Omarchy.
+- [omarchy-migrate](https://github.com/CyphrRiot/Migrate) [![GitHub stars](https://img.shields.io/github/stars/CyphrRiot/Migrate?style=flat)](https://github.com/CyphrRiot/Migrate/stargazers) - Stunningly beautiful terminal backup and restore tool written in Pure Go.
+- [Neovim-theme-switcher](https://github.com/HectorBjernersjo/Neovim-theme-switcher) [![GitHub stars](https://img.shields.io/github/stars/HectorBjernersjo/Neovim-theme-switcher?style=flat)](https://github.com/HectorBjernersjo/Neovim-theme-switcher/stargazers) - Lightweight theme switcher for Neovim compatible with Omarchy.
+- [omarchy-material-waybar](https://github.com/thatmechguy/omarchy-material-waybar) [![GitHub stars](https://img.shields.io/github/stars/thatmechguy/omarchy-material-waybar?style=flat)](https://github.com/thatmechguy/omarchy-material-waybar/stargazers) - Material design style Waybar configuration for Hyprland.
+- [omarchy-monitor-settings](https://github.com/ryanyogan/omarchy-monitor-settings) [![GitHub stars](https://img.shields.io/github/stars/ryanyogan/omarchy-monitor-settings?style=flat)](https://github.com/ryanyogan/omarchy-monitor-settings/stargazers) - Omarchy Monitor Settings TUI.
+- [Pacsea](https://github.com/Firstp1ck/Pacsea) [![GitHub stars](https://img.shields.io/github/stars/Firstp1ck/Pacsea?style=flat)](https://github.com/Firstp1ck/Pacsea/stargazers) - Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.
+- [omarchy-waybar](https://github.com/timmo001/omarchy-waybar) [![GitHub stars](https://img.shields.io/github/stars/timmo001/omarchy-waybar?style=flat)](https://github.com/timmo001/omarchy-waybar/stargazers) - Omarchy Waybar configuration and customizations.
+- [waybar-themes](https://github.com/HANCORE-linux/waybar-themes) [![GitHub stars](https://img.shields.io/github/stars/HANCORE-linux/waybar-themes?style=flat)](https://github.com/HANCORE-linux/waybar-themes/stargazers) - Collection of Waybar themes with various styles and combinations for Omarchy.
+- [omarchy-hypr](https://github.com/timmo001/omarchy-hypr) [![GitHub stars](https://img.shields.io/github/stars/timmo001/omarchy-hypr?style=flat)](https://github.com/timmo001/omarchy-hypr/stargazers) - Omarchy Hyprland configuration files and settings.
+- [OMARCHY-VM-UTM](https://github.com/hjanuschka/OMARCHY-VM-UTM) [![GitHub stars](https://img.shields.io/github/stars/hjanuschka/OMARCHY-VM-UTM?style=flat)](https://github.com/hjanuschka/OMARCHY-VM-UTM/stargazers) - OMARCHY VM for UTM - Pre-configured Arch Linux virtual machine.
+- [omarchy-workspace-mover](https://github.com/jonashan/omarchy-workspace-mover) [![GitHub stars](https://img.shields.io/github/stars/jonashan/omarchy-workspace-mover?style=flat)](https://github.com/jonashan/omarchy-workspace-mover/stargazers) - A Omarchy plugin for moving workspaces between monitors.
+- [omarchy-wireguard-vpn-toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) [![GitHub stars](https://img.shields.io/github/stars/JacobusXIII/omarchy-wireguard-vpn-toggle?style=flat)](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle/stargazers) - WireGuard VPN toggle for Omarchy's Waybar.
+- [omarchy-vpn](https://github.com/limehawk/omarchy-vpn) [![GitHub stars](https://img.shields.io/github/stars/limehawk/omarchy-vpn?style=flat)](https://github.com/limehawk/omarchy-vpn/stargazers) - WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.
+- [omazed](https://github.com/APS6/omazed) [![GitHub stars](https://img.shields.io/github/stars/APS6/omazed?style=flat)](https://github.com/APS6/omazed/stargazers) - Live theme switching for Zed editor in Omarchy.
+- [flutter_omarchy](https://github.com/aloisdeniel/flutter_omarchy) [![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/flutter_omarchy?style=flat)](https://github.com/aloisdeniel/flutter_omarchy/stargazers) - Develop Flutter apps for Omarchy.
+- [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-pkgs?style=flat)](https://github.com/omacom-io/omarchy-pkgs/stargazers) - Official Omarchy packages and utilities.
+- [omarchy-cheat-sheet](https://github.com/acrogenesis/omarchy-cheat-sheet) [![GitHub stars](https://img.shields.io/github/stars/acrogenesis/omarchy-cheat-sheet?style=flat)](https://github.com/acrogenesis/omarchy-cheat-sheet/stargazers) - Quick reference guide for Omarchy commands and shortcuts.
+- [omarchy-theme-builder](https://github.com/gitcoder89431/omarchy-theme-builder) [![GitHub stars](https://img.shields.io/github/stars/gitcoder89431/omarchy-theme-builder?style=flat)](https://github.com/gitcoder89431/omarchy-theme-builder/stargazers) - Interactive, real-time theme builder for Omarchy.
+- [omarchy-theme-builder](https://github.com/jg-k/omarchy-theme-builder) [![GitHub stars](https://img.shields.io/github/stars/jg-k/omarchy-theme-builder?style=flat)](https://github.com/jg-k/omarchy-theme-builder/stargazers) - Advanced theme building tool for Omarchy.
+- [FW12Rotate](https://github.com/2disbetter/FW12Rotate) [![GitHub stars](https://img.shields.io/github/stars/2disbetter/FW12Rotate?style=flat)](https://github.com/2disbetter/FW12Rotate/stargazers) - Framework 12 rotation application specifically for Omarchy Linux.
+- [JaimeStill/omarchy-theme-generator](https://github.com/JaimeStill/omarchy-theme-generator) [![GitHub stars](https://img.shields.io/github/stars/JaimeStill/omarchy-theme-generator?style=flat)](https://github.com/JaimeStill/omarchy-theme-generator/stargazers) - Generate Omarchy themes based on images.
+- [omarchist](https://github.com/tahayvr/omarchist) [![GitHub stars](https://img.shields.io/github/stars/tahayvr/omarchist?style=flat)](https://github.com/tahayvr/omarchist/stargazers) - GUI app for Omarchy with visual theme designer built with Tauri/Rust/Svelte.
+- [omarchy-enhanced-bindings](https://github.com/nemuiyarou/omarchy-enhanced-bindings) [![GitHub stars](https://img.shields.io/github/stars/nemuiyarou/omarchy-enhanced-bindings?style=flat)](https://github.com/nemuiyarou/omarchy-enhanced-bindings/stargazers) - Enhanced keyboard bindings for Omarchy.
+- [Adsovetzky-Omarchy-s-Waybar](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar) [![GitHub stars](https://img.shields.io/github/stars/adsovetzky/Adsovetzky-Omarchy-s-Waybar?style=flat)](https://github.com/adsovetzky/Adsovetzky-Omarchy-s-Waybar/stargazers) - Custom Waybar configurations for Omarchy.
+- [omarchy-gui](https://github.com/amanat361/omarchy-gui) [![GitHub stars](https://img.shields.io/github/stars/amanat361/omarchy-gui?style=flat)](https://github.com/amanat361/omarchy-gui/stargazers) - GUI tools for Omarchy configuration.
+- [hyprmon](https://github.com/erans/hyprmon) [![GitHub stars](https://img.shields.io/github/stars/erans/hyprmon?style=flat)](https://github.com/erans/hyprmon/stargazers) - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management.
+- [hyprmarker](https://github.com/devmobasa/hyprmarker) [![GitHub stars](https://img.shields.io/github/stars/devmobasa/hyprmarker?style=flat)](https://github.com/devmobasa/hyprmarker/stargazers) - ZoomIt-inspired annotation overlay tailored for Hyprland/Omarchy.
+- [hypruler](https://github.com/t4t5/hypruler) [![GitHub stars](https://img.shields.io/github/stars/t4t5/hypruler?style=flat)](https://github.com/t4t5/hypruler/stargazers) - Measure anything on your screen. Inspired by PixelSnap for Mac.
+- [omarchy-cleaner](https://github.com/maxart/omarchy-cleaner) [![GitHub stars](https://img.shields.io/github/stars/maxart/omarchy-cleaner?style=flat)](https://github.com/maxart/omarchy-cleaner/stargazers) - Quickly and easily remove pre-installed apps and webapps.
+- [clipboard-manager](https://github.com/Grenish/clipboard-manager) [![GitHub stars](https://img.shields.io/github/stars/Grenish/clipboard-manager?style=flat)](https://github.com/Grenish/clipboard-manager/stargazers) - Windows-like clipboard manager for Omarchy.
+- [edit](https://github.com/mirarr-app/editt) [![GitHub stars](https://img.shields.io/github/stars/mirarr-app/editt?style=flat)](https://github.com/mirarr-app/editt/stargazers) - Beautiful image viewer and editor with Omarchy styling support.
+- [omarchy-speech-to-text](https://github.com/michabbb/omarchy-speech-to-text) [![GitHub stars](https://img.shields.io/github/stars/michabbb/omarchy-speech-to-text?style=flat)](https://github.com/michabbb/omarchy-speech-to-text/stargazers) - Whisper-backed speech-to-text integrations for Omarchy.
+- [omarchy-steam-gaming-mode](https://github.com/cephalization/omarchy-steam-gaming-mode) [![GitHub stars](https://img.shields.io/github/stars/cephalization/omarchy-steam-gaming-mode?style=flat)](https://github.com/cephalization/omarchy-steam-gaming-mode/stargazers) - Steam Deck-like gaming experience for Omarchy.
+- [live-wallpaper-for-omarchy-linux](https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux) [![GitHub stars](https://img.shields.io/github/stars/daurydicaprio/live-wallpaper-for-omarchy-linux?style=flat)](https://github.com/daurydicaprio/live-wallpaper-for-omarchy-linux/stargazers) - A robust script to manage and cycle through live video wallpapers on Omarchy/Hyprland.
+- [omarchy-calculator](https://github.com/aloisdeniel/omarchy_calculator) [![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/omarchy_calculator?style=flat)](https://github.com/aloisdeniel/omarchy_calculator/stargazers) - Official Omarchy calculator application built with Flutter.
+- [manual-nas-backup-tool](https://github.com/daurydicaprio/manual-nas-backup-tool) [![GitHub stars](https://img.shields.io/github/stars/daurydicaprio/manual-nas-backup-tool?style=flat)](https://github.com/daurydicaprio/manual-nas-backup-tool/stargazers) - A simple script to make incremental copies, encrypted or not.
+- [omarchy-monitor-toggle](https://github.com/daurydicaprio/omarchy-monitor-toggle) [![GitHub stars](https://img.shields.io/github/stars/daurydicaprio/omarchy-monitor-toggle?style=flat)](https://github.com/daurydicaprio/omarchy-monitor-toggle/stargazers) - Tools for automating monitor power management within Omarchy.
+- [hyprBluetooth](https://github.com/magudb/hyprBluetooth) [![GitHub stars](https://img.shields.io/github/stars/magudb/hyprBluetooth?style=flat)](https://github.com/magudb/hyprBluetooth/stargazers) - Bluetoothctl-powered TUI for quickly pairing devices on Omarchy.
+- [omarchpods](https://github.com/tomycostantino/omarchpods) [![GitHub stars](https://img.shields.io/github/stars/tomycostantino/omarchpods?style=flat)](https://github.com/tomycostantino/omarchpods/stargazers) - TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.
+- [wayscriber](https://github.com/devmobasa/wayscriber) [![GitHub stars](https://img.shields.io/github/stars/devmobasa/wayscriber?style=flat)](https://github.com/devmobasa/wayscriber/stargazers) - Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.
+- [lazyVPN-for-Omarchy](https://github.com/blank-query/lazyVPN-for-Omarchy) [![GitHub stars](https://img.shields.io/github/stars/blank-query/lazyVPN-for-Omarchy?style=flat)](https://github.com/blank-query/lazyVPN-for-Omarchy/stargazers) - A WireGuard VPN manager with Walker menu integration, killswitch protection, and dynamic server browsing.
 
 ## Related Projects
 
-- [j5onrf/dots](https://github.com/j5onrf/dots) - Hyprland dotfiles with Waybar and ML4W inspired by Omarchy aesthetics.
-- [CyphrRiot/ArchRiot](https://github.com/CyphrRiot/ArchRiot) - A curated Arch Linux experience inspired by Omarchy's philosophy.
-- [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) - A debonair Debian + Cinnamon setup inspired by Omarchy.
-- [alibaghernejad/waybar-privacy-dots](https://github.com/alibaghernejad/waybar-privacy-dots) - Privacy-first module for your Waybar status bar.
-- [omarchy-site](https://github.com/omacom-io/omarchy-site) - Official Omarchy website source code.
-- [omarchy-mirror](https://github.com/omacom-io/omarchy-mirror) - Dedicated mirror of Arch repositories for Omarchy hosted on Cloudflare R2.
-- [marcelohmdias/dotfiles](https://github.com/marcelohmdias/dotfiles) - Personal dotfiles and post-install setup based on Omarchy.
-- [pixincreate/configs](https://github.com/pixincreate/configs) - Cross-platform dotfiles and setup scripts with Omarchy/Omaforge profiles.
-- [jehrhardt/dotfiles](https://github.com/jehrhardt/dotfiles) - Dotfiles based on Omarchy.
-- [sheikhlimon/dotfiles](https://github.com/sheikhlimon/dotfiles) - Personal Omarchy dotfiles configuration.
-- [donotfeedthevirus/dotfiles](https://github.com/donotfeedthevirus/dotfiles) - Curated Omarchy dotfiles for Hyprland, Kitty, Neovim, and Tmux.
+- [j5onrf/dots](https://github.com/j5onrf/dots) [![GitHub stars](https://img.shields.io/github/stars/j5onrf/dots?style=flat)](https://github.com/j5onrf/dots/stargazers) - Hyprland dotfiles with Waybar and ML4W inspired by Omarchy aesthetics.
+- [CyphrRiot/ArchRiot](https://github.com/CyphrRiot/ArchRiot) [![GitHub stars](https://img.shields.io/github/stars/CyphrRiot/ArchRiot?style=flat)](https://github.com/CyphrRiot/ArchRiot/stargazers) - A curated Arch Linux experience inspired by Omarchy's philosophy.
+- [dougburks/ohmydebn](https://github.com/dougburks/ohmydebn) [![GitHub stars](https://img.shields.io/github/stars/dougburks/ohmydebn?style=flat)](https://github.com/dougburks/ohmydebn/stargazers) - A debonair Debian + Cinnamon setup inspired by Omarchy.
+- [alibaghernejad/waybar-privacy-dots](https://github.com/alibaghernejad/waybar-privacy-dots) [![GitHub stars](https://img.shields.io/github/stars/alibaghernejad/waybar-privacy-dots?style=flat)](https://github.com/alibaghernejad/waybar-privacy-dots/stargazers) - Privacy-first module for your Waybar status bar.
+- [omarchy-site](https://github.com/omacom-io/omarchy-site) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-site?style=flat)](https://github.com/omacom-io/omarchy-site/stargazers) - Official Omarchy website source code.
+- [omarchy-mirror](https://github.com/omacom-io/omarchy-mirror) [![GitHub stars](https://img.shields.io/github/stars/omacom-io/omarchy-mirror?style=flat)](https://github.com/omacom-io/omarchy-mirror/stargazers) - Dedicated mirror of Arch repositories for Omarchy hosted on Cloudflare R2.
+- [marcelohmdias/dotfiles](https://github.com/marcelohmdias/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/marcelohmdias/dotfiles?style=flat)](https://github.com/marcelohmdias/dotfiles/stargazers) - Personal dotfiles and post-install setup based on Omarchy.
+- [pixincreate/configs](https://github.com/pixincreate/configs) [![GitHub stars](https://img.shields.io/github/stars/pixincreate/configs?style=flat)](https://github.com/pixincreate/configs/stargazers) - Cross-platform dotfiles and setup scripts with Omarchy/Omaforge profiles.
+- [jehrhardt/dotfiles](https://github.com/jehrhardt/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/jehrhardt/dotfiles?style=flat)](https://github.com/jehrhardt/dotfiles/stargazers) - Dotfiles based on Omarchy.
+- [sheikhlimon/dotfiles](https://github.com/sheikhlimon/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/sheikhlimon/dotfiles?style=flat)](https://github.com/sheikhlimon/dotfiles/stargazers) - Personal Omarchy dotfiles configuration.
+- [donotfeedthevirus/dotfiles](https://github.com/donotfeedthevirus/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/donotfeedthevirus/dotfiles?style=flat)](https://github.com/donotfeedthevirus/dotfiles/stargazers) - Curated Omarchy dotfiles for Hyprland, Kitty, Neovim, and Tmux.
 
 ## Alternative Curated Lists
 
-- [Wheel-Smith/awesome-omarchy](https://github.com/Wheel-Smith/awesome-omarchy) - Alternative curated list of Omarchy resources with explicit focus on theme resources with screenshot previews.
-- [Alexx2/omarchy-themes](https://github.com/Alexx2/omarchy-themes) - Personal collection of Omarchy themes.
+- [Wheel-Smith/awesome-omarchy](https://github.com/Wheel-Smith/awesome-omarchy) [![GitHub stars](https://img.shields.io/github/stars/Wheel-Smith/awesome-omarchy?style=flat)](https://github.com/Wheel-Smith/awesome-omarchy/stargazers) - Alternative curated list of Omarchy resources with explicit focus on theme resources with screenshot previews.
+- [Alexx2/omarchy-themes](https://github.com/Alexx2/omarchy-themes) [![GitHub stars](https://img.shields.io/github/stars/Alexx2/omarchy-themes?style=flat)](https://github.com/Alexx2/omarchy-themes/stargazers) - Personal collection of Omarchy themes.
 
 ## Community Resources
 
-- [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) - Official community discussions and support.
-- [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) - Community discussion on running Omarchy on Raspberry Pi 5.
+- [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) [![GitHub stars](https://img.shields.io/github/stars/basecamp/omarchy/discussions?style=flat)](https://github.com/basecamp/omarchy/discussions/stargazers) - Official community discussions and support.
+- [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) [![GitHub stars](https://img.shields.io/github/stars/basecamp/omarchy/discussions/642?style=flat)](https://github.com/basecamp/omarchy/discussions/642/stargazers) - Community discussion on running Omarchy on Raspberry Pi 5.
 - [Omarchy on 11 inch MacBook Air](https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html) - Technical guide for installing Omarchy on a 2014 MacBook Air with WiFi configuration.
-- [GitHub Issues](https://github.com/basecamp/omarchy/issues) - Bug reports and feature requests.
-- [omarchy-theme Topic](https://github.com/topics/omarchy-theme) - Browse all repositories tagged with omarchy-theme.
+- [GitHub Issues](https://github.com/basecamp/omarchy/issues) [![GitHub stars](https://img.shields.io/github/stars/basecamp/omarchy/issues?style=flat)](https://github.com/basecamp/omarchy/issues/stargazers) - Bug reports and feature requests.
+- [omarchy-theme Topic](https://github.com/topics/omarchy-theme) [![GitHub stars](https://img.shields.io/github/stars/topics/omarchy-theme?style=flat)](https://github.com/topics/omarchy-theme/stargazers) - Browse all repositories tagged with omarchy-theme.
 
 ## Articles and Tutorials
 
