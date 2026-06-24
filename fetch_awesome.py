@@ -241,8 +241,13 @@ def main():
     # Save the original README with star badges
     print("Processing main README with star badges...")
     processed_main_readme = process_readme_with_stars(main_readme_content)
+    # Save to awesome directory
     with open('/workspace/awesome/sindresorhus-awesome-original.md', 'w', encoding='utf-8') as f:
         f.write(processed_main_readme)
+    # Save to root README.md
+    with open('/workspace/README.md', 'w', encoding='utf-8') as f:
+        f.write(processed_main_readme)
+    print("Main README saved to README.md and awesome/sindresorhus-awesome-original.md")
 
     print("Parsing projects from README...")
     projects = parse_awesome_readme(main_readme_content)
