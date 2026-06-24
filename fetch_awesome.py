@@ -33,9 +33,84 @@ def fetch_url(url, retries=5, delay=2):
                 time.sleep(delay * (attempt + 1))
     return None
 
+def get_github_token():
+    """
+    从配置文件加载 GitHub Token。
+    
+    配置文件样式说明：
+    - 在脚本同级目录创建名为 github_token.json 的文件
+    - 文件内容格式：{"token": "your_github_personal_access_token"}
+    - 请将此文件添加到 .gitignore 中，避免提交到代码仓库
+    - 如果没有配置文件或 token 为空，API 请求将以未认证方式进行（有速率限制）
+    """
+    config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'github_token.json')
+    try:
+        with open(config_path, 'r') as f:
+            config = json.load(f)
+            token = config.get('token', '').strip()
+            if token:
+                return token
+            else:
+                print("Warning: github_token.json 中 token 为空，API 请求将未认证")
+                return ''
+    except FileNotFoundError:
+        print("Warning: 未找到 github_token.json 配置文件，API 请求将未认证")
+        return ''
+    except json.JSONDecodeError:
+        print("Warning: github_token.json 格式错误，API 请求将未认证")
+        return ''
+    except Exception as e:
+        print(f"Warning: 读取 token 文件时出错: {e}")
+        return ''
+
 def get_readme_content(owner, repo, retries=5):
-    """Get README content for a repository with retry logic."""
-    # Try raw content first
+    """
+    获取仓库 README 内容，优先使用 GitHub API，失败则 fallback 到 raw 方式。
+    如果返回 404 则不更新，直接返回 None。
+    """
+    token = get_github_token()
+    api_url = f"https://api.github.com/repos/{owner}/{repo}/readme"
+
+    # 第一步：优先使用 GitHub API 获取
+    for attempt in range(retries):
+        try:
+            cmd = ['curl', '-s', '--connect-timeout', '30', '--max-time', '120']
+            if token:
+                cmd.extend(['-H', f'Authorization: token {token}'])
+            cmd.extend(['-H', 'Accept: application/vnd.github.v3+json'])
+            cmd.append(api_url)
+
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                encoding='utf-8'
+            )
+
+            if result.returncode == 0 and result.stdout:
+                try:
+                    data = json.loads(result.stdout)
+                    # 检查是否是 404 错误
+                    if isinstance(data, dict) and data.get('message') == 'Not Found':
+                        print(f"404 - 仓库不存在或无 README，跳过更新", end=' ')
+                        return None
+                    # 正常获取到 README 内容（base64 编码）
+                    if 'content' in data:
+                        content = base64.b64decode(data['content']).decode('utf-8', errors='ignore')
+                        return content
+                except json.JSONDecodeError:
+                    pass
+
+            if attempt < retries - 1:
+                print(f"    API 重试 {attempt+1}/{retries}...")
+                time.sleep(2 * (attempt + 1))
+        except Exception as e:
+            if attempt < retries - 1:
+                print(f"    API 重试 {attempt+1}/{retries}...")
+                time.sleep(2 * (attempt + 1))
+
+    # 第二步：API 获取失败，fallback 到 raw 方式
+    print("API 获取失败，尝试 raw 方式...", end=' ')
     urls_to_try = [
         f"https://raw.githubusercontent.com/{owner}/{repo}/main/README.md",
         f"https://raw.githubusercontent.com/{owner}/{repo}/master/README.md",
@@ -45,8 +120,13 @@ def get_readme_content(owner, repo, retries=5):
     for url in urls_to_try:
         content = fetch_url(url, retries=retries)
         if content:
+            # 检查是否是 404 页面内容
+            if "404: Not Found" in content or "404 Not Found" in content:
+                continue
             return content
 
+    # 所有方式都失败，且确认是 404 则不更新
+    print("404 或获取失败，跳过更新", end=' ')
     return None
 
 def parse_awesome_readme(content):
