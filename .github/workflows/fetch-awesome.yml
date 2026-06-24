@@ -1,0 +1,39 @@
+name: Fetch Awesome README
+
+on:
+  schedule:
+    # 每周一 UTC 00:00 执行（北京时间周一 08:00）
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Create GitHub token config
+        run: |
+          if [ -n "${{ secrets.GH_TOKEN }}" ]; then
+            echo '{"token": "${{ secrets.GH_TOKEN }}"}' > github_token.json
+            echo "Token config created"
+          else
+            echo "No GH_TOKEN secret found, running without token"
+          fi
+
+      - name: Run fetch script
+        run: python fetch_awesome.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update awesome README" && git push)
