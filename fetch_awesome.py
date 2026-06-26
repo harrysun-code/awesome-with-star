@@ -8,6 +8,7 @@ import os
 import re
 import json
 import time
+import datetime
 import subprocess
 import base64
 from pathlib import Path
@@ -67,6 +68,7 @@ def get_readme_content(owner, repo, retries=5):
     """
     获取仓库 README 内容，优先使用 GitHub API，失败则 fallback 到 raw 方式。
     如果返回 404 则不更新，直接返回 None。
+    如果遇到 API 频次限制，会等待足够时间后重试。
     """
     token = get_github_token()
     api_url = f"https://api.github.com/repos/{owner}/{repo}/readme"
@@ -74,7 +76,7 @@ def get_readme_content(owner, repo, retries=5):
     # 第一步：优先使用 GitHub API 获取
     for attempt in range(retries):
         try:
-            cmd = ['curl', '-s', '--connect-timeout', '30', '--max-time', '120']
+            cmd = ['curl', '-s', '--connect-timeout', '30', '--max-time', '120', '-i']
             if token:
                 cmd.extend(['-H', f'Authorization: token {token}'])
             cmd.extend(['-H', 'Accept: application/vnd.github.v3+json'])
@@ -88,25 +90,67 @@ def get_readme_content(owner, repo, retries=5):
             )
 
             if result.returncode == 0 and result.stdout:
-                try:
-                    data = json.loads(result.stdout)
-                    # 检查是否是 404 错误
-                    if isinstance(data, dict) and data.get('message') == 'Not Found':
-                        print(f"404 - 仓库不存在或无 README，跳过更新", end=' ')
-                        return None
-                    # 正常获取到 README 内容（base64 编码）
-                    if 'content' in data:
-                        content = base64.b64decode(data['content']).decode('utf-8', errors='ignore')
-                        return content
-                except json.JSONDecodeError:
-                    pass
+                # 解析响应，提取 header 和 body
+                response_text = result.stdout
+                header_end = response_text.find('\r\n\r\n')
+                if header_end == -1:
+                    continue
+
+                header_text = response_text[:header_end]
+                body_text = response_text[header_end + 4:]
+                lines = header_text.split('\r\n')
+                status_line = lines[0]
+                headers = {}
+                for line in lines[1:]:
+                    if ':' in line:
+                        key, value = line.split(':', 1)
+                        headers[key.strip().lower()] = value.strip()
+
+                # 检查 HTTP 状态码
+                http_code = int(status_line.split()[1]) if len(status_line.split()) > 1 else 0
+
+                # 解析 rate limit reset 时间
+                reset_seconds = None
+                if 'x-ratelimit-reset' in headers:
+                    reset_timestamp = int(headers['x-ratelimit-reset'])
+                    now = int(datetime.datetime.now(datetime.timezone.utc).timestamp())
+                    reset_seconds = reset_timestamp - now + 5  # 多等5秒缓冲
+
+                # 检查是否是 403 限流
+                if http_code == 403:
+                    if reset_seconds and reset_seconds > 0:
+                        print(f"    [API 频次限制] 需等待 {reset_seconds} 秒后重试...", flush=True)
+                        time.sleep(reset_seconds)
+                        continue
+                    else:
+                        # 可能是其他 403 错误，继续重试
+                        if attempt < retries - 1:
+                            print(f"    API 403 错误，重试 {attempt+1}/{retries}...", flush=True)
+                            time.sleep(5 * (attempt + 1))
+                            continue
+
+                # 检查是否是 404 错误
+                if http_code == 404:
+                    print(f"404 - 仓库不存在或无 README，跳过更新", end=' ', flush=True)
+                    return None
+
+                # 正常响应
+                if http_code == 200:
+                    try:
+                        data = json.loads(body_text)
+                        # 正常获取到 README 内容（base64 编码）
+                        if 'content' in data:
+                            content = base64.b64decode(data['content']).decode('utf-8', errors='ignore')
+                            return content
+                    except json.JSONDecodeError:
+                        pass
 
             if attempt < retries - 1:
-                print(f"    API 重试 {attempt+1}/{retries}...")
+                print(f"    API 重试 {attempt+1}/{retries}...", flush=True)
                 time.sleep(2 * (attempt + 1))
         except Exception as e:
             if attempt < retries - 1:
-                print(f"    API 重试 {attempt+1}/{retries}...")
+                print(f"    API 异常，重试 {attempt+1}/{retries}...", flush=True)
                 time.sleep(2 * (attempt + 1))
 
     # 第二步：API 获取失败，fallback 到 raw 方式
