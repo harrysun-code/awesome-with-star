@@ -171,6 +171,7 @@ This list is a collection of the best Deno modules and resources.
 - [colors](https://github.com/retraigo/colors) [![GitHub stars](https://img.shields.io/github/stars/retraigo/colors?style=flat)](https://github.com/retraigo/colors/stargazers) - Color conversions and operations in TypeScript.
 - [computed_types](https://github.com/neuledge/computed-types) [![GitHub stars](https://img.shields.io/github/stars/neuledge/computed-types?style=flat)](https://github.com/neuledge/computed-types/stargazers) - Joi like validators for Typescript and Deno.
 - [croner](https://github.com/Hexagon/croner) [![GitHub stars](https://img.shields.io/github/stars/Hexagon/croner?style=flat)](https://github.com/Hexagon/croner/stargazers) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
+- [csv-pipe](https://github.com/martsinlabs/csv-pipe) [![GitHub stars](https://img.shields.io/github/stars/martsinlabs/csv-pipe?style=flat)](https://github.com/martsinlabs/csv-pipe/stargazers) - Typed, zero-dependency CSV parser and encoder for every runtime.
 - [deno-config](https://github.com/yooneskh/deno-unified-config) [![GitHub stars](https://img.shields.io/github/stars/yooneskh/deno-unified-config?style=flat)](https://github.com/yooneskh/deno-unified-config/stargazers) - Utility to streamline deno app configuration management through cli, .env and json files
 - [deno_kv_fs](https://github.com/hviana/deno_kv_fs) [![GitHub stars](https://img.shields.io/github/stars/hviana/deno_kv_fs?style=flat)](https://github.com/hviana/deno_kv_fs/stargazers) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) [![GitHub stars](https://img.shields.io/github/stars/denosaurs/denon/blob/master/mod.ts?style=flat)](https://github.com/denosaurs/denon/blob/master/mod.ts/stargazers) - A file watcher with a for-await generator.
@@ -247,7 +248,6 @@ This list is a collection of the best Deno modules and resources.
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) [![GitHub stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy?style=flat)](https://github.com/ryo-ma/github-profile-trophy/stargazers) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [ShopSavvy Deno Deploy](https://github.com/shopsavvy/deno-deploy-shopsavvy) [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/deno-deploy-shopsavvy?style=flat)](https://github.com/shopsavvy/deno-deploy-shopsavvy/stargazers) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
-- [UsingDeno](https://usingdeno.com) - Curated list of Web Applications & Projects using Deno 🦕.
 
 ## Tools
 

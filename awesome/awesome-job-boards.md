@@ -1,0 +1,217 @@
+# Niche Job Boards
+
+[![GitHub stars](https://img.shields.io/github/stars/tramcar/awesome-job-boards?style=flat)](https://github.com/tramcar/awesome-job-boards/stargazers)
+
+# Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome niche job boards.
+
+## Table of Contents
+
+- [Artificial Intelligence (AI)](#artificial-intelligence-ai)
+- [Big Data](#big-data)
+- [Blockchain](#blockchain)
+- [Design](#design)
+- [DevOps](#devops)
+- [Finance](#finance)
+- [Gaming](#gaming)
+- [Growth Hacking](#growth-hacking)
+- [Open Source](#opensource)
+- [Programming](#programming)
+- [Remote](#remote)
+- [Quantum Computing](#quantum-computing)
+- [Tech](#tech)
+- [Writing](#writing)
+- [Various](#various)
+
+## Artificial Intelligence (AI)
+
+* [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
+* [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
+* [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+* [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
+* [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
+* [AI Dev Jobs](https://aidevboard.com) - 7,400+ AI/ML jobs from 417 companies with a free REST API and MCP server for AI agents
+* [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
+
+## Big Data
+
+* [DataJobs.com](https://datajobs.com/)
+* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
+* [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
+* [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
+* [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
+* [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
+
+## Blockchain
+
+* [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
+* [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
+* [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
+* [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
+* [Remote Web3 Jobs](https://www.remote3.co/) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
+* [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
+* [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
+* [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
+* [GMI Jobs](https://gmijobs.com) - Crypto-native job board for Web3 professionals — curated roles from 200+ blockchain companies with AI-powered job enrichment.
+
+## Design
+
+* [AIGA](https://designcareers.aiga.org/)
+* [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
+* [Behance](https://www.behance.net/joblist)
+* [Coroflot](https://www.coroflot.com/design-jobs)
+* [Jobs for Designers](https://dribbble.com/jobs)
+* [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
+* [UX Jobs Board](https://www.uxjobsboard.com)
+* [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+* [UI/UX Jobs Board](https://uiuxjobsboard.com/)
+
+## DevOps
+
+* [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies
+
+## Finance
+
+* [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance
+
+## Gaming
+
+* [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
+
+## Open Source
+
+* [GitJobs](https://gitjobs.dev ) - Discover Open Source job opportunities
+
+## Programming
+
+### Aggregator
+
+* [findwork.dev](https://findwork.dev/)
+* [Levels.fyi](https://www.levels.fyi/jobs)
+* [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
+
+### Clojure
+
+* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
+
+### Functional
+
+* [Functional Works](https://functional.works-hub.com/) - Discover local and remote functional programming opportunities
+
+### Go
+
+* [Golangprojects](https://www.golangprojects.com/)- Golang jobs since 2014, also got a remote section
+* [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
+* [Golang Works](https://golang.works-hub.com/) - Local and remote Golang opportunities, articles and open-source
+
+### JavaScript
+
+* [Jobs In JS](https://jobsinjs.com/)
+* [Vue.js Jobs](https://vuejobs.com/)
+* [Svelte Jobs](https://sveltejobs.com/)
+* [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
+* [JSJobbs](https://jsjobbs.com/)
+
+### Mobile
+
+* [React Native Jobs](https://reactnative-jobs.com) — A dedicated job board for React Native developers and companies.
+* [Mobile Career](https://mobile.career/) - Job board for mobile developers. iOS. Android. Flutter. React Native...
+
+### Perl
+
+* [The Perl Job Site](https://jobs.perl.org/)
+
+### PHP
+
+* [Drupal Jobs](https://jobs.drupal.org/)
+* [jobs.wordpress.net](https://jobs.wordpress.net/)
+* [LaraJobs](https://larajobs.com/)
+* [Jobbsy](https://jobbsy.dev) - Symfony Jobs
+
+### Python
+
+* [PyJobs](https://www.pyjobs.com)
+* [Python Job Board](https://www.python.org/jobs/)
+
+### Ruby
+
+* [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
+
+### Rust
+
+* [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
+* [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
+
+### Scala
+* [Scala Jobs](https://scalajobs.com)
+
+## Remote
+
+* [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
+* [We Work Remotely](https://weworkremotely.com/)
+* [DailyRemote](https://dailyremote.com/)
+* [Werkington](https://www.werkington.com/)
+* [Just Remote](https://justremote.co/remote-jobs)
+* [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
+* [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
+* [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people 
+
+## Quantum Computing
+
+* [qubitsok.com](https://qubitsok.com/) - A job board specialized in Quantum Computing with personalized job alerts
+
+### Aggregator
+
+* [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
+* [remote | OK](https://remoteok.com/)
+* [whoishiring.io](https://whoishiring.io/)
+* [remote4me.com](https://remote4me.com/)
+* [TheRemoteWork](https://theremotework.co/)
+* [devtooljobs](https://devtooljobs.com/) - GTM jobs in developer tooling companies
+
+## Startups
+
+* [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
+* [Startup Jobs](https://startup.jobs/)
+* [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
+* [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+
+## Tech
+
+* [Relocate.me](https://relocate.me/) - Verified relocation packages
+* [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
+* [EmbeddedJobs](https://embedded.jobs) - A niche job board exclusively for Embedded Systems engineers and developers.
+* [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
+* [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (only EM/Staff+ positions, VP, Director, CTO)
+
+### Canada
+
+* [Work in Tech](https://www1.communitech.ca/jobs) - Explore opportunities in Waterloo Region and beyond
+
+### Europe
+
+* [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
+* [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
+* [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
+* [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
+* [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
+* [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
+* [Defence jobs in Europe](https://www.defencejobs.org) - The main job board for European defence 🇪🇺
+
+### Latin America
+
+* [Findjobit](https://findjobit.com/jobs)
+
+### United Kingdom
+
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) - Includes free technology skill set trends, salary/contractor rate benchmarking, and real-time job vacancy statistics
+
+## Writing
+
+* [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
+
+## Various
+* [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
+* [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
+* [FoundRole](https://www.foundrole.com/) – AI-powered job search platform and job application tracker for knowledge workers.

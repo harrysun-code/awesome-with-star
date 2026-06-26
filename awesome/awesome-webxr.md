@@ -1,0 +1,236 @@
+# WebXR
+
+[![GitHub stars](https://img.shields.io/github/stars/msub2/awesome-webxr?style=flat)](https://github.com/msub2/awesome-webxr/stargazers)
+
+# Awesome WebXR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[<img src="webxr-logo.svg" align="right" width="100">](https://immersiveweb.dev/)
+
+> A curated list of WebXR links and resources.
+
+[WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) comprises a group of standards that allow browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible online without the need for installations or storefront curation.
+
+## Contents
+
+- [Standout Projects](#standout-projects)
+- [Art](#art)
+- [Audio](#audio)
+- [Avatars](#avatars)
+- [Communities](#communities)
+  - [Discord](#discord)
+  - [Facebook](#facebook)
+  - [Forums](#forums)
+  - [LinkedIn](#linkedin)
+  - [Reddit](#reddit)
+- [Companies and Cooperatives](#companies-and-cooperatives)
+- [Content Hubs](#content-hubs)
+- [Development](#development)
+  - [Engines](#engines)
+  - [Frameworks and Libraries](#frameworks-and-libraries)
+  - [Other](#other)
+- [Learning Resources](#learning-resources)
+- [Monetization](#monetization)
+- [Social Spaces](#social-spaces)
+- [Web3XR](#web3xr)
+  - [Galleries](#galleries)
+  - [Realms](#realms)
+- [YouTube](#youtube)
+
+## Standout Projects
+
+*Impressive and notable WebXR projects.*
+
+- [Hello WebXR](https://msub2.github.io/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
+  - This links to a mirror of the experience on my own fork, as it is no longer accessible at its original domain.
+- [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
+- [Plockle](https://plockle.com/) - A spatial block puzzle game with over 40 levels.
+- [Castle Builder](https://castle.needle.tools/) - A collaborative and cross-platform castle-building game utilizing a unique Unity-to-three.js pipeline.
+- [Prehistoric Domain](https://www.prehistoricdomain.com/) - A Jurassic Park-esque experience in the browser, with multiple dinosaur exhibits available and more planned for the future.
+- [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - A WebXR minigolf game designed by Paradowski Creative, featuring 9 holes spread across a unique and varied environment.
+- [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
+- [f60](https://heyvr.io/game/f60) - A cross-platform WebXR escape room series set within a Soviet prison.
+- [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
+- [NeoFables](https://neofables.com/) - A dynamically-generated VR storytelling experience utilizing GenAI. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards and is the first GenAI VR experience featured by Meta.
+- [XRSH](https://xrsh.isvery.ninja) - Linux virtual machines running inside WebXR to enable live-scripting, packages and prototyping inside an in-VR shell. [[repo]](https://codeberg.org/xrsh/xrsh)
+
+## Art
+
+*Projects centered around artistic creations.*
+
+- [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
+- [Silk Brush](https://msub2.github.io/silk-brush/) - A port of Tilt Brush to WebXR with plans for future extensions.
+- [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
+
+## Audio
+
+*Projects centered around audio and audiovisual experiences.*
+
+- [Fathom VR](https://www.letsfathom.com/vr) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
+- [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
+
+## Avatars
+
+*Resources for creating and utilizing 3D avatars in immersive experiences.*
+
+- [Exokit Avatars](https://github.com/exokitxr/avatars) [![GitHub stars](https://img.shields.io/github/stars/exokitxr/avatars?style=flat)](https://github.com/exokitxr/avatars/stargazers) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here](https://github.com/msub2/avatars) [![GitHub stars](https://img.shields.io/github/stars/msub2/avatars?style=flat)](https://github.com/msub2/avatars/stargazers).
+- [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
+
+## Communities
+
+*Where WebXR developers gather, ask questions, share projects, etc.*
+
+### Discord
+
+- [Borellion Discord](https://discord.gg/4JzX9ZTRQk) - Official server for Borellion.
+- [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
+- [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
+- [WebXR Francophone Discord](https://discord.gg/JGsaYQJeuM) - French-speaking Discord server for WebXR.
+- [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
+
+### Facebook
+
+- [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - Oldest WebXR-related group, originally made for WebVR.
+- [WebXR](https://www.facebook.com/groups/arvrweb/) - Slightly newer WebXR-centric group.
+- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - Korean WebXR group created by Belivvr.
+- [WebXR Paris](https://www.facebook.com/groups/548527285323630/) - Companion to the WebXR Paris group on [Meetup](https://www.meetup.com/WebXR-Paris/).
+
+### Forums
+
+- [Babylon.js Forum](https://forum.babylonjs.com/) - Official Babylon.js forum.
+- [three.js Forum](https://discourse.threejs.org/) - Official three.js forum.
+- [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
+- [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
+
+### LinkedIn
+
+- [WebXR](https://www.linkedin.com/groups/9019254/) - WebXR LinkedIn Group
+
+### Reddit
+
+- [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
+- [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
+
+## Companies and Cooperatives
+
+*Companies and cooperatives centered around/doing work in WebXR.*
+
+- [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
+- [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
+- [MetaVRse](https://metavrse.com/) - Enterprise-focused metaverse creation company. Parent company of MetaVRse Engine, MetaVRse Studio, and MetaVRse Properties such as TheMall.
+- [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
+- [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
+- [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
+- [Vhite Rabbit](https://vhiterabbit.com/) - WebXR development studio behind games such as Archery Evolution and Boulderworld.
+
+## Content Hubs
+
+*Sites dedicated to gathering, indexing, and publishing WebXR content.*
+
+- [dmnshd.gg](https://dmnshd.gg) - A platform for discovering and playing WebXR games.
+- [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
+- [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
+- [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
+
+## Development
+
+*Some of the tools that make WebXR content possible. For a complete list, see the separate WebXR Creation Tools list. For a more in-depth list, see the [awesome-webxr-development](https://github.com/Pico-Developer/awesome-webxr-development) [![GitHub stars](https://img.shields.io/github/stars/Pico-Developer/awesome-webxr-development?style=flat)](https://github.com/Pico-Developer/awesome-webxr-development/stargazers) list.*
+
+### Engines
+
+- [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
+  - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
+
+- [Needle](https://needle.tools/) - An engine and exporter for Blender and Unity.
+  - [Official Documentation](https://engine.needle.tools/docs/)
+ 
+- [Onirix Studio](https://www.onirix.com/) - A no-code editor for creating Web AR experiences in the browser. It emulates features of the WebXR if target device / browser is not compatible.
+
+- [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
+  - [Official Documentation](https://developer.playcanvas.com/en/)
+
+- [Rogue Engine](https://rogueengine.io/) - An HTML5 Game Engine based on Three.js and TypeScript.
+  - [Official Documentation](https://rogueengine.io/docs/manual/getting-started/installation/) 
+  
+- [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
+  - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) [![GitHub stars](https://img.shields.io/github/stars/De-Panther/unity-webxr-export?style=flat)](https://github.com/De-Panther/unity-webxr-export/stargazers) - Exporter by [De-Panther](https://github.com/De-Panther/) [![GitHub stars](https://img.shields.io/github/stars/De-Panther/?style=flat)](https://github.com/De-Panther//stargazers)
+  - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) [![GitHub stars](https://img.shields.io/github/stars/Rufus31415/Simple-WebXR-Unity?style=flat)](https://github.com/Rufus31415/Simple-WebXR-Unity/stargazers) - Exporter by [Rufus31415](https://github.com/Rufus31415) [![GitHub stars](https://img.shields.io/github/stars/Rufus31415?style=flat)](https://github.com/Rufus31415/stargazers)
+
+- [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
+  - [Official Documentation](https://wonderlandengine.com/documentation/)
+
+### Frameworks and Libraries
+
+- [A-Frame](https://aframe.io/) - Lets you create VR experiences using declarative HTML and custom JavaScript components built on top of three.js.
+  - [Official Documentation](https://aframe.io/docs/)
+
+- [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
+  - [Official Documentation](https://doc.babylonjs.com/)
+
+- [JanusWeb](https://github.com/jbaicoianu/janusweb) [![GitHub stars](https://img.shields.io/github/stars/jbaicoianu/janusweb?style=flat)](https://github.com/jbaicoianu/janusweb/stargazers) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+
+- [JSAR-DOM](https://github.com/m-creativelab/jsar-runtime) [![GitHub stars](https://img.shields.io/github/stars/m-creativelab/jsar-runtime?style=flat)](https://github.com/m-creativelab/jsar-runtime/stargazers) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
+
+- [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) [![GitHub stars](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=flat)](https://github.com/pmndrs/react-three-fiber/stargazers) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR](https://github.com/pmndrs/react-xr) [![GitHub stars](https://img.shields.io/github/stars/pmndrs/react-xr?style=flat)](https://github.com/pmndrs/react-xr/stargazers) as well.
+
+- [reactylon](https://www.reactylon.com/) - A powerful multiplatform framework built on top of Babylon.js and React, designed to create 3D/XR experiences.
+  - [Official Documentation](https://www.reactylon.com/docs)
+
+- [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
+  - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+
+- [Threlte](https://threlte.xyz/) - A Svelte renderer and component library for three.js. WebXR-specific hooks and components are available in the [`@threlte/xr` package](https://threlte.xyz/docs/reference/xr/getting-started).
+
+- [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
+  - [Official Documentation](https://doc.x3dom.org/)
+
+### Other
+
+- [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
+  - [Official Documentation](https://www.soft8soft.com/support-documentation/)
+- [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers. [[repo]](https://codeberg.org/coderofsalvation/xrfragment)
+ 
+## Learning Resources
+
+*Courses and tutorials for creating WebXR content.*
+
+- [Learn A-Frame (VR)](https://www.codecademy.com/learn/learn-a-frame) - A roughly 6-hour Codecademy course written in partnership with A-Frame.
+- [babylon.js Guided Learning](https://doc.babylonjs.com/guidedLearning) - Detailed text and video tutorials that complement the other instructional pages in the documentation.
+
+## Monetization
+
+*Methods for monetizing WebXR content (outside of traditional web advertising platforms like Google Ads, as well as crypto, which falls under Web3XR).*
+
+- [Borellion](https://www.borellion.com/) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
+
+## Social Spaces
+
+*Projects focused on creating social spaces for users to gather and/or collaborate in.*
+
+- [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival Secret Sky 2021.
+- [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
+- [Hubs](https://hubsfoundation.org/) - A community-owned platform for enabling users to gather and collaborate virtually, initially created by Mozilla.
+- [w3dge](https://w3dge.io/) - A platform for gatherings and virtual showcases with AI integration.
+
+## Web3XR
+
+*Projects at the intersection of WebXR and crypto/blockchain technologies.*
+
+### Engines
+
+- [Hyperfy](https://github.com/hyperfy-xyz/hyperfy) [![GitHub stars](https://img.shields.io/github/stars/hyperfy-xyz/hyperfy?style=flat)](https://github.com/hyperfy-xyz/hyperfy/stargazers) - An open-source framework for building interactive 3D virtual worlds with built-in support for physics, networking, and a component-based application system.
+
+### Galleries
+
+- [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
+
+## YouTube
+
+*YouTube channels with a heavy focus on WebXR.*
+
+- [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
+- [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
+- [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
+- [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
+- [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.

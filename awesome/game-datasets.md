@@ -2,4 +2,277 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets?style=flat)](https://github.com/leomaurodesenv/game-datasets/stargazers)
 
-404: Not Found
+# :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+[![GitHub](https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=flat-square)](https://github.com/leomaurodesenv/game-datasets)
+[![CC-BY-4.0 license](https://img.shields.io/static/v1?label=License&message=CC-BY-4.0&color=blue&style=flat-square)](LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml)
+
+In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals _Russell et. al (2016)_.
+
+Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets _Han (2011)_.
+
+This repository guides work with **Artificial Intelligence** or **Data Mining** in digital games. Find datasets, tools, and materials to build your _application_ or _dataset_.
+
+**Contributing**
+
+For suggestions or questions, open an issue. To contribute, read [this](CONTRIBUTING.md) and submit a pull request.
+
+______________________________________________________________________
+
+**Contents**
+
+- [:video_game: Awesome Game Datasets ](#video_game-awesome-game-datasets-)
+  - [API](#api)
+  - [Artificial Intelligence](#artificial-intelligence)
+    - [Mobile](#mobile)
+    - [Web](#web)
+  - [Books](#books)
+  - [Dataset](#dataset)
+    - [Related](#related)
+  - [Market Research](#market-research)
+  - [Miscellaneous](#miscellaneous)
+  - [License](#license)
+
+______________________________________________________________________
+
+## API
+
+API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).
+
+- [Battle.net](https://develop.battle.net/) - Collection of games developed by [Blizzard](https://www.blizzard.com).
+- [Battlefield 4 Stats](https://bf4db.com/stats) - Stats, rankings, and progression of a player.
+- [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
+- [Counter-Strike](https://github.com/pnxenopoulos/csgo) [![GitHub stars](https://img.shields.io/github/stars/pnxenopoulos/csgo?style=flat)](https://github.com/pnxenopoulos/csgo/stargazers) - data parsing for Counter-Strike: Global Offensive (CSGO).
+- [Giant Bomb](https://www.giantbomb.com/api/) - Game data and players review.
+- [IGDB](https://www.igdb.com/api) - General information of games from any platform.
+- [Marvel Developer](https://developer.marvel.com/) - Information about Marvel's vast library of comics.
+- [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
+- [NEXARDA](https://www.nexarda.com/api) - Games and price data.
+- [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
+- [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
+- [PandaScore](https://pandascore.co/) - Realtime eSports data.
+- [PixelGamesHub AI Games Index](https://pixelgameshub.com/ai-games/index) - Curated index of AI-powered browser games with open JSON and CSV endpoints.
+- [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
+- [Riot Games](https://developer.riotgames.com/) - Active games, match history, and ranked statistics.
+- [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/smm-course-search?style=flat)](https://github.com/leomaurodesenv/smm-course-search/stargazers) - Search courses from Super Mario Maker game.
+- [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/smm-course-viewer?style=flat)](https://github.com/leomaurodesenv/smm-course-viewer/stargazers) - Read courses from Super Mario Maker saves.
+- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/smm-maker-profile?style=flat)](https://github.com/leomaurodesenv/smm-maker-profile/stargazers) - Fetch the user profile from Super Mario Maker game.
+- [Steam Database](https://github.com/SteamDatabase) [![GitHub stars](https://img.shields.io/github/stars/SteamDatabase?style=flat)](https://github.com/SteamDatabase/stargazers) - Series of tools to Steam data. [Website](https://steamdb.info/).
+- [Steam Spy](https://github.com/topics/steamspy) [![GitHub stars](https://img.shields.io/github/stars/topics/steamspy?style=flat)](https://github.com/topics/steamspy/stargazers) - Game statistical from Steam users profiles.
+- [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
+- [TGDB](https://github.com/TheGamesDB/TheGamesDB/) [![GitHub stars](https://img.shields.io/github/stars/TheGamesDB/TheGamesDB/?style=flat)](https://github.com/TheGamesDB/TheGamesDB//stargazers) - General information of games from any platform. [Website](https://thegamesdb.net/).
+- [TrendingNow.games](https://trendingnow.games/data-feeds) - Real-time trending Steam game data with free CSV, RSS, and JSON feeds updated hourly.
+- [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) [![GitHub stars](https://img.shields.io/github/stars/GregorUT/vgchartzScrape?style=flat)](https://github.com/GregorUT/vgchartzScrape/stargazers) - Crawler from [VGChartz](http://www.vgchartz.com).
+- [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
+- [Xbox LIVE API](https://github.com/xboxapi) [![GitHub stars](https://img.shields.io/github/stars/xboxapi?style=flat)](https://github.com/xboxapi/stargazers) - Games, apps, users stats and messages. [paper](https://doi.org/10.1145/1943552.1943569).
+
+______________________________________________________________________
+
+## Artificial Intelligence
+
+- [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) [![GitHub stars](https://img.shields.io/github/stars/microsoft/CyberBattleSim?style=flat)](https://github.com/microsoft/CyberBattleSim/stargazers) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+- [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
+- [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
+- [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) [![GitHub stars](https://img.shields.io/github/stars/sentientdesigns/constructive?style=flat)](https://github.com/sentientdesigns/constructive/stargazers) - Constructive generation methods for dungeons and levels.
+- [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) [![GitHub stars](https://img.shields.io/github/stars/crawl/crawl?style=flat)](https://github.com/crawl/crawl/stargazers) - Roguelike adventure.
+- [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
+- [FlightGear Flight Simulator](https://www.flightgear.org/) - Flight simulator.
+- [General Video Game AI](http://www.gvgai.net/) - Controller for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
+- [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
+- [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
+- [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
+- [Malmo](https://github.com/Microsoft/malmo) [![GitHub stars](https://img.shields.io/github/stars/Microsoft/malmo?style=flat)](https://github.com/Microsoft/malmo/stargazers) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
+- [microRTS](https://github.com/santiontanon/microrts) [![GitHub stars](https://img.shields.io/github/stars/santiontanon/microrts?style=flat)](https://github.com/santiontanon/microrts/stargazers) - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) [![GitHub stars](https://img.shields.io/github/stars/rubensolv/MicroRTS?style=flat)](https://github.com/rubensolv/MicroRTS/stargazers).
+- [MiniDungeons](https://github.com/sentientdesigns/minidungeons) [![GitHub stars](https://img.shields.io/github/stars/sentientdesigns/minidungeons?style=flat)](https://github.com/sentientdesigns/minidungeons/stargazers) - Procedural dungeon-like game.
+- [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) [![GitHub stars](https://img.shields.io/github/stars/mguzdial3/Morai-Maker-Engine?style=flat)](https://github.com/mguzdial3/Morai-Maker-Engine/stargazers) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
+- [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
+- [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
+- [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game. [Website](https://openmw.org/en/).
+- [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
+- [polyworld](https://github.com/polyworld/polyworld) [![GitHub stars](https://img.shields.io/github/stars/polyworld/polyworld?style=flat)](https://github.com/polyworld/polyworld/stargazers) - Artificial life system.
+- [qengine](https://github.com/klaussilveira/qengine) [![GitHub stars](https://img.shields.io/github/stars/klaussilveira/qengine?style=flat)](https://github.com/klaussilveira/qengine/stargazers) - Retro game engine.
+- [Retro Contest](https://github.com/openai/retro) [![GitHub stars](https://img.shields.io/github/stars/openai/retro?style=flat)](https://github.com/openai/retro/stargazers) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
+- [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
+- [Showdown AI Competition](https://github.com/scotchkorean27/showdownaiclient) [![GitHub stars](https://img.shields.io/github/stars/scotchkorean27/showdownaiclient?style=flat)](https://github.com/scotchkorean27/showdownaiclient/stargazers) - Competition of Pokemon battle.
+- [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - StarCraft game competition.
+- [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) [![GitHub stars](https://img.shields.io/github/stars/Atkrye/IEEE-CIG-Text-Adventurer-Competition?style=flat)](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition/stargazers) - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
+- [The Genius](http://thegenius.sourceforge.net/) - Chess engine.
+- [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - Car racing simulator.
+- [Vegan on a Desert Island](https://gitlab.com/voadi/voadi) - Adventure game on island survival.
+- [veloren](https://gitlab.com/veloren/veloren) - Sandbox game. [Website](https://veloren.net/).
+- [Vindinium](https://github.com/leomaurodesenv/vindinium) [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/vindinium?style=flat)](https://github.com/leomaurodesenv/vindinium/stargazers) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
+- [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) [![GitHub stars](https://img.shields.io/github/stars/mwydmuch/ViZDoom?style=flat)](https://github.com/mwydmuch/ViZDoom/stargazers) - Doom game competition.
+- [Wargus](https://github.com/Wargus/wargus) [![GitHub stars](https://img.shields.io/github/stars/Wargus/wargus?style=flat)](https://github.com/Wargus/wargus/stargazers) - Real-time strategy game. [Website](https://wargus.github.io/).
+
+### Mobile
+
+- [Habitica](https://github.com/HabitRPG/habitica-android) [![GitHub stars](https://img.shields.io/github/stars/HabitRPG/habitica-android?style=flat)](https://github.com/HabitRPG/habitica-android/stargazers) - Gamify your life.
+- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) [![GitHub stars](https://img.shields.io/github/stars/watabou/pixel-dungeon?style=flat)](https://github.com/watabou/pixel-dungeon/stargazers) - Roguelike game.
+- [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) [![GitHub stars](https://img.shields.io/github/stars/00-Evan/shattered-pixel-dungeon?style=flat)](https://github.com/00-Evan/shattered-pixel-dungeon/stargazers) - Improved Pixel Dungeon.
+
+### Web
+
+- [Digger](https://github.com/lutzroeder/digger) [![GitHub stars](https://img.shields.io/github/stars/lutzroeder/digger?style=flat)](https://github.com/lutzroeder/digger/stargazers) - Boulderdash game.
+- [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) [![GitHub stars](https://img.shields.io/github/stars/MattSurabian/DuckHunt-JS?style=flat)](https://github.com/MattSurabian/DuckHunt-JS/stargazers) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+- [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) [![GitHub stars](https://img.shields.io/github/stars/robertkleffner/mariohtml5?style=flat)](https://github.com/robertkleffner/mariohtml5/stargazers) - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
+- [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) [![GitHub stars](https://img.shields.io/github/stars/lostdecade/onslaught_arena?style=flat)](https://github.com/lostdecade/onslaught_arena/stargazers) - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
+- [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game.
+- [TapAI](https://github.com/leomaurodesenv/TapAI) [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/TapAI?style=flat)](https://github.com/leomaurodesenv/TapAI/stargazers) - User interactions with a tap on screen game.
+- [WebNES](https://github.com/pubby) [![GitHub stars](https://img.shields.io/github/stars/pubby?style=flat)](https://github.com/pubby/stargazers) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
+
+______________________________________________________________________
+
+## Books
+
+- Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). _Games user research_. Oxford.
+- El-Nasr, S. Drachen, A. Canossa, A. (2013). _Game analytics: maximizing the value of player data_. Sprigner.
+- Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.
+- Hennig-Thurau, T. Houston, M. (2018). _Entertainment science: data analytics and practical theory for movies, games, music and books_. Springer.
+- Loh, A. Sheng, Y. Ifenthaler, D. (2015). _Serious games analytics: methodologies for performance measurement, assessment, and improvement_. Springer.
+- Millington, Ian, Funge, John (2020). _AI for Games, Third Edition_. CRC Press.
+- Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.
+- Yannakakis, G. N., Togelius, J. (2018). _Artificial intelligence and games_. Springer.
+
+______________________________________________________________________
+
+## Dataset
+
+- [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) - Matches details from ranked games.
+- [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) - Strategy games from the Apple App Store.
+- [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - Squad details for teams participating in the World Cup.
+- [320K Roblox App Google Store Reviews](https://www.kaggle.com/datasets/bwandowando/322k-roblox-app-google-store-reviews) - Google Store reviews of Roblox.
+- [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) - Real-world game data of guessing a number.
+- [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches.
+- [Animal Crossing New Horizons Catalog](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
+- [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from board games.
+- [Board Games Dataset](https://www.kaggle.com/datasets/sujaykapadnis/board-games) - Board Games Dataset from [BoardGameGeek](https://www.boardgamegeek.com/).
+- [Board Games Dataset](https://www.kaggle.com/datasets/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
+- [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - Playthroughs of board games.
+- [bravefrontier_data](https://github.com/cheahjs/bravefrontier_data) [![GitHub stars](https://img.shields.io/github/stars/cheahjs/bravefrontier_data?style=flat)](https://github.com/cheahjs/bravefrontier_data/stargazers) - Mobile game data, items and missions information.
+- [CartolaFC](https://www.kaggle.com/schiller/cartolafc) - Popular brazilian fantasy football (from 2014 to 2017).
+- [Chess Game Dataset (Lichess)](https://www.kaggle.com/datasets/datasnaek/chess) - Chess games, including moves, victor, rating, opening details and more.
+- [Clash royale Dataset](https://www.kaggle.com/swappyk/clash-royale-dataset) - Cards data.
+- [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) - Players data.
+- [Condensing Steam: Distilling the Diversity of Gamer Behavior](http://academictorrents.com/details/eba3b48fcdaa9e69a927051f1678251a86a546f3) - Temporal games data.
+- [Connect-4 Data Set](https://archive.ics.uci.edu/ml/datasets/Connect-4) - Connect-4 game matches.
+- [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) - Damage entries on rounds played.
+- [CS:GO Steam Reviews](https://www.kaggle.com/datasets/noahx1/csgo-steam-reviews) - Steam Reviews.
+- [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) - Player data of Clash Royale game.
+- [Defense of the Ancients](https://www.kaggle.com/raxnamosa/defense-of-the-ancients) - Monsters data from Warcraft III game.
+- [dnddata](https://github.com/oganm/dnddata) [![GitHub stars](https://img.shields.io/github/stars/oganm/dnddata?style=flat)](https://github.com/oganm/dnddata/stargazers) - Dataset of Dungeons and Dragons characters.
+- [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - Matches results.
+- [Elden Ring Steam Reviews](https://www.kaggle.com/datasets/noahx1/elden-ring-steam-reviews) - Steam Reviews.
+- [FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset) - Players and their attributes.
+- [Fortnite Statistics_80 Games](https://data.world/kreynol3/fortnite-statistics80-games) - End games statistics.
+- [Fortnite: Battle Royale - Weapon Attributes](https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes) - Stats of the weapons.
+- [GamingVideoSET](https://github.com/NabajeetBarman/GamingHDRVideoSET) [![GitHub stars](https://img.shields.io/github/stars/NabajeetBarman/GamingHDRVideoSET?style=flat)](https://github.com/NabajeetBarman/GamingHDRVideoSET/stargazers) - A Dataset for Gaming Video Streaming Applications. [Paper](https://ieeexplore.ieee.org/document/8463362)
+- [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - Chats from matches replays.
+- [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) [![GitHub stars](https://img.shields.io/github/stars/oscarmcnulty/gta-3d-dataset?style=flat)](https://github.com/oscarmcnulty/gta-3d-dataset/stargazers) - 2D and 3D images from Grand Theft Auto 5 game.
+- [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of cards.
+- [Heroes of Might and Magic 3 Units](https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units) - Units of a game.
+- [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - Collection of decks.
+- [Hogwarts Legacy Reviews](https://www.kaggle.com/datasets/georgescutelnicu/hogwarts-legacy-reviews) - A list of Hogwarts Legacy reviews.
+- [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
+- [League of Legends Diamond Ranked Games (10 min)](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) - Classify ranked games.
+- [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - Game data.
+- [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - Cards data.
+- [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - Steam game stats.
+- [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data) - Biometric, biographic and basic box score features from 1996 to 2019 season.
+- [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - Historical polling data.
+- [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 matches.
+- [Overwatch Game Records](https://www.kaggle.com/mylesoneill/overwatch-game-records) - Stats of one player from thousands of matches.
+- [Overwatch Ranked Data](https://www.kaggle.com/simonho87/overwatch-ranked-data) - Player and match data.
+- [Overwatch](https://www.kaggle.com/edopic/overwatch) - Heros characteristics.
+- [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
+- [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
+- [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - Stats of 721 Pokémon of the first six generations.
+- [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) [![GitHub stars](https://img.shields.io/github/stars/Biuni/PokemonGO-Pokedex?style=flat)](https://github.com/Biuni/PokemonGO-Pokedex/stargazers) - Encyclopedia Pokemon.
+- [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
+- [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
+- [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
+- [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - Pokemon and battle stats.
+- [Predict'em All](https://www.kaggle.com/semioniy/predictemall) - Pokemon appear in PokemonGo over time.
+- [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - Matches data.
+- [Scrabble](https://github.com/onzie9/Quackle_Self_Play) [![GitHub stars](https://img.shields.io/github/stars/onzie9/Quackle_Self_Play?style=flat)](https://github.com/onzie9/Quackle_Self_Play/stargazers) - Data Quackle game matches.
+- [Self Driving Car](https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning) - Behavioural Cloning Complete Guide.
+- [SkillCraft-StarCraft](https://www.kaggle.com/danofer/skillcraft) - StarCraft 2 league-level performance.
+- [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
+- [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data stream of matches. [Paper](https://doi.org/10.1371/journal.pone.0075129).
+- [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
+- [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the replays.
+- [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) - Player reconnaissance in professional-level.
+- [StarData](https://github.com/TorchCraft/StarData) [![GitHub stars](https://img.shields.io/github/stars/TorchCraft/StarData?style=flat)](https://github.com/TorchCraft/StarData/stargazers) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+- [State of Browser Games 2026](https://pixelgameshub.com/research/state-of-browser-games-2026) - Browser games industry metrics across competitor sites, downloadable as open CSV under CC-BY-4.0.
+- [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
+- [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
+- [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
+- [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) [![GitHub stars](https://img.shields.io/github/stars/googlecreativelab/quickdraw-dataset?style=flat)](https://github.com/googlecreativelab/quickdraw-dataset/stargazers) - Collection of 50 million drawings across 345 categories.
+- [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - Time, cost and bonus of buildings.
+- [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records.
+- [World of Warcraft Battlegrounds](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) - Details of battlegrounds.
+
+### Related
+
+- [Computer Games Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/computer-games-dataset) - Gaming World: A Comprehensive Computer Games Dataset.
+- [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from Play Store apps.
+- [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - Video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
+- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
+- [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data from [metacritc](https://www.metacritic.com).
+- [NEXARDA Franchises](https://www.nexarda.com/pages/complete-list-of-video-game-franchises) - Franchises data from [nexarda.com](https://www.nexarda.com).
+- [NEXARDA Games](https://www.nexarda.com/pages/complete-list-of-video-games) - Games data from [nexarda.com](https://www.nexarda.com).
+- [NEXARDA Studios](https://www.nexarda.com/pages/complete-list-of-video-game-studios) - Developers and publishers data from [nexarda.com](https://www.nexarda.com).
+- [Nintendo Games](https://www.kaggle.com/datasets/joebeachcapital/nintendo-games) - Nintendo games for all platforms scraped from [metacritc](https://www.metacritic.com).
+- [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Prices of video games from Steam.
+- [PC Games Sales](https://www.kaggle.com/datasets/khaiid/most-selling-pc-games) - Dataset of the best selling PC games.
+- [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - Questions about video games.
+- [Steam Game Data](https://github.com/CraigKelly/steam-data) [![GitHub stars](https://img.shields.io/github/stars/CraigKelly/steam-data?style=flat)](https://github.com/CraigKelly/steam-data/stargazers) - Combination of Steam API and Steam Spy.
+- [Steam Games Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset) - Dataset scraped from Steam search system.
+- [Steam Review Datasets](https://github.com/mulhod/steam_reviews) [![GitHub stars](https://img.shields.io/github/stars/mulhod/steam_reviews?style=flat)](https://github.com/mulhod/steam_reviews/stargazers) - Steam user reviews.
+- [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - Information about 27,000 games scraped from Steam and SteamSpy APIs.
+- [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games) - Steam user interactions.
+- [Vandal Game Reviews](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) - Game data from [Vandal.com](https://vandal.elespanol.com/).
+- [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) - Video games released.
+- [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) - Video game sales and rating from [metacritc](https://www.metacritic.com).
+- [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales) - Sales data from games.
+- [Video Games Data](https://www.kaggle.com/datasets/maso0dahmed/video-games-data) - Video games synopse.
+- [Video Games Review](https://www.kaggle.com/launay10christian/video-games-review) - Reviews on [JeuxVideo.com](http://www.jeuxvideo.com/).
+- [Video Games Sales 2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019) - Sales and scores for games.
+
+______________________________________________________________________
+
+## Market Research
+
+- [Euro-Monitor, Video Games](https://www.euromonitor.com/) - Strategic Market Researcher.
+- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies.
+- [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
+- [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
+
+______________________________________________________________________
+
+## Miscellaneous
+
+- [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
+- [Awesome ACG](https://github.com/soruly/awesome-acg) [![GitHub stars](https://img.shields.io/github/stars/soruly/awesome-acg?style=flat)](https://github.com/soruly/awesome-acg/stargazers) - Technologies related to anime, comic and games.
+- [Awesome Esports](https://github.com/strift/awesome-esports) [![GitHub stars](https://img.shields.io/github/stars/strift/awesome-esports?style=flat)](https://github.com/strift/awesome-esports/stargazers) - Competitiosn using video games.
+- [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) [![GitHub stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev?style=flat)](https://github.com/Calinou/awesome-gamedev/stargazers) - Collection of open-source games.
+- [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
+- [data.world](https://data.world) - Datasets.
+- [datasets-games](https://github.com/cncplyr/datasets-games) [![GitHub stars](https://img.shields.io/github/stars/cncplyr/datasets-games?style=flat)](https://github.com/cncplyr/datasets-games/stargazers) - Datasets from a variety of games.
+- [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) [![GitHub stars](https://img.shields.io/github/stars/michelpereira/awesome-gamesofcoding?style=flat)](https://github.com/michelpereira/awesome-gamesofcoding/stargazers) - Games to teach programming language.
+- [Games on GitHub](https://github.com/leereilly/games) [![GitHub stars](https://img.shields.io/github/stars/leereilly/games?style=flat)](https://github.com/leereilly/games/stargazers) - Popular videos games hosted in GitHub.
+- [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) - Activity from open source GitHub repositories.
+- [Gym OpenAI](https://github.com/openai/gym) [![GitHub stars](https://img.shields.io/github/stars/openai/gym?style=flat)](https://github.com/openai/gym/stargazers) - Game toolkit for reinforcement learning algorithms.
+- [Kaggle](http://kaggle.com/) - Data Science competitions, datasets and projects.
+- [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
+- [Open HTML5 Games](https://github.com/OpenHTML5Games) [![GitHub stars](https://img.shields.io/github/stars/OpenHTML5Games?style=flat)](https://github.com/OpenHTML5Games/stargazers) - JavaScript and HTML5 games.
+- [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - Open-source games (PT-BR).
+- [UCI](https://archive.ics.uci.edu/) - Datasets.
+
+______________________________________________________________________
+
+## License
+
+<a rel="license" href="LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" /></a>
+
+- License: [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE)

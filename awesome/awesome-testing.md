@@ -1,0 +1,244 @@
+# Testing
+
+[![GitHub stars](https://img.shields.io/github/stars/TheJambo/awesome-testing?style=flat)](https://github.com/TheJambo/awesome-testing/stargazers)
+
+![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
+
+# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Dead link checker](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/TheJambo/awesome-testing/actions/workflows/404-links.yml/badge.svg?style=flat)](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml/badge.svg/stargazers)](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml)
+> A curated list of testing software, extensions and resources
+
+## Foreword
+This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge. Note that this is for all areas of software testing after the code in question is written (no unit tests/static analysis!).
+
+Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md?style=flat)](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md/stargazers) page and add to the list. :)
+
+## Contents
+
+- [Software](#software)
+- [Books](#books)
+- [Training](#training-includes-developer-training-for-automation-testers)
+- [Blogs](#blogs)
+- [Newsletters](#newsletters)
+- [Suggested Awesome Lists](#suggested-awesome-lists)
+- [QA & Testing Road Map](#qa-and-testing-road-map)
+- [Others](#others)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
+
+
+## Software
+
+### API Testing
+- [Bruno](https://github.com/usebruno/bruno) [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat)](https://github.com/usebruno/bruno/stargazers) - Open-source API client for exploring and testing APIs.
+- [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
+- [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relavent tests are conducted with our long running agent setup.
+- [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
+- [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
+- [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
+- [Keploy](https://github.com/keploy/keploy) [![GitHub stars](https://img.shields.io/github/stars/keploy/keploy?style=flat)](https://github.com/keploy/keploy/stargazers) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+- [RestQA](https://github.com/restqa/restqa) [![GitHub stars](https://img.shields.io/github/stars/restqa/restqa?style=flat)](https://github.com/restqa/restqa/stargazers) - REST API testing framework based on Gherkin.
+- [SpecTest](https://github.com/justiceo/spectest) [![GitHub stars](https://img.shields.io/github/stars/justiceo/spectest?style=flat)](https://github.com/justiceo/spectest/stargazers) - Truly declarative API testing framework in Js, or plain JSON.
+- [Tests Coverage Tool](https://github.com/Nikita-Filonov/tests-coverage-tool) [![GitHub stars](https://img.shields.io/github/stars/Nikita-Filonov/tests-coverage-tool?style=flat)](https://github.com/Nikita-Filonov/tests-coverage-tool/stargazers) - Ultimate tool to measure gRPC service coverage from tests.
+- [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) [![GitHub stars](https://img.shields.io/github/stars/Nikita-Filonov/swagger-coverage-tool?style=flat)](https://github.com/Nikita-Filonov/swagger-coverage-tool/stargazers) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
+- [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
+- [Webhook Debugger](https://github.com/brancogao/webhook-debugger) [![GitHub stars](https://img.shields.io/github/stars/brancogao/webhook-debugger?style=flat)](https://github.com/brancogao/webhook-debugger/stargazers) - Open-source, self-hosted webhook inspector with signature verification support.
+- [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
+- [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
+- [postman2pytest](https://github.com/golikovichev/postman2pytest) [![GitHub stars](https://img.shields.io/github/stars/golikovichev/postman2pytest?style=flat)](https://github.com/golikovichev/postman2pytest/stargazers) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
+
+### Security Testing
+- [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) [![GitHub stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=flat)](https://github.com/zaproxy/zaproxy/stargazers) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
+- [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
+- [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat)](https://github.com/projectdiscovery/nuclei/stargazers) - nuclie is automated scanner for common vulnerbilty finding on site.
+
+### AI & LLM Testing
+- [promptfoo](https://github.com/promptfoo/promptfoo) [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat)](https://github.com/promptfoo/promptfoo/stargazers) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+- [Tenro](https://github.com/tenro-ai/tenro-python) [![GitHub stars](https://img.shields.io/github/stars/tenro-ai/tenro-python?style=flat)](https://github.com/tenro-ai/tenro-python/stargazers) - Open-source testing framework for AI agents. Simulate LLM and tool calls to test edge cases, failure paths, and agent logic without live API calls.
+- [voicetest](https://github.com/voicetestdev/voicetest) [![GitHub stars](https://img.shields.io/github/stars/voicetestdev/voicetest?style=flat)](https://github.com/voicetestdev/voicetest/stargazers) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
+- [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) [![GitHub stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic?style=flat)](https://github.com/jwekavanagh/agentskeptic/stargazers) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
+- [Evaliphy](https://github.com/evaliphy/evaliphy) [![GitHub stars](https://img.shields.io/github/stars/evaliphy/evaliphy?style=flat)](https://github.com/evaliphy/evaliphy/stargazers) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
+
+### Service Virtualization
+- [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
+- [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) [![GitHub stars](https://img.shields.io/github/stars/xnbox/DeepfakeHTTP?style=flat)](https://github.com/xnbox/DeepfakeHTTP/stargazers) - Web server using HTTP dumps as a response source for API simulation.
+- [fakecloud](https://github.com/faiscadev/fakecloud) [![GitHub stars](https://img.shields.io/github/stars/faiscadev/fakecloud?style=flat)](https://github.com/faiscadev/fakecloud/stargazers) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
+- [mockd](https://github.com/getmockd/mockd) [![GitHub stars](https://img.shields.io/github/stars/getmockd/mockd?style=flat)](https://github.com/getmockd/mockd/stargazers) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
+- [MockServer](https://github.com/mock-server/mockserver-monorepo) [![GitHub stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo?style=flat)](https://github.com/mock-server/mockserver-monorepo/stargazers) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
+- [WireMock](https://github.com/wiremock/wiremock) [![GitHub stars](https://img.shields.io/github/stars/wiremock/wiremock?style=flat)](https://github.com/wiremock/wiremock/stargazers) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
+- [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
+
+### Visual Testing
+- [Frostbyte Screenshot Action](https://github.com/OzorOwn/frostbyte-screenshot-action) [![GitHub stars](https://img.shields.io/github/stars/OzorOwn/frostbyte-screenshot-action?style=flat)](https://github.com/OzorOwn/frostbyte-screenshot-action/stargazers) - GitHub Action for automated website screenshots in CI/CD pipelines. Supports multiple viewports, full-page capture, and dark mode emulation.
+- [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
+- [GoodLooks](https://github.com/dashcamio/goodlooks) [![GitHub stars](https://img.shields.io/github/stars/dashcamio/goodlooks?style=flat)](https://github.com/dashcamio/goodlooks/stargazers) - AI-powered visual validation for Playwright tests.
+- [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
+- [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with AI flake triage and baseline review.
+- [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
+- [recheck-web](https://github.com/retest/recheck-web) [![GitHub stars](https://img.shields.io/github/stars/retest/recheck-web?style=flat)](https://github.com/retest/recheck-web/stargazers) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
+- [Sherlo](https://github.com/sherlo-io/sherlo) [![GitHub stars](https://img.shields.io/github/stars/sherlo-io/sherlo?style=flat)](https://github.com/sherlo-io/sherlo/stargazers) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+- [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
+- [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
+
+### UI & End-to-End Testing
+- [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
+- [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
+- [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
+- [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to Github Actions to test only the flows that have changed in a PR.
+- [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
+- [Ferrum](https://github.com/rubycdp/ferrum) [![GitHub stars](https://img.shields.io/github/stars/rubycdp/ferrum?style=flat)](https://github.com/rubycdp/ferrum/stargazers) - Chrome automation via CDP with a high-level Ruby API.
+- [flutter-skill](https://github.com/ai-dashboad/flutter-skill) [![GitHub stars](https://img.shields.io/github/stars/ai-dashboad/flutter-skill?style=flat)](https://github.com/ai-dashboad/flutter-skill/stargazers) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
+- [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
+- [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) [![GitHub stars](https://img.shields.io/github/stars/test-zeus-ai/testzeus-hercules?style=flat)](https://github.com/test-zeus-ai/testzeus-hercules/stargazers) - Open-source end-to-end testing agent.
+- [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
+- [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
+- [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
+- [Octomind](https://github.com/OctoMind-dev) [![GitHub stars](https://img.shields.io/github/stars/OctoMind-dev?style=flat)](https://github.com/OctoMind-dev/stargazers) - AI-powered test case discovery and maintenance.
+- [playwright-bdd](https://github.com/vitalets/playwright-bdd) [![GitHub stars](https://img.shields.io/github/stars/vitalets/playwright-bdd?style=flat)](https://github.com/vitalets/playwright-bdd/stargazers) - BDD-style Playwright testing.
+- [QA Wolf](https://github.com/qawolf/qawolf) [![GitHub stars](https://img.shields.io/github/stars/qawolf/qawolf?style=flat)](https://github.com/qawolf/qawolf/stargazers) - Node.js library for creating browser tests faster.
+- [tapflow](https://github.com/jo-duchan/tapflow) [![GitHub stars](https://img.shields.io/github/stars/jo-duchan/tapflow?style=flat)](https://github.com/jo-duchan/tapflow/stargazers) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
+- [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) [![GitHub stars](https://img.shields.io/github/stars/Nikita-Filonov/ui-coverage-scenario-tool?style=flat)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool/stargazers) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
+- [agent-qa](https://github.com/vostride/agent-qa) [![GitHub stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat)](https://github.com/vostride/agent-qa/stargazers) - Open-source Agentic QA Harness with Memory. Write tests in natural language. agent-qa runs them across web and mobile with execution memory, catching regressions before release. 
+  
+  
+### Test Management
+- [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) [![GitHub stars](https://img.shields.io/github/stars/kiwitcms/Kiwi?style=flat)](https://github.com/kiwitcms/Kiwi/stargazers) - Open-source test case management.
+- [skipper](https://github.com/get-skipper/skipper) [![GitHub stars](https://img.shields.io/github/stars/get-skipper/skipper?style=flat)](https://github.com/get-skipper/skipper/stargazers) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
+- [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) [![GitHub stars](https://img.shields.io/github/stars/TestLinkOpenSourceTRMS/testlink-code?style=flat)](https://github.com/TestLinkOpenSourceTRMS/testlink-code/stargazers) - Open-source test case management system.
+- [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
+
+### Test Data Management
+- [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
+- [Synth](https://github.com/getsynth/synth) [![GitHub stars](https://img.shields.io/github/stars/getsynth/synth?style=flat)](https://github.com/getsynth/synth/stargazers) - Open-source test data generator.
+- [Touca](https://github.com/trytouca/trytouca) [![GitHub stars](https://img.shields.io/github/stars/trytouca/trytouca?style=flat)](https://github.com/trytouca/trytouca/stargazers) - Continuous regression testing for behavioral and performance comparisons.
+- [test-each](https://github.com/ehmicky/test-each) [![GitHub stars](https://img.shields.io/github/stars/ehmicky/test-each?style=flat)](https://github.com/ehmicky/test-each/stargazers) - Data-driven testing framework.
+
+### Browser Extensions & Utilities
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
+- [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
+- [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
+- [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
+- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
+- [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
+- [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
+
+### Accessibility & Usability Testing
+- [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
+- [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+- [VertaaUX CLI](https://github.com/VertaaUX/cli) [![GitHub stars](https://img.shields.io/github/stars/VertaaUX/cli?style=flat)](https://github.com/VertaaUX/cli/stargazers) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
+- [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
+
+### Performance & Load Testing
+- [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+- [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) [![GitHub stars](https://img.shields.io/github/stars/Nikita-Filonov/load-testing-hub-panel?style=flat)](https://github.com/Nikita-Filonov/load-testing-hub-panel/stargazers) - Ultimate web UI for visualizing load test results
+
+### Web3 & Blockchain Testing
+- [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
+- [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
+- [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain for running tests.
+- [Foundry](https://github.com/foundry-rs/foundry) [![GitHub stars](https://img.shields.io/github/stars/foundry-rs/foundry?style=flat)](https://github.com/foundry-rs/foundry/stargazers) - Fast, modular toolkit for Ethereum development.
+- [Hardhat](https://hardhat.org/) - Ethereum development and testing environment.
+- [Truffle Suite](https://trufflesuite.com/) - Comprehensive smart contract development suite.
+- [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) [![GitHub stars](https://img.shields.io/github/stars/jg8481/Robot-Framework-Solidity-Testing-Toolkit?style=flat)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit/stargazers) - Robot Framework integration for Solidity testing.
+
+### Test Automation Frameworks
+- [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) [![GitHub stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter?style=flat)](https://github.com/jumpstarter-dev/jumpstarter/stargazers) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
+- [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
+- [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) [![GitHub stars](https://img.shields.io/github/stars/aiqualitylab/ai-natural-language-tests?style=flat)](https://github.com/aiqualitylab/ai-natural-language-tests/stargazers) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
+- [OpenTester](https://github.com/kznr02/OpenTester) [![GitHub stars](https://img.shields.io/github/stars/kznr02/OpenTester?style=flat)](https://github.com/kznr02/OpenTester/stargazers) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
+
+### Screen Recording & Session Replays
+- [Captura](https://github.com/MathewSachin/Captura) [![GitHub stars](https://img.shields.io/github/stars/MathewSachin/Captura?style=flat)](https://github.com/MathewSachin/Captura/stargazers) - Open-source video recording tool.
+
+### Mind Mapping & Documentation
+- [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.
+
+### A/B Testing
+- [Kirro](https://kirro.io) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
+
+
+## Books
+- [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
+- [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
+- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - A how to guide for those looking to transition to an Agile as a tester and also how the authors work on their Agile teams.
+- [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - A very good book on structuring Exploratory Testing and designing tests.
+- [The Domain Testing Workbook](https://amzn.to/2Az4l90) - An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.
+- [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - An incredibly useful book for usability testing.
+- [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
+- [UI is Communication](https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (UI and Usability Testing).
+- [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - About how we make decisions and how to run experiments (experiments == tests).
+- [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - A book on how to design and execute controlled software failure experiments.
+- [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques for developers.
+- [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - A book that teaches you to design and execute controlled experiments that uncover hidden problems.
+- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
+- [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - Guarantee the quality and consistency of your web APIs by implementing an automated testing process.
+- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
+
+## Training (Includes developer training for automation testers)
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) [![GitHub stars](https://img.shields.io/github/stars/karlhorky/learn-to-program?style=flat)](https://github.com/karlhorky/learn-to-program/stargazers) - Another awesome list for developer training
+- [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
+- [Coursera](https://www.coursera.org/) - Online courses from top universities.
+- [Cybrary](https://www.cybrary.it/) - Online free security training.
+- [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
+- [FrontRow](https://github.com/majdukovic/frontrow) [![GitHub stars](https://img.shields.io/github/stars/majdukovic/frontrow?style=flat)](https://github.com/majdukovic/frontrow/stargazers) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
+
+## Blogs
+- [James Bach](http://www.satisfice.com/blog/)
+- [Michael Bolton](http://www.developsense.com/blog/)
+- [Janet Gregory](http://janetgregory.ca/blog/)
+- [Nikita Sobolev](https://sobolevn.me/)
+- [Softwaretester Blog](https://www.softwaretester.blog/)
+- [Automation Panda](https://automationpanda.com/)
+- [And others](https://github.com/ChristoWolf/awesome-testing-blogs) [![GitHub stars](https://img.shields.io/github/stars/ChristoWolf/awesome-testing-blogs?style=flat)](https://github.com/ChristoWolf/awesome-testing-blogs/stargazers)
+
+## Newsletters
+- [Coding Jag](https://www.testmuai.com/newsletter) - Your weekly dose of the latest in AI, Testing, Development, CI/CD, and Automation—keeping you ahead of the curve.
+- [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
+
+## Suggested Awesome Lists
+
+### Must Read
+- [Falsehoods](https://github.com/kdeldycke/awesome-falsehood) [![GitHub stars](https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=flat)](https://github.com/kdeldycke/awesome-falsehood/stargazers) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+- [Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) [![GitHub stars](https://img.shields.io/github/stars/minimaxir/big-list-of-naughty-strings?style=flat)](https://github.com/minimaxir/big-list-of-naughty-strings/stargazers) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
+- [Unicode](https://github.com/jagracey/Awesome-Unicode) [![GitHub stars](https://img.shields.io/github/stars/jagracey/Awesome-Unicode?style=flat)](https://github.com/jagracey/Awesome-Unicode/stargazers) - A great resource for learning how unicode works and the issues it can cause.
+
+### Useful References
+- [The Original](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat)](https://github.com/sindresorhus/awesome/stargazers) - The awesome list of awesome lists.
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) [![GitHub stars](https://img.shields.io/github/stars/karlhorky/learn-to-program?style=flat)](https://github.com/karlhorky/learn-to-program/stargazers) - Learning to code, for those looking to make the move to automation
+- [Application Security](https://github.com/paragonie/awesome-appsec) [![GitHub stars](https://img.shields.io/github/stars/paragonie/awesome-appsec?style=flat)](https://github.com/paragonie/awesome-appsec/stargazers) - Incredibly extensive, but you'll find something to fit the bill.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium) [![GitHub stars](https://img.shields.io/github/stars/christian-bromann/awesome-selenium?style=flat)](https://github.com/christian-bromann/awesome-selenium/stargazers) - Better than searching Google if you know what you want.
+- [Security](https://github.com/sbilly/awesome-security) [![GitHub stars](https://img.shields.io/github/stars/sbilly/awesome-security?style=flat)](https://github.com/sbilly/awesome-security/stargazers) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) [![GitHub stars](https://img.shields.io/github/stars/ligurio/awesome-software-quality?style=flat)](https://github.com/ligurio/awesome-software-quality/stargazers) - A list of free software testing and verification resources.
+- [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) [![GitHub stars](https://img.shields.io/github/stars/virajkulkarni14/awesome-cucumber?style=flat)](https://github.com/virajkulkarni14/awesome-cucumber/stargazers) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) [![GitHub stars](https://img.shields.io/github/stars/aliesbelik/awesome-jmeter?style=flat)](https://github.com/aliesbelik/awesome-jmeter/stargazers) - A curated collection of resources around Apache JMeter.
+- [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) [![GitHub stars](https://img.shields.io/github/stars/be-next/awesome-performance-engineering?style=flat)](https://github.com/be-next/awesome-performance-engineering/stargazers) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
+- [How They Test](https://github.com/abhivaikar/howtheytest) [![GitHub stars](https://img.shields.io/github/stars/abhivaikar/howtheytest?style=flat)](https://github.com/abhivaikar/howtheytest/stargazers) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+
+## QA and Testing Road Map
+- [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) [![GitHub stars](https://img.shields.io/github/stars/fityanos/Quality-Assurance-Road-Map?style=flat)](https://github.com/fityanos/Quality-Assurance-Road-Map/stargazers) - A wide and rich list of strategies, topics, and skills that you need to start a career in software testing and automation.
+
+## Others
+- [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
+- [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
+- [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) [![GitHub stars](https://img.shields.io/github/stars/TheJambo/ToDoInterviewTest?style=flat)](https://github.com/TheJambo/ToDoInterviewTest/stargazers) - A very buggy To Do List to facilitate face to face interviews.
+
+## Contributing
+See the *Awesome Testing* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
+
+## Code of Conduct
+See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+>In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [the
+contributors](https://github.com/TheJambo/awesome-testing/graphs/contributors)
+have waived all copyright and related or neighboring rights to this work. See the
+[license file](LICENSE) for details.

@@ -2,4 +2,280 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow?style=flat)](https://github.com/jtoy/awesome-tensorflow/stargazers)
 
-404: Not Found
+# Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+
+A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
+
+## What is TensorFlow?
+
+TensorFlow is an open source software library for numerical computation using data flow graphs. In other words, the best way to build deep learning models.
+
+More info [here](http://tensorflow.org).
+
+
+
+## Table of Contents
+
+<!-- MarkdownTOC depth=4 -->
+- [Tutorials](#github-tutorials)
+- [Models/Projects](#github-projects)
+- [Powered by TensorFlow](#github-powered-by)
+- [Libraries](#libraries)
+- [Tools/Utilities](#tools-utils)
+- [Videos](#video)
+- [Papers](#papers)
+- [Blog posts](#blogs)
+- [Community](#community)
+- [Books](#books)
+
+<!-- /MarkdownTOC -->
+
+
+<a name="github-tutorials" />
+
+## Tutorials
+
+* [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) [![GitHub stars](https://img.shields.io/github/stars/pkmital/tensorflow_tutorials?style=flat)](https://github.com/pkmital/tensorflow_tutorials/stargazers) - From the basics to slightly more interesting applications of TensorFlow
+* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) [![GitHub stars](https://img.shields.io/github/stars/nlintz/TensorFlow-Tutorials?style=flat)](https://github.com/nlintz/TensorFlow-Tutorials/stargazers) - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
+* [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) [![GitHub stars](https://img.shields.io/github/stars/Hvass-Labs/TensorFlow-Tutorials?style=flat)](https://github.com/Hvass-Labs/TensorFlow-Tutorials/stargazers) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) [![GitHub stars](https://img.shields.io/github/stars/aymericdamien/TensorFlow-Examples?style=flat)](https://github.com/aymericdamien/TensorFlow-Examples/stargazers) - TensorFlow tutorials and code examples for beginners
+* [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) [![GitHub stars](https://img.shields.io/github/stars/sjchoi86/Tensorflow-101?style=flat)](https://github.com/sjchoi86/Tensorflow-101/stargazers) - TensorFlow tutorials written in Python with Jupyter Notebook
+* [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) [![GitHub stars](https://img.shields.io/github/stars/terryum/TensorFlow_Exercises?style=flat)](https://github.com/terryum/TensorFlow_Exercises/stargazers) - Re-create the codes from other TensorFlow examples
+* [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) [![GitHub stars](https://img.shields.io/github/stars/samjabrahams/tensorflow-on-raspberry-pi?style=flat)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/stargazers) - TensorFlow compiled and running properly on the Raspberry Pi
+* [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) [![GitHub stars](https://img.shields.io/github/stars/guillaume-chevalier/LSTM-Human-Activity-Recognition?style=flat)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/stargazers) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
+* [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - Build your first TensorFlow Android app
+* [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) [![GitHub stars](https://img.shields.io/github/stars/guillaume-chevalier/seq2seq-signal-prediction?style=flat)](https://github.com/guillaume-chevalier/seq2seq-signal-prediction/stargazers) - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
+* [Single Image Random Dot Stereograms](https://github.com/Mazecreator/TensorFlow-SIRDS) [![GitHub stars](https://img.shields.io/github/stars/Mazecreator/TensorFlow-SIRDS?style=flat)](https://github.com/Mazecreator/TensorFlow-SIRDS/stargazers) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
+* [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford Course about Tensorflow from 2017 - [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
+* [TensorFlow World](https://github.com/astorfi/TensorFlow-World) [![GitHub stars](https://img.shields.io/github/stars/astorfi/TensorFlow-World?style=flat)](https://github.com/astorfi/TensorFlow-World/stargazers) - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
+* [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) [![GitHub stars](https://img.shields.io/github/stars/vahidk/EffectiveTensorflow?style=flat)](https://github.com/vahidk/EffectiveTensorflow/stargazers) - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
+* [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html) - Modular implementation for TensorFlow's official tutorials. ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
+* [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) A conceptual overview of the Estimator API, when you'd use it and why. 
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - Introduction to Tensorflow offered by Coursera
+* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - Convolutional Neural Networks in Tensorflow, offered by Coursera
+* [TensorLayerX](https://tensorlayerx.readthedocs.io/en/latest/index.html#user-guide) - Using TensorFlow like PyTorch. ([Api docs](https://tensorlayerx.readthedocs.io/en/latest/index.html#))
+
+<a name="github-projects" />
+
+## Models/Projects
+
+* [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) [![GitHub stars](https://img.shields.io/github/stars/Mrgemy95/Tensorflow-Project-Template?style=flat)](https://github.com/Mrgemy95/Tensorflow-Project-Template/stargazers) - A simple and well-designed template for your tensorflow project.
+* [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) [![GitHub stars](https://img.shields.io/github/stars/yunjey/dtn-tensorflow?style=flat)](https://github.com/yunjey/dtn-tensorflow/stargazers) - Implementation of Unsupervised Cross-Domain Image Generation
+* [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) [![GitHub stars](https://img.shields.io/github/stars/yunjey/show_attend_and_tell?style=flat)](https://github.com/yunjey/show_attend_and_tell/stargazers) - Attention Based Image Caption Generator
+* [Neural Style](https://github.com/cysmith/neural-style-tf) [![GitHub stars](https://img.shields.io/github/stars/cysmith/neural-style-tf?style=flat)](https://github.com/cysmith/neural-style-tf/stargazers) Implementation of Neural Style
+* [SRGAN](https://github.com/tensorlayer/srgan) [![GitHub stars](https://img.shields.io/github/stars/tensorlayer/srgan?style=flat)](https://github.com/tensorlayer/srgan/stargazers) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+* [Pretty Tensor](https://github.com/google/prettytensor) [![GitHub stars](https://img.shields.io/github/stars/google/prettytensor?style=flat)](https://github.com/google/prettytensor/stargazers) - Pretty Tensor provides a high level builder API
+* [Neural Style](https://github.com/anishathalye/neural-style) [![GitHub stars](https://img.shields.io/github/stars/anishathalye/neural-style?style=flat)](https://github.com/anishathalye/neural-style/stargazers) - An implementation of neural style
+* [AlexNet3D](https://github.com/denti/AlexNet3D) [![GitHub stars](https://img.shields.io/github/stars/denti/AlexNet3D?style=flat)](https://github.com/denti/AlexNet3D/stargazers) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
+* [TensorFlow White Paper Notes](https://github.com/samjabrahams/tensorflow-white-paper-notes) [![GitHub stars](https://img.shields.io/github/stars/samjabrahams/tensorflow-white-paper-notes?style=flat)](https://github.com/samjabrahams/tensorflow-white-paper-notes/stargazers) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+* [NeuralArt](https://github.com/ckmarkoh/neuralart_tensorflow) [![GitHub stars](https://img.shields.io/github/stars/ckmarkoh/neuralart_tensorflow?style=flat)](https://github.com/ckmarkoh/neuralart_tensorflow/stargazers) - Implementation of A Neural Algorithm of Artistic Style
+* [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) [![GitHub stars](https://img.shields.io/github/stars/hardmaru/write-rnn-tensorflow?style=flat)](https://github.com/hardmaru/write-rnn-tensorflow/stargazers) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
+* [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) [![GitHub stars](https://img.shields.io/github/stars/carpedm20/NTM-tensorflow?style=flat)](https://github.com/carpedm20/NTM-tensorflow/stargazers) - implementation of Neural Turing Machine
+* [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting](https://github.com/agermanidis/thingscoop) [![GitHub stars](https://img.shields.io/github/stars/agermanidis/thingscoop?style=flat)](https://github.com/agermanidis/thingscoop/stargazers) - Search, filter, and describe videos based on objects, places, and other things that appear in them
+* [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow](https://github.com/tokestermw/tensorflow-shakespeare) [![GitHub stars](https://img.shields.io/github/stars/tokestermw/tensorflow-shakespeare?style=flat)](https://github.com/tokestermw/tensorflow-shakespeare/stargazers) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
+* [Chatbot](https://github.com/Conchylicultor/DeepQA) [![GitHub stars](https://img.shields.io/github/stars/Conchylicultor/DeepQA?style=flat)](https://github.com/Conchylicultor/DeepQA/stargazers) - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
+* [Seq2seq-Chatbot](https://github.com/tensorlayer/seq2seq-chatbot) [![GitHub stars](https://img.shields.io/github/stars/tensorlayer/seq2seq-chatbot?style=flat)](https://github.com/tensorlayer/seq2seq-chatbot/stargazers) - Chatbot in 200 lines of code
+* [DCGAN](https://github.com/tensorlayer/dcgan) [![GitHub stars](https://img.shields.io/github/stars/tensorlayer/dcgan?style=flat)](https://github.com/tensorlayer/dcgan/stargazers) - Deep Convolutional Generative Adversarial Networks
+* [GAN-CLS](https://github.com/zsdonghao/text-to-image) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/text-to-image?style=flat)](https://github.com/zsdonghao/text-to-image/stargazers) -Generative Adversarial Text to Image Synthesis
+* [im2im](https://github.com/zsdonghao/Unsup-Im2Im) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/Unsup-Im2Im?style=flat)](https://github.com/zsdonghao/Unsup-Im2Im/stargazers) - Unsupervised Image to Image Translation with Generative Adversarial Networks
+* [Improved CycleGAN](https://github.com/luoxier/CycleGAN_Tensorlayer) [![GitHub stars](https://img.shields.io/github/stars/luoxier/CycleGAN_Tensorlayer?style=flat)](https://github.com/luoxier/CycleGAN_Tensorlayer/stargazers) - Unpaired Image to Image Translation
+* [DAGAN](https://github.com/nebulaV/DAGAN) [![GitHub stars](https://img.shields.io/github/stars/nebulaV/DAGAN?style=flat)](https://github.com/nebulaV/DAGAN/stargazers) - Fast Compressed Sensing MRI Reconstruction
+* [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) [![GitHub stars](https://img.shields.io/github/stars/pavelgonchar/colornet?style=flat)](https://github.com/pavelgonchar/colornet/stargazers) - Neural Network to colorize grayscale images
+* [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) [![GitHub stars](https://img.shields.io/github/stars/jazzsaxmafia/show_attend_and_tell.tensorflow?style=flat)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow/stargazers) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
+* [Neural Caption Generator with Attention](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) [![GitHub stars](https://img.shields.io/github/stars/jazzsaxmafia/show_attend_and_tell.tensorflow?style=flat)](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow/stargazers) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
+* [Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector) [![GitHub stars](https://img.shields.io/github/stars/jazzsaxmafia/Weakly_detector?style=flat)](https://github.com/jazzsaxmafia/Weakly_detector/stargazers) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
+* [Dynamic Capacity Networks](https://github.com/jazzsaxmafia/dcn.tf) [![GitHub stars](https://img.shields.io/github/stars/jazzsaxmafia/dcn.tf?style=flat)](https://github.com/jazzsaxmafia/dcn.tf/stargazers) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
+* [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) [![GitHub stars](https://img.shields.io/github/stars/dwiel/tensorflow_hmm?style=flat)](https://github.com/dwiel/tensorflow_hmm/stargazers) - Implementation of viterbi and forward/backward algorithms for HMM
+* [DeepOSM](https://github.com/trailbehind/DeepOSM) [![GitHub stars](https://img.shields.io/github/stars/trailbehind/DeepOSM?style=flat)](https://github.com/trailbehind/DeepOSM/stargazers) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
+* [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) [![GitHub stars](https://img.shields.io/github/stars/devsisters/DQN-tensorflow?style=flat)](https://github.com/devsisters/DQN-tensorflow/stargazers) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
+* [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py?style=flat)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py/stargazers) - For Playing Atari Ping Pong
+* [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py?style=flat)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py/stargazers) - For Playing Frozen Lake Game
+* [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py?style=flat)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py/stargazers) - Actor Critic for Playing Discrete Action space Game (Cartpole)
+* [A3C](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py?style=flat)](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py/stargazers) - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
+* [DAGGER](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/Imitation-Learning-Dagger-Torcs?style=flat)](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs/stargazers) - For Playing [Gym Torcs](https://github.com/ugo-nama-kun/gym_torcs) [![GitHub stars](https://img.shields.io/github/stars/ugo-nama-kun/gym_torcs?style=flat)](https://github.com/ugo-nama-kun/gym_torcs/stargazers)
+* [TRPO](https://github.com/jjkke88/RL_toolbox) [![GitHub stars](https://img.shields.io/github/stars/jjkke88/RL_toolbox?style=flat)](https://github.com/jjkke88/RL_toolbox/stargazers) - For Continuous and Discrete Action Space by
+* [Highway Network](https://github.com/fomorians/highway-cnn) [![GitHub stars](https://img.shields.io/github/stars/fomorians/highway-cnn?style=flat)](https://github.com/fomorians/highway-cnn/stargazers) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
+* [Hierarchical Attention Networks](https://github.com/tqtg/hierarchical-attention-networks) [![GitHub stars](https://img.shields.io/github/stars/tqtg/hierarchical-attention-networks?style=flat)](https://github.com/tqtg/hierarchical-attention-networks/stargazers) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) [![GitHub stars](https://img.shields.io/github/stars/dennybritz/cnn-text-classification-tf?style=flat)](https://github.com/dennybritz/cnn-text-classification-tf/stargazers) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [End-To-End Memory Networks](https://github.com/domluna/memn2n) [![GitHub stars](https://img.shields.io/github/stars/domluna/memn2n?style=flat)](https://github.com/domluna/memn2n/stargazers) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
+* [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) [![GitHub stars](https://img.shields.io/github/stars/carpedm20/lstm-char-cnn-tensorflow?style=flat)](https://github.com/carpedm20/lstm-char-cnn-tensorflow/stargazers) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
+* [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) [![GitHub stars](https://img.shields.io/github/stars/thtrieu/yolotf?style=flat)](https://github.com/thtrieu/yolotf/stargazers) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) [![GitHub stars](https://img.shields.io/github/stars/ibab/tensorflow-wavenet?style=flat)](https://github.com/ibab/tensorflow-wavenet/stargazers) - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+* [Mnemonic Descent Method](https://github.com/trigeorgis/mdm) [![GitHub stars](https://img.shields.io/github/stars/trigeorgis/mdm?style=flat)](https://github.com/trigeorgis/mdm/stargazers) - Tensorflow implementation of ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
+* [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) [![GitHub stars](https://img.shields.io/github/stars/InFoCusp/tf_cnnvis?style=flat)](https://github.com/InFoCusp/tf_cnnvis/stargazers) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+* [VGAN Tensorflow](https://github.com/Singularity42/VGAN-Tensorflow) [![GitHub stars](https://img.shields.io/github/stars/Singularity42/VGAN-Tensorflow?style=flat)](https://github.com/Singularity42/VGAN-Tensorflow/stargazers) - Tensorflow implementation for MIT ["Generating Videos with Scene Dynamics"](http://carlvondrick.com/tinyvideo/) by Vondrick et al.
+* [3D Convolutional Neural Networks in TensorFlow](https://github.com/astorfi/3D-convolutional-speaker-recognition) [![GitHub stars](https://img.shields.io/github/stars/astorfi/3D-convolutional-speaker-recognition?style=flat)](https://github.com/astorfi/3D-convolutional-speaker-recognition/stargazers) - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
+* [U-Net](https://github.com/zsdonghao/u-net-brain-tumor) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/u-net-brain-tumor?style=flat)](https://github.com/zsdonghao/u-net-brain-tumor/stargazers) - For Brain Tumor Segmentation
+* [Spatial Transformer Networks](https://github.com/zsdonghao/Spatial-Transformer-Nets) [![GitHub stars](https://img.shields.io/github/stars/zsdonghao/Spatial-Transformer-Nets?style=flat)](https://github.com/zsdonghao/Spatial-Transformer-Nets/stargazers) - Learn the Transformation Function 
+* [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow](https://github.com/astorfi/lip-reading-deeplearning) [![GitHub stars](https://img.shields.io/github/stars/astorfi/lip-reading-deeplearning?style=flat)](https://github.com/astorfi/lip-reading-deeplearning/stargazers) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
+* [Attentive Object Tracking](https://github.com/akosiorek/hart) [![GitHub stars](https://img.shields.io/github/stars/akosiorek/hart?style=flat)](https://github.com/akosiorek/hart/stargazers) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
+* [Holographic Embeddings for Graph Completion and Link Prediction](https://github.com/laxatives/TensorFlow-TransX) [![GitHub stars](https://img.shields.io/github/stars/laxatives/TensorFlow-TransX?style=flat)](https://github.com/laxatives/TensorFlow-TransX/stargazers) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
+* [Unsupervised Object Counting](https://github.com/akosiorek/attend_infer_repeat) [![GitHub stars](https://img.shields.io/github/stars/akosiorek/attend_infer_repeat?style=flat)](https://github.com/akosiorek/attend_infer_repeat/stargazers) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
+* [Tensorflow FastText](https://github.com/apcode/tensorflow_fasttext) [![GitHub stars](https://img.shields.io/github/stars/apcode/tensorflow_fasttext?style=flat)](https://github.com/apcode/tensorflow_fasttext/stargazers) - A simple embedding based text classifier inspired by Facebook's fastText.
+* [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) [![GitHub stars](https://img.shields.io/github/stars/mlachmish/MusicGenreClassification?style=flat)](https://github.com/mlachmish/MusicGenreClassification/stargazers) - Classify music genre from a 10 second sound stream using a Neural Network.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) [![GitHub stars](https://img.shields.io/github/stars/kubeflow/kubeflow?style=flat)](https://github.com/kubeflow/kubeflow/stargazers) - Framework for easily using Tensorflow with Kubernetes.
+* [TensorNets](https://github.com/taehoonlee/tensornets) [![GitHub stars](https://img.shields.io/github/stars/taehoonlee/tensornets?style=flat)](https://github.com/taehoonlee/tensornets/stargazers) - 40+ Popular Computer Vision Models With Pre-trained Weights.
+* [Ladder Network](https://github.com/divamgupta/ladder_network_keras) [![GitHub stars](https://img.shields.io/github/stars/divamgupta/ladder_network_keras?style=flat)](https://github.com/divamgupta/ladder_network_keras/stargazers) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
+* [TF-Unet](https://github.com/juniorxsound/TF-Unet) [![GitHub stars](https://img.shields.io/github/stars/juniorxsound/TF-Unet?style=flat)](https://github.com/juniorxsound/TF-Unet/stargazers) - General purpose U-Network implemented in Keras for image segmentation
+* [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) [![GitHub stars](https://img.shields.io/github/stars/sarus-tech/tf2-published-models?style=flat)](https://github.com/sarus-tech/tf2-published-models/stargazers) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
+* [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - A transfer learning library that simplifies the process of training, evaluation and deployment for TensorFlow Lite models (support: Image Classification, Object Detection, Text Classification, BERT Question Answer, Audio Classification, Recommendation etc.; [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
+
+
+<a name="github-powered-by" />
+
+## Powered by TensorFlow
+
+* [YOLO TensorFlow](https://github.com/gliese581gg/YOLO_tensorflow) [![GitHub stars](https://img.shields.io/github/stars/gliese581gg/YOLO_tensorflow?style=flat)](https://github.com/gliese581gg/YOLO_tensorflow/stargazers) - Implementation of 'YOLO : Real-Time Object Detection'
+* [android-yolo](https://github.com/natanielruiz/android-yolo) [![GitHub stars](https://img.shields.io/github/stars/natanielruiz/android-yolo?style=flat)](https://github.com/natanielruiz/android-yolo/stargazers) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+* [Magenta](https://github.com/tensorflow/magenta) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/magenta?style=flat)](https://github.com/tensorflow/magenta/stargazers) - Research project to advance the state of the art in machine intelligence for music and art generation
+
+
+<a name="libraries" />
+
+## Libraries
+
+* [TensorFlow Estimators](https://www.tensorflow.org/guide/estimators) - high-level TensorFlow API that greatly simplifies machine learning programming (originally [tensorflow/skflow](https://github.com/tensorflow/skflow) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/skflow?style=flat)](https://github.com/tensorflow/skflow/stargazers))
+* [R Interface to TensorFlow](https://tensorflow.rstudio.com/) - R interface to TensorFlow APIs, including Estimators, Keras, Datasets, etc.
+* [Lattice](https://github.com/tensorflow/lattice) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/lattice?style=flat)](https://github.com/tensorflow/lattice/stargazers) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
+* [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) [![GitHub stars](https://img.shields.io/github/stars/somaticio/tensorflow.rb?style=flat)](https://github.com/somaticio/tensorflow.rb/stargazers) - TensorFlow native interface for ruby using SWIG
+* [tflearn](https://github.com/tflearn/tflearn) [![GitHub stars](https://img.shields.io/github/stars/tflearn/tflearn?style=flat)](https://github.com/tflearn/tflearn/stargazers) - Deep learning library featuring a higher-level API
+* [TensorLayer](https://github.com/tensorlayer/tensorlayer) [![GitHub stars](https://img.shields.io/github/stars/tensorlayer/tensorlayer?style=flat)](https://github.com/tensorlayer/tensorlayer/stargazers) - Deep learning and reinforcement learning library for researchers and engineers
+* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/models/tree/master/inception/inception/slim?style=flat)](https://github.com/tensorflow/models/tree/master/inception/inception/slim/stargazers) - High-level library for defining models
+* [TensorFrames](https://github.com/tjhunter/tensorframes) [![GitHub stars](https://img.shields.io/github/stars/tjhunter/tensorframes?style=flat)](https://github.com/tjhunter/tensorframes/stargazers) - TensorFlow binding for Apache Spark
+* [TensorForce](https://github.com/reinforceio/tensorforce) [![GitHub stars](https://img.shields.io/github/stars/reinforceio/tensorforce?style=flat)](https://github.com/reinforceio/tensorforce/stargazers) - TensorForce: A TensorFlow library for applied reinforcement learning
+* [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) [![GitHub stars](https://img.shields.io/github/stars/yahoo/TensorFlowOnSpark?style=flat)](https://github.com/yahoo/TensorFlowOnSpark/stargazers) - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
+* [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) [![GitHub stars](https://img.shields.io/github/stars/ethereon/caffe-tensorflow?style=flat)](https://github.com/ethereon/caffe-tensorflow/stargazers) - Convert Caffe models to TensorFlow format
+* [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
+* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/models/tree/master/syntaxnet?style=flat)](https://github.com/tensorflow/models/tree/master/syntaxnet/stargazers) - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
+* [keras-js](https://github.com/transcranial/keras-js) [![GitHub stars](https://img.shields.io/github/stars/transcranial/keras-js?style=flat)](https://github.com/transcranial/keras-js/stargazers) - Run Keras models (tensorflow backend) in the browser, with GPU support
+* [NNFlow](https://github.com/welschma/NNFlow) [![GitHub stars](https://img.shields.io/github/stars/welschma/NNFlow?style=flat)](https://github.com/welschma/NNFlow/stargazers) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
+* [Sonnet](https://github.com/deepmind/sonnet) [![GitHub stars](https://img.shields.io/github/stars/deepmind/sonnet?style=flat)](https://github.com/deepmind/sonnet/stargazers) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+* [tensorpack](https://github.com/ppwwyyxx/tensorpack) [![GitHub stars](https://img.shields.io/github/stars/ppwwyyxx/tensorpack?style=flat)](https://github.com/ppwwyyxx/tensorpack/stargazers) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
+* [tf-encrypted](https://github.com/mortendahl/tf-encrypted) [![GitHub stars](https://img.shields.io/github/stars/mortendahl/tf-encrypted?style=flat)](https://github.com/mortendahl/tf-encrypted/stargazers) - Layer on top of TensorFlow for doing machine learning on encrypted data
+* [pytorch2keras](https://github.com/nerox8664/pytorch2keras) [![GitHub stars](https://img.shields.io/github/stars/nerox8664/pytorch2keras?style=flat)](https://github.com/nerox8664/pytorch2keras/stargazers) - Convert PyTorch models to Keras (with TensorFlow backend) format
+* [gluon2keras](https://github.com/stjordanis/gluon2keras) [![GitHub stars](https://img.shields.io/github/stars/stjordanis/gluon2keras?style=flat)](https://github.com/stjordanis/gluon2keras/stargazers) - Convert Gluon models to Keras (with TensorFlow backend) format
+* [TensorIO](https://doc-ai.github.io/tensorio/) - Lightweight, cross-platform library for deploying TensorFlow Lite models to mobile devices. 
+* [StellarGraph](https://github.com/stellargraph/stellargraph) [![GitHub stars](https://img.shields.io/github/stars/stellargraph/stellargraph?style=flat)](https://github.com/stellargraph/stellargraph/stargazers) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+* [DeepBay](https://github.com/ElPapi42/DeepBay) [![GitHub stars](https://img.shields.io/github/stars/ElPapi42/DeepBay?style=flat)](https://github.com/ElPapi42/DeepBay/stargazers) - High-Level Keras Complement for implement common architectures stacks, served as easy to use plug-n-play modules
+* [Tensorflow-Probability](https://www.tensorflow.org/probability) - Probabilistic programming built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
+* [TensorLayerX](https://github.com/tensorlayer/TensorLayerX) [![GitHub stars](https://img.shields.io/github/stars/tensorlayer/TensorLayerX?style=flat)](https://github.com/tensorlayer/TensorLayerX/stargazers) - TensorLayerX: A Unified Deep Learning Framework for All Hardwares, Backends and OS, including TensorFlow.
+* [Txeo](https://github.com/rdabra/txeo) [![GitHub stars](https://img.shields.io/github/stars/rdabra/txeo?style=flat)](https://github.com/rdabra/txeo/stargazers) - A modern C++ wrapper for TensorFlow.
+
+<a name="tools-utils" />
+
+## Tools/Utilities
+
+* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) [![GitHub stars](https://img.shields.io/github/stars/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster?style=flat)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster/stargazers) - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
+* [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) [![GitHub stars](https://img.shields.io/github/stars/ml-tooling/ml-workspace?style=flat)](https://github.com/ml-tooling/ml-workspace/stargazers) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+* [create-tf-app](https://github.com/radi-cho/create-tf-app) [![GitHub stars](https://img.shields.io/github/stars/radi-cho/create-tf-app?style=flat)](https://github.com/radi-cho/create-tf-app/stargazers) - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
+
+<a name="video" />
+
+## Videos
+
+* [TensorFlow Guide 1](http://bit.ly/1OX8s8Y) - A guide to installation and use
+* [TensorFlow Guide 2](http://bit.ly/1R27Ki9) - Continuation of first video
+* [TensorFlow Basic Usage](http://bit.ly/1TCNmEY) - A guide going over basic usage
+* [TensorFlow Deep MNIST for Experts](http://bit.ly/1L9IfJx) - Goes over Deep MNIST
+* [TensorFlow Udacity Deep Learning](https://www.youtube.com/watch?v=ReaxoSIM5XQ) - Basic steps to install TensorFlow for free on the Cloud 9 online service with 1Gb of data
+* [Why Google wants everyone to have access to TensorFlow](http://video.foxnews.com/v/4611174773001/why-google-wants-everyone-to-have-access-to-tensorflow/?#sp=show-clips)
+* [Videos from TensorFlow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
+* [Videos from TensorFlow Silicon Valley Meet Up 1/21/2016](http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
+* [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - CS224d Deep Learning for Natural Language Processing by Richard Socher
+* [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 Portland Oregon, [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) [![GitHub stars](https://img.shields.io/github/stars/amygdala/tensorflow-workshop?style=flat)](https://github.com/amygdala/tensorflow-workshop/stargazers) by Julia Ferraioli, Amy Unruh, Eli Bixby
+* [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Spark Summit 2016 Keynote by Jeff Dean
+* [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
+* [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) -  by Martin Görner
+* [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
+
+
+
+<a name="papers" />
+
+## Papers
+
+* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
+* [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
+* [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
+* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
+* [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)
+* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/models/tree/master/syntaxnet?style=flat)](https://github.com/tensorflow/models/tree/master/syntaxnet/stargazers).
+* [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance
+* [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/abs/1707.08551) - This paper describes a versatile Python library that aims at helping researchers and engineers efficiently develop deep learning systems. (Winner of The Best Open Source Software Award of ACM MM 2017)
+
+<a name="blogs" />
+
+## Official announcements
+
+* [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - An introduction to TensorFlow
+* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
+
+## Blog posts
+* [Official Tensorflow Blog](http://blog.tensorflow.org/)
+* [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
+* [TensorFlow for Poets](http://petewarden.com/2016/02/28/tensorflow-for-poets) - Goes over the implementation of TensorFlow
+* [Introduction to Scikit Flow - Simplified Interface to TensorFlow](http://terrytangyuan.github.io/2016/03/14/scikit-flow-intro/) - Key Features Illustrated
+* [Building Machine Learning Estimator in TensorFlow](http://terrytangyuan.github.io/2016/07/08/understand-and-build-tensorflow-estimator/) - Understanding the Internals of TensorFlow Learn Estimators
+* [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
+* [The indico Machine Learning Team's take on TensorFlow](https://indico.io/blog/indico-tensorflow)
+* [The Good, Bad, & Ugly of TensorFlow](https://indico.io/blog/the-good-bad-ugly-of-tensorflow/) - A survey of six months rapid evolution (+ tips/hacks and code to fix the ugly stuff), Dan Kuster at Indico, May 9, 2016
+* [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
+* [RNNs In TensorFlow, A Practical Guide And Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/) - Step-by-step guide with full code examples on GitHub.
+* [Using TensorBoard to Visualize Image Classification Retraining in TensorFlow](http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html)
+* [TFRecords Guide](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/) semantic segmentation and handling the TFRecord file format.
+* [TensorFlow Android Guide](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc) - Android TensorFlow Machine Learning Example.
+* [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - Introduces TensorFlow optimizations on Intel® Xeon® and Intel® Xeon Phi™ processor-based platforms based on an Intel/Google collaboration.
+* [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
+* [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) How Does The Machine Learning Library TensorFlow Work?
+
+
+<a name="community" />
+
+## Community
+
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/tensorflow)
+* [@TensorFlow on Twitter](https://twitter.com/tensorflow)
+* [Reddit](https://www.reddit.com/r/tensorflow)
+* [Mailing List](https://groups.google.com/a/tensorflow.org/forum/#!forum/discuss)
+
+
+<a name="books" />
+
+## Books
+
+* [Machine Learning with TensorFlow 2nd edition]([http://tensorflowbook.com](https://github.com/chrismattmann/MLwithTensorFlow2ed) [![GitHub stars](https://img.shields.io/github/stars/chrismattmann/MLwithTensorFlow2ed?style=flat)](https://github.com/chrismattmann/MLwithTensorFlow2ed/stargazers)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
+* [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
+* [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
+* [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press
+* [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow) - Get up and running with the latest numerical computing library by Google and dive deeper into your data, by Giancarlo Zaccone
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
+* [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
+* [Deep Learning using TensorLayer](http://www.broadview.com.cn/book/5059) - by Hao Dong et al. This book covers both deep learning and the implementation by using TensorFlow and TensorLayer.
+* [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara. This practical guide to building deep learning models with the new features of TensorFlow 2.0 is filled with engaging projects, simple language, and coverage of the latest algorithms.
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) [![GitHub stars](https://img.shields.io/github/stars/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers?style=flat)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/stargazers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3). 
+
+
+
+<a name="contributions" />
+
+## Contributions
+
+Your contributions are always welcome!
+
+If you want to contribute to this list (please do), send me a pull request or contact me [@jtoy](https://twitter.com/jtoy)
+Also, if you notice that any of the above listed repositories should be deprecated, due to any of the following reasons:
+
+* Repository's owner explicitly say that "this library is not maintained".
+* Not committed for long time (2~3 years).
+
+More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md) [![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow/blob/master/contributing.md?style=flat)](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md/stargazers)
+
+
+<a name="credits" />
+
+## Credits
+
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) [![GitHub stars](https://img.shields.io/github/stars/vinta/awesome-python?style=flat)](https://github.com/vinta/awesome-python/stargazers)
+* The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
+
