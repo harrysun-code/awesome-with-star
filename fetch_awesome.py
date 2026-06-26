@@ -220,7 +220,8 @@ def process_readme_with_stars(content):
     return '\n'.join(processed_lines)
 
 def main():
-    awesome_dir = Path('/workspace/awesome')
+    base_dir = Path(__file__).resolve().parent
+    awesome_dir = base_dir / 'awesome'
     awesome_dir.mkdir(exist_ok=True)
 
     print("Fetching sindresorhus/awesome README...")
@@ -242,10 +243,10 @@ def main():
     print("Processing main README with star badges...")
     processed_main_readme = process_readme_with_stars(main_readme_content)
     # Save to awesome directory
-    with open('/workspace/awesome/sindresorhus-awesome-original.md', 'w', encoding='utf-8') as f:
+    with open(awesome_dir / 'sindresorhus-awesome-original.md', 'w', encoding='utf-8') as f:
         f.write(processed_main_readme)
     # Save to root README.md
-    with open('/workspace/README.md', 'w', encoding='utf-8') as f:
+    with open(base_dir / 'README.md', 'w', encoding='utf-8') as f:
         f.write(processed_main_readme)
     print("Main README saved to README.md and awesome/sindresorhus-awesome-original.md")
 
