@@ -1,0 +1,870 @@
+# Home Assistant
+
+[![GitHub stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant?style=flat)](https://github.com/frenck/awesome-home-assistant/stargazers)
+
+# Awesome Home Assistant [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<!--lint disable double-link-->
+
+<div align="center">
+  <a href="https://awesome-ha.com">
+    <img width="400" src="https://www.awesome-ha.com/images/awesome-home-assistant.svg" alt="Awesome Home Assistant">
+  </a>
+  <br>
+  <a href="https://awesome-ha.com"><strong>https://awesome-ha.com</strong></a>
+</div>
+
+Home Assistant is open source home automation that puts local control and
+privacy first. It works with thousands of devices out of the box, runs on
+your own hardware, and does not require any coding to set up. Whether you
+are automating a single room or an entire house, everything stays local
+and private.
+
+Curious what it looks like? Try the
+[Home Assistant online demo](https://demo.home-assistant.io).
+
+Awesome Home Assistant is a curated list of the best
+[Home Assistant](https://www.home-assistant.io) resources: custom
+integrations, dashboard cards, themes, apps, tutorials, and much more.
+
+Most of the items below can be installed in one click through
+[HACS](https://hacs.xyz), the Home Assistant Community Store, after you
+install Home Assistant itself. Home Assistant is owned by the
+[Open Home Foundation](https://www.openhomefoundation.org), which also
+stewards ESPHome, Music Assistant, Z-Wave JS, and the open voice tools you
+will see throughout the list. If you are buying smart-home devices, the
+[Works with Home Assistant](https://works-with.home-assistant.io) program
+tests for privacy, local control, and long-term support.
+
+The list is divided into categories. The links in those categories do not have
+pre-established order; the order is for contribution. If you want to contribute,
+please read the [guide](https://github.com/frenck/awesome-home-assistant/blob/main/.github/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant/blob/main/.github/CONTRIBUTING.md?style=flat)](https://github.com/frenck/awesome-home-assistant/blob/main/.github/CONTRIBUTING.md/stargazers)
+or raise an [issue](https://github.com/frenck/awesome-home-assistant/issues/new/choose) [![GitHub stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant/issues/new/choose?style=flat)](https://github.com/frenck/awesome-home-assistant/issues/new/choose/stargazers)
+to suggest additions, updates or removals.
+
+## Contents
+
+- [How to use](#how-to-use)
+- [Installing](#installing)
+- [In case you need help](#in-case-you-need-help)
+  - [🤝 Official Communities](#-official-communities)
+  - [🌍 In your language](#-in-your-language)
+  - [🧩 Around community projects](#-around-community-projects)
+  - [💬 Other community spaces](#-other-community-spaces)
+- [Public Configurations](#public-configurations)
+- [Custom Integrations](#custom-integrations)
+  - [🤖 AI & LLMs](#-ai--llms)
+  - [💡 Lighting](#-lighting)
+  - [🌡️ Climate](#-climate)
+  - [⚡ Energy & solar](#-energy--solar)
+  - [📹 Cameras & video](#-cameras--video)
+  - [🚨 Security & alarm](#-security--alarm)
+  - [🔊 Voice & media playback](#-voice--media-playback)
+  - [🚗 Cars & EV charging](#-cars--ev-charging)
+  - [📍 Presence & location](#-presence--location)
+  - [🧹 Vacuums](#-vacuums)
+  - [🔵 Bluetooth & BLE](#-bluetooth--ble)
+  - [🔋 Battery monitoring](#-battery-monitoring)
+  - [🏷️ Vendor & brand](#-vendor--brand)
+  - [🛠️ Automation tooling](#-automation-tooling)
+  - [🏘️ Civic & household](#-civic--household)
+  - [🔐 Network & authentication](#-network--authentication)
+  - [🔗 Federation & multi-instance](#-federation--multi-instance)
+  - [📊 Logging & analytics](#-logging--analytics)
+- [Dashboard Cards](#dashboard-cards)
+  - [🧱 Dashboard frameworks](#-dashboard-frameworks)
+  - [📐 Layout helpers](#-layout-helpers)
+  - [📈 Charts & graphs](#-charts--graphs)
+  - [📋 Status & info rows](#-status--info-rows)
+  - [☀️ Weather cards](#-weather-cards)
+  - [🎵 Media cards](#-media-cards)
+  - [🌡️ Climate cards](#-climate-cards)
+  - [⚡ Energy cards](#-energy-cards)
+  - [💡 Lighting cards](#-lighting-cards)
+  - [🗺️ Maps & location](#-maps--location)
+  - [📸 Camera cards](#-camera-cards)
+  - [🧹 Vacuum cards](#-vacuum-cards)
+  - [📅 Calendar & feed](#-calendar--feed)
+  - [📡 Remote control](#-remote-control)
+  - [🍃 Air quality](#-air-quality)
+  - [🖥️ Kiosk & wallpanel](#-kiosk--wallpanel)
+- [Dashboards](#dashboards)
+- [Themes](#themes)
+- [Icon packs](#icon-packs)
+- [Apps](#apps)
+  - [🛡️ Official Apps](#-official-apps)
+  - [📦 Third Party Apps](#-third-party-apps)
+- [DIY](#diy)
+  - [🧩 Standalone projects](#-standalone-projects)
+  - [🌉 DIY Gateways](#-diy-gateways)
+  - [🔨 DIY Projects](#-diy-projects)
+- [Tools & Utilities](#tools--utilities)
+- [Online Resources](#online-resources)
+  - [✍️ Blogs](#-blogs)
+  - [📺 YouTube Channels](#-youtube-channels)
+  - [🎙️ Podcasts](#-podcasts)
+  - [📱 Social](#-social)
+- [Alternative Home Automation Software](#alternative-home-automation-software)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Trademark Legal Notice](#trademark-legal-notice)
+
+## How to use
+
+Awesome Home Assistant is a curated list of the best resources for Home
+Assistant. Use it to find apps, custom cards, integrations, and tutorials
+that the community recommends, whether you are just getting started or
+looking for your next project.
+
+You can navigate through the list by:
+
+- Simply press <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
+- Go through our [_Contents list_](#contents)
+- Alternatively, use the search on our website: <https://www.awesome-ha.com>
+
+## Installing
+
+New to Home Assistant and not sure where to start? The easiest path is to
+grab a [Home Assistant Green](https://www.home-assistant.io/green/) and plug
+it in. If you would rather use hardware you already own (a Raspberry Pi, a
+Mini PC, an old laptop), the official guides below cover every option.
+Whichever you pick, you end up running the same Home Assistant. Once it is
+up, install [HACS](https://hacs.xyz) and most of the items in this list
+become one click away.
+
+- [Home Assistant Installation](https://www.home-assistant.io/installation/) - The official installation guides.
+- [Compare Installation Methods](https://www.home-assistant.io/installation/#compare-installation-methods) - The available installation methods compared.
+
+## In case you need help
+
+Stuck on a configuration, wondering why a device will not pair, or just
+want to see what other people are building? Home Assistant has one of the
+most active home-automation communities on the internet, and most of it
+is free to join. The official channels are below; further down you will
+find communities in your language and around specific projects from the
+wider ecosystem.
+
+### 🤝 Official Communities
+
+- [Home Assistant Discord](https://discord.com/invite/c5DvZ4e) - The main chat, most of us are there.
+- [Home Assistant Community](https://community.home-assistant.io/?u=frenck) - The discussion forum.
+- [Home Assistant Subreddit](https://www.reddit.com/r/homeassistant/) - The official subreddit.
+- [Home Assistant Facebook Group](https://www.facebook.com/groups/HomeAssistant/) - Facebook group for enthusiasts.
+
+### 🌍 In your language
+
+_Communities in languages other than English. Multiple groups can exist per language; add yours via a pull request. Sorted alphabetically by language._
+
+- 🇧🇷 [Home Assistant Brasil](https://t.me/homeassistant_brasil) - Brazilian Portuguese Telegram group for users of all skill levels.
+- 🇨🇳 [Hassbian Forum](https://bbs.hassbian.com/forum.php) - Chinese-language forum for smart home enthusiasts.
+- 🇨🇿 [Home Assistant CZ](https://www.homeassistant-cz.cz/) - Czech-language forum with an active user base.
+- 🇩🇰 [Dansk Home Assistant gruppe](https://www.facebook.com/groups/209025039666209/) - Danish-language Facebook group.
+- 🇳🇱 [Dutch Domotics Discord](https://discord.gg/Ee5X7T7) - Dutch-language home-automation Discord.
+- 🇳🇱 [Home Assistant NL](https://t.me/home_assistant_nl) - Dutch-language Telegram group.
+- 🇫🇮 [Home Assistant Suomi](https://www.facebook.com/groups/hasuomi/) - Finnish-language Facebook group.
+- 🇫🇷 [HACF Forum](https://forum.hacf.fr) - Discussion forum of the French-speaking association HACF (Home Assistant Communauté Française).
+- 🇫🇷 [HACF Discord](https://discord.com/invite/PaZFEjX) - French-language Discord run by the HACF community.
+- 🇩🇪 [Home Assistant DE](https://t.me/home_assistant_de) - German-language Telegram group for discussions, tips, and help.
+- 🇩🇪 [simon42 Community Forum](https://community.simon42.com/) - German-language forum for smart home topics.
+- 🇬🇷 [Home Assistant GR](https://www.facebook.com/groups/472308593754940/) - Greek-language Facebook group.
+- 🇮🇱 [Home-Assistant.io Israel](https://www.facebook.com/groups/303751386650107/) - Hebrew-language Facebook group.
+- 🇭🇺 [Home Assistant Hungary](https://www.facebook.com/groups/HomeAssistantHU/) - Hungarian-language Facebook group.
+- 🇮🇹 [Home Assistant Italia](https://t.me/HomeAssistantItalia) - Italian Telegram group for sharing ideas and projects.
+- 🇮🇹 [HassioHelp](https://t.me/HassioHelp) - Italian-language Telegram group for troubleshooting and support.
+- 🇯🇵 [Home Assistant Japan](https://www.facebook.com/groups/homeassistantjapan/) - Japanese-language Facebook group.
+- 🇰🇷 [HomeAssistant Cafe](https://cafe.naver.com/koreassistant) - Korean-language community on Naver.
+- 🇳🇴 [Home Assistant Norge](https://www.facebook.com/groups/680252689011262/) - Norwegian-language Facebook group.
+- 🇵🇱 [Home Assistant Polska](https://www.facebook.com/groups/homeassistantpolska/) - Polish-language Facebook group.
+- 🇵🇹 [CPHA Forum](https://forum.cpha.pt/) - Portuguese-language forum by the Comunidade Portuguesa de Home Assistant.
+- 🇷🇴 [Home Assistant Romania](https://www.facebook.com/groups/HomeAssistantRomania/) - Romanian-language Facebook group.
+- 🇷🇺 [Home Assistant RU Telegram](https://t.me/HomeAssistantRU) - Russian-speaking Telegram group.
+- 🇪🇸 [Domotica en casa](https://foro.domoticaencasa.es/) - Spanish-language forum for home automation enthusiasts.
+- 🇸🇪 [Svenska Home Assistant-gruppen](https://www.facebook.com/groups/737654973088984/) - Swedish-language Facebook group.
+- 🇹🇼 [Taiwan Home Assistant](https://www.facebook.com/groups/151166072456061/) - Traditional Chinese Facebook group.
+- 🇹🇭 [Home Assistant Thailand](https://www.facebook.com/groups/769724336851998/) - Thai-language Facebook group.
+
+### 🧩 Around community projects
+
+_Discords, forums, and chats run by community projects you will see elsewhere on this list. Sorted alphabetically by project._
+
+- [AppDaemon Discord](https://discord.gg/sgSr79jW5x) - Help with the Python automation framework that runs alongside the core.
+- [ESPHome Discord](https://discord.gg/KhAMKrd) - Help with ESP-based DIY devices and the YAML firmware for them.
+- [Frigate Discussions](https://github.com/blakeblackshear/frigate/discussions) [![GitHub stars](https://img.shields.io/github/stars/blakeblackshear/frigate/discussions?style=flat)](https://github.com/blakeblackshear/frigate/discussions/stargazers) - GitHub Discussions for the local-NVR / object-detection project.
+- [HACS Discord](https://discord.gg/apgchf8) - Help with the Home Assistant Community Store.
+- [Music Assistant Discord](https://discord.gg/kaVm8hGpne) - Chat for the multi-room music server.
+- [NetDaemon Discord](https://discord.gg/K3xwfcX) - Help with writing automations in C# / .NET.
+- [Tasmota Discord](https://discord.gg/Ks2Kzd4) - Chat for the ESP firmware that powers many Sonoff and eWeLink devices.
+- [Z-Wave JS Discord](https://discord.gg/HFqcyFNfWd) - Chat for the Z-Wave JS stack used by the Z-Wave integration.
+- [Zigbee2MQTT Discussions](https://github.com/Koenkk/zigbee2mqtt/discussions) [![GitHub stars](https://img.shields.io/github/stars/Koenkk/zigbee2mqtt/discussions?style=flat)](https://github.com/Koenkk/zigbee2mqtt/discussions/stargazers) - GitHub Discussions for the popular Zigbee bridge.
+
+### 💬 Other community spaces
+
+_Independent groups not tied to a specific language or project._
+
+- [Home Assistant International Telegram](https://t.me/home_assistant_international) - English-speaking Telegram group for the wider international community.
+- [r/homeautomation](https://www.reddit.com/r/homeautomation/) - The largest platform-agnostic home automation subreddit, covering all hubs, protocols, and project ideas.
+- [r/smarthome](https://www.reddit.com/r/smarthome/) - Product-focused smart home subreddit with buying advice, reviews, and setup questions.
+- [r/selfhosted](https://www.reddit.com/r/selfhosted/) - Subreddit for self-hosted software, with a large crossover into home automation and local control.
+- [Home Assistant on Lemmy](https://lemmy.world/c/homeassistant) - Fediverse alternative to the subreddit for privacy-minded users.
+- [Home Automation on Lemmy](https://lemmy.world/c/homeautomation) - General home automation community on the Fediverse.
+- [Everything Smart Home Discord](https://discord.com/invite/everythingsmarthome) - General smart home discussion server run by Lewis Barclay.
+- [Home Operations Discord](https://discord.com/invite/home-operations) - For people managing their smart home infrastructure with GitOps and Kubernetes.
+- [#Home-Assistant on Matrix](https://matrix.to/#/#Home-Assistant:matrix.org) - Matrix room for real-time chat on the open, federated protocol.
+- [CocoonTech](https://cocoontech.com/) - One of the oldest home automation forums on the web, covering all platforms for over 20 years.
+
+## Public Configurations
+
+_Wondering how more experienced users have set up their thermostat schedules, presence detection, or automations? These are full Home Assistant configurations published on GitHub. Read them like recipe books, copy the bits that look useful, and skip the rest._
+
+- [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - Probably the most documented configuration out there (5,208★).
+- [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) [![GitHub stars](https://img.shields.io/github/stars/DubhAd/Home-AssistantConfig?style=flat)](https://github.com/DubhAd/Home-AssistantConfig/stargazers) - Also known as Tinkerer, shares his configuration files (688★).
+- [geekofweek](https://github.com/geekofweek/homeassistant) [![GitHub stars](https://img.shields.io/github/stars/geekofweek/homeassistant?style=flat)](https://github.com/geekofweek/homeassistant/stargazers) - Has 300+ automations (1,477★).
+- [Alok Saboo](https://github.com/arsaboo/homeassistant-config) [![GitHub stars](https://img.shields.io/github/stars/arsaboo/homeassistant-config?style=flat)](https://github.com/arsaboo/homeassistant-config/stargazers) - Also known as arsaboo. Regularly updated (1,953★).
+- [Franck Nijhof](https://github.com/frenck/home-assistant-config) [![GitHub stars](https://img.shields.io/github/stars/frenck/home-assistant-config?style=flat)](https://github.com/frenck/home-assistant-config/stargazers) - Home Assistant OS based, very different configuration structure compared to others (2,009★).
+- [Klaas Schoute](https://github.com/klaasnicolaas/Student-homeassistant-config) [![GitHub stars](https://img.shields.io/github/stars/klaasnicolaas/Student-homeassistant-config?style=flat)](https://github.com/klaasnicolaas/Student-homeassistant-config/stargazers) - Home Assistant OS based, Intel NUC, Ubuntu Server, Docker and regularly updated (223★).
+- [Ryan Warner](https://github.com/rwarner/Home-Assistant-Config) [![GitHub stars](https://img.shields.io/github/stars/rwarner/Home-Assistant-Config?style=flat)](https://github.com/rwarner/Home-Assistant-Config/stargazers) - Docker on Ubuntu HA Config, maintained since early HA. Highly documented and regularly updated (5★).
+
+## Custom Integrations
+
+_Integrations Home Assistant does not ship with out of the box, written by the community. Install them through HACS in a couple of clicks._
+
+### 🤖 AI & LLMs
+
+_Wire Home Assistant up to a large language model and let it read your devices, build dashboards, write automations, or describe what your cameras see._
+
+- [LLM Vision](https://github.com/valentinfrlch/ha-llmvision) [![GitHub stars](https://img.shields.io/github/stars/valentinfrlch/ha-llmvision?style=flat)](https://github.com/valentinfrlch/ha-llmvision/stargazers) - Add visual intelligence to your automations: caption camera snapshots, summarize what is happening, react to specific events (1,373★).
+- [AI Automation Suggester](https://github.com/ITSpecialist111/ai_automation_suggester) [![GitHub stars](https://img.shields.io/github/stars/ITSpecialist111/ai_automation_suggester?style=flat)](https://github.com/ITSpecialist111/ai_automation_suggester/stargazers) - Scan your entities and ask an AI provider (OpenAI, Anthropic, Google, Groq, Ollama) for tailored automation suggestions, surfaced as notifications (749★).
+
+### 💡 Lighting
+
+_Effects, schedules, and behaviour layers that sit on top of your lights._
+
+- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) [![GitHub stars](https://img.shields.io/github/stars/claytonjn/hass-circadian_lighting?style=flat)](https://github.com/claytonjn/hass-circadian_lighting/stargazers) - Slowly synchronizes your color-changing lights with the naturally occurring color temperature of the sky throughout the day (886★).
+- [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) [![GitHub stars](https://img.shields.io/github/stars/basnijholt/adaptive-lighting?style=flat)](https://github.com/basnijholt/adaptive-lighting/stargazers) - Slowly adjust the brightness and color temperature of your lights based on the position of the sun (3,324★).
+- [Govee](https://github.com/LaggAt/hacs-govee) [![GitHub stars](https://img.shields.io/github/stars/LaggAt/hacs-govee?style=flat)](https://github.com/LaggAt/hacs-govee/stargazers) - Local control of Govee Wi-Fi lights and bulbs, including effects and color modes (352★).
+
+### 🌡️ Climate
+
+_Smarter thermostats, comfort sensors, and HVAC integrations that go beyond what comes built in._
+
+- [Better Thermostat](https://github.com/KartoffelToby/better_thermostat) [![GitHub stars](https://img.shields.io/github/stars/KartoffelToby/better_thermostat?style=flat)](https://github.com/KartoffelToby/better_thermostat/stargazers) - Smarter thermostat with window detection, heating curves, and per-room comfort profiles for thermostatic radiator valves (1,443★).
+- [Versatile Thermostat](https://github.com/jmcollin78/versatile_thermostat) [![GitHub stars](https://img.shields.io/github/stars/jmcollin78/versatile_thermostat?style=flat)](https://github.com/jmcollin78/versatile_thermostat/stargazers) - Full-featured thermostat with presets, window detection, motion-based comfort, and presence (1,075★).
+- [Midea Air Appliances LAN](https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan) [![GitHub stars](https://img.shields.io/github/stars/nbogojevic/homeassistant-midea-air-appliances-lan?style=flat)](https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan/stargazers) - Local control of Midea air conditioners, dehumidifiers, and other appliances over LAN (460★).
+- [Smart Autotune Thermostat (SAT)](https://github.com/Alexwijn/SAT) [![GitHub stars](https://img.shields.io/github/stars/Alexwijn/SAT?style=flat)](https://github.com/Alexwijn/SAT/stargazers) - Self-tuning thermostat that talks to OpenTherm, ESPHome, or MQTT gateways and adapts the heating curve to your home over time (246★).
+- [Dual Smart Thermostat](https://github.com/swingerman/ha-dual-smart-thermostat) [![GitHub stars](https://img.shields.io/github/stars/swingerman/ha-dual-smart-thermostat?style=flat)](https://github.com/swingerman/ha-dual-smart-thermostat/stargazers) - Enhanced version of the built-in generic thermostat, with separate heating and cooling, floor temperature limits, and humidity controls (225★).
+
+### ⚡ Energy & solar
+
+_Pull your solar inverter, smart meter, home battery, or utility tariff into Home Assistant and feed the energy dashboard._
+
+- [Powercalc](https://github.com/bramstroker/homeassistant-powercalc) [![GitHub stars](https://img.shields.io/github/stars/bramstroker/homeassistant-powercalc?style=flat)](https://github.com/bramstroker/homeassistant-powercalc/stargazers) - Calculate estimated power consumption of lights and other devices, even those that don't report it themselves (1,503★).
+- [Anker Solix](https://github.com/thomluther/ha-anker-solix) [![GitHub stars](https://img.shields.io/github/stars/thomluther/ha-anker-solix?style=flat)](https://github.com/thomluther/ha-anker-solix/stargazers) - Pull Anker Solix balcony solar systems, batteries, and power stations into the energy dashboard with live state, history, and charging control (1,005★).
+- [Octopus Energy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) [![GitHub stars](https://img.shields.io/github/stars/BottlecapDave/HomeAssistant-OctopusEnergy?style=flat)](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/stargazers) - Pull Octopus Energy tariffs, smart meter readings, intelligent dispatch slots, and saving sessions into your dashboard (940★).
+- [Huawei Solar](https://github.com/wlcrs/huawei_solar) [![GitHub stars](https://img.shields.io/github/stars/wlcrs/huawei_solar?style=flat)](https://github.com/wlcrs/huawei_solar/stargazers) - Read and control Huawei solar inverters and home batteries over Modbus, including grid charge windows (899★).
+- [SolaX Modbus](https://github.com/wills106/homeassistant-solax-modbus) [![GitHub stars](https://img.shields.io/github/stars/wills106/homeassistant-solax-modbus?style=flat)](https://github.com/wills106/homeassistant-solax-modbus/stargazers) - Talk to SolaX, Solinteg, Sofar, Growatt, and other inverters over Modbus, including read-only and inverter control modes (490★).
+- [Solarman](https://github.com/davidrapan/ha-solarman) [![GitHub stars](https://img.shields.io/github/stars/davidrapan/ha-solarman?style=flat)](https://github.com/davidrapan/ha-solarman/stargazers) - Read Deye, Sofar, and other Solarman-branded inverters via the Solarman stick logger (483★).
+- [OCPP](https://github.com/lbbrhzn/ocpp) [![GitHub stars](https://img.shields.io/github/stars/lbbrhzn/ocpp?style=flat)](https://github.com/lbbrhzn/ocpp/stargazers) - Bring electric vehicle chargers that speak OCPP into the energy dashboard, with start, stop, and per-session metering (372★).
+- [Solcast PV Forecast](https://github.com/BJReplay/ha-solcast-solar) [![GitHub stars](https://img.shields.io/github/stars/BJReplay/ha-solcast-solar?style=flat)](https://github.com/BJReplay/ha-solcast-solar/stargazers) - Pulls Solcast solar production forecasts so you can see expected generation for the day, with up-to-the-hour confidence bands (420★).
+- [EPEX Spot](https://github.com/mampfes/ha_epex_spot) [![GitHub stars](https://img.shields.io/github/stars/mampfes/ha_epex_spot?style=flat)](https://github.com/mampfes/ha_epex_spot/stargazers) - Brings hourly EPEX spot electricity prices into your dashboard so you can shift loads to the cheapest slots (310★).
+- [ENTSO-e Day-Ahead Prices](https://github.com/JaccoR/hass-entso-e) [![GitHub stars](https://img.shields.io/github/stars/JaccoR/hass-entso-e?style=flat)](https://github.com/JaccoR/hass-entso-e/stargazers) - Fetches day-ahead electricity prices from the ENTSO-e Transparency Platform across most European countries (265★).
+- [SolarEdge Modbus Multi](https://github.com/WillCodeForCats/solaredge-modbus-multi) [![GitHub stars](https://img.shields.io/github/stars/WillCodeForCats/solaredge-modbus-multi?style=flat)](https://github.com/WillCodeForCats/solaredge-modbus-multi/stargazers) - Reads SolarEdge inverters, meters, and batteries locally over Modbus/TCP, with multi-inverter and three-phase support (303★).
+- [FoxESS Modbus](https://github.com/nathanmarlor/foxess_modbus) [![GitHub stars](https://img.shields.io/github/stars/nathanmarlor/foxess_modbus?style=flat)](https://github.com/nathanmarlor/foxess_modbus/stargazers) - Connects directly to FoxESS solar inverters over Modbus, no cloud round-trips, for real-time status and control (308★).
+- [Victron GX](https://github.com/sfstar/hass-victron) [![GitHub stars](https://img.shields.io/github/stars/sfstar/hass-victron?style=flat)](https://github.com/sfstar/hass-victron/stargazers) - Reads data from a Victron GX device over Modbus/TCP, exposing inverters, batteries, solar chargers, and AC inputs (317★).
+- [Solis Sensor](https://github.com/hultenvp/solis-sensor) [![GitHub stars](https://img.shields.io/github/stars/hultenvp/solis-sensor?style=flat)](https://github.com/hultenvp/solis-sensor/stargazers) - Talks to the SolisCloud PV monitoring portal so you can pull Solis inverter generation, battery, and grid data into the energy dashboard (320★).
+- [GoodWe Inverter](https://github.com/mletenay/home-assistant-goodwe-inverter) [![GitHub stars](https://img.shields.io/github/stars/mletenay/home-assistant-goodwe-inverter?style=flat)](https://github.com/mletenay/home-assistant-goodwe-inverter/stargazers) - Pulls live data from GoodWe solar inverters over the local network for use in the energy dashboard (213★).
+- [Solar Optimizer](https://github.com/jmcollin78/solar_optimizer) [![GitHub stars](https://img.shields.io/github/stars/jmcollin78/solar_optimizer?style=flat)](https://github.com/jmcollin78/solar_optimizer/stargazers) - Starts and stops your appliances based on solar surplus production so you self-consume rather than export (228★).
+- [Dynamic Energy Cost](https://github.com/martinarva/dynamic_energy_cost) [![GitHub stars](https://img.shields.io/github/stars/martinarva/dynamic_energy_cost?style=flat)](https://github.com/martinarva/dynamic_energy_cost/stargazers) - Tracks real-time and cumulative energy cost against a dynamic price feed like Nord Pool or EPEX (189★).
+- [Energi Data Service](https://github.com/MTrab/energidataservice) [![GitHub stars](https://img.shields.io/github/stars/MTrab/energidataservice?style=flat)](https://github.com/MTrab/energidataservice/stargazers) - Fetches Danish electricity spot prices from the Energi Data Service API for use in price-aware automations (275★).
+
+### 📹 Cameras & video
+
+_Pair specific camera brands and video sources that Home Assistant does not support out of the box._
+
+- [HASS Aarlo](https://github.com/twrecked/hass-aarlo) [![GitHub stars](https://img.shields.io/github/stars/twrecked/hass-aarlo?style=flat)](https://github.com/twrecked/hass-aarlo/stargazers) - Asynchronous Arlo integration. Similar to the Arlo web site; monitors events and states for all base stations, cameras and doorbells (470★).
+- [WebRTC Camera](https://github.com/AlexxIT/WebRTC) [![GitHub stars](https://img.shields.io/github/stars/AlexxIT/WebRTC?style=flat)](https://github.com/AlexxIT/WebRTC/stargazers) - View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls (2,134★).
+- [Frigate](https://github.com/blakeblackshear/frigate-hass-integration) [![GitHub stars](https://img.shields.io/github/stars/blakeblackshear/frigate-hass-integration?style=flat)](https://github.com/blakeblackshear/frigate-hass-integration/stargazers) - Integrate the Frigate NVR with local object detection into your dashboard, alerts, and snapshots (1,181★).
+- [Eufy Security](https://github.com/fuatakgun/eufy_security) [![GitHub stars](https://img.shields.io/github/stars/fuatakgun/eufy_security?style=flat)](https://github.com/fuatakgun/eufy_security/stargazers) - Manage Eufy Security cameras, doorbells, and base stations with live streams and event notifications (1,338★).
+- [Tapo Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) [![GitHub stars](https://img.shields.io/github/stars/JurajNyiri/HomeAssistant-Tapo-Control?style=flat)](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/stargazers) - Control TP-Link Tapo cameras with PTZ, motion events, and a live RTSP stream (1,912★).
+- [Dahua](https://github.com/rroller/dahua) [![GitHub stars](https://img.shields.io/github/stars/rroller/dahua?style=flat)](https://github.com/rroller/dahua/stargazers) - Pair Dahua cameras and doorbells with motion events, snapshots, sirens, and PTZ controls (541★).
+
+### 🚨 Security & alarm
+
+_Turn Home Assistant into a fully-featured alarm system with arm and disarm flows, user codes, zones, and panic._
+
+- [Alarmo](https://github.com/nielsfaber/alarmo) [![GitHub stars](https://img.shields.io/github/stars/nielsfaber/alarmo?style=flat)](https://github.com/nielsfaber/alarmo/stargazers) - Easy-to-use alarm system with arm/disarm flows, user codes, zones, and panic mode (2,148★).
+- [Keymaster](https://github.com/FutureTense/keymaster) [![GitHub stars](https://img.shields.io/github/stars/FutureTense/keymaster?style=flat)](https://github.com/FutureTense/keymaster/stargazers) - Manages user codes on Z-Wave smart locks, including per-user schedules, one-time codes, and notifications (334★).
+
+### 🔊 Voice & media playback
+
+_Send commands to voice speakers and media players, or relay what they hear and play back into Home Assistant._
+
+- [Spotcast](https://github.com/fondberg/spotcast) [![GitHub stars](https://img.shields.io/github/stars/fondberg/spotcast?style=flat)](https://github.com/fondberg/spotcast/stargazers) - Start Spotify playback on an idle Chromecast device as well as control Spotify connect devices (809★).
+- [Alexa Media Player](https://github.com/alandtse/alexa_media_player) [![GitHub stars](https://img.shields.io/github/stars/alandtse/alexa_media_player?style=flat)](https://github.com/alandtse/alexa_media_player/stargazers) - Control Amazon Alexa devices: announce, play media, and pull device state into your automations (1,948★).
+- [YandexStation](https://github.com/AlexxIT/YandexStation) [![GitHub stars](https://img.shields.io/github/stars/AlexxIT/YandexStation?style=flat)](https://github.com/AlexxIT/YandexStation/stargazers) - Control Yandex Station speakers and other smart-home devices through Alice (1,868★).
+- [Yandex Smart Home](https://github.com/dext0r/yandex_smart_home) [![GitHub stars](https://img.shields.io/github/stars/dext0r/yandex_smart_home?style=flat)](https://github.com/dext0r/yandex_smart_home/stargazers) - Expose your devices to Yandex Alice and the Yandex smart-home app (1,066★).
+- [View Assist Companion](https://github.com/msp1974/ViewAssist_Companion_App) [![GitHub stars](https://img.shields.io/github/stars/msp1974/ViewAssist_Companion_App?style=flat)](https://github.com/msp1974/ViewAssist_Companion_App/stargazers) - Companion Android app and integration that turns a tablet into a hands-free voice and dashboard satellite (374★).
+
+### 🚗 Cars & EV charging
+
+_Track your car's battery, location, and charging state, or control where and when it plugs in._
+
+- [Kia Uvo & Hyundai Bluelink](https://github.com/Hyundai-Kia-Connect/kia_uvo) [![GitHub stars](https://img.shields.io/github/stars/Hyundai-Kia-Connect/kia_uvo?style=flat)](https://github.com/Hyundai-Kia-Connect/kia_uvo/stargazers) - Track and control Kia Connect (Uvo) and Hyundai Bluelink cars across EU, Canada, and USA, including charging, climate, and lock state (870★).
+- [Tesla](https://github.com/alandtse/tesla) [![GitHub stars](https://img.shields.io/github/stars/alandtse/tesla?style=flat)](https://github.com/alandtse/tesla/stargazers) - Track Tesla cars and Powerwalls with charging, climate, location, and security state, using a refresh token from a third-party login app (740★).
+- [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) [![GitHub stars](https://img.shields.io/github/stars/robinostlund/homeassistant-volkswagencarnet?style=flat)](https://github.com/robinostlund/homeassistant-volkswagencarnet/stargazers) - Track charging state, climate preconditioning, and remote lock and honk for Volkswagen cars on the Carnet platform (643★).
+- [Audi Connect](https://github.com/audiconnect/audi_connect_ha) [![GitHub stars](https://img.shields.io/github/stars/audiconnect/audi_connect_ha?style=flat)](https://github.com/audiconnect/audi_connect_ha/stargazers) - Tracks Audi cars over the Audi Connect API, including charging state, range, lock, and climate preconditioning (338★).
+- [Polestar](https://github.com/pypolestar/polestar_api) [![GitHub stars](https://img.shields.io/github/stars/pypolestar/polestar_api?style=flat)](https://github.com/pypolestar/polestar_api/stargazers) - Reads Polestar EVs through the Polestar app API, with range, charging, and location data (249★).
+- [Stellantis Vehicles](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles) [![GitHub stars](https://img.shields.io/github/stars/andreadegiovine/homeassistant-stellantis-vehicles?style=flat)](https://github.com/andreadegiovine/homeassistant-stellantis-vehicles/stargazers) - Adds Stellantis cars (Peugeot, Citroen, Fiat, Opel, Vauxhall, DS) over the manufacturer API for range, lock, and climate (231★).
+- [evcc](https://github.com/marq24/ha-evcc) [![GitHub stars](https://img.shields.io/github/stars/marq24/ha-evcc?style=flat)](https://github.com/marq24/ha-evcc/stargazers) - Connects to an evcc instance to surface charge sessions, solar matching, and per-loadpoint state (410★).
+- [Easee EV Charger](https://github.com/nordicopen/easee_hass) [![GitHub stars](https://img.shields.io/github/stars/nordicopen/easee_hass?style=flat)](https://github.com/nordicopen/easee_hass/stargazers) - Adds Easee EV chargers with live charge state, dynamic load balancing, and per-session metering (272★).
+- [EV Smart Charging](https://github.com/jonasbkarlsson/ev_smart_charging) [![GitHub stars](https://img.shields.io/github/stars/jonasbkarlsson/ev_smart_charging?style=flat)](https://github.com/jonasbkarlsson/ev_smart_charging/stargazers) - Plans an electric vehicle charging schedule across the cheapest hours of a dynamic tariff, working with most chargers and price sensors (297★).
+
+### 📍 Presence & location
+
+_Figure out who is home and where they are, often more accurately than the built-in device tracker._
+
+- [iCloud3](https://github.com/gcobb321/icloud3) [![GitHub stars](https://img.shields.io/github/stars/gcobb321/icloud3?style=flat)](https://github.com/gcobb321/icloud3/stargazers) - Improved version of the iCloud device tracker component with a lot of capabilities (855★).
+- [iPhone Detect](https://github.com/mudape/iphonedetect) [![GitHub stars](https://img.shields.io/github/stars/mudape/iphonedetect?style=flat)](https://github.com/mudape/iphonedetect/stargazers) - Detect iPhones (and other phones) on the local Wi-Fi without an app, by sending a UDP probe and watching for the reply (625★).
+- [Flightradar24](https://github.com/AlexandrErohin/home-assistant-flightradar24) [![GitHub stars](https://img.shields.io/github/stars/AlexandrErohin/home-assistant-flightradar24?style=flat)](https://github.com/AlexandrErohin/home-assistant-flightradar24/stargazers) - Track aircraft flying over a configurable bounding box around your home using Flightradar24 (468★).
+- [Places](https://github.com/custom-components/places) [![GitHub stars](https://img.shields.io/github/stars/custom-components/places?style=flat)](https://github.com/custom-components/places/stargazers) - Reverse-geocodes a device tracker location through OpenStreetMap so automations can react to "at the supermarket" rather than raw coordinates (191★).
+
+### 🧹 Vacuums
+
+_Control specific robot vacuums and surface their map data, beyond what comes built in._
+
+- [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) [![GitHub stars](https://img.shields.io/github/stars/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor?style=flat)](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor/stargazers) - Presents a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting (1,405★).
+- [Dreame Vacuum](https://github.com/Tasshack/dreame-vacuum) [![GitHub stars](https://img.shields.io/github/stars/Tasshack/dreame-vacuum?style=flat)](https://github.com/Tasshack/dreame-vacuum/stargazers) - Dreame robot vacuums with full map support, including no-go zones and selective room cleaning (1,999★).
+
+### 🔵 Bluetooth & BLE
+
+_Pull data from sensors that broadcast over Bluetooth, or use Bluetooth itself for room-level presence detection._
+
+- [BLE Monitor](https://github.com/custom-components/ble_monitor) [![GitHub stars](https://img.shields.io/github/stars/custom-components/ble_monitor?style=flat)](https://github.com/custom-components/ble_monitor/stargazers) - Passively read sensor data from Xiaomi MiBeacon, Govee, ATC, Inkbird, Qingping, and many other BLE sensors (2,214★).
+- [Bermuda](https://github.com/agittins/bermuda) [![GitHub stars](https://img.shields.io/github/stars/agittins/bermuda?style=flat)](https://github.com/agittins/bermuda/stargazers) - Room-level presence detection by triangulating BLE signals across multiple ESPHome receivers (1,798★).
+- [BLE Battery Management Systems](https://github.com/patman15/BMS_BLE-HA) [![GitHub stars](https://img.shields.io/github/stars/patman15/BMS_BLE-HA?style=flat)](https://github.com/patman15/BMS_BLE-HA/stargazers) - Reads Bluetooth Low Energy battery management systems (BMS) from many vendors, exposing per-cell voltages, balancing, and SOC (328★).
+- [EcoFlow BLE](https://github.com/rabits/ha-ef-ble) [![GitHub stars](https://img.shields.io/github/stars/rabits/ha-ef-ble?style=flat)](https://github.com/rabits/ha-ef-ble/stargazers) - Pulls EcoFlow power stations and accessories over Bluetooth Low Energy, no cloud account required (304★).
+
+### 🔋 Battery monitoring
+
+_Keep an eye on the batteries in all your devices and get warned before they run flat._
+
+- [Battery Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) [![GitHub stars](https://img.shields.io/github/stars/andrew-codechimp/HA-Battery-Notes?style=flat)](https://github.com/andrew-codechimp/HA-Battery-Notes/stargazers) - Annotate every device with its battery type and quantity, then track replacements, low-battery warnings, and history (1,105★).
+
+### 🏷️ Vendor & brand
+
+_Pull a specific manufacturer's devices into Home Assistant, often with more features or better local control than what comes built in._
+
+- [SmartIR](https://github.com/smartHomeHub/SmartIR) [![GitHub stars](https://img.shields.io/github/stars/smartHomeHub/SmartIR?style=flat)](https://github.com/smartHomeHub/SmartIR/stargazers) - Integrates devices using Broadlink IR (2,733★).
+- [Sonoff LAN](https://github.com/AlexxIT/SonoffLAN) [![GitHub stars](https://img.shields.io/github/stars/AlexxIT/SonoffLAN?style=flat)](https://github.com/AlexxIT/SonoffLAN/stargazers) - Control Sonoff devices with eWeLink (original) firmware over LAN and/or Cloud (3,257★).
+- [Xiaomi MIoT](https://github.com/al-one/hass-xiaomi-miot) [![GitHub stars](https://img.shields.io/github/stars/al-one/hass-xiaomi-miot?style=flat)](https://github.com/al-one/hass-xiaomi-miot/stargazers) - Auto-integrate Xiaomi smart-home devices over Wi-Fi, BLE, and Zigbee using the MIoT-spec protocol (5,911★).
+- [Xiaomi Gateway 3](https://github.com/AlexxIT/XiaomiGateway3) [![GitHub stars](https://img.shields.io/github/stars/AlexxIT/XiaomiGateway3?style=flat)](https://github.com/AlexxIT/XiaomiGateway3/stargazers) - Local control of Xiaomi Multimode Gateway and Aqara Hub E1 over LAN, no cloud round-trips (2,757★).
+- [Midea AC LAN](https://github.com/wuwentao/midea_ac_lan) [![GitHub stars](https://img.shields.io/github/stars/wuwentao/midea_ac_lan?style=flat)](https://github.com/wuwentao/midea_ac_lan/stargazers) - Local control of Midea air conditioners, heat pumps, and other M-Smart devices (1,684★).
+- [SmartThinQ Sensors](https://github.com/ollo69/ha-smartthinq-sensors) [![GitHub stars](https://img.shields.io/github/stars/ollo69/ha-smartthinq-sensors?style=flat)](https://github.com/ollo69/ha-smartthinq-sensors/stargazers) - LG appliances (washers, dryers, AC, fridges) wired up via SmartThinQ with rich state and remote start (1,310★).
+- [Home Connect Alt](https://github.com/ekutner/home-connect-hass) [![GitHub stars](https://img.shields.io/github/stars/ekutner/home-connect-hass?style=flat)](https://github.com/ekutner/home-connect-hass/stargazers) - Alternative Home Connect integration for Bosch, Siemens, NEFF, and Gaggenau ovens, dishwashers, and washing machines, with richer state than the official one (970★).
+- [Tapo Devices](https://github.com/petretiandrea/home-assistant-tapo-p100) [![GitHub stars](https://img.shields.io/github/stars/petretiandrea/home-assistant-tapo-p100?style=flat)](https://github.com/petretiandrea/home-assistant-tapo-p100/stargazers) - TP-Link Tapo plugs, switches, bulbs, and energy monitoring (P100, P105, P110, L510, L530, L900) over LAN (954★).
+- [Meross](https://github.com/albertogeniola/meross-homeassistant) [![GitHub stars](https://img.shields.io/github/stars/albertogeniola/meross-homeassistant?style=flat)](https://github.com/albertogeniola/meross-homeassistant/stargazers) - Control Meross plugs, switches, bulbs, garage door openers, and humidifiers via the Meross IoT cloud (848★).
+- [HomeMatic IP Local](https://github.com/SukramJ/homematicip_local) [![GitHub stars](https://img.shields.io/github/stars/SukramJ/homematicip_local?style=flat)](https://github.com/SukramJ/homematicip_local/stargazers) - Local control of HomeMatic and HomeMatic IP devices through OpenCCU or RaspberryMatic, no cloud round-trips (572★).
+- [Nest Protect](https://github.com/iMicknl/ha-nest-protect) [![GitHub stars](https://img.shields.io/github/stars/iMicknl/ha-nest-protect?style=flat)](https://github.com/iMicknl/ha-nest-protect/stargazers) - Track Nest Protect smoke and CO alarms with battery state, recent events, and per-room safety status (468★).
+- [Meross LAN](https://github.com/krahabb/meross_lan) [![GitHub stars](https://img.shields.io/github/stars/krahabb/meross_lan?style=flat)](https://github.com/krahabb/meross_lan/stargazers) - Local control of Meross plugs, switches, lights, and garage door openers, falling back to cloud only when needed (718★).
+- [LocalTuya](https://github.com/rospogrigio/localtuya) [![GitHub stars](https://img.shields.io/github/stars/rospogrigio/localtuya?style=flat)](https://github.com/rospogrigio/localtuya/stargazers) - Local control of Tuya devices over the LAN, no cloud round-trips, supporting plugs, lights, climate, and covers (3,857★).
+- [SamsungTV Smart](https://github.com/ollo69/ha-samsungtv-smart) [![GitHub stars](https://img.shields.io/github/stars/ollo69/ha-samsungtv-smart?style=flat)](https://github.com/ollo69/ha-samsungtv-smart/stargazers) - Improved Samsung TV integration with SmartThings support, source switching, app launching, and per-app icons (652★).
+- [Dyson](https://github.com/libdyson-wg/ha-dyson) [![GitHub stars](https://img.shields.io/github/stars/libdyson-wg/ha-dyson?style=flat)](https://github.com/libdyson-wg/ha-dyson/stargazers) - Wi-Fi connected Dyson fans, purifiers, and humidifiers, with full per-mode control over the local network (418★).
+- [PetKit](https://github.com/RobertD502/home-assistant-petkit) [![GitHub stars](https://img.shields.io/github/stars/RobertD502/home-assistant-petkit?style=flat)](https://github.com/RobertD502/home-assistant-petkit/stargazers) - Adds PetKit feeders, fountains, and litter boxes over the manufacturer cloud, with full state and feeding controls (340★).
+- [Miele](https://github.com/astrandb/miele) [![GitHub stars](https://img.shields.io/github/stars/astrandb/miele?style=flat)](https://github.com/astrandb/miele/stargazers) - Pairs Miele washing machines, dryers, dishwashers, ovens, and coffee machines, with detailed program state (267★).
+- [Home Connect Local](https://github.com/chris-mc1/homeconnect_local_hass) [![GitHub stars](https://img.shields.io/github/stars/chris-mc1/homeconnect_local_hass?style=flat)](https://github.com/chris-mc1/homeconnect_local_hass/stargazers) - Talks to Bosch, Siemens, NEFF, and Gaggenau appliances directly over the local network, no cloud detour (390★).
+- [hOn](https://github.com/gvigroux/hon) [![GitHub stars](https://img.shields.io/github/stars/gvigroux/hon?style=flat)](https://github.com/gvigroux/hon/stargazers) - Pulls Haier, Candy, and Hoover appliances from the official hOn cloud, exposing every state and parameter the app shows (253★).
+- [PETLIBRO](https://github.com/jjjonesjr33/petlibro) [![GitHub stars](https://img.shields.io/github/stars/jjjonesjr33/petlibro?style=flat)](https://github.com/jjjonesjr33/petlibro/stargazers) - Adds PETLIBRO smart pet feeders and fountains, with feeding schedules, dispense events, and battery levels (319★).
+
+### 🛠️ Automation tooling
+
+_Helpers that make automations easier to write, debug, and maintain._
+
+- [The Watchman](https://github.com/dummylabs/thewatchman) [![GitHub stars](https://img.shields.io/github/stars/dummylabs/thewatchman?style=flat)](https://github.com/dummylabs/thewatchman/stargazers) - Keep track of missing entities and services in your config files (655★).
+- [Browser Mod](https://github.com/thomasloven/hass-browser_mod) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/hass-browser_mod?style=flat)](https://github.com/thomasloven/hass-browser_mod/stargazers) - Turn each browser into a controllable entity: pop up cards, navigate views, play sounds, or detect who is looking at the dashboard (1,748★).
+- [Pyscript](https://github.com/custom-components/pyscript) [![GitHub stars](https://img.shields.io/github/stars/custom-components/pyscript?style=flat)](https://github.com/custom-components/pyscript/stargazers) - Write automations and templates in Python instead of YAML (1,159★).
+- [Spook](https://github.com/frenck/spook) [![GitHub stars](https://img.shields.io/github/stars/frenck/spook?style=flat)](https://github.com/frenck/spook/stargazers) - A toolbox of helpful sensors, services, and templates that surface things the UI normally hides (1,138★).
+- [Scheduler Component](https://github.com/nielsfaber/scheduler-component) [![GitHub stars](https://img.shields.io/github/stars/nielsfaber/scheduler-component?style=flat)](https://github.com/nielsfaber/scheduler-component/stargazers) - Build weekly schedules for any entity through a card-driven UI, no YAML required (883★).
+- [Node-RED Companion](https://github.com/zachowj/hass-node-red) [![GitHub stars](https://img.shields.io/github/stars/zachowj/hass-node-red?style=flat)](https://github.com/zachowj/hass-node-red/stargazers) - Companion component for the node-red-contrib-home-assistant-websocket project that exposes services, sensors, and binary sensors back to your dashboards (573★).
+- [Magic Areas](https://github.com/jseidl/magic-areas) [![GitHub stars](https://img.shields.io/github/stars/jseidl/magic-areas?style=flat)](https://github.com/jseidl/magic-areas/stargazers) - Auto-build per-room presence, climate, and media area entities, with motion-triggered scenes and bright/dark detection (493★).
+- [Auto Backup](https://github.com/jcwillox/hass-auto-backup) [![GitHub stars](https://img.shields.io/github/stars/jcwillox/hass-auto-backup?style=flat)](https://github.com/jcwillox/hass-auto-backup/stargazers) - Automate backups with custom schedules, retention rules, encryption, and uploads to remote storage (462★).
+- [Multiscrape](https://github.com/danieldotnl/ha-multiscrape) [![GitHub stars](https://img.shields.io/github/stars/danieldotnl/ha-multiscrape?style=flat)](https://github.com/danieldotnl/ha-multiscrape/stargazers) - Scrape multiple values (HTML, XML, or JSON) from a page in one request and turn them into sensors (437★).
+- [Retry Service](https://github.com/amitfin/retry) [![GitHub stars](https://img.shields.io/github/stars/amitfin/retry?style=flat)](https://github.com/amitfin/retry/stargazers) - Wraps any service call so transient failures retry automatically with exponential backoff (163★).
+
+### 🏘️ Civic & household
+
+_Local services that turn into sensors and calendars: garbage collection schedules, school holidays, traffic, weather alerts, and similar._
+
+- [Mail and Packages](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) [![GitHub stars](https://img.shields.io/github/stars/moralmunky/Home-Assistant-Mail-And-Packages?style=flat)](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages/stargazers) - Sensors for incoming and delivered packages plus USPS Informed Delivery preview images, all from your existing email account (844★).
+- [Irrigation Unlimited](https://github.com/rgc99/irrigation_unlimited) [![GitHub stars](https://img.shields.io/github/stars/rgc99/irrigation_unlimited?style=flat)](https://github.com/rgc99/irrigation_unlimited/stargazers) - Multi-zone irrigation controller with schedules, sequences, weather adjustments, and manual run support (435★).
+- [Moonraker (Klipper)](https://github.com/marcolivierarsenault/moonraker-home-assistant) [![GitHub stars](https://img.shields.io/github/stars/marcolivierarsenault/moonraker-home-assistant?style=flat)](https://github.com/marcolivierarsenault/moonraker-home-assistant/stargazers) - Track Klipper-based 3D printers running Moonraker (Mainsail, Fluidd) with print progress, temperature, and webcam snapshots (469★).
+- [Smart Irrigation](https://github.com/jeroenterheerdt/HAsmartirrigation) [![GitHub stars](https://img.shields.io/github/stars/jeroenterheerdt/HAsmartirrigation?style=flat)](https://github.com/jeroenterheerdt/HAsmartirrigation/stargazers) - Calculates how long to run each irrigation zone based on evapotranspiration, recent rainfall, and weather forecasts (509★).
+- [UK Bin Collection](https://github.com/robbrad/UKBinCollectionData) [![GitHub stars](https://img.shields.io/github/stars/robbrad/UKBinCollectionData?style=flat)](https://github.com/robbrad/UKBinCollectionData/stargazers) - Council bin collection schedules across UK local authorities, exposed as next-pickup sensors per waste stream (328★).
+
+### 🔐 Network & authentication
+
+_Sign in to Home Assistant with single sign-on, route through a tunnel, or pull network hardware into your dashboard._
+
+- [OIDC Auth](https://github.com/christiaangoossens/hass-oidc-auth) [![GitHub stars](https://img.shields.io/github/stars/christiaangoossens/hass-oidc-auth?style=flat)](https://github.com/christiaangoossens/hass-oidc-auth/stargazers) - Sign in with single sign-on through any OpenID Connect provider, including Authelia, Authentik, Keycloak, and Pocket ID (936★).
+- [OpenID Connect Auth](https://github.com/cavefire/hass-openid) [![GitHub stars](https://img.shields.io/github/stars/cavefire/hass-openid?style=flat)](https://github.com/cavefire/hass-openid/stargazers) - Sign in through any OpenID Connect provider, including Authelia, Keycloak, and Authentik (201★).
+- [TP-Link Router](https://github.com/AlexandrErohin/home-assistant-tplink-router) [![GitHub stars](https://img.shields.io/github/stars/AlexandrErohin/home-assistant-tplink-router?style=flat)](https://github.com/AlexandrErohin/home-assistant-tplink-router/stargazers) - Manages TP-Link and Mercusys routers with sensors, reboot button, switches, and per-client device tracking (348★).
+- [Mikrotik Router](https://github.com/tomaae/homeassistant-mikrotik_router) [![GitHub stars](https://img.shields.io/github/stars/tomaae/homeassistant-mikrotik_router?style=flat)](https://github.com/tomaae/homeassistant-mikrotik_router/stargazers) - Pulls Mikrotik routers and access points into your dashboard, with per-client traffic, DHCP leases, and PoE controls (453★).
+
+### 🔗 Federation & multi-instance
+
+_Link multiple Home Assistant instances together, share entities across homes, or relay between them._
+
+- [Remote Home Assistant](https://github.com/custom-components/remote_homeassistant) [![GitHub stars](https://img.shields.io/github/stars/custom-components/remote_homeassistant?style=flat)](https://github.com/custom-components/remote_homeassistant/stargazers) - Link multiple instances together so entities, services, and events flow between them (1,232★).
+
+### 📊 Logging & analytics
+
+_Send Home Assistant data to external systems for long-term storage, richer dashboards, or analysis._
+
+- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/legrego/homeassistant-elasticsearch?style=flat)](https://github.com/legrego/homeassistant-elasticsearch/stargazers) - Publishes events to Elasticsearch (165★).
+- [TrueNAS](https://github.com/tomaae/homeassistant-truenas) [![GitHub stars](https://img.shields.io/github/stars/tomaae/homeassistant-truenas?style=flat)](https://github.com/tomaae/homeassistant-truenas/stargazers) - Pull TrueNAS Scale and Core stats, datasets, virtual machines, and apps into sensors and switches (370★).
+- [Monitor Docker](https://github.com/ualex73/monitor_docker) [![GitHub stars](https://img.shields.io/github/stars/ualex73/monitor_docker?style=flat)](https://github.com/ualex73/monitor_docker/stargazers) - Watch CPU, memory, network, and uptime for every Docker container on a host, including remote ones, and start or stop them from automations (401★).
+- [Unraid](https://github.com/ruaan-deysel/ha-unraid) [![GitHub stars](https://img.shields.io/github/stars/ruaan-deysel/ha-unraid?style=flat)](https://github.com/ruaan-deysel/ha-unraid/stargazers) - Monitors and controls an Unraid NAS, including CPU, memory, disks, virtual machines, and Docker containers (240★).
+
+## Dashboard Cards
+
+_Lovelace plugins that drop into your dashboard. Grouped roughly by what they do._
+
+### 🧱 Dashboard frameworks
+
+_Full card collections that change the look and feel of your dashboards. Mushroom, Bubble Card, Floorplan, and similar all-in-one toolkits._
+
+- [Mushroom](https://github.com/piitaya/lovelace-mushroom) [![GitHub stars](https://img.shields.io/github/stars/piitaya/lovelace-mushroom?style=flat)](https://github.com/piitaya/lovelace-mushroom/stargazers) - A complete card collection with a soft, mobile-first aesthetic that you can drop into existing dashboards (5,018★).
+- [Bubble Card](https://github.com/Clooos/Bubble-Card) [![GitHub stars](https://img.shields.io/github/stars/Clooos/Bubble-Card?style=flat)](https://github.com/Clooos/Bubble-Card/stargazers) - Minimalist card collection with a pop-up touch and rich customization (4,323★).
+- [Floorplan](https://github.com/ExperienceLovelace/ha-floorplan) [![GitHub stars](https://img.shields.io/github/stars/ExperienceLovelace/ha-floorplan?style=flat)](https://github.com/ExperienceLovelace/ha-floorplan/stargazers) - Map entities onto an SVG of your house and animate them based on state changes (1,553★).
+- [UI Lovelace Minimalist](https://github.com/UI-Lovelace-Minimalist/UI) [![GitHub stars](https://img.shields.io/github/stars/UI-Lovelace-Minimalist/UI?style=flat)](https://github.com/UI-Lovelace-Minimalist/UI/stargazers) - Drop-in dashboard collection with a uniform minimalist look across all your views, including ready-made cards and a button card library (2,036★).
+
+### 📐 Layout helpers
+
+_Cards that change where and how other cards appear: stack, fold, show conditionally, restyle, or template._
+
+- [Auto-Entities Card](https://github.com/thomasloven/lovelace-auto-entities) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/lovelace-auto-entities?style=flat)](https://github.com/thomasloven/lovelace-auto-entities/stargazers) - Dynamically adds entities: 🔮 Magic (1,756★).
+- [Card Modder](https://github.com/thomasloven/lovelace-card-mod) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/lovelace-card-mod?style=flat)](https://github.com/thomasloven/lovelace-card-mod/stargazers) - Style your Lovelace cards (1,722★).
+- [Restriction Card](https://github.com/iantrich/restriction-card) [![GitHub stars](https://img.shields.io/github/stars/iantrich/restriction-card?style=flat)](https://github.com/iantrich/restriction-card/stargazers) - A card to provide restrictions on Lovelace cards defined within (317★).
+- [Config Template Card](https://github.com/iantrich/config-template-card) [![GitHub stars](https://img.shields.io/github/stars/iantrich/config-template-card?style=flat)](https://github.com/iantrich/config-template-card/stargazers) - Allow using templates in Lovelace (552★).
+- [Button card](https://github.com/custom-cards/button-card) [![GitHub stars](https://img.shields.io/github/stars/custom-cards/button-card?style=flat)](https://github.com/custom-cards/button-card/stargazers) - Highly customizable button for your entities (2,456★).
+- [Expander Card](https://github.com/Alia5/lovelace-expander-card) [![GitHub stars](https://img.shields.io/github/stars/Alia5/lovelace-expander-card?style=flat)](https://github.com/Alia5/lovelace-expander-card/stargazers) - Expandable and collapsible card to group and hide other cards behind a header (415★).
+- [Layout Card](https://github.com/thomasloven/lovelace-layout-card) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/lovelace-layout-card?style=flat)](https://github.com/thomasloven/lovelace-layout-card/stargazers) - Get fine-grained control over how cards are placed on your dashboard, including masonry-style and grid layouts (1,246★).
+- [Vertical Stack In Card](https://github.com/ofekashery/vertical-stack-in-card) [![GitHub stars](https://img.shields.io/github/stars/ofekashery/vertical-stack-in-card?style=flat)](https://github.com/ofekashery/vertical-stack-in-card/stargazers) - Group multiple cards into a single sleek card with one shared border (968★).
+- [Fold Entity Row](https://github.com/thomasloven/lovelace-fold-entity-row) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/lovelace-fold-entity-row?style=flat)](https://github.com/thomasloven/lovelace-fold-entity-row/stargazers) - A foldable row that hides extra entities behind a header until clicked (705★).
+- [State Switch](https://github.com/thomasloven/lovelace-state-switch) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/lovelace-state-switch?style=flat)](https://github.com/thomasloven/lovelace-state-switch/stargazers) - Dynamically swap one card for another based on the state of an entity, the time of day, or the user viewing (463★).
+- [Swipe Navigation](https://github.com/zanna-37/hass-swipe-navigation) [![GitHub stars](https://img.shields.io/github/stars/zanna-37/hass-swipe-navigation?style=flat)](https://github.com/zanna-37/hass-swipe-navigation/stargazers) - Switch between dashboard views with a swipe gesture on mobile (543★).
+- [Custom Card Features](https://github.com/Nerwyn/custom-card-features) [![GitHub stars](https://img.shields.io/github/stars/Nerwyn/custom-card-features?style=flat)](https://github.com/Nerwyn/custom-card-features/stargazers) - Adds buttons, dropdowns, sliders, spinboxes, selectors, and toggles you can attach to tile cards to call any service (426★).
+- [Custom Sidebar](https://github.com/elchininet/custom-sidebar) [![GitHub stars](https://img.shields.io/github/stars/elchininet/custom-sidebar?style=flat)](https://github.com/elchininet/custom-sidebar/stargazers) - Personalise the sidebar per user or device, hide pages, reorder them, or restyle the look (278★).
+- [Paper Buttons Row](https://github.com/jcwillox/lovelace-paper-buttons-row) [![GitHub stars](https://img.shields.io/github/stars/jcwillox/lovelace-paper-buttons-row?style=flat)](https://github.com/jcwillox/lovelace-paper-buttons-row/stargazers) - Highly configurable button rows that can call actions, fire haptics, and restyle per state (359★).
+- [Streamline Card](https://github.com/brunosabot/streamline-card) [![GitHub stars](https://img.shields.io/github/stars/brunosabot/streamline-card?style=flat)](https://github.com/brunosabot/streamline-card/stargazers) - Define a card template once and reuse it across the dashboard with different entities, no copy-paste YAML (258★).
+
+### 📈 Charts & graphs
+
+_Visualise sensor data over time. Gauges, line graphs, bars, and Sankey diagrams._
+
+- [Mini Graph Card](https://github.com/kalkih/mini-graph-card) [![GitHub stars](https://img.shields.io/github/stars/kalkih/mini-graph-card?style=flat)](https://github.com/kalkih/mini-graph-card/stargazers) - A minimalistic sensor graph card (3,830★).
+- [Canvas Gauge Card](https://github.com/custom-cards/canvas-gauge-card) [![GitHub stars](https://img.shields.io/github/stars/custom-cards/canvas-gauge-card?style=flat)](https://github.com/custom-cards/canvas-gauge-card/stargazers) - Use awesome gauges from canvas-gauges.com (216★).
+- [Dual Gauge Card](https://github.com/custom-cards/dual-gauge-card) [![GitHub stars](https://img.shields.io/github/stars/custom-cards/dual-gauge-card?style=flat)](https://github.com/custom-cards/dual-gauge-card/stargazers) - Shows two gauges in one (220★).
+- [ApexCharts Card](https://github.com/RomRider/apexcharts-card) [![GitHub stars](https://img.shields.io/github/stars/RomRider/apexcharts-card?style=flat)](https://github.com/RomRider/apexcharts-card/stargazers) - Advanced graphs and charts powered by ApexChartsJS with timelines, multi-axis, and event markers (1,797★).
+- [Sankey Chart](https://github.com/MindFreeze/ha-sankey-chart) [![GitHub stars](https://img.shields.io/github/stars/MindFreeze/ha-sankey-chart?style=flat)](https://github.com/MindFreeze/ha-sankey-chart/stargazers) - Sankey-style flow diagram for visualising power, water, or any other flow across your home (660★).
+- [Modern Circular Gauge](https://github.com/selvalt7/modern-circular-gauge) [![GitHub stars](https://img.shields.io/github/stars/selvalt7/modern-circular-gauge?style=flat)](https://github.com/selvalt7/modern-circular-gauge/stargazers) - Modern-looking circular gauge card with smooth animations, color stops, and template support (269★).
+- [Flex Table Card](https://github.com/custom-cards/flex-table-card) [![GitHub stars](https://img.shields.io/github/stars/custom-cards/flex-table-card?style=flat)](https://github.com/custom-cards/flex-table-card/stargazers) - Highly flexible table card with arbitrary columns, regex-matched entities, and per-row styling, useful for AppDaemon and templated content (268★).
+
+### 📋 Status & info rows
+
+_Compact rows that pack more information into entity-card style listings._
+
+- [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/lovelace-slider-entity-row?style=flat)](https://github.com/thomasloven/lovelace-slider-entity-row/stargazers) - Add a slider to adjust, e.g., the brightness of lights in lovelace entity cards (912★).
+- [Battery State Card](https://github.com/maxwroc/battery-state-card) [![GitHub stars](https://img.shields.io/github/stars/maxwroc/battery-state-card?style=flat)](https://github.com/maxwroc/battery-state-card/stargazers) - List devices with their battery levels in a tidy card, sorted and color-coded (1,246★).
+- [Scheduler Card](https://github.com/nielsfaber/scheduler-card) [![GitHub stars](https://img.shields.io/github/stars/nielsfaber/scheduler-card?style=flat)](https://github.com/nielsfaber/scheduler-card/stargazers) - Build and edit weekly schedules for any entity right from the dashboard (1,236★).
+- [Entity Progress Card](https://github.com/francois-le-ko4la/lovelace-entity-progress-card) [![GitHub stars](https://img.shields.io/github/stars/francois-le-ko4la/lovelace-entity-progress-card?style=flat)](https://github.com/francois-le-ko4la/lovelace-entity-progress-card/stargazers) - Progress-bar card for any numeric entity, with thresholds, gradients, and templated icons (257★).
+- [Vehicle Status Card](https://github.com/ngocjohn/vehicle-status-card) [![GitHub stars](https://img.shields.io/github/stars/ngocjohn/vehicle-status-card?style=flat)](https://github.com/ngocjohn/vehicle-status-card/stargazers) - Dashboard card showing fuel or charge level, range, doors, lock state, and a customizable image of the car (262★).
+- [Timer Bar Card](https://github.com/rianadon/timer-bar-card) [![GitHub stars](https://img.shields.io/github/stars/rianadon/timer-bar-card?style=flat)](https://github.com/rianadon/timer-bar-card/stargazers) - Progress-bar card for any timer entity, with countdown, formatted remaining time, and configurable colors (578★).
+
+### ☀️ Weather cards
+
+_Weather widgets with the look you actually want._
+
+- [Weather Chart Card](https://github.com/mlamberts78/weather-chart-card) [![GitHub stars](https://img.shields.io/github/stars/mlamberts78/weather-chart-card?style=flat)](https://github.com/mlamberts78/weather-chart-card/stargazers) - Weather card with a chart-style hourly forecast and customizable layout (435★).
+- [Hourly Weather](https://github.com/decompil3d/lovelace-hourly-weather) [![GitHub stars](https://img.shields.io/github/stars/decompil3d/lovelace-hourly-weather?style=flat)](https://github.com/decompil3d/lovelace-hourly-weather/stargazers) - Show today's hourly forecast as a colored horizontal bar so you can see at a glance when conditions change (393★).
+- [Weather Radar](https://github.com/Makin-Things/weather-radar-card) [![GitHub stars](https://img.shields.io/github/stars/Makin-Things/weather-radar-card?style=flat)](https://github.com/Makin-Things/weather-radar-card/stargazers) - Animated rain radar card using the public RainViewer tile service, with country-level and regional zoom (384★).
+- [Clock Weather Card](https://github.com/pkissling/clock-weather-card) [![GitHub stars](https://img.shields.io/github/stars/pkissling/clock-weather-card?style=flat)](https://github.com/pkissling/clock-weather-card/stargazers) - Combined date, time, and weather forecast card with an iOS-inspired layout for the days ahead (841★).
+- [Horizon Card](https://github.com/rejuvenate/lovelace-horizon-card) [![GitHub stars](https://img.shields.io/github/stars/rejuvenate/lovelace-horizon-card?style=flat)](https://github.com/rejuvenate/lovelace-horizon-card/stargazers) - Visualises the position of the Sun over the horizon throughout the day, with sunrise, sunset, and twilight markers (652★).
+
+### 🎵 Media cards
+
+_Better ways to control media players, with album art, queues, and per-room presence._
+
+- [Mini Media Player](https://github.com/kalkih/mini-media-player) [![GitHub stars](https://img.shields.io/github/stars/kalkih/mini-media-player?style=flat)](https://github.com/kalkih/mini-media-player/stargazers) - A minimalistic media player card (1,701★).
+
+### 🌡️ Climate cards
+
+_Replacement thermostat cards with a different look or feel._
+
+- [Thermostat Card](https://github.com/ciotlosm/lovelace-thermostat-dark-card) [![GitHub stars](https://img.shields.io/github/stars/ciotlosm/lovelace-thermostat-dark-card?style=flat)](https://github.com/ciotlosm/lovelace-thermostat-dark-card/stargazers) - Thermostat control card that looks like a Nest Thermostat (745★).
+- [Simple Thermostat](https://github.com/nervetattoo/simple-thermostat) [![GitHub stars](https://img.shields.io/github/stars/nervetattoo/simple-thermostat?style=flat)](https://github.com/nervetattoo/simple-thermostat/stargazers) - A simpler and more flexible thermostat card (806★).
+- [Mini Climate](https://github.com/artem-sedykh/mini-climate-card) [![GitHub stars](https://img.shields.io/github/stars/artem-sedykh/mini-climate-card?style=flat)](https://github.com/artem-sedykh/mini-climate-card/stargazers) - Compact climate card with current temperature, target, and per-mode controls, sized for small dashboards and mobile (322★).
+
+### ⚡ Energy cards
+
+_Visualise solar production, grid imports, battery state, and consumption flow._
+
+- [Sunsynk Power Flow](https://github.com/slipx06/sunsynk-power-flow-card) [![GitHub stars](https://img.shields.io/github/stars/slipx06/sunsynk-power-flow-card?style=flat)](https://github.com/slipx06/sunsynk-power-flow-card/stargazers) - Visualise the live energy flow of Sunsynk and Deye inverters, mirroring the layout of the inverter screen (384★).
+
+### 💡 Lighting cards
+
+_Specialised controls for lights, color temperature, and effects._
+
+- [RGB Light Card](https://github.com/bokub/rgb-light-card) [![GitHub stars](https://img.shields.io/github/stars/bokub/rgb-light-card?style=flat)](https://github.com/bokub/rgb-light-card/stargazers) - Colorful buttons to control your RGB Lights (563★).
+- [Hue-Like Light Card](https://github.com/Gh61/lovelace-hue-like-light-card) [![GitHub stars](https://img.shields.io/github/stars/Gh61/lovelace-hue-like-light-card?style=flat)](https://github.com/Gh61/lovelace-hue-like-light-card/stargazers) - Light card styled and laid out like the Philips Hue app, with grouped scenes and per-bulb control (368★).
+- [Light Entity Card](https://github.com/ljmerza/light-entity-card) [![GitHub stars](https://img.shields.io/github/stars/ljmerza/light-entity-card?style=flat)](https://github.com/ljmerza/light-entity-card/stargazers) - Compact card to control any light or switch entity with brightness, color temperature, and color picker (282★).
+
+### 🗺️ Maps & location
+
+_Show a map of where your devices and people are, with history trails and custom overlays._
+
+- [ha-map-card](https://github.com/nathan-gs/ha-map-card) [![GitHub stars](https://img.shields.io/github/stars/nathan-gs/ha-map-card?style=flat)](https://github.com/nathan-gs/ha-map-card/stargazers) - Leaflet-based map card with history trails, custom tile layers, and tap actions (116★).
+
+### 📸 Camera cards
+
+_Display camera streams the way you want them, with overlays, controls, event timelines, and pop-out viewers._
+
+- [Advanced Camera Card](https://github.com/dermotduffy/advanced-camera-card) [![GitHub stars](https://img.shields.io/github/stars/dermotduffy/advanced-camera-card?style=flat)](https://github.com/dermotduffy/advanced-camera-card/stargazers) - Comprehensive camera card with timelines, galleries, snapshots, clips, and per-event playback (1,077★).
+
+### 🧹 Vacuum cards
+
+_Show vacuum status, room maps, and start/stop controls in your dashboard._
+
+- [Vacuum Map Card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) [![GitHub stars](https://img.shields.io/github/stars/PiotrMachowski/lovelace-xiaomi-vacuum-map-card?style=flat)](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card/stargazers) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (+ possibly other) vacuums (1,885★).
+- [Vacuum Card](https://github.com/denysdovhan/vacuum-card) [![GitHub stars](https://img.shields.io/github/stars/denysdovhan/vacuum-card?style=flat)](https://github.com/denysdovhan/vacuum-card/stargazers) - A card for controlling a robot vacuum (1,211★).
+- [Valetudo Map](https://github.com/Hypfer/lovelace-valetudo-map-card) [![GitHub stars](https://img.shields.io/github/stars/Hypfer/lovelace-valetudo-map-card?style=flat)](https://github.com/Hypfer/lovelace-valetudo-map-card/stargazers) - Display the live map from a robot vacuum running Valetudo (cloudless firmware) directly on a dashboard (304★).
+
+### 📅 Calendar & feed
+
+_Calendar views and rolling feeds of upcoming events._
+
+- [Atomic Calendar Revive](https://github.com/totaldebug/atomic-calendar-revive) [![GitHub stars](https://img.shields.io/github/stars/totaldebug/atomic-calendar-revive?style=flat)](https://github.com/totaldebug/atomic-calendar-revive/stargazers) - Calendar card with advanced settings (629★).
+- [Week Planner Card](https://github.com/FamousWolf/week-planner-card) [![GitHub stars](https://img.shields.io/github/stars/FamousWolf/week-planner-card?style=flat)](https://github.com/FamousWolf/week-planner-card/stargazers) - Responsive multi-day overview of upcoming events, alarms, and reminders (514★).
+- [Trash Card](https://github.com/idaho/hassio-trash-card) [![GitHub stars](https://img.shields.io/github/stars/idaho/hassio-trash-card?style=flat)](https://github.com/idaho/hassio-trash-card/stargazers) - Show the next trash pickup type (paper, plastic, organic) based on a calendar entity, with color-coded icons (356★).
+- [Calendar Card Pro](https://github.com/alexpfau/calendar-card-pro) [![GitHub stars](https://img.shields.io/github/stars/alexpfau/calendar-card-pro?style=flat)](https://github.com/alexpfau/calendar-card-pro/stargazers) - Customizable calendar card with event grouping, location indicators, and a clean modern look (1,122★).
+
+### 📡 Remote control
+
+_Virtual remotes for TVs, streamers, and AV gear._
+
+- [LG WebOS Remote Control](https://github.com/madmicio/LG-WebOS-Remote-Control) [![GitHub stars](https://img.shields.io/github/stars/madmicio/LG-WebOS-Remote-Control?style=flat)](https://github.com/madmicio/LG-WebOS-Remote-Control/stargazers) - Remote Control for LG TV WebOS (551★).
+- [HA Firemote](https://github.com/PRProd/HA-Firemote) [![GitHub stars](https://img.shields.io/github/stars/PRProd/HA-Firemote?style=flat)](https://github.com/PRProd/HA-Firemote/stargazers) - Virtual remote for Apple TV, Fire TV, Chromecast, Homatics, Shield, onn., Roku, Xiaomi, and more (987★).
+- [Universal Remote Card](https://github.com/Nerwyn/universal-remote-card) [![GitHub stars](https://img.shields.io/github/stars/Nerwyn/universal-remote-card?style=flat)](https://github.com/Nerwyn/universal-remote-card/stargazers) - Fully customizable virtual remote for any media device, supporting custom buttons and haptics (569★).
+
+### 🍃 Air quality
+
+_Display readings from purifiers and air-quality sensors._
+
+- [Purifier Card](https://github.com/denysdovhan/purifier-card) [![GitHub stars](https://img.shields.io/github/stars/denysdovhan/purifier-card?style=flat)](https://github.com/denysdovhan/purifier-card/stargazers) - A card for controlling air purifiers (342★).
+
+### 🖥️ Kiosk & wallpanel
+
+_Hide the chrome, run full-screen, or turn an old tablet on the wall into a dedicated touch panel._
+
+- [Wall Panel](https://github.com/j-a-n/lovelace-wallpanel) [![GitHub stars](https://img.shields.io/github/stars/j-a-n/lovelace-wallpanel?style=flat)](https://github.com/j-a-n/lovelace-wallpanel/stargazers) - Wall-panel mode and photo-screensaver for tablets mounted on the wall (842★).
+- [Kiosk Mode](https://github.com/NemesisRE/kiosk-mode) [![GitHub stars](https://img.shields.io/github/stars/NemesisRE/kiosk-mode?style=flat)](https://github.com/NemesisRE/kiosk-mode/stargazers) - Hide the header, sidebar, and overflow menu for a clean kiosk-style view (738★).
+
+## Dashboards
+
+_Frameworks that replace or extend the default Home Assistant dashboard with a different look and feel._
+
+- [Dwains Dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard) [![GitHub stars](https://img.shields.io/github/stars/dwainscheeren/dwains-lovelace-dashboard?style=flat)](https://github.com/dwainscheeren/dwains-lovelace-dashboard/stargazers) - A fully auto-generating dashboard for desktop, tablet and mobile (2,048★).
+- [Mushroom Strategy](https://github.com/DigiLive/mushroom-strategy) [![GitHub stars](https://img.shields.io/github/stars/DigiLive/mushroom-strategy?style=flat)](https://github.com/DigiLive/mushroom-strategy/stargazers) - A strategy that automatically generates a dashboard using Mushroom cards (648★).
+
+## Themes
+
+_It is all about the looks, apply some style._
+
+- [Midnight](https://community.home-assistant.io/t/midnight-theme/28598?u=frenck) - A dark theme by Marcel Hoffs.
+- [Dark Cyan](https://community.home-assistant.io/t/dark-cyan-theme/28594?u=frenck) - A dark theme with cyan accents by Ryoen Deprouw.
+- [Grey Night](https://community.home-assistant.io/t/grey-night-theme/30848?u=frenck) - A dark theme with grey accents by ksya.
+- [Dark Red](https://community.home-assistant.io/t/dark-red-theme/28592?u=frenck) - A dark theme with red accents by Ryoen Deprouw.
+- [Halloween](https://community.home-assistant.io/t/halloween-theme/30872?u=frenck) - Pumpkins colored by Mahasri Kalavala.
+- [Black and Green](https://community.home-assistant.io/t/black-and-green-theme/28602?u=frenck) - A dark theme with pale green accents by GreenTurtwig.
+- [Vintage](https://community.home-assistant.io/t/vintage-theme/42806?u=frenck) - Give your frontend a vintage look with this theme by Anup Surendran.
+- [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) - Light carbon theme with green accents by Reua.
+- [Slate](https://github.com/seangreen2/slate_theme) [![GitHub stars](https://img.shields.io/github/stars/seangreen2/slate_theme?style=flat)](https://github.com/seangreen2/slate_theme/stargazers) - A dark theme close to the vanilla look (137★).
+- [Synthwave](https://github.com/bbbenji/synthwave-hass) [![GitHub stars](https://img.shields.io/github/stars/bbbenji/synthwave-hass?style=flat)](https://github.com/bbbenji/synthwave-hass/stargazers) - A theme influenced by the cover artwork of modern Synthwave bands (200★).
+- [Frosted Glass](https://github.com/wessamlauf/homeassistant-frosted-glass-themes) [![GitHub stars](https://img.shields.io/github/stars/wessamlauf/homeassistant-frosted-glass-themes?style=flat)](https://github.com/wessamlauf/homeassistant-frosted-glass-themes/stargazers) - Modern frosted-glass dark and light themes with translucent cards (907★).
+- [iOS Themes](https://github.com/basnijholt/lovelace-ios-themes) [![GitHub stars](https://img.shields.io/github/stars/basnijholt/lovelace-ios-themes?style=flat)](https://github.com/basnijholt/lovelace-ios-themes/stargazers) - Themes inspired by iOS dark and light modes (868★).
+- [LCARS](https://github.com/th3jesta/ha-lcars) [![GitHub stars](https://img.shields.io/github/stars/th3jesta/ha-lcars?style=flat)](https://github.com/th3jesta/ha-lcars/stargazers) - Star Trek LCARS-inspired theme for the bridge feel (534★).
+- [Material You](https://github.com/Nerwyn/material-you-theme) [![GitHub stars](https://img.shields.io/github/stars/Nerwyn/material-you-theme?style=flat)](https://github.com/Nerwyn/material-you-theme/stargazers) - Material Design 3 theme that adapts to your accent color (452★).
+- [Graphite](https://github.com/TilmanGriesel/graphite) [![GitHub stars](https://img.shields.io/github/stars/TilmanGriesel/graphite?style=flat)](https://github.com/TilmanGriesel/graphite/stargazers) - Calm and clean theme with a focused, low-contrast feel (442★).
+- [Catppuccin](https://github.com/catppuccin/home-assistant) [![GitHub stars](https://img.shields.io/github/stars/catppuccin/home-assistant?style=flat)](https://github.com/catppuccin/home-assistant/stargazers) - Soothing pastel theme matching the popular Catppuccin palette across editors and apps (427★).
+- [Mushroom Themes](https://github.com/piitaya/lovelace-mushroom-themes) [![GitHub stars](https://img.shields.io/github/stars/piitaya/lovelace-mushroom-themes?style=flat)](https://github.com/piitaya/lovelace-mushroom-themes/stargazers) - Additional themes designed to pair with the Mushroom card collection (304★).
+- [visionOS](https://github.com/Nezz/homeassistant-visionos-theme) [![GitHub stars](https://img.shields.io/github/stars/Nezz/homeassistant-visionos-theme?style=flat)](https://github.com/Nezz/homeassistant-visionos-theme/stargazers) - Theme inspired by Apple's visionOS (313★).
+- [Nordic](https://github.com/coltondick/nordic-theme-main) [![GitHub stars](https://img.shields.io/github/stars/coltondick/nordic-theme-main?style=flat)](https://github.com/coltondick/nordic-theme-main/stargazers) - Light and dark themes in a Nordic palette, with several blue-tinted variants (43★).
+
+## Icon packs
+
+_Custom icon sets you install through HACS to replace or extend the default icons across your dashboards._
+
+- [Font Awesome Icons](https://github.com/thomasloven/hass-fontawesome) [![GitHub stars](https://img.shields.io/github/stars/thomasloven/hass-fontawesome?style=flat)](https://github.com/thomasloven/hass-fontawesome/stargazers) - Use the free icons from Font Awesome in your frontend (339★).
+- [Hass Hue Icons](https://github.com/arallsopp/hass-hue-icons) [![GitHub stars](https://img.shields.io/github/stars/arallsopp/hass-hue-icons?style=flat)](https://github.com/arallsopp/hass-hue-icons/stargazers) - Additional Philips Hue bulbs and fixtures icons (377★).
+- [simpleicons](https://github.com/vigonotion/hass-simpleicons) [![GitHub stars](https://img.shields.io/github/stars/vigonotion/hass-simpleicons?style=flat)](https://github.com/vigonotion/hass-simpleicons/stargazers) - Use the free icons from the simpleicons set (167★).
+
+## Apps
+
+_Need a database, a reverse proxy, an MQTT broker (the messaging service many smart-home devices use), or another tool running alongside Home Assistant? Apps, formerly called Add-ons, let you install them straight into Home Assistant OS. No Docker, no separate server, no command line required._
+
+### 🛡️ Official Apps
+
+_Created and maintained by the Home Assistant team._
+
+- [DuckDNS](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/duckdns/DOCS.md/stargazers) - Updates your Duck DNS IP address and generates SSL using Let's Encrypt.
+- [File editor](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/configurator/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/configurator/DOCS.md/stargazers) - Browser-based configuration file editor.
+- [Mosquitto](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/mosquitto/DOCS.md/stargazers) - Fast and reliable MQTT broker.
+- [Terminal & SSH](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/ssh/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/ssh/DOCS.md/stargazers) - Allows logging in remotely using a web terminal or SSH client.
+- [Samba](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/samba/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/samba/DOCS.md/stargazers) - Access your configuration files using Windows network shares.
+- [NGINX SSL proxy](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/nginx_proxy/DOCS.md/stargazers) - Reverse proxy with SSL termination.
+- [deCONZ](https://github.com/home-assistant/hassio-addons/blob/master/deconz/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/deconz/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/deconz/DOCS.md/stargazers) - Control a ZigBee network using ConBee or RaspBee hardware by Dresden Elektronik.
+- [Let's Encrypt](https://github.com/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/letsencrypt/DOCS.md/stargazers) - Get a free SSL certificate from Let's Encrypt; an open and automated certificate authority (CA).
+- [MariaDB](https://github.com/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md) [![GitHub stars](https://img.shields.io/github/stars/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md?style=flat)](https://github.com/home-assistant/hassio-addons/blob/master/mariadb/DOCS.md/stargazers) - An open source relational database (fork of MySQL).
+
+### 📦 Third Party Apps
+
+_Anyone can create an app, the following are created by the community._
+
+- [SSH & Web Terminal](https://github.com/hassio-addons/app-ssh) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-ssh?style=flat)](https://github.com/hassio-addons/app-ssh/stargazers) - SSH and Web-based terminal with tons of pre-loaded useful tools (501★).
+- [UniFi Controller](https://github.com/hassio-addons/app-unifi) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-unifi?style=flat)](https://github.com/hassio-addons/app-unifi/stargazers) - The UniFi Controller allows you to manage your UniFi network using a web browser (374★).
+- [Node-RED](https://github.com/hassio-addons/app-node-red) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-node-red?style=flat)](https://github.com/hassio-addons/app-node-red/stargazers) - Flow-based programming for the Internet of Things (639★).
+- [Plex Media Server](https://github.com/hassio-addons/app-plex) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-plex?style=flat)](https://github.com/hassio-addons/app-plex/stargazers) - Your recorded media beautifully organized and ready to stream (190★).
+- [InfluxDB](https://github.com/hassio-addons/addon-influxdb) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-influxdb?style=flat)](https://github.com/hassio-addons/addon-influxdb/stargazers) - Scalable datastore for metrics, events, and real-time analytics (196★).
+- [Grafana](https://github.com/hassio-addons/addon-grafana) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-grafana?style=flat)](https://github.com/hassio-addons/addon-grafana/stargazers) - Open platform for beautiful analytics and monitoring (279★).
+- [Tor](https://github.com/hassio-addons/app-tor) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-tor?style=flat)](https://github.com/hassio-addons/app-tor/stargazers) - Protect your privacy and access your instance via Tor (62★).
+- [Spotify Connect](https://github.com/hassio-addons/app-spotify-connect) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-spotify-connect?style=flat)](https://github.com/hassio-addons/app-spotify-connect/stargazers) - Stream music from Spotify directly to your Home Assistant device (250★).
+- [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) [![GitHub stars](https://img.shields.io/github/stars/Koenkk/zigbee2mqtt?style=flat)](https://github.com/Koenkk/zigbee2mqtt/stargazers) - Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges (15,213★).
+- [AppDaemon](https://github.com/AppDaemon/appdaemon) [![GitHub stars](https://img.shields.io/github/stars/AppDaemon/appdaemon?style=flat)](https://github.com/AppDaemon/appdaemon/stargazers) - A loosely coupled, multi-threaded, sandboxed Python execution environment for writing automation apps (961★).
+- [TasmoAdmin](https://github.com/hassio-addons/addon-tasmoadmin) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-tasmoadmin?style=flat)](https://github.com/hassio-addons/addon-tasmoadmin/stargazers) - Centrally manage all your Sonoff-Tasmota devices (256★).
+- [Aircast](https://github.com/hassio-addons/app-aircast) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-aircast?style=flat)](https://github.com/hassio-addons/app-aircast/stargazers) - AirPlay capabilities for your Chromecast players (397★).
+- [AirSonos](https://github.com/hassio-addons/app-airsonos) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-airsonos?style=flat)](https://github.com/hassio-addons/app-airsonos/stargazers) - AirPlay capabilities for your Sonos players (121★).
+- [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-log-viewer?style=flat)](https://github.com/hassio-addons/addon-log-viewer/stargazers) - Browser-based live log viewing utility (94★).
+- [Tautulli](https://github.com/hassio-addons/addon-tautulli) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-tautulli?style=flat)](https://github.com/hassio-addons/addon-tautulli/stargazers) - Monitor and get statistics from your Plex server (46★).
+- [motionEye](https://github.com/hassio-addons/addon-motioneye) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-motioneye?style=flat)](https://github.com/hassio-addons/addon-motioneye/stargazers) - Simple, elegant and feature-rich CCTV/NVR for your cameras (332★).
+- [JupyterLab](https://github.com/hassio-addons/addon-jupyterlab) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-jupyterlab?style=flat)](https://github.com/hassio-addons/addon-jupyterlab/stargazers) - Create documents containing live code, equations, visualizations, and explanatory text (68★).
+- [Glances](https://github.com/hassio-addons/app-glances) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-glances?style=flat)](https://github.com/hassio-addons/app-glances/stargazers) - A cross-platform system monitoring tool written in Python (186★).
+- [AdGuard Home](https://github.com/hassio-addons/app-adguard-home) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-adguard-home?style=flat)](https://github.com/hassio-addons/app-adguard-home/stargazers) - A network-wide ad-and-tracker blocking DNS server with parental control (520★).
+- [Traccar](https://github.com/hassio-addons/addon-traccar) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/addon-traccar?style=flat)](https://github.com/hassio-addons/addon-traccar/stargazers) - Modern GPS tracking platform (158★).
+- [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup) [![GitHub stars](https://img.shields.io/github/stars/sabeechen/hassio-google-drive-backup?style=flat)](https://github.com/sabeechen/hassio-google-drive-backup/stargazers) - A complete and easy-to-configure solution for backing up to Google Drive (3,553★).
+- [Grocy](https://github.com/hassio-addons/app-grocy) [![GitHub stars](https://img.shields.io/github/stars/hassio-addons/app-grocy?style=flat)](https://github.com/hassio-addons/app-grocy/stargazers) - ERP beyond your fridge! A groceries & household management solution for your home (433★).
+- [CrowdSec](https://github.com/crowdsecurity/home-assistant-addons) [![GitHub stars](https://img.shields.io/github/stars/crowdsecurity/home-assistant-addons?style=flat)](https://github.com/crowdsecurity/home-assistant-addons/stargazers) - A next-gen collaborative IPS/IDS to protect you from intrusion (94★).
+- [C-Gate Web Bridge](https://github.com/dougrathbone/cgateweb-homeassistant) [![GitHub stars](https://img.shields.io/github/stars/dougrathbone/cgateweb-homeassistant?style=flat)](https://github.com/dougrathbone/cgateweb-homeassistant/stargazers) - Bridge Clipsal C-Bus lighting and automation systems to Home Assistant via MQTT with auto-discovery (4★).
+
+## DIY
+
+_Some of the best smart-home gadgets do not exist as products you can buy, but other people have figured out how to build them. The projects below cover everything from soldering your own multi-sensor to repurposing a discontinued device. Most are weekend projects with parts that cost less than a coffee run._
+
+### 🧩 Standalone projects
+
+- [ESPHome](https://esphome.io/) - Program ESP8266 boards and ESP32 boards using YAML.
+- [Tasmota](https://github.com/arendst/Tasmota) [![GitHub stars](https://img.shields.io/github/stars/arendst/Tasmota?style=flat)](https://github.com/arendst/Tasmota/stargazers) - Firmware for ESP8266 boards and devices (24,475★).
+- [Sonoff NSPanel](https://github.com/joBr99/nspanel-lovelace-ui) [![GitHub stars](https://img.shields.io/github/stars/joBr99/nspanel-lovelace-ui?style=flat)](https://github.com/joBr99/nspanel-lovelace-ui/stargazers) - Custom firmware for Sonoff NSPanel touchscreens with a Lovelace-style UI (988★).
+- [CODESYS V3 Home Automation](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3) [![GitHub stars](https://img.shields.io/github/stars/MichielVanwelsenaere/HomeAutomation.CoDeSys3?style=flat)](https://github.com/MichielVanwelsenaere/HomeAutomation.CoDeSys3/stargazers) - PLC home-automation software that communicates over MQTT for wired automation setups (144★).
+
+### 🌉 DIY Gateways
+
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) [![GitHub stars](https://img.shields.io/github/stars/1technophile/OpenMQTTGateway?style=flat)](https://github.com/1technophile/OpenMQTTGateway/stargazers) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors (4,023★).
+- [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) [![GitHub stars](https://img.shields.io/github/stars/sidoh/esp8266_milight_hub?style=flat)](https://github.com/sidoh/esp8266_milight_hub/stargazers) - Alternative hub for Milight/LimitlessLED devices that uses MQTT (1,040★).
+
+### 🔨 DIY Projects
+
+- [HA SwitchPlate](https://community.home-assistant.io/t/ha-switchplate-diy-lcd-touchscreen-wall-switch-replacement/25464?u=frenck) - LCD Touchscreen wall switch replacement.
+- [$10 WiFi RGB Bulb](https://community.home-assistant.io/t/how-to-inexpensive-10-us-wifi-rgb-bulb-that-works-with-home-assistant/14735?u=frenck) - An inexpensive RGB bulb that works on WiFi.
+- [433mhz/IR Bidirectional Gateway](https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck) - Bidirectional with IR and 433mhz using ESP8266 and MQTT.
+- [esp8266MQTTBlinds](https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck) - Automate your window blinds using an ESP8266, a servo and MQTT.
+- [Home Assistant's Hackster.io](https://www.hackster.io/home-assistant?f=1#_=_) - A Hackster channel with multiple DIY projects.
+- [Bed Presence Detection](https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/) - ESP8266 based Bed Presence Detection.
+- [QuinLED](https://quinled.info/) - DIY Wi-Fi LED dimmers and controllers using ESP32 boards.
+
+## Tools & Utilities
+
+_Helpers, daemons, and developer tools that sit alongside Home Assistant rather than inside it. Useful for editing your config, debugging your data, sending device data over MQTT, or wiring HA into a wider workflow._
+
+- [HASS Configurator](https://github.com/danielperna84/hass-configurator) [![GitHub stars](https://img.shields.io/github/stars/danielperna84/hass-configurator?style=flat)](https://github.com/danielperna84/hass-configurator/stargazers) - Browser-based configuration file editor (334★).
+- [HA-Dockermon](https://github.com/philhawthorne/ha-dockermon) [![GitHub stars](https://img.shields.io/github/stars/philhawthorne/ha-dockermon?style=flat)](https://github.com/philhawthorne/ha-dockermon/stargazers) - A Node.js service for RESTful switches to control Docker containers (291★).
+- [Home Assistant Device Database](https://www.hadevices.com/) - Database of supported/confirmed working devices.
+- [Jinja Scripts for Curious Minds](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers) [![GitHub stars](https://img.shields.io/github/stars/skalavala/mysmarthome/tree/master/jinja_helpers?style=flat)](https://github.com/skalavala/mysmarthome/tree/master/jinja_helpers/stargazers) - Bunch of Jinja2 scripts helping you to understand it better.
+- [GitLab CI/CD](https://about.gitlab.com/2018/08/02/using-the-gitlab-ci-slash-cd-for-smart-home-configuration-management/) - How to simplify your smart home configuration with GitLab CI/CD.
+- [Monitor](https://github.com/andrewjfreyer/monitor) [![GitHub stars](https://img.shields.io/github/stars/andrewjfreyer/monitor?style=flat)](https://github.com/andrewjfreyer/monitor/stargazers) - Distributed advertisement-based BTLE presence detection reported via MQTT (2,104★).
+- [HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) [![GitHub stars](https://img.shields.io/github/stars/robmarkcole/HASS-data-detective?style=flat)](https://github.com/robmarkcole/HASS-data-detective/stargazers) - Explore and analyse your database data (204★).
+- [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - List of ADB intents to control Android Devices.
+- [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Visual Studio Code Extension that provides auto-completion, config validation and snippets when editing your configuration.
+- [Home Assistant Taskbar Menu](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) [![GitHub stars](https://img.shields.io/github/stars/PiotrMachowski/Home-Assistant-Taskbar-Menu?style=flat)](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu/stargazers) - A client for Windows that can display Lovelace views, control entities and show persistent notifications (342★).
+
+## Online Resources
+
+_Home Assistant has a thriving community of bloggers, YouTubers, podcasters, and people who love sharing what they have built. The folks below are some of the regular voices worth following, especially when something new ships and you want a hands-on take before deciding whether to dig in yourself._
+
+### ✍️ Blogs
+
+#### English
+
+- [DIY Futurism](https://diyfuturism.com/) - Articles with clear step-by-step instructions for new users by Brad.
+- [Smart Home Hobby](https://smarthomehobby.com/) - Features budget-friendly guides and information.
+- [Self Hosted Home](https://selfhostedhome.com/) - Articles on DIY home automation projects and self-hosted services.
+- [Tinkering with Home Automation](https://blog.ceard.tech/) - Tinkerer's blog and guides.
+- [HomeTechHacker](https://hometechhacker.com/) - DIY smart-home guides, reviews, and advice.
+- [Intermittent Technology](https://blog.quindorian.org/) - Quindor's personal blog covering smart home, networking, and adjacent tech.
+- [SmartHomeScene](https://smarthomescene.com/) - Beginner-friendly tutorials, smart-home device reviews, and DIY automation projects.
+- [KPeyanski](https://peyanski.com/) - Tutorials and walkthroughs covering automations, AI integrations, and energy management by Kiril Peyanski.
+- [fixtse](https://fixtse.com/) - Hardware reviews and DIY guides for presence detection, voice assistants, and local AI by Sergio Romero.
+- [Michael Leen](https://michaelsleen.com/) - Practical setup advice and gear reviews aimed at people building their first smart home.
+- [Phil Hawthorne](https://philhawthorne.com/) - Field notes on integrations, presence detection, and household automations from a long-time podcaster.
+- [Frenck](https://frenck.dev/) - Behind-the-scenes posts on open source, project leadership, and personal automation experiments by Franck Nijhof.
+
+#### 🌍 In other languages
+
+_Sorted alphabetically by language._
+
+- 🇩🇪 [simon42](https://www.simon42.com/) - Beginner-friendly guides on installation, integrations, and automations by Simon Müller.
+- 🇩🇪 [smarterkram](https://smarterkram.de/) - Detailed tutorials on Zigbee, Matter, ESPHome, and hardware by Oliver Kluth.
+- 🇩🇪 [SmartHome yourself](https://smarthomeyourself.de/) - Release coverage, device reviews, and integration guides by Daniel Scheidler.
+
+### 📺 YouTube Channels
+
+_Sit back, relax, watch, and learn._
+
+#### English
+
+_Official channel first, then sorted by subscriber count. Refreshed nightly._
+
+- [Home Assistant](https://www.youtube.com/channel/UCbX3YkedQunLt7EQAdVxh7w) - Official channel for new launches and live streams (73.7K subs).
+- [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - Smart-home tutorials, gadget reviews, and home-automation experiments by Robert Tait (577K subs).
+- [Everything Smart Home](https://www.youtube.com/c/EverythingSmartHome) - Smart-home and tech reviews, guides, and step-by-step DIY projects (245K subs).
+- [Home Automation Guy](https://www.youtube.com/@HomeAutomationGuy) - Smart-home tutorials, automations, and gear reviews by Alan Byrne (113K subs).
+- [Smart Home Junkie](https://www.youtube.com/@smarthomejunkie) - How-to videos and tutorials for starters and advanced users by Ed de Tollenaer (85.7K subs).
+- [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - Hardware project tutorials and Tasmota automations (74.1K subs).
+- [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - Tutorials and reviews covering cameras, home networking, ESP boards, and Node-RED (62.5K subs).
+- [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) - Smart-home tutorials and 3D printing (44.9K subs).
+- [JuanMTech](https://www.youtube.com/juanmtech) - Easy-to-follow how-to videos and product reviews (42.6K subs).
+- [mostlychris](https://www.youtube.com/@mostlychris) - Smart-home tutorials and gadget reviews by Chris West (40.2K subs).
+- [KPeyanski](https://www.youtube.com/@kpeyanski) - Hands-on tutorials for hardware projects, dashboards, and integrations by Kiril Peyanski (33.7K subs).
+- [This Smart House](https://www.youtube.com/@thissmarthouse) - Beginner-friendly setup walkthroughs and product reviews by Ryan Holland (33.8K subs).
+- [SlackerLabs](https://www.youtube.com/@SlackerLabs) - Automation, scripting, and tinkering walkthroughs by Jeffrey Stone (30.6K subs).
+- [Michael Leen](https://www.youtube.com/@michaelsleen) - Smart-home tutorials and integration walkthroughs (26.7K subs).
+- [Technithusiast](https://www.youtube.com/@technithusiast) - Tutorials, integrations, and automations by Michael Montaque (22.8K subs).
+- [3ATIVE VFX](https://www.youtube.com/@3ATIVE) - Smart-home automations and integrations by VFX artist David Martin (20.5K subs).
+- [Smart Home Australia](https://www.youtube.com/@smart_home_australia) - Australia-flavored smart-home reviews and tutorials by Paul Toner (20.7K subs).
+- [CTech&Media](https://www.youtube.com/@CTechMedia) - Smart-home reviews and tutorials by Charly Schulte (18K subs).
+- [Frenck | Home Assistant & Smart Home](https://www.youtube.com/@frenck) - Lead of the Home Assistant project, with occasional videos on his own experience and inside views on what is happening in the Home Assistant world (9.8K subs).
+
+#### 🌍 In other languages
+
+_Sorted alphabetically by language, then by subscriber count._
+
+- 🇸🇦 [Smart Tech Arabic](https://www.youtube.com/@SmartTechArabic) - Tutorials in Arabic by Shady Nafie (99.1K subs).
+- 🇧🇷 [Descomplicando Tech](https://www.youtube.com/@DescomplicandoTech) - Smart-home guides by Fabricio Goncalves (15.9K subs).
+- 🇫🇷 [AyLabs](https://www.youtube.com/@ay_labs) - Tutorials, integrations, and automation walkthroughs by Aymeric Le Feyer (12K subs).
+- 🇩🇪 [simon42](https://www.youtube.com/@simon42) - Tutorials, automations, and dashboard guides by Simon Müller (205K subs).
+- 🇩🇪 [haus:automation](https://www.youtube.com/@haus_automation) - Tutorials, integrations, and automation walkthroughs by Matthias Kleine (136K subs).
+- 🇩🇪 [SmartHome yourself](https://www.youtube.com/@Smarthomeyourself) - DIY smart-home builds and guides by Daniel Scheidler (35K subs).
+- 🇩🇪 [Tristans Smartes Heim](https://www.youtube.com/@tristanssmartesheim) - Smart-home setup guides and integrations by Tristan Küsters (13.8K subs).
+- 🇮🇹 [DinamoTech](https://www.youtube.com/@DinamoTech) - Smart-home tutorials and reviews by Francesco Cova (78K subs).
+- 🇮🇹 [Ipensieridellarchitetto](https://www.youtube.com/@ipensieridellarchitetto) - Domotics, technology, and AI walkthroughs (14.8K subs).
+- 🇪🇸 [Home Assistant y Domótica Fácil](https://www.youtube.com/@HomeAssistantFacil) - Smart-home tutorials and automations by Luis del Valle (139K subs).
+- 🇪🇸 [Tecnoyfoto](https://www.youtube.com/@Tecnoyfoto) - Tutorials and product reviews by Albert Barnosell (45K subs).
+
+### 🎙️ Podcasts
+
+_Get inspired, while commuting, doing your morning routine, or at the gym!_
+
+- [Home Assistant Podcast](https://hasspodcast.io) - Biweekly podcast with the latest news and interesting guests.
+
+### 📱 Social
+
+_Accounts worth following for news, tips, and inspiration, across every
+network where the community is active._
+
+#### Official
+
+- **Home Assistant** ([X](https://x.com/home_assistant), [Bluesky](https://bsky.app/profile/home-assistant.io), [Mastodon](https://fosstodon.org/@homeassistant), [Facebook](https://www.facebook.com/homeassistantio/), [Instagram](https://www.instagram.com/homeassistant/), [LinkedIn](https://www.linkedin.com/company/home-assistant)) - Open source home automation that puts local control and privacy first.
+- **Home Assistant Developers** ([X](https://x.com/hass_devs), [Bluesky](https://bsky.app/profile/developers.home-assistant.io)) - Latest news on development for contributors.
+- **Open Home Foundation** ([X](https://x.com/openhomefndn), [Bluesky](https://bsky.app/profile/openhomefoundation.org), [Mastodon](https://fosstodon.org/@openhomefoundation), [Instagram](https://www.instagram.com/openhomefoundation/)) - Protecting privacy, choice, and sustainability for smart homes.
+- **ESPHome** ([X](https://x.com/esphome_), [Bluesky](https://bsky.app/profile/esphome.io)) - Open source system for controlling ESP boards and smart-home devices.
+- **Nabu Casa** ([X](https://x.com/NabuCasa)) - The company behind the cloud service.
+- **Rhasspy** ([X](https://x.com/rhasspy), [Mastodon](https://fosstodon.org/@rhasspy)) - Open source voice assistant toolkit by Michael Hansen.
+
+#### Community
+
+- **Paulus Schoutsen** ([X](https://x.com/balloob), [Bluesky](https://bsky.app/profile/paulusschoutsen.nl), [Mastodon](https://fosstodon.org/@balloob), [Threads](https://www.threads.com/@balloob)) - Founder of the project and Nabu Casa.
+- **Franck Nijhof** ([X](https://x.com/frenck), [Bluesky](https://bsky.app/profile/frenck.social), [Mastodon](https://fosstodon.org/@frenck), [Threads](https://www.threads.com/@frenck), [Instagram](https://www.instagram.com/frenck/), [YouTube](https://www.youtube.com/@frenck), [LinkedIn](https://www.linkedin.com/in/frenck)) - Lead of the project and creator of this Awesome list.
+- **Everything Smart Home** ([X](https://x.com/EverySmartHome), [Bluesky](https://bsky.app/profile/lewisbarclay.bsky.social), [Mastodon](https://fosstodon.org/@everythingsmarthome), [Threads](https://www.threads.com/@everythingsmarthome)) - Smart-home and tech reviews, guides, and DIY projects by Lewis Barclay.
+- **JuanMTech** ([X](https://x.com/JuanMTech), [Bluesky](https://bsky.app/profile/juanmtech.com), [Threads](https://www.threads.com/@juanmtech)) - Easy-to-follow how-to content and product reviews.
+- **Home Automation Guy** ([X](https://x.com/alanmbyrne), [Bluesky](https://bsky.app/profile/burnsie.com), [Mastodon](https://mastodon.social/@burnsie)) - Smart-home tutorials and automations by Alan Byrne.
+- **mostlychris** ([X](https://x.com/mostlychris2), [Bluesky](https://bsky.app/profile/mostlychris.com), [Mastodon](https://fosstodon.org/@mostlychris)) - Smart-home tutorials and gadget reviews by Chris West.
+- **BeardedTinker** ([X](https://x.com/BeardedTinker), [Bluesky](https://bsky.app/profile/beardedtinker.bsky.social)) - Smart-home tutorials and 3D printing.
+- **Mark Watt Tech** ([Bluesky](https://bsky.app/profile/markwatttech.bsky.social), [Mastodon](https://fosstodon.org/@MarkWattTech)) - Software developer and smart-home content creator.
+- **Smart Home Junkie** ([X](https://x.com/smarth0mejunkie), [Threads](https://www.threads.com/@smarthomejunkie)) - How-to content for starters and advanced users by Ed de Tollenaer.
+- **Smart Home Solver** ([X](https://x.com/smarthomesolver), [Threads](https://www.threads.com/@smarthomesolver)) - Smart-home tips and reviews by Reed Kleinman.
+
+#### 🌍 In other languages
+
+_Sorted alphabetically by language._
+
+- 🇧🇷 **LNPBR** ([Instagram](https://www.instagram.com/lnp_br/), [Threads](https://www.threads.com/@lnp_br), [TikTok](https://www.tiktok.com/@lnpbr)) - Smart-home tutorials and product reviews by Leandro.
+- 🇩🇪 **simon42** ([Instagram](https://www.instagram.com/simon42.official/), [Facebook](https://www.facebook.com/simon42official/)) - Beginner-friendly smart-home guides and automations by Simon Müller.
+- 🇩🇪 **haus:automation** ([Instagram](https://www.instagram.com/haus_automation/), [Facebook](https://www.facebook.com/HausAutomatisierungCom/)) - DIY smart-home tutorials by Matthias Kleine.
+- 🇪🇸 **Un loco y su tecnología** ([X](https://x.com/unlocoysutec), [Instagram](https://www.instagram.com/unlocoysutecnologia/), [Threads](https://www.threads.com/@unlocoysutecnologia), [TikTok](https://www.tiktok.com/@unlocoysutecnologia)) - Smart-home content by Carlos Cordero.
+- 🇪🇸 **Tecnoyfoto** ([X](https://x.com/tecnoyfoto), [Instagram](https://www.instagram.com/barnosell/)) - Tutorials and product reviews by Albert Barnosell.
+- 🇪🇸 **La Choza Digital** ([X](https://x.com/LaChozaDigital), [Bluesky](https://bsky.app/profile/lachozadigital.bsky.social)) - Short tutorials on smart-home and DIY automation.
+- 🇫🇷 **HACF** ([X](https://x.com/hacf_fr)) - French-speaking community sharing tutorials and resources.
+- 🇮🇹 **inDomus** ([X](https://x.com/indomusit), [TikTok](https://www.tiktok.com/@indomusit)) - Italian personal home automation community.
+- 🇳🇱 **Denie van Kleef** ([X](https://x.com/disney79), [Instagram](https://www.instagram.com/denievankleef/)) - Dutch smart-home and energy guides.
+- 🇵🇹 **CPHA** ([Facebook](https://www.facebook.com/cpha.pt/)) - Portuguese community for home automation enthusiasts.
+
+## Alternative Home Automation Software
+
+_Home Assistant is not the only home-automation platform out there. If you want to compare, or if you have specific needs Home Assistant does not cover, the projects below are the most active alternatives. Some are commercial, some are open source, and a few solve very different problems._
+
+- [openHAB](https://github.com/openhab) [![GitHub stars](https://img.shields.io/github/stars/openhab?style=flat)](https://github.com/openhab/stargazers) - Java-based and aims at being a universal integration platform.
+- [Domoticz](https://github.com/domoticz/domoticz) [![GitHub stars](https://img.shields.io/github/stars/domoticz/domoticz?style=flat)](https://github.com/domoticz/domoticz/stargazers) - A lightweight Home Automation System (3,773★).
+- [Gladys](https://github.com/GladysAssistant/Gladys) [![GitHub stars](https://img.shields.io/github/stars/GladysAssistant/Gladys?style=flat)](https://github.com/GladysAssistant/Gladys/stargazers) - Open source program which runs on your Raspberry Pi (3,066★).
+- [SmartThings](https://www.smartthings.com/) - Commercial home automation hub by Samsung.
+- [Homey](https://homey.app/) - Commercial multi-protocol platform from Athom that puts local control first with Homey Pro, with Homey Cloud as a hosted option.
+- [Homebridge](https://github.com/homebridge/homebridge) [![GitHub stars](https://img.shields.io/github/stars/homebridge/homebridge?style=flat)](https://github.com/homebridge/homebridge/stargazers) - Lightweight Node.js server that bridges non-HomeKit devices into Apple Home, with a large plugin ecosystem (25,384★).
+- [Node-RED](https://github.com/node-red/node-red) [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=flat)](https://github.com/node-red/node-red/stargazers) - Flow-based visual programming tool for wiring together devices, APIs, and services, backed by the OpenJS Foundation (23,277★).
+- [ioBroker](https://github.com/ioBroker/ioBroker) [![GitHub stars](https://img.shields.io/github/stars/ioBroker/ioBroker?style=flat)](https://github.com/ioBroker/ioBroker/stargazers) - Integration platform for IoT with hundreds of adapters and strong European protocol support for KNX and HomeMatic (1,371★).
+- [FHEM](https://fhem.de/) - Perl-based server with 430+ modules and deep support for European protocols like KNX, EnOcean, and HomeMatic.
+- [Jeedom](https://github.com/jeedom/core) [![GitHub stars](https://img.shields.io/github/stars/jeedom/core?style=flat)](https://github.com/jeedom/core/stargazers) - French-origin, cloudless platform with a plugin marketplace, running on any Linux system (414★).
+- [Hubitat](https://hubitat.com/) - Commercial local-first hub supporting Z-Wave, Zigbee, and Matter with all automations running on the device.
+- [HomeSeer](https://homeseer.com/) - Commercial platform with 25+ years of development, strong Z-Wave support, and an extensive plugin ecosystem.
+
+## Other Awesome Lists
+
+_Like this list, but for adjacent topics? The lists below cover broader smart-home categories, specific protocols, and self-hosted software in general. They are good places to look when something does not fit Home Assistant directly but might solve part of your puzzle._
+
+- [awesome-iot](https://github.com/HQarroum/awesome-iot) [![GitHub stars](https://img.shields.io/github/stars/HQarroum/awesome-iot?style=flat)](https://github.com/HQarroum/awesome-iot/stargazers) - Curated list of awesome Internet of Things projects and resources (3,948★).
+- [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff (2,350★).
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) [![GitHub stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat)](https://github.com/awesome-selfhosted/awesome-selfhosted/stargazers) - Curated list of awesome self hosted software (298,647★).
+
+## Contributing
+
+This awesome list is an active open-source project and is always open to
+people who want to contribute to it. We have set up a separate document
+containing our [Contribution Guidelines](https://github.com/frenck/awesome-home-assistant/blob/main/.github/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant/blob/main/.github/CONTRIBUTING.md?style=flat)](https://github.com/frenck/awesome-home-assistant/blob/main/.github/CONTRIBUTING.md/stargazers).
+
+The original setup of this awesome list is by [Franck Nijhof](https://x.com/frenck).
+
+For a full list of all authors and contributors, check the
+[contributor's page](https://github.com/frenck/awesome-home-assistant/graphs/contributors) [![GitHub stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant/graphs/contributors?style=flat)](https://github.com/frenck/awesome-home-assistant/graphs/contributors/stargazers).
+
+Thank you for being involved! 😍
+
+## Trademark Legal Notice
+
+Awesome Home Assistant is an independent, community-curated index. It is not
+created, endorsed, sponsored by, or affiliated with
+[Home Assistant](https://www.home-assistant.io) or the
+[Open Home Foundation](https://www.openhomefoundation.org). "Home Assistant"
+and the Home Assistant logo are trademarks of the Open Home Foundation.
+
+All other product names, logos, brands, trademarks, and registered trademarks
+referenced in this list are the property of their respective owners.
+References to specific manufacturers, products, integrations, add-ons,
+services, and community projects are for identification purposes only and do
+not imply endorsement by their owners.
+
+The contents of this list are licensed under [Creative Commons Attribution
+4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0).
+See [LICENSE.md](LICENSE.md) for the full text.
