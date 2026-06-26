@@ -36,4 +36,24 @@ jobs:
           git config --global user.name 'harry.sun'
           git config --global user.email 'sunguangjun@126.com'
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update awesome README" && git push)
+
+          # 没有变更则直接退出
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "没有变更，跳过提交"
+            exit 0
+          fi
+
+          git commit -m "Auto update awesome README"
+
+          # 拉取远程最新代码并合并，冲突时优先使用本地版本（脚本生成的最新内容）
+          git fetch origin master
+          if git merge origin/master -X ours --no-edit; then
+            echo "合并成功"
+          else
+            echo "存在合并冲突，自动采用本地版本解决..."
+            git diff --name-only --diff-filter=U | xargs git checkout --ours
+            git add -A
+            git commit --no-edit
+          fi
+
+          git push
