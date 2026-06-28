@@ -74,9 +74,11 @@ def get_readme_content(owner, repo, retries=5):
     api_url = f"https://api.github.com/repos/{owner}/{repo}/readme"
 
     # 第一步：优先使用 GitHub API 获取
+    # 用 -D /dev/stderr 把响应头输出到 stderr，body 输出到 stdout
+    # 避免 curl -i 在 HTTP/2 连接中输出多个头块导致解析失败
     for attempt in range(retries):
         try:
-            cmd = ['curl', '-s', '--connect-timeout', '30', '--max-time', '120', '-i']
+            cmd = ['curl', '-s', '--connect-timeout', '30', '--max-time', '120', '-D', '/dev/stderr']
             if token:
                 cmd.extend(['-H', f'Authorization: token {token}'])
             cmd.extend(['-H', 'Accept: application/vnd.github.v3+json'])
@@ -89,22 +91,31 @@ def get_readme_content(owner, repo, retries=5):
                 encoding='utf-8'
             )
 
-            if result.returncode == 0 and result.stdout:
-                # 解析响应，提取 header 和 body
-                response_text = result.stdout
-                header_end = response_text.find('\r\n\r\n')
-                if header_end == -1:
+            if result.returncode == 0:
+                # stderr 是响应头，stdout 是 body
+                header_text = result.stderr
+                body_text = result.stdout
+
+                if not header_text:
+                    if attempt < retries - 1:
+                        print(f"    API 重试 {attempt+1}/{retries}...", flush=True)
+                        time.sleep(2 * (attempt + 1))
                     continue
 
-                header_text = response_text[:header_end]
-                body_text = response_text[header_end + 4:]
-                lines = header_text.split('\r\n')
-                status_line = lines[0]
+                # 解析响应头（可能有多组，取最后一组）
+                # HTTP/2 连接可能有多个头块，取最后一个有效的
+                header_blocks = re.split(r'\r?\n\r?\n', header_text.strip())
                 headers = {}
-                for line in lines[1:]:
-                    if ':' in line:
-                        key, value = line.split(':', 1)
-                        headers[key.strip().lower()] = value.strip()
+                status_line = ''
+                for block in header_blocks:
+                    block_lines = block.strip().split('\n')
+                    if block_lines and block_lines[0].startswith('HTTP/'):
+                        status_line = block_lines[0]
+                        headers = {}
+                        for line in block_lines[1:]:
+                            if ':' in line:
+                                key, value = line.split(':', 1)
+                                headers[key.strip().lower()] = value.strip()
 
                 # 检查 HTTP 状态码
                 http_code = int(status_line.split()[1]) if len(status_line.split()) > 1 else 0
@@ -135,7 +146,7 @@ def get_readme_content(owner, repo, retries=5):
                     return None
 
                 # 正常响应
-                if http_code == 200:
+                if http_code == 200 and body_text:
                     try:
                         data = json.loads(body_text)
                         # 正常获取到 README 内容（base64 编码）
