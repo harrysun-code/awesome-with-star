@@ -145,6 +145,10 @@
 
 - [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) [![GitHub stars](https://img.shields.io/github/stars/RafaelBarbosatec/darkness_dungeon?style=flat)](https://github.com/RafaelBarbosatec/darkness_dungeon/stargazers) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
+#### Strategy
+
+- [Age of New Worlds](https://github.com/ernestwisniewski/aonw) [![GitHub stars](https://img.shields.io/github/stars/ernestwisniewski/aonw?style=flat)](https://github.com/ernestwisniewski/aonw/stargazers) - An open-source 4X strategy game built with Flutter and Flame, featuring hex maps, turn-based empire building, AI players, and multiplayer foundations. By [ernestwisniewski](https://github.com/ernestwisniewski) [![GitHub stars](https://img.shields.io/github/stars/ernestwisniewski?style=flat)](https://github.com/ernestwisniewski/stargazers).
+
 ### App Releases
 
 #### Action

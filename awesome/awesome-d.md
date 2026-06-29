@@ -11,7 +11,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## Contents
 
 * Basic Information
-	* [Official Website](#official-website)
+	* [Official Website](#official-websites)
+  		* [Status Page](#status-page)
 	* [Getting Help](#getting-help)
 	* [People](#people)
 	* [Events](#events)
@@ -88,6 +89,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [GitHub organization](https://github.com/dlang) [![GitHub stars](https://img.shields.io/github/stars/dlang?style=flat)](https://github.com/dlang/stargazers) - Official GitHub organization for D. Repository for all official D tools & code.
 * [Issue tracker](https://github.com/dlang) [![GitHub stars](https://img.shields.io/github/stars/dlang?style=flat)](https://github.com/dlang/stargazers) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
 * [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
+
+### Status page
+
+*Unofficial, run by the community.*
+
+* [status.dlang.rocks](https://status.dlang.rocks) - Public infrastructure monitoring of services associated with or used by the D Language Foundation and its project contributors.
 
 ## Getting Help
 
@@ -270,6 +277,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [higgs](https://github.com/higgsjs/Higgs) [![GitHub stars](https://img.shields.io/github/stars/higgsjs/Higgs?style=flat)](https://github.com/higgsjs/Higgs/stargazers) - Higgs JavaScript Virtual Machine, implemented in D.
 * [brainfuck-d](https://codeberg.org/GuineaPigUuhh/brainfuck-d) - Brainfuck interpreter, compiler and REPL written in D.
+* [arsd.script](https://github.com/adamdruppe/arsd/blob/master/script.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/script.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/script.d/stargazers) - A small script interpreter that builds on *arsd.jsvar* to be easily embedded inside and to have easy two-way interop with the host D program.
 
 ## Operating Systems
 
@@ -317,7 +325,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Full stack web frameworks.*
 
 * [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
-* [arsd](https://github.com/adamdruppe/arsd) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd?style=flat)](https://github.com/adamdruppe/arsd/stargazers) - Adam D. Ruppe's web framework.
+* [arsd](https://github.com/adamdruppe/arsd) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd?style=flat)](https://github.com/adamdruppe/arsd/stargazers) - Adam D. Ruppe's web framework. (See `arsd/cgi.d` for the CGI/FastCGI/SCGI/webserver component.)
 * [cmsed](https://github.com/rikkimax/Cmsed) [![GitHub stars](https://img.shields.io/github/stars/rikkimax/Cmsed?style=flat)](https://github.com/rikkimax/Cmsed/stargazers) - A component library for Vibe that functions as a CMS.
 
 *RPC libraries.*
@@ -468,6 +476,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Parin](https://github.com/Kapendev/parin) [![GitHub stars](https://img.shields.io/github/stars/Kapendev/parin?style=flat)](https://github.com/Kapendev/parin/stargazers) - A delightfully simple 2D game engine.
 * [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) [![GitHub stars](https://img.shields.io/github/stars/ZILtoid1991/pixelperfectengine?style=flat)](https://github.com/ZILtoid1991/pixelperfectengine/stargazers) - 2D graphics engine written in D.
 * [HipremeEngine](https://github.com/MrcSnm/HipremeEngine) [![GitHub stars](https://img.shields.io/github/stars/MrcSnm/HipremeEngine?style=flat)](https://github.com/MrcSnm/HipremeEngine/stargazers) - Cross Platform D-Lang Game Engine with scripting support.
+* [PixmapPresenter](https://github.com/adamdruppe/arsd/blob/master/pixmappresenter.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/pixmappresenter.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/pixmappresenter.d/stargazers) - High-level display library for blitting fully-rendered frames to the screen (→ software-rendering, retro graphics).
 
 *Libraries for 2D/3D-related projects.*
 
@@ -490,6 +499,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Clean & Haunted](https://kapendev.itch.io/clean-haunted) - Clean a spooky haunted house.
 * [Runani](https://kapendev.itch.io/runani) - An endless runner game where you help cute animals.
 * [A Short Metamorphosis](https://kapendev.itch.io/a-short-metamorphosis) - A cute visual novel about looking at an egg.
+* [Would you still save the world with me if I were a worm?](https://0xeab.itch.io/would-you-still-save-the-world-with-me-if-i-were-a-worm) - Help your wormy partner find the exit of each of the 20 puzzles to eventually save the world that has fallen into a wormhole.
 
 ## Internationalization
 
@@ -501,6 +511,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [dlib.image](https://github.com/gecko0307/dlib) [![GitHub stars](https://img.shields.io/github/stars/gecko0307/dlib?style=flat)](https://github.com/gecko0307/dlib/stargazers) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
 * [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/color.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/color.d/stargazers) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/bmp.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/bmp.d/stargazers), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/jpg.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/jpg.d/stargazers), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/png.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/png.d/stargazers) - basic color struct, HSL functions and reading and writing image files
 * [opencvd](https://github.com/aferust/opencvd) [![GitHub stars](https://img.shields.io/github/stars/aferust/opencvd?style=flat)](https://github.com/aferust/opencvd/stargazers) - Unofficial OpenCV binding for D
+* [PixmapPaint](https://github.com/adamdruppe/arsd/blob/master/pixmappaint.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/pixmappaint.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/pixmappaint.d/stargazers) - Pixmap image manipulation library for software-rendering purposes.
 
 ## Machine Learning
 
@@ -549,18 +560,21 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [sdlang](https://github.com/dlang-community/SDLang-D) [![GitHub stars](https://img.shields.io/github/stars/dlang-community/SDLang-D?style=flat)](https://github.com/dlang-community/SDLang-D/stargazers) - An SDL (Simple Declarative Language) library for D.
 * [D:YAML](https://github.com/dlang-community/D-YAML) [![GitHub stars](https://img.shields.io/github/stars/dlang-community/D-YAML?style=flat)](https://github.com/dlang-community/D-YAML/stargazers) - YAML parser and emitter for the D programming language.
 * [inifile-D](https://github.com/burner/inifiled) [![GitHub stars](https://img.shields.io/github/stars/burner/inifiled?style=flat)](https://github.com/burner/inifiled/stargazers) - A compile time ini file parser and writer generator for D
+* [arsd.ini](https://github.com/adamdruppe/arsd/blob/master/ini.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/ini.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/ini.d/stargazers) - A configurable INI parser with support for multiple “dialects” of the format.
 
 ## Blog Engine
 
 *Hosting blogs yourself.*
 
 * [mood](https://github.com/mihails-strasuns/mood) [![GitHub stars](https://img.shields.io/github/stars/mihails-strasuns/mood?style=flat)](https://github.com/mihails-strasuns/mood/stargazers) - simple vibe.d based blog engine
+* [adrdox](https://github.com/adamdruppe/adrdox) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/adrdox?style=flat)](https://github.com/adamdruppe/adrdox/stargazers) - A documentation generator that can also be used for blogging. (Used by the *This Week in ARSD* blog.)
 
 ## Dependency Injection
 
 *Apply inversion of control.*
 
 * [Poodinis](https://github.com/mbierlee/poodinis) [![GitHub stars](https://img.shields.io/github/stars/mbierlee/poodinis?style=flat)](https://github.com/mbierlee/poodinis/stargazers) - A dependency injection framework for D with support for autowiring.
+* [arsd.di](https://github.com/adamdruppe/arsd/blob/master/di.d) [![GitHub stars](https://img.shields.io/github/stars/adamdruppe/arsd/blob/master/di.d?style=flat)](https://github.com/adamdruppe/arsd/blob/master/di.d/stargazers) - A single-file lightweight dependency injection framework.
 
 ## Cryptography
 

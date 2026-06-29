@@ -274,6 +274,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Talents](https://www.angulartalents.com/) - Independent developers can highlight their availability for upcoming projects, eliminating the need to endlessly scroll through job boards.
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
 * [Good First Issues](https://www.dolmen.tools/en/angular/good-first-issues/explorer) - Find beginner-friendly issues and start contributing to Angular open-source projects.
+* [Angular Popularity Analysis](https://github.com/ProjectBay/angular-popularity-analysis) [![GitHub stars](https://img.shields.io/github/stars/ProjectBay/angular-popularity-analysis?style=flat)](https://github.com/ProjectBay/angular-popularity-analysis/stargazers) - An AI-era normalized statistical analysis of Angular’s popularity.
 
 ### Newsletters
 
@@ -416,7 +417,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Certification Programs
 
-* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
+* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **FREE WEEKEND - July 11-12, 2026**
 * [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Hands‑on, instructor‑led Angular training in Canada.
 * [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 * [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
@@ -639,6 +640,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 * [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) [![GitHub stars](https://img.shields.io/github/stars/liveloveapp/hashbrown?style=flat)](https://github.com/liveloveapp/hashbrown/stargazers) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
+* [mushi-mushi](https://github.com/kensaurus/mushi-mushi) [![GitHub stars](https://img.shields.io/github/stars/kensaurus/mushi-mushi?style=flat)](https://github.com/kensaurus/mushi-mushi/stargazers) - Fix your AI-built app instantly with plain-English diagnoses and ready-to-use fixes directly in your editor.
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) [![GitHub stars](https://img.shields.io/github/stars/janpereira-dev/ngAutoPilot?style=flat)](https://github.com/janpereira-dev/ngAutoPilot/stargazers) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) [![GitHub stars](https://img.shields.io/github/stars/mintarasss/ng-mocks-testing-skill?style=flat)](https://github.com/mintarasss/ng-mocks-testing-skill/stargazers) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
 * [ngx-agents-md](https://github.com/pr4san/ngx-agents-md) [![GitHub stars](https://img.shields.io/github/stars/pr4san/ngx-agents-md?style=flat)](https://github.com/pr4san/ngx-agents-md/stargazers) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
@@ -744,6 +746,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Generators and Scaffolding
 
+* [angular-openapi-gen](https://github.com/constantant/angular-openapi-gen) [![GitHub stars](https://img.shields.io/github/stars/constantant/angular-openapi-gen?style=flat)](https://github.com/constantant/angular-openapi-gen/stargazers) - Tree-shakeable, signal-native API clients generator.
 * [angular-scaffold](https://github.com/EPAM-JS-Competency-center/angular-scaffold) [![GitHub stars](https://img.shields.io/github/stars/EPAM-JS-Competency-center/angular-scaffold?style=flat)](https://github.com/EPAM-JS-Competency-center/angular-scaffold/stargazers) - Scaffold an Angular project with all tooling you need for production projects.
 * [ngx-schematics-utilities](https://github.com/DSI-HUG/ngx-schematics-utilities) [![GitHub stars](https://img.shields.io/github/stars/DSI-HUG/ngx-schematics-utilities?style=flat)](https://github.com/DSI-HUG/ngx-schematics-utilities/stargazers) - Useful utilities for Angular Schematics.
 * [abp](https://github.com/abpframework/abp) [![GitHub stars](https://img.shields.io/github/stars/abpframework/abp?style=flat)](https://github.com/abpframework/abp/stargazers) - Open‑source ASP.NET Core framework for enterprise apps with opinionated architecture.
@@ -873,6 +876,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-compare-object](https://github.com/RzoDev/ngx-compare-object) [![GitHub stars](https://img.shields.io/github/stars/RzoDev/ngx-compare-object?style=flat)](https://github.com/RzoDev/ngx-compare-object/stargazers) - Angular utility to compare an original object with its modified version.
 * [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) [![GitHub stars](https://img.shields.io/github/stars/Verbalman/ngx-json-reader?style=flat)](https://github.com/Verbalman/ngx-json-reader/stargazers) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) [![GitHub stars](https://img.shields.io/github/stars/pjlamb12/runtime-config-loader?style=flat)](https://github.com/pjlamb12/runtime-config-loader/stargazers) - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
+* [worker-bridge](https://github.com/hardcopycortex461/worker-bridge/tree/master) [![GitHub stars](https://img.shields.io/github/stars/hardcopycortex461/worker-bridge/tree/master?style=flat)](https://github.com/hardcopycortex461/worker-bridge/tree/master/stargazers) - Bridge Angular and React to web workers with simple reactive methods and no boilerplate.
 
 ### SEO
 
@@ -1179,6 +1183,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
 * [CozyDevKit](https://cozydevkit.com/) - Interactive tools, architecture patterns, cheat sheets, and DevOps services for Angular 21.
 * [devkitly](https://www.devkitly.io/) - Production-ready Angular 21 starter kit with auth, billing, audit logging, feature flags, and SSR.
+* [draftNG](https://www.draftng.xyz/) - Minimalist & high-performance Angular 22+ platform templates.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)
 * [Vortex](https://template.giacomobellazzi.com/) - A high-performance web application template built with Angular and Java, designed to deliver seamless user experiences and powerful backend solutions.
@@ -1365,6 +1370,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gp-grid](https://github.com/GioPat/gp-grid) [![GitHub stars](https://img.shields.io/github/stars/GioPat/gp-grid?style=flat)](https://github.com/GioPat/gp-grid/stargazers) - Data grid library built with a modular architecture that cleanly separates core logic from framework integrations to efficiently handle massive datasets with millions of rows.
 * [ngx-powerful-tree](https://github.com/raknjarasoa/ngx-powerful-tree) [![GitHub stars](https://img.shields.io/github/stars/raknjarasoa/ngx-powerful-tree?style=flat)](https://github.com/raknjarasoa/ngx-powerful-tree/stargazers) - A virtualized tree with HTML5 drag‑and‑drop, fast search, locked subtrees, and file‑picker modes, built on `@angular/cdk/scrolling` for smooth performance at 100k+ rows.
 * [agrid](https://github.com/thkl/agrid) [![GitHub stars](https://img.shields.io/github/stars/thkl/agrid?style=flat)](https://github.com/thkl/agrid/stargazers) - Angular data grid with spreadsheet-like editing, virtual scrolling, filtering, sorting, grouping, clipboard workflows, row operations, pagination, and custom cell renderers.
+* [ngx-datatables-net](https://github.com/ascentspark/ngx-datatables-net) [![GitHub stars](https://img.shields.io/github/stars/ascentspark/ngx-datatables-net?style=flat)](https://github.com/ascentspark/ngx-datatables-net/stargazers) - Angular wrapper for `DataTables.net` supporting Angular 20+.
 
 ### Dates
 
@@ -1620,6 +1626,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-formwork](https://github.com/TheNordicOne/ngx-formwork) [![GitHub stars](https://img.shields.io/github/stars/TheNordicOne/ngx-formwork?style=flat)](https://github.com/TheNordicOne/ngx-formwork/stargazers) - Framework for Angular Reactive Forms built from JSON or TypeScript configuration.
 * [ngx-formbar](https://github.com/TheNordicOne/ngx-formbar) [![GitHub stars](https://img.shields.io/github/stars/TheNordicOne/ngx-formbar?style=flat)](https://github.com/TheNordicOne/ngx-formbar/stargazers) - A highly flexible framework for generating declarative reactive forms.
 * [formitiva](https://github.com/formitiva/formitiva-monorepo) [![GitHub stars](https://img.shields.io/github/stars/formitiva/formitiva-monorepo?style=flat)](https://github.com/formitiva/formitiva-monorepo/stargazers) - A framework-agnostic runtime form engine for building forms from JSON schemas.
+* [filter](https://github.com/some-angular-utils/filter) [![GitHub stars](https://img.shields.io/github/stars/some-angular-utils/filter?style=flat)](https://github.com/some-angular-utils/filter/stargazers) - Define fields once to get a ready-to-use JSON object and URL query string on every search.
 
 ### Form Validation
 
@@ -1717,6 +1724,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-flex-layout](https://github.com/alessiobianchini/ng-flex-layout) [![GitHub stars](https://img.shields.io/github/stars/alessiobianchini/ng-flex-layout?style=flat)](https://github.com/alessiobianchini/ng-flex-layout/stargazers) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
 * [dockview-angular](https://www.npmjs.com/package/dockview-angular) - Zero dependency layout manager supporting tabs, groups, grids, and splitviews.
 * [ngx-compactable-row](https://github.com/MikeVensel/ngx-compactable-row) [![GitHub stars](https://img.shields.io/github/stars/MikeVensel/ngx-compactable-row?style=flat)](https://github.com/MikeVensel/ngx-compactable-row/stargazers) - Provides a responsive button row that moves excess buttons into a menu when space is limited.
+* [ng-cmdk](https://github.com/wadie/ng-cmdk) [![GitHub stars](https://img.shields.io/github/stars/wadie/ng-cmdk?style=flat)](https://github.com/wadie/ng-cmdk/stargazers) - Fast, composable, unstyled command menu for Angular — a port of [cmdk](https://github.com/pacocoursey/cmdk) [![GitHub stars](https://img.shields.io/github/stars/pacocoursey/cmdk?style=flat)](https://github.com/pacocoursey/cmdk/stargazers).
 
 ### Loaders
 
@@ -2107,6 +2115,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-core-components](https://github.com/prajaktadube/ngx-core-components) [![GitHub stars](https://img.shields.io/github/stars/prajaktadube/ngx-core-components?style=flat)](https://github.com/prajaktadube/ngx-core-components/stargazers) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
 * [ngx-cupertino](https://github.com/gacc94/ngx-cupertino) [![GitHub stars](https://img.shields.io/github/stars/gacc94/ngx-cupertino?style=flat)](https://github.com/gacc94/ngx-cupertino/stargazers) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 * [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) [![GitHub stars](https://img.shields.io/github/stars/GregNBlack/kanso-protocol?style=flat)](https://github.com/GregNBlack/kanso-protocol/stargazers) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
+* [frame-ui](https://github.com/Gamekohl/frame-ui) [![GitHub stars](https://img.shields.io/github/stars/Gamekohl/frame-ui?style=flat)](https://github.com/Gamekohl/frame-ui/stargazers) - A customizable Angular component library built around modern primitives.
 
 ### UI Libraries built on Bootstrap
 
@@ -2197,7 +2206,6 @@ for the creation of web applications developed with Angular.
 * [@luminacn/ui](https://github.com/luminacn/ui) [![GitHub stars](https://img.shields.io/github/stars/luminacn/ui?style=flat)](https://github.com/luminacn/ui/stargazers) - Signal-first, headless UI primitives for Angular.
 * [Bloc UI](https://github.com/debasish1996/BLOC-UI) [![GitHub stars](https://img.shields.io/github/stars/debasish1996/BLOC-UI?style=flat)](https://github.com/debasish1996/BLOC-UI/stargazers) - Lightweight, accessible Angular components with zero design opinions. Use your own styles or the optional theme package.
 * [angular-primitives](https://github.com/snatuva/angular-primitives) [![GitHub stars](https://img.shields.io/github/stars/snatuva/angular-primitives?style=flat)](https://github.com/snatuva/angular-primitives/stargazers) - Signal-first Angular primitives for building scalable, accessible UI systems.
-* [frame-ui](https://github.com/Gamekohl/frame-ui) [![GitHub stars](https://img.shields.io/github/stars/Gamekohl/frame-ui?style=flat)](https://github.com/Gamekohl/frame-ui/stargazers) - A customizable Angular component library built around modern primitives.
 
 ### Viewers
 

@@ -75,6 +75,7 @@
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) [![GitHub stars](https://img.shields.io/github/stars/detachhead/playwright-ui5?style=flat)](https://github.com/detachhead/playwright-ui5/stargazers) - Custom selector engine for sapui5.
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) [![GitHub stars](https://img.shields.io/github/stars/detachhead/playwright-xpath?style=flat)](https://github.com/detachhead/playwright-xpath/stargazers) - Custom selector engine for xpath 2 and 3.
 - [POMWright](https://github.com/DyHex/POMWright) [![GitHub stars](https://img.shields.io/github/stars/DyHex/POMWright?style=flat)](https://github.com/DyHex/POMWright/stargazers) - TypeScript-based Page Object Model framework with automatic nested/chained locator generation.
+- [selenosis](https://github.com/alcounit/selenosis) [![GitHub stars](https://img.shields.io/github/stars/alcounit/selenosis?style=flat)](https://github.com/alcounit/selenosis/stargazers) - Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 

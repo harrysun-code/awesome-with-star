@@ -26,7 +26,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **226** projects · **54** actively maintained · **9** 🔥 hot · **46** 🪦 on the graveyard shelf.
+> Tracking **226** projects · **57** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -165,6 +165,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) [![GitHub stars](https://img.shields.io/github/stars/mage2tv/magento-cache-clean?style=flat)](https://github.com/mage2tv/magento-cache-clean/stargazers) 🔥 - A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
 - [Magewire PHP](https://github.com/magewirephp/magewire) [![GitHub stars](https://img.shields.io/github/stars/magewirephp/magewire?style=flat)](https://github.com/magewirephp/magewire/stargazers) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) [![GitHub stars](https://img.shields.io/github/stars/semaio/Magento2-ConfigImportExport?style=flat)](https://github.com/semaio/Magento2-ConfigImportExport/stargazers) 🫡 - CLI-based config management.
+- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento?style=flat)](https://github.com/bitExpert/phpstan-magento/stargazers) 🫡 - Magento-specific extension for PHPStan.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_Whoops?style=flat)](https://github.com/yireo/Yireo_Whoops/stargazers) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) [![GitHub stars](https://img.shields.io/github/stars/graycoreio/magento2-cors?style=flat)](https://github.com/graycoreio/magento2-cors/stargazers) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) [![GitHub stars](https://img.shields.io/github/stars/run-as-root/magento2-prometheus-exporter?style=flat)](https://github.com/run-as-root/magento2-prometheus-exporter/stargazers) 🫡 - Prometheus Exporter for common Magento data.
@@ -175,7 +176,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) [![GitHub stars](https://img.shields.io/github/stars/ctidigital/magento2-configurator?style=flat)](https://github.com/ctidigital/magento2-configurator/stargazers) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
 - [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) [![GitHub stars](https://img.shields.io/github/stars/elgentos/magento2-cypress-testing-suite/?style=flat)](https://github.com/elgentos/magento2-cypress-testing-suite//stargazers) - A community-driven Cypress testing suite for Magento 2.
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) [![GitHub stars](https://img.shields.io/github/stars/avstudnitz/AvS_ScopeHint2?style=flat)](https://github.com/avstudnitz/AvS_ScopeHint2/stargazers) - Displays additional information in the Store Configuration by Andreas von Studnitz.
-- [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento?style=flat)](https://github.com/bitExpert/phpstan-magento/stargazers) - Magento-specific extension for PHPStan.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_AutoFlushCache?style=flat)](https://github.com/yireo/Yireo_AutoFlushCache/stargazers) - Magento 2 module to automatically flush the cache.
 - [Dot Env](https://github.com/zepgram/magento-dotenv) [![GitHub stars](https://img.shields.io/github/stars/zepgram/magento-dotenv?style=flat)](https://github.com/zepgram/magento-dotenv/stargazers) - Magento 2 Environment Variable Component implementing Symfony Dotenv.
 - [Rest Client](https://github.com/zepgram/module-rest) [![GitHub stars](https://img.shields.io/github/stars/zepgram/module-rest?style=flat)](https://github.com/zepgram/module-rest/stargazers) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
@@ -238,7 +238,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### CMS
 
-- [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) [![GitHub stars](https://img.shields.io/github/stars/magefan/module-blog?style=flat)](https://github.com/magefan/module-blog/stargazers) 🔥 🫡 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
+- [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) [![GitHub stars](https://img.shields.io/github/stars/magefan/module-blog?style=flat)](https://github.com/magefan/module-blog/stargazers) 🔥 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-blog-extension?style=flat)](https://github.com/mageplaza/magento-2-blog-extension/stargazers) 🫡 - Simple but well-working Blog Extension.
 - [magento-2-seeder](https://github.com/run-as-root/magento-2-seeder) [![GitHub stars](https://img.shields.io/github/stars/run-as-root/magento-2-seeder?style=flat)](https://github.com/run-as-root/magento-2-seeder/stargazers) 🫡 - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 - [module-page-builder-widget](https://github.com/mage-os/module-page-builder-widget) [![GitHub stars](https://img.shields.io/github/stars/mage-os/module-page-builder-widget?style=flat)](https://github.com/mage-os/module-page-builder-widget/stargazers) 🫡 - Native Magento Page Builder support for CMS Widgets
@@ -262,12 +262,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) [![GitHub stars](https://img.shields.io/github/stars/SnowdogApps/magento2-menu?style=flat)](https://github.com/SnowdogApps/magento2-menu/stargazers) 🔥 🫡 - Provides a powerful menu editor to replace category-based menus in Magento 2.
 - [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-gmail-smtp-app?style=flat)](https://github.com/magepal/magento2-gmail-smtp-app/stargazers) 🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Sentry.io](https://github.com/justbetter/magento2-sentry) [![GitHub stars](https://img.shields.io/github/stars/justbetter/magento2-sentry?style=flat)](https://github.com/justbetter/magento2-sentry/stargazers) 🫡 - Application monitoring and error tracking software for Magento 2.
+- [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) [![GitHub stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin?style=flat)](https://github.com/hyva-themes/magento2-hyva-admin/stargazers) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) [![GitHub stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2?style=flat)](https://github.com/firegento/FireGento_FastSimpleImport2/stargazers) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-preview-checkout-success-page?style=flat)](https://github.com/magepal/magento2-preview-checkout-success-page/stargazers) 🫡 - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-guest-to-customer?style=flat)](https://github.com/magepal/magento2-guest-to-customer/stargazers) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
 - [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) [![GitHub stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137?style=flat)](https://github.com/mage-os/theme-adminhtml-m137/stargazers) 🫡 - M137 Admin Theme for Magento/Mage-OS
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) [![GitHub stars](https://img.shields.io/github/stars/AmpersandHQ/magento2-disable-stock-reservation?style=flat)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation/stargazers) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
-- [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) [![GitHub stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin?style=flat)](https://github.com/hyva-themes/magento2-hyva-admin/stargazers) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login?style=flat)](https://github.com/bitExpert/magento2-force-login/stargazers) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) [![GitHub stars](https://img.shields.io/github/stars/redchamps/clean-admin-menu?style=flat)](https://github.com/redchamps/clean-admin-menu/stargazers) - Merges 3rd-party extensions into a single menu.
 - [Magento 2 Import Framework](https://github.com/techdivision/import) [![GitHub stars](https://img.shields.io/github/stars/techdivision/import?style=flat)](https://github.com/techdivision/import/stargazers) - A library supporting generic Magento 2 import functionality.
@@ -310,13 +310,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) [![GitHub stars](https://img.shields.io/github/stars/fastly/fastly-magento2?style=flat)](https://github.com/fastly/fastly-magento2/stargazers) - Magento 2 Fastly integration.
 - [Interceptor Optimization](https://github.com/creatuity/magento2-interceptors) [![GitHub stars](https://img.shields.io/github/stars/creatuity/magento2-interceptors?style=flat)](https://github.com/creatuity/magento2-interceptors/stargazers) - New interceptors approach for Magento 2.
 - [Clean Media](https://github.com/sivaschenko/magento2-clean-media) [![GitHub stars](https://img.shields.io/github/stars/sivaschenko/magento2-clean-media?style=flat)](https://github.com/sivaschenko/magento2-clean-media/stargazers) - A module that provides information about media files and potential removal options.
-
-<details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
-
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) [![GitHub stars](https://img.shields.io/github/stars/shkoliar/magento-ngrok?style=flat)](https://github.com/shkoliar/magento-ngrok/stargazers) - Magento 2 Ngrok Integration.
-
-</details>
 
 ### Proprietary Extensions
 
@@ -337,14 +331,13 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Personal Blogs
 
-
+- [Jigar Karangiya](https://jigarkarangiya.com/) 🫡 - Personal blog on Magento 2 and Adobe Commerce development.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Alan Storm](http://alanstorm.com/category/magento-2/) - Deep Magento 2 technical writeups.
 - [Fabian Schmengler](https://www.schmengler-se.de/) - Personal blog covering Magento 2 architecture and process.
-- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
 
 </details>
 
@@ -355,6 +348,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
 - [dev98](https://dev98.de/) - German Magento agency blog.
+- [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -362,7 +356,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento) - bitExpert's Magento-tagged blog posts.
 - [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
 - [integer_net blog](https://www.integer-net.com/blog/) - integer_net's technical Magento blog.
-- [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 - [MageComp](https://magecomp.com/blog/category/magento-2/) - MageComp's Magento 2 tutorials and tips.
 - [OneStepCheckout](https://blog.onestepcheckout.com/) - OneStepCheckout's Magento blog.
 
