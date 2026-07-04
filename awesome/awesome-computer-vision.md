@@ -1,5 +1,7 @@
 # Computer Vision
 
+> 来源：[jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
 [![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=flat)](https://github.com/jbhuang0604/awesome-computer-vision/stargazers)
 
 
@@ -9,7 +11,7 @@ A curated list of awesome computer vision resources, inspired by [awesome-php](h
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md) [![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision/blob/master/people.md?style=flat)](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md/stargazers)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) [![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision/pulls?style=flat)](https://github.com/jbhuang0604/awesome-computer-vision/pulls/stargazers) or email (jbhuang@vt.edu) to add links.
+Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (jbhuang@vt.edu) to add links.
 
 ## Table of Contents
 

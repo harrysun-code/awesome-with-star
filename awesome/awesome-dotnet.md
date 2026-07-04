@@ -1,5 +1,7 @@
 # .NET
 
+> 来源：[quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+
 [![GitHub stars](https://img.shields.io/github/stars/quozd/awesome-dotnet?style=flat)](https://github.com/quozd/awesome-dotnet/stargazers)
 
 # Awesome .NET!
@@ -258,7 +260,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) [![Gi
 * [EasyCaching](https://github.com/dotnetcore/EasyCaching) [![GitHub stars](https://img.shields.io/github/stars/dotnetcore/EasyCaching?style=flat)](https://github.com/dotnetcore/EasyCaching/stargazers) - A caching library that contains basic and some advanced usages of caching which can help handle caching more easier! -  **NOTE**: This is not affiliated with Microsoft or .NET
 * [CacheManager](https://github.com/MichaCo/CacheManager) [![GitHub stars](https://img.shields.io/github/stars/MichaCo/CacheManager?style=flat)](https://github.com/MichaCo/CacheManager/stargazers) - A common interface and abstraction layer for caching.
 * [FastCache](https://github.com/jitbit/FastCache) [![GitHub stars](https://img.shields.io/github/stars/jitbit/FastCache?style=flat)](https://github.com/jitbit/FastCache/stargazers) - 10X faster alternative to `MemoryCache` for .NET
-* [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) - A common interface with in memory, Redis and hybrid implementations.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#caching) [![GitHub stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio?style=flat)](https://github.com/FoundatioFx/Foundatio/stargazers) - A common interface with in memory, Redis and hybrid implementations.
 * [Cache Tower](https://github.com/TurnerSoftware/CacheTower) [![GitHub stars](https://img.shields.io/github/stars/TurnerSoftware/CacheTower?style=flat)](https://github.com/TurnerSoftware/CacheTower/stargazers) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
 * [FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) [![GitHub stars](https://img.shields.io/github/stars/jodydonetti/ZiggyCreatures.FusionCache?style=flat)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache/stargazers) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
 * [BitFaster.Caching](https://github.com/bitfaster/BitFaster.Caching) [![GitHub stars](https://img.shields.io/github/stars/bitfaster/BitFaster.Caching?style=flat)](https://github.com/bitfaster/BitFaster.Caching/stargazers) - Thread-safe in-memory caches optimized for very high concurrent throughput, near optimal hit rate and low latency.   
@@ -365,7 +367,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) [![Gi
 
 ## Cloud Storage
 
-* [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - Cloud Storage library with AWS, Azure and many other providers supported.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) [![GitHub stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio?style=flat)](https://github.com/FoundatioFx/Foundatio/stargazers) - Cloud Storage library with AWS, Azure and many other providers supported.
 * [FluentStorage](https://github.com/robinrodricks/FluentStorage) [![GitHub stars](https://img.shields.io/github/stars/robinrodricks/FluentStorage?style=flat)](https://github.com/robinrodricks/FluentStorage/stargazers) - A polycloud .NET cloud storage abstraction layer originally known as Storage.Net. Provides a generic interface for Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus).
 * [Stowage](https://github.com/aloneguid/stowage) [![GitHub stars](https://img.shields.io/github/stars/aloneguid/stowage?style=flat)](https://github.com/aloneguid/stowage/stargazers) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
 * [Cloud Storage](https://github.com/managedcode/Storage) [![GitHub stars](https://img.shields.io/github/stars/managedcode/Storage?style=flat)](https://github.com/managedcode/Storage/stargazers):- This library provides a universal interface for accessing and manipulating data in different cloud blob storage providers (Azure Storage, AWS S3, Google Cloud Storage. It makes it easy to switch between providers or to use multiple providers simultaneously, without having to learn and use multiple APIs.
@@ -680,7 +682,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [Serilog](https://github.com/serilog/serilog) [![GitHub stars](https://img.shields.io/github/stars/serilog/serilog?style=flat)](https://github.com/serilog/serilog/stargazers) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) [![GitHub stars](https://img.shields.io/github/stars/NickCraver/StackExchange.Exceptional?style=flat)](https://github.com/NickCraver/StackExchange.Exceptional/stargazers) - Error handler used for the Stack Exchange network
 * [ULogViewer](https://github.com/carina-studio/ULogViewer) [![GitHub stars](https://img.shields.io/github/stars/carina-studio/ULogViewer?style=flat)](https://github.com/carina-studio/ULogViewer/stargazers) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
-* [Foundatio](https://github.com/FoundatioFx/Foundatio#logging) - A fluent logging API that can be used to log messages throughout your application.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#logging) [![GitHub stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio?style=flat)](https://github.com/FoundatioFx/Foundatio/stargazers) - A fluent logging API that can be used to log messages throughout your application.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) [![GitHub stars](https://img.shields.io/github/stars/exceptionless/Exceptionless.Net?style=flat)](https://github.com/exceptionless/Exceptionless.Net/stargazers) - Exceptionless .NET Client
 * [Loupe](https://onloupe.com) - Centralized .NET logging and monitoring. **[Proprietary]** **[Free Tier]**
 * [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **[$]**
@@ -721,7 +723,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [MKL.NET](https://github.com/AnthonyLloyd/MKL.NET) [![GitHub stars](https://img.shields.io/github/stars/AnthonyLloyd/MKL.NET?style=flat)](https://github.com/AnthonyLloyd/MKL.NET/stargazers) - A simple cross platform .NET API for Intel MKL.
 * [AngouriMath](https://github.com/asc-community/AngouriMath) [![GitHub stars](https://img.shields.io/github/stars/asc-community/AngouriMath?style=flat)](https://github.com/asc-community/AngouriMath/stargazers) - An open-source symbolic/computer algebra library, made primarily for C# and F#. It covers a range of features and might be considered as an alternative to SymPy in .NET.
 * [WPF-Math](https://github.com/ForNeVeR/wpf-math) [![GitHub stars](https://img.shields.io/github/stars/ForNeVeR/wpf-math?style=flat)](https://github.com/ForNeVeR/wpf-math/stargazers) - a .NET library for rendering mathematical formulae using the LaTeX typesetting style, for the WPF framework
-* [Jodo.Numerics](https://github.com/JosephJShort/Jodo/#numerics) - Provides extra number types (such as fixed-point and non-overflowing numbers) with full support for operators, math, string-parsing etc. Extensively tested, and cross-platform compatible.
+* [Jodo.Numerics](https://github.com/JosephJShort/Jodo/#numerics) [![GitHub stars](https://img.shields.io/github/stars/JosephJShort/Jodo/?style=flat)](https://github.com/JosephJShort/Jodo//stargazers) - Provides extra number types (such as fixed-point and non-overflowing numbers) with full support for operators, math, string-parsing etc. Extensively tested, and cross-platform compatible.
 
 ## Media
 
@@ -735,7 +737,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Metrics
 
-* [Foundatio](https://github.com/FoundatioFx/Foundatio#metrics) - A common interface with in-memory, Redis, StatsD, and Metrics.NET implementations.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#metrics) [![GitHub stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio?style=flat)](https://github.com/FoundatioFx/Foundatio/stargazers) - A common interface with in-memory, Redis, StatsD, and Metrics.NET implementations.
 
 ## Micro Framework
 
@@ -907,7 +909,7 @@ metadata in media files, including video, audio, and photo formats
 * [Warewolf ESB](https://github.com/Warewolf-ESB/Warewolf) [![GitHub stars](https://img.shields.io/github/stars/Warewolf-ESB/Warewolf?style=flat)](https://github.com/Warewolf-ESB/Warewolf/stargazers) - An easy to use service bus and microservices platform. Easily build applications and services in a visual IDE.
 * [Confluent's .NET Client](https://github.com/confluentinc/confluent-kafka-dotnet) [![GitHub stars](https://img.shields.io/github/stars/confluentinc/confluent-kafka-dotnet?style=flat)](https://github.com/confluentinc/confluent-kafka-dotnet/stargazers) - Confluent's .NET Client for Apache Kafka.
 * [Streamiz](https://github.com/LGouellec/streamiz) [![GitHub stars](https://img.shields.io/github/stars/LGouellec/streamiz?style=flat)](https://github.com/LGouellec/streamiz/stargazers) - a .NET Stream Processing Library for Apache Kafka.
-* [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) - A common interface with in-memory, Redis and Azure implementations.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) [![GitHub stars](https://img.shields.io/github/stars/FoundatioFx/Foundatio?style=flat)](https://github.com/FoundatioFx/Foundatio/stargazers) - A common interface with in-memory, Redis and Azure implementations.
 * [Brighter](https://github.com/BrighterCommand/Brighter) [![GitHub stars](https://img.shields.io/github/stars/BrighterCommand/Brighter?style=flat)](https://github.com/BrighterCommand/Brighter/stargazers) - Command Dispatcher, Processor, and Distributed Task Queue https://www.goparamore.io/
 * [Silverback](https://silverback-messaging.net) - A simple but feature-rich message bus for .NET core (supports Kafka, RabbitMQ and MQTT).
 * [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) [![GitHub stars](https://img.shields.io/github/stars/zarusz/SlimMessageBus?style=flat)](https://github.com/zarusz/SlimMessageBus/stargazers) - Lightweight message bus with transports for popular messaging systems (Kafka, Redis, Azure Service Bus, and others) and in-memory communication.
@@ -975,7 +977,7 @@ metadata in media files, including video, audio, and photo formats
 * [Hyperion](https://github.com/akkadotnet/Hyperion) [![GitHub stars](https://img.shields.io/github/stars/akkadotnet/Hyperion?style=flat)](https://github.com/akkadotnet/Hyperion/stargazers) - A high performance polymorphic serializer for the .NET framework.
 * [Migrant](https://github.com/antmicro/Migrant) [![GitHub stars](https://img.shields.io/github/stars/antmicro/Migrant?style=flat)](https://github.com/antmicro/Migrant/stargazers) - Fast and flexible serialization framework usable on undecorated classes.
 * [ObjectDumper.NET](https://github.com/thomasgalliker/ObjectDumper) [![GitHub stars](https://img.shields.io/github/stars/thomasgalliker/ObjectDumper?style=flat)](https://github.com/thomasgalliker/ObjectDumper/stargazers) - Serializes in-memory object to C# code.
-* [FluentSerializer](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - A profile-based Serializer for multiple data-formats.
+* [FluentSerializer](https://github.com/Marvin-Brouwer/FluentSerializer#readme) [![GitHub stars](https://img.shields.io/github/stars/Marvin-Brouwer/FluentSerializer?style=flat)](https://github.com/Marvin-Brouwer/FluentSerializer/stargazers) - A profile-based Serializer for multiple data-formats.
 
 ## SMS and Phone calls
 
@@ -1014,7 +1016,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [ArchUnitNET](https://github.com/TNG/ArchUnitNET) [![GitHub stars](https://img.shields.io/github/stars/TNG/ArchUnitNET?style=flat)](https://github.com/TNG/ArchUnitNET/stargazers) - Simple library for checking the architecture of C# code with a fluent API.
 * [AutoFixture](https://github.com/AutoFixture/AutoFixture) [![GitHub stars](https://img.shields.io/github/stars/AutoFixture/AutoFixture?style=flat)](https://github.com/AutoFixture/AutoFixture/stargazers) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
-* [BDTest](https://github.com/thomhurst/BDTest/wiki) [![GitHub stars](https://img.shields.io/github/stars/thomhurst/BDTest/wiki?style=flat)](https://github.com/thomhurst/BDTest/wiki/stargazers) - A behaviour driven testing and reporting framework!
+* [BDTest](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
 * [Bogus](https://github.com/bchavez/Bogus) [![GitHub stars](https://img.shields.io/github/stars/bchavez/Bogus?style=flat)](https://github.com/bchavez/Bogus/stargazers) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 * [ExpressionToCode](https://github.com/EamonNerbonne/ExpressionToCode) [![GitHub stars](https://img.shields.io/github/stars/EamonNerbonne/ExpressionToCode?style=flat)](https://github.com/EamonNerbonne/ExpressionToCode/stargazers) - Use plain C# syntax in assertions that include both the expression expression and subexpression values in the failure message.
 * [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) [![GitHub stars](https://img.shields.io/github/stars/FakeItEasy/FakeItEasy?style=flat)](https://github.com/FakeItEasy/FakeItEasy/stargazers) - The easy mocking library for .NET https://fakeiteasy.github.io

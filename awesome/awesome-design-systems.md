@@ -1,5 +1,7 @@
 # Design systems
 
+> 来源：[klaufel/awesome-design-systems](https://github.com/klaufel/awesome-design-systems)
+
 [![GitHub stars](https://img.shields.io/github/stars/klaufel/awesome-design-systems?style=flat)](https://github.com/klaufel/awesome-design-systems/stargazers)
 
 # Awesome Design Systems [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -146,7 +148,7 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 #### Storybook addons
 
 - [Accessibility](https://github.com/storybookjs/storybook/tree/master/addons/a11y) [![GitHub stars](https://img.shields.io/github/stars/storybookjs/storybook/tree/master/addons/a11y?style=flat)](https://github.com/storybookjs/storybook/tree/master/addons/a11y/stargazers) - Test component compliance with web accessibility standards.
-- [Actions](https://github.com/storybookjs/storybook/tree/master/addons/actions) [![GitHub stars](https://img.shields.io/github/stars/storybookjs/storybook/tree/master/addons/actions?style=flat)](https://github.com/storybookjs/storybook/tree/master/addons/actions/stargazers) - Get UI feedback when an action is performed on an interactive element.
+- [Actions](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
 - [Backgrounds](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) [![GitHub stars](https://img.shields.io/github/stars/storybookjs/storybook/tree/master/addons/backgrounds?style=flat)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds/stargazers) - Switch backgrounds to view components in different settings.
 - [Console](https://github.com/storybookjs/storybook-addon-console) [![GitHub stars](https://img.shields.io/github/stars/storybookjs/storybook-addon-console?style=flat)](https://github.com/storybookjs/storybook-addon-console/stargazers) - Show console output like logs, errors, and warnings in the Storybook.
 - [Docs](https://github.com/storybookjs/storybook/tree/master/addons/docs) [![GitHub stars](https://img.shields.io/github/stars/storybookjs/storybook/tree/master/addons/docs?style=flat)](https://github.com/storybookjs/storybook/tree/master/addons/docs/stargazers) - Document component usage and properties in Markdown.

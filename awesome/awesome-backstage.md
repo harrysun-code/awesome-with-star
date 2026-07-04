@@ -1,5 +1,7 @@
 # Backstage
 
+> 来源：[shano/awesome-backstage](https://github.com/shano/awesome-backstage)
+
 [![GitHub stars](https://img.shields.io/github/stars/shano/awesome-backstage?style=flat)](https://github.com/shano/awesome-backstage/stargazers)
 
 # Awesome Backstage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

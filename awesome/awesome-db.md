@@ -1,5 +1,7 @@
 # Database
 
+> 来源：[numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db)
+
 [![GitHub stars](https://img.shields.io/github/stars/numetriclabz/awesome-db?style=flat)](https://github.com/numetriclabz/awesome-db/stargazers)
 
 ﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

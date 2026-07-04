@@ -1,5 +1,7 @@
 # Advertising
 
+> 来源：[cenoura/awesome-ads](https://github.com/cenoura/awesome-ads)
+
 [![GitHub stars](https://img.shields.io/github/stars/cenoura/awesome-ads?style=flat)](https://github.com/cenoura/awesome-ads/stargazers)
 
 # Awesome Advertising [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -94,7 +96,7 @@
 ## Prebid Libraries / Tools
 
 - [Prebid + GAM setup tool](https://github.com/kmjennison/dfp-prebid-setup) [![GitHub stars](https://img.shields.io/github/stars/kmjennison/dfp-prebid-setup?style=flat)](https://github.com/kmjennison/dfp-prebid-setup/stargazers) - An automated line item generator for Prebid.js and Google Ad Manager.
-- React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) [![GitHub stars](https://img.shields.io/github/stars/technology-ebay-de/react-prebid?style=flat)](https://github.com/technology-ebay-de/react-prebid/stargazers) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki) [![GitHub stars](https://img.shields.io/github/stars/technology-ebay-de/react-prebid/wiki?style=flat)](https://github.com/technology-ebay-de/react-prebid/wiki/stargazers) - React library to implement Google Ad Manager on your website.
+- React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) [![GitHub stars](https://img.shields.io/github/stars/technology-ebay-de/react-prebid?style=flat)](https://github.com/technology-ebay-de/react-prebid/stargazers) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki) - React library to implement Google Ad Manager on your website.
 
 ## Newsletters
 

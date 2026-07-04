@@ -1,5 +1,7 @@
 # Stacks
 
+> 来源：[stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks)
+
 [![GitHub stars](https://img.shields.io/github/stars/stackshareio/awesome-stacks?style=flat)](https://github.com/stackshareio/awesome-stacks/stargazers)
 
 <div align="center">

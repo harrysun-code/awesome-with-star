@@ -1,5 +1,7 @@
 # Seed
 
+> 来源：[seed-rs/awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs)
+
 [![GitHub stars](https://img.shields.io/github/stars/seed-rs/awesome-seed-rs?style=flat)](https://github.com/seed-rs/awesome-seed-rs/stargazers)
 
 <!--lint disable double-link-->

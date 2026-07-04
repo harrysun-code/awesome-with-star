@@ -1,5 +1,7 @@
 # Godot
 
+> 来源：[godotengine/awesome-godot](https://github.com/godotengine/awesome-godot)
+
 [![GitHub stars](https://img.shields.io/github/stars/godotengine/awesome-godot?style=flat)](https://github.com/godotengine/awesome-godot/stargazers)
 
 # Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

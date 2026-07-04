@@ -1,5 +1,7 @@
 # Vagrant
 
+> 来源：[iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant)
+
 [![GitHub stars](https://img.shields.io/github/stars/iJackUA/awesome-vagrant?style=flat)](https://github.com/iJackUA/awesome-vagrant/stargazers)
 
 # Awesome Vagrant
@@ -21,7 +23,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
 * [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
-* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
+* [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) [![GitHub stars](https://img.shields.io/github/stars/chef/bento?style=flat)](https://github.com/chef/bento/stargazers) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
 * [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
@@ -51,7 +53,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [Packer](https://www.packer.io/) - a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.
 * [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) [![GitHub stars](https://img.shields.io/github/stars/Thomvaill/tads-boilerplate?style=flat)](https://github.com/Thomvaill/tads-boilerplate/stargazers) - boilerplate to create, develop and deploy a Docker Swarm environment, using Vagrant to reproduce production environment locally.
 * [Veewee](https://github.com/jedi4ever/veewee) [![GitHub stars](https://img.shields.io/github/stars/jedi4ever/veewee?style=flat)](https://github.com/jedi4ever/veewee/stargazers) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
-* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
+* [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) [![GitHub stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh/wiki/Plugins?style=flat)](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins/stargazers) - auto-complete for commands, task names, box names and built-in documentation.
 * [CLI Vagrant Manager](https://github.com/MunGell/vgm) [![GitHub stars](https://img.shields.io/github/stars/MunGell/vgm?style=flat)](https://github.com/MunGell/vgm/stargazers) - simple command-line tool to manage multiple vagrant boxes
 
 ## Desktop tools

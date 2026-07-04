@@ -1,5 +1,7 @@
 # Node-RED
 
+> 来源：[naimo84/awesome-nodered](https://github.com/naimo84/awesome-nodered)
+
 [![GitHub stars](https://img.shields.io/github/stars/naimo84/awesome-nodered?style=flat)](https://github.com/naimo84/awesome-nodered/stargazers)
 
 # Awesome Node-RED [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://nodered.org/"><img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width="200" align="right" alt="Node-RED"></a>

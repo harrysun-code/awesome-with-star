@@ -1,5 +1,7 @@
 # MQTT
 
+> 来源：[hobbyquaker/awesome-mqtt](https://github.com/hobbyquaker/awesome-mqtt)
+
 [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/awesome-mqtt?style=flat)](https://github.com/hobbyquaker/awesome-mqtt/stargazers)
 
 # Awesome MQTT [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -45,7 +47,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## Community Resources
 
 - [mqtt.org](https://mqtt.org/)
-- [MQTT community wiki](https://github.com/mqtt/mqtt.org/wiki) [![GitHub stars](https://img.shields.io/github/stars/mqtt/mqtt.org/wiki?style=flat)](https://github.com/mqtt/mqtt.org/wiki/stargazers)
+- [MQTT community wiki](https://github.com/mqtt/mqtt.org/wiki)
 - [Google Groups: MQTT](https://groups.google.com/g/mqtt)
 - [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt)
 - [A list of public brokers](https://moxd.io/2015/10/17/public-mqtt-brokers/)
@@ -254,6 +256,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ### Rust
 
 - [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) [![GitHub stars](https://img.shields.io/github/stars/zonyitoo/mqtt-rs?style=flat)](https://github.com/zonyitoo/mqtt-rs/stargazers) - MQTT protocol library for Rust.
+- [mqtt-typed-client](https://github.com/holovskyi/mqtt-typed-client) [![GitHub stars](https://img.shields.io/github/stars/holovskyi/mqtt-typed-client?style=flat)](https://github.com/holovskyi/mqtt-typed-client/stargazers) - Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.
 - [rumqtt](https://github.com/AtherEnergy/rumqtt) [![GitHub stars](https://img.shields.io/github/stars/AtherEnergy/rumqtt?style=flat)](https://github.com/AtherEnergy/rumqtt/stargazers) - A fast, lock free pure Rust MQTT client.
 - [mqtt5](https://github.com/LabOverWire/mqtt-lib) [![GitHub stars](https://img.shields.io/github/stars/LabOverWire/mqtt-lib?style=flat)](https://github.com/LabOverWire/mqtt-lib/stargazers) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
 
@@ -514,6 +517,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [HOMR-REACT](https://github.com/klauserber/homr-react) [![GitHub stars](https://img.shields.io/github/stars/klauserber/homr-react?style=flat)](https://github.com/klauserber/homr-react/stargazers) - A configurable MQTT Visualization.
 - [Linear MQTT Dashboard](https://github.com/ravendmaster/linear-mqtt-dashboard) [![GitHub stars](https://img.shields.io/github/stars/ravendmaster/linear-mqtt-dashboard?style=flat)](https://github.com/ravendmaster/linear-mqtt-dashboard/stargazers) - Easy, customizable control panel - MQTT-client.
 - [MMM-mqtt](https://github.com/javiergayala/MMM-mqtt) [![GitHub stars](https://img.shields.io/github/stars/javiergayala/MMM-mqtt?style=flat)](https://github.com/javiergayala/MMM-mqtt/stargazers) - This is an extension for the MagicMirror². It provides the ability to subscribe to MQTT topics and display them.
+- [mqtt-dashboard](https://github.com/jmischler72/mqtt-dashboard) [![GitHub stars](https://img.shields.io/github/stars/jmischler72/mqtt-dashboard?style=flat)](https://github.com/jmischler72/mqtt-dashboard/stargazers) - Self-hostable MQTT dashboard/explorer with drag-and-drop panels like cron, button, log and topic browser to help interact and monitor MQTT topics
 - [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
 - [MQTT-Hyperdash](https://github.com/kollokollo/MQTT-Hyperdash) [![GitHub stars](https://img.shields.io/github/stars/kollokollo/MQTT-Hyperdash?style=flat)](https://github.com/kollokollo/MQTT-Hyperdash/stargazers) - A universal independent MQTT Dashboard for Linux/Raspberry Pi.
 - [MQTT.Cool Test Client](https://testclient-cloud.mqtt.cool) - A web interface for testing interaction between MQTT.Cool and any MQTT broker.
@@ -524,7 +528,6 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/) - MQTT dashboard application.
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red-dashboard?style=flat)](https://github.com/node-red/node-red-dashboard/stargazers) - A dashboard UI for Node-RED.
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) [![GitHub stars](https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=flat)](https://github.com/facontidavide/PlotJuggler/stargazers) - Visualize time series (from sources such as: MQTT, Websockets, ZeroMQ, UDP, etc., supports data formats such as JSON, CBOR, BSON, Message Pack, etc.). It is a fast, powerful and intuitive cross-platform tool.
-
 
 <!--lint disable double-link-->
 Other tools that can be used to create Visualization/Dashboards can be found under [Platforms](#platforms) and [Smart Home Integration Software](#smart-home-integration-software).

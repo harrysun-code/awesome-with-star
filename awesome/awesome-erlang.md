@@ -1,5 +1,7 @@
 # Erlang
 
+> 来源：[drobakowski/awesome-erlang](https://github.com/drobakowski/awesome-erlang)
+
 [![GitHub stars](https://img.shields.io/github/stars/drobakowski/awesome-erlang?style=flat)](https://github.com/drobakowski/awesome-erlang/stargazers)
 
 # Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)

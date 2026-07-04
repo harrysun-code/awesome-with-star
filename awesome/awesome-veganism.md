@@ -1,5 +1,7 @@
 # Veganism
 
+> 来源：[sdassow/awesome-veganism](https://github.com/sdassow/awesome-veganism)
+
 [![GitHub stars](https://img.shields.io/github/stars/sdassow/awesome-veganism?style=flat)](https://github.com/sdassow/awesome-veganism/stargazers)
 
 # Awesome Veganism [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

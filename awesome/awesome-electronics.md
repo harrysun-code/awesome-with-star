@@ -1,5 +1,7 @@
 # Electronics
 
+> 来源：[kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+
 [![GitHub stars](https://img.shields.io/github/stars/kitspace/awesome-electronics?style=flat)](https://github.com/kitspace/awesome-electronics/stargazers)
 
 # Awesome Electronics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

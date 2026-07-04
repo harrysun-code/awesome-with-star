@@ -1,5 +1,7 @@
 # lit
 
+> 来源：[web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit)
+
 [![GitHub stars](https://img.shields.io/github/stars/web-padawan/awesome-lit?style=flat)](https://github.com/web-padawan/awesome-lit/stargazers)
 
 # Awesome Lit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -50,7 +52,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 - [Discord](https://discord.com/invite/buildWithLit)
 - [GitHub](https://github.com/lit/lit) [![GitHub stars](https://img.shields.io/github/stars/lit/lit?style=flat)](https://github.com/lit/lit/stargazers)
-- [GitHub Discussions](https://github.com/lit/lit/discussions) [![GitHub stars](https://img.shields.io/github/stars/lit/lit/discussions?style=flat)](https://github.com/lit/lit/discussions/stargazers)
+- [GitHub Discussions](https://github.com/lit/lit/discussions)
 - [Twitter](https://twitter.com/buildWithLit)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
 - [YouTube](https://www.youtube.com/channel/UCok4ZKSzM3jY7JQRMlF-DPg/)

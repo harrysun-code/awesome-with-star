@@ -1,5 +1,7 @@
 # OKR Methodology
 
+> 来源：[domenicosolazzo/awesome-okr](https://github.com/domenicosolazzo/awesome-okr)
+
 [![GitHub stars](https://img.shields.io/github/stars/domenicosolazzo/awesome-okr?style=flat)](https://github.com/domenicosolazzo/awesome-okr/stargazers)
 
 # Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

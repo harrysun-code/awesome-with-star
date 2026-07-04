@@ -1,5 +1,7 @@
 # Game Development
 
+> 来源：[ellisonleao/magictools](https://github.com/ellisonleao/magictools)
+
 [![GitHub stars](https://img.shields.io/github/stars/ellisonleao/magictools?style=flat)](https://github.com/ellisonleao/magictools/stargazers)
 
 <h1 align="center">
@@ -71,7 +73,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 - :money_with_wings: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets
 - :free: [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
-- :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
+- :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) [![GitHub stars](https://img.shields.io/github/stars/nidorx/matcaps?style=flat)](https://github.com/nidorx/matcaps/stargazers) - A Huge library of matcap textures in PNG and ZMT, organized by color.
 - :free: [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 - :money_with_wings: [PlainTextures](http://www.plaintextures.com/) - Free high resolution textures, brushes and photos
@@ -248,7 +250,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [ENGi](https://github.com/ajhager/engi) [![GitHub stars](https://img.shields.io/github/stars/ajhager/engi?style=flat)](https://github.com/ajhager/engi/stargazers) - A multi-platform 2D game library for Go.
 - :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
 - :tada: [Ebiten](https://ebiten.org/) - A dead simple 2D game library in Go.
-- :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
+- :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) [![GitHub stars](https://img.shields.io/github/stars/nidorx/ecs-lib?style=flat)](https://github.com/nidorx/ecs-lib/stargazers) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
 - :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 - :tada: [EnTT](https://github.com/skypjack/entt) [![GitHub stars](https://img.shields.io/github/stars/skypjack/entt?style=flat)](https://github.com/skypjack/entt/stargazers) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
 - :tada: [FXGL](https://github.com/AlmasB/FXGL) [![GitHub stars](https://img.shields.io/github/stars/AlmasB/FXGL?style=flat)](https://github.com/AlmasB/FXGL/stargazers) - A JavaFX/Kotlin game engine for Win/Mac/Linux.

@@ -1,5 +1,7 @@
 # Music
 
+> 来源：[ciconia/awesome-music](https://github.com/ciconia/awesome-music)
+
 [![GitHub stars](https://img.shields.io/github/stars/ciconia/awesome-music?style=flat)](https://github.com/ciconia/awesome-music/stargazers)
 
 # Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

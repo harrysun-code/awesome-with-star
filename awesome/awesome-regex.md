@@ -1,5 +1,7 @@
 # Regex
 
+> 来源：[slevithan/awesome-regex](https://github.com/slevithan/awesome-regex)
+
 [![GitHub stars](https://img.shields.io/github/stars/slevithan/awesome-regex?style=flat)](https://github.com/slevithan/awesome-regex/stargazers)
 
 <!--lint ignore awesome-heading-->

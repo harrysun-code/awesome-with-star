@@ -1,5 +1,7 @@
 # Haskell
 
+> 来源：[krispo/awesome-haskell](https://github.com/krispo/awesome-haskell)
+
 [![GitHub stars](https://img.shields.io/github/stars/krispo/awesome-haskell?style=flat)](https://github.com/krispo/awesome-haskell/stargazers)
 
 Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -141,7 +143,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Configuration
 
-* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) config format
+* [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) [![GitHub stars](https://img.shields.io/github/stars/lightbend/config?style=flat)](https://github.com/lightbend/config/stargazers) config format
 * [Dhall](https://github.com/dhall-lang/dhall-haskell) [![GitHub stars](https://img.shields.io/github/stars/dhall-lang/dhall-haskell?style=flat)](https://github.com/dhall-lang/dhall-haskell/stargazers) - A configuration language guaranteed to terminate 
 * [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 

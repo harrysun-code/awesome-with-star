@@ -1,5 +1,7 @@
 # Storybook
 
+> 来源：[lauthieb/awesome-storybook](https://github.com/lauthieb/awesome-storybook)
+
 [![GitHub stars](https://img.shields.io/github/stars/lauthieb/awesome-storybook?style=flat)](https://github.com/lauthieb/awesome-storybook/stargazers)
 
 # Awesome Storybook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

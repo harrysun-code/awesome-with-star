@@ -1,5 +1,7 @@
 # Static Analysis & Code Quality
 
+> 来源：[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+
 [![GitHub stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis?style=flat)](https://github.com/analysis-tools-dev/static-analysis/stargazers)
 
 <!-- 🚨🚨 DON'T EDIT THIS FILE DIRECTLY. Edit `data/tools.yml` instead. 🚨🚨 -->
@@ -789,7 +791,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
 
-- [phan](https://github.com/phan/phan/wiki) [![GitHub stars](https://img.shields.io/github/stars/phan/phan/wiki?style=flat)](https://github.com/phan/phan/wiki/stargazers) — A modern static analyzer from etsy.
+- [phan](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
 
 - [PHP Architecture Tester](https://github.com/carlosas/phpat) [![GitHub stars](https://img.shields.io/github/stars/carlosas/phpat?style=flat)](https://github.com/carlosas/phpat/stargazers) — Easy to use architecture testing tool for PHP.
 
@@ -1013,7 +1015,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [cyclocomp](https://github.com/MangoTheCat/cyclocomp) [![GitHub stars](https://img.shields.io/github/stars/MangoTheCat/cyclocomp?style=flat)](https://github.com/MangoTheCat/cyclocomp/stargazers) — Quantifies the cyclomatic complexity of R functions / expressions.
 
-- [flowR](https://github.com/flowr-analysis/flowr) [![GitHub stars](https://img.shields.io/github/stars/flowr-analysis/flowr?style=flat)](https://github.com/flowr-analysis/flowr/stargazers) — A [program slicer](https://github.com/flowr-analysis/flowr/wiki/Terminology#program-slice) and [dataflow analyzer](https://en.wikipedia.org/wiki/Data-flow_analysis) for the [R](https://www.r-project.org/) programming language. Its slicer allows you to reduce a complicated program just to the parts related for a specific task (e.g., the generation of a single or collection of plots, a significance test, ...). The dataflow analysis provides you with a detailed view on the semantics of the R code which can greatly improve other analyses. To use _flowR_, check out the [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=code-inspect.vscode-flowr), the [RStudio Addin](https://github.com/flowr-analysis/rstudio-addin-flowr) [![GitHub stars](https://img.shields.io/github/stars/flowr-analysis/rstudio-addin-flowr?style=flat)](https://github.com/flowr-analysis/rstudio-addin-flowr/stargazers), the [Docker image](https://hub.docker.com/r/eagleoutice/flowr), or the [R package](https://github.com/flowr-analysis/flowr-r-adapter) [![GitHub stars](https://img.shields.io/github/stars/flowr-analysis/flowr-r-adapter?style=flat)](https://github.com/flowr-analysis/flowr-r-adapter/stargazers).
+- [flowR](https://github.com/flowr-analysis/flowr) [![GitHub stars](https://img.shields.io/github/stars/flowr-analysis/flowr?style=flat)](https://github.com/flowr-analysis/flowr/stargazers) — A [program slicer](https://github.com/flowr-analysis/flowr/wiki/Terminology#program-slice) [![GitHub stars](https://img.shields.io/github/stars/flowr-analysis/flowr/wiki/Terminology?style=flat)](https://github.com/flowr-analysis/flowr/wiki/Terminology/stargazers) and [dataflow analyzer](https://en.wikipedia.org/wiki/Data-flow_analysis) for the [R](https://www.r-project.org/) programming language. Its slicer allows you to reduce a complicated program just to the parts related for a specific task (e.g., the generation of a single or collection of plots, a significance test, ...). The dataflow analysis provides you with a detailed view on the semantics of the R code which can greatly improve other analyses. To use _flowR_, check out the [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=code-inspect.vscode-flowr), the [RStudio Addin](https://github.com/flowr-analysis/rstudio-addin-flowr) [![GitHub stars](https://img.shields.io/github/stars/flowr-analysis/rstudio-addin-flowr?style=flat)](https://github.com/flowr-analysis/rstudio-addin-flowr/stargazers), the [Docker image](https://hub.docker.com/r/eagleoutice/flowr), or the [R package](https://github.com/flowr-analysis/flowr-r-adapter) [![GitHub stars](https://img.shields.io/github/stars/flowr-analysis/flowr-r-adapter?style=flat)](https://github.com/flowr-analysis/flowr-r-adapter/stargazers).
 
 - [goodpractice](https://docs.ropensci.org/goodpractice/) — Analyses the source code for R packages and provides best-practice recommendations.
 
@@ -1276,7 +1278,7 @@ Kani verifies:
 <h2>TypeScript</h2>
 
 
-- [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
+- [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) [![GitHub stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint?style=flat)](https://github.com/angular-eslint/angular-eslint/stargazers) — Linter for Angular projects
 
 - **Codelyzer** :warning: — A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
 
@@ -1951,7 +1953,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 <h2>HTML</h2>
 
 
-- [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
+- [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) [![GitHub stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint?style=flat)](https://github.com/angular-eslint/angular-eslint/stargazers) — Linter for Angular projects
 
 - [axe-core](https://www.deque.com/axe/) — Accessibility engine for automated Web UI testing. Tests HTML against WCAG 2.0, 2.1, and 2.2 guidelines. Used by Google Lighthouse, Microsoft Accessibility Insights, and thousands of organizations worldwide.
 

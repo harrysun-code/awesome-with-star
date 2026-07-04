@@ -1,5 +1,7 @@
 # PostgreSQL
 
+> 来源：[dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
+
 [![GitHub stars](https://img.shields.io/github/stars/dhamaniasad/awesome-postgres?style=flat)](https://github.com/dhamaniasad/awesome-postgres/stargazers)
 
 # Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -10,7 +12,7 @@
 
 [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), often simply Postgres, is an [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database) (ORDBMS). PostgreSQL is [ACID-compliant](https://en.wikipedia.org/wiki/ACID) and [transactional](https://en.wikipedia.org/wiki/Transaction_processing). (see more: [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
 
- :elephant: Contributions welcome. Add links through [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) [![GitHub stars](https://img.shields.io/github/stars/dhamaniasad/awesome-postgres/pulls?style=flat)](https://github.com/dhamaniasad/awesome-postgres/pulls/stargazers) or create an [issue](https://github.com/dhamaniasad/awesome-postgres/issues) [![GitHub stars](https://img.shields.io/github/stars/dhamaniasad/awesome-postgres/issues?style=flat)](https://github.com/dhamaniasad/awesome-postgres/issues/stargazers) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
+ :elephant: Contributions welcome. Add links through [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) or create an [issue](https://github.com/dhamaniasad/awesome-postgres/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
 ## Contents
 

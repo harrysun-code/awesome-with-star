@@ -1,5 +1,7 @@
 # Astrophotography
 
+> 来源：[lunohodov/awesome-astrophotography](https://github.com/lunohodov/awesome-astrophotography)
+
 [![GitHub stars](https://img.shields.io/github/stars/lunohodov/awesome-astrophotography?style=flat)](https://github.com/lunohodov/awesome-astrophotography/stargazers)
 
 # Awesome Astrophotography [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)

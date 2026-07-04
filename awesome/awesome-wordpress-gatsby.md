@@ -1,5 +1,7 @@
 # WordPress-Gatsby
 
+> 来源：[henrikwirth/awesome-wordpress-gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby)
+
 [![GitHub stars](https://img.shields.io/github/stars/henrikwirth/awesome-wordpress-gatsby?style=flat)](https://github.com/henrikwirth/awesome-wordpress-gatsby/stargazers)
 
 <div align="center">

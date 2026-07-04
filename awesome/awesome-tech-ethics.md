@@ -1,5 +1,7 @@
 # Tech Ethics
 
+> 来源：[sampart/awesome-tech-ethics](https://github.com/sampart/awesome-tech-ethics)
+
 [![GitHub stars](https://img.shields.io/github/stars/sampart/awesome-tech-ethics?style=flat)](https://github.com/sampart/awesome-tech-ethics/stargazers)
 
 # Awesome Tech Ethics [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # FastAPI
 
+> 来源：[mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi)
+
 [![GitHub stars](https://img.shields.io/github/stars/mjhea0/awesome-fastapi?style=flat)](https://github.com/mjhea0/awesome-fastapi/stargazers)
 
 <!--lint disable double-link-->

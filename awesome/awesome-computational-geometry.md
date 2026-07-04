@@ -1,5 +1,7 @@
 # Computational Geometry
 
+> 来源：[atkirtland/awesome-computational-geometry](https://github.com/atkirtland/awesome-computational-geometry)
+
 [![GitHub stars](https://img.shields.io/github/stars/atkirtland/awesome-computational-geometry?style=flat)](https://github.com/atkirtland/awesome-computational-geometry/stargazers)
 
 # Awesome Computational Geometry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # RxJava
 
+> 来源：[eleventigers/awesome-rxjava](https://github.com/eleventigers/awesome-rxjava)
+
 [![GitHub stars](https://img.shields.io/github/stars/eleventigers/awesome-rxjava?style=flat)](https://github.com/eleventigers/awesome-rxjava/stargazers)
 
 # Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -70,7 +72,7 @@ String and Byte operators for RxJava.
 * [StackOverflow](http://stackoverflow.com/search?q=rx-java)
 * [`@RxJava` on Twitter](http://twitter.com/RxJava)
 * [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
-* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues) [![GitHub stars](https://img.shields.io/github/stars/ReactiveX/RxJava/issues?style=flat)](https://github.com/ReactiveX/RxJava/issues/stargazers)
+* [GitHub Issues](https://github.com/ReactiveX/RxJava/issues)
 
 ## License
 

@@ -1,5 +1,7 @@
 # Electric Guitar Specifications
 
+> 来源：[gitfrage/guitarspecs](https://github.com/gitfrage/guitarspecs)
+
 [![GitHub stars](https://img.shields.io/github/stars/gitfrage/guitarspecs?style=flat)](https://github.com/gitfrage/guitarspecs/stargazers)
 
 # Electric Guitar Specifications

@@ -1,5 +1,7 @@
 # Hydrogen
 
+> 来源：[shopify/awesome-hydrogen](https://github.com/shopify/awesome-hydrogen)
+
 [![GitHub stars](https://img.shields.io/github/stars/shopify/awesome-hydrogen?style=flat)](https://github.com/shopify/awesome-hydrogen/stargazers)
 
 <img width="400" src="./assets/hydrogen-logo.svg">
@@ -39,7 +41,7 @@ Hydrogen is Shopify's open source stack for headless commerce.
 ## Community
 
 - [Discord](https://discord.gg/shopifydevs)
-- [GitHub Discussions](https://github.com/Shopify/hydrogen-v1/discussions) [![GitHub stars](https://img.shields.io/github/stars/Shopify/hydrogen-v1/discussions?style=flat)](https://github.com/Shopify/hydrogen-v1/discussions/stargazers)
+- [GitHub Discussions](https://github.com/Shopify/hydrogen-v1/discussions)
 
 ## Examples
 

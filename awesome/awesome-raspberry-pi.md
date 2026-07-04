@@ -1,5 +1,7 @@
 # Raspberry Pi
 
+> 来源：[thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+
 [![GitHub stars](https://img.shields.io/github/stars/thibmaek/awesome-raspberry-pi?style=flat)](https://github.com/thibmaek/awesome-raspberry-pi/stargazers)
 
 # Awesome Raspberry Pi
@@ -59,7 +61,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Debian](https://raspi.debian.net) - Unofficial Debian image for Raspberry Pi (maintained by a Debian Developer).
 - [DietPi](https://github.com/Fourdee/DietPi) [![GitHub stars](https://img.shields.io/github/stars/Fourdee/DietPi?style=flat)](https://github.com/Fourdee/DietPi/stargazers) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 - [DroneBridge](https://github.com/seeul8er/DroneBridge) [![GitHub stars](https://img.shields.io/github/stars/seeul8er/DroneBridge?style=flat)](https://github.com/seeul8er/DroneBridge/stargazers) - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-- [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) [![GitHub stars](https://img.shields.io/github/stars/bortek/EZ-WifiBroadcast/wiki?style=flat)](https://github.com/bortek/EZ-WifiBroadcast/wiki/stargazers) - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) - Affordable Wireless Digital HD Video Transmission made easy. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - Linux Fedora distribution built for the Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 - [FreeBSD](https://wiki.freebsd.org/arm/Raspberry%20Pi) - FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.
 - [FreedomBox](https://www.freedombox.org) - FreedomBox is a private home server for non-experts. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
@@ -78,7 +80,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 - [moOde](https://moodeaudio.org/) - The moOde audio player acts as an Audiophile streamer with DLNS, Spotify Connect and AirPlay support for old receivers. ![Supports Raspberry Pi 3](/media/badges/rpi-2+.png) ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 - [MoodleBox](https://moodlebox.net/) - The MoodleBox provides a Moodle learning management system on Raspberry Pi. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
-- [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) [![GitHub stars](https://img.shields.io/github/stars/ccrisan/motioneyeos/wiki?style=flat)](https://github.com/ccrisan/motioneyeos/wiki/stargazers) - Linux distribution that turns a single-board computer into a video surveillance system.
+- [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
 - [NetBSD](https://wiki.netbsd.org/ports/evbarm/raspberry_pi/) - NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system.
 - [NextCloudPi](https://github.com/nextcloud/nextcloudpi) [![GitHub stars](https://img.shields.io/github/stars/nextcloud/nextcloudpi?style=flat)](https://github.com/nextcloud/nextcloudpi/stargazers) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
@@ -198,8 +200,9 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 - [Movel](https://github.com/stevelacy/movel) [![GitHub stars](https://img.shields.io/github/stars/stevelacy/movel?style=flat)](https://github.com/stevelacy/movel/stargazers) - Raspberry Pi car computer.
 - [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) [![GitHub stars](https://img.shields.io/github/stars/fote/nalivator9000?style=flat)](https://github.com/fote/nalivator9000/stargazers) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
+- [NanoBot AI Chat Robot](https://github.com/samartzidis/NanoBot) [![GitHub stars](https://img.shields.io/github/stars/samartzidis/NanoBot?style=flat)](https://github.com/samartzidis/NanoBot/stargazers) - Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.
 - [Nerves Project](https://github.com/nerves-project) [![GitHub stars](https://img.shields.io/github/stars/nerves-project?style=flat)](https://github.com/nerves-project/stargazers) - Craft and deploy bulletproof embedded software in Elixir.
-- [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) [![GitHub stars](https://img.shields.io/github/stars/initialstate/pi-sensor-free-presence-detector/wiki?style=flat)](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki/stargazers) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
+- [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - Nixie Tube Clock powered by a Raspberry Pi.
 - [Occu-Pi](https://github.com/bww/occu-pi) [![GitHub stars](https://img.shields.io/github/stars/bww/occu-pi?style=flat)](https://github.com/bww/occu-pi/stargazers) - Controller software for the Occu-pi, a totally awesome bathroom door sensor.
 - [P4wnP1](https://github.com/mame82/P4wnP1) [![GitHub stars](https://img.shields.io/github/stars/mame82/P4wnP1?style=flat)](https://github.com/mame82/P4wnP1/stargazers) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)

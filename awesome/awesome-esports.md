@@ -1,5 +1,7 @@
 # Esports
 
+> 来源：[strift/awesome-esports](https://github.com/strift/awesome-esports)
+
 [![GitHub stars](https://img.shields.io/github/stars/strift/awesome-esports?style=flat)](https://github.com/strift/awesome-esports/stargazers)
 
 # Awesome Esports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # Quantum Computing
 
+> 来源：[desireevl/awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing)
+
 [![GitHub stars](https://img.shields.io/github/stars/desireevl/awesome-quantum-computing?style=flat)](https://github.com/desireevl/awesome-quantum-computing/stargazers)
 
 # Awesome Quantum Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

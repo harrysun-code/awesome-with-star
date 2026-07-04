@@ -1,5 +1,7 @@
 # Open Source Apps
 
+> 来源：[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+
 [![GitHub stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps?style=flat)](https://github.com/serhii-londar/open-source-mac-os-apps/stargazers)
 
 <div align="center">
@@ -6292,7 +6294,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
 
-  **Website:** [https://github.com/ziulev/pomodoro-cycle-app/releases](https://github.com/ziulev/pomodoro-cycle-app/releases) [![GitHub stars](https://img.shields.io/github/stars/ziulev/pomodoro-cycle-app/releases?style=flat)](https://github.com/ziulev/pomodoro-cycle-app/releases/stargazers)
+  **Website:** [https://github.com/ziulev/pomodoro-cycle-app/releases](https://github.com/ziulev/pomodoro-cycle-app/releases)
 
   <details>
   <summary>Screenshots</summary>
@@ -6535,7 +6537,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
-  **Website:** [https://github.com/LumingYin/StickyNotes/releases](https://github.com/LumingYin/StickyNotes/releases) [![GitHub stars](https://img.shields.io/github/stars/LumingYin/StickyNotes/releases?style=flat)](https://github.com/LumingYin/StickyNotes/releases/stargazers)
+  **Website:** [https://github.com/LumingYin/StickyNotes/releases](https://github.com/LumingYin/StickyNotes/releases)
 
   <details>
   <summary>Screenshots</summary>
@@ -7114,7 +7116,7 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
 
 ### 👥 Social Networking (9)
-- [Caprine](https://github.com/sindresorhus/caprine#features) - Elegant Facebook Messenger desktop app.
+- [Caprine](https://github.com/sindresorhus/caprine#features) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/caprine?style=flat)](https://github.com/sindresorhus/caprine/stargazers) - Elegant Facebook Messenger desktop app.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS 
 
@@ -7390,7 +7392,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C 
 
-  **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases](https://github.com/LumingYin/macOSLucidaGrande/releases) [![GitHub stars](https://img.shields.io/github/stars/LumingYin/macOSLucidaGrande/releases?style=flat)](https://github.com/LumingYin/macOSLucidaGrande/releases/stargazers)
+  **Website:** [https://github.com/LumingYin/macOSLucidaGrande/releases](https://github.com/LumingYin/macOSLucidaGrande/releases)
 
   <details>
   <summary>Screenshots</summary>

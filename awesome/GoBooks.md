@@ -1,5 +1,7 @@
 # Go Books
 
+> 来源：[dariubs/GoBooks](https://github.com/dariubs/GoBooks)
+
 [![GitHub stars](https://img.shields.io/github/stars/dariubs/GoBooks?style=flat)](https://github.com/dariubs/GoBooks/stargazers)
 
 # Awesome Go Books

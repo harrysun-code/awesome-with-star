@@ -1,5 +1,7 @@
 # Material Design
 
+> 来源：[sachin1092/awesome-material](https://github.com/sachin1092/awesome-material)
+
 [![GitHub stars](https://img.shields.io/github/stars/sachin1092/awesome-material?style=flat)](https://github.com/sachin1092/awesome-material/stargazers)
 
 # Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

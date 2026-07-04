@@ -1,5 +1,7 @@
 # ESP
 
+> 来源：[agucova/awesome-esp](https://github.com/agucova/awesome-esp)
+
 [![GitHub stars](https://img.shields.io/github/stars/agucova/awesome-esp?style=flat)](https://github.com/agucova/awesome-esp/stargazers)
 
 # Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
@@ -65,7 +67,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [HomePoint](https://github.com/sieren/Homepoint) [![GitHub stars](https://img.shields.io/github/stars/sieren/Homepoint?style=flat)](https://github.com/sieren/Homepoint/stargazers) - Control MQTT/HomeKit smart home devices from an ESP32-powered screen.
 - [openHASP](https://www.openhasp.com/) - Control your home automation devices from a customizable touchscreen UI connected via MQTT.
 - [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) [![GitHub stars](https://img.shields.io/github/stars/supergreenlab/SuperGreenOS?style=flat)](https://github.com/supergreenlab/SuperGreenOS/stargazers) - A full-featured home farming automation software for the ESP32.
-- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.
+- [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) [![GitHub stars](https://img.shields.io/github/stars/kike-canaries/canairio_firmware?style=flat)](https://github.com/kike-canaries/canairio_firmware/stargazers) - Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.
 
 ### InfoSec
 - [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) [![GitHub stars](https://img.shields.io/github/stars/tobozo/ESP32-BLECollector?style=flat)](https://github.com/tobozo/ESP32-BLECollector/stargazers) - A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.
@@ -85,7 +87,7 @@ A curated list of awesome ESP8266/32 projects and code.
 ### LoRa
 
 - [Meshtastic](https://www.meshtastic.org/) - ESP32 LoRA boards as secure, long battery life, mesh GPS communicators.
-- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) - Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards.
+- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) [![GitHub stars](https://img.shields.io/github/stars/cyberman54/ESP32-Paxcounter?style=flat)](https://github.com/cyberman54/ESP32-Paxcounter/stargazers) - Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards.
 - [Disaster Radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun.
 
 ### Music and Audio
@@ -148,6 +150,6 @@ A curated list of awesome ESP8266/32 projects and code.
 - [painlessMesh](https://github.com/gmag11/painlessMesh) [![GitHub stars](https://img.shields.io/github/stars/gmag11/painlessMesh?style=flat)](https://github.com/gmag11/painlessMesh/stargazers) - A library that takes care of the particulars of creating a simple mesh network using ESP8266 and ESP32 hardware.
 - [WifiEspNow](https://github.com/yoursunny/WifiEspNow) [![GitHub stars](https://img.shields.io/github/stars/yoursunny/WifiEspNow?style=flat)](https://github.com/yoursunny/WifiEspNow/stargazers) - Arduino library for [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html), a connectionless WiFi communication protocol defined by [Espressif](https://github.com/espressif) [![GitHub stars](https://img.shields.io/github/stars/espressif?style=flat)](https://github.com/espressif/stargazers).
 - [go-mcu](https://github.com/matiasinsaurralde/go-mcu) [![GitHub stars](https://img.shields.io/github/stars/matiasinsaurralde/go-mcu?style=flat)](https://github.com/matiasinsaurralde/go-mcu/stargazers) - Golang package for interacting with NodeMCU-based boards.
-- [CanAirIO SensorLib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) - ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.
+- [CanAirIO SensorLib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) [![GitHub stars](https://img.shields.io/github/stars/kike-canaries/canairio_sensorlib?style=flat)](https://github.com/kike-canaries/canairio_sensorlib/stargazers) - ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.
 - [Dhyara](https://github.com/neel/dhyara) [![GitHub stars](https://img.shields.io/github/stars/neel/dhyara?style=flat)](https://github.com/neel/dhyara/stargazers) - A C/C++ library for making a Mobile Ad hoc Network (MANET) using ESP Now.
 - [LedFx](https://github.com/LedFx/LedFx) [![GitHub stars](https://img.shields.io/github/stars/LedFx/LedFx?style=flat)](https://github.com/LedFx/LedFx/stargazers) - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.

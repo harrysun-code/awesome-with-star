@@ -1,5 +1,7 @@
 # CircuitPython
 
+> 来源：[adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython)
+
 [![GitHub stars](https://img.shields.io/github/stars/adafruit/awesome-circuitpython?style=flat)](https://github.com/adafruit/awesome-circuitpython/stargazers)
 
 # Awesome CircuitPython

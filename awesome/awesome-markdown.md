@@ -1,5 +1,7 @@
 # Markdown
 
+> 来源：[BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown)
+
 [![GitHub stars](https://img.shields.io/github/stars/BubuAnabelas/awesome-markdown?style=flat)](https://github.com/BubuAnabelas/awesome-markdown/stargazers)
 
 # Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

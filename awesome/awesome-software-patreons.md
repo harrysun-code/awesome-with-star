@@ -1,5 +1,7 @@
 # Software Patreons
 
+> 来源：[uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons)
+
 [![GitHub stars](https://img.shields.io/github/stars/uraimo/awesome-software-patreons?style=flat)](https://github.com/uraimo/awesome-software-patreons/stargazers)
 
 # Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?color=%2377dddd&style=flat-square)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)

@@ -1,5 +1,7 @@
 # Q#
 
+> 来源：[ebraminio/awesome-qsharp](https://github.com/ebraminio/awesome-qsharp)
+
 [![GitHub stars](https://img.shields.io/github/stars/ebraminio/awesome-qsharp?style=flat)](https://github.com/ebraminio/awesome-qsharp/stargazers)
 
 # Awesome Q# [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

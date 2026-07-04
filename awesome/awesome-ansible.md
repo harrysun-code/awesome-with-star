@@ -1,5 +1,7 @@
 # Ansible
 
+> 来源：[ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible)
+
 [![GitHub stars](https://img.shields.io/github/stars/ansible-community/awesome-ansible?style=flat)](https://github.com/ansible-community/awesome-ansible/stargazers)
 
 # Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

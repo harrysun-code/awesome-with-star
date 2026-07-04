@@ -1,5 +1,7 @@
 # Common Lisp
 
+> 来源：[CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl)
+
 [![GitHub stars](https://img.shields.io/github/stars/CodyReichert/awesome-cl?style=flat)](https://github.com/CodyReichert/awesome-cl/stargazers)
 
 <div align="center">
@@ -321,7 +323,7 @@ bindings and clients to other software and libraries:
 * [cl-collider](https://github.com/byulparan/cl-collider) [![GitHub stars](https://img.shields.io/github/stars/byulparan/cl-collider?style=flat)](https://github.com/byulparan/cl-collider/stargazers) - A [SuperCollider](http://supercollider.github.io/) client for CommonLisp. With a [tutorial](https://github.com/defaultxr/cl-collider-tutorial) [![GitHub stars](https://img.shields.io/github/stars/defaultxr/cl-collider-tutorial?style=flat)](https://github.com/defaultxr/cl-collider-tutorial/stargazers) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
 * [cl-openal](https://github.com/zkat/cl-openal) [![GitHub stars](https://img.shields.io/github/stars/zkat/cl-openal?style=flat)](https://github.com/zkat/cl-openal/stargazers) - bindings for the OpenAL audio library. Public domain.
 
-and more audio software targetting musicians on [awesome-cl-software#audio](https://github.com/CodyReichert/awesome-cl#audio) (Opus Modus, OpenMusic…).
+and more audio software targetting musicians on [awesome-cl-software#audio](https://github.com/CodyReichert/awesome-cl#audio) [![GitHub stars](https://img.shields.io/github/stars/CodyReichert/awesome-cl?style=flat)](https://github.com/CodyReichert/awesome-cl/stargazers) (Opus Modus, OpenMusic…).
 
 
 
@@ -521,7 +523,7 @@ JSON
   * "cl-json and yason are still the work horses if you need fine control, but speed is not their forte." @sabracrolleton
 * [parcom/json](https://github.com/fosskers/parcom) [![GitHub stars](https://img.shields.io/github/stars/fosskers/parcom?style=flat)](https://github.com/fosskers/parcom/stargazers) - An extension to `parcom` for simple, fast, no-dependency JSON parsing.
 
-See this [extensive comparison](https://sabracrolleton.github.io/json-review) of many more JSON libraries, as well as [these benchmarks](https://github.com/fosskers/parcom?tab=readme-ov-file#json-benchmarks).
+See this [extensive comparison](https://sabracrolleton.github.io/json-review) of many more JSON libraries, as well as [these benchmarks](https://github.com/fosskers/parcom?tab=readme-ov-file#json-benchmarks) [![GitHub stars](https://img.shields.io/github/stars/fosskers/parcom?tab=readme-ov-file?style=flat)](https://github.com/fosskers/parcom?tab=readme-ov-file/stargazers).
 
 JSON tools:
 
@@ -852,7 +854,7 @@ windows dynamically using Lisp code and bypass the typical Xcode
 processes. It has
 [good documentation and a tutorial](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf) [![GitHub stars](https://img.shields.io/github/stars/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf?style=flat)](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf/stargazers).
 * [McCLIM](https://common-lisp.net/project/mcclim/) - An implementation of the Common Lisp Interface Manager, version II. [GNU LGPL2.1][11].
-  * example project: a Lem editor CLIM interface: [discussion](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860), [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
+  * example project: a Lem editor CLIM interface: [discussion](https://github.com/lem-project/lem/discussions/1311#discussioncomment-10203860) [![GitHub stars](https://img.shields.io/github/stars/lem-project/lem/discussions/1311?style=flat)](https://github.com/lem-project/lem/discussions/1311/stargazers), [screenshot](https://framapiaf.org/@frescosecco@mastodon.social/112909105163460836).
   * [Anathema](https://codeberg.org/contrapunctus/anathema), a theme library for McCLIM applications. Unlicense.
     * *At time of reading (2026-05-18), it provides fonts and color changes. Doesn't change the rendering of widgets. Provides a Doom theme.*
   * [clim-modern](https://git.sr.ht/~hajovonta/clim-modern) - A theming library for McCLIM that replaces stock '90s Motif-style widgets with flat, modern-looking equivalents. Fully customizable via themes and per-widget style overrides. MIT. *Built with LLMs*.
@@ -1184,7 +1186,7 @@ Advanced
 And a couple learning resources for SBCL internals:
 
 * [SBCL internals](https://simonsafar.com/2020/sbcl/)
-* [sbcl-wiki](https://github.com/guicho271828/sbcl-wiki/wiki) [![GitHub stars](https://img.shields.io/github/stars/guicho271828/sbcl-wiki/wiki?style=flat)](https://github.com/guicho271828/sbcl-wiki/wiki/stargazers) - an open wiki to document SBCL's internals.
+* [sbcl-wiki](https://github.com/guicho271828/sbcl-wiki/wiki) - an open wiki to document SBCL's internals.
 
 
 Coding platforms
@@ -1642,7 +1644,7 @@ Sending emails with a third-party provider:
 
 Parsing email addresses:
 
-* [parcom/email](https://github.com/fosskers/parcom/?tab=readme-ov-file#email-addresses) - types and parsers for RFC5322 email addresses. The implementation is RFC-compliant and particularly memory-efficient for well-behaved addresses.
+* [parcom/email](https://github.com/fosskers/parcom/?tab=readme-ov-file#email-addresses) [![GitHub stars](https://img.shields.io/github/stars/fosskers/parcom/?tab=readme-ov-file?style=flat)](https://github.com/fosskers/parcom/?tab=readme-ov-file/stargazers) - types and parsers for RFC5322 email addresses. The implementation is RFC-compliant and particularly memory-efficient for well-behaved addresses.
 
 
 ### OpenAPI, OData, OpenRPC
@@ -1771,7 +1773,7 @@ Plotting
 
 * lisp-stat's [plot (vega-lite)](https://github.com/Lisp-Stat/plot) [![GitHub stars](https://img.shields.io/github/stars/Lisp-Stat/plot?style=flat)](https://github.com/Lisp-Stat/plot/stargazers) - a Vega-lite DSL. MS-PL.
   * includes functions for text-based plotting that work in the REPL, and JavaScript visualisations that are rendered in a browser.
-  * [emacs-vega-view](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
+  * [emacs-vega-view](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) [![GitHub stars](https://img.shields.io/github/stars/applied-science/emacs-vega-view?tab=readme-ov-file?style=flat)](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file/stargazers) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
 * [vgplot](https://github.com/volkers/vgplot) [![GitHub stars](https://img.shields.io/github/stars/volkers/vgplot?style=flat)](https://github.com/volkers/vgplot/stargazers) - an interface to the
   gnuplot plotting utility with the intention to resemble some of
   the plot commands of octave or matlab. [GPL3][2].
@@ -2109,7 +2111,7 @@ Tools:
 
 * [SLT](https://github.com/Enerccio/SLT) [![GitHub stars](https://img.shields.io/github/stars/Enerccio/SLT?style=flat)](https://github.com/Enerccio/SLT/stargazers) -  an IDE Plugin for Intellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
   - released in Jan, 2023. Experimental.
-  - see [this fork](https://github.com/ivanbulanov/SLT/releases) [![GitHub stars](https://img.shields.io/github/stars/ivanbulanov/SLT/releases?style=flat)](https://github.com/ivanbulanov/SLT/releases/stargazers) that is updated to work on Intellij 2025.3.2.
+  - see [this fork](https://github.com/ivanbulanov/SLT/releases) that is updated to work on Intellij 2025.3.2.
 
 ## Geany (experimental) ##
 

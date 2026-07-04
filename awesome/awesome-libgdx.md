@@ -1,5 +1,201 @@
 # libGDX
 
+> 来源：[rafaskb/awesome-libgdx](https://github.com/rafaskb/awesome-libgdx)
+
 [![GitHub stars](https://img.shields.io/github/stars/rafaskb/awesome-libgdx?style=flat)](https://github.com/rafaskb/awesome-libgdx/stargazers)
 
-404: Not Found
+[![Awesome libGDX Logo](logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
+
+# Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Latest libGDX Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=Latest%20libGDX%20Version&style=flat-square)](https://search.maven.org/artifact/com.badlogicgames.gdx/gdx)
+
+> <a href="https://libgdx.com/"><img src="https://libgdx.com/assets/images/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
+>
+> [libGDX](https://libgdx.com/) is a relatively low level, free, open source cross platform game development framework written in Java.
+>
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the [libGDX](https://libgdx.com/) game framework to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers).
+>
+> Contributions _very welcome_ but first see [Contributing](#contributing).
+
+---
+
+
+## Contents
+
+- [Resources](#resources)
+  - [Artificial Intelligence](#algorithms-and-ai)
+  - [Controllers](#controllers)
+  - [Editors](#editors)
+  - [Entity Component System (ECS)](#entity-component-system-ecs)
+  - [Physics](#physics)
+  - [Services](#services)
+  - [Setup and Deployment](#setup-and-deployment)
+  - [User Interface](#user-interface)
+  - [Visual Effects](#visual-effects)
+  - [Audio](#audio)
+  - [Others](#others)
+- [Tutorials](#tutorials)
+  - [Getting Started](#getting-started)
+  - [Advanced](#advanced)
+- [Assets](#assets)
+- [Community](#community)
+- [Other Lists](#other-lists)
+
+
+---
+
+
+## Resources
+
+_Resources that can be used in libGDX code to boost the framework's capabilities._
+
+### Algorithms and AI
+- [gdx-ai](https://github.com/libgdx/gdx-ai) [![GitHub stars](https://img.shields.io/github/stars/libgdx/gdx-ai?style=flat)](https://github.com/libgdx/gdx-ai/stargazers) - Artificial Intelligence framework featuring Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines.
+- [Simple Graphs](https://github.com/earlygrey/simple-graphs) [![GitHub stars](https://img.shields.io/github/stars/earlygrey/simple-graphs?style=flat)](https://github.com/earlygrey/simple-graphs/stargazers) - A java library for graph data structures and algorithms (including fast pathfinding).
+
+### Controllers
+- [gdx-controllers](https://github.com/libgdx/gdx-controllers) [![GitHub stars](https://img.shields.io/github/stars/libgdx/gdx-controllers?style=flat)](https://github.com/libgdx/gdx-controllers/stargazers) - Adds support to gamepads and joysticks.
+- [gdx-controllerutils](https://github.com/MrStahlfelge/gdx-controllerutils) [![GitHub stars](https://img.shields.io/github/stars/MrStahlfelge/gdx-controllerutils?style=flat)](https://github.com/MrStahlfelge/gdx-controllerutils/stargazers) - Adds Scene2D button input support, user configurable button mappings and hotplugging for LWJGL2.
+- [sdl2gdx](https://github.com/electronstudio/sdl2gdx) [![GitHub stars](https://img.shields.io/github/stars/electronstudio/sdl2gdx?style=flat)](https://github.com/electronstudio/sdl2gdx/stargazers) - Powerful gamepad implementation using SDL. Supports hundreds of controllers under the same mapping, rumble, and hotplugging.
+
+### Editors
+- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) [![GitHub stars](https://img.shields.io/github/stars/rednblackgames/HyperLap2D?style=flat)](https://github.com/rednblackgames/HyperLap2D/stargazers) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+- [Mundus](https://github.com/JamesTKhan/Mundus) [![GitHub stars](https://img.shields.io/github/stars/JamesTKhan/Mundus?style=flat)](https://github.com/JamesTKhan/Mundus/stargazers) - World/level editor for 3D worlds with a runtime for libGDX.
+- [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
+
+### Entity Component System (ECS)
+- [Artemis-odb](https://github.com/junkdog/artemis-odb) [![GitHub stars](https://img.shields.io/github/stars/junkdog/artemis-odb?style=flat)](https://github.com/junkdog/artemis-odb/stargazers) - High performance java based Entity-Component-System framework.
+- [Ashley](https://github.com/libgdx/ashley) [![GitHub stars](https://img.shields.io/github/stars/libgdx/ashley?style=flat)](https://github.com/libgdx/ashley/stargazers) - A Java entity system inspired by Ash & Artemis.
+
+### Physics
+- [Box2D](https://libgdx.com/wiki/extensions/physics/box2d) - One of the most popular physics libraries for 2D games.
+- [Bullet](https://libgdx.com/wiki/extensions/physics/bullet/bullet-physics) - 3D Collision Detection and Rigid Body Dynamics Library.
+- [jbump](https://github.com/tommyettinger/jbump) [![GitHub stars](https://img.shields.io/github/stars/tommyettinger/jbump?style=flat)](https://github.com/tommyettinger/jbump/stargazers) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
+
+### Services
+- [gdx-facebook](https://github.com/TomGrill/gdx-facebook) [![GitHub stars](https://img.shields.io/github/stars/TomGrill/gdx-facebook?style=flat)](https://github.com/TomGrill/gdx-facebook/stargazers) - Provides cross-platform support for Facebook Graph API.
+- [gdx-fireapp](https://github.com/mk-5/gdx-fireapp) [![GitHub stars](https://img.shields.io/github/stars/mk-5/gdx-fireapp?style=flat)](https://github.com/mk-5/gdx-fireapp/stargazers) - Cross-platform API for Firebase.
+- [gdx-firebase](https://github.com/TomGrill/gdx-firebase) [![GitHub stars](https://img.shields.io/github/stars/TomGrill/gdx-firebase?style=flat)](https://github.com/TomGrill/gdx-firebase/stargazers) - Cross-platform (only Desktop/Android) API for Firebase.
+- [gdx-gameanalytics](https://github.com/MrStahlfelge/gdx-gameanalytics) [![GitHub stars](https://img.shields.io/github/stars/MrStahlfelge/gdx-gameanalytics?style=flat)](https://github.com/MrStahlfelge/gdx-gameanalytics/stargazers) - Game Analytics REST API client implementation for libGDX. Works on all backends.
+- [gdx-gamesvcs](https://github.com/MrStahlfelge/gdx-gamesvcs) [![GitHub stars](https://img.shields.io/github/stars/MrStahlfelge/gdx-gamesvcs?style=flat)](https://github.com/MrStahlfelge/gdx-gamesvcs/stargazers) - Easy integration of gameservices, such as Google Play Games, Apple Game Center, and more.
+- [gdx-pay](https://github.com/libgdx/gdx-pay) [![GitHub stars](https://img.shields.io/github/stars/libgdx/gdx-pay?style=flat)](https://github.com/libgdx/gdx-pay/stargazers) - Provides a cross-platform API for InApp purchasing.
+- [steamworks4j](https://github.com/code-disaster/steamworks4j) [![GitHub stars](https://img.shields.io/github/stars/code-disaster/steamworks4j?style=flat)](https://github.com/code-disaster/steamworks4j/stargazers) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
+
+### Setup and Deployment
+- [gdx-liftoff](https://github.com/tommyettinger/gdx-liftoff) [![GitHub stars](https://img.shields.io/github/stars/tommyettinger/gdx-liftoff?style=flat)](https://github.com/tommyettinger/gdx-liftoff/stargazers) - A modern setup tool for libGDX that supports more backends and allows adding libraries with one click.
+- [libgdx-library-template](https://github.com/tommyettinger/libgdx-library-template) [![GitHub stars](https://img.shields.io/github/stars/tommyettinger/libgdx-library-template?style=flat)](https://github.com/tommyettinger/libgdx-library-template/stargazers) - A skeleton project for making new libraries, since they need different config.
+- [Packr](https://github.com/libGDX/packr) [![GitHub stars](https://img.shields.io/github/stars/libGDX/packr?style=flat)](https://github.com/libGDX/packr/stargazers) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and macOS.
+
+### User Interface
+- [Freetype](https://libgdx.com/wiki/extensions/gdx-freetype) - Generate BitmapFonts of your desired size on the fly from lightweight .ttf font files.
+- [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) [![GitHub stars](https://img.shields.io/github/stars/TomGrill/gdx-dialogs?style=flat)](https://github.com/TomGrill/gdx-dialogs/stargazers) - Provides cross-platform support for native dialogs.
+- [gdx-skins](https://github.com/czyzby/gdx-skins) [![GitHub stars](https://img.shields.io/github/stars/czyzby/gdx-skins?style=flat)](https://github.com/czyzby/gdx-skins/stargazers) - Free Scene2D GUI skins.
+- [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) [![GitHub stars](https://img.shields.io/github/stars/StrongJoshua/libGDX-inGameConsole?style=flat)](https://github.com/StrongJoshua/libGDX-inGameConsole/stargazers) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
+- [msdf-gdx](https://github.com/maltaisn/msdf-gdx) [![GitHub stars](https://img.shields.io/github/stars/maltaisn/msdf-gdx?style=flat)](https://github.com/maltaisn/msdf-gdx/stargazers) - Provides lightweight utilities to draw high-quality MSDF (multi-channel signed distance field) text on libGDX.
+- [PieMenu](https://github.com/payne911/PieMenu) [![GitHub stars](https://img.shields.io/github/stars/payne911/PieMenu?style=flat)](https://github.com/payne911/PieMenu/stargazers) - Radial menus for Scene2D that are highly flexible and easy to customize.
+- [Ray3K Skins](https://ray3k.wordpress.com/artwork/) - Free Scene2D.UI skins with example code, custom drawables, and experimental features.
+- [Skin Composer](https://github.com/raeleus/skin-composer) [![GitHub stars](https://img.shields.io/github/stars/raeleus/skin-composer?style=flat)](https://github.com/raeleus/skin-composer/stargazers) - Create skins for libGDX scene2d.ui with a graphical interface.
+- [TenPatch](https://github.com/raeleus/TenPatch) [![GitHub stars](https://img.shields.io/github/stars/raeleus/TenPatch?style=flat)](https://github.com/raeleus/TenPatch/stargazers) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
+- [TextraTypist](https://github.com/tommyettinger/textratypist) [![GitHub stars](https://img.shields.io/github/stars/tommyettinger/textratypist?style=flat)](https://github.com/tommyettinger/textratypist/stargazers) - Like TypingLabel (below), but also supports styles, emoji, multiple fonts, clickable links, etc.
+- [TypingLabel](https://github.com/rafaskb/typing-label) [![GitHub stars](https://img.shields.io/github/stars/rafaskb/typing-label?style=flat)](https://github.com/rafaskb/typing-label/stargazers) - A libGDX Label that appears as if it was being typed in real time.
+- [VisUI](https://github.com/kotcrab/vis-ui) [![GitHub stars](https://img.shields.io/github/stars/kotcrab/vis-ui?style=flat)](https://github.com/kotcrab/vis-ui/stargazers) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
+
+### Visual Effects
+- [Box2DLights](https://github.com/libgdx/box2dlights) [![GitHub stars](https://img.shields.io/github/stars/libgdx/box2dlights?style=flat)](https://github.com/libgdx/box2dlights/stargazers) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+- [colorful-gdx](https://github.com/tommyettinger/colorful-gdx) [![GitHub stars](https://img.shields.io/github/stars/tommyettinger/colorful-gdx?style=flat)](https://github.com/tommyettinger/colorful-gdx/stargazers) - Expands how tinting can affect colors; also has many pre-written shaders.
+- [HackLights](https://github.com/aliasifk/HackLights) [![GitHub stars](https://img.shields.io/github/stars/aliasifk/HackLights?style=flat)](https://github.com/aliasifk/HackLights/stargazers) - Lightweight framebuffer based lighting engine for libGDX.
+- [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) [![GitHub stars](https://img.shields.io/github/stars/crashinvaders/gdx-vfx?style=flat)](https://github.com/crashinvaders/gdx-vfx/stargazers) - Flexible post-processing shader visual effects based on libgdx-contribs-postprocessing.
+- [libgdx-screenmanager](https://github.com/crykn/libgdx-screenmanager) [![GitHub stars](https://img.shields.io/github/stars/crykn/libgdx-screenmanager?style=flat)](https://github.com/crykn/libgdx-screenmanager/stargazers) - A screen manager for libGDX supporting various transition effects
+- [Particle Park](https://github.com/raeleus/Particle-Park) [![GitHub stars](https://img.shields.io/github/stars/raeleus/Particle-Park?style=flat)](https://github.com/raeleus/Particle-Park/stargazers) - A showcase of downloadable particle effects with live previews.
+- [Shape Drawer](https://github.com/earlygrey/shapedrawer) [![GitHub stars](https://img.shields.io/github/stars/earlygrey/shapedrawer?style=flat)](https://github.com/earlygrey/shapedrawer/stargazers) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+- [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) [![GitHub stars](https://img.shields.io/github/stars/mgsx-dev/gdx-gltf?style=flat)](https://github.com/mgsx-dev/gdx-gltf/stargazers) - GLTF 3D file format support (import/export), PBR shaders, and others advanced rendering.
+- [gdx-graph](https://github.com/MarcinSc/gdx-graph) [![GitHub stars](https://img.shields.io/github/stars/MarcinSc/gdx-graph?style=flat)](https://github.com/MarcinSc/gdx-graph/stargazers) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
+
+### Audio
+- [TuningFork](https://github.com/Hangman/TuningFork) [![GitHub stars](https://img.shields.io/github/stars/Hangman/TuningFork?style=flat)](https://github.com/Hangman/TuningFork/stargazers) - Advanced 3D audio features for libGDX desktop users.
+- [gdx-miniaudio](https://github.com/rednblackgames/gdx-miniaudio) [![GitHub stars](https://img.shields.io/github/stars/rednblackgames/gdx-miniaudio?style=flat)](https://github.com/rednblackgames/gdx-miniaudio/stargazers) - Advanced Cross Platform Audio Engine for libGDX based on MiniAudio.
+- [gdx-sfx](https://github.com/spookygames/gdx-sfx) [![GitHub stars](https://img.shields.io/github/stars/spookygames/gdx-sfx?style=flat)](https://github.com/spookygames/gdx-sfx/stargazers) - Some goodies for better sound effects in libGDX.
+- [gdx-pd](https://github.com/mgsx-dev/gdx-pd) [![GitHub stars](https://img.shields.io/github/stars/mgsx-dev/gdx-pd?style=flat)](https://github.com/mgsx-dev/gdx-pd/stargazers) - Pure Data extension for libGDX.
+
+### Others
+- [anim8-gdx](https://github.com/tommyettinger/anim8-gdx) [![GitHub stars](https://img.shields.io/github/stars/tommyettinger/anim8-gdx?style=flat)](https://github.com/tommyettinger/anim8-gdx/stargazers) - Allows saving (animated) GIFs and PNGs from sequences of Pixmaps, with configurable dithering if needed.
+- [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) [![GitHub stars](https://img.shields.io/github/stars/PokeMMO/gdx-dbgagent?style=flat)](https://github.com/PokeMMO/gdx-dbgagent/stargazers) - Java Agent for debugging common issues, like objects not being disposed and constants such as Color.WHITE being modified. 
+- [gdx-jnigen](https://github.com/libgdx/gdx-jnigen) [![GitHub stars](https://img.shields.io/github/stars/libgdx/gdx-jnigen?style=flat)](https://github.com/libgdx/gdx-jnigen/stargazers) - Small library that allows C/C++ code to be written inline with Java source code.
+- [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) [![GitHub stars](https://img.shields.io/github/stars/Anuken/GDXGifRecorder?style=flat)](https://github.com/Anuken/GDXGifRecorder/stargazers) - A utility class that records a GIF and saves it automatically.
+- [KTX](https://github.com/libktx/ktx) [![GitHub stars](https://img.shields.io/github/stars/libktx/ktx?style=flat)](https://github.com/libktx/ktx/stargazers) - Kotlin extensions and utilities for libGDX.
+- [noise4j](https://github.com/czyzby/noise4j) [![GitHub stars](https://img.shields.io/github/stars/czyzby/noise4j?style=flat)](https://github.com/czyzby/noise4j/stargazers) - Simple map generators based on various procedural content generation tutorials.
+- [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) [![GitHub stars](https://img.shields.io/github/stars/crashinvaders/gdx-texture-packer-gui?style=flat)](https://github.com/crashinvaders/gdx-texture-packer-gui/stargazers) - A simple way to pack and manage texture atlases for libGDX game framework.
+- [libGDX Plugin](https://github.com/BlueBoxWare/LibGDXPlugin) [![GitHub stars](https://img.shields.io/github/stars/BlueBoxWare/LibGDXPlugin?style=flat)](https://github.com/BlueBoxWare/LibGDXPlugin/stargazers) - A plugin for IntelliJ IDEA and Android Studio that adds a number of libGDX features and tools, such as color previews and additional inspections for common mistakes.
+
+## Tutorials
+
+_Tutorials for newbies and seasoned developers alike._
+
+### Getting Started
+
+- [Official libGDX Wiki](https://libgdx.com/wiki/) - Official libGDX wiki that contains a huge amount of information.
+- [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) - An excellent guide for beginners on how to create a game from scratch.
+- [Development Tutorial Playlist by Phillip Mod Dev](https://www.youtube.com/playlist?list=PLLwCf-qdpyEnB_FO_1HkUFh7smwGNjAaC) - A series of videos going over the basics of libGDX.
+- [Brandon Grasley's Space Shooter Game](https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi) - Video tutorial series on making a complete Android game from scratch.
+- [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
+- [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) [![GitHub stars](https://img.shields.io/github/stars/raeleus/skin-composer/wiki/libGDX-and-JPackage?style=flat)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage/stargazers) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+- [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - General tutorial on using JSON for storing data.
+- [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) [![GitHub stars](https://img.shields.io/github/stars/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar?style=flat)](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar/stargazers) - Discusses the pros and cons of different progress bar design techniques with examples.
+- [libGDX External Tutorials](https://libgdx.com/wiki/articles/external-tutorials) - Big list of official unofficial tutorials.
+- [Scene2D.UI From the Ground Up](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials) [![GitHub stars](https://img.shields.io/github/stars/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials?style=flat)](https://github.com/raeleus/skin-composer/wiki/From-the-Ground-Up:-Scene2D.UI-Tutorials/stargazers) - Covers the basics of UI design in Scene2D, libGDX's premiere scene graph and layout toolkit.
+
+### Advanced
+
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
+- [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - Details how to create a mask using Pixmaps.
+- [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - Deploying to iOS in 2019 using RoboVM.
+- [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - Pixel-perfect smooth scrolling.
+- [Introduction to 3D Series](https://www.youtube.com/playlist?list=PLjUR2MkQ0cuHZ70Ps8F9WMyoyKHKAbYvQ) - A tutorial series on libGDX 3D using gdx-gltf.
+
+### General Learning Material
+- [Book of Shaders](https://github.com/patriciogonzalezvivo/thebookofshaders) [![GitHub stars](https://img.shields.io/github/stars/patriciogonzalezvivo/thebookofshaders?style=flat)](https://github.com/patriciogonzalezvivo/thebookofshaders/stargazers) - Step-by-step guide through the abstract and complex universe of Fragment Shaders. GLSL.
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/) - Architecture and design patterns for games.
+
+## Assets
+
+_Collection of free and high quality assets to get your game to the next level._
+
+- [Kenney Assets](https://kenney.nl/) - High quality assets for your game, from 2D and 3D art to sound effects.
+- [OpenGameArt.org](https://opengameart.org/) - Repository offering a variety of open content assets.
+- [Game-Icons.net](http://game-icons.net/) - Repository containing heaps of cool game related graphics.
+- [Jsfxr](https://chr15m.itch.io/jsfxr) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
+- [freesound.org](https://freesound.org/) - Huge collaborative database of audio snippets, samples, recordings, bleeps.
+
+
+## Community
+
+_Get in touch with other libGDX developers to collaborate and get help._
+
+- [Discord](https://discord.gg/4S8pQqc) - An active chat with various leaders from the community available every day. **Recommended**
+- [Reddit](https://www.reddit.com/r/libgdx/) - Unofficial subreddit for libGDX. Not a lot of activity.
+
+
+## Other Lists
+
+_Other awesome lists that might be useful to libGDX developers._
+
+- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) [![GitHub stars](https://img.shields.io/github/stars/MFatihMAR/Awesome-Game-Networking?style=flat)](https://github.com/MFatihMAR/Awesome-Game-Networking/stargazers) - A Curated List of Game Network Programming Resources.
+- [Game Talks](https://github.com/hzoo/awesome-gametalks) [![GitHub stars](https://img.shields.io/github/stars/hzoo/awesome-gametalks?style=flat)](https://github.com/hzoo/awesome-gametalks/stargazers) - A curated list of gaming talks (development, design, etc).
+- [Java](https://github.com/akullpp/awesome-java) [![GitHub stars](https://img.shields.io/github/stars/akullpp/awesome-java?style=flat)](https://github.com/akullpp/awesome-java/stargazers) - A curated list of awesome Java frameworks, libraries and software.
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin) [![GitHub stars](https://img.shields.io/github/stars/KotlinBy/awesome-kotlin?style=flat)](https://github.com/KotlinBy/awesome-kotlin/stargazers) - A curated list of awesome Kotlin related stuff.
+- [Magic Tools](https://github.com/ellisonleao/magictools) [![GitHub stars](https://img.shields.io/github/stars/ellisonleao/magictools?style=flat)](https://github.com/ellisonleao/magictools/stargazers) - A list of Game Development resources to make magic happen.
+- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/) - A straightforward reference for inclusive game design, to ensure that games are just as fun for as wide a range of people as possible. **Recommended**
+- [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) [![GitHub stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev?style=flat)](https://github.com/Calinou/awesome-gamedev/stargazers) - A collection of free software and free culture resources for making amazing games.
+
+
+---
+
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)

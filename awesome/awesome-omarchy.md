@@ -1,5 +1,7 @@
 # Omarchy
 
+> 来源：[aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy)
+
 [![GitHub stars](https://img.shields.io/github/stars/aorumbayev/awesome-omarchy?style=flat)](https://github.com/aorumbayev/awesome-omarchy/stargazers)
 
 # Awesome Omarchy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -227,10 +229,10 @@
 
 ## Community Resources
 
-- [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) [![GitHub stars](https://img.shields.io/github/stars/basecamp/omarchy/discussions?style=flat)](https://github.com/basecamp/omarchy/discussions/stargazers) - Official community discussions and support.
+- [GitHub Discussions](https://github.com/basecamp/omarchy/discussions) - Official community discussions and support.
 - [Omarchy on Raspberry Pi 5](https://github.com/basecamp/omarchy/discussions/642) [![GitHub stars](https://img.shields.io/github/stars/basecamp/omarchy/discussions/642?style=flat)](https://github.com/basecamp/omarchy/discussions/642/stargazers) - Community discussion on running Omarchy on Raspberry Pi 5.
 - [Omarchy on 11 inch MacBook Air](https://seanabrahams.com/linux/archlinux/macbook/omarchy/2025/08/07/omarchy-macbook-air.html) - Technical guide for installing Omarchy on a 2014 MacBook Air with WiFi configuration.
-- [GitHub Issues](https://github.com/basecamp/omarchy/issues) [![GitHub stars](https://img.shields.io/github/stars/basecamp/omarchy/issues?style=flat)](https://github.com/basecamp/omarchy/issues/stargazers) - Bug reports and feature requests.
+- [GitHub Issues](https://github.com/basecamp/omarchy/issues) - Bug reports and feature requests.
 - [omarchy-theme Topic](https://github.com/topics/omarchy-theme) [![GitHub stars](https://img.shields.io/github/stars/topics/omarchy-theme?style=flat)](https://github.com/topics/omarchy-theme/stargazers) - Browse all repositories tagged with omarchy-theme.
 
 ## Articles and Tutorials

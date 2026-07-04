@@ -1,5 +1,7 @@
 # Ledger
 
+> 来源：[sfischer13/awesome-ledger](https://github.com/sfischer13/awesome-ledger)
+
 [![GitHub stars](https://img.shields.io/github/stars/sfischer13/awesome-ledger?style=flat)](https://github.com/sfischer13/awesome-ledger/stargazers)
 
 <!--lint disable double-link-->
@@ -31,7 +33,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Introduction
 
 - [Ledger](http://ledger-cli.org/) - Official website.
-- [Wiki](https://github.com/ledger/ledger/wiki) [![GitHub stars](https://img.shields.io/github/stars/ledger/ledger/wiki?style=flat)](https://github.com/ledger/ledger/wiki/stargazers) - Official wiki.
+- [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki.
 - [Wikipedia](https://en.wikipedia.org/wiki/Ledger_(software)) - Wikipedia entry about Ledger.
 
 ## Background

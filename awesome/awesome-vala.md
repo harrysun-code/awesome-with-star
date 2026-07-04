@@ -1,5 +1,7 @@
 # Vala
 
+> 来源：[desiderantes/awesome-vala](https://github.com/desiderantes/awesome-vala)
+
 [![GitHub stars](https://img.shields.io/github/stars/desiderantes/awesome-vala?style=flat)](https://github.com/desiderantes/awesome-vala/stargazers)
 
 # Awesome Vala [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

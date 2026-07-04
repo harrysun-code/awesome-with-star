@@ -1,5 +1,7 @@
 # Game Talks
 
+> 来源：[hzoo/awesome-gametalks](https://github.com/hzoo/awesome-gametalks)
+
 [![GitHub stars](https://img.shields.io/github/stars/hzoo/awesome-gametalks?style=flat)](https://github.com/hzoo/awesome-gametalks/stargazers)
 
 # Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

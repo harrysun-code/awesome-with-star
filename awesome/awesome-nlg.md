@@ -1,5 +1,7 @@
 # Natural Language Generation
 
+> 来源：[accelerated-text/awesome-nlg](https://github.com/accelerated-text/awesome-nlg)
+
 [![GitHub stars](https://img.shields.io/github/stars/accelerated-text/awesome-nlg?style=flat)](https://github.com/accelerated-text/awesome-nlg/stargazers)
 
 # Awesome Natural Language Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # Containers
 
+> 来源：[Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers)
+
 [![GitHub stars](https://img.shields.io/github/stars/Friz-zy/awesome-linux-containers?style=flat)](https://github.com/Friz-zy/awesome-linux-containers/stargazers)
 
 # Awesome Linux Containers
@@ -124,7 +126,7 @@ MCL (*Minimal Container Linux*) is a from scratch minimal Linux OS designed spec
 
 ## Hypervisors
 
-* [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)  
+* [Docker](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure) [![GitHub stars](https://img.shields.io/github/stars/veggiemonk/awesome-docker?style=flat)](https://github.com/veggiemonk/awesome-docker/stargazers)  
 An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
 * [LXD](https://github.com/lxc/lxd) [![GitHub stars](https://img.shields.io/github/stars/lxc/lxd?style=flat)](https://github.com/lxc/lxd/stargazers)  
 Daemon based on liblxc offering a REST API to manage LXC containers.

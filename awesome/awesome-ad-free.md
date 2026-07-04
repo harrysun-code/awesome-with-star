@@ -1,5 +1,7 @@
 # Ad-Free
 
+> 来源：[johnjago/awesome-ad-free](https://github.com/johnjago/awesome-ad-free)
+
 [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-ad-free?style=flat)](https://github.com/johnjago/awesome-ad-free/stargazers)
 
 # Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # Bitcoin Payment Processors
 
+> 来源：[alexk111/awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors)
+
 [![GitHub stars](https://img.shields.io/github/stars/alexk111/awesome-bitcoin-payment-processors?style=flat)](https://github.com/alexk111/awesome-bitcoin-payment-processors/stargazers)
 
 <div align="center">
@@ -29,7 +31,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 | [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
 | [LnMe](https://github.com/bumi/lnme) [![GitHub stars](https://img.shields.io/github/stars/bumi/lnme?style=flat)](https://github.com/bumi/lnme/stargazers) | No fees | Yes | Yes | No | LND node |
-| [SatSale](https://github.com/SatSale/SatSale) [![GitHub stars](https://img.shields.io/github/stars/SatSale/SatSale?style=flat)](https://github.com/SatSale/SatSale/stargazers) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC | Python. Bitcoin node, Lightning node & WooCommerce optional. |
+| [SatSale](https://github.com/SatSale/SatSale) [![GitHub stars](https://img.shields.io/github/stars/SatSale/SatSale?style=flat)](https://github.com/SatSale/SatSale/stargazers) | No fees | Yes | Yes | Weakhands: [swap to USDT on Liquid](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101) [![GitHub stars](https://img.shields.io/github/stars/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml?style=flat)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml/stargazers), no-KYC | Python. Bitcoin node, Lightning node & WooCommerce optional. |
 | [Keagate](https://github.com/dilan-dio4/Keagate) [![GitHub stars](https://img.shields.io/github/stars/dilan-dio4/Keagate?style=flat)](https://github.com/dilan-dio4/Keagate/stargazers) | No fees | No | Yes | No | 1 GB RAM, Unix |
 | [LNURL Daemon](https://github.com/yanascz/lnurld) [![GitHub stars](https://img.shields.io/github/stars/yanascz/lnurld?style=flat)](https://github.com/yanascz/lnurld/stargazers) | No fees | Yes | Yes | No | LND node |
 

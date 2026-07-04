@@ -1,5 +1,7 @@
 # Cybersecurity Blue Team
 
+> 来源：[fabacab/awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+
 [![GitHub stars](https://img.shields.io/github/stars/fabacab/awesome-cybersecurity-blueteam?style=flat)](https://github.com/fabacab/awesome-cybersecurity-blueteam/stargazers)
 
 # Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -299,7 +301,7 @@ See also [Wikipedia: List of router and firewall distributions](https://en.wikip
 
 ## Phishing awareness and reporting
 
-See also [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools).
+See also [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools) [![GitHub stars](https://img.shields.io/github/stars/fabacab/awesome-pentest?style=flat)](https://github.com/fabacab/awesome-pentest/stargazers).
 
 - [CertSpotter](https://github.com/SSLMate/certspotter) [![GitHub stars](https://img.shields.io/github/stars/SSLMate/certspotter?style=flat)](https://github.com/SSLMate/certspotter/stargazers) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
 - [Gophish](https://getgophish.com/) - Powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing.
@@ -373,7 +375,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) [!
 
 ### Service and performance monitoring
 
-See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
+See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) [![GitHub stars](https://img.shields.io/github/stars/n1trux/awesome-sysadmin?style=flat)](https://github.com/n1trux/awesome-sysadmin/stargazers).
 
 - [Icinga](https://icinga.com/) - Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.
 - [Locust](https://locust.io/) - Open source load testing tool in which you can define user behaviour with Python code and swarm your system with millions of simultaneous users.
@@ -468,7 +470,7 @@ See also [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS
 
 ## Windows-based defenses
 
-See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) and [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) [![GitHub stars](https://img.shields.io/github/stars/PaulSec/awesome-windows-domain-hardening?style=flat)](https://github.com/PaulSec/awesome-windows-domain-hardening/stargazers).
+See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) [![GitHub stars](https://img.shields.io/github/stars/Awesome-Windows/Awesome?style=flat)](https://github.com/Awesome-Windows/Awesome/stargazers) and [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) [![GitHub stars](https://img.shields.io/github/stars/PaulSec/awesome-windows-domain-hardening?style=flat)](https://github.com/PaulSec/awesome-windows-domain-hardening/stargazers).
 
 - [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) [![GitHub stars](https://img.shields.io/github/stars/Apr4h/CobaltStrikeScan?style=flat)](https://github.com/Apr4h/CobaltStrikeScan/stargazers) - Scan files or process memory for Cobalt Strike beacons and parse their configuration.
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) [![GitHub stars](https://img.shields.io/github/stars/securitywithoutborders/hardentools?style=flat)](https://github.com/securitywithoutborders/hardentools/stargazers) - Utility that disables a number of risky Windows features.

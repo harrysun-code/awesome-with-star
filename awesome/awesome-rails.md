@@ -1,5 +1,7 @@
 # Rails
 
+> 来源：[gramantin/awesome-rails](https://github.com/gramantin/awesome-rails)
+
 [![GitHub stars](https://img.shields.io/github/stars/gramantin/awesome-rails?style=flat)](https://github.com/gramantin/awesome-rails/stargazers)
 
 # Awesome Rails
@@ -103,7 +105,7 @@
 - [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
 - [rails jobs on RubyJobBoard](https://www.rubyjobboard.com)
 
-> Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
+> Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) [![GitHub stars](https://img.shields.io/github/stars/lukasz-madon/awesome-remote-job?style=flat)](https://github.com/lukasz-madon/awesome-remote-job/stargazers)
 
 [Back to top][link_toc]
 
@@ -502,6 +504,7 @@
 - [sprockets](https://github.com/rails/sprockets) [![GitHub stars](https://img.shields.io/github/stars/rails/sprockets?style=flat)](https://github.com/rails/sprockets/stargazers) - A gem to compile & serve web assets. [:red_circle:](https://rubygems.org/gems/sprockets)
 - [stimulus-rails](https://github.com/hotwired/stimulus-rails) [![GitHub stars](https://img.shields.io/github/stars/hotwired/stimulus-rails?style=flat)](https://github.com/hotwired/stimulus-rails/stargazers) - A gem to integrate Stimulus.js in Rails apps. [:red_circle:](https://rubygems.org/gems/stimulus-rails)
 - [subflag-rails](https://github.com/subflag/sdk/tree/main/packages/subflag-rails) [![GitHub stars](https://img.shields.io/github/stars/subflag/sdk/tree/main/packages/subflag-rails?style=flat)](https://github.com/subflag/sdk/tree/main/packages/subflag-rails/stargazers) - A gem for feature flags and dynamic config that uses ActiveRecord. [🔴](https://rubygems.org/gems/subflag-rails)
+- [tidewave](https://github.com/tidewave-ai/tidewave_rails) [![GitHub stars](https://img.shields.io/github/stars/tidewave-ai/tidewave_rails?style=flat)](https://github.com/tidewave-ai/tidewave_rails/stargazers) - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red_circle:](https://rubygems.org/gems/tidewave)
 - [tinymce-rails](https://github.com/spohlenz/tinymce-rails) [![GitHub stars](https://img.shields.io/github/stars/spohlenz/tinymce-rails?style=flat)](https://github.com/spohlenz/tinymce-rails/stargazers) - A gem to integrate Tinymce in Rails apps. [:red_circle:](https://rubygems.org/gems/tinymce-rails)
 - [transloadit-rails](https://github.com/transloadit/rails-sdk) [![GitHub stars](https://img.shields.io/github/stars/transloadit/rails-sdk?style=flat)](https://github.com/transloadit/rails-sdk/stargazers) - A gem to integrate Transloadit's file uploading and encoding service. [:red_circle:](https://rubygems.org/gems/transloadit-rails)
 - [trove](https://github.com/ankane/trove) [![GitHub stars](https://img.shields.io/github/stars/ankane/trove?style=flat)](https://github.com/ankane/trove/stargazers) - A gem to handle machine learning models deployment. [:red_circle:](https://rubygems.org/gems/trove)

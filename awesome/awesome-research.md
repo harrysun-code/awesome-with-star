@@ -1,5 +1,7 @@
 # Research Tools
 
+> 来源：[emptymalei/awesome-research](https://github.com/emptymalei/awesome-research)
+
 [![GitHub stars](https://img.shields.io/github/stars/emptymalei/awesome-research?style=flat)](https://github.com/emptymalei/awesome-research/stargazers)
 
 # Awesome Research Tools
@@ -481,7 +483,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 > Use [colors](https://github.com/mrmrs/colors) [![GitHub stars](https://img.shields.io/github/stars/mrmrs/colors?style=flat)](https://github.com/mrmrs/colors/stargazers) to make your HTML feels better.
 
-* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki) [![GitHub stars](https://img.shields.io/github/stars/impress/impress.js/wiki?style=flat)](https://github.com/impress/impress.js/wiki/stargazers).
+* [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 * [Reveal.js](https://github.com/hakimel/reveal.js) [![GitHub stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=flat)](https://github.com/hakimel/reveal.js/stargazers)
 * [Beckpoke.js](https://github.com/bespokejs/bespoke) [![GitHub stars](https://img.shields.io/github/stars/bespokejs/bespoke?style=flat)](https://github.com/bespokejs/bespoke/stargazers)
@@ -628,7 +630,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 ### Tips for Researchers
 
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
-* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) [![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-osint?style=flat)](https://github.com/jivoi/awesome-osint/stargazers) for search engines to search for papers.
+* Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) [![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-osint?style=flat)](https://github.com/jivoi/awesome-osint/stargazers) of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) [![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-osint?style=flat)](https://github.com/jivoi/awesome-osint/stargazers) for search engines to search for papers.
 
 ## Pacifier
 

@@ -1,5 +1,7 @@
 # Boilerplate Projects
 
+> 来源：[melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
+
 [![GitHub stars](https://img.shields.io/github/stars/melvin0008/awesome-projects-boilerplates?style=flat)](https://github.com/melvin0008/awesome-projects-boilerplates/stargazers)
 
 # Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -83,7 +85,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Coffee React Quickstart ](https://github.com/KyleAMathews/coffee-react-quickstart) [![GitHub stars](https://img.shields.io/github/stars/KyleAMathews/coffee-react-quickstart?style=flat)](https://github.com/KyleAMathews/coffee-react-quickstart/stargazers) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
     - [Flask React Boilerplate](https://github.com/alexkuz/flask-react-boilerplate) [![GitHub stars](https://img.shields.io/github/stars/alexkuz/flask-react-boilerplate?style=flat)](https://github.com/alexkuz/flask-react-boilerplate/stargazers) Flask and react Boilerplate
     - [Boilerplate Webpack React](https://github.com/tcoopman/boilerplate-webpack-react) [![GitHub stars](https://img.shields.io/github/stars/tcoopman/boilerplate-webpack-react?style=flat)](https://github.com/tcoopman/boilerplate-webpack-react/stargazers) Boilerplate project for Reactjs with webpack, gulp and stylus
-    - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
+    - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) [![GitHub stars](https://img.shields.io/github/stars/gaearon/react-hot-loader/tree/master/docs?style=flat)](https://github.com/gaearon/react-hot-loader/tree/master/docs/stargazers) React hot loader starter kits
     - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) [![GitHub stars](https://img.shields.io/github/stars/flexdinesh/react-redux-boilerplate?style=flat)](https://github.com/flexdinesh/react-redux-boilerplate/stargazers) A minimal React-Redux boilerplate with all the best practices
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) [![GitHub stars](https://img.shields.io/github/stars/erikras/react-redux-universal-hot-example?style=flat)](https://github.com/erikras/react-redux-universal-hot-example/stargazers) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) [![GitHub stars](https://img.shields.io/github/stars/hex22a/post3ree-boilerplate?style=flat)](https://github.com/hex22a/post3ree-boilerplate/stargazers) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
@@ -119,7 +121,7 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for Python*
 - [BeautyNet](https://github.com/cms-flash/beauty-net) [![GitHub stars](https://img.shields.io/github/stars/cms-flash/beauty-net?style=flat)](https://github.com/cms-flash/beauty-net/stargazers) A research project template for PyTorch.
 - [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) [![GitHub stars](https://img.shields.io/github/stars/DrkSephy/django-hackathon-starter?style=flat)](https://github.com/DrkSephy/django-hackathon-starter/stargazers) A boilerplate for Django web applications, providing various social logins and several popular API examples.
-- [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
+- [CookieCutter](https://github.com/audreyr/cookiecutter#python) [![GitHub stars](https://img.shields.io/github/stars/audreyr/cookiecutter?style=flat)](https://github.com/audreyr/cookiecutter/stargazers) List of various python templates by Audrey.
 - [bootstrapy](https://github.com/kirang89/bootstrapy) [![GitHub stars](https://img.shields.io/github/stars/kirang89/bootstrapy?style=flat)](https://github.com/kirang89/bootstrapy/stargazers) A bootstrap Python application, so that you can focus on writing code.
 - [Fbone](https://github.com/imwilsonxu/fbone) [![GitHub stars](https://img.shields.io/github/stars/imwilsonxu/fbone?style=flat)](https://github.com/imwilsonxu/fbone/stargazers) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [hasura/hello-python-flask](https://hasura.io/hub/project/hasura/hello-python-flask) A boilerplate Flask application which can be deployed in 3 mins, with ready-to-use database, authentication and file APIs.

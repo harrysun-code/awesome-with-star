@@ -1,5 +1,7 @@
 # Stacks
 
+> 来源：[friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain)
+
 [![GitHub stars](https://img.shields.io/github/stars/friedger/awesome-stacks-chain?style=flat)](https://github.com/friedger/awesome-stacks-chain/stargazers)
 
 # Awesome Stacks[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # Amazon Web Services
 
+> 来源：[donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)
+
 [![GitHub stars](https://img.shields.io/github/stars/donnemartin/awesome-aws?style=flat)](https://github.com/donnemartin/awesome-aws/stargazers)
 
 <br/>
@@ -22,7 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 * Repo with 1000+ Stars: :fire::fire::fire::fire:
 * Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
 
-Repos not on `The Fiery Meter of AWSome` can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).
+Repos not on `The Fiery Meter of AWSome` can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) [![GitHub stars](https://img.shields.io/github/stars/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md?style=flat)](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md/stargazers).
 
 ### `awesome-aws` Python Module
 
@@ -167,15 +169,15 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 ### Clojure SDK
 
 * [Repo :fire::fire::fire:](https://github.com/mcohen01/amazonica) [![GitHub stars](https://img.shields.io/github/stars/mcohen01/amazonica?style=flat)](https://github.com/mcohen01/amazonica/stargazers)
-* [Install](https://github.com/mcohen01/amazonica#installation)
-* [Docs](https://github.com/mcohen01/amazonica#documentation)
+* [Install](https://github.com/mcohen01/amazonica#installation) [![GitHub stars](https://img.shields.io/github/stars/mcohen01/amazonica?style=flat)](https://github.com/mcohen01/amazonica/stargazers)
+* [Docs](https://github.com/mcohen01/amazonica#documentation) [![GitHub stars](https://img.shields.io/github/stars/mcohen01/amazonica?style=flat)](https://github.com/mcohen01/amazonica/stargazers)
 
 *The Clojure SDK is a community project with limited docs and/or samples.*)
 
 ### Go SDK
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-go) [![GitHub stars](https://img.shields.io/github/stars/aws/aws-sdk-go?style=flat)](https://github.com/aws/aws-sdk-go/stargazers)
-* [Install](https://github.com/aws/aws-sdk-go/wiki) [![GitHub stars](https://img.shields.io/github/stars/aws/aws-sdk-go/wiki?style=flat)](https://github.com/aws/aws-sdk-go/wiki/stargazers)
+* [Install](https://github.com/aws/aws-sdk-go/wiki)
 * [Docs](http://docs.aws.amazon.com/sdk-for-go/api/)
 * [Learn More](https://aws.amazon.com/sdk-for-go/)
 
@@ -239,7 +241,7 @@ Related Repos:
 
 * [Repo :fire:](https://github.com/pplu/aws-sdk-perl) [![GitHub stars](https://img.shields.io/github/stars/pplu/aws-sdk-perl?style=flat)](https://github.com/pplu/aws-sdk-perl/stargazers)
 * [Repo with Samples :fire:](https://github.com/pplu/aws-sdk-perl/tree/master/examples) [![GitHub stars](https://img.shields.io/github/stars/pplu/aws-sdk-perl/tree/master/examples?style=flat)](https://github.com/pplu/aws-sdk-perl/tree/master/examples/stargazers)
-* [Install](https://github.com/pplu/aws-sdk-perl#installation)
+* [Install](https://github.com/pplu/aws-sdk-perl#installation) [![GitHub stars](https://img.shields.io/github/stars/pplu/aws-sdk-perl?style=flat)](https://github.com/pplu/aws-sdk-perl/stargazers)
 * [Docs](https://metacpan.org/pod/Paws)
 * [Learn More](https://metacpan.org/pod/Paws)
 
@@ -289,7 +291,7 @@ Related Repos:
 ### Rust SDK
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/rusoto/rusoto) [![GitHub stars](https://img.shields.io/github/stars/rusoto/rusoto?style=flat)](https://github.com/rusoto/rusoto/stargazers)
-* [Install](https://github.com/rusoto/rusoto#installation)
+* [Install](https://github.com/rusoto/rusoto#installation) [![GitHub stars](https://img.shields.io/github/stars/rusoto/rusoto?style=flat)](https://github.com/rusoto/rusoto/stargazers)
 * [Docs](https://docs.rs/rusoto_core/)
 
 *The Rust SDK is a community project with limited docs and/or samples.*
@@ -380,7 +382,7 @@ Related Repos:
 
 ## Open Source Repos
 
-*AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) for more details.*
+*AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) [![GitHub stars](https://img.shields.io/github/stars/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md?style=flat)](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md/stargazers) for more details.*
 
 <br/>
 <p align="center">

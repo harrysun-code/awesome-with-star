@@ -1,5 +1,7 @@
 # FOSS Production Apps
 
+> 来源：[DataDaoDe/awesome-foss-apps](https://github.com/DataDaoDe/awesome-foss-apps)
+
 [![GitHub stars](https://img.shields.io/github/stars/DataDaoDe/awesome-foss-apps?style=flat)](https://github.com/DataDaoDe/awesome-foss-apps/stargazers)
 
 # Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

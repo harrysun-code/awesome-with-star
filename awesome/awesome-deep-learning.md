@@ -1,5 +1,7 @@
 # Deep Learning
 
+> 来源：[ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
 [![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=flat)](https://github.com/ChristosChristofidis/awesome-deep-learning/stargazers)
 
 ﻿# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -680,7 +682,7 @@
 
 -----
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls) [![GitHub stars](https://img.shields.io/github/stars/ashara12/awesome-deeplearning/pulls?style=flat)](https://github.com/ashara12/awesome-deeplearning/pulls/stargazers).
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls).
 
 -----
 ## License

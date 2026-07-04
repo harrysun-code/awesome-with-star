@@ -1,5 +1,7 @@
 # PocketBase
 
+> 来源：[benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase)
+
 [![GitHub stars](https://img.shields.io/github/stars/benallfree/awesome-pocketbase?style=flat)](https://github.com/benallfree/awesome-pocketbase/stargazers)
 
 # Awesome PocketBase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

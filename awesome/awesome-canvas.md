@@ -1,5 +1,7 @@
 # Canvas
 
+> 来源：[raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas)
+
 [![GitHub stars](https://img.shields.io/github/stars/raphamorim/awesome-canvas?style=flat)](https://github.com/raphamorim/awesome-canvas/stargazers)
 
 # Awesome Canvas

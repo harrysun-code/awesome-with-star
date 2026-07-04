@@ -1,5 +1,7 @@
 # CLI Workshoppers
 
+> 来源：[therebelrobot/awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper)
+
 [![GitHub stars](https://img.shields.io/github/stars/therebelrobot/awesome-workshopper?style=flat)](https://github.com/therebelrobot/awesome-workshopper/stargazers)
 
 # awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

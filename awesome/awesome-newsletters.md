@@ -1,5 +1,7 @@
 # Email Newsletters
 
+> 来源：[zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters)
+
 [![GitHub stars](https://img.shields.io/github/stars/zudochkin/awesome-newsletters?style=flat)](https://github.com/zudochkin/awesome-newsletters/stargazers)
 
 A curated list of newsletters, awesome newsletters. [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)

@@ -1,5 +1,7 @@
 # Educational Games
 
+> 来源：[yrgo/awesome-educational-games](https://github.com/yrgo/awesome-educational-games)
+
 [![GitHub stars](https://img.shields.io/github/stars/yrgo/awesome-educational-games?style=flat)](https://github.com/yrgo/awesome-educational-games/stargazers)
 
 # Awesome Educational Games

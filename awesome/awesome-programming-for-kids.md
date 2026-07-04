@@ -1,5 +1,7 @@
 # Programming for Kids
 
+> 来源：[HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids)
+
 [![GitHub stars](https://img.shields.io/github/stars/HollyAdele/awesome-programming-for-kids?style=flat)](https://github.com/HollyAdele/awesome-programming-for-kids/stargazers)
 
 # Awesome Programming for Kids [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # WezTerm
 
+> 来源：[michaelbrusegard/awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm)
+
 [![GitHub stars](https://img.shields.io/github/stars/michaelbrusegard/awesome-wezterm?style=flat)](https://github.com/michaelbrusegard/awesome-wezterm/stargazers)
 
 <!-- lint ignore awesome-git-repo-age -->

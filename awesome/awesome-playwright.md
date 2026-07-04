@@ -1,5 +1,7 @@
 # Playwright
 
+> 来源：[mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright)
+
 [![GitHub stars](https://img.shields.io/github/stars/mxschmitt/awesome-playwright?style=flat)](https://github.com/mxschmitt/awesome-playwright/stargazers)
 
 # Awesome Playwright [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -27,7 +29,7 @@
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) [![GitHub stars](https://img.shields.io/github/stars/artilleryio/artillery/tree/main/packages/artillery-engine-playwright?style=flat)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright/stargazers) - Load testing with Playwright.
 - [@axe-core/Playwright](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md) [![GitHub stars](https://img.shields.io/github/stars/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md?style=flat)](https://github.com/dequelabs/axe-core-npm/blob/develop/packages/playwright/README.md/stargazers) - Official Axe integration with Playwright.
 - [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) [![GitHub stars](https://img.shields.io/github/stars/abhinaba-ghosh/axe-playwright?style=flat)](https://github.com/abhinaba-ghosh/axe-playwright/stargazers) - Unofficial integration of Axe with Playwright.
-- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Prebuilt Chromium binaries for Playwright on serverless platforms.
+- [Chromium for Serverless platforms](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) [![GitHub stars](https://img.shields.io/github/stars/Sparticuz/chromium?tab=readme-ov-file?style=flat)](https://github.com/Sparticuz/chromium?tab=readme-ov-file/stargazers) - Prebuilt Chromium binaries for Playwright on serverless platforms.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) [![GitHub stars](https://img.shields.io/github/stars/Codeception/CodeceptJS?style=flat)](https://github.com/Codeception/CodeceptJS/stargazers) - Supercharged End 2 End Testing Framework for Node.js.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) [![GitHub stars](https://img.shields.io/github/stars/Tallyb/cucumber-playwright?style=flat)](https://github.com/Tallyb/cucumber-playwright/stargazers) - A starter repo for writing E2E tests based on Cucumber with Playwright using TypeScript.
 - [@guidepup/Playwright](https://github.com/guidepup/guidepup-playwright) [![GitHub stars](https://img.shields.io/github/stars/guidepup/guidepup-playwright?style=flat)](https://github.com/guidepup/guidepup-playwright/stargazers) - VoiceOver and NVDA screen reader driver integration for Playwright.

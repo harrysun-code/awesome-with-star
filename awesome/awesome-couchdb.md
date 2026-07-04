@@ -1,5 +1,7 @@
 # CouchDB
 
+> 来源：[quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb)
+
 [![GitHub stars](https://img.shields.io/github/stars/quangv/awesome-couchdb?style=flat)](https://github.com/quangv/awesome-couchdb/stargazers)
 
 <p>

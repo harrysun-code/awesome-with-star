@@ -1,5 +1,7 @@
 # Translations
 
+> 来源：[mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations)
+
 [![GitHub stars](https://img.shields.io/github/stars/mbiesiad/awesome-translations?style=flat)](https://github.com/mbiesiad/awesome-translations/stargazers)
 
 # Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

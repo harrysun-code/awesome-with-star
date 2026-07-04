@@ -1,5 +1,7 @@
 # Substrate
 
+> 来源：[substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate)
+
 [![GitHub stars](https://img.shields.io/github/stars/substrate-developer-hub/awesome-substrate?style=flat)](https://github.com/substrate-developer-hub/awesome-substrate/stargazers)
 
 # Awesome Substrate [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -244,5 +246,5 @@ maintained by [Parity Technologies](https://www.parity.io/). Source code availab
 - [Scales](https://github.com/virto-network/scales) [![GitHub stars](https://img.shields.io/github/stars/virto-network/scales?style=flat)](https://github.com/virto-network/scales/stargazers) - Serializing SCALE using type information from a type registry.
 - JavaScript / TypeScript implementations:
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) [![GitHub stars](https://img.shields.io/github/stars/polkadot-js/api/tree/master/packages/types?style=flat)](https://github.com/polkadot-js/api/tree/master/packages/types/stargazers) - Maintained by Polkadot-JS.
-  - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
+  - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) [![GitHub stars](https://img.shields.io/github/stars/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts?style=flat)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts/stargazers) - Maintained by Josep M Sobrepere.
   - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) [![GitHub stars](https://img.shields.io/github/stars/soramitsu/scale-codec-js-library?style=flat)](https://github.com/soramitsu/scale-codec-js-library/stargazers) - Maintained by Soramitsu.

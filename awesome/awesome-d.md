@@ -1,12 +1,14 @@
 # D
 
+> 来源：[dlang-community/awesome-d](https://github.com/dlang-community/awesome-d)
+
 [![GitHub stars](https://img.shields.io/github/stars/dlang-community/awesome-d?style=flat)](https://github.com/dlang-community/awesome-d/stargazers)
 
 # Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) [![GitHub stars](https://img.shields.io/github/stars/vinta/awesome-python?style=flat)](https://github.com/vinta/awesome-python/stargazers).
 
-Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) [![GitHub stars](https://img.shields.io/github/stars/dlang-community/awesome-d/issues?style=flat)](https://github.com/dlang-community/awesome-d/issues/stargazers) or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) [![GitHub stars](https://img.shields.io/github/stars/dlang-community/awesome-d/edit/master/README.md?style=flat)](https://github.com/dlang-community/awesome-d/edit/master/README.md/stargazers).
+Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) [![GitHub stars](https://img.shields.io/github/stars/dlang-community/awesome-d/edit/master/README.md?style=flat)](https://github.com/dlang-community/awesome-d/edit/master/README.md/stargazers).
 
 ## Contents
 

@@ -1,5 +1,7 @@
 # Silverstripe CMS
 
+> 来源：[wernerkrauss/awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms)
+
 [![GitHub stars](https://img.shields.io/github/stars/wernerkrauss/awesome-silverstripe-cms?style=flat)](https://github.com/wernerkrauss/awesome-silverstripe-cms/stargazers)
 
 # Awesome Silverstripe CMS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # Data Science
 
+> 来源：[academic/awesome-datascience](https://github.com/academic/awesome-datascience)
+
 [![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=flat)](https://github.com/academic/awesome-datascience/stargazers)
 
 <div align="center"><img src="./assets/head.jpg"></div>
@@ -1250,7 +1252,7 @@ Some data mining competition platforms
 - [Awesome Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) [![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/awesome-monte-carlo-tree-search-papers?style=flat)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers/stargazers)
 - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers) [![GitHub stars](https://img.shields.io/github/stars/mhagiwara/100-nlp-papers?style=flat)](https://github.com/mhagiwara/100-nlp-papers/stargazers)
-- [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme)
+- [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets?style=flat)](https://github.com/leomaurodesenv/game-datasets/stargazers)
 - [ML/AI Interview Prep](https://github.com/aasimansari1/ml-interview-prep) [![GitHub stars](https://img.shields.io/github/stars/aasimansari1/ml-interview-prep?style=flat)](https://github.com/aasimansari1/ml-interview-prep/stargazers) - 500+ ML/AI interview Q&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
 - [Data Science Interviews Questions](https://github.com/alexeygrigorev/data-science-interviews) [![GitHub stars](https://img.shields.io/github/stars/alexeygrigorev/data-science-interviews?style=flat)](https://github.com/alexeygrigorev/data-science-interviews/stargazers)
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning) [![GitHub stars](https://img.shields.io/github/stars/AstraZeneca/awesome-explainable-graph-reasoning?style=flat)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning/stargazers)

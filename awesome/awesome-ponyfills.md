@@ -1,5 +1,7 @@
 # Ponyfills
 
+> 来源：[Richienb/awesome-ponyfills](https://github.com/Richienb/awesome-ponyfills)
+
 [![GitHub stars](https://img.shields.io/github/stars/Richienb/awesome-ponyfills?style=flat)](https://github.com/Richienb/awesome-ponyfills/stargazers)
 
 <div align="center">

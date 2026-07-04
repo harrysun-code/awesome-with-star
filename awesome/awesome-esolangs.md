@@ -1,5 +1,7 @@
 # Esolangs
 
+> 来源：[angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs)
+
 [![GitHub stars](https://img.shields.io/github/stars/angrykoala/awesome-esolangs?style=flat)](https://github.com/angrykoala/awesome-esolangs/stargazers)
 
 # Awesome Esolangs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

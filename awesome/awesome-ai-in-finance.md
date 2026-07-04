@@ -1,5 +1,7 @@
 # AI in Finance
 
+> 来源：[georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
+
 [![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=flat)](https://github.com/georgezouq/awesome-ai-in-finance/stargazers)
 
 # Awesome AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)

@@ -1,5 +1,7 @@
 # Discord Communities
 
+> 来源：[mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities)
+
 [![GitHub stars](https://img.shields.io/github/stars/mhxion/awesome-discord-communities?style=flat)](https://github.com/mhxion/awesome-discord-communities/stargazers)
 
 <img align="right" height="207x" width="205px" alt="Banner" src="images/awesome_programming_discord.webp">

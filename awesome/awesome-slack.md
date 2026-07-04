@@ -1,5 +1,7 @@
 # Communities
 
+> 来源：[filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack)
+
 [![GitHub stars](https://img.shields.io/github/stars/filipelinhares/awesome-slack?style=flat)](https://github.com/filipelinhares/awesome-slack/stargazers)
 
 # Awesome Slack Communities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # Ember
 
+> 来源：[ember-community-russia/awesome-ember](https://github.com/ember-community-russia/awesome-ember)
+
 [![GitHub stars](https://img.shields.io/github/stars/ember-community-russia/awesome-ember?style=flat)](https://github.com/ember-community-russia/awesome-ember/stargazers)
 
 # Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -1088,7 +1090,7 @@ to build any web application. It is focused on making you, the developer, as pro
 ### Community
 
 - [Forum](http://discuss.emberjs.com/)
-- [GitHub issues](https://github.com/emberjs/ember.js/issues) [![GitHub stars](https://img.shields.io/github/stars/emberjs/ember.js/issues?style=flat)](https://github.com/emberjs/ember.js/issues/stargazers)
+- [GitHub issues](https://github.com/emberjs/ember.js/issues)
 - [Reddit](https://www.reddit.com/r/emberjs/)
 - [Slack](https://embercommunity.slack.com)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/ember.js)

@@ -1,5 +1,7 @@
 # Detection Engineering
 
+> 来源：[infosecB/awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering)
+
 [![GitHub stars](https://img.shields.io/github/stars/infosecB/awesome-detection-engineering?style=flat)](https://github.com/infosecB/awesome-detection-engineering/stargazers)
 
 # Awesome Detection Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

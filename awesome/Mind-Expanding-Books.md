@@ -1,5 +1,7 @@
 # Mind Expanding Books
 
+> 来源：[hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)
+
 [![GitHub stars](https://img.shields.io/github/stars/hackerkid/Mind-Expanding-Books?style=flat)](https://github.com/hackerkid/Mind-Expanding-Books/stargazers)
 
 # Mind Expanding Books

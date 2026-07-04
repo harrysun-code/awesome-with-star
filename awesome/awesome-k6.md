@@ -1,5 +1,7 @@
 # k6
 
+> 来源：[grafana/awesome-k6](https://github.com/grafana/awesome-k6)
+
 [![GitHub stars](https://img.shields.io/github/stars/grafana/awesome-k6?style=flat)](https://github.com/grafana/awesome-k6/stargazers)
 
 <div align="center">

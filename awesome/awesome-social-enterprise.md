@@ -1,5 +1,7 @@
 # Social Enterprise
 
+> 来源：[RayBB/awesome-social-enterprise](https://github.com/RayBB/awesome-social-enterprise)
+
 [![GitHub stars](https://img.shields.io/github/stars/RayBB/awesome-social-enterprise?style=flat)](https://github.com/RayBB/awesome-social-enterprise/stargazers)
 
 # Awesome Social Enterprise [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)

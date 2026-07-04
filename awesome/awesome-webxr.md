@@ -1,5 +1,7 @@
 # WebXR
 
+> 来源：[msub2/awesome-webxr](https://github.com/msub2/awesome-webxr)
+
 [![GitHub stars](https://img.shields.io/github/stars/msub2/awesome-webxr?style=flat)](https://github.com/msub2/awesome-webxr/stargazers)
 
 # Awesome WebXR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

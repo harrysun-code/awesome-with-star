@@ -1,5 +1,7 @@
 # Naming
 
+> 来源：[gruhn/awesome-naming](https://github.com/gruhn/awesome-naming)
+
 [![GitHub stars](https://img.shields.io/github/stars/gruhn/awesome-naming?style=flat)](https://github.com/gruhn/awesome-naming/stargazers)
 
 # Awesome Naming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

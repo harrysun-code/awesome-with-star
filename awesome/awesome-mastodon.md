@@ -1,5 +1,7 @@
 # Mastodon
 
+> 来源：[hyperupcall/awesome-mastodon](https://github.com/hyperupcall/awesome-mastodon)
+
 [![GitHub stars](https://img.shields.io/github/stars/hyperupcall/awesome-mastodon?style=flat)](https://github.com/hyperupcall/awesome-mastodon/stargazers)
 
 # Awesome Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit from toc -->

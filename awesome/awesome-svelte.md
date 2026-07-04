@@ -1,5 +1,7 @@
 # Svelte
 
+> 来源：[TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte)
+
 [![GitHub stars](https://img.shields.io/github/stars/TheComputerM/awesome-svelte?style=flat)](https://github.com/TheComputerM/awesome-svelte/stargazers)
 
 <p align="center">
@@ -267,8 +269,8 @@ _Display non-editable events in a calendar._
 
 _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
-- [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
-- [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
+- [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite/tree/main/packages/create-vite?style=flat)](https://github.com/vitejs/vite/tree/main/packages/create-vite/stargazers) - Generates scaffold for a vite + svelte app.
+- [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) [![GitHub stars](https://img.shields.io/github/stars/sveltejs/kit/tree/master/packages/create-svelte?style=flat)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte/stargazers) - A CLI for creating a new SvelteKit project.
 - [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) [![GitHub stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter?style=flat)](https://github.com/CriticalMoments/CMSaasStarter/stargazers) - A open source, fast, and free to host Svelte SaaS template.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) [![GitHub stars](https://img.shields.io/github/stars/tretapey/svelte-pwa?style=flat)](https://github.com/tretapey/svelte-pwa/stargazers) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) [![GitHub stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template?style=flat)](https://github.com/bavragor/vite-svelte-docker-template/stargazers) - Template for Svelte + Docker + Vite + Vitest.

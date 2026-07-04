@@ -1,5 +1,7 @@
 # Shell
 
+> 来源：[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+
 [![GitHub stars](https://img.shields.io/github/stars/alebcay/awesome-shell?style=flat)](https://github.com/alebcay/awesome-shell/stargazers)
 
 ```

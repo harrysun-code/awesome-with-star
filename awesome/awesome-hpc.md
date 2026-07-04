@@ -1,5 +1,7 @@
 # HPC
 
+> 来源：[dstdev/awesome-hpc](https://github.com/dstdev/awesome-hpc)
+
 [![GitHub stars](https://img.shields.io/github/stars/dstdev/awesome-hpc?style=flat)](https://github.com/dstdev/awesome-hpc/stargazers)
 
 <!--lint ignore-->

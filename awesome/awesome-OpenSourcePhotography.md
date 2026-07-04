@@ -1,5 +1,7 @@
 # Open Source Photography
 
+> 来源：[ibaaj/awesome-OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
+
 [![GitHub stars](https://img.shields.io/github/stars/ibaaj/awesome-OpenSourcePhotography?style=flat)](https://github.com/ibaaj/awesome-OpenSourcePhotography/stargazers)
 
 # Awesome-OpenSourcePhotography

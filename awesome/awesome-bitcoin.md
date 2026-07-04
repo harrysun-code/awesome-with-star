@@ -1,5 +1,7 @@
 # Bitcoin
 
+> 来源：[igorbarinov/awesome-bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
+
 [![GitHub stars](https://img.shields.io/github/stars/igorbarinov/awesome-bitcoin?style=flat)](https://github.com/igorbarinov/awesome-bitcoin/stargazers)
 
 Awesome Bitcoin

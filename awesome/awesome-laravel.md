@@ -1,5 +1,7 @@
 # Laravel
 
+> 来源：[chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
+
 [![GitHub stars](https://img.shields.io/github/stars/chiraggude/awesome-laravel?style=flat)](https://github.com/chiraggude/awesome-laravel/stargazers)
 
 # Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
@@ -72,7 +74,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) [![GitHu
 * [Ignition](https://github.com/facade/ignition) [![GitHub stars](https://img.shields.io/github/stars/facade/ignition?style=flat)](https://github.com/facade/ignition/stargazers) - A beautiful error page for Laravel apps
 * [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) [![GitHub stars](https://img.shields.io/github/stars/rap2hpoutre/laravel-log-viewer?style=flat)](https://github.com/rap2hpoutre/laravel-log-viewer/stargazers) - Log viewer
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) [![GitHub stars](https://img.shields.io/github/stars/ARCANEDEV/LogViewer?style=flat)](https://github.com/ARCANEDEV/LogViewer/stargazers) - Provides a log viewer
-* [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - Record exceptions into a database and will send you a notification
+* [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) [![GitHub stars](https://img.shields.io/github/stars/tylercd100/lern?style=flat)](https://github.com/tylercd100/lern/stargazers) - Record exceptions into a database and will send you a notification
 * [Mail Preview](https://github.com/themsaid/laravel-mail-preview) [![GitHub stars](https://img.shields.io/github/stars/themsaid/laravel-mail-preview?style=flat)](https://github.com/themsaid/laravel-mail-preview/stargazers) - Preview sent mail in a web browser or mail client
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) [![GitHub stars](https://img.shields.io/github/stars/recca0120/laravel-tracy?style=flat)](https://github.com/recca0120/laravel-tracy/stargazers) - A Laravel Package to integrate Nette Tracy Debugger
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) [![GitHub stars](https://img.shields.io/github/stars/recca0120/laravel-terminal?style=flat)](https://github.com/recca0120/laravel-terminal/stargazers) - run artisan in a web browser

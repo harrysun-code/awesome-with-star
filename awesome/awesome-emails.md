@@ -1,5 +1,7 @@
 # Emails
 
+> 来源：[jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails)
+
 [![GitHub stars](https://img.shields.io/github/stars/jonathandion/awesome-emails?style=flat)](https://github.com/jonathandion/awesome-emails/stargazers)
 
 <h1 align="center">

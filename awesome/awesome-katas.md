@@ -1,5 +1,7 @@
 # Katas
 
+> 来源：[gamontal/awesome-katas](https://github.com/gamontal/awesome-katas)
+
 [![GitHub stars](https://img.shields.io/github/stars/gamontal/awesome-katas?style=flat)](https://github.com/gamontal/awesome-katas/stargazers)
 
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png) [![GitHub stars](https://img.shields.io/github/stars/gmontalvoriv/katas/blob/master/images/kata_guruma.png?style=flat)](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png/stargazers)
@@ -60,21 +62,21 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata 5: (Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation) [![GitHub stars](https://img.shields.io/github/stars/devdrops/Katas/tree/kata-translation?style=flat)](https://github.com/devdrops/Katas/tree/kata-translation/stargazers)
 
 ## [Gaurav Arora's TDD Katas Collection](https://github.com/garora/TDD-Katas) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
-  - [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata)
-  - [String Calculator Kata](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
-  - [The Bowling Game Kata](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
-  - [The FizzBuzz Kata](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
-  - [The OddEven Kata](https://github.com/garora/TDD-Katas#the-oddeven-kata)
-  - [The PrimeFactor Kata](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
-  - [Game of Life](https://github.com/garora/TDD-Katas#game-of-life-)
-  - [Harry Potter](https://github.com/garora/TDD-Katas#harry-potter-)
-  - [LCD Digits](https://github.com/garora/TDD-Katas#lcd-digits-)
-  - [Leap Year](https://github.com/garora/TDD-Katas#leap-year-)
-  - [Mine Fields](https://github.com/garora/TDD-Katas#mine-fields-)
-  - [Poker Hands](https://github.com/garora/TDD-Katas#poker-hands)
-  - [Recently Used List](https://github.com/garora/TDD-Katas#recently-used-list-)
-  - [Reversi](https://github.com/garora/TDD-Katas#reversi-)
-  - [Yehtzee](https://github.com/garora/TDD-Katas#yehtzee-)
+  - [String Sum Kata](https://github.com/garora/TDD-Katas#string-sum-kata) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [String Calculator Kata](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [The Bowling Game Kata](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [The FizzBuzz Kata](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [The OddEven Kata](https://github.com/garora/TDD-Katas#the-oddeven-kata) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [The PrimeFactor Kata](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Game of Life](https://github.com/garora/TDD-Katas#game-of-life-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Harry Potter](https://github.com/garora/TDD-Katas#harry-potter-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [LCD Digits](https://github.com/garora/TDD-Katas#lcd-digits-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Leap Year](https://github.com/garora/TDD-Katas#leap-year-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Mine Fields](https://github.com/garora/TDD-Katas#mine-fields-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Poker Hands](https://github.com/garora/TDD-Katas#poker-hands) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Recently Used List](https://github.com/garora/TDD-Katas#recently-used-list-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Reversi](https://github.com/garora/TDD-Katas#reversi-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
+  - [Yehtzee](https://github.com/garora/TDD-Katas#yehtzee-) [![GitHub stars](https://img.shields.io/github/stars/garora/TDD-Katas?style=flat)](https://github.com/garora/TDD-Katas/stargazers)
   - [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ## Others

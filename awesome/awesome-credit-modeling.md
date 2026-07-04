@@ -1,5 +1,7 @@
 # Credit Modeling
 
+> 来源：[mourarthur/awesome-credit-modeling](https://github.com/mourarthur/awesome-credit-modeling)
+
 [![GitHub stars](https://img.shields.io/github/stars/mourarthur/awesome-credit-modeling?style=flat)](https://github.com/mourarthur/awesome-credit-modeling/stargazers)
 
 # Awesome Credit Modeling [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)

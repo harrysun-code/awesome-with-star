@@ -1,5 +1,7 @@
 # Vapor
 
+> 来源：[vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor)
+
 [![GitHub stars](https://img.shields.io/github/stars/vapor-community/awesome-vapor?style=flat)](https://github.com/vapor-community/awesome-vapor/stargazers)
 
 # Awesome Vapor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # HTML5
 
+> 来源：[diegocard/awesome-html5](https://github.com/diegocard/awesome-html5)
+
 [![GitHub stars](https://img.shields.io/github/stars/diegocard/awesome-html5?style=flat)](https://github.com/diegocard/awesome-html5/stargazers)
 
 Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)

@@ -1,5 +1,7 @@
 # NoSQL Guides
 
+> 来源：[erictleung/awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides)
+
 [![GitHub stars](https://img.shields.io/github/stars/erictleung/awesome-nosql-guides?style=flat)](https://github.com/erictleung/awesome-nosql-guides/stargazers)
 
 # Awesome NoSQL Guides [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -11,12 +13,12 @@ A basic definition of NoSQL databases can be found on Wikipedia as:
 > "A NoSQL (originally referring to 'non SQL' or 'non relational') database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases."
 
 For actual NoSQL databases, you can go
-[here](https://github.com/sindresorhus/awesome#databases),
+[here](https://github.com/sindresorhus/awesome#databases) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat)](https://github.com/sindresorhus/awesome/stargazers),
 [here](https://hostingdata.co.uk/nosql-database/),
 [here](https://db-engines.com/en/ranking),
 [here](https://dbdb.io/),
-[here](https://github.com/igorbarinov/awesome-data-engineering#databases), or
-[here](https://github.com/kahun/awesome-sysadmin#nosql). Also, not to be confused with the relational database management system, [NoSQL](http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/nosql/Home%20Page).
+[here](https://github.com/igorbarinov/awesome-data-engineering#databases) [![GitHub stars](https://img.shields.io/github/stars/igorbarinov/awesome-data-engineering?style=flat)](https://github.com/igorbarinov/awesome-data-engineering/stargazers), or
+[here](https://github.com/kahun/awesome-sysadmin#nosql) [![GitHub stars](https://img.shields.io/github/stars/kahun/awesome-sysadmin?style=flat)](https://github.com/kahun/awesome-sysadmin/stargazers). Also, not to be confused with the relational database management system, [NoSQL](http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/nosql/Home%20Page).
 
 
 ## Contents

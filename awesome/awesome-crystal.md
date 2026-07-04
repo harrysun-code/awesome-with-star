@@ -1,5 +1,7 @@
 # Crystal
 
+> 来源：[veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal)
+
 [![GitHub stars](https://img.shields.io/github/stars/veelenga/awesome-crystal?style=flat)](https://github.com/veelenga/awesome-crystal/stargazers)
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
@@ -68,6 +70,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Template Engine](#template-engine)
   * [Testing](#testing)
   * [Third-party APIs](#third-party-apis)
+  * [TUI](#tui)
   * [Validation](#validation)
   * [Web Frameworks](#web-frameworks)
 * [Community](#community)
@@ -186,6 +189,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [envyable](https://github.com/philnash/envyable.cr) [![GitHub stars](https://img.shields.io/github/stars/philnash/envyable.cr?style=flat)](https://github.com/philnash/envyable.cr/stargazers) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) [![GitHub stars](https://img.shields.io/github/stars/luckyframework/habitat?style=flat)](https://github.com/luckyframework/habitat/stargazers) - Type safe configuration for your classes and modules
  * [totem](https://github.com/icyleaf/totem) [![GitHub stars](https://img.shields.io/github/stars/icyleaf/totem?style=flat)](https://github.com/icyleaf/totem/stargazers) - Load and parse a configuration in JSON, YAML, dotenv formats
+ * [ucl.cr](https://github.com/jbox-web/ucl.cr) [![GitHub stars](https://img.shields.io/github/stars/jbox-web/ucl.cr?style=flat)](https://github.com/jbox-web/ucl.cr/stargazers) - Bindings to [libucl](https://github.com/vstakhov/libucl) [![GitHub stars](https://img.shields.io/github/stars/vstakhov/libucl?style=flat)](https://github.com/vstakhov/libucl/stargazers), load, dump and validate UCL/JSON configuration
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) [![GitHub stars](https://img.shields.io/github/stars/Sija/base62.cr?style=flat)](https://github.com/Sija/base62.cr/stargazers) - Base62 encoder/decoder, well suited for url-shortening
@@ -284,6 +288,7 @@ described in [RFC 8032]
  * [motion.cr](https://github.com/awcrotwell/motion.cr) [![GitHub stars](https://img.shields.io/github/stars/awcrotwell/motion.cr?style=flat)](https://github.com/awcrotwell/motion.cr/stargazers) - Object oriented frontend library for Amber
  * [multi-auth](https://github.com/msa7/multi_auth) [![GitHub stars](https://img.shields.io/github/stars/msa7/multi_auth?style=flat)](https://github.com/msa7/multi_auth/stargazers) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
  * [praetorian](https://github.com/ilanusse/praetorian) [![GitHub stars](https://img.shields.io/github/stars/ilanusse/praetorian?style=flat)](https://github.com/ilanusse/praetorian/stargazers) - Minimalist authorization library inspired by Pundit
+ * [rbacr](https://github.com/systatum/rbacr) [![GitHub stars](https://img.shields.io/github/stars/systatum/rbacr?style=flat)](https://github.com/systatum/rbacr/stargazers) - Role-Based Access Control system with a clean, type-safe DSL for roles, privileges, and authorization logic
  * [Shield](https://github.com/grottopress/shield) [![GitHub stars](https://img.shields.io/github/stars/grottopress/shield?style=flat)](https://github.com/grottopress/shield/stargazers) - Comprehensive security for *Lucky* framework
  * [shrine.cr](https://github.com/jetrockets/shrine.cr) [![GitHub stars](https://img.shields.io/github/stars/jetrockets/shrine.cr?style=flat)](https://github.com/jetrockets/shrine.cr/stargazers) - File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby
  * [tourmaline](https://github.com/protoncr/tourmaline) [![GitHub stars](https://img.shields.io/github/stars/protoncr/tourmaline?style=flat)](https://github.com/protoncr/tourmaline/stargazers) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
@@ -555,6 +560,9 @@ described in [RFC 8032]
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) [![GitHub stars](https://img.shields.io/github/stars/sferik/twitter-crystal?style=flat)](https://github.com/sferik/twitter-crystal/stargazers) - A library to access the Twitter API
  * [web_finger](https://github.com/toddsundsted/web_finger) [![GitHub stars](https://img.shields.io/github/stars/toddsundsted/web_finger?style=flat)](https://github.com/toddsundsted/web_finger/stargazers) - A WebFinger (https://tools.ietf.org/html/rfc7033) client
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) [![GitHub stars](https://img.shields.io/github/stars/jaredsmithse/ynab.cr?style=flat)](https://github.com/jaredsmithse/ynab.cr/stargazers) - A library to interact with your YNAB data
+
+## TUI
+ * [termisu](https://github.com/omarluq/termisu) [![GitHub stars](https://img.shields.io/github/stars/omarluq/termisu?style=flat)](https://github.com/omarluq/termisu/stargazers) - Minimalistic API for writing text-based user interfaces
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) [![GitHub stars](https://img.shields.io/github/stars/neovintage/accord?style=flat)](https://github.com/neovintage/accord/stargazers) - Shareable validation library for Crystal Objects

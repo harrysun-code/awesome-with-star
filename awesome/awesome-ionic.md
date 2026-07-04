@@ -1,5 +1,7 @@
 # Ionic Framework
 
+> 来源：[candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic)
+
 [![GitHub stars](https://img.shields.io/github/stars/candelibas/awesome-ionic?style=flat)](https://github.com/candelibas/awesome-ionic/stargazers)
 
 # Awesome Ionic [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)

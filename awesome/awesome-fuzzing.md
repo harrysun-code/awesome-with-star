@@ -1,5 +1,7 @@
 # Fuzzing
 
+> 来源：[cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing)
+
 [![GitHub stars](https://img.shields.io/github/stars/cpuu/awesome-fuzzing?style=flat)](https://github.com/cpuu/awesome-fuzzing/stargazers)
 
 # Awesome Fuzzing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -39,7 +41,7 @@ Your favorite tool or your own paper is not listed? Fork and create a Pull Reque
 ## Papers
 To achieve a well-defined scope, I have chosen to include publications on fuzzing from 4 top major security conferences (2008–2025): (i) Network and Distributed System Security Symposium (NDSS), (ii) IEEE Symposium on Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM Conference on Computer and Communications Security (CCS).
 
-> **Note:** Papers are selected based on whether the title contains the keyword "fuzz." If a paper is related to fuzzing but does not include "fuzz" in its title, it may have been missed. In that case, please open a [Pull Request](https://github.com/cpuu/awesome-fuzzing/pulls) [![GitHub stars](https://img.shields.io/github/stars/cpuu/awesome-fuzzing/pulls?style=flat)](https://github.com/cpuu/awesome-fuzzing/pulls/stargazers) and it will be reviewed for inclusion.
+> **Note:** Papers are selected based on whether the title contains the keyword "fuzz." If a paper is related to fuzzing but does not include "fuzz" in its title, it may have been missed. In that case, please open a [Pull Request](https://github.com/cpuu/awesome-fuzzing/pulls) and it will be reviewed for inclusion.
 
 
 ### The Network and Distributed System Security Symposium (NDSS)

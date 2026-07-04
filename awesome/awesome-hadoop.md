@@ -1,5 +1,7 @@
 # Hadoop
 
+> 来源：[youngwookim/awesome-hadoop](https://github.com/youngwookim/awesome-hadoop)
+
 [![GitHub stars](https://img.shields.io/github/stars/youngwookim/awesome-hadoop?style=flat)](https://github.com/youngwookim/awesome-hadoop/stargazers)
 
 # Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -195,7 +197,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Oryx 2](https://github.com/OryxProject/oryx) [![GitHub stars](https://img.shields.io/github/stars/OryxProject/oryx?style=flat)](https://github.com/OryxProject/oryx/stargazers) - Lambda architecture on Spark, Kafka for real-time large scale machine learning
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
-* [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) [![GitHub stars](https://img.shields.io/github/stars/RevolutionAnalytics/RHadoop/wiki?style=flat)](https://github.com/RevolutionAnalytics/RHadoop/wiki/stargazers) including RHDFS, RHBase, RMR2, plyrmr
+* [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr
 * [Apache Lens](http://lens.apache.org/)
 * [Apache SINGA (incubating)](https://singa.incubator.apache.org/) - SINGA is a general distributed deep learning platform for training big deep learning models over large datasets
 * [BigDL](https://bigdl-project.github.io/) - BigDL is a distributed deep learning library for Apache Spark; with BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.

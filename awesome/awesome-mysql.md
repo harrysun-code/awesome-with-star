@@ -1,5 +1,7 @@
 # MySQL
 
+> 来源：[shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
+
 [![GitHub stars](https://img.shields.io/github/stars/shlomi-noach/awesome-mysql?style=flat)](https://github.com/shlomi-noach/awesome-mysql/stargazers)
 
 # awesome-mysql

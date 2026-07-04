@@ -1,5 +1,7 @@
 # Data Science
 
+> 来源：[krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science)
+
 [![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-data-science?style=flat)](https://github.com/krzjoa/awesome-python-data-science/stargazers)
 
 <div align="center">
@@ -242,7 +244,7 @@
 * [Shimmy](https://github.com/Farama-Foundation/Shimmy) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Shimmy?style=flat)](https://github.com/Farama-Foundation/Shimmy/stargazers) - An API conversion tool for popular external reinforcement learning environments.
 * [EnvPool](https://github.com/sail-sg/envpool) [![GitHub stars](https://img.shields.io/github/stars/sail-sg/envpool?style=flat)](https://github.com/sail-sg/envpool/stargazers) - C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.
 * [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
-* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
+* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) [![GitHub stars](https://img.shields.io/github/stars/thu-ml/tianshou/?style=flat)](https://github.com/thu-ml/tianshou//stargazers) - An elegant PyTorch deep reinforcement learning library. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Acme](https://github.com/google-deepmind/acme) [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/acme?style=flat)](https://github.com/google-deepmind/acme/stargazers) - A library of reinforcement learning components and agents.
 * [Catalyst-RL](https://github.com/catalyst-team/catalyst-rl) [![GitHub stars](https://img.shields.io/github/stars/catalyst-team/catalyst-rl?style=flat)](https://github.com/catalyst-team/catalyst-rl/stargazers) - PyTorch framework for RL research. <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [d3rlpy](https://github.com/takuseno/d3rlpy) [![GitHub stars](https://img.shields.io/github/stars/takuseno/d3rlpy?style=flat)](https://github.com/takuseno/d3rlpy/stargazers) - An offline deep reinforcement learning library.

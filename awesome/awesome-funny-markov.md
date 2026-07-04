@@ -1,5 +1,7 @@
 # Funny Markov Chains
 
+> 来源：[sublimino/awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov)
+
 [![GitHub stars](https://img.shields.io/github/stars/sublimino/awesome-funny-markov?style=flat)](https://github.com/sublimino/awesome-funny-markov/stargazers)
 
 # Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

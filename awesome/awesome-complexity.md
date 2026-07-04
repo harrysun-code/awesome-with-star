@@ -1,5 +1,7 @@
 # Complex Systems
 
+> 来源：[sellisd/awesome-complexity](https://github.com/sellisd/awesome-complexity)
+
 [![GitHub stars](https://img.shields.io/github/stars/sellisd/awesome-complexity?style=flat)](https://github.com/sellisd/awesome-complexity/stargazers)
 
 # [Awesome Complexity](https://sellisd.github.io/awesome-complexity/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

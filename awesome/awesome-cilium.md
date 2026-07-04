@@ -1,5 +1,7 @@
 # Cilium
 
+> 来源：[seifrajhi/awesome-cilium](https://github.com/seifrajhi/awesome-cilium)
+
 [![GitHub stars](https://img.shields.io/github/stars/seifrajhi/awesome-cilium?style=flat)](https://github.com/seifrajhi/awesome-cilium/stargazers)
 
 # Awesome Cilium [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -112,6 +114,6 @@ Recently [Cilium](https://docs.cilium.io/en/stable) launched a great website abo
 
 ## Contributing
 
-> Note: Cilium is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from _you_ to keep this awesome list up to date, and improve its signal-to-noise ratio in any way we can. Please feel free to leave [any feedback](https://github.com/seifrajhi/awesome-cilium/issues) [![GitHub stars](https://img.shields.io/github/stars/seifrajhi/awesome-cilium/issues?style=flat)](https://github.com/seifrajhi/awesome-cilium/issues/stargazers).
+> Note: Cilium is an exciting piece of technology, and its ecosystem is constantly evolving. We'd love help from _you_ to keep this awesome list up to date, and improve its signal-to-noise ratio in any way we can. Please feel free to leave [any feedback](https://github.com/seifrajhi/awesome-cilium/issues).
 
 _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing._

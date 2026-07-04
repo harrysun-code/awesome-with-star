@@ -1,5 +1,7 @@
 # OpenStreetMap
 
+> 来源：[osmlab/awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap)
+
 [![GitHub stars](https://img.shields.io/github/stars/osmlab/awesome-openstreetmap?style=flat)](https://github.com/osmlab/awesome-openstreetmap/stargazers)
 
 # Awesome OpenStreetMap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -312,7 +314,7 @@ The services in this category allow you to track personal and fitness goals util
 
 ## Related lists
 
-* [awesome-maplibre](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
+* [awesome-maplibre](https://github.com/maplibre/awesome-maplibre#readme) [![GitHub stars](https://img.shields.io/github/stars/maplibre/awesome-maplibre?style=flat)](https://github.com/maplibre/awesome-maplibre/stargazers) - A collection of awesome things that use or support MapLibre! <span id="related-awesome-maplibre"/>
 * [OpenStreetMap Wiki's list of OSM-based services](https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services) - A directory of applications using OSM data, organized into categories such as art, biking, history, maritime, routing, public transport, and more.
 
 ## Footnotes

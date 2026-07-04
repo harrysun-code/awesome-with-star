@@ -1,5 +1,7 @@
 # Vim
 
+> 来源：[mhinz/vim-galore](https://github.com/mhinz/vim-galore)
+
 [![GitHub stars](https://img.shields.io/github/stars/mhinz/vim-galore?style=flat)](https://github.com/mhinz/vim-galore/stargazers)
 
 <div align='center'>
@@ -1956,7 +1958,7 @@ chances are your terminal emulator doesn't support true colors or your
 colorcheme has no GUI colors defined.
 
 Many people use the terminal multiplexer
-[tmux](https://github.com/tmux/tmux/wiki) [![GitHub stars](https://img.shields.io/github/stars/tmux/tmux/wiki?style=flat)](https://github.com/tmux/tmux/wiki/stargazers) which basically sits in between the
+[tmux](https://github.com/tmux/tmux/wiki) which basically sits in between the
 terminal emulator and Vim. To make tmux _forward_ the true color escape
 sequences emitted by Vim, you have to put the following in the user's
 `.tmux.conf`:

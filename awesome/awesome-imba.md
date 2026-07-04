@@ -1,5 +1,7 @@
 # Imba
 
+> 来源：[koolamusic/awesome-imba](https://github.com/koolamusic/awesome-imba)
+
 [![GitHub stars](https://img.shields.io/github/stars/koolamusic/awesome-imba?style=flat)](https://github.com/koolamusic/awesome-imba/stargazers)
 
 <p align="center">

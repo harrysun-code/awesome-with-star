@@ -1,5 +1,7 @@
 # Dev Env
 
+> 来源：[jondot/awesome-devenv](https://github.com/jondot/awesome-devenv)
+
 [![GitHub stars](https://img.shields.io/github/stars/jondot/awesome-devenv?style=flat)](https://github.com/jondot/awesome-devenv/stargazers)
 
 # Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -55,7 +57,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools to manage databases, permissions, etc.*
 
 * [hss](https://github.com/six-ddc/hss) [![GitHub stars](https://img.shields.io/github/stars/six-ddc/hss?style=flat)](https://github.com/six-ddc/hss/stargazers) - Never type the annoying ssh commands again.
-* [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) [![GitHub stars](https://img.shields.io/github/stars/fotonauts/MongoHub-Mac/releases?style=flat)](https://github.com/fotonauts/MongoHub-Mac/releases/stargazers) - Native OSx client for mongo
+* [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) - Native OSx client for mongo
 * [Robomongo](http://robomongo.org/) - a cross platform Admin for MongoDB
 
 

@@ -1,5 +1,7 @@
 # D3
 
+> 来源：[wbkd/awesome-d3](https://github.com/wbkd/awesome-d3)
+
 [![GitHub stars](https://img.shields.io/github/stars/wbkd/awesome-d3?style=flat)](https://github.com/wbkd/awesome-d3/stargazers)
 
 # Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

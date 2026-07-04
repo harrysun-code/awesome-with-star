@@ -1,5 +1,7 @@
 # Competitive Programming
 
+> 来源：[lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+
 [![GitHub stars](https://img.shields.io/github/stars/lnishan/awesome-competitive-programming?style=flat)](https://github.com/lnishan/awesome-competitive-programming/stargazers)
 
 # Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -109,7 +111,7 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
+| ★★★ | [prakhar1989/awesome-courses#algorithms](https://github.com/prakhar1989/awesome-courses#algorithms) [![GitHub stars](https://img.shields.io/github/stars/prakhar1989/awesome-courses?style=flat)](https://github.com/prakhar1989/awesome-courses/stargazers) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 | ★★☆ | [UIUC Algorithm Course](http://jeffe.cs.illinois.edu/teaching/algorithms/) | lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics |
 

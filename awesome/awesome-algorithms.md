@@ -1,5 +1,7 @@
 # Algorithms
 
+> 来源：[tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+
 [![GitHub stars](https://img.shields.io/github/stars/tayllan/awesome-algorithms?style=flat)](https://github.com/tayllan/awesome-algorithms/stargazers)
 
 # Awesome Algorithms
@@ -95,7 +97,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Related Awesome List
 
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/) [![GitHub stars](https://img.shields.io/github/stars/mostafatouny/awesome-theoretical-computer-science/?style=flat)](https://github.com/mostafatouny/awesome-theoretical-computer-science//stargazers) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
-- [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
+- [Math](https://github.com/rossant/awesome-math#readme) [![GitHub stars](https://img.shields.io/github/stars/rossant/awesome-math?style=flat)](https://github.com/rossant/awesome-math/stargazers) - Freely available lecture notes on mathematics.
 
 ## License
 

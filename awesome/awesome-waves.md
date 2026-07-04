@@ -1,5 +1,7 @@
 # Waves
 
+> 来源：[msmolyakov/awesome-waves](https://github.com/msmolyakov/awesome-waves)
+
 [![GitHub stars](https://img.shields.io/github/stars/msmolyakov/awesome-waves?style=flat)](https://github.com/msmolyakov/awesome-waves/stargazers)
 
 <p align="center"><a href="https://wavesprotocol.org/"><img src="logo.svg" width="50%"/></a></p>

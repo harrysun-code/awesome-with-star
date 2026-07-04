@@ -1,5 +1,7 @@
 # Nix
 
+> 来源：[nix-community/awesome-nix](https://github.com/nix-community/awesome-nix)
+
 [![GitHub stars](https://img.shields.io/github/stars/nix-community/awesome-nix?style=flat)](https://github.com/nix-community/awesome-nix/stargazers)
 
 # Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -318,7 +320,8 @@ A curated list of the best resources in the Nix community.
 * [nix-topology](https://github.com/oddlama/nix-topology) [![GitHub stars](https://img.shields.io/github/stars/oddlama/nix-topology?style=flat)](https://github.com/oddlama/nix-topology/stargazers) - Generate infrastructure and network diagrams directly from your NixOS configuration.
 * [NixOS hardware](https://github.com/NixOS/nixos-hardware) [![GitHub stars](https://img.shields.io/github/stars/NixOS/nixos-hardware?style=flat)](https://github.com/NixOS/nixos-hardware/stargazers) - NixOS profiles to optimize settings for different hardware.
 * [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) [![GitHub stars](https://img.shields.io/github/stars/nix-community/NixOS-WSL?style=flat)](https://github.com/nix-community/NixOS-WSL/stargazers) - Modules for running NixOS on the Windows Subsystem for Linux.
-* [NixVim](https://github.com/nix-community/nixvim) [![GitHub stars](https://img.shields.io/github/stars/nix-community/nixvim?style=flat)](https://github.com/nix-community/nixvim/stargazers) - A Neovim distribution built with Nix modules and Nixpkgs.
+* [Nixvim](https://github.com/nix-community/nixvim) [![GitHub stars](https://img.shields.io/github/stars/nix-community/nixvim?style=flat)](https://github.com/nix-community/nixvim/stargazers) - A pre-packaged Neovim distribution built with Nix modules and Nixpkgs.
+* [nvf](https://github.com/NotAShelf/nvf) [![GitHub stars](https://img.shields.io/github/stars/NotAShelf/nvf?style=flat)](https://github.com/NotAShelf/nvf/stargazers) - A portable, modular Neovim configuration framework for Nix.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) [![GitHub stars](https://img.shields.io/github/stars/ibizaman/selfhostblocks?style=flat)](https://github.com/ibizaman/selfhostblocks/stargazers) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
 * [Stylix](https://github.com/nix-community/stylix) [![GitHub stars](https://img.shields.io/github/stars/nix-community/stylix?style=flat)](https://github.com/nix-community/stylix/stargazers) - System-wide colorscheming and typography for NixOS.
@@ -347,7 +350,7 @@ A curated list of the best resources in the Nix community.
 ## Distributions
 
 * [nixbsd](https://github.com/nixos-bsd/nixbsd) [![GitHub stars](https://img.shields.io/github/stars/nixos-bsd/nixbsd?style=flat)](https://github.com/nixos-bsd/nixbsd/stargazers) - A NixOS fork with a FreeBSD kernel.
-* [NixNG](https://github.com/nix-community/NixNG) [![GitHub stars](https://img.shields.io/github/stars/nix-community/NixNG?style=flat)](https://github.com/nix-community/NixNG/stargazers) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness.
+* [NixNG](https://github.com/nix-community/NixNG) [![GitHub stars](https://img.shields.io/github/stars/nix-community/NixNG?style=flat)](https://github.com/nix-community/NixNG/stargazers) - A GNU/Linux distribution similar to NixOS. The defining difference is a focus on containers and lightweightness.
 * [SnowflakeOS](https://snowflakeos.org/) - A NixOS-based Linux distribution focused on beginner friendliness and ease of use.
 
 ## Community

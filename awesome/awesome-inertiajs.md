@@ -1,5 +1,7 @@
 # Inertia.js
 
+> 来源：[innocenzi/awesome-inertiajs](https://github.com/innocenzi/awesome-inertiajs)
+
 [![GitHub stars](https://img.shields.io/github/stars/innocenzi/awesome-inertiajs?style=flat)](https://github.com/innocenzi/awesome-inertiajs/stargazers)
 
 <!--lint disable awesome-heading awesome-git-repo-age awesome-github double-link-->

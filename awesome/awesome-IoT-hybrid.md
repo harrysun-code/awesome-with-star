@@ -1,5 +1,7 @@
 # IoT & Hybrid Apps
 
+> 来源：[weblancaster/awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
+
 [![GitHub stars](https://img.shields.io/github/stars/weblancaster/awesome-IoT-hybrid?style=flat)](https://github.com/weblancaster/awesome-IoT-hybrid/stargazers)
 
 # Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

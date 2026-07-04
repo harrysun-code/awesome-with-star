@@ -1,5 +1,7 @@
 # Theravada
 
+> 来源：[johnjago/awesome-theravada](https://github.com/johnjago/awesome-theravada)
+
 [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-theravada?style=flat)](https://github.com/johnjago/awesome-theravada/stargazers)
 
 # Awesome Theravada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

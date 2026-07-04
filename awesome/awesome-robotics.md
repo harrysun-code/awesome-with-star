@@ -1,5 +1,7 @@
 # Robotics
 
+> 来源：[Kiloreux/awesome-robotics](https://github.com/Kiloreux/awesome-robotics)
+
 [![GitHub stars](https://img.shields.io/github/stars/Kiloreux/awesome-robotics?style=flat)](https://github.com/Kiloreux/awesome-robotics/stargazers)
 
 Awesome Robotics
@@ -50,7 +52,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 * [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
-* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) [![GitHub stars](https://img.shields.io/github/stars/correll/Introduction-to-Autonomous-Robots/releases?style=flat)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/stargazers)
+* [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 * [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:

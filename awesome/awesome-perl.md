@@ -1,5 +1,7 @@
 # Perl
 
+> 来源：[hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)
+
 [![GitHub stars](https://img.shields.io/github/stars/hachiojipm/awesome-perl?style=flat)](https://github.com/hachiojipm/awesome-perl/stargazers)
 
 # Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

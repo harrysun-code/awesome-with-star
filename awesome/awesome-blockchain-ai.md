@@ -1,5 +1,7 @@
 # Blockchain AI
 
+> 来源：[steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai)
+
 [![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=flat)](https://github.com/steven2358/awesome-blockchain-ai/stargazers)
 
 # Awesome Blockchain AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

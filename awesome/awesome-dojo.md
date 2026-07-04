@@ -1,5 +1,7 @@
 # Dojo Toolkit
 
+> 来源：[petk/awesome-dojo](https://github.com/petk/awesome-dojo)
+
 [![GitHub stars](https://img.shields.io/github/stars/petk/awesome-dojo?style=flat)](https://github.com/petk/awesome-dojo/stargazers)
 
 # Awesome Dojo

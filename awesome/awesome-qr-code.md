@@ -1,10 +1,12 @@
 # QR Code
 
+> 来源：[make-github-pseudonymous-again/awesome-qr-code](https://github.com/make-github-pseudonymous-again/awesome-qr-code)
+
 [![GitHub stars](https://img.shields.io/github/stars/make-github-pseudonymous-again/awesome-qr-code?style=flat)](https://github.com/make-github-pseudonymous-again/awesome-qr-code/stargazers)
 
 # Awesome QR Code [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="repo-link.svg" align="right" width="100">](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme)
+[<img src="repo-link.svg" align="right" width="100">](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) [![GitHub stars](https://img.shields.io/github/stars/make-github-pseudonymous-again/awesome-qr-code?style=flat)](https://github.com/make-github-pseudonymous-again/awesome-qr-code/stargazers)
 
 A curated list of awesome QR code libraries, software and resources.
 

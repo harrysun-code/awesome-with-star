@@ -1,452 +1,892 @@
-# Craft CMS
-
-[![GitHub stars](https://img.shields.io/github/stars/craftcms/awesome?style=flat)](https://github.com/craftcms/awesome/stargazers)
-
-# Craft CMS ![Awesome](https://badgen.net/badge/icon/Resources?icon=awesome&label=Craft%20CMS&labelColor=red&color=black)
-
-Official list of [awesome](https://github.com/topics/awesome) [![GitHub stars](https://img.shields.io/github/stars/topics/awesome?style=flat)](https://github.com/topics/awesome/stargazers) Craft CMS resources, article, and other and shiny things.
-
-> **Note**  
-> Something missing? [Edit this page](https://github.com/craftcms/awesome/edit/main/README.md) [![GitHub stars](https://img.shields.io/github/stars/craftcms/awesome/edit/main/README.md?style=flat)](https://github.com/craftcms/awesome/edit/main/README.md/stargazers)!
-
-**[Craft CMS](https://craftcms.com) is a flexible, extensible content management system for building bespoke digital experiences.**
-
-### Contributing
-Please take a look at the [contribution guidelines](CONTRIBUTING.md). If you see an article or resource here that is no longer maintained or is not a good fit, please submit a pull request. We appreciate your input!
-
-### Contents
-<!-- PLEASE USE `doctoc --maxlevel 3 README.md` TO KEEP THE TOC TO AN APPROPRIATE SIZE -->
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-
-- [Official Links](#official-links)
-- [Community](#community)
-- [Plugins](#plugins)
-- [Resources](#resources)
-  - [Core Technologies](#core-technologies)
-  - [Articles](#articles)
-  - [Videos](#videos)
-  - [Presentations](#presentations)
-  - [Praises](#praises)
-  - [Podcasts](#podcasts)
-  - [Dev Tools](#dev-tools)
-- [Showcase](#showcase)
-  - [Official Case Studies](#official-case-studies)
-  - [Organizations Using Craft](#organizations-using-craft)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Official Links
-
-- **Website** - [craftcms.com](https://craftcms.com)
-- **Newsletter** - [craftcms.com/newsletter](https://craftcms.com/newsletter)
-- **Craft Commerce** - [craftcms.com/commerce](https://craftcms.com/commerce)
-- **Demos** - [craftcms.com/demo](https://craftcms.com/demo)
-- **Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
-- **Craft CMS 4 Docs** - [craftcms.com/docs/4.x](https://craftcms.com/docs/4.x/) - [Class Reference](https://docs.craftcms.com/api/v4)
-- **Commerce 4 Docs** - [craftcms.com/docs/commerce/4.x](https://craftcms.com/docs/commerce/4.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v4)
-- **Knowledge Base** - [craftcms.com/knowledge-base](https://craftcms.com/knowledge-base)
-- **Partners** - [craftcms.com/partners](https://craftcms.com/partners)
-- **Craft Console** - [console.craftcms.com](https://console.craftcms.com)
-- **Repository** - [github.com/craftcms/cms](https://github.com/craftcms/cms) [![GitHub stars](https://img.shields.io/github/stars/craftcms/cms?style=flat)](https://github.com/craftcms/cms/stargazers)
-- **Starter Project** - [github.com/craftcms/craft](https://github.com/craftcms/craft) [![GitHub stars](https://img.shields.io/github/stars/craftcms/craft?style=flat)](https://github.com/craftcms/craft/stargazers)
-- **Dot All Conference** - [craftcms.com/events](https://craftcms.com/events)
-
----
-
-## Community
-
-- [Craft Coding Challenge](https://craftcodingchallenge.com/) - A training ground for Craft CMS developers to test and improve their coding skills.
-- [Craft Cookbook](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
-- [CraftQuest](https://craftquest.io/) - Unlimited access to Craft training (and more).
-- [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
-- [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
-- [Issues, Feedback, Discussions](https://github.com/craftcms/cms/issues) [![GitHub stars](https://img.shields.io/github/stars/craftcms/cms/issues?style=flat)](https://github.com/craftcms/cms/issues/stargazers) - Post feature ideas and bug reports on GitHub.
-- [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
-- [StackExchange](https://craftcms.stackexchange.com) - Q&A for administrators, end users, developers and designers.
-- [Twitter](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is [`#craftcms`](https://twitter.com/hashtag/craftcms).
-- [Mastodon](https://mastodon.social/@CraftCMS) - Latest news, on the newest network.
-- [Work With Craft](https://www.workwithcraft.com/) - Dedicated job board aimed to connect employers with Craft professionals.
-
----
-
-## Plugins
-
-- [Craft 4 Plugins](https://plugins.craftcms.com/?craft4)
-- [Craft 3 Plugins](https://plugins.craftcms.com/?craft3)
-- [Developer Portal](https://console.craftcms.com/)
-- [Generator](https://github.com/craftcms/generator/) [![GitHub stars](https://img.shields.io/github/stars/craftcms/generator/?style=flat)](https://github.com/craftcms/generator//stargazers)
-
----
-
-## Resources
-
-### Core Technologies
-- [PHP](http://www.php.net/) - A popular general-purpose scripting language.
-- [Yii](https://www.yiiframework.com/) - A fast, secure, and efficient PHP framework.
-- [Twig](https://twig.symfony.com/) - The flexible, fast, and secure template engine for PHP.
-- [MySQL](https://www.mysql.com/) - The world's most popular open source database.
-- [PostgreSQL](https://www.postgresql.org/) - The world's most advanced open source database.
-
-### Articles
-
-##### Assets
-- [9 Tips For Speeding Up Your Imager Transforms](https://www.vaersaagod.no/en/9-tips-for-speeding-up-your-imager-transforms-in-craftcms) by André Elvan/Værsågod - `12 Jun 2017`
-- [Creating Optimized Images in Craft CMS](https://nystudio107.com/blog/creating-optimized-images-in-craft-cms) by Andrew Welch/nystudio107 - `9 Sep 2017`
-- [Responsive Images with `srcset` & Craft](https://www.viget.com/articles/responsive-images-with-srcset-craft) by Trevor Davis/Viget - `22 Mar 2016`
-- [Simple Static Asset Versioning in Craft CMS](https://nystudio107.com/blog/simple-static-asset-versioning) by Andrew Welch/nystudio107 - `6 Jan 2018`
-- [Support for Imgix in Imager for Craft](https://www.vaersaagod.no/en/support-for-imgix-in-imager-for-craftcms) by André Elvan/Værsågod - `10 Jul 2017`
-
-##### Commerce
-- [Multi-attribute variant selection in Craft Commerce](https://www.vaersaagod.no/en/multi-attribute-variant-selection-in-craft-commerce) by André Elvan/Værsågod - `13 Feb 2017`
-
-##### Content
-- [Craft CMS Content Builder: The Client Experience](https://designbycosmic.com/articles/development/craft-cms-content-builder-the-client-experience) by Cosmic - `1 Feb 2017`
-- [Creating a Content Builder in Craft CMS](https://nystudio107.com/blog/creating-a-content-builder-in-craft-cms) by Andrew Welch/nystudio107 - `16 Jan 2017`
-
-##### Content Migrations
-- [Add users to Craft with content migrations](https://joren.co/add-users-to-craft-with-content-migrations/) by Joren Van Hee - `28 Oct 2018`
-- [Using Content Migrations in Craft 3](https://adigital.agency/blog/using-content-migrations-in-craft-3) by Matt Shearing/A Digital - `23 Feb 2018`
-
-##### Craft 3
-- [11 Things You Need to Know About Craft 3](https://mijingo.com/blog/11-things-you-need-to-know-about-craft-3) by Ryan Irelan/Mijingo
-- [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) by Lauren Swarbrick/Abstrakt - `22 Nov 2019`
-
-##### Deployment
-- [Atomic Deployments Without Tears](https://nystudio107.com/blog/executing-atomic-deployments) by Andrew Welch/nystudio107
-
-##### Element API
-- [Global Sets in the Craft Element API](https://mijingo.com/blog/accessing-global-sets-from-the-element-api-in-craft) by Ryan Irelan/Mijingo
-- [Lazy Loading with the Element API & VueJS](https://nystudio107.com/blog/lazy-loading-with-the-element-api-vuejs) by Andrew Welch/nystudio107 - `14 Jan 2017`
-
-##### Environments
-- [Database & Asset Syncing Between Environments in Craft CMS](https://nystudio107.com/blog/database-asset-syncing-between-environments-in-craft-cms) by Andrew Welch/nystudio107 - `7 Apr 2017`
-- [Localization & Multi-Environment Setup in Craft](https://designkarma.co.uk/blog/localization-multi-environment-setup-in-craft) by Ian Ebden/Design Karma - `4 Apr 2017`
-- [Multi-Environment Config for Craft CMS](https://nystudio107.com/blog/multi-environment-config-for-craft-cms) by Andrew Welch/nystudio107 - `4 Sep 2017`
-
-##### Front End
-- [Craft CMS AJAX Page Transitions with `history.pushState`](https://designbycosmic.com/articles/development/craft-cms-ajax-page-transitions-with-history-pushstate) by Cosmic - `1 Feb 2017`
-- [Editing a Front End Form with Matrix](https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/) by Sean Smith/Caffeine Creations
-- [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
-
-##### Getting Started
-- [20 Principles for Craft CMS](https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de) by Knut Melvær - `30 Sep 2017`
-- [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) by Andrew Welch/nystudio107 - `31 July 2018`
-- [Craft CMS through the eyes of a website designer](https://adigital.agency/blog/craft-cms-through-the-eyes-of-a-website-designer) by Laura Montgomery/A Digital Agency– `3 September 2021`
-- [How To Get Started With SEO In Craft CMS](https://blog.galaxyweblinks.com/how-to-get-started-with-seo-in-craft-cms/) by Galaxy Weblinks - `22 June 2018`
-- [Setting up a New Craft CMS 3 Project](https://nystudio107.com/blog/setting-up-a-craft-cms-3-project) by Andrew Welch/nystudio107 - `12 Jan 2018`
-
-##### Integrations
-- [Sending notifications to Slack and other channels with Craft CMS](https://rias.be/blog/sending-notifications-to-slack-and-other-channels-with-craft-cms) by Rias Van der Veken
-- [The Living Component Library](https://clearleft.com/posts/443) by Graham Smith/Clearleft - `13 Mar 2017`
-
-##### Local Dev
-- [Getting Started with Craft CMS 2 and Laravel Valet](https://medium.com/@jalendport/running-craft-cms-2-on-laravel-valet-8a750d1c19e) by Jalen Davenport - `9 Feb 2018`
-- [Getting Started with Craft CMS 3 and Laravel Valet](https://medium.com/@jalendport/running-craft-cms-3-on-laravel-valet-6df61e5193fd) by Jalen Davenport - `23 Feb 2018`
-- [How I Automate My Local Development Craft CMS 2.x Installs](https://medium.com/@timknight/how-i-automate-my-craft-cms-2-x-installs-8427f70914e4) by Tim Knight - `17 Jul 2017`
-- [A Craft CMS Development Workflow With Docker: Part 1 - Local Development](https://mattgrayisok.com/a-craft-cms-development-workflow-with-docker-part-1-local-development) by Matt Gray - `4 Dec 2018`
-
-##### Modules
-- [Enhancing a Craft CMS 3 Website with a Custom Module](https://nystudio107.com/blog/enhancing-a-craft-cms-3-website-with-a-custom-module) by Andrew Welch/nystudio107 - `19 Mar 2018`
-
-##### Performance and Testing
-- [A/B Split Testing with Nginx & Craft CMS](https://nystudio107.com/blog/a-b-split-testing-with-nginx-craft-cms) by Andrew Welch/nystudio107 - `29 Nov 2017`
-- [Debug Tool in Craft 3: Here’s all you need to know about it](https://medium.com/@galaxyweblinks/debug-tool-in-craft-3-heres-all-you-need-to-know-about-it-be8a3395ebbd) by Galaxy Weblinks - `2 July 2018`
-- [Large websites and performance in Craft CMS](http://madebyshape.co.uk/web-design-blog/large-websites-and-performance-in-craft-cms) by Jason Mayo/MadeByShape - `2 Apr 2017`
-- [Profiling your Website with Craft CMS 3’s Debug Toolbar](https://nystudio107.com/blog/profiling-your-website-with-craft-cms-3s-debug-toolbar) by Andrew Welch/nystudio107 - `9 Apr 2018`
-- [Speed up your Craft CMS Templates with Eager Loading](https://nystudio107.com/blog/speed-up-your-craft-cms-templates-with-eager-loading) by Andrew Welch/nystudio107 - `21 Dec 2017`
-- [Static File Caching with Craft CMS 3, aka The Best Of Both Worlds](https://putyourlightson.com/articles/static-file-caching-with-craft-cms-3-aka-the-best-of-both-worlds) by Ben Croker/PutYourLightsOn - `21 Nov 2018`
-- [Static Page Caching with Craft CMS](https://nystudio107.com/blog/static-caching-with-craft-cms) by Andrew Welch/nystudio107 - `25 Dec 2017`
-- [The Craft `{% cache %}` Tag In-Depth](https://nystudio107.com/blog/the-craft-cache-tag-in-depth) by Andrew Welch/nystudio107 - `24 Jan 2018`
-- [Thoughts on full page caching in Craft](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by Josh Angell - `29 Aug 2017`
-
-##### Plugins
-- [3 Things to Know About Craft Plugin Development](https://mijingo.com/blog/3-things-to-know-about-craft-plugin-development) by Ryan Irelan/Mijingo
-- [Craft Plugins in Craft 3](https://mijingo.com/blog/craft-plugins-in-craft-3) by Ryan Irelan/Mijingo
-- [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) by Ryan Irelan/Mijingo
-- [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) by Ryan Irelan/Mijingo
-- [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) by Matt Stein
-
-##### Publications
-- [The Guide to Craft CMS Development](https://gomasuga.com/course/craft-cms-guide) by Ryan Masuga
-- [The Ultimate Craft CMS vs WordPress Guide](https://gomasuga.com/info/content-management-systems-craft-cms-vs-wordpress) by Ryan Masuga
-- [Introduction to Craft CMS](https://github.com/jeromecoupe/iad_craftcms_introduction) [![GitHub stars](https://img.shields.io/github/stars/jeromecoupe/iad_craftcms_introduction?style=flat)](https://github.com/jeromecoupe/iad_craftcms_introduction/stargazers) by Jérôme Coupé/Webstoemp (on Github)
-
-##### Security
-- [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) by Ben Croker/PutYourLightsOn - `4 May 2021`
-- [Securing Your Craft Site in 2022—Part 3](https://putyourlightson.com/articles/securing-your-craft-site-in-2022-part-3) by Ben Croker/PutYourLightsOn - `24 May 2022`
-- [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) by Ben Croker/PutYourLightsOn - `26 Jan 2021`
-- [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) by Ben Croker/PutYourLightsOn - `13 Jan 2021`
-- [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
-- [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) by Ben Croker/PutYourLightsOn - `31 Oct 2021`
-- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
-- [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) by Andrew Welch/nystudio107 - `19 Mar 2017`
-- [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) by Ryan Irelan/Mijingo
-- [The Case of the Missing PHP Session](https://nystudio107.com/blog/the-case-of-the-missing-php-session) by Andrew Welch/nystudio107 - `3 Oct 2017`
-
-##### Taxonomies
-- [Using Categories in Craft CMS](https://mijingo.com/blog/using-categories-in-craft-cms) by Ryan Irelan/Mijingo
-
-##### Templating
-- [Brief Overview of Craft Routing to Templates](https://mijingo.com/blog/brief-overview-of-craft-routing-to-templates) by Ryan Irelan/Mijingo
-- [Building Complex Queries by Extending the ElementCriteriaModel](https://tighten.co/blog/craft-cms-building-complex-queries-by-extending-the-elementcriteriamodel) by Keith Damiani/Tighten Co - `10 Feb 2016`
-- [Creating an Age Drop-down with Twig range()](https://mijingo.com/blog/using-twig-range-to-create-an-age-drop-down) by Ryan Irelan/Mijingo
-- [DRY Templating with Twig and Craft CMS](https://medium.com/base-voices/dry-templating-with-twig-and-craft-cms-543292d114aa) by Pierre Stoffe/Base Digital - `31 May 2017`
-- [Filters in Twig and Craft](https://mijingo.com/blog/filters-in-twig-and-craft) by Ryan Irelan/Mijingo
-- [Handling Errors Gracefully in Craft CMS](https://nystudio107.com/blog/handling-errors-gracefully-in-craft-cms) by Andrew Welch/nystudio107 - `20 Oct 2017`
-- [How to check for undefined variables](https://cruftlesscraft.com/how-to-check-for-undefined-variables) by Ben Rogerson - `24 July 2018`
-- [Key Value Arrays in Twig](https://mijingo.com/blog/key-value-arrays-in-twig) by Ryan Irelan/Mijingo
-- [Passing data from Twig to JavaScript](https://cruftlesscraft.com/passing-data-from-twig-to-javascript) by Ben Rogerson - `1 Aug 2018`
-- [Quick Tips: Craft CMS](http://gregorterrill.com/blog/2017/quick-tips-craft-cms) by Gregor Terrill - `26 May 2017`
-- [Three Twig Tag Types in Craft CMS Explained](https://mijingo.com/blog/three-tag-types-in-craft-cms-explained) by Ryan Irelan/Mijingo
-- [Twig Processing Order & Scope](https://nystudio107.com/blog/twig-processing-order-and-scope) by Andrew Welch/nystudio107 - `3 Jan 2017`
-- [Using Macros in Twig and Craft](https://mijingo.com/blog/using-macros-in-twig-and-craft) by Ryan Irelan/Mijingo
-- [Using Variables in Twig and Craft CMS](https://mijingo.com/blog/using-variables-in-twig-and-craft-cms) by Ryan Irelan/Mijingo
-- [Where am I in the Twig Loop?](https://mijingo.com/blog/where-am-i-in-the-twig-loop) by Ryan Irelan/Mijingo
-- [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) by Jérôme Coupé/Webstoemp - `15 Jul 2015`
-- [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Feb 2016`
-- [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) by Sean Smith/Caffeine Creations - `29 June 2018`
-- [Responsive tables in Craft](https://www.thebasement.be/responsive-tables-in-craft/) by Jan D'Hollander - `10 July 2018`
-
-### Videos
-
-##### Assets
-- [Craft 3 Remote Volumes with AWS S3](https://mijingo.com/blog/craft-3-remote-volumes-with-aws-s3) by Ryan Irelan/Mijingo
-- [Image Editing in Craft 3](https://mijingo.com/lessons/image-editor-craft-cms-3/) by Ryan Irelan/Mijingo
-- [Images and Image Editing in Craft 3](https://www.youtube.com/watch?v=_chcVWpA3K8) by Ben Parizek/Straight Up Craft - `17 Mar 2017`
-- [Remote Asset Sources in Craft](https://mijingo.com/lessons/remote-asset-sources-in-craft/) by Ryan Irelan/Mijingo
-
-##### Commerce
-- [Fundamentals of Craft Commerce](https://mijingo.com/products/screencasts/craft-commerce/) by Ryan Irelan/Mijingo - `Paid`
-- [Introduction to Craft Commerce II](https://www.youtube.com/watch?v=oMA9nJkinxg) by Ben Parizek/Straight Up Craft - `12 Feb 2016`
-
-##### Content
-- [Pushing the Limits of Craft CMS's Matrix Field](https://www.youtube.com/watch?v=HXy_-LLjV_U) by Ben Parizek/Straight Up Craft - `17 Mar 2017`
-
-##### Control Panel
-- [Customizing the Craft Control Panel](https://www.youtube.com/watch?v=PDflVN28iR4&t=1s) by Ben Parizek/Straight Up Craft - `1 Jul 2016`
-
-##### Craft 3
-- [An initial look at Craft 3](https://www.youtube.com/watch?v=1Zly_rVbJpc) by Ben Parizek/Straight Up Craft - `5 Aug 2016`
-- [Craft 3 Command Line](https://mijingo.com/lessons/craft-3-command-line/) by Ryan Irelan/Mijingo
-- [Craft 3: What You Need to Know](https://mijingo.com/lessons/craft-3-what-you-need-to-know/) by Ryan Irelan/Mijingo
-
-##### Development
-- [Better Build Processes with Gulp and Craft](https://www.youtube.com/watch?v=4er0UaAvfVs) by Ben Parizek/Straight Up Craft - `29 Jun 2016`
-
-##### Element API
-- [Creating an Element API in Craft](https://mijingo.com/lessons/creating-an-element-api-in-craft-cms/) by Ryan Irelan/Mijingo
-
-##### Getting Started
-- [Craft CMS 3 Manual Installation](https://www.youtube.com/watch?v=JNe4E6r7jgY) by Ryan Irelan/Mijingo - `5 Apr 2018`
-- [Craft CMS Essentials](https://mijingo.com/craft-essentials) by Ryan Irelan/Mijingo - `Paid`
-- [Craft Starter Pack](https://mijingo.com/products/bundles/craft-starter-pack/) by Ryan Irelan/Mijingo - `Paid`
-- [Up and Running with Craft](https://mijingo.com/products/screencasts/up-and-running-with-craft/) by Ryan Irelan/Mijingo - `Paid`
-
-##### Integration
-- [Craft-Powered Apps](https://www.youtube.com/watch?v=MPWckTSJnX0) by Ben Parizek/Straight Up Craft - `16 Sep 2016`
-
-##### Installation and Upgrading
-- [Composer and Craft 3](https://www.youtube.com/watch?v=q7-_y8r2W4M) by Ben Parizek/Straight Up Craft - `20 Apr 2018`
-- [Installing Composer](https://mijingo.com/lessons/installing-composer-craft-cms/) by Ryan Irelan/Mijingo
-- [Installing Craft 3 (beta)](https://mijingo.com/lessons/installing-craft-cms-3/) by Ryan Irelan/Mijingo
-- [Installing Craft CMS](https://mijingo.com/lessons/installing-craft-cms/) by Ryan Irelan/Mijingo
-- [Updating Craft 3 Beta](https://mijingo.com/lessons/updating-craft-3-beta-with-composer/) by Ryan Irelan/Mijingo
-- [Upgrading Craft 2 to Craft 3](https://mijingo.com/lessons/upgrade-to-craft-cms-3/) by Ryan Irelan/Mijingo
-
-##### Multi-site
-- [Managing Multiple Sites in Craft 3 – Sites and Localization](https://www.youtube.com/watch?v=u_Yqwvx-gA0) by Ben Parizek/Straight Up Craft - `10 Mar 2017`
-- [Using Craft CMS 3 Multi-Site](https://mijingo.com/lessons/craft-3-multi-site/) by Ryan Irelan/Mijingo
-
-##### Nitro
-- [How I Use Craft Scripts in Craft CMS Running in Craft Nitro 2](https://andreademers.substack.com/p/craft-scripts-craft-cms-craft-nitro-2)
-- [Hot Module Reloading with Laravel Mix v6 and Craft Nitro 2](https://andrewmeni.ch/blog/hot-module-reloading-with-laravel-mix-v6-and-craft-nitro-2)
-- [Local Development with Craft Nitro](https://craftquest.io/courses/local-development-localhosting-craft-nitro)
-
-##### Performance and Testing
-- [Yii Debug Toolbar in Craft CMS 3](https://mijingo.com/lessons/yii-debug-toolbar-craft-cms/) by Ryan Irelan/Mijingo
-
-##### Plugins
-- [Craft 3 Plugin Development - Controllers & Variables](https://www.youtube.com/watch?v=N2N1TQgdSL0) by Ben Parizek/Straight Up Craft - `7 Apr 2017`
-- [Craft Plugin Development](https://mijingo.com/products/screencasts/craft-plugin-development/) by Ben Croker/Mijingo - `Paid`
-- [Craft Plugin Development Workbook](https://mijingo.com/products/workbooks/craft-plugin-development-workbook/) by Ben Croker/Mijingo - `Paid`
-- [Getting Started with Craft Plugin Development (Craft 3)](https://craftquest.io/courses/how-to-create-craft-plugin) by Ben Croker/CraftQuest
-- [Getting Started with Craft Plugin Development (Craft 2)](https://mijingo.com/blog/getting-started-with-craft-plugin-development) by Ryan Irelan/Mijingo
-- [Migrating a Field Type plugin from Craft 2 to Craft 3](https://www.youtube.com/watch?v=lx6GkcT8SyU) by Ben Parizek/Straight Up Craft - `24 Mar 2017`
-- [Migrating a plugin from Craft 2 to Craft 3](https://www.youtube.com/watch?v=twQY7GbpYGg&t=34s) by Ben Parizek/Straight Up Craft - `3 Mar 2017`
-- [Migrating a website with plugins from Craft 2 to Craft 3](https://www.youtube.com/watch?v=T6wBZbH0oDU) by Ben Parizek/Straight Up Craft - `4 May 2018`
-- [Plugins in Craft 3](https://mijingo.com/lessons/plugins-in-craft-3/) by Ryan Irelan/Mijingo
-- [Tools for getting started with plugin development?](https://www.youtube.com/watch?v=DrT9tjkDeQY) by Ben Parizek/Straight Up Craft - `11 Mar 2016`
-- [Writing Bulletproof Database Migrations](https://www.youtube.com/watch?v=FkdPiWVd8BI) by Ben Parizek/Straight Up Craft - `2 Sep 2016`
-- [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin)
-
-
-##### Security
-- [Critical Updates and Craft CMS](https://www.youtube.com/watch?v=Fl1DZVHTFio) by Ben Parizek/Straight Up Craft - `2 Sep 2016`
-- [Hashing Redirects in Craft](https://mijingo.com/lessons/hashing-redirect-parameter-in-craft/) by Ryan Irelan/Mijingo
-- [Security and Craft CMS](https://www.youtube.com/watch?v=EsI5FgF3BAI&t=5s) by Ben Parizek/Straight Up Craft - `22 Apr 2016`
-
-##### Templating
-- [Changing Section Labels in Craft](https://mijingo.com/lessons/changing-section-labels-in-craft/) by Ryan Irelan/Mijingo
-- [Control Flow in Twig](https://mijingo.com/products/screencasts/control-flow-in-twig/) by Ryan Irelan/Mijingo - `Paid`
-- [Craft 3 Service APIs in Templates](https://mijingo.com/lessons/craft-3-service-apis-in-templates/) by Ryan Irelan/Mijingo
--[DRY Templating Techniques](https://www.youtube.com/watch?v=SaSmesi3GoY) by Ben Parizek/Straight Up Craft - `1 Apr 2016`
-- [Eager-Loading Elements](https://www.youtube.com/watch?v=H52sphm4YM0) by Ben Parizek/Straight Up Craft - `18 Mar 2016`
-- [Flexbox and Craft](https://www.youtube.com/watch?v=9x7FZ22N15U) by Ben Parizek/Straight Up Craft - `27 May 2016`
-- [Flexible Twig Templates in Craft](https://mijingo.com/products/screencasts/reusable-twig-templates-craft/) by Ryan Irelan/Mijingo - `Paid`
-- [How I build components in CraftCMS with Twig](https://www.youtube.com/watch?v=FNIM8MvUL-Q) by Alex Carpenter - `28 Dec 2017`
-- [How to build a content builder in Craft CMS](https://www.youtube.com/watch?v=VSXglzqJ2Z4) by Alex Carpenter - `30 Mar 2018`
-- [How to build a reusable carousel component with Craft CMS](https://www.youtube.com/watch?v=e-6bk2VnBCk&feature=youtu.be) by Alex Carpenter - `22 Apr 2018`
-- [Matrix as a Layout Builder](https://www.youtube.com/watch?v=IJpCMkA2Bxw) by Ben Parizek/Straight Up Craft - `13 May 2016`
-- [Navigating Navigation in Craft CMS](https://www.youtube.com/watch?v=eDAdIkXBH48) by Ben Parizek/Straight Up Craft - `20 May 2016`
-- [Nested navigation based on Structure section](https://www.youtube.com/watch?v=AylyBOqlooc) by Ryan Irelan/Mijingo - `30 Jan 2018`
-- [Passing Data with Twig Include](https://mijingo.com/lessons/passing-data-with-the-twig-include-statement/) by Ryan Irelan/Mijingo
-- [Twig Templates in Craft](https://mijingo.com/products/screencasts/twig-templates-in-craft/) by Ryan Irelan/Mijingo - `Paid`
-- [Twig's null-coalescing operator (??)!](https://www.youtube.com/watch?v=DAQ2qh8pebs) by Ben Parizek/Straight Up Craft - `8 Apr 2016`
-- [Using `.all()` in Craft 3](https://mijingo.com/lessons/using-dot-all-in-craft-3-element-queries/) by Ryan Irelan/Mijingo
-- [Using the Batch Filter in Twig](https://mijingo.com/lessons/using-the-batch-filter-in-twig/) by Ryan Irelan/Mijingo
-
-##### Tutorials
-- [Building a Blog in Craft CMS](https://www.youtube.com/watch?v=lfDZ6v23KcE) by Ryan Irelan/Mijingo - `23 Jan 2018`
-- [Contact Form in Craft CMS](https://mijingo.com/lessons/contact-form-in-craft-cms/) by Ryan Irelan/Mijingo
-
-### Presentations
-- [Building a Smarter Craft Commerce Website](https://speakerdeck.com/sjcallender/building-a-smarter-craft-commerce-website) by Stephen Callender - `27 Sep 2018`
-- [Craft 3 Plugin Development](https://speakerdeck.com/brandonkelly/craft-3-plugin-development) by Brandon Kelly - `26 Apr 2017`
-- [Crafting Modern SEO](https://speakerdeck.com/nystudio107/crafting-modern-seo) by Andrew Welch - `23 Oct 2017`
-- [Design Processes and Systems in Craft](https://www.slideshare.net/CourtneyBradford/design-processes-and-systems-in-craft-116882979) by Courtney Bradford - `27 Sep 2018`
-- [Designers Guide to Craft CMS Plugins](https://speakerdeck.com/bymayo/designers-guide-to-craft-cms-plugins) - by Jason Mayo - `3 Nov 2016`
-- [Dot All 2017 Keynote](https://speakerdeck.com/brandonkelly/dot-all-2017-keynote) by Brandon Kelly - `23 Oct 2017`
-- [How to Migrate Legacy Content to Craft Without Losing Your Sanity](https://speakerdeck.com/jamesgreig/how-to-migrate-legacy-content-to-craft-without-losing-your-sanity) by James Greig - `Sep 28 2018`
-- [Intro to Craft](https://speakerdeck.com/philipzaengle/intro-to-craft) by Philip Zaengle - `29 Apr 2016`
-- [Intro to Craft 3](https://speakerdeck.com/brandonkelly/intro-to-craft-3) by Brandon Kelly - `26 Apr 2017`
-- [Making a Craft CMS Website That Flies](https://speakerdeck.com/nystudio107/making-a-craft-cms-website-that-flies) by Andrew Welch - `27 Sep 2018`
-- [Modern Frontends with Craft CMS, GraphQL, and React](https://pauloelias.github.io/modern-frontends-craft-react-graphql-v1/#0) by Paulo Elias
-- [Multilingual Sites in Craft 3](https://speakerdeck.com/drifteaur/multilingual-sites-in-craft-3) by Zoltan Varady - `27 Sep 2018`
-- [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) by Bob Olde Hampsink - `27 Sep 2018`
-- [Scaling Craft CMS Sites for Large Launches](https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches) by Matt Weinberg - `28 Sep 2018`
-- [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) by Brandon Kelly - `28 Sep 2018`
-- [The Art Of Plugin Development](https://speakerdeck.com/putyourlightson/the-art-of-plugin-development) by Ben Croker - `27 Sep 2018`
-- [Twig Super Power Roundup](https://speakerdeck.com/bymayo/twig-super-power-roundup-craft-cms-3) by Jason Mayo - `1 Nov 2018`
-- [What’s the Deal with Craft CMS?](https://speakerdeck.com/brandonkelly/whats-the-deal-with-craft-cms) by Brandon Kelly - `21 Apr 2016`
-- [Working with Craft Commerce](https://speakerdeck.com/bymayo/working-with-craft-commerce) by Jason Mayo - `2 Nov 2017`
-
-### Praises
-- [10 Reasons Why We Love Craft CMS](http://taechogroup.com/blog/10-reasons-why-we-love-craft-cms) by Taecho Group
-- [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) by Adam Fairholm/New Media Campaigns - `19 May 2017`
-- [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) by Harry Keller/diesdas.digital - `18 Apr 2017`
-- [An Overview of Pixel & Tonic’s Craft CMS](https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0) by Matthew Soyka - `21 Feb 2017`
-- [Craft CMS vs WordPress: A comparison & why we love Craft CMS](https://www.madebybridge.com/blog/craft-cms-vs-wordpress-a-comparison) by Chris Cox/Made by Bridge - `17 Nov 2021`
-- [Craft CMS Vs WordPress: Why Choose Craft?](https://medium.com/@galaxyweblinks/craft-cms-vs-wordpress-why-choose-craft-7a557cdb604d) - `19 June 2018`
-- [Crazy About Craft](http://www.newmediacampaigns.com/blog/review-of-craft-cms-tips-to-get-started) by Nathan Huening/New Media Campaigns - `27 Feb 2017`
-- [How we chose Craft CMS for our product websites](https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites) by Eugene Fedorenko/Wildbit - `1 Nov 2016`
-- [Why Content Managers Love Craft CMS](https://weareabstrakt.com/blog/2017/why-content-managers-love-craft-cms/) by Lauren Swarbrick/Abstrakt - `17 May 2017`
-- [Why Content Writers Love Craft CMS](https://caffeinecreations.ca/why-content-writers-love-craft-cms/) by Sean Smith/Caffeine Creations
-- [Why Craft CMS is the best content management system we (and you) have ever used](https://www.ten4design.co.uk/insight/why-craft-cms-is-the-best-content-management-system) by Owen Matthews and Andy Green/Ten4 Design - `21 Apr 2017`
-- [Why We Love Craft CMS](https://www.viget.com/articles/why-we-love-craft-cms) by Trevor Davis/Viget - `17 Oct 2014`
-- [Why We Use Craft CMS](https://designbycosmic.com/articles/development/why-we-use-craft-cms) by Cosmic - `1 Feb 2017`
-- [Why We Use Craft CMS](https://builtbymasonry.com/journal/why-we-use-craft-cms) by Masonry - `7 Nov 2017`
-- [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) by Honcho - `16 Apr 2019`
-- [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) by Welford Media - `14 Oct 2016`
-- [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) by Abstrakt - `25 Apr 2017`
-- [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) by Sam Goddard/Kind - `21 Mar 2017`
-- [Why Craft?](https://www.webstoemp.com/blog/why-craft-cms/) by Jérôme Coupé/Webstoemp - `17 Jun 2015`
-
-### Podcasts
-
-- [Craft.Podcast](http://craftpodcast.com/) - A voice for the #CraftCMS community.
-- [Craft CMS 3 as an Application Platform](https://devmode.fm/episodes/craft-cms-3-as-an-application-platform) - devmode.fm and Ben Crocker dis­cuss using Craft CMS 3 as an appli­ca­tion plat­form.
-- [Craft CMS 3 with Pixel & Tonic Founder Brandon Kelly!](https://devmode.fm/episodes/craft-cms-3-with-pixel-tonic-founder-brandon-kelly) - Get an insider’s view of the the devel­op­ment of Craft CMS 3.
-- [Dot All 2018 Conference Recap & Analysis, Live from Berlin!](https://devmode.fm/episodes/dot-all-2018-conference-recap-analysis-live-from-berlin) - The dev​Mode​.fm crew recaps the Dot All 2018 Con­fer­ence in Berlin.
-- [Talk­ing Craft CMS 3 RC1!](https://devmode.fm/episodes/talking-craft-cms-rc1) - The inau­gur­al episode of the `dev​Mode​.fm` pod­cast.
-- [Commerce Minded](https://www.fostercommerce.com/podcast) - A Craft Commerce-centric podcast that goes behind the scenes to chat with ecommerce merchants, developers, and vendors.
-
-### Dev Tools
-
-- [Craft CLI](https://github.com/rsanchez/craft-cli) [![GitHub stars](https://img.shields.io/github/stars/rsanchez/craft-cli?style=flat)](https://github.com/rsanchez/craft-cli/stargazers) - Command line interface for Craft CMS 2.
-- [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) [![GitHub stars](https://img.shields.io/github/stars/timkelty/craftcms-bootstrap?style=flat)](https://github.com/timkelty/craftcms-bootstrap/stargazers) - Streamline Craft CMS bootstrapping and configuration.
-- [Craft CMS Docker](https://github.com/atillay/craftcms3-docker) [![GitHub stars](https://img.shields.io/github/stars/atillay/craftcms3-docker?style=flat)](https://github.com/atillay/craftcms3-docker/stargazers) - Get started playing with Craft CMS 3 in a few command lines with Docker.
-- [Craft 3 Multi-environment](https://github.com/nystudio107/craft3-multi-environment) [![GitHub stars](https://img.shields.io/github/stars/nystudio107/craft3-multi-environment?style=flat)](https://github.com/nystudio107/craft3-multi-environment/stargazers) - [Craft 2 Version](https://github.com/nystudio107/craft-multi-environment) [![GitHub stars](https://img.shields.io/github/stars/nystudio107/craft-multi-environment?style=flat)](https://github.com/nystudio107/craft-multi-environment/stargazers) - Efficient and flexible multi-environment config for Craft CMS.
-- [Craft Scripts](https://github.com/nystudio107/craft-scripts) [![GitHub stars](https://img.shields.io/github/stars/nystudio107/craft-scripts?style=flat)](https://github.com/nystudio107/craft-scripts/stargazers) - Shell scripts to manage common tasks between Craft CMS environments.
-- [Craftman](https://github.com/gabrielmoreira/craftman) [![GitHub stars](https://img.shields.io/github/stars/gabrielmoreira/craftman?style=flat)](https://github.com/gabrielmoreira/craftman/stargazers) - To help speed set up and start a new Craft CMS installation smoothly.
-- [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) [![GitHub stars](https://img.shields.io/github/stars/niceandserious/crafty-vagrant?style=flat)](https://github.com/niceandserious/crafty-vagrant/stargazers) - A boilerplate dev environment for jump-starting Craft CMS projects.
-- [Generator Craft Install](https://github.com/nystudio107/generator-craftinstall) [![GitHub stars](https://img.shields.io/github/stars/nystudio107/generator-craftinstall?style=flat)](https://github.com/nystudio107/generator-craftinstall/stargazers) - Yeoman generator for Craft CMS installs.
-- [Happy Lager Demo Site](https://github.com/timkelty/HappyLager/tree/neutrino) [![GitHub stars](https://img.shields.io/github/stars/timkelty/HappyLager/tree/neutrino?style=flat)](https://github.com/timkelty/HappyLager/tree/neutrino/stargazers) - A fork of the Craft CMS demo site, updated for Craft 3.
-- [Nginx Craft](https://github.com/nystudio107/nginx-craft) [![GitHub stars](https://img.shields.io/github/stars/nystudio107/nginx-craft?style=flat)](https://github.com/nystudio107/nginx-craft/stargazers) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
-- [Plugin Factory](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P&T’s Coding Standards.
-
----
-
-## Showcase
-
-### Official Case Studies
-
-- [% Arabica](https://craftcms.com/in-the-field/arabica) - Project: [arabicacoffee.hk](https://arabicacoffee.hk/) by [Digital Butter](https://www.butter.com.hk/)
-- [Associated Press](https://craftcms.com/in-the-field/associated-press) - Project: [blog.ap.org](https://blog.ap.org) + [insights.ap.org](https://insights.ap.org) by [Vector Media Group](https://www.vectormediagroup.com/)
-- [Barefoot Contessa](https://craftcms.com/in-the-field/barefoot-contessa) - Project: [barefootcontessa.com](https://barefootcontessa.com) by [Apartment One](https://aptone.com/) & [Jonathan Melville](https://codemdd.io/)
-- [Grill'd](https://craftcms.com/in-the-field/grilld) - Project: [grilld.com.au](https://www.grilld.com.au/) by [Evolution 7](https://www.evolution7.com.au/)
-- [iDE Global](https://craftcms.com/in-the-field/ide-global) - Project: [ideglobal.org](https://ideglobal.org) by [Flipbox Digital](https://www.flipboxdigital.com/)
-- [Kappa Alpha Theta Fraternity](https://craftcms.com/in-the-field/kappa-alpha-theta-fraternity) - Project: [kappaalphatheta.org](https://www.kappaalphatheta.org/) by [TrendyMinds](https://trendyminds.com/)
-- [McKinnon and Harris](https://craftcms.com/in-the-field/mckinnon-and-harris) - Project: [mckinnonharris.com](https://www.mckinnonharris.com) by [Foster Made](https://fostermade.co)
-- [Mixmag Media](https://craftcms.com/in-the-field/mixmag) - Project: [mixmag.net](http://mixmag.net) by [The Rye Agency](http://rye.agency)
-- [Poki](https://craftcms.com/in-the-field/poki) - Project: [poki.com](https://poki.com/) by Evermade
-- [Samuelsohn](https://craftcms.com/in-the-field/samuelsohn) - Project: [samuelsohn.com](http://samuelsohn.com) by [Digital Surgeons](http://digitalsurgeons.com/)
-- [Segway](https://craftcms.com/in-the-field/segway) - Project: [uk-en.segway.com](https://uk-en.segway.com/) by Wirelab Digital Agency
-- [Simon Fraser University (SFU) Beedie School of Business](https://craftcms.com/in-the-field/simon-fraser-university-sfu-beedie-school-of-business) - Project: [beedie.sfu.ca](https://beedie.sfu.ca/) by Goat
-- [Ultimate.ai](https://craftcms.com/in-the-field/ultimate-ai) - Project: [ultimate.ai](https://www.ultimate.ai/) by Function & Form Digital
-- [YumEarth](https://craftcms.com/in-the-field/yumearth) - Project: [yumearth.com](https://yumearth.com) by Electric Enjin
-
-### Organizations Using Craft
-
-- [Agatha Christie](http://www.agathachristie.com)
-- [An Event Apart](http://aneventapart.com)
-- [Associated Press: Blog](https://blog.ap.org) - Plus the [Insights](https://insights.ap.org) website.
-- [Atkins](http://www.atkins.com)
-- [Atlassian: Design](https://atlassian.design)
-- [Betterteam](https://www.betterteam.com/)
-- [BigCommerce](https://www.bigcommerce.com)
-- [Bill Nye](https://www.billnye.com/)
-- [Canary Media](https://www.canarymedia.com/)
-- [City of Marion, IN](https://cityofmarion.in.gov/)
-- [City of Oakland](https://www.oaklandca.gov/)
-- [Confab Events](http://confabevents.com)
-- [Dalai Lama](https://www.dalailama.com)
-- [Dialpad](https://www.dialpad.com/)
-- [Duck Brand](http://www.duckbrand.com)
-- [Emily Carr University](http://www.ecuad.ca)
-- [Field Notes](https://fieldnotesbrand.com) - Uses [Craft Commerce](https://craftcommerce.com).
-- [Foursquare for Business](http://business.foursquare.com)
-- [Grill'd](https://www.grilld.com.au/)
-- [Guy Fieri](http://www.guyfieri.com/)
-- [Hootsuite](https://hootsuite.com)
-- [Icon Motorsports](http://www.rideicon.com)
-- [iDE Global](https://ideglobal.org)
-- [Intel: Managed Service Providers](http://msp.intel.com)
-- [Klipsch](http://www.klipsch.com)
-- [LA Marathon](http://lamarathon.com)
-- [Layer Tennis](http://www.layertennis.com) - A [Coudal Partners](http://coudal.com/) production sponsored by [Adobe](https://www.adobe.com/).
-- [Medialoot](https://medialoot.com)
-- [Mini: Miles Ahead](http://www.bemilesahead.net/)
-- [Mixmag Media](http://mixmag.net)
-- [NameSnack](https://www.namesnack.com/)
-- [Naughty Dog](https://www.naughtydog.com/)
-- [Naviance](http://www.naviance.com)
-- [Netflix: Media Center](https://media.netflix.com)
-- [Nissin Foods](http://nissinfoods.com/)
-- [OneSignal](https://onesignal.com)
-- [Outreach](https://www.outreach.io)
-- [PBS Kids Games](https://itunes.apple.com/us/app/pbs-kids-games/id1050773989) - Craft powers the APIs used for the app.
-- [PBS Parents](http://www.pbs.org/parents/child-development/social-emotional)
-- [Pingdom](https://www.pingdom.com)
-- [Princeton Theological Seminary](http://ptsem.edu)
-- [ProPublica](https://www.propublica.org)
-- [Reddit Inc.](https://www.redditinc.com/)
-- [SalesforceIQ](https://www.salesforceiq.com)
-- [Samuelsohn](http://samuelsohn.com)
-- [Sonos](https://www.sonos.com)
-- [Stanford Research Park](http://www.stanfordresearchpark.com)
-- [Stearns & Foster](http://www.stearnsandfoster.com)
-- [Visit Victoria: Corporate](https://corporate.visitvictoria.com)
-- [Wildbit](https://wildbit.com)
-- [Yale Environment 360](http://e360.yale.edu)
+# Awesome
+
+> 来源：[sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
+[![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat)](https://github.com/sindresorhus/awesome/stargazers)
+
+<div align="center">
+	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<br>
+	<br>
+	<br>
+	<br>
+	<div>
+		<sub>Check out my macOS app</sub>
+		<br>
+		<h2>
+			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
+			<br>
+			<sup>Elevate your Mac experience</sup>
+		</h2>
+	</div>
+	<br>
+	<br>
+	<br>
+	<br>
+	<hr>
+	<p>
+		<sup>
+			<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+		</sup>
+	</p>
+	<p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<br>
+		<br>
+		<a href="https://depot.dev?utm_source=github&utm_medium=sindresorhus">
+			<div>
+				<picture>
+					<source width="180" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-dark.svg">
+					<source width="180" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-light.svg">
+					<img width="180" src="https://sindresorhus.com/assets/thanks/depot-logo-light.svg" alt="Depot logo">
+				</picture>
+			</div>
+			<b>Fast remote container builds and GitHub Actions runners.</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://circleback.ai?utm_source=sindresorhus&utm_medium=sponsorship&utm_campaign=awesome-list&utm_id=awesome">
+			<div>
+				<img width="340" src="https://sindresorhus.com/assets/thanks/circleback-logo.png?x" alt="Circleback logo">
+			</div>
+			<b>Get the most out of every conversation.</b>
+			<div>
+				<sup>AI-powered meeting notes, automations, and search. Give AI agents the context they need to get things done.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
+	</p>
+	<hr>
+	<br>
+	<br>
+	<br>
+	<br>
+</div>
+<p align="center">
+	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/sindresorhus/awesome/commits.atom">Subscribe (RSS)</a>&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+<br>
+<p align="center">
+	Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.
+</p>
+<br>
+<br>
+<br>
+
+## Contents
+
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
+- [Theory](#theory)
+- [Books](#books)
+- [Editors](#editors)
+- [Gaming](#gaming)
+- [Development Environment](#development-environment)
+- [Entertainment](#entertainment)
+- [Databases](#databases)
+- [Media](#media)
+- [Learn](#learn)
+- [Security](#security)
+- [Content Management Systems](#content-management-systems)
+- [Hardware](#hardware)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
+- [Health and Social Science](#health-and-social-science)
+- [Events](#events)
+- [Testing](#testing)
+- [Miscellaneous](#miscellaneous)
+- [Related](#related)
+
+## Platforms
+
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs?style=flat)](https://github.com/sindresorhus/awesome-nodejs/stargazers) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) [![GitHub stars](https://img.shields.io/github/stars/bcoe/awesome-cross-platform-nodejs?style=flat)](https://github.com/bcoe/awesome-cross-platform-nodejs/stargazers) - Writing cross-platform code on Node.js.
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme) [![GitHub stars](https://img.shields.io/github/stars/dypsilon/frontend-dev-bookmarks?style=flat)](https://github.com/dypsilon/frontend-dev-bookmarks/stargazers)
+- [iOS](https://github.com/vsouza/awesome-ios#readme) [![GitHub stars](https://img.shields.io/github/stars/vsouza/awesome-ios?style=flat)](https://github.com/vsouza/awesome-ios/stargazers) - Mobile operating system for Apple phones and tablets.
+- [Android](https://github.com/JStumpp/awesome-android#readme) [![GitHub stars](https://img.shields.io/github/stars/JStumpp/awesome-android?style=flat)](https://github.com/JStumpp/awesome-android/stargazers) - Mobile operating system developed by Google.
+- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme) [![GitHub stars](https://img.shields.io/github/stars/weblancaster/awesome-IoT-hybrid?style=flat)](https://github.com/weblancaster/awesome-IoT-hybrid/stargazers)
+- [Electron](https://github.com/sindresorhus/awesome-electron#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-electron?style=flat)](https://github.com/sindresorhus/awesome-electron/stargazers) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Cordova](https://github.com/busterc/awesome-cordova#readme) [![GitHub stars](https://img.shields.io/github/stars/busterc/awesome-cordova?style=flat)](https://github.com/busterc/awesome-cordova/stargazers) - JavaScript API for hybrid apps.
+- [React Native](https://github.com/jondot/awesome-react-native#readme) [![GitHub stars](https://img.shields.io/github/stars/jondot/awesome-react-native?style=flat)](https://github.com/jondot/awesome-react-native/stargazers) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) [![GitHub stars](https://img.shields.io/github/stars/XamSome/awesome-xamarin?style=flat)](https://github.com/XamSome/awesome-xamarin/stargazers) - Mobile app development IDE, testing, and distribution.
+- Linux
+	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme) [![GitHub stars](https://img.shields.io/github/stars/Friz-zy/awesome-linux-containers?style=flat)](https://github.com/Friz-zy/awesome-linux-containers/stargazers)
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) [![GitHub stars](https://img.shields.io/github/stars/zoidbergwill/awesome-ebpf?style=flat)](https://github.com/zoidbergwill/awesome-ebpf/stargazers) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) [![GitHub stars](https://img.shields.io/github/stars/PandaFoss/Awesome-Arch?style=flat)](https://github.com/PandaFoss/Awesome-Arch/stargazers) - Linux distributions and projects based on Arch Linux.
+	- [AppImage](https://github.com/AppImageCommunity/awesome-appimage#readme) [![GitHub stars](https://img.shields.io/github/stars/AppImageCommunity/awesome-appimage?style=flat)](https://github.com/AppImageCommunity/awesome-appimage/stargazers) - Package apps in a single file that works on various mainstream Linux distributions.
+	- [Omarchy](https://github.com/aorumbayev/awesome-omarchy#readme) [![GitHub stars](https://img.shields.io/github/stars/aorumbayev/awesome-omarchy?style=flat)](https://github.com/aorumbayev/awesome-omarchy/stargazers) - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
+- macOS - Operating system for Apple's Mac computers.
+	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme) [![GitHub stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers?style=flat)](https://github.com/agarrharr/awesome-macos-screensavers/stargazers)
+	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme) [![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac?style=flat)](https://github.com/jaywcjlove/awesome-mac/stargazers)
+	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme) [![GitHub stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps?style=flat)](https://github.com/serhii-londar/open-source-mac-os-apps/stargazers)
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) [![GitHub stars](https://img.shields.io/github/stars/yenchenlin/awesome-watchos?style=flat)](https://github.com/yenchenlin/awesome-watchos/stargazers) - Operating system for the Apple Watch.
+- [JVM](https://github.com/deephacks/awesome-jvm#readme) [![GitHub stars](https://img.shields.io/github/stars/deephacks/awesome-jvm?style=flat)](https://github.com/deephacks/awesome-jvm/stargazers)
+- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme) [![GitHub stars](https://img.shields.io/github/stars/mailtoharshit/awesome-salesforce?style=flat)](https://github.com/mailtoharshit/awesome-salesforce/stargazers)
+- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme) [![GitHub stars](https://img.shields.io/github/stars/donnemartin/awesome-aws?style=flat)](https://github.com/donnemartin/awesome-aws/stargazers)
+- [Windows](https://github.com/0pandadev/awesome-windows#readme) [![GitHub stars](https://img.shields.io/github/stars/0pandadev/awesome-windows?style=flat)](https://github.com/0pandadev/awesome-windows/stargazers) - Consumer desktop operating system.
+	- [PowerToys Run Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) [![GitHub stars](https://img.shields.io/github/stars/hlaueriksson/awesome-powertoys-run-plugins?style=flat)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/stargazers) - Community plugins for the Windows quick launcher.
+- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) [![GitHub stars](https://img.shields.io/github/stars/ipfs/awesome-ipfs?style=flat)](https://github.com/ipfs/awesome-ipfs/stargazers) - P2P hypermedia protocol.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) [![GitHub stars](https://img.shields.io/github/stars/fuse-compound/awesome-fuse?style=flat)](https://github.com/fuse-compound/awesome-fuse/stargazers) - Mobile development tools.
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) [![GitHub stars](https://img.shields.io/github/stars/ianstormtaylor/awesome-heroku?style=flat)](https://github.com/ianstormtaylor/awesome-heroku/stargazers) - Cloud platform as a service.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) [![GitHub stars](https://img.shields.io/github/stars/thibmaek/awesome-raspberry-pi?style=flat)](https://github.com/thibmaek/awesome-raspberry-pi/stargazers) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [Qt](https://github.com/JesseTG/awesome-qt#readme) [![GitHub stars](https://img.shields.io/github/stars/JesseTG/awesome-qt?style=flat)](https://github.com/JesseTG/awesome-qt/stargazers) - Cross-platform GUI app framework.
+- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) [![GitHub stars](https://img.shields.io/github/stars/fregante/Awesome-WebExtensions?style=flat)](https://github.com/fregante/Awesome-WebExtensions/stargazers) - Cross-browser extension system.
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) [![GitHub stars](https://img.shields.io/github/stars/vitalets/awesome-smart-tv?style=flat)](https://github.com/vitalets/awesome-smart-tv/stargazers) - Create apps for different TV platforms.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) [![GitHub stars](https://img.shields.io/github/stars/Kazhnuz/awesome-gnome?style=flat)](https://github.com/Kazhnuz/awesome-gnome/stargazers) - Simple and distraction-free desktop environment for Linux.
+- [KDE](https://github.com/francoism90/awesome-kde#readme) [![GitHub stars](https://img.shields.io/github/stars/francoism90/awesome-kde?style=flat)](https://github.com/francoism90/awesome-kde/stargazers) - A free software community dedicated to creating an open and user-friendly computing experience.
+- [.NET](https://github.com/quozd/awesome-dotnet#readme) [![GitHub stars](https://img.shields.io/github/stars/quozd/awesome-dotnet?style=flat)](https://github.com/quozd/awesome-dotnet/stargazers)
+	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme) [![GitHub stars](https://img.shields.io/github/stars/thangchung/awesome-dotnet-core?style=flat)](https://github.com/thangchung/awesome-dotnet-core/stargazers)
+	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) [![GitHub stars](https://img.shields.io/github/stars/ironcev/awesome-roslyn?style=flat)](https://github.com/ironcev/awesome-roslyn/stargazers) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) [![GitHub stars](https://img.shields.io/github/stars/jonleibowitz/awesome-digitalocean?style=flat)](https://github.com/jonleibowitz/awesome-digitalocean/stargazers) - Cloud computing platform designed for developers.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) [![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter?style=flat)](https://github.com/Solido/awesome-flutter/stargazers) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) [![GitHub stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant?style=flat)](https://github.com/frenck/awesome-home-assistant/stargazers) - Open source home automation that puts local control and privacy first.
+- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) [![GitHub stars](https://img.shields.io/github/stars/victorshinya/awesome-ibmcloud?style=flat)](https://github.com/victorshinya/awesome-ibmcloud/stargazers) - Cloud platform for developers and companies.
+- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) [![GitHub stars](https://img.shields.io/github/stars/jthegedus/awesome-firebase?style=flat)](https://github.com/jthegedus/awesome-firebase/stargazers) - App development platform built on Google Cloud.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) [![GitHub stars](https://img.shields.io/github/stars/adafruit/awesome-adafruitio?style=flat)](https://github.com/adafruit/awesome-adafruitio/stargazers) - Visualize and store data from any device.
+- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) [![GitHub stars](https://img.shields.io/github/stars/irazasyed/awesome-cloudflare?style=flat)](https://github.com/irazasyed/awesome-cloudflare/stargazers) - CDN, DNS, DDoS protection, and security for your site.
+- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) [![GitHub stars](https://img.shields.io/github/stars/ravirupareliya/awesome-actions-on-google?style=flat)](https://github.com/ravirupareliya/awesome-actions-on-google/stargazers) - Developer platform for Google Assistant.
+- [ESP](https://github.com/agucova/awesome-esp#readme) [![GitHub stars](https://img.shields.io/github/stars/agucova/awesome-esp?style=flat)](https://github.com/agucova/awesome-esp/stargazers) - Low-cost microcontrollers with WiFi and broad IoT applications.
+- [Deno](https://github.com/denolib/awesome-deno#readme) [![GitHub stars](https://img.shields.io/github/stars/denolib/awesome-deno?style=flat)](https://github.com/denolib/awesome-deno/stargazers) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [DOS](https://github.com/balintkissdev/awesome-dos#readme) [![GitHub stars](https://img.shields.io/github/stars/balintkissdev/awesome-dos?style=flat)](https://github.com/balintkissdev/awesome-dos/stargazers) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+- [Nix](https://github.com/nix-community/awesome-nix#readme) [![GitHub stars](https://img.shields.io/github/stars/nix-community/awesome-nix?style=flat)](https://github.com/nix-community/awesome-nix/stargazers) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Integration](https://github.com/stn1slv/awesome-integration#readme) [![GitHub stars](https://img.shields.io/github/stars/stn1slv/awesome-integration?style=flat)](https://github.com/stn1slv/awesome-integration/stargazers) - Linking together different IT systems (components) to functionally cooperate as a whole.
+- [Node-RED](https://github.com/naimo84/awesome-nodered#readme) [![GitHub stars](https://img.shields.io/github/stars/naimo84/awesome-nodered?style=flat)](https://github.com/naimo84/awesome-nodered/stargazers) - A programming tool for wiring together hardware devices, APIs, and online services.
+- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) [![GitHub stars](https://img.shields.io/github/stars/zenitysec/awesome-low-code?style=flat)](https://github.com/zenitysec/awesome-low-code/stargazers) - Allowing business professionals to address their needs on their own with little to no coding skills.
+- [Capacitor](https://github.com/riderx/awesome-capacitor#readme) [![GitHub stars](https://img.shields.io/github/stars/riderx/awesome-capacitor?style=flat)](https://github.com/riderx/awesome-capacitor/stargazers) - Cross-platform open source runtime for building Web Native apps.
+- [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) [![GitHub stars](https://img.shields.io/github/stars/Esri/awesome-arcgis-developer?style=flat)](https://github.com/Esri/awesome-arcgis-developer/stargazers) - Mapping and location analysis platform for developers.
+- [Bluetooth Low Energy](https://github.com/dotintent/awesome-ble#readme) [![GitHub stars](https://img.shields.io/github/stars/dotintent/awesome-ble?style=flat)](https://github.com/dotintent/awesome-ble/stargazers) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
+- [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) [![GitHub stars](https://img.shields.io/github/stars/MartinZikmund/awesome-uno-platform?style=flat)](https://github.com/MartinZikmund/awesome-uno-platform/stargazers) - Open-source .NET UI platform for building cross-platform apps.
+- [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) [![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/awesome-google-cloud?style=flat)](https://github.com/GoogleCloudPlatform/awesome-google-cloud/stargazers) - Cloud computing services by Google.
+- [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) [![GitHub stars](https://img.shields.io/github/stars/xavidop/awesome-firebase-genkit?style=flat)](https://github.com/xavidop/awesome-firebase-genkit/stargazers) - An open-source framework for building AI-powered apps and features.
+- [Backstage](https://github.com/shano/awesome-backstage#readme) [![GitHub stars](https://img.shields.io/github/stars/shano/awesome-backstage?style=flat)](https://github.com/shano/awesome-backstage/stargazers) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
+
+## Programming Languages
+
+- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme) [![GitHub stars](https://img.shields.io/github/stars/sorrycc/awesome-javascript?style=flat)](https://github.com/sorrycc/awesome-javascript/stargazers)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme) [![GitHub stars](https://img.shields.io/github/stars/wbinnssmith/awesome-promises?style=flat)](https://github.com/wbinnssmith/awesome-promises/stargazers)
+	- [Standard Style](https://github.com/standard/awesome-standard#readme) [![GitHub stars](https://img.shields.io/github/stars/standard/awesome-standard?style=flat)](https://github.com/standard/awesome-standard/stargazers) - Style guide and linter.
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme) [![GitHub stars](https://img.shields.io/github/stars/bolshchikov/js-must-watch?style=flat)](https://github.com/bolshchikov/js-must-watch/stargazers)
+	- [Tips](https://github.com/loverajoel/jstips#readme) [![GitHub stars](https://img.shields.io/github/stars/loverajoel/jstips?style=flat)](https://github.com/loverajoel/jstips/stargazers)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme) [![GitHub stars](https://img.shields.io/github/stars/Kikobeats/awesome-network-js?style=flat)](https://github.com/Kikobeats/awesome-network-js/stargazers)
+	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme) [![GitHub stars](https://img.shields.io/github/stars/parro-it/awesome-micro-npm-packages?style=flat)](https://github.com/parro-it/awesome-micro-npm-packages/stargazers)
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) [![GitHub stars](https://img.shields.io/github/stars/feross/awesome-mad-science?style=flat)](https://github.com/feross/awesome-mad-science/stargazers) - Impossible sounding projects that exist.
+	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) [![GitHub stars](https://img.shields.io/github/stars/maxogden/maintenance-modules?style=flat)](https://github.com/maxogden/maintenance-modules/stargazers) - For npm packages.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-npm?style=flat)](https://github.com/sindresorhus/awesome-npm/stargazers) - Package manager.
+	- [AVA](https://github.com/avajs/awesome-ava#readme) [![GitHub stars](https://img.shields.io/github/stars/avajs/awesome-ava?style=flat)](https://github.com/avajs/awesome-ava/stargazers) - Test runner.
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) [![GitHub stars](https://img.shields.io/github/stars/dustinspecker/awesome-eslint?style=flat)](https://github.com/dustinspecker/awesome-eslint/stargazers) - Linter.
+	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme) [![GitHub stars](https://img.shields.io/github/stars/stoeffel/awesome-fp-js?style=flat)](https://github.com/stoeffel/awesome-fp-js/stargazers)
+	- [Observables](https://github.com/sindresorhus/awesome-observables#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-observables?style=flat)](https://github.com/sindresorhus/awesome-observables/stargazers)
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) [![GitHub stars](https://img.shields.io/github/stars/RyanZim/awesome-npm-scripts?style=flat)](https://github.com/RyanZim/awesome-npm-scripts/stargazers) - Task runner.
+	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) [![GitHub stars](https://img.shields.io/github/stars/30-seconds/30-seconds-of-code?style=flat)](https://github.com/30-seconds/30-seconds-of-code/stargazers) - Code snippets you can understand in 30 seconds.
+	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) [![GitHub stars](https://img.shields.io/github/stars/Richienb/awesome-ponyfills?style=flat)](https://github.com/Richienb/awesome-ponyfills/stargazers) - Like polyfills but without overriding native APIs.
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) [![GitHub stars](https://img.shields.io/github/stars/matteocrippa/awesome-swift?style=flat)](https://github.com/matteocrippa/awesome-swift/stargazers) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
+	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme) [![GitHub stars](https://img.shields.io/github/stars/hsavit1/Awesome-Swift-Education?style=flat)](https://github.com/hsavit1/Awesome-Swift-Education/stargazers)
+	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme) [![GitHub stars](https://img.shields.io/github/stars/uraimo/Awesome-Swift-Playgrounds?style=flat)](https://github.com/uraimo/Awesome-Swift-Playgrounds/stargazers)
+- [Python](https://github.com/vinta/awesome-python#readme) [![GitHub stars](https://img.shields.io/github/stars/vinta/awesome-python?style=flat)](https://github.com/vinta/awesome-python/stargazers) - General-purpose programming language designed for readability.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) [![GitHub stars](https://img.shields.io/github/stars/timofurrer/awesome-asyncio?style=flat)](https://github.com/timofurrer/awesome-asyncio/stargazers) - Asynchronous I/O in Python 3.
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) [![GitHub stars](https://img.shields.io/github/stars/faroit/awesome-python-scientific-audio?style=flat)](https://github.com/faroit/awesome-python-scientific-audio/stargazers) - Scientific research in audio/music.
+	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) [![GitHub stars](https://img.shields.io/github/stars/adafruit/awesome-circuitpython?style=flat)](https://github.com/adafruit/awesome-circuitpython/stargazers) - A version of Python for microcontrollers.
+	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) [![GitHub stars](https://img.shields.io/github/stars/krzjoa/awesome-python-data-science?style=flat)](https://github.com/krzjoa/awesome-python-data-science/stargazers) - Data analysis and machine learning.
+	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) [![GitHub stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing?style=flat)](https://github.com/typeddjango/awesome-python-typing/stargazers) - Optional static typing for Python.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) [![GitHub stars](https://img.shields.io/github/stars/mcauser/awesome-micropython?style=flat)](https://github.com/mcauser/awesome-micropython/stargazers) - A lean and efficient implementation of Python 3 for microcontrollers.
+- [Rust](https://github.com/rust-unofficial/awesome-rust#readme) [![GitHub stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=flat)](https://github.com/rust-unofficial/awesome-rust/stargazers)
+	- [Pest](https://github.com/pest-parser/awesome-pest#readme) [![GitHub stars](https://img.shields.io/github/stars/pest-parser/awesome-pest?style=flat)](https://github.com/pest-parser/awesome-pest/stargazers) - Parser generator.
+- [Haskell](https://github.com/krispo/awesome-haskell#readme) [![GitHub stars](https://img.shields.io/github/stars/krispo/awesome-haskell?style=flat)](https://github.com/krispo/awesome-haskell/stargazers)
+- [PureScript](https://github.com/passy/awesome-purescript#readme) [![GitHub stars](https://img.shields.io/github/stars/passy/awesome-purescript?style=flat)](https://github.com/passy/awesome-purescript/stargazers)
+- [Go](https://github.com/avelino/awesome-go#readme) [![GitHub stars](https://img.shields.io/github/stars/avelino/awesome-go?style=flat)](https://github.com/avelino/awesome-go/stargazers)
+- [Scala](https://github.com/lauris/awesome-scala#readme) [![GitHub stars](https://img.shields.io/github/stars/lauris/awesome-scala?style=flat)](https://github.com/lauris/awesome-scala/stargazers)
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) [![GitHub stars](https://img.shields.io/github/stars/tindzk/awesome-scala-native?style=flat)](https://github.com/tindzk/awesome-scala-native/stargazers) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+- [Ruby](https://github.com/markets/awesome-ruby#readme) [![GitHub stars](https://img.shields.io/github/stars/markets/awesome-ruby?style=flat)](https://github.com/markets/awesome-ruby/stargazers)
+- [Clojure](https://github.com/razum2um/awesome-clojure#readme) [![GitHub stars](https://img.shields.io/github/stars/razum2um/awesome-clojure?style=flat)](https://github.com/razum2um/awesome-clojure/stargazers)
+- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme) [![GitHub stars](https://img.shields.io/github/stars/hantuzun/awesome-clojurescript?style=flat)](https://github.com/hantuzun/awesome-clojurescript/stargazers)
+- [Elixir](https://github.com/h4cc/awesome-elixir#readme) [![GitHub stars](https://img.shields.io/github/stars/h4cc/awesome-elixir?style=flat)](https://github.com/h4cc/awesome-elixir/stargazers)
+- [Elm](https://github.com/sporto/awesome-elm#readme) [![GitHub stars](https://img.shields.io/github/stars/sporto/awesome-elm?style=flat)](https://github.com/sporto/awesome-elm/stargazers)
+- [Erlang](https://github.com/drobakowski/awesome-erlang#readme) [![GitHub stars](https://img.shields.io/github/stars/drobakowski/awesome-erlang?style=flat)](https://github.com/drobakowski/awesome-erlang/stargazers)
+- [Julia](https://github.com/svaksha/Julia.jl#readme) [![GitHub stars](https://img.shields.io/github/stars/svaksha/Julia.jl?style=flat)](https://github.com/svaksha/Julia.jl/stargazers) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+- [Lua](https://github.com/LewisJEllis/awesome-lua#readme) [![GitHub stars](https://img.shields.io/github/stars/LewisJEllis/awesome-lua?style=flat)](https://github.com/LewisJEllis/awesome-lua/stargazers)
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) [![GitHub stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp?style=flat)](https://github.com/fffaraz/awesome-cpp/stargazers) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+- [R](https://github.com/qinwf/awesome-R#readme) [![GitHub stars](https://img.shields.io/github/stars/qinwf/awesome-R?style=flat)](https://github.com/qinwf/awesome-R/stargazers) - Functional programming language and environment for statistical computing and graphics.
+	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme) [![GitHub stars](https://img.shields.io/github/stars/iamericfletcher/awesome-r-learning-resources?style=flat)](https://github.com/iamericfletcher/awesome-r-learning-resources/stargazers)
+- [D](https://github.com/dlang-community/awesome-d#readme) [![GitHub stars](https://img.shields.io/github/stars/dlang-community/awesome-d?style=flat)](https://github.com/dlang-community/awesome-d/stargazers)
+- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) [![GitHub stars](https://img.shields.io/github/stars/CodyReichert/awesome-cl?style=flat)](https://github.com/CodyReichert/awesome-cl/stargazers) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme) [![GitHub stars](https://img.shields.io/github/stars/GustavBertram/awesome-common-lisp-learning?style=flat)](https://github.com/GustavBertram/awesome-common-lisp-learning/stargazers)
+- [Perl](https://github.com/hachiojipm/awesome-perl#readme) [![GitHub stars](https://img.shields.io/github/stars/hachiojipm/awesome-perl?style=flat)](https://github.com/hachiojipm/awesome-perl/stargazers)
+- [Groovy](https://github.com/kdabir/awesome-groovy#readme) [![GitHub stars](https://img.shields.io/github/stars/kdabir/awesome-groovy?style=flat)](https://github.com/kdabir/awesome-groovy/stargazers)
+- [Dart](https://github.com/yissachar/awesome-dart#readme) [![GitHub stars](https://img.shields.io/github/stars/yissachar/awesome-dart?style=flat)](https://github.com/yissachar/awesome-dart/stargazers)
+- [Java](https://github.com/akullpp/awesome-java#readme) [![GitHub stars](https://img.shields.io/github/stars/akullpp/awesome-java?style=flat)](https://github.com/akullpp/awesome-java/stargazers) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
+	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme) [![GitHub stars](https://img.shields.io/github/stars/eleventigers/awesome-rxjava?style=flat)](https://github.com/eleventigers/awesome-rxjava/stargazers)
+ 	- [J2ME](https://github.com/hstsethi/awesome-j2me#readme) [![GitHub stars](https://img.shields.io/github/stars/hstsethi/awesome-j2me?style=flat)](https://github.com/hstsethi/awesome-j2me/stargazers) - Java specification designed for old keypad phones and PDAs.
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme) [![GitHub stars](https://img.shields.io/github/stars/KotlinBy/awesome-kotlin?style=flat)](https://github.com/KotlinBy/awesome-kotlin/stargazers)
+- [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme) [![GitHub stars](https://img.shields.io/github/stars/ocaml-community/awesome-ocaml?style=flat)](https://github.com/ocaml-community/awesome-ocaml/stargazers)
+- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme) [![GitHub stars](https://img.shields.io/github/stars/seancoyne/awesome-coldfusion?style=flat)](https://github.com/seancoyne/awesome-coldfusion/stargazers)
+- [Fortran](https://github.com/rabbiabram/awesome-fortran#readme) [![GitHub stars](https://img.shields.io/github/stars/rabbiabram/awesome-fortran?style=flat)](https://github.com/rabbiabram/awesome-fortran/stargazers)
+- [PHP](https://github.com/ziadoz/awesome-php#readme) [![GitHub stars](https://img.shields.io/github/stars/ziadoz/awesome-php?style=flat)](https://github.com/ziadoz/awesome-php/stargazers) - Server-side scripting language.
+	- [Composer](https://github.com/jakoch/awesome-composer#readme) [![GitHub stars](https://img.shields.io/github/stars/jakoch/awesome-composer?style=flat)](https://github.com/jakoch/awesome-composer/stargazers) - Package manager.
+- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme) [![GitHub stars](https://img.shields.io/github/stars/Fr0sT-Brutal/awesome-pascal?style=flat)](https://github.com/Fr0sT-Brutal/awesome-pascal/stargazers)
+- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme) [![GitHub stars](https://img.shields.io/github/stars/ahkscript/awesome-AutoHotkey?style=flat)](https://github.com/ahkscript/awesome-AutoHotkey/stargazers)
+- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme) [![GitHub stars](https://img.shields.io/github/stars/J2TeaM/awesome-AutoIt?style=flat)](https://github.com/J2TeaM/awesome-AutoIt/stargazers)
+- [Crystal](https://github.com/veelenga/awesome-crystal#readme) [![GitHub stars](https://img.shields.io/github/stars/veelenga/awesome-crystal?style=flat)](https://github.com/veelenga/awesome-crystal/stargazers)
+- [CMake](https://github.com/onqtam/awesome-cmake#readme) [![GitHub stars](https://img.shields.io/github/stars/onqtam/awesome-cmake?style=flat)](https://github.com/onqtam/awesome-cmake/stargazers) - Build, test, and package software.
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) [![GitHub stars](https://img.shields.io/github/stars/robinrodricks/awesome-actionscript3?style=flat)](https://github.com/robinrodricks/awesome-actionscript3/stargazers) - Object-oriented language targeting Adobe AIR.
+- [Idris](https://github.com/joaomilho/awesome-idris#readme) [![GitHub stars](https://img.shields.io/github/stars/joaomilho/awesome-idris?style=flat)](https://github.com/joaomilho/awesome-idris/stargazers) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) [![GitHub stars](https://img.shields.io/github/stars/ohenley/awesome-ada?style=flat)](https://github.com/ohenley/awesome-ada/stargazers) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+- [Q#](https://github.com/ebraminio/awesome-qsharp#readme) [![GitHub stars](https://img.shields.io/github/stars/ebraminio/awesome-qsharp?style=flat)](https://github.com/ebraminio/awesome-qsharp/stargazers) - Domain-specific programming language used for expressing quantum algorithms.
+- [Imba](https://github.com/koolamusic/awesome-imba#readme) [![GitHub stars](https://img.shields.io/github/stars/koolamusic/awesome-imba?style=flat)](https://github.com/koolamusic/awesome-imba/stargazers) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+- [Vala](https://github.com/desiderantes/awesome-vala#readme) [![GitHub stars](https://img.shields.io/github/stars/desiderantes/awesome-vala?style=flat)](https://github.com/desiderantes/awesome-vala/stargazers) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) [![GitHub stars](https://img.shields.io/github/stars/coq-community/awesome-coq?style=flat)](https://github.com/coq-community/awesome-coq/stargazers) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+- [V](https://github.com/vlang/awesome-v#readme) [![GitHub stars](https://img.shields.io/github/stars/vlang/awesome-v?style=flat)](https://github.com/vlang/awesome-v/stargazers) - Simple, fast, safe, compiled language for developing maintainable software.
+- [Move](https://github.com/MystenLabs/awesome-move#readme) [![GitHub stars](https://img.shields.io/github/stars/MystenLabs/awesome-move?style=flat)](https://github.com/MystenLabs/awesome-move/stargazers) - Domain-specific programming language for writing safe smart contracts.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) [![GitHub stars](https://img.shields.io/github/stars/angrykoala/awesome-esolangs?style=flat)](https://github.com/angrykoala/awesome-esolangs/stargazers) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [VBA](https://github.com/sancarn/awesome-vba#readme) [![GitHub stars](https://img.shields.io/github/stars/sancarn/awesome-vba?style=flat)](https://github.com/sancarn/awesome-vba/stargazers) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+- [F#](https://github.com/fsprojects/awesome-fsharp#readme) [![GitHub stars](https://img.shields.io/github/stars/fsprojects/awesome-fsharp?style=flat)](https://github.com/fsprojects/awesome-fsharp/stargazers) - A .NET-based language with focus on functional programming.
+
+<br>
+<hr>
+<br>
+<br>
+<a href="https://vshymanskyy.github.io/StandWithUkraine">
+	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+</a>
+<br>
+<br>
+<hr>
+<br>
+
+## Front-End Development
+
+- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme) [![GitHub stars](https://img.shields.io/github/stars/addyosmani/es6-tools?style=flat)](https://github.com/addyosmani/es6-tools/stargazers)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) [![GitHub stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo?style=flat)](https://github.com/davidsonfellipe/awesome-wpo/stargazers)
+- [Web Tools](https://github.com/lvwzhen/tools#readme) [![GitHub stars](https://img.shields.io/github/stars/lvwzhen/tools?style=flat)](https://github.com/lvwzhen/tools/stargazers)
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) [![GitHub stars](https://img.shields.io/github/stars/awesome-css-group/awesome-css?style=flat)](https://github.com/awesome-css-group/awesome-css/stargazers) - Style sheet language that specifies how HTML elements are displayed on screen.
+	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme) [![GitHub stars](https://img.shields.io/github/stars/addyosmani/critical-path-css-tools?style=flat)](https://github.com/addyosmani/critical-path-css-tools/stargazers)
+	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme) [![GitHub stars](https://img.shields.io/github/stars/davidtheclark/scalable-css-reading-list?style=flat)](https://github.com/davidtheclark/scalable-css-reading-list/stargazers)
+	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme) [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/must-watch-css?style=flat)](https://github.com/AllThingsSmitty/must-watch-css/stargazers)
+	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme) [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips?style=flat)](https://github.com/AllThingsSmitty/css-protips/stargazers)
+	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme) [![GitHub stars](https://img.shields.io/github/stars/troxler/awesome-css-frameworks?style=flat)](https://github.com/troxler/awesome-css-frameworks/stargazers)
+- [React](https://github.com/enaqx/awesome-react#readme) [![GitHub stars](https://img.shields.io/github/stars/enaqx/awesome-react?style=flat)](https://github.com/enaqx/awesome-react/stargazers) - JavaScript library for building user interfaces.
+	- [Relay](https://github.com/expede/awesome-relay#readme) [![GitHub stars](https://img.shields.io/github/stars/expede/awesome-relay?style=flat)](https://github.com/expede/awesome-relay/stargazers) - Framework for building data-driven React apps.
+	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) [![GitHub stars](https://img.shields.io/github/stars/glauberfc/awesome-react-hooks?style=flat)](https://github.com/glauberfc/awesome-react-hooks/stargazers) - Lets you use state and other React features without writing a class.
+- [Web Components](https://github.com/web-padawan/awesome-web-components#readme) [![GitHub stars](https://img.shields.io/github/stars/web-padawan/awesome-web-components?style=flat)](https://github.com/web-padawan/awesome-web-components/stargazers)
+- [Polymer](https://github.com/Granze/awesome-polymer#readme) [![GitHub stars](https://img.shields.io/github/stars/Granze/awesome-polymer?style=flat)](https://github.com/Granze/awesome-polymer/stargazers) - JavaScript library to develop Web Components.
+- [Angular](https://github.com/PatrickJS/awesome-angular#readme) [![GitHub stars](https://img.shields.io/github/stars/PatrickJS/awesome-angular?style=flat)](https://github.com/PatrickJS/awesome-angular/stargazers) - App framework.
+- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) [![GitHub stars](https://img.shields.io/github/stars/sadcitizen/awesome-backbone?style=flat)](https://github.com/sadcitizen/awesome-backbone/stargazers) - App framework.
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) [![GitHub stars](https://img.shields.io/github/stars/diegocard/awesome-html5?style=flat)](https://github.com/diegocard/awesome-html5/stargazers) - Markup language used for websites & web apps.
+- [SVG](https://github.com/willianjusten/awesome-svg#readme) [![GitHub stars](https://img.shields.io/github/stars/willianjusten/awesome-svg?style=flat)](https://github.com/willianjusten/awesome-svg/stargazers) - XML-based vector image format.
+- [Canvas](https://github.com/raphamorim/awesome-canvas#readme) [![GitHub stars](https://img.shields.io/github/stars/raphamorim/awesome-canvas?style=flat)](https://github.com/raphamorim/awesome-canvas/stargazers)
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) [![GitHub stars](https://img.shields.io/github/stars/dnbard/awesome-knockout?style=flat)](https://github.com/dnbard/awesome-knockout/stargazers) - JavaScript library.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) [![GitHub stars](https://img.shields.io/github/stars/petk/awesome-dojo?style=flat)](https://github.com/petk/awesome-dojo/stargazers) - JavaScript toolkit.
+- [Inspiration](https://github.com/NoahBuscher/Inspire#readme) [![GitHub stars](https://img.shields.io/github/stars/NoahBuscher/Inspire?style=flat)](https://github.com/NoahBuscher/Inspire/stargazers)
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) [![GitHub stars](https://img.shields.io/github/stars/ember-community-russia/awesome-ember?style=flat)](https://github.com/ember-community-russia/awesome-ember/stargazers) - App framework.
+- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme) [![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-ui?style=flat)](https://github.com/wasabeef/awesome-android-ui/stargazers)
+- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme) [![GitHub stars](https://img.shields.io/github/stars/cjwirth/awesome-ios-ui?style=flat)](https://github.com/cjwirth/awesome-ios-ui/stargazers)
+- [Meteor](https://github.com/Urigo/awesome-meteor#readme) [![GitHub stars](https://img.shields.io/github/stars/Urigo/awesome-meteor?style=flat)](https://github.com/Urigo/awesome-meteor/stargazers)
+- [BEM](https://github.com/sturobson/BEM-resources#readme) [![GitHub stars](https://img.shields.io/github/stars/sturobson/BEM-resources?style=flat)](https://github.com/sturobson/BEM-resources/stargazers)
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme) [![GitHub stars](https://img.shields.io/github/stars/afonsopacifer/awesome-flexbox?style=flat)](https://github.com/afonsopacifer/awesome-flexbox/stargazers)
+- [Web Typography](https://github.com/deanhume/typography#readme) [![GitHub stars](https://img.shields.io/github/stars/deanhume/typography?style=flat)](https://github.com/deanhume/typography/stargazers)
+- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme) [![GitHub stars](https://img.shields.io/github/stars/brunopulis/awesome-a11y?style=flat)](https://github.com/brunopulis/awesome-a11y/stargazers)
+- [Material Design](https://github.com/sachin1092/awesome-material#readme) [![GitHub stars](https://img.shields.io/github/stars/sachin1092/awesome-material?style=flat)](https://github.com/sachin1092/awesome-material/stargazers)
+- [D3](https://github.com/wbkd/awesome-d3#readme) [![GitHub stars](https://img.shields.io/github/stars/wbkd/awesome-d3?style=flat)](https://github.com/wbkd/awesome-d3/stargazers) - Library for producing dynamic, interactive data visualizations.
+- [Emails](https://github.com/jonathandion/awesome-emails#readme) [![GitHub stars](https://img.shields.io/github/stars/jonathandion/awesome-emails?style=flat)](https://github.com/jonathandion/awesome-emails/stargazers)
+- [jQuery](https://github.com/petk/awesome-jquery#readme) [![GitHub stars](https://img.shields.io/github/stars/petk/awesome-jquery?style=flat)](https://github.com/petk/awesome-jquery/stargazers) - Easy to use JavaScript library for DOM manipulation.
+	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme) [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/jquery-tips-everyone-should-know?style=flat)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/stargazers)
+- [Web Audio](https://github.com/notthetup/awesome-webaudio#readme) [![GitHub stars](https://img.shields.io/github/stars/notthetup/awesome-webaudio?style=flat)](https://github.com/notthetup/awesome-webaudio/stargazers)
+- [Offline-First](https://github.com/pazguille/offline-first#readme) [![GitHub stars](https://img.shields.io/github/stars/pazguille/offline-first?style=flat)](https://github.com/pazguille/offline-first/stargazers)
+- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme) [![GitHub stars](https://img.shields.io/github/stars/agarrharr/awesome-static-website-services?style=flat)](https://github.com/agarrharr/awesome-static-website-services/stargazers)
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) [![GitHub stars](https://img.shields.io/github/stars/cyclejs-community/awesome-cyclejs?style=flat)](https://github.com/cyclejs-community/awesome-cyclejs/stargazers) - Functional and reactive JavaScript framework.
+- [Text Editing](https://github.com/dok/awesome-text-editing#readme) [![GitHub stars](https://img.shields.io/github/stars/dok/awesome-text-editing?style=flat)](https://github.com/dok/awesome-text-editing/stargazers)
+- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme) [![GitHub stars](https://img.shields.io/github/stars/fliptheweb/motion-ui-design?style=flat)](https://github.com/fliptheweb/motion-ui-design/stargazers)
+- [Vue.js](https://github.com/vuejs/awesome-vue#readme) [![GitHub stars](https://img.shields.io/github/stars/vuejs/awesome-vue?style=flat)](https://github.com/vuejs/awesome-vue/stargazers) - App framework.
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) [![GitHub stars](https://img.shields.io/github/stars/sadcitizen/awesome-marionette?style=flat)](https://github.com/sadcitizen/awesome-marionette/stargazers) - App framework.
+- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) [![GitHub stars](https://img.shields.io/github/stars/aurelia-contrib/awesome-aurelia?style=flat)](https://github.com/aurelia-contrib/awesome-aurelia/stargazers) - App framework.
+- [Charting](https://github.com/zingchart/awesome-charting#readme) [![GitHub stars](https://img.shields.io/github/stars/zingchart/awesome-charting?style=flat)](https://github.com/zingchart/awesome-charting/stargazers)
+- [Ionic Framework](https://github.com/candelibas/awesome-ionic#readme) [![GitHub stars](https://img.shields.io/github/stars/candelibas/awesome-ionic?style=flat)](https://github.com/candelibas/awesome-ionic/stargazers)
+- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme) [![GitHub stars](https://img.shields.io/github/stars/ChromeDevTools/awesome-chrome-devtools?style=flat)](https://github.com/ChromeDevTools/awesome-chrome-devtools/stargazers)
+- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) [![GitHub stars](https://img.shields.io/github/stars/jdrgomes/awesome-postcss?style=flat)](https://github.com/jdrgomes/awesome-postcss/stargazers) - CSS tool.
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers) - Rich text editor framework for React.
+- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme) [![GitHub stars](https://img.shields.io/github/stars/TalAter/awesome-service-workers?style=flat)](https://github.com/TalAter/awesome-service-workers/stargazers)
+- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme) [![GitHub stars](https://img.shields.io/github/stars/TalAter/awesome-progressive-web-apps?style=flat)](https://github.com/TalAter/awesome-progressive-web-apps/stargazers)
+- [choo](https://github.com/choojs/awesome-choo#readme) [![GitHub stars](https://img.shields.io/github/stars/choojs/awesome-choo?style=flat)](https://github.com/choojs/awesome-choo/stargazers) - App framework.
+- [Redux](https://github.com/brillout/awesome-redux#readme) [![GitHub stars](https://img.shields.io/github/stars/brillout/awesome-redux?style=flat)](https://github.com/brillout/awesome-redux/stargazers) - State container for JavaScript apps.
+- [Browserify](https://github.com/browserify/awesome-browserify#readme) [![GitHub stars](https://img.shields.io/github/stars/browserify/awesome-browserify?style=flat)](https://github.com/browserify/awesome-browserify/stargazers) - Module bundler.
+- [Sass](https://github.com/Famolus/awesome-sass#readme) [![GitHub stars](https://img.shields.io/github/stars/Famolus/awesome-sass?style=flat)](https://github.com/Famolus/awesome-sass/stargazers) - CSS preprocessor.
+- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) [![GitHub stars](https://img.shields.io/github/stars/websemantics/awesome-ant-design?style=flat)](https://github.com/websemantics/awesome-ant-design/stargazers) - Enterprise-class UI design language.
+- [Less](https://github.com/LucasBassetti/awesome-less#readme) [![GitHub stars](https://img.shields.io/github/stars/LucasBassetti/awesome-less?style=flat)](https://github.com/LucasBassetti/awesome-less/stargazers) - CSS preprocessor.
+- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) [![GitHub stars](https://img.shields.io/github/stars/sjfricke/awesome-webgl?style=flat)](https://github.com/sjfricke/awesome-webgl/stargazers) - JavaScript API for rendering 3D graphics.
+- [Preact](https://github.com/preactjs/awesome-preact#readme) [![GitHub stars](https://img.shields.io/github/stars/preactjs/awesome-preact?style=flat)](https://github.com/preactjs/awesome-preact/stargazers) - App framework.
+- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme) [![GitHub stars](https://img.shields.io/github/stars/jbmoelker/progressive-enhancement-resources?style=flat)](https://github.com/jbmoelker/progressive-enhancement-resources/stargazers)
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) [![GitHub stars](https://img.shields.io/github/stars/unicodeveloper/awesome-nextjs?style=flat)](https://github.com/unicodeveloper/awesome-nextjs/stargazers) - Framework for server-rendered React apps.
+- [lit](https://github.com/web-padawan/awesome-lit#readme) [![GitHub stars](https://img.shields.io/github/stars/web-padawan/awesome-lit?style=flat)](https://github.com/web-padawan/awesome-lit/stargazers) - Library for building web components with a declarative template system.
+- [JAMstack](https://github.com/automata/awesome-jamstack#readme) [![GitHub stars](https://img.shields.io/github/stars/automata/awesome-jamstack?style=flat)](https://github.com/automata/awesome-jamstack/stargazers) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) [![GitHub stars](https://img.shields.io/github/stars/henrikwirth/awesome-wordpress-gatsby?style=flat)](https://github.com/henrikwirth/awesome-wordpress-gatsby/stargazers) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) [![GitHub stars](https://img.shields.io/github/stars/myshov/awesome-mobile-web-development?style=flat)](https://github.com/myshov/awesome-mobile-web-development/stargazers) - Creating a great mobile web experience.
+- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) [![GitHub stars](https://img.shields.io/github/stars/lauthieb/awesome-storybook?style=flat)](https://github.com/lauthieb/awesome-storybook/stargazers) - Development environment for UI components.
+- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) [![GitHub stars](https://img.shields.io/github/stars/AdrienTorris/awesome-blazor?style=flat)](https://github.com/AdrienTorris/awesome-blazor/stargazers) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) [![GitHub stars](https://img.shields.io/github/stars/csabapalfi/awesome-pagespeed-metrics?style=flat)](https://github.com/csabapalfi/awesome-pagespeed-metrics/stargazers) - Metrics to help understand page speed and user experience.
+- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) [![GitHub stars](https://img.shields.io/github/stars/aniftyco/awesome-tailwindcss?style=flat)](https://github.com/aniftyco/awesome-tailwindcss/stargazers) - Utility-first CSS framework for rapid UI development.
+- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) [![GitHub stars](https://img.shields.io/github/stars/seed-rs/awesome-seed-rs?style=flat)](https://github.com/seed-rs/awesome-seed-rs/stargazers) - Rust framework for creating web apps running in WebAssembly.
+- [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) [![GitHub stars](https://img.shields.io/github/stars/pajaydev/awesome-web-performance-budget?style=flat)](https://github.com/pajaydev/awesome-web-performance-budget/stargazers) - Techniques to ensure certain performance metrics for a website.
+- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) [![GitHub stars](https://img.shields.io/github/stars/sergey-pimenov/awesome-web-animation?style=flat)](https://github.com/sergey-pimenov/awesome-web-animation/stargazers) - Animations in the browser with JavaScript, CSS, SVG, etc.
+- [Yew](https://github.com/jetli/awesome-yew#readme) [![GitHub stars](https://img.shields.io/github/stars/jetli/awesome-yew?style=flat)](https://github.com/jetli/awesome-yew/stargazers) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) [![GitHub stars](https://img.shields.io/github/stars/nadunindunil/awesome-material-ui?style=flat)](https://github.com/nadunindunil/awesome-material-ui/stargazers) - Material Design React components for faster and easier web development.
+- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) [![GitHub stars](https://img.shields.io/github/stars/componently-com/awesome-building-blocks-for-web-apps?style=flat)](https://github.com/componently-com/awesome-building-blocks-for-web-apps/stargazers) - Standalone features to be integrated into web apps.
+- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) [![GitHub stars](https://img.shields.io/github/stars/TheComputerM/awesome-svelte?style=flat)](https://github.com/TheComputerM/awesome-svelte/stargazers) - App framework.
+- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) [![GitHub stars](https://img.shields.io/github/stars/klaufel/awesome-design-systems?style=flat)](https://github.com/klaufel/awesome-design-systems/stargazers) - Collection of reusable components, guided by rules that ensure consistency and speed.
+- [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) [![GitHub stars](https://img.shields.io/github/stars/innocenzi/awesome-inertiajs?style=flat)](https://github.com/innocenzi/awesome-inertiajs/stargazers) - Make single-page apps without building an API.
+- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) [![GitHub stars](https://img.shields.io/github/stars/mdbootstrap/awesome-mdbootstrap?style=flat)](https://github.com/mdbootstrap/awesome-mdbootstrap/stargazers) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Master CSS](https://github.com/master-co/awesome-master-css#readme) [![GitHub stars](https://img.shields.io/github/stars/master-co/awesome-master-css?style=flat)](https://github.com/master-co/awesome-master-css/stargazers) - A virtual CSS language with enhanced syntax.
+- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) [![GitHub stars](https://img.shields.io/github/stars/shopify/awesome-hydrogen?style=flat)](https://github.com/shopify/awesome-hydrogen/stargazers) - Edge-first framework for building Shopify storefronts with React.
+- [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) [![GitHub stars](https://img.shields.io/github/stars/thoughtspile/awesome-tiny-js?style=flat)](https://github.com/thoughtspile/awesome-tiny-js/stargazers) - Frontend libraries that fit into 2 kB with dependencies.
+- [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) [![GitHub stars](https://img.shields.io/github/stars/joewdavies/awesome-frontend-gis?style=flat)](https://github.com/joewdavies/awesome-frontend-gis/stargazers) - Geographic Information Systems (GIS) for web browsers.
+- [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) [![GitHub stars](https://img.shields.io/github/stars/mikbry/awesome-webgpu?style=flat)](https://github.com/mikbry/awesome-webgpu/stargazers) - JavaScript API for rendering and compute on GPUs.
+- [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) [![GitHub stars](https://img.shields.io/github/stars/idematos/awesome-webassembly?style=flat)](https://github.com/idematos/awesome-webassembly/stargazers) - A portable binary format for running code efficiently across platforms.
+
+## Back-End Development
+
+- [Flask](https://github.com/mjhea0/awesome-flask#readme) [![GitHub stars](https://img.shields.io/github/stars/mjhea0/awesome-flask?style=flat)](https://github.com/mjhea0/awesome-flask/stargazers) - Python framework.
+- [Docker](https://github.com/veggiemonk/awesome-docker#readme) [![GitHub stars](https://img.shields.io/github/stars/veggiemonk/awesome-docker?style=flat)](https://github.com/veggiemonk/awesome-docker/stargazers)
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) [![GitHub stars](https://img.shields.io/github/stars/iJackUA/awesome-vagrant?style=flat)](https://github.com/iJackUA/awesome-vagrant/stargazers) - Automation virtual machine environment.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) [![GitHub stars](https://img.shields.io/github/stars/uralbash/awesome-pyramid?style=flat)](https://github.com/uralbash/awesome-pyramid/stargazers) - Python framework.
+- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme) [![GitHub stars](https://img.shields.io/github/stars/PerfectCarl/awesome-play1?style=flat)](https://github.com/PerfectCarl/awesome-play1/stargazers)
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) [![GitHub stars](https://img.shields.io/github/stars/friendsofcake/awesome-cakephp?style=flat)](https://github.com/friendsofcake/awesome-cakephp/stargazers) - PHP framework.
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) [![GitHub stars](https://img.shields.io/github/stars/sitepoint-editors/awesome-symfony?style=flat)](https://github.com/sitepoint-editors/awesome-symfony/stargazers) - PHP framework.
+	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme) [![GitHub stars](https://img.shields.io/github/stars/pehapkari/awesome-symfony-education?style=flat)](https://github.com/pehapkari/awesome-symfony-education/stargazers)
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) [![GitHub stars](https://img.shields.io/github/stars/chiraggude/awesome-laravel?style=flat)](https://github.com/chiraggude/awesome-laravel/stargazers) - PHP framework.
+	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme) [![GitHub stars](https://img.shields.io/github/stars/fukuball/Awesome-Laravel-Education?style=flat)](https://github.com/fukuball/Awesome-Laravel-Education/stargazers)
+- [Rails](https://github.com/gramantin/awesome-rails#readme) [![GitHub stars](https://img.shields.io/github/stars/gramantin/awesome-rails?style=flat)](https://github.com/gramantin/awesome-rails/stargazers) - Web app framework for Ruby.
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) [![GitHub stars](https://img.shields.io/github/stars/hothero/awesome-rails-gem?style=flat)](https://github.com/hothero/awesome-rails-gem/stargazers) - Packages.
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) [![GitHub stars](https://img.shields.io/github/stars/phalcon/awesome-phalcon?style=flat)](https://github.com/phalcon/awesome-phalcon/stargazers) - PHP framework.
+- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme) [![GitHub stars](https://img.shields.io/github/stars/phanan/htaccess?style=flat)](https://github.com/phanan/htaccess/stargazers)
+- [nginx](https://github.com/fcambus/nginx-resources#readme) [![GitHub stars](https://img.shields.io/github/stars/fcambus/nginx-resources?style=flat)](https://github.com/fcambus/nginx-resources/stargazers) - Web server.
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) [![GitHub stars](https://img.shields.io/github/stars/stve/awesome-dropwizard?style=flat)](https://github.com/stve/awesome-dropwizard/stargazers) - Java framework.
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) [![GitHub stars](https://img.shields.io/github/stars/ramitsurana/awesome-kubernetes?style=flat)](https://github.com/ramitsurana/awesome-kubernetes/stargazers) - Open-source platform that automates Linux container operations.
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) [![GitHub stars](https://img.shields.io/github/stars/unicodeveloper/awesome-lumen?style=flat)](https://github.com/unicodeveloper/awesome-lumen/stargazers) - PHP micro-framework.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) [![GitHub stars](https://img.shields.io/github/stars/pmuens/awesome-serverless?style=flat)](https://github.com/pmuens/awesome-serverless/stargazers) - Serverless computing and serverless architectures.
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) [![GitHub stars](https://img.shields.io/github/stars/PhantomYdn/awesome-wicket?style=flat)](https://github.com/PhantomYdn/awesome-wicket/stargazers) - Java web app framework.
+- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) [![GitHub stars](https://img.shields.io/github/stars/vert-x3/vertx-awesome?style=flat)](https://github.com/vert-x3/vertx-awesome/stargazers) - Toolkit for building reactive apps on the JVM.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) [![GitHub stars](https://img.shields.io/github/stars/shuaibiyy/awesome-terraform?style=flat)](https://github.com/shuaibiyy/awesome-terraform/stargazers) - Tool for building, changing, and versioning infrastructure.
+- [Vapor](https://github.com/vapor-community/awesome-vapor#readme) [![GitHub stars](https://img.shields.io/github/stars/vapor-community/awesome-vapor?style=flat)](https://github.com/vapor-community/awesome-vapor/stargazers) - Server-side development in Swift.
+- [Dash](https://github.com/ucg8j/awesome-dash#readme) [![GitHub stars](https://img.shields.io/github/stars/ucg8j/awesome-dash?style=flat)](https://github.com/ucg8j/awesome-dash/stargazers) - Python web app framework.
+- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) [![GitHub stars](https://img.shields.io/github/stars/mjhea0/awesome-fastapi?style=flat)](https://github.com/mjhea0/awesome-fastapi/stargazers) - Python web app framework.
+- [CDK](https://github.com/kolomied/awesome-cdk#readme) [![GitHub stars](https://img.shields.io/github/stars/kolomied/awesome-cdk?style=flat)](https://github.com/kolomied/awesome-cdk/stargazers) - Open-source software development framework for defining cloud infrastructure in code.
+- [IAM](https://github.com/kdeldycke/awesome-iam#readme) [![GitHub stars](https://img.shields.io/github/stars/kdeldycke/awesome-iam?style=flat)](https://github.com/kdeldycke/awesome-iam/stargazers) - User accounts, authentication and authorization.
+- [Slim](https://github.com/nekofar/awesome-slim#readme) [![GitHub stars](https://img.shields.io/github/stars/nekofar/awesome-slim?style=flat)](https://github.com/nekofar/awesome-slim/stargazers) - PHP framework.
+- [Fiber](https://github.com/gofiber/awesome-fiber#readme) [![GitHub stars](https://img.shields.io/github/stars/gofiber/awesome-fiber?style=flat)](https://github.com/gofiber/awesome-fiber/stargazers) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) [![GitHub stars](https://img.shields.io/github/stars/DevOpsHiveHQ/awesome-kustomize?style=flat)](https://github.com/DevOpsHiveHQ/awesome-kustomize/stargazers) - Kubernetes native declarative configuration management tool.
+- [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) [![GitHub stars](https://img.shields.io/github/stars/virtualroot/awesome-opentofu?style=flat)](https://github.com/virtualroot/awesome-opentofu/stargazers) - Open-source infrastructure as code tool.
+- [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) [![GitHub stars](https://img.shields.io/github/stars/reflex-dev/awesome-reflex?style=flat)](https://github.com/reflex-dev/awesome-reflex/stargazers) - Python web framework for building both your frontend and backend with no JavaScript.
+
+## Computer Science
+
+- [University Courses](https://github.com/prakhar1989/awesome-courses#readme) [![GitHub stars](https://img.shields.io/github/stars/prakhar1989/awesome-courses?style=flat)](https://github.com/prakhar1989/awesome-courses/stargazers)
+- [Data Science](https://github.com/academic/awesome-datascience#readme) [![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=flat)](https://github.com/academic/awesome-datascience/stargazers)
+	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme) [![GitHub stars](https://img.shields.io/github/stars/siboehm/awesome-learn-datascience?style=flat)](https://github.com/siboehm/awesome-learn-datascience/stargazers)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme) [![GitHub stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=flat)](https://github.com/josephmisiti/awesome-machine-learning/stargazers)
+	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme) [![GitHub stars](https://img.shields.io/github/stars/ujjwalkarn/Machine-Learning-Tutorials?style=flat)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/stargazers)
+	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) [![GitHub stars](https://img.shields.io/github/stars/arbox/machine-learning-with-ruby?style=flat)](https://github.com/arbox/machine-learning-with-ruby/stargazers) - Learning, implementing, and applying Machine Learning using Ruby.
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) [![GitHub stars](https://img.shields.io/github/stars/likedan/Awesome-CoreML-Models?style=flat)](https://github.com/likedan/Awesome-CoreML-Models/stargazers) - Models for Apple's machine learning framework.
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) [![GitHub stars](https://img.shields.io/github/stars/h2oai/awesome-h2o?style=flat)](https://github.com/h2oai/awesome-h2o/stargazers) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) [![GitHub stars](https://img.shields.io/github/stars/SE-ML/awesome-seml?style=flat)](https://github.com/SE-ML/awesome-seml/stargazers) - From experiment to production-level machine learning.
+	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) [![GitHub stars](https://img.shields.io/github/stars/georgezouq/awesome-ai-in-finance?style=flat)](https://github.com/georgezouq/awesome-ai-in-finance/stargazers) - Solving problems in finance with machine learning.
+	- [JAX](https://github.com/n2cholas/awesome-jax#readme) [![GitHub stars](https://img.shields.io/github/stars/n2cholas/awesome-jax?style=flat)](https://github.com/n2cholas/awesome-jax/stargazers) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) [![GitHub stars](https://img.shields.io/github/stars/altamiracorp/awesome-xai?style=flat)](https://github.com/altamiracorp/awesome-xai/stargazers) - Providing insight, explanations, and interpretability to machine learning methods.
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme) [![GitHub stars](https://img.shields.io/github/stars/edobashira/speech-language-processing?style=flat)](https://github.com/edobashira/speech-language-processing/stargazers)
+	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme) [![GitHub stars](https://img.shields.io/github/stars/dav009/awesome-spanish-nlp?style=flat)](https://github.com/dav009/awesome-spanish-nlp/stargazers)
+	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme) [![GitHub stars](https://img.shields.io/github/stars/arbox/nlp-with-ruby?style=flat)](https://github.com/arbox/nlp-with-ruby/stargazers)
+	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) [![GitHub stars](https://img.shields.io/github/stars/seriousran/awesome-qa?style=flat)](https://github.com/seriousran/awesome-qa/stargazers) - The science of asking and answering in natural language with a machine.
+	- [Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme) [![GitHub stars](https://img.shields.io/github/stars/accelerated-text/awesome-nlg?style=flat)](https://github.com/accelerated-text/awesome-nlg/stargazers) - Generation of text used in data-to-text, conversational agents, and narrative generation applications.
+- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme) [![GitHub stars](https://img.shields.io/github/stars/theimpossibleastronaut/awesome-linguistics?style=flat)](https://github.com/theimpossibleastronaut/awesome-linguistics/stargazers)
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme) [![GitHub stars](https://img.shields.io/github/stars/sobolevn/awesome-cryptography?style=flat)](https://github.com/sobolevn/awesome-cryptography/stargazers)
+	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) [![GitHub stars](https://img.shields.io/github/stars/pFarb/awesome-crypto-papers?style=flat)](https://github.com/pFarb/awesome-crypto-papers/stargazers) - Theory basics for using cryptography by non-cryptographers.
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme) [![GitHub stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision?style=flat)](https://github.com/jbhuang0604/awesome-computer-vision/stargazers)
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) [![GitHub stars](https://img.shields.io/github/stars/ChristosChristofidis/awesome-deep-learning?style=flat)](https://github.com/ChristosChristofidis/awesome-deep-learning/stargazers) - Neural networks.
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) [![GitHub stars](https://img.shields.io/github/stars/jtoy/awesome-tensorflow?style=flat)](https://github.com/jtoy/awesome-tensorflow/stargazers) - Library for machine intelligence.
+	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) [![GitHub stars](https://img.shields.io/github/stars/aaronhma/awesome-tensorflow-js?style=flat)](https://github.com/aaronhma/awesome-tensorflow-js/stargazers) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
+	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) [![GitHub stars](https://img.shields.io/github/stars/margaretmz/awesome-tensorflow-lite?style=flat)](https://github.com/margaretmz/awesome-tensorflow-lite/stargazers) - Framework that optimizes TensorFlow models for on-device machine learning.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) [![GitHub stars](https://img.shields.io/github/stars/terryum/awesome-deep-learning-papers?style=flat)](https://github.com/terryum/awesome-deep-learning-papers/stargazers) - The most cited deep learning papers.
+	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme) [![GitHub stars](https://img.shields.io/github/stars/guillaume-chevalier/awesome-deep-learning-resources?style=flat)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/stargazers)
+- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme) [![GitHub stars](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision?style=flat)](https://github.com/kjw0612/awesome-deep-vision/stargazers)
+- [Open Source Society University](https://github.com/ossu/computer-science#readme) [![GitHub stars](https://img.shields.io/github/stars/ossu/computer-science?style=flat)](https://github.com/ossu/computer-science/stargazers)
+- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme) [![GitHub stars](https://img.shields.io/github/stars/lucasviola/awesome-functional-programming?style=flat)](https://github.com/lucasviola/awesome-functional-programming/stargazers)
+- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) [![GitHub stars](https://img.shields.io/github/stars/dspinellis/awesome-msr?style=flat)](https://github.com/dspinellis/awesome-msr/stargazers) - Evidence-based research on software systems.
+- [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme) [![GitHub stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis?style=flat)](https://github.com/analysis-tools-dev/static-analysis/stargazers)
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) [![GitHub stars](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval?style=flat)](https://github.com/harpribot/awesome-information-retrieval/stargazers) - Learn to develop your own search engine.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) [![GitHub stars](https://img.shields.io/github/stars/desireevl/awesome-quantum-computing?style=flat)](https://github.com/desireevl/awesome-quantum-computing/stargazers) - Computing that utilizes quantum mechanics and qubits on quantum computers.
+- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) [![GitHub stars](https://img.shields.io/github/stars/mostafatouny/awesome-theoretical-computer-science?style=flat)](https://github.com/mostafatouny/awesome-theoretical-computer-science/stargazers) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+- [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) [![GitHub stars](https://img.shields.io/github/stars/jyguyomarch/awesome-conversational-ai?style=flat)](https://github.com/jyguyomarch/awesome-conversational-ai/stargazers) - Build awesome chatbots and digital assistants.
+- [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) [![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai?style=flat)](https://github.com/steven2358/awesome-generative-ai/stargazers) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) [![GitHub stars](https://img.shields.io/github/stars/Renaller/awesome-position-based-quantum-cryptography?style=flat)](https://github.com/Renaller/awesome-position-based-quantum-cryptography/stargazers) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
+
+## Big Data
+
+- [Big Data](https://github.com/0xnr/awesome-bigdata#readme) [![GitHub stars](https://img.shields.io/github/stars/0xnr/awesome-bigdata?style=flat)](https://github.com/0xnr/awesome-bigdata/stargazers)
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme) [![GitHub stars](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=flat)](https://github.com/awesomedata/awesome-public-datasets/stargazers)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) [![GitHub stars](https://img.shields.io/github/stars/youngwookim/awesome-hadoop?style=flat)](https://github.com/youngwookim/awesome-hadoop/stargazers) - Framework for distributed storage and processing of very large data sets.
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme) [![GitHub stars](https://img.shields.io/github/stars/igorbarinov/awesome-data-engineering?style=flat)](https://github.com/igorbarinov/awesome-data-engineering/stargazers)
+- [Streaming](https://github.com/manuzhang/awesome-streaming#readme) [![GitHub stars](https://img.shields.io/github/stars/manuzhang/awesome-streaming?style=flat)](https://github.com/manuzhang/awesome-streaming/stargazers)
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) [![GitHub stars](https://img.shields.io/github/stars/awesome-spark/awesome-spark?style=flat)](https://github.com/awesome-spark/awesome-spark/stargazers) - Unified engine for large-scale data processing.
+- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) [![GitHub stars](https://img.shields.io/github/stars/ambster-public/awesome-qlik?style=flat)](https://github.com/ambster-public/awesome-qlik/stargazers) - Business intelligence platform for data visualization, analytics, and reporting apps.
+- [Splunk](https://github.com/sduff/awesome-splunk#readme) [![GitHub stars](https://img.shields.io/github/stars/sduff/awesome-splunk?style=flat)](https://github.com/sduff/awesome-splunk/stargazers) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time.
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme) [![GitHub stars](https://img.shields.io/github/stars/briatte/awesome-network-analysis?style=flat)](https://github.com/briatte/awesome-network-analysis/stargazers)
+
+## Theory
+
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme) [![GitHub stars](https://img.shields.io/github/stars/papers-we-love/papers-we-love?style=flat)](https://github.com/papers-we-love/papers-we-love/stargazers)
+- [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme) [![GitHub stars](https://img.shields.io/github/stars/JanVanRyswyck/awesome-talks?style=flat)](https://github.com/JanVanRyswyck/awesome-talks/stargazers)
+- [Algorithms](https://github.com/tayllan/awesome-algorithms#readme) [![GitHub stars](https://img.shields.io/github/stars/tayllan/awesome-algorithms?style=flat)](https://github.com/tayllan/awesome-algorithms/stargazers)
+	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) [![GitHub stars](https://img.shields.io/github/stars/gaerae/awesome-algorithms-education?style=flat)](https://github.com/gaerae/awesome-algorithms-education/stargazers) - Learning and practicing.
+- [Algorithm Visualizations](https://github.com/enjalot/algovis#readme) [![GitHub stars](https://img.shields.io/github/stars/enjalot/algovis?style=flat)](https://github.com/enjalot/algovis/stargazers)
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme) [![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=flat)](https://github.com/owainlewis/awesome-artificial-intelligence/stargazers)
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme) [![GitHub stars](https://img.shields.io/github/stars/marcobiedermann/search-engine-optimization?style=flat)](https://github.com/marcobiedermann/search-engine-optimization/stargazers)
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme) [![GitHub stars](https://img.shields.io/github/stars/lnishan/awesome-competitive-programming?style=flat)](https://github.com/lnishan/awesome-competitive-programming/stargazers)
+- [Math](https://github.com/rossant/awesome-math#readme) [![GitHub stars](https://img.shields.io/github/stars/rossant/awesome-math?style=flat)](https://github.com/rossant/awesome-math/stargazers)
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) [![GitHub stars](https://img.shields.io/github/stars/passy/awesome-recursion-schemes?style=flat)](https://github.com/passy/awesome-recursion-schemes/stargazers) - Traversing nested data structures.
+- [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) [![GitHub stars](https://img.shields.io/github/stars/erwanlemerrer/awesome-audit-algorithms?style=flat)](https://github.com/erwanlemerrer/awesome-audit-algorithms/stargazers) - Algorithmic audits of algorithms.
+- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) [![GitHub stars](https://img.shields.io/github/stars/YuzheSHI/awesome-agi-cocosci?style=flat)](https://github.com/YuzheSHI/awesome-agi-cocosci/stargazers) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+- [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) [![GitHub stars](https://img.shields.io/github/stars/sellisd/awesome-complexity?style=flat)](https://github.com/sellisd/awesome-complexity/stargazers) - The scientific field studying systems with multiple interacting parts and emergent properties.
+- [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures#readme) [![GitHub stars](https://img.shields.io/github/stars/gokayfem/awesome-vlm-architectures?style=flat)](https://github.com/gokayfem/awesome-vlm-architectures/stargazers) - Vision Language Model architectures.
+
+## Books
+
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme) [![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat)](https://github.com/EbookFoundation/free-programming-books/stargazers)
+- [Go Books](https://github.com/dariubs/GoBooks#readme) [![GitHub stars](https://img.shields.io/github/stars/dariubs/GoBooks?style=flat)](https://github.com/dariubs/GoBooks/stargazers)
+- [R Books](https://github.com/RomanTsegelskyi/rbooks#readme) [![GitHub stars](https://img.shields.io/github/stars/RomanTsegelskyi/rbooks?style=flat)](https://github.com/RomanTsegelskyi/rbooks/stargazers)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme) [![GitHub stars](https://img.shields.io/github/stars/hackerkid/Mind-Expanding-Books?style=flat)](https://github.com/hackerkid/Mind-Expanding-Books/stargazers)
+- [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme) [![GitHub stars](https://img.shields.io/github/stars/TalAter/awesome-book-authoring?style=flat)](https://github.com/TalAter/awesome-book-authoring/stargazers)
+- [Elixir Books](https://github.com/sger/ElixirBooks#readme) [![GitHub stars](https://img.shields.io/github/stars/sger/ElixirBooks?style=flat)](https://github.com/sger/ElixirBooks/stargazers)
+
+## Editors
+
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme) [![GitHub stars](https://img.shields.io/github/stars/dreikanter/sublime-bookmarks?style=flat)](https://github.com/dreikanter/sublime-bookmarks/stargazers)
+- [Vim](https://github.com/mhinz/vim-galore#readme) [![GitHub stars](https://img.shields.io/github/stars/mhinz/vim-galore?style=flat)](https://github.com/mhinz/vim-galore/stargazers)
+- [Neovim](https://github.com/rockerBOO/awesome-neovim#readme) [![GitHub stars](https://img.shields.io/github/stars/rockerBOO/awesome-neovim?style=flat)](https://github.com/rockerBOO/awesome-neovim/stargazers) - Vim-fork focused on extensibility and usability.
+- [Emacs](https://github.com/emacs-tw/awesome-emacs#readme) [![GitHub stars](https://img.shields.io/github/stars/emacs-tw/awesome-emacs?style=flat)](https://github.com/emacs-tw/awesome-emacs/stargazers)
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) [![GitHub stars](https://img.shields.io/github/stars/viatsko/awesome-vscode?style=flat)](https://github.com/viatsko/awesome-vscode/stargazers) - Cross-platform open-source text editor.
+
+## Gaming
+
+- [Game Development](https://github.com/ellisonleao/magictools#readme) [![GitHub stars](https://img.shields.io/github/stars/ellisonleao/magictools?style=flat)](https://github.com/ellisonleao/magictools/stargazers)
+- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme) [![GitHub stars](https://img.shields.io/github/stars/hzoo/awesome-gametalks?style=flat)](https://github.com/hzoo/awesome-gametalks/stargazers)
+- [Godot](https://github.com/godotengine/awesome-godot#readme) [![GitHub stars](https://img.shields.io/github/stars/godotengine/awesome-godot?style=flat)](https://github.com/godotengine/awesome-godot/stargazers) - Game engine.
+- [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme) [![GitHub stars](https://img.shields.io/github/stars/michelpereira/awesome-open-source-games?style=flat)](https://github.com/michelpereira/awesome-open-source-games/stargazers)
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) [![GitHub stars](https://img.shields.io/github/stars/RyanNielson/awesome-unity?style=flat)](https://github.com/RyanNielson/awesome-unity/stargazers) - Game engine.
+- [Chess](https://github.com/hkirat/awesome-chess#readme) [![GitHub stars](https://img.shields.io/github/stars/hkirat/awesome-chess?style=flat)](https://github.com/hkirat/awesome-chess/stargazers)
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) [![GitHub stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d?style=flat)](https://github.com/love2d-community/awesome-love2d/stargazers) - Game engine.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) [![GitHub stars](https://img.shields.io/github/stars/pico-8/awesome-PICO-8?style=flat)](https://github.com/pico-8/awesome-PICO-8/stargazers) - Fantasy console.
+- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme) [![GitHub stars](https://img.shields.io/github/stars/gbdev/awesome-gbdev?style=flat)](https://github.com/gbdev/awesome-gbdev/stargazers)
+- [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) [![GitHub stars](https://img.shields.io/github/stars/ConstructCommunity/awesome-construct?style=flat)](https://github.com/ConstructCommunity/awesome-construct/stargazers) - Game engine.
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) [![GitHub stars](https://img.shields.io/github/stars/stetso/awesome-gideros?style=flat)](https://github.com/stetso/awesome-gideros/stargazers) - Game engine.
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) [![GitHub stars](https://img.shields.io/github/stars/bs-community/awesome-minecraft?style=flat)](https://github.com/bs-community/awesome-minecraft/stargazers) - Sandbox video game.
+- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) [![GitHub stars](https://img.shields.io/github/stars/tomodachi94/awesome-computercraft?style=flat)](https://github.com/tomodachi94/awesome-computercraft/stargazers) - Minecraft mod that adds programmable computers.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets?style=flat)](https://github.com/leomaurodesenv/game-datasets/stargazers) - Materials and datasets for Artificial Intelligence in games.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) [![GitHub stars](https://img.shields.io/github/stars/Dvergar/awesome-haxe-gamedev?style=flat)](https://github.com/Dvergar/awesome-haxe-gamedev/stargazers) - A high-level strongly typed programming language used to produce cross-platform native code.
+- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) [![GitHub stars](https://img.shields.io/github/stars/rafaskb/awesome-libgdx?style=flat)](https://github.com/rafaskb/awesome-libgdx/stargazers) - Java game framework.
+- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) [![GitHub stars](https://img.shields.io/github/stars/playcanvas/awesome-playcanvas?style=flat)](https://github.com/playcanvas/awesome-playcanvas/stargazers) - Game engine.
+- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) [![GitHub stars](https://img.shields.io/github/stars/radek-sprta/awesome-game-remakes?style=flat)](https://github.com/radek-sprta/awesome-game-remakes/stargazers) - Actively maintained open-source game remakes.
+- [Flame](https://github.com/flame-engine/awesome-flame#readme) [![GitHub stars](https://img.shields.io/github/stars/flame-engine/awesome-flame?style=flat)](https://github.com/flame-engine/awesome-flame/stargazers) - Game engine for Flutter.
+- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) [![GitHub stars](https://img.shields.io/github/stars/mhxion/awesome-discord-communities?style=flat)](https://github.com/mhxion/awesome-discord-communities/stargazers) - Chat with friends and communities.
+- [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) [![GitHub stars](https://img.shields.io/github/stars/tobiasvl/awesome-chip-8?style=flat)](https://github.com/tobiasvl/awesome-chip-8/stargazers) - Virtual computer game machine from the 70s.
+- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) [![GitHub stars](https://img.shields.io/github/stars/michelpereira/awesome-games-of-coding?style=flat)](https://github.com/michelpereira/awesome-games-of-coding/stargazers) - Learn a programming language by making games.
+- [Esports](https://github.com/strift/awesome-esports#readme) [![GitHub stars](https://img.shields.io/github/stars/strift/awesome-esports?style=flat)](https://github.com/strift/awesome-esports/stargazers) - Video games played as a sport.
+- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) [![GitHub stars](https://img.shields.io/github/stars/notpresident35/awesome-learn-gamedev?style=flat)](https://github.com/notpresident35/awesome-learn-gamedev/stargazers) - The craft of video game creation.
+- [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) [![GitHub stars](https://img.shields.io/github/stars/stevinz/awesome-game-engine-dev?style=flat)](https://github.com/stevinz/awesome-game-engine-dev/stargazers) - Building software to speed up game creation.
+- [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) [![GitHub stars](https://img.shields.io/github/stars/bytecauldron/awesome-gamemaker?style=flat)](https://github.com/bytecauldron/awesome-gamemaker/stargazers) - Game engine.
+- [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) [![GitHub stars](https://img.shields.io/github/stars/vhladiienko/awesome-game-production?style=flat)](https://github.com/vhladiienko/awesome-game-production/stargazers) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+- [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) [![GitHub stars](https://img.shields.io/github/stars/Symbitic/awesome-babylonjs?style=flat)](https://github.com/Symbitic/awesome-babylonjs/stargazers) - Game engine for cross-platform web and native game development.
+- [Roblox](https://github.com/awesome-roblox/awesome-roblox#readme) [![GitHub stars](https://img.shields.io/github/stars/awesome-roblox/awesome-roblox?style=flat)](https://github.com/awesome-roblox/awesome-roblox/stargazers) - Immersive platform for hosting millions of diverse experiences.
+
+## Development Environment
+
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins?style=flat)](https://github.com/sindresorhus/quick-look-plugins/stargazers) - For macOS.
+- [Dev Env](https://github.com/jondot/awesome-devenv#readme) [![GitHub stars](https://img.shields.io/github/stars/jondot/awesome-devenv?style=flat)](https://github.com/jondot/awesome-devenv/stargazers)
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme) [![GitHub stars](https://img.shields.io/github/stars/webpro/awesome-dotfiles?style=flat)](https://github.com/webpro/awesome-dotfiles/stargazers)
+- [Shell](https://github.com/alebcay/awesome-shell#readme) [![GitHub stars](https://img.shields.io/github/stars/alebcay/awesome-shell?style=flat)](https://github.com/alebcay/awesome-shell/stargazers)
+- [Fish](https://github.com/jorgebucaran/awsm.fish#readme) [![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/awsm.fish?style=flat)](https://github.com/jorgebucaran/awsm.fish/stargazers) - User-friendly shell.
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme) [![GitHub stars](https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=flat)](https://github.com/agarrharr/awesome-cli-apps/stargazers)
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) [![GitHub stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins?style=flat)](https://github.com/unixorn/awesome-zsh-plugins/stargazers)
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) [![GitHub stars](https://img.shields.io/github/stars/phillipadsmith/awesome-github?style=flat)](https://github.com/phillipadsmith/awesome-github/stargazers) - Hosting service for Git repositories.
+	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme) [![GitHub stars](https://img.shields.io/github/stars/stefanbuck/awesome-browser-extensions-for-github?style=flat)](https://github.com/stefanbuck/awesome-browser-extensions-for-github/stargazers)
+	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) [![GitHub stars](https://img.shields.io/github/stars/tiimgreen/github-cheat-sheet?style=flat)](https://github.com/tiimgreen/github-cheat-sheet/stargazers)
+	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) [![GitHub stars](https://img.shields.io/github/stars/matchai/awesome-pinned-gists?style=flat)](https://github.com/matchai/awesome-pinned-gists/stargazers) - Dynamic pinned gists for your GitHub profile.
+- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme) [![GitHub stars](https://img.shields.io/github/stars/arslanbilal/git-cheat-sheet?style=flat)](https://github.com/arslanbilal/git-cheat-sheet/stargazers)
+- [Git Tips](https://github.com/git-tips/tips#readme) [![GitHub stars](https://img.shields.io/github/stars/git-tips/tips?style=flat)](https://github.com/git-tips/tips/stargazers)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) [![GitHub stars](https://img.shields.io/github/stars/stevemao/awesome-git-addons?style=flat)](https://github.com/stevemao/awesome-git-addons/stargazers) - Enhance the `git` CLI.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) [![GitHub stars](https://img.shields.io/github/stars/compscilauren/awesome-git-hooks?style=flat)](https://github.com/compscilauren/awesome-git-hooks/stargazers) - Scripts for automating tasks during `git` workflows.
+- [SSH](https://github.com/moul/awesome-ssh#readme) [![GitHub stars](https://img.shields.io/github/stars/moul/awesome-ssh?style=flat)](https://github.com/moul/awesome-ssh/stargazers)
+- [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme) [![GitHub stars](https://img.shields.io/github/stars/tvvocold/FOSS-for-Dev?style=flat)](https://github.com/tvvocold/FOSS-for-Dev/stargazers)
+- [Hyper](https://github.com/bnb/awesome-hyper#readme) [![GitHub stars](https://img.shields.io/github/stars/bnb/awesome-hyper?style=flat)](https://github.com/bnb/awesome-hyper/stargazers) - Cross-platform terminal app built on web technologies.
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme) [![GitHub stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy?style=flat)](https://github.com/k4m4/terminals-are-sexy/stargazers)
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) [![GitHub stars](https://img.shields.io/github/stars/sdras/awesome-actions?style=flat)](https://github.com/sdras/awesome-actions/stargazers) - Create tasks to automate your workflow and share them with others on GitHub.
+- [WezTerm](https://github.com/michaelbrusegard/awesome-wezterm#readme) [![GitHub stars](https://img.shields.io/github/stars/michaelbrusegard/awesome-wezterm?style=flat)](https://github.com/michaelbrusegard/awesome-wezterm/stargazers) - Powerful cross-platform terminal emulator.
+
+## Entertainment
+
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-scifi?style=flat)](https://github.com/sindresorhus/awesome-scifi/stargazers) - Scifi.
+- [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme) [![GitHub stars](https://img.shields.io/github/stars/RichardLitt/awesome-fantasy?style=flat)](https://github.com/RichardLitt/awesome-fantasy/stargazers)
+- [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme) [![GitHub stars](https://img.shields.io/github/stars/ayr-ton/awesome-geek-podcasts?style=flat)](https://github.com/ayr-ton/awesome-geek-podcasts/stargazers)
+- [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) [![GitHub stars](https://img.shields.io/github/stars/zudochkin/awesome-newsletters?style=flat)](https://github.com/zudochkin/awesome-newsletters/stargazers)
+- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme) [![GitHub stars](https://img.shields.io/github/stars/victorlaerte/awesome-it-quotes?style=flat)](https://github.com/victorlaerte/awesome-it-quotes/stargazers)
+
+## Databases
+
+- [Database](https://github.com/numetriclabz/awesome-db#readme) [![GitHub stars](https://img.shields.io/github/stars/numetriclabz/awesome-db?style=flat)](https://github.com/numetriclabz/awesome-db/stargazers)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme) [![GitHub stars](https://img.shields.io/github/stars/shlomi-noach/awesome-mysql?style=flat)](https://github.com/shlomi-noach/awesome-mysql/stargazers)
+- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme) [![GitHub stars](https://img.shields.io/github/stars/dahlia/awesome-sqlalchemy?style=flat)](https://github.com/dahlia/awesome-sqlalchemy/stargazers)
+- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme) [![GitHub stars](https://img.shields.io/github/stars/mark-rushakoff/awesome-influxdb?style=flat)](https://github.com/mark-rushakoff/awesome-influxdb/stargazers)
+- [Neo4j](https://github.com/neueda/awesome-neo4j#readme) [![GitHub stars](https://img.shields.io/github/stars/neueda/awesome-neo4j?style=flat)](https://github.com/neueda/awesome-neo4j/stargazers)
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) [![GitHub stars](https://img.shields.io/github/stars/ramnes/awesome-mongodb?style=flat)](https://github.com/ramnes/awesome-mongodb/stargazers) - NoSQL database.
+- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme) [![GitHub stars](https://img.shields.io/github/stars/d3viant0ne/awesome-rethinkdb?style=flat)](https://github.com/d3viant0ne/awesome-rethinkdb/stargazers)
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) [![GitHub stars](https://img.shields.io/github/stars/mohataher/awesome-tinkerpop?style=flat)](https://github.com/mohataher/awesome-tinkerpop/stargazers) - Graph computing framework.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) [![GitHub stars](https://img.shields.io/github/stars/dhamaniasad/awesome-postgres?style=flat)](https://github.com/dhamaniasad/awesome-postgres/stargazers) - Object-relational database.
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) [![GitHub stars](https://img.shields.io/github/stars/quangv/awesome-couchdb?style=flat)](https://github.com/quangv/awesome-couchdb/stargazers) - Document-oriented NoSQL database.
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) [![GitHub stars](https://img.shields.io/github/stars/rayokota/awesome-hbase?style=flat)](https://github.com/rayokota/awesome-hbase/stargazers) - Distributed, scalable, big data store.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) [![GitHub stars](https://img.shields.io/github/stars/erictleung/awesome-nosql-guides?style=flat)](https://github.com/erictleung/awesome-nosql-guides/stargazers) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) [![GitHub stars](https://img.shields.io/github/stars/mgramin/awesome-db-tools?style=flat)](https://github.com/mgramin/awesome-db-tools/stargazers) - Everything that makes working with databases easier.
+- [TypeDB](https://github.com/vaticle/typedb-awesome#readme) [![GitHub stars](https://img.shields.io/github/stars/vaticle/typedb-awesome?style=flat)](https://github.com/vaticle/typedb-awesome/stargazers) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) [![GitHub stars](https://img.shields.io/github/stars/Anant/awesome-cassandra?style=flat)](https://github.com/Anant/awesome-cassandra/stargazers) - Open-source, distributed, wide column store, NoSQL database management system.
+- [Supabase](https://github.com/lyqht/awesome-supabase#readme) [![GitHub stars](https://img.shields.io/github/stars/lyqht/awesome-supabase?style=flat)](https://github.com/lyqht/awesome-supabase/stargazers) - An open-source alternative to Firebase.
+- [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) [![GitHub stars](https://img.shields.io/github/stars/benallfree/awesome-pocketbase?style=flat)](https://github.com/benallfree/awesome-pocketbase/stargazers) - An open-source, Go-based backend in one file.
+- [Neon](https://github.com/tyaga001/awesome-neon#readme) [![GitHub stars](https://img.shields.io/github/stars/tyaga001/awesome-neon?style=flat)](https://github.com/tyaga001/awesome-neon/stargazers) - An open-source alternative to AWS Aurora.
+
+## Media
+
+- [Fonts](https://github.com/brabadu/awesome-fonts#readme) [![GitHub stars](https://img.shields.io/github/stars/brabadu/awesome-fonts?style=flat)](https://github.com/brabadu/awesome-fonts/stargazers)
+- [Codeface](https://github.com/chrissimpkins/codeface#readme) [![GitHub stars](https://img.shields.io/github/stars/chrissimpkins/codeface?style=flat)](https://github.com/chrissimpkins/codeface/stargazers) - Text editor fonts.
+- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme) [![GitHub stars](https://img.shields.io/github/stars/neutraltone/awesome-stock-resources?style=flat)](https://github.com/neutraltone/awesome-stock-resources/stargazers)
+- [GIF](https://github.com/davisonio/awesome-gif#readme) [![GitHub stars](https://img.shields.io/github/stars/davisonio/awesome-gif?style=flat)](https://github.com/davisonio/awesome-gif/stargazers) - Image format known for animated images.
+- [Music](https://github.com/ciconia/awesome-music#readme) [![GitHub stars](https://img.shields.io/github/stars/ciconia/awesome-music?style=flat)](https://github.com/ciconia/awesome-music/stargazers)
+- [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme) [![GitHub stars](https://img.shields.io/github/stars/44bits/awesome-opensource-documents?style=flat)](https://github.com/44bits/awesome-opensource-documents/stargazers)
+- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme) [![GitHub stars](https://img.shields.io/github/stars/willianjusten/awesome-audio-visualization?style=flat)](https://github.com/willianjusten/awesome-audio-visualization/stargazers)
+- [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme) [![GitHub stars](https://img.shields.io/github/stars/ebu/awesome-broadcasting?style=flat)](https://github.com/ebu/awesome-broadcasting/stargazers)
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) [![GitHub stars](https://img.shields.io/github/stars/Siilwyn/awesome-pixel-art?style=flat)](https://github.com/Siilwyn/awesome-pixel-art/stargazers) - Pixel-level digital art.
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) [![GitHub stars](https://img.shields.io/github/stars/transitive-bullshit/awesome-ffmpeg?style=flat)](https://github.com/transitive-bullshit/awesome-ffmpeg/stargazers) - Cross-platform solution to record, convert and stream audio and video.
+- [Icons](https://github.com/notlmn/awesome-icons#readme) [![GitHub stars](https://img.shields.io/github/stars/notlmn/awesome-icons?style=flat)](https://github.com/notlmn/awesome-icons/stargazers) - Downloadable SVG/PNG/font icon projects.
+- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) [![GitHub stars](https://img.shields.io/github/stars/stingalleman/awesome-audiovisual?style=flat)](https://github.com/stingalleman/awesome-audiovisual/stargazers) - Lighting, audio and video in professional environments.
+- [VLC](https://github.com/mfkl/awesome-vlc#readme) [![GitHub stars](https://img.shields.io/github/stars/mfkl/awesome-vlc?style=flat)](https://github.com/mfkl/awesome-vlc/stargazers) - Cross-platform media player software and streaming server.
+- [Audio Over IP](https://github.com/Mo-way/awesome-aoip#readme) [![GitHub stars](https://img.shields.io/github/stars/Mo-way/awesome-aoip?style=flat)](https://github.com/Mo-way/awesome-aoip/stargazers) - Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
+
+## Learn
+
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) [![GitHub stars](https://img.shields.io/github/stars/therebelrobot/awesome-workshopper?style=flat)](https://github.com/therebelrobot/awesome-workshopper/stargazers) - Interactive tutorials.
+- [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) [![GitHub stars](https://img.shields.io/github/stars/karlhorky/learn-to-program?style=flat)](https://github.com/karlhorky/learn-to-program/stargazers)
+- [Speaking](https://github.com/matteofigus/awesome-speaking#readme) [![GitHub stars](https://img.shields.io/github/stars/matteofigus/awesome-speaking?style=flat)](https://github.com/matteofigus/awesome-speaking/stargazers)
+- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme) [![GitHub stars](https://img.shields.io/github/stars/lucasviola/awesome-tech-videos?style=flat)](https://github.com/lucasviola/awesome-tech-videos/stargazers)
+- [Computer History](https://github.com/watson/awesome-computer-history#readme) [![GitHub stars](https://img.shields.io/github/stars/watson/awesome-computer-history?style=flat)](https://github.com/watson/awesome-computer-history/stargazers)
+- [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme) [![GitHub stars](https://img.shields.io/github/stars/HollyAdele/awesome-programming-for-kids?style=flat)](https://github.com/HollyAdele/awesome-programming-for-kids/stargazers)
+- [STEAM](https://github.com/RahulBirCodes/awesome-steam#readme) [![GitHub stars](https://img.shields.io/github/stars/RahulBirCodes/awesome-steam?style=flat)](https://github.com/RahulBirCodes/awesome-steam/stargazers) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
+- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) [![GitHub stars](https://img.shields.io/github/stars/yrgo/awesome-educational-games?style=flat)](https://github.com/yrgo/awesome-educational-games/stargazers) - Learn while playing.
+- [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme) [![GitHub stars](https://img.shields.io/github/stars/micromata/awesome-javascript-learning?style=flat)](https://github.com/micromata/awesome-javascript-learning/stargazers)
+- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) [![GitHub stars](https://img.shields.io/github/stars/micromata/awesome-css-learning?style=flat)](https://github.com/micromata/awesome-css-learning/stargazers) - Mainly about CSS – the language and the modules.
+- [Product Management](https://github.com/dend/awesome-product-management#readme) [![GitHub stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)](https://github.com/dend/awesome-product-management/stargazers) - Learn how to be a better product manager.
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) [![GitHub stars](https://img.shields.io/github/stars/liuchong/awesome-roadmaps?style=flat)](https://github.com/liuchong/awesome-roadmaps/stargazers) - Gives you a clear route to improve your knowledge and skills.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) [![GitHub stars](https://img.shields.io/github/stars/JoseDeFreitas/awesome-youtubers?style=flat)](https://github.com/JoseDeFreitas/awesome-youtubers/stargazers) - Watch video tutorials from YouTubers that teach you about technology.
+- [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) [![GitHub stars](https://img.shields.io/github/stars/dribdat/awesome-hackathon?style=flat)](https://github.com/dribdat/awesome-hackathon/stargazers) - Running fun and productive hackathons.
+- [Certificates](https://github.com/PanXProject/awesome-certificates#readme) [![GitHub stars](https://img.shields.io/github/stars/PanXProject/awesome-certificates?style=flat)](https://github.com/PanXProject/awesome-certificates/stargazers) - Free computer science certifications to showcase your knowledge.
+
+## Security
+
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme) [![GitHub stars](https://img.shields.io/github/stars/paragonie/awesome-appsec?style=flat)](https://github.com/paragonie/awesome-appsec/stargazers)
+- [Security](https://github.com/sbilly/awesome-security#readme) [![GitHub stars](https://img.shields.io/github/stars/sbilly/awesome-security?style=flat)](https://github.com/sbilly/awesome-security/stargazers)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) [![GitHub stars](https://img.shields.io/github/stars/apsdehal/awesome-ctf?style=flat)](https://github.com/apsdehal/awesome-ctf/stargazers) - Capture The Flag.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) [![GitHub stars](https://img.shields.io/github/stars/brootware/awesome-cyber-security-university?style=flat)](https://github.com/brootware/awesome-cyber-security-university/stargazers) - Free educational resources that focus on learning by doing.
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) [![GitHub stars](https://img.shields.io/github/stars/rshipp/awesome-malware-analysis?style=flat)](https://github.com/rshipp/awesome-malware-analysis/stargazers)
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme) [![GitHub stars](https://img.shields.io/github/stars/ashishb/android-security-awesome?style=flat)](https://github.com/ashishb/android-security-awesome/stargazers)
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme) [![GitHub stars](https://img.shields.io/github/stars/carpedm20/awesome-hacking?style=flat)](https://github.com/carpedm20/awesome-hacking/stargazers)
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme) [![GitHub stars](https://img.shields.io/github/stars/daviddias/awesome-hacking-locations?style=flat)](https://github.com/daviddias/awesome-hacking-locations/stargazers)
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) [![GitHub stars](https://img.shields.io/github/stars/paralax/awesome-honeypots?style=flat)](https://github.com/paralax/awesome-honeypots/stargazers) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) [![GitHub stars](https://img.shields.io/github/stars/meirwah/awesome-incident-response?style=flat)](https://github.com/meirwah/awesome-incident-response/stargazers)
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) [![GitHub stars](https://img.shields.io/github/stars/jaredthecoder/awesome-vehicle-security?style=flat)](https://github.com/jaredthecoder/awesome-vehicle-security/stargazers)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) [![GitHub stars](https://img.shields.io/github/stars/qazbnm456/awesome-web-security?style=flat)](https://github.com/qazbnm456/awesome-web-security/stargazers) - Security of web apps & services.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) [![GitHub stars](https://img.shields.io/github/stars/fabacab/awesome-lockpicking?style=flat)](https://github.com/fabacab/awesome-lockpicking/stargazers) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) [![GitHub stars](https://img.shields.io/github/stars/fabacab/awesome-cybersecurity-blueteam?style=flat)](https://github.com/fabacab/awesome-cybersecurity-blueteam/stargazers) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) [![GitHub stars](https://img.shields.io/github/stars/cpuu/awesome-fuzzing?style=flat)](https://github.com/cpuu/awesome-fuzzing/stargazers) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) [![GitHub stars](https://img.shields.io/github/stars/fkie-cad/awesome-embedded-and-iot-security?style=flat)](https://github.com/fkie-cad/awesome-embedded-and-iot-security/stargazers)
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) [![GitHub stars](https://img.shields.io/github/stars/bakke92/awesome-gdpr?style=flat)](https://github.com/bakke92/awesome-gdpr/stargazers) - Regulation on data protection and privacy for all individuals within EU.
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) [![GitHub stars](https://img.shields.io/github/stars/TaptuIT/awesome-devsecops?style=flat)](https://github.com/TaptuIT/awesome-devsecops/stargazers) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) [![GitHub stars](https://img.shields.io/github/stars/dhondta/awesome-executable-packing?style=flat)](https://github.com/dhondta/awesome-executable-packing/stargazers) - Packing and unpacking executable formats.
+- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) [![GitHub stars](https://img.shields.io/github/stars/Karneades/awesome-malware-persistence?style=flat)](https://github.com/Karneades/awesome-malware-persistence/stargazers) - Techniques that adversaries use to keep access to systems across restarts.
+- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) [![GitHub stars](https://img.shields.io/github/stars/kareniel/awesome-evm-security?style=flat)](https://github.com/kareniel/awesome-evm-security/stargazers) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) [![GitHub stars](https://img.shields.io/github/stars/n0kovo/awesome-password-cracking?style=flat)](https://github.com/n0kovo/awesome-password-cracking/stargazers) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+- [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) [![GitHub stars](https://img.shields.io/github/stars/Karneades/awesome-security-card-games?style=flat)](https://github.com/Karneades/awesome-security-card-games/stargazers) - Train your skills and discuss various security topics.
+- [Suricata](https://github.com/satta/awesome-suricata#readme) [![GitHub stars](https://img.shields.io/github/stars/satta/awesome-suricata?style=flat)](https://github.com/satta/awesome-suricata/stargazers) - Intrusion detection/prevention system and network security monitoring engine.
+- [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) [![GitHub stars](https://img.shields.io/github/stars/FonduAI/awesome-prompt-injection?style=flat)](https://github.com/FonduAI/awesome-prompt-injection/stargazers) - A type of vulnerability that specifically targets machine learning models.
+- [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) [![GitHub stars](https://img.shields.io/github/stars/infosecB/awesome-detection-engineering?style=flat)](https://github.com/infosecB/awesome-detection-engineering/stargazers) - Design, build, and operate detective cybersecurity controls.
+- [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) [![GitHub stars](https://img.shields.io/github/stars/jacobdjwilson/awesome-annual-security-reports?style=flat)](https://github.com/jacobdjwilson/awesome-annual-security-reports/stargazers) - Exploring cybersecurity trends, insights, and challenges.
+- [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) [![GitHub stars](https://img.shields.io/github/stars/TupleType/awesome-cicd-attacks?style=flat)](https://github.com/TupleType/awesome-cicd-attacks/stargazers) - Offensive research of systems and processes related to developing and deploying code.
+- [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) [![GitHub stars](https://img.shields.io/github/stars/cerberauth/awesome-openid-connect?style=flat)](https://github.com/cerberauth/awesome-openid-connect/stargazers) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+
+## Content Management Systems
+
+- [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme) [![GitHub stars](https://img.shields.io/github/stars/umbraco-community/awesome-umbraco?style=flat)](https://github.com/umbraco-community/awesome-umbraco/stargazers)
+- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) [![GitHub stars](https://img.shields.io/github/stars/refinerycms-contrib/awesome-refinerycms?style=flat)](https://github.com/refinerycms-contrib/awesome-refinerycms/stargazers) - Ruby on Rails CMS.
+- [Wagtail](https://github.com/springload/awesome-wagtail#readme) [![GitHub stars](https://img.shields.io/github/stars/springload/awesome-wagtail?style=flat)](https://github.com/springload/awesome-wagtail/stargazers) - Django CMS focused on flexibility and user experience.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) [![GitHub stars](https://img.shields.io/github/stars/drmonkeyninja/awesome-textpattern?style=flat)](https://github.com/drmonkeyninja/awesome-textpattern/stargazers) - Lightweight PHP-based CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) [![GitHub stars](https://img.shields.io/github/stars/nirgn975/awesome-drupal?style=flat)](https://github.com/nirgn975/awesome-drupal/stargazers) - Extensible PHP-based CMS.
+- [Craft CMS](https://github.com/craftcms/awesome#readme) [![GitHub stars](https://img.shields.io/github/stars/craftcms/awesome?style=flat)](https://github.com/craftcms/awesome/stargazers) - Content-first CMS.
+- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) [![GitHub stars](https://img.shields.io/github/stars/MartinMiles/Awesome-Sitecore?style=flat)](https://github.com/MartinMiles/Awesome-Sitecore/stargazers) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) [![GitHub stars](https://img.shields.io/github/stars/wernerkrauss/awesome-silverstripe-cms?style=flat)](https://github.com/wernerkrauss/awesome-silverstripe-cms/stargazers) - PHP MVC framework that serves as a classic or headless CMS.
+- [Directus](https://github.com/directus-community/awesome-directus#readme) [![GitHub stars](https://img.shields.io/github/stars/directus-community/awesome-directus?style=flat)](https://github.com/directus-community/awesome-directus/stargazers) - A real-time API and app dashboard for managing SQL database content.
+- [Plone](https://github.com/collective/awesome-plone#readme) [![GitHub stars](https://img.shields.io/github/stars/collective/awesome-plone?style=flat)](https://github.com/collective/awesome-plone/stargazers) - Open source Python CMS.
+- [Payload](https://github.com/DanailMinchev/awesome-payload#readme) [![GitHub stars](https://img.shields.io/github/stars/DanailMinchev/awesome-payload?style=flat)](https://github.com/DanailMinchev/awesome-payload/stargazers) - Next.js native and open source headless CMS.
+
+## Hardware
+
+- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) [![GitHub stars](https://img.shields.io/github/stars/Kiloreux/awesome-robotics?style=flat)](https://github.com/Kiloreux/awesome-robotics/stargazers)
+- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme) [![GitHub stars](https://img.shields.io/github/stars/HQarroum/awesome-iot?style=flat)](https://github.com/HQarroum/awesome-iot/stargazers)
+- [Electronics](https://github.com/kitspace/awesome-electronics#readme) [![GitHub stars](https://img.shields.io/github/stars/kitspace/awesome-electronics?style=flat)](https://github.com/kitspace/awesome-electronics/stargazers) - For electronic engineers and hobbyists.
+- [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme) [![GitHub stars](https://img.shields.io/github/stars/rabschi/awesome-beacon?style=flat)](https://github.com/rabschi/awesome-beacon/stargazers)
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) [![GitHub stars](https://img.shields.io/github/stars/gitfrage/guitarspecs?style=flat)](https://github.com/gitfrage/guitarspecs/stargazers) - Checklist for building your own electric guitar.
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) [![GitHub stars](https://img.shields.io/github/stars/beardicus/awesome-plotters?style=flat)](https://github.com/beardicus/awesome-plotters/stargazers) - Computer-controlled drawing machines and other visual art robots.
+- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) [![GitHub stars](https://img.shields.io/github/stars/protontypes/awesome-robotic-tooling?style=flat)](https://github.com/protontypes/awesome-robotic-tooling/stargazers) - Free and open tools for professional robotic development.
+- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) [![GitHub stars](https://img.shields.io/github/stars/szenergy/awesome-lidar?style=flat)](https://github.com/szenergy/awesome-lidar/stargazers) - Sensor for measuring distances by illuminating the target with laser light.
+- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) [![GitHub stars](https://img.shields.io/github/stars/delftopenhardware/awesome-open-hardware?style=flat)](https://github.com/delftopenhardware/awesome-open-hardware/stargazers) - Open-source hardware projects.
+- [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) [![GitHub stars](https://img.shields.io/github/stars/rickstaa/awesome-adsb?style=flat)](https://github.com/rickstaa/awesome-adsb/stargazers) - Technology broadcasting aircraft's identity, position, and data periodically.
+- [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) [![GitHub stars](https://img.shields.io/github/stars/Matthias84/awesome-flying-fpv?style=flat)](https://github.com/Matthias84/awesome-flying-fpv/stargazers) - Open hardware and software related to drones / UAVs.
+
+## Business
+
+- [Open Companies](https://github.com/opencompany/awesome-open-company#readme) [![GitHub stars](https://img.shields.io/github/stars/opencompany/awesome-open-company?style=flat)](https://github.com/opencompany/awesome-open-company/stargazers)
+- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme) [![GitHub stars](https://img.shields.io/github/stars/mmccaff/PlacesToPostYourStartup?style=flat)](https://github.com/mmccaff/PlacesToPostYourStartup/stargazers)
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) [![GitHub stars](https://img.shields.io/github/stars/domenicosolazzo/awesome-okr?style=flat)](https://github.com/domenicosolazzo/awesome-okr/stargazers) - Goal setting & communication best practices.
+- [Indie](https://github.com/mezod/awesome-indie#readme) [![GitHub stars](https://img.shields.io/github/stars/mezod/awesome-indie?style=flat)](https://github.com/mezod/awesome-indie/stargazers) - Independent developer businesses.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) [![GitHub stars](https://img.shields.io/github/stars/cjbarber/ToolsOfTheTrade?style=flat)](https://github.com/cjbarber/ToolsOfTheTrade/stargazers) - Tools used by companies on Hacker News.
+- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) [![GitHub stars](https://img.shields.io/github/stars/nglgzz/awesome-clean-tech?style=flat)](https://github.com/nglgzz/awesome-clean-tech/stargazers) - Fighting climate change with technology.
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) [![GitHub stars](https://img.shields.io/github/stars/wardley-maps-community/awesome-wardley-maps?style=flat)](https://github.com/wardley-maps-community/awesome-wardley-maps/stargazers) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) [![GitHub stars](https://img.shields.io/github/stars/RayBB/awesome-social-enterprise?style=flat)](https://github.com/RayBB/awesome-social-enterprise/stargazers) - Building an organization primarily focused on social impact that is at least partially self-funded.
+- [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) [![GitHub stars](https://img.shields.io/github/stars/kdeldycke/awesome-engineering-team-management?style=flat)](https://github.com/kdeldycke/awesome-engineering-team-management/stargazers) - How to transition from software development to engineering management.
+- [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) [![GitHub stars](https://img.shields.io/github/stars/agamm/awesome-developer-first?style=flat)](https://github.com/agamm/awesome-developer-first/stargazers) - Products that target developers as the user.
+- [Billing](https://github.com/kdeldycke/awesome-billing#readme) [![GitHub stars](https://img.shields.io/github/stars/kdeldycke/awesome-billing?style=flat)](https://github.com/kdeldycke/awesome-billing/stargazers) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) [![GitHub stars](https://img.shields.io/github/stars/aleixmorgadas/awesome-engineering-strategy?style=flat)](https://github.com/aleixmorgadas/awesome-engineering-strategy/stargazers) - How to design and execute engineering strategies for tech leadership.
+
+## Work
+
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) [![GitHub stars](https://img.shields.io/github/stars/matiassingers/awesome-slack?style=flat)](https://github.com/matiassingers/awesome-slack/stargazers) - Team collaboration.
+	- [Communities](https://github.com/filipelinhares/awesome-slack#readme) [![GitHub stars](https://img.shields.io/github/stars/filipelinhares/awesome-slack?style=flat)](https://github.com/filipelinhares/awesome-slack/stargazers)
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme) [![GitHub stars](https://img.shields.io/github/stars/lukasz-madon/awesome-remote-job?style=flat)](https://github.com/lukasz-madon/awesome-remote-job/stargazers)
+- [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme) [![GitHub stars](https://img.shields.io/github/stars/jyguyomarch/awesome-productivity?style=flat)](https://github.com/jyguyomarch/awesome-productivity/stargazers)
+- [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme) [![GitHub stars](https://img.shields.io/github/stars/tramcar/awesome-job-boards?style=flat)](https://github.com/tramcar/awesome-job-boards/stargazers)
+- [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme) [![GitHub stars](https://img.shields.io/github/stars/DopplerHQ/awesome-interview-questions?style=flat)](https://github.com/DopplerHQ/awesome-interview-questions/stargazers)
+- [Code Review](https://github.com/joho/awesome-code-review#readme) [![GitHub stars](https://img.shields.io/github/stars/joho/awesome-code-review?style=flat)](https://github.com/joho/awesome-code-review/stargazers) - Reviewing code.
+- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) [![GitHub stars](https://img.shields.io/github/stars/j0hnm4r5/awesome-creative-technology?style=flat)](https://github.com/j0hnm4r5/awesome-creative-technology/stargazers) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+
+## Networking
+
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme) [![GitHub stars](https://img.shields.io/github/stars/sdnds-tw/awesome-sdn?style=flat)](https://github.com/sdnds-tw/awesome-sdn/stargazers)
+- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme) [![GitHub stars](https://img.shields.io/github/stars/caesar0301/awesome-pcaptools?style=flat)](https://github.com/caesar0301/awesome-pcaptools/stargazers)
+- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) [![GitHub stars](https://img.shields.io/github/stars/rtckit/awesome-rtc?style=flat)](https://github.com/rtckit/awesome-rtc/stargazers) - Network protocols for near simultaneous exchange of media and data.
+- [SNMP](https://github.com/eozer/awesome-snmp#readme) [![GitHub stars](https://img.shields.io/github/stars/eozer/awesome-snmp?style=flat)](https://github.com/eozer/awesome-snmp/stargazers) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+- [Scapy](https://github.com/secdev/awesome-scapy#readme) [![GitHub stars](https://img.shields.io/github/stars/secdev/awesome-scapy?style=flat)](https://github.com/secdev/awesome-scapy/stargazers) - Python-based interactive packet manipulation.
+- [Cilium](https://github.com/seifrajhi/awesome-cilium#readme) [![GitHub stars](https://img.shields.io/github/stars/seifrajhi/awesome-cilium?style=flat)](https://github.com/seifrajhi/awesome-cilium/stargazers) - Provides networking and security capabilities for containerized apps, microservices, and virtual machines.
+
+## Decentralized Systems
+
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) [![GitHub stars](https://img.shields.io/github/stars/igorbarinov/awesome-bitcoin?style=flat)](https://github.com/igorbarinov/awesome-bitcoin/stargazers) - Services and tools for Bitcoin software developers.
+- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) [![GitHub stars](https://img.shields.io/github/stars/vhpoet/awesome-ripple?style=flat)](https://github.com/vhpoet/awesome-ripple/stargazers) - Open source distributed settlement network.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) [![GitHub stars](https://img.shields.io/github/stars/machinomy/awesome-non-financial-blockchain?style=flat)](https://github.com/machinomy/awesome-non-financial-blockchain/stargazers) - Applications of Blockchain beyond finance.
+- [Mastodon](https://github.com/hyperupcall/awesome-mastodon#readme) [![GitHub stars](https://img.shields.io/github/stars/hyperupcall/awesome-mastodon?style=flat)](https://github.com/hyperupcall/awesome-mastodon/stargazers) - Open source decentralized microblogging network.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) [![GitHub stars](https://img.shields.io/github/stars/ttumiel/Awesome-Ethereum?style=flat)](https://github.com/ttumiel/Awesome-Ethereum/stargazers) - Distributed computing platform for smart contract development.
+- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) [![GitHub stars](https://img.shields.io/github/stars/steven2358/awesome-blockchain-ai?style=flat)](https://github.com/steven2358/awesome-blockchain-ai/stargazers) - AI and machine-learning projects built on Blockchain.
+- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) [![GitHub stars](https://img.shields.io/github/stars/DanailMinchev/awesome-eosio?style=flat)](https://github.com/DanailMinchev/awesome-eosio/stargazers) - A decentralized operating system supporting industrial-scale apps.
+- [Corda](https://github.com/chainstack/awesome-corda#readme) [![GitHub stars](https://img.shields.io/github/stars/chainstack/awesome-corda?style=flat)](https://github.com/chainstack/awesome-corda/stargazers) - Open source Blockchain platform designed for business.
+- [Waves](https://github.com/msmolyakov/awesome-waves#readme) [![GitHub stars](https://img.shields.io/github/stars/msmolyakov/awesome-waves?style=flat)](https://github.com/msmolyakov/awesome-waves/stargazers) - Open source Blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) [![GitHub stars](https://img.shields.io/github/stars/substrate-developer-hub/awesome-substrate?style=flat)](https://github.com/substrate-developer-hub/awesome-substrate/stargazers) - Framework for writing scalable, upgradeable blockchains in Rust.
+- [Golem](https://github.com/golemfactory/awesome-golem#readme) [![GitHub stars](https://img.shields.io/github/stars/golemfactory/awesome-golem?style=flat)](https://github.com/golemfactory/awesome-golem/stargazers) - Open source peer-to-peer marketplace for computing resources.
+- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) [![GitHub stars](https://img.shields.io/github/stars/friedger/awesome-stacks-chain?style=flat)](https://github.com/friedger/awesome-stacks-chain/stargazers) - A smart contract platform secured by Bitcoin.
+- [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) [![GitHub stars](https://img.shields.io/github/stars/aorumbayev/awesome-algorand?style=flat)](https://github.com/aorumbayev/awesome-algorand/stargazers) - An open-source, proof of stake Blockchain and smart contract computing platform.
+- [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) [![GitHub stars](https://img.shields.io/github/stars/zolagonano/awesome-zeronet?style=flat)](https://github.com/zolagonano/awesome-zeronet/stargazers) - A decentralized web-like network of peer-to-peer users.
+- [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) [![GitHub stars](https://img.shields.io/github/stars/cosmos/awesome-cosmos?style=flat)](https://github.com/cosmos/awesome-cosmos/stargazers) - Modular framework for building app-specific blockchains in Go.
+- [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) [![GitHub stars](https://img.shields.io/github/stars/polycarbohydrate/awesome-tor?style=flat)](https://github.com/polycarbohydrate/awesome-tor/stargazers) - A free overlay network for enabling anonymous communication.
+- [ATProto](https://github.com/atblueprints/awesome-atproto#readme) [![GitHub stars](https://img.shields.io/github/stars/atblueprints/awesome-atproto?style=flat)](https://github.com/atblueprints/awesome-atproto/stargazers) - Open, decentralized network for building social apps.
+
+## Health and Social Science
+
+- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) [![GitHub stars](https://img.shields.io/github/stars/caufieldjh/awesome-bioie?style=flat)](https://github.com/caufieldjh/awesome-bioie/stargazers) - How to extract information from unstructured biomedical data and text.
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) [![GitHub stars](https://img.shields.io/github/stars/eselkin/awesome-computational-neuroscience?style=flat)](https://github.com/eselkin/awesome-computational-neuroscience/stargazers) - A multidisciplinary science which uses computational approaches to study the nervous system.
+- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) [![GitHub stars](https://img.shields.io/github/stars/folkswhocode/awesome-diversity?style=flat)](https://github.com/folkswhocode/awesome-diversity/stargazers) - Creating a more inclusive and diverse tech community.
+- [Digital History](https://github.com/maehr/awesome-digital-history#readme) [![GitHub stars](https://img.shields.io/github/stars/maehr/awesome-digital-history?style=flat)](https://github.com/maehr/awesome-digital-history/stargazers) - Computer-aided scientific investigation of history.
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) [![GitHub stars](https://img.shields.io/github/stars/KimberlyMunoz/empathy-in-engineering?style=flat)](https://github.com/KimberlyMunoz/empathy-in-engineering/stargazers) - Building and promoting more compassionate engineering cultures.
+- [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) [![GitHub stars](https://img.shields.io/github/stars/kakoni/awesome-healthcare?style=flat)](https://github.com/kakoni/awesome-healthcare/stargazers) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) [![GitHub stars](https://img.shields.io/github/stars/dreamingechoes/awesome-mental-health?style=flat)](https://github.com/dreamingechoes/awesome-mental-health/stargazers) - Awareness and self-care in the software industry.
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) [![GitHub stars](https://img.shields.io/github/stars/analyticalmonk/awesome-neuroscience?style=flat)](https://github.com/analyticalmonk/awesome-neuroscience/stargazers) - Study of the nervous system and brain.
+- [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) [![GitHub stars](https://img.shields.io/github/stars/dh-tech/awesome-digital-humanities?style=flat)](https://github.com/dh-tech/awesome-digital-humanities/stargazers) - Software for humanities scholars using quantitative or computational methods.
+- [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) [![GitHub stars](https://img.shields.io/github/stars/IAmCoder/awesome-lucid-dreams?style=flat)](https://github.com/IAmCoder/awesome-lucid-dreams/stargazers) - A dream where one becomes aware they are dreaming.
+- [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) [![GitHub stars](https://img.shields.io/github/stars/NPACore/awesome-neuroimaging?style=flat)](https://github.com/NPACore/awesome-neuroimaging/stargazers) - Software for analyzing brain data from living subjects.
+- [Transgender](https://github.com/cvyl/awesome-transgender#readme) [![GitHub stars](https://img.shields.io/github/stars/cvyl/awesome-transgender?style=flat)](https://github.com/cvyl/awesome-transgender/stargazers) - Someone whose gender identity differs from their assigned birth sex.
+
+## Events
+
+- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) [![GitHub stars](https://img.shields.io/github/stars/danvoyce/awesome-creative-tech-events?style=flat)](https://github.com/danvoyce/awesome-creative-tech-events/stargazers) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) [![GitHub stars](https://img.shields.io/github/stars/ildoc/awesome-italy-events?style=flat)](https://github.com/ildoc/awesome-italy-events/stargazers) - Tech-related events in Italy.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) [![GitHub stars](https://img.shields.io/github/stars/awkward/awesome-netherlands-events?style=flat)](https://github.com/awkward/awesome-netherlands-events/stargazers) - Tech-related events in the Netherlands.
+
+## Testing
+
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) [![GitHub stars](https://img.shields.io/github/stars/TheJambo/awesome-testing?style=flat)](https://github.com/TheJambo/awesome-testing/stargazers) - Software testing.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) [![GitHub stars](https://img.shields.io/github/stars/mojoaxel/awesome-regression-testing?style=flat)](https://github.com/mojoaxel/awesome-regression-testing/stargazers) - Ensures changes did not break the functionality or style.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) [![GitHub stars](https://img.shields.io/github/stars/christian-bromann/awesome-selenium?style=flat)](https://github.com/christian-bromann/awesome-selenium/stargazers) - Open-source browser automation framework and ecosystem.
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) [![GitHub stars](https://img.shields.io/github/stars/SrinivasanTarget/awesome-appium?style=flat)](https://github.com/SrinivasanTarget/awesome-appium/stargazers) - Test automation tool for apps.
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-tap?style=flat)](https://github.com/sindresorhus/awesome-tap/stargazers) - Test Anything Protocol.
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) [![GitHub stars](https://img.shields.io/github/stars/aliesbelik/awesome-jmeter?style=flat)](https://github.com/aliesbelik/awesome-jmeter/stargazers) - Load testing and performance measurement tool.
+- [k6](https://github.com/grafana/awesome-k6#readme) [![GitHub stars](https://img.shields.io/github/stars/grafana/awesome-k6?style=flat)](https://github.com/grafana/awesome-k6/stargazers) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) [![GitHub stars](https://img.shields.io/github/stars/mxschmitt/awesome-playwright?style=flat)](https://github.com/mxschmitt/awesome-playwright/stargazers) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+- [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) [![GitHub stars](https://img.shields.io/github/stars/fityanos/awesome-quality-assurance-roadmap?style=flat)](https://github.com/fityanos/awesome-quality-assurance-roadmap/stargazers) - How to start & build a career in software testing.
+- [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) [![GitHub stars](https://img.shields.io/github/stars/aliesbelik/awesome-gatling?style=flat)](https://github.com/aliesbelik/awesome-gatling/stargazers) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+- [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) [![GitHub stars](https://img.shields.io/github/stars/coderabbitai/awesome-coderabbit?style=flat)](https://github.com/coderabbitai/awesome-coderabbit/stargazers) - AI-powered code review platform.
+
+## Miscellaneous
+
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) [![GitHub stars](https://img.shields.io/github/stars/writing-resources/awesome-scientific-writing?style=flat)](https://github.com/writing-resources/awesome-scientific-writing/stargazers) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+- [JSON](https://github.com/burningtree/awesome-json#readme) [![GitHub stars](https://img.shields.io/github/stars/burningtree/awesome-json?style=flat)](https://github.com/burningtree/awesome-json/stargazers) - Text based data interchange format.
+	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme) [![GitHub stars](https://img.shields.io/github/stars/tmcw/awesome-geojson?style=flat)](https://github.com/tmcw/awesome-geojson/stargazers)
+- [CSV](https://github.com/secretGeek/awesomeCSV#readme) [![GitHub stars](https://img.shields.io/github/stars/secretGeek/awesomeCSV?style=flat)](https://github.com/secretGeek/awesomeCSV/stargazers) - A text file format that stores tabular data and uses a comma to separate values.
+- [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme) [![GitHub stars](https://img.shields.io/github/stars/AchoArnold/discount-for-student-dev?style=flat)](https://github.com/AchoArnold/discount-for-student-dev/stargazers)
+- [Radio](https://github.com/kyleterry/awesome-radio#readme) [![GitHub stars](https://img.shields.io/github/stars/kyleterry/awesome-radio?style=flat)](https://github.com/kyleterry/awesome-radio/stargazers)
+- [Awesome](https://github.com/sindresorhus/awesome#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat)](https://github.com/sindresorhus/awesome/stargazers) - Recursion illustrated.
+- [Analytics](https://github.com/0xnr/awesome-analytics#readme) [![GitHub stars](https://img.shields.io/github/stars/0xnr/awesome-analytics?style=flat)](https://github.com/0xnr/awesome-analytics/stargazers)
+- [REST](https://github.com/marmelab/awesome-rest#readme) [![GitHub stars](https://img.shields.io/github/stars/marmelab/awesome-rest?style=flat)](https://github.com/marmelab/awesome-rest/stargazers)
+- [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme) [![GitHub stars](https://img.shields.io/github/stars/cicdops/awesome-ciandcd?style=flat)](https://github.com/cicdops/awesome-ciandcd/stargazers)
+- [Services Engineering](https://github.com/mmcgrana/services-engineering#readme) [![GitHub stars](https://img.shields.io/github/stars/mmcgrana/services-engineering?style=flat)](https://github.com/mmcgrana/services-engineering/stargazers)
+- [Free for Developers](https://github.com/ripienaar/free-for-dev#readme) [![GitHub stars](https://img.shields.io/github/stars/ripienaar/free-for-dev?style=flat)](https://github.com/ripienaar/free-for-dev/stargazers)
+- [Sketch](https://github.com/diessica/awesome-sketch#readme) [![GitHub stars](https://img.shields.io/github/stars/diessica/awesome-sketch?style=flat)](https://github.com/diessica/awesome-sketch/stargazers) - Design app for macOS.
+- [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme) [![GitHub stars](https://img.shields.io/github/stars/melvin0008/awesome-projects-boilerplates?style=flat)](https://github.com/melvin0008/awesome-projects-boilerplates/stargazers)
+- [Readme](https://github.com/matiassingers/awesome-readme#readme) [![GitHub stars](https://img.shields.io/github/stars/matiassingers/awesome-readme?style=flat)](https://github.com/matiassingers/awesome-readme/stargazers)
+- [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) [![GitHub stars](https://img.shields.io/github/stars/MyHoneyBadger/awesome-github-wiki?style=flat)](https://github.com/MyHoneyBadger/awesome-github-wiki/stargazers) - Comprehensive documentation on GitHub beyond README.
+- [Design and Development Guides](https://github.com/NARKOZ/guides#readme) [![GitHub stars](https://img.shields.io/github/stars/NARKOZ/guides?style=flat)](https://github.com/NARKOZ/guides/stargazers)
+- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme) [![GitHub stars](https://img.shields.io/github/stars/kilimchoi/engineering-blogs?style=flat)](https://github.com/kilimchoi/engineering-blogs/stargazers)
+- [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme) [![GitHub stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat)](https://github.com/awesome-selfhosted/awesome-selfhosted/stargazers)
+- [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme) [![GitHub stars](https://img.shields.io/github/stars/DataDaoDe/awesome-foss-apps?style=flat)](https://github.com/DataDaoDe/awesome-foss-apps/stargazers)
+- [Gulp](https://github.com/alferov/awesome-gulp#readme) [![GitHub stars](https://img.shields.io/github/stars/alferov/awesome-gulp?style=flat)](https://github.com/alferov/awesome-gulp/stargazers) - Task runner.
+- [AMA](https://github.com/sindresorhus/amas#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/amas?style=flat)](https://github.com/sindresorhus/amas/stargazers) - Ask Me Anything.
+	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme) [![GitHub stars](https://img.shields.io/github/stars/stoeffel/awesome-ama-answers?style=flat)](https://github.com/stoeffel/awesome-ama-answers/stargazers)
+- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme) [![GitHub stars](https://img.shields.io/github/stars/ibaaj/awesome-OpenSourcePhotography?style=flat)](https://github.com/ibaaj/awesome-OpenSourcePhotography/stargazers)
+- [OpenGL](https://github.com/eug/awesome-opengl#readme) [![GitHub stars](https://img.shields.io/github/stars/eug/awesome-opengl?style=flat)](https://github.com/eug/awesome-opengl/stargazers) - Cross-platform API for rendering 2D and 3D graphics.
+- [GraphQL](https://github.com/chentsulin/awesome-graphql#readme) [![GitHub stars](https://img.shields.io/github/stars/chentsulin/awesome-graphql?style=flat)](https://github.com/chentsulin/awesome-graphql/stargazers)
+- [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) [![GitHub stars](https://img.shields.io/github/stars/APA-Technology-Division/urban-and-regional-planning-resources?style=flat)](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources/stargazers) - Concerning the built environment and communities.
+- [Transit](https://github.com/MobilityData/awesome-transit#readme) [![GitHub stars](https://img.shields.io/github/stars/MobilityData/awesome-transit?style=flat)](https://github.com/MobilityData/awesome-transit/stargazers) – Data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
+- [Research Tools](https://github.com/emptymalei/awesome-research#readme) [![GitHub stars](https://img.shields.io/github/stars/emptymalei/awesome-research?style=flat)](https://github.com/emptymalei/awesome-research/stargazers)
+- [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme) [![GitHub stars](https://img.shields.io/github/stars/javierluraschi/awesome-dataviz?style=flat)](https://github.com/javierluraschi/awesome-dataviz/stargazers)
+- [Microservices](https://github.com/mfornos/awesome-microservices#readme) [![GitHub stars](https://img.shields.io/github/stars/mfornos/awesome-microservices?style=flat)](https://github.com/mfornos/awesome-microservices/stargazers)
+- [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) [![GitHub stars](https://img.shields.io/github/stars/jagracey/Awesome-Unicode?style=flat)](https://github.com/jagracey/Awesome-Unicode/stargazers) - Standards, quirks, packages and resources for Unicode.
+	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme) [![GitHub stars](https://img.shields.io/github/stars/Codepoints/awesome-codepoints?style=flat)](https://github.com/Codepoints/awesome-codepoints/stargazers)
+- [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme) [![GitHub stars](https://img.shields.io/github/stars/MunGell/awesome-for-beginners?style=flat)](https://github.com/MunGell/awesome-for-beginners/stargazers)
+- [Katas](https://github.com/gamontal/awesome-katas#readme) [![GitHub stars](https://img.shields.io/github/stars/gamontal/awesome-katas?style=flat)](https://github.com/gamontal/awesome-katas/stargazers)
+- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme) [![GitHub stars](https://img.shields.io/github/stars/drewrwilson/toolsforactivism?style=flat)](https://github.com/drewrwilson/toolsforactivism/stargazers)
+- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) [![GitHub stars](https://img.shields.io/github/stars/dylanrees/citizen-science?style=flat)](https://github.com/dylanrees/citizen-science/stargazers) - For community-based and non-institutional scientists.
+- [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/awesome-mqtt?style=flat)](https://github.com/hobbyquaker/awesome-mqtt/stargazers) - "Internet of Things" connectivity protocol.
+- [For Girls](https://github.com/cristianoliveira/awesome4girls#readme) [![GitHub stars](https://img.shields.io/github/stars/cristianoliveira/awesome4girls?style=flat)](https://github.com/cristianoliveira/awesome4girls/stargazers)
+- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) [![GitHub stars](https://img.shields.io/github/stars/vorpaljs/awesome-vorpal?style=flat)](https://github.com/vorpaljs/awesome-vorpal/stargazers) - Node.js CLI framework.
+- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) [![GitHub stars](https://img.shields.io/github/stars/vinjn/awesome-vulkan?style=flat)](https://github.com/vinjn/awesome-vulkan/stargazers) - Low-overhead, cross-platform 3D graphics and compute API.
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) [![GitHub stars](https://img.shields.io/github/stars/egeerardyn/awesome-LaTeX?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/stargazers) - Typesetting language.
+- [Economics](https://github.com/antontarasenko/awesome-economics#readme) [![GitHub stars](https://img.shields.io/github/stars/antontarasenko/awesome-economics?style=flat)](https://github.com/antontarasenko/awesome-economics/stargazers) - An economist's starter kit.
+- [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme) [![GitHub stars](https://img.shields.io/github/stars/sublimino/awesome-funny-markov?style=flat)](https://github.com/sublimino/awesome-funny-markov/stargazers)
+- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme) [![GitHub stars](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics?style=flat)](https://github.com/danielecook/Awesome-Bioinformatics/stargazers)
+- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) [![GitHub stars](https://img.shields.io/github/stars/hsiaoyi0504/awesome-cheminformatics?style=flat)](https://github.com/hsiaoyi0504/awesome-cheminformatics/stargazers) - Informatics techniques applied to problems in chemistry.
+- [Colorful](https://github.com/Siddharth11/Colorful#readme) [![GitHub stars](https://img.shields.io/github/stars/Siddharth11/Colorful?style=flat)](https://github.com/Siddharth11/Colorful/stargazers) - Choose your next color scheme.
+- [Steam](https://github.com/scholtzm/awesome-steam#readme) [![GitHub stars](https://img.shields.io/github/stars/scholtzm/awesome-steam?style=flat)](https://github.com/scholtzm/awesome-steam/stargazers) - Digital distribution platform.
+- [Bots](https://github.com/hackerkid/bots#readme) [![GitHub stars](https://img.shields.io/github/stars/hackerkid/bots?style=flat)](https://github.com/hackerkid/bots/stargazers) - Building bots.
+- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme) [![GitHub stars](https://img.shields.io/github/stars/dastergon/awesome-sre?style=flat)](https://github.com/dastergon/awesome-sre/stargazers)
+- [DTrace](https://github.com/xen0l/awesome-dtrace#readme) [![GitHub stars](https://img.shields.io/github/stars/xen0l/awesome-dtrace?style=flat)](https://github.com/xen0l/awesome-dtrace/stargazers) - Dynamic tracing framework.
+- [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) [![GitHub stars](https://img.shields.io/github/stars/bvolpato/awesome-userscripts?style=flat)](https://github.com/bvolpato/awesome-userscripts/stargazers) - Enhance your browsing experience.
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) [![GitHub stars](https://img.shields.io/github/stars/tobiasbueschel/awesome-pokemon?style=flat)](https://github.com/tobiasbueschel/awesome-pokemon/stargazers) - Resources for Pokémon and Pokémon GO.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) [![GitHub stars](https://img.shields.io/github/stars/exAspArk/awesome-chatops?style=flat)](https://github.com/exAspArk/awesome-chatops/stargazers) - Managing technical and business operations through a chat.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) [![GitHub stars](https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=flat)](https://github.com/kdeldycke/awesome-falsehood/stargazers) - Falsehoods programmers believe in.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) [![GitHub stars](https://img.shields.io/github/stars/heynickc/awesome-ddd?style=flat)](https://github.com/heynickc/awesome-ddd/stargazers) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) [![GitHub stars](https://img.shields.io/github/stars/woop/awesome-quantified-self?style=flat)](https://github.com/woop/awesome-quantified-self/stargazers) - Self-tracking through technology.
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) [![GitHub stars](https://img.shields.io/github/stars/nicolesaidy/awesome-web-design?style=flat)](https://github.com/nicolesaidy/awesome-web-design/stargazers) - For digital designers.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) [![GitHub stars](https://img.shields.io/github/stars/terkelg/awesome-creative-coding?style=flat)](https://github.com/terkelg/awesome-creative-coding/stargazers) - Programming something expressive instead of something functional.
+- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) [![GitHub stars](https://img.shields.io/github/stars/aviaryan/awesome-no-login-web-apps?style=flat)](https://github.com/aviaryan/awesome-no-login-web-apps/stargazers) - Web apps that work without login.
+- [Free Software](https://github.com/johnjago/awesome-free-software#readme) [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-free-software?style=flat)](https://github.com/johnjago/awesome-free-software/stargazers) - Free as in freedom.
+- [Framer](https://github.com/podo/awesome-framer#readme) [![GitHub stars](https://img.shields.io/github/stars/podo/awesome-framer?style=flat)](https://github.com/podo/awesome-framer/stargazers) - Prototyping interactive UI designs.
+- [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) [![GitHub stars](https://img.shields.io/github/stars/BubuAnabelas/awesome-markdown?style=flat)](https://github.com/BubuAnabelas/awesome-markdown/stargazers) - Markup language.
+- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) [![GitHub stars](https://img.shields.io/github/stars/mislavcimpersak/awesome-dev-fun?style=flat)](https://github.com/mislavcimpersak/awesome-dev-fun/stargazers) - Funny developer projects.
+- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) [![GitHub stars](https://img.shields.io/github/stars/DavidLambauer/awesome-magento2?style=flat)](https://github.com/DavidLambauer/awesome-magento2/stargazers) - Open Source eCommerce built with PHP.
+- [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) [![GitHub stars](https://img.shields.io/github/stars/xiaohanyu/awesome-tikz?style=flat)](https://github.com/xiaohanyu/awesome-tikz/stargazers) - Graph drawing packages for TeX/LaTeX/ConTeXt.
+- [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-ad-free?style=flat)](https://github.com/johnjago/awesome-ad-free/stargazers) - Alternatives without ads.
+- [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) [![GitHub stars](https://img.shields.io/github/stars/roaldnefs/awesome-prometheus?style=flat)](https://github.com/roaldnefs/awesome-prometheus/stargazers) - Open-source monitoring system.
+- [Homematic](https://github.com/homematic-community/awesome-homematic#readme) [![GitHub stars](https://img.shields.io/github/stars/homematic-community/awesome-homematic?style=flat)](https://github.com/homematic-community/awesome-homematic/stargazers) - Smart home devices.
+- [Ledger](https://github.com/sfischer13/awesome-ledger#readme) [![GitHub stars](https://img.shields.io/github/stars/sfischer13/awesome-ledger?style=flat)](https://github.com/sfischer13/awesome-ledger/stargazers) - Double-entry accounting on the command-line.
+- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) [![GitHub stars](https://img.shields.io/github/stars/thomasbnt/awesome-web-monetization?style=flat)](https://github.com/thomasbnt/awesome-web-monetization/stargazers) - A free open web standard service that allows you to send money directly in your browser.
+- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-uncopyright?style=flat)](https://github.com/johnjago/awesome-uncopyright/stargazers) - Public domain works.
+- [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) [![GitHub stars](https://img.shields.io/github/stars/Zheaoli/awesome-coins?style=flat)](https://github.com/Zheaoli/awesome-coins/stargazers) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) [![GitHub stars](https://img.shields.io/github/stars/zachflower/awesome-open-source-supporters?style=flat)](https://github.com/zachflower/awesome-open-source-supporters/stargazers) - Companies that offer their tools and services for free to open source projects.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles?style=flat)](https://github.com/robinstickel/awesome-design-principles/stargazers) - Create better and more consistent designs and experiences.
+- [Theravada](https://github.com/johnjago/awesome-theravada#readme) [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-theravada?style=flat)](https://github.com/johnjago/awesome-theravada/stargazers) - Teachings from the Theravada Buddhist tradition.
+- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) [![GitHub stars](https://img.shields.io/github/stars/inspectit-labs/awesome-inspectit?style=flat)](https://github.com/inspectit-labs/awesome-inspectit/stargazers) - Open source Java app performance management tool.
+- [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) [![GitHub stars](https://img.shields.io/github/stars/nayafia/awesome-maintainers?style=flat)](https://github.com/nayafia/awesome-maintainers/stargazers) - The experience of being an open source maintainer.
+- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) [![GitHub stars](https://img.shields.io/github/stars/xxczaki/awesome-calculators?style=flat)](https://github.com/xxczaki/awesome-calculators/stargazers) - Tools for every platform.
+- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) [![GitHub stars](https://img.shields.io/github/stars/ZYSzys/awesome-captcha?style=flat)](https://github.com/ZYSzys/awesome-captcha/stargazers) - A type of challenge–response test used in computing to determine whether or not the user is human.
+- [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) [![GitHub stars](https://img.shields.io/github/stars/markusschanta/awesome-jupyter?style=flat)](https://github.com/markusschanta/awesome-jupyter/stargazers) - Create and share documents that contain code, equations, visualizations and narrative text.
+- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) [![GitHub stars](https://img.shields.io/github/stars/andrewda/awesome-frc?style=flat)](https://github.com/andrewda/awesome-frc/stargazers) - International high school robotics championship.
+- [Speakers](https://github.com/karlhorky/awesome-speakers#readme) [![GitHub stars](https://img.shields.io/github/stars/karlhorky/awesome-speakers?style=flat)](https://github.com/karlhorky/awesome-speakers/stargazers) - Conference and meetup speakers in the programming and design community.
+- [Board Games](https://github.com/edm00se/awesome-board-games#readme) [![GitHub stars](https://img.shields.io/github/stars/edm00se/awesome-board-games?style=flat)](https://github.com/edm00se/awesome-board-games/stargazers) - Table-top gaming fun for all.
+- [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) [![GitHub stars](https://img.shields.io/github/stars/uraimo/awesome-software-patreons?style=flat)](https://github.com/uraimo/awesome-software-patreons/stargazers) - Fund individual programmers or the development of open source projects.
+- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) [![GitHub stars](https://img.shields.io/github/stars/ecohealthalliance/awesome-parasite?style=flat)](https://github.com/ecohealthalliance/awesome-parasite/stargazers) - Parasites and host-pathogen interactions.
+- [Food](https://github.com/jzarca01/awesome-food#readme) [![GitHub stars](https://img.shields.io/github/stars/jzarca01/awesome-food?style=flat)](https://github.com/jzarca01/awesome-food/stargazers) - Projects on GitHub related to food.
+- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) [![GitHub stars](https://img.shields.io/github/stars/alexk111/awesome-bitcoin-payment-processors?style=flat)](https://github.com/alexk111/awesome-bitcoin-payment-processors/stargazers) - Start accepting Bitcoin.
+- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) [![GitHub stars](https://img.shields.io/github/stars/nschloe/awesome-scientific-computing?style=flat)](https://github.com/nschloe/awesome-scientific-computing/stargazers) - Solving complex scientific problems using computers.
+- [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme) [![GitHub stars](https://img.shields.io/github/stars/ScaleLeap/awesome-amazon-seller?style=flat)](https://github.com/ScaleLeap/awesome-amazon-seller/stargazers)
+- [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) [![GitHub stars](https://img.shields.io/github/stars/brycejohnston/awesome-agriculture?style=flat)](https://github.com/brycejohnston/awesome-agriculture/stargazers) - Open source technology for farming and gardening.
+- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) [![GitHub stars](https://img.shields.io/github/stars/ttt30ga/awesome-product-design?style=flat)](https://github.com/ttt30ga/awesome-product-design/stargazers) - Design a product from the initial concept to production.
+- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) [![GitHub stars](https://img.shields.io/github/stars/catalinmiron/awesome-prisma?style=flat)](https://github.com/catalinmiron/awesome-prisma/stargazers) - Turn your database into a GraphQL API.
+- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) [![GitHub stars](https://img.shields.io/github/stars/simskij/awesome-software-architecture?style=flat)](https://github.com/simskij/awesome-software-architecture/stargazers) - The discipline of designing and building software.
+- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) [![GitHub stars](https://img.shields.io/github/stars/stevesong/awesome-connectivity-info?style=flat)](https://github.com/stevesong/awesome-connectivity-info/stargazers) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+- [Stacks](https://github.com/stackshareio/awesome-stacks#readme) [![GitHub stars](https://img.shields.io/github/stars/stackshareio/awesome-stacks?style=flat)](https://github.com/stackshareio/awesome-stacks/stargazers) - Tech stacks for building different apps and features.
+- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) [![GitHub stars](https://img.shields.io/github/stars/cytodata/awesome-cytodata?style=flat)](https://github.com/cytodata/awesome-cytodata/stargazers) - Image-based profiling of biological phenotypes for computational biologists.
+- [IRC](https://github.com/davisonio/awesome-irc#readme) [![GitHub stars](https://img.shields.io/github/stars/davisonio/awesome-irc?style=flat)](https://github.com/davisonio/awesome-irc/stargazers) - Open source messaging protocol.
+- [Advertising](https://github.com/cenoura/awesome-ads#readme) [![GitHub stars](https://img.shields.io/github/stars/cenoura/awesome-ads?style=flat)](https://github.com/cenoura/awesome-ads/stargazers) - Programmatic media and ad tech for websites.
+- [Earth](https://github.com/philsturgeon/awesome-earth#readme) [![GitHub stars](https://img.shields.io/github/stars/philsturgeon/awesome-earth?style=flat)](https://github.com/philsturgeon/awesome-earth/stargazers) - Find ways to resolve the climate crisis.
+- [Naming](https://github.com/gruhn/awesome-naming#readme) [![GitHub stars](https://img.shields.io/github/stars/gruhn/awesome-naming?style=flat)](https://github.com/gruhn/awesome-naming/stargazers) - Guides for naming things in computer science.
+- [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) [![GitHub stars](https://img.shields.io/github/stars/iipc/awesome-web-archiving?style=flat)](https://github.com/iipc/awesome-web-archiving/stargazers) - An effort to preserve the Web for future generations.
+- [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) [![GitHub stars](https://img.shields.io/github/stars/schlessera/awesome-wp-cli?style=flat)](https://github.com/schlessera/awesome-wp-cli/stargazers) - Command-line interface for WordPress.
+- [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) [![GitHub stars](https://img.shields.io/github/stars/mourarthur/awesome-credit-modeling?style=flat)](https://github.com/mourarthur/awesome-credit-modeling/stargazers) - Methods for classifying credit applicants into risk classes.
+- [Ansible](https://github.com/ansible-community/awesome-ansible#readme) [![GitHub stars](https://img.shields.io/github/stars/ansible-community/awesome-ansible?style=flat)](https://github.com/ansible-community/awesome-ansible/stargazers) - A Python-based, open-source IT configuration management and automation platform.
+- [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) [![GitHub stars](https://img.shields.io/github/stars/keller-mark/awesome-biological-visualizations?style=flat)](https://github.com/keller-mark/awesome-biological-visualizations/stargazers) - Interactive visualization of biological data on the web.
+- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) [![GitHub stars](https://img.shields.io/github/stars/make-github-pseudonymous-again/awesome-qr-code?style=flat)](https://github.com/make-github-pseudonymous-again/awesome-qr-code/stargazers) - A type of matrix barcode that can be used to store and share a small amount of information.
+- [Veganism](https://github.com/sdassow/awesome-veganism#readme) [![GitHub stars](https://img.shields.io/github/stars/sdassow/awesome-veganism?style=flat)](https://github.com/sdassow/awesome-veganism/stargazers) - Making the plant-based lifestyle easy and accessible.
+- [Translations](https://github.com/mbiesiad/awesome-translations#readme) [![GitHub stars](https://img.shields.io/github/stars/mbiesiad/awesome-translations?style=flat)](https://github.com/mbiesiad/awesome-translations/stargazers) - The transfer of the meaning of a text from one language to another.
+- [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) [![GitHub stars](https://img.shields.io/github/stars/dersvenhesse/awesome-scriptable?style=flat)](https://github.com/dersvenhesse/awesome-scriptable/stargazers) - An iOS app for automation in JavaScript.
+- [WebXR](https://github.com/msub2/awesome-webxr#readme) [![GitHub stars](https://img.shields.io/github/stars/msub2/awesome-webxr?style=flat)](https://github.com/msub2/awesome-webxr/stargazers) - Enables immersive virtual reality and augmented reality content on the web.
+- [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) [![GitHub stars](https://img.shields.io/github/stars/atkirtland/awesome-computational-geometry?style=flat)](https://github.com/atkirtland/awesome-computational-geometry/stargazers) - Computational approaches for problems in geometry.
+- [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) [![GitHub stars](https://img.shields.io/github/stars/osmlab/awesome-openstreetmap?style=flat)](https://github.com/osmlab/awesome-openstreetmap/stargazers) - An open data mapping project utilized by many apps and devices.
+- [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) [![GitHub stars](https://img.shields.io/github/stars/inoue0426/awesome-computational-biology?style=flat)](https://github.com/inoue0426/awesome-computational-biology/stargazers) - Computational approaches applied to problems in biology.
+- [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) [![GitHub stars](https://img.shields.io/github/stars/readthedocs-examples/awesome-read-the-docs?style=flat)](https://github.com/readthedocs-examples/awesome-read-the-docs/stargazers) - Example documentation projects to inspire and help bootstrap new documentation projects.
+- [Quarto](https://github.com/mcanouil/awesome-quarto#readme) [![GitHub stars](https://img.shields.io/github/stars/mcanouil/awesome-quarto?style=flat)](https://github.com/mcanouil/awesome-quarto/stargazers) - Scientific and technical open-source publishing system built on Pandoc.
+- [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) [![GitHub stars](https://img.shields.io/github/stars/hallvaaw/awesome-biological-image-analysis?style=flat)](https://github.com/hallvaaw/awesome-biological-image-analysis/stargazers) - Interpreting biological phenomena using images.
+- [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=flat)](https://github.com/sindresorhus/awesome-chatgpt/stargazers) - Artificial intelligence chatbot developed by OpenAI.
+- [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome-whisper?style=flat)](https://github.com/sindresorhus/awesome-whisper/stargazers) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme) [![GitHub stars](https://img.shields.io/github/stars/shi-rudo/awesome-stock-trading?style=flat)](https://github.com/shi-rudo/awesome-stock-trading/stargazers) - Purchase and sale of equities of publicly traded companies to generate profits.
+- [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) [![GitHub stars](https://img.shields.io/github/stars/airscripts/awesome-steam-deck?style=flat)](https://github.com/airscripts/awesome-steam-deck/stargazers) - A handheld gaming computer developed by Valve.
+- [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) [![GitHub stars](https://img.shields.io/github/stars/lunohodov/awesome-astrophotography?style=flat)](https://github.com/lunohodov/awesome-astrophotography/stargazers) - Photography of astronomical objects, celestial events, or areas of the night sky.
+- [HPC](https://github.com/dstdev/awesome-hpc#readme) [![GitHub stars](https://img.shields.io/github/stars/dstdev/awesome-hpc?style=flat)](https://github.com/dstdev/awesome-hpc/stargazers) - High Performance Computing.
+- [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) [![GitHub stars](https://img.shields.io/github/stars/FoxFil/awesome-geocaching?style=flat)](https://github.com/FoxFil/awesome-geocaching/stargazers) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
+- [Regex](https://github.com/slevithan/awesome-regex#readme) [![GitHub stars](https://img.shields.io/github/stars/slevithan/awesome-regex?style=flat)](https://github.com/slevithan/awesome-regex/stargazers) - Specialized language for matching patterns in text.
+- [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) [![GitHub stars](https://img.shields.io/github/stars/lutzh/awesome-event-driven-architecture?style=flat)](https://github.com/lutzh/awesome-event-driven-architecture/stargazers) - A software architecture approach where services collaborate by publishing and subscribing to events.
+- [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) [![GitHub stars](https://img.shields.io/github/stars/idematos/awesome-permacomputing?style=flat)](https://github.com/idematos/awesome-permacomputing/stargazers) - Resilient and regenerative computing practices inspired by permaculture.
+- [Standards](https://github.com/donBarbos/awesome-standards#readme) [![GitHub stars](https://img.shields.io/github/stars/donBarbos/awesome-standards?style=flat)](https://github.com/donBarbos/awesome-standards/stargazers) - Proposals and standards that define and enhance software, languages, and related technologies.
+- [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) [![GitHub stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat)](https://github.com/hesreallyhim/awesome-claude-code/stargazers) - Terminal-based AI coding assistant by Anthropic.
+- [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) [![GitHub stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli?style=flat)](https://github.com/Piebald-AI/awesome-gemini-cli/stargazers) - Terminal-based AI coding assistant by Google.
+- [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) [![GitHub stars](https://img.shields.io/github/stars/eminyagiz42/awesome-sap-commerce?style=flat)](https://github.com/eminyagiz42/awesome-sap-commerce/stargazers) - An e-commerce platform built with Java, Spring MVC, and Angular.
+- [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) [![GitHub stars](https://img.shields.io/github/stars/sampart/awesome-tech-ethics?style=flat)](https://github.com/sampart/awesome-tech-ethics/stargazers) - Mitigating and avoiding the potential negative effects of technology on society.
+- [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) [![GitHub stars](https://img.shields.io/github/stars/Code-and-Sorts/awesome-copilot-agents?style=flat)](https://github.com/Code-and-Sorts/awesome-copilot-agents/stargazers) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+
+## Related
+
+- [All Awesome Lists](https://github.com/topics/awesome) [![GitHub stars](https://img.shields.io/github/stars/topics/awesome?style=flat)](https://github.com/topics/awesome/stargazers) - All the Awesome lists on GitHub.
+- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) [![GitHub stars](https://img.shields.io/github/stars/basharovV/StumbleUponAwesome?style=flat)](https://github.com/basharovV/StumbleUponAwesome/stargazers) - Discover random pages from the Awesome dataset using a browser extension.
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) [![GitHub stars](https://img.shields.io/github/stars/umutphp/awesome-cli?style=flat)](https://github.com/umutphp/awesome-cli/stargazers) - A simple command-line tool to dive into Awesome lists.
+- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.

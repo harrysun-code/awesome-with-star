@@ -1,5 +1,7 @@
 # VLC
 
+> 来源：[mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc)
+
 [![GitHub stars](https://img.shields.io/github/stars/mfkl/awesome-vlc?style=flat)](https://github.com/mfkl/awesome-vlc/stargazers)
 
 # Awesome VLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://cdn.worldvectorlogo.com/logos/vlc.svg" align="right" alt="VLC" width="128">](https://github.com/mfkl/awesome-vlc) [![GitHub stars](https://img.shields.io/github/stars/mfkl/awesome-vlc?style=flat)](https://github.com/mfkl/awesome-vlc/stargazers)

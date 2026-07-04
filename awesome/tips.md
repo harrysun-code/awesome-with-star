@@ -1,5 +1,7 @@
 # Git Tips
 
+> 来源：[git-tips/tips](https://github.com/git-tips/tips)
+
 [![GitHub stars](https://img.shields.io/github/stars/git-tips/tips?style=flat)](https://github.com/git-tips/tips/stargazers)
 
 ## git-tips

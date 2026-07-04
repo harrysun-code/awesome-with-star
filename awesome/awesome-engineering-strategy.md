@@ -1,5 +1,7 @@
 # Engineering Strategy
 
+> 来源：[aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy)
+
 [![GitHub stars](https://img.shields.io/github/stars/aleixmorgadas/awesome-engineering-strategy?style=flat)](https://github.com/aleixmorgadas/awesome-engineering-strategy/stargazers)
 
 # Awesome Engineering Strategy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # Digital History
 
+> 来源：[maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history)
+
 [![GitHub stars](https://img.shields.io/github/stars/maehr/awesome-digital-history?style=flat)](https://github.com/maehr/awesome-digital-history/stargazers)
 
 # Awesome Digital History [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -221,10 +223,10 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ## More Awesome
 
 - [Computer History](https://github.com/watson/awesome-computer-history) [![GitHub stars](https://img.shields.io/github/stars/watson/awesome-computer-history?style=flat)](https://github.com/watson/awesome-computer-history/stargazers) - An Awesome List of computer history videos, documentaries and related folklore.
-- [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) [![GitHub stars](https://img.shields.io/github/stars/fasouto/awesome-dataviz?style=flat)](https://github.com/fasouto/awesome-dataviz/stargazers) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 - [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
-- [Research Tools](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
+- [Research Tools](https://github.com/emptymalei/awesome-research#readme) [![GitHub stars](https://img.shields.io/github/stars/emptymalei/awesome-research?style=flat)](https://github.com/emptymalei/awesome-research/stargazers) - A list of tools for research.
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) [![GitHub stars](https://img.shields.io/github/stars/writing-resources/awesome-scientific-writing?style=flat)](https://github.com/writing-resources/awesome-scientific-writing/stargazers) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 - [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute

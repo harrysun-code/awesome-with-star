@@ -1,5 +1,7 @@
 # Plotters
 
+> 来源：[beardicus/awesome-plotters](https://github.com/beardicus/awesome-plotters)
+
 [![GitHub stars](https://img.shields.io/github/stars/beardicus/awesome-plotters?style=flat)](https://github.com/beardicus/awesome-plotters/stargazers)
 
 # Awesome Plotters [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # Cycle.js
 
+> 来源：[cyclejs-community/awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs)
+
 [![GitHub stars](https://img.shields.io/github/stars/cyclejs-community/awesome-cyclejs?style=flat)](https://github.com/cyclejs-community/awesome-cyclejs/stargazers)
 
 ## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

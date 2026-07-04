@@ -1,5 +1,7 @@
 # watchOS
 
+> 来源：[yenchenlin/awesome-watchos](https://github.com/yenchenlin/awesome-watchos)
+
 [![GitHub stars](https://img.shields.io/github/stars/yenchenlin/awesome-watchos?style=flat)](https://github.com/yenchenlin/awesome-watchos/stargazers)
 
 <img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="500">
@@ -169,7 +171,7 @@ Other amazingly awesome lists can be found in the
  * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) [![GitHub stars](https://img.shields.io/github/stars/sanketfirodiya/iOS-learning-resources?style=flat)](https://github.com/sanketfirodiya/iOS-learning-resources/stargazers) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
  * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) [![GitHub stars](https://img.shields.io/github/stars/sxyx2008/awesome-ios-animation?style=flat)](https://github.com/sxyx2008/awesome-ios-animation/stargazers) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) [![GitHub stars](https://img.shields.io/github/stars/sxyx2008/awesome-ios-chart?style=flat)](https://github.com/sxyx2008/awesome-ios-chart/stargazers) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
- * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
+ * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) [![GitHub stars](https://img.shields.io/github/stars/vsouza/awesome-gists?style=flat)](https://github.com/vsouza/awesome-gists/stargazers) - A list of amazing gists (iOS section).
  * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) [![GitHub stars](https://img.shields.io/github/stars/cjwirth/awesome-ios-ui?style=flat)](https://github.com/cjwirth/awesome-ios-ui/stargazers) - A curated list of awesome iOS UI/UX libraries.
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 

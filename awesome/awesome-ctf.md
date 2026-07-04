@@ -1,5 +1,7 @@
 # CTF
 
+> 来源：[apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
+
 [![GitHub stars](https://img.shields.io/github/stars/apsdehal/awesome-ctf?style=flat)](https://github.com/apsdehal/awesome-ctf/stargazers)
 
 # Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -385,7 +387,7 @@ Check solve section for steganography.
 
 *Various general websites about and on CTF*
 
-- [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-) - CTF Cheatsheet.
+- [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-) [![GitHub stars](https://img.shields.io/github/stars/uppusaikiran/awesome-ctf-cheatsheet?style=flat)](https://github.com/uppusaikiran/awesome-ctf-cheatsheet/stargazers) - CTF Cheatsheet.
 - [CTF Time](https://ctftime.org/) - General information on CTF occuring around the worlds.
 - [Reddit Security CTF](http://www.reddit.com/r/securityctf) - Reddit CTF category.
 
@@ -396,7 +398,7 @@ Check solve section for steganography.
 - [Bamboofox](https://bamboofox.github.io/) - Chinese resources to learn CTF.
 - [bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki from team bi0s.
 - [CTF Cheatsheet](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) - CTF tips and tricks.
-- [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) [![GitHub stars](https://img.shields.io/github/stars/isislab/Project-Ideas/wiki?style=flat)](https://github.com/isislab/Project-Ideas/wiki/stargazers) - CTF Wiki by Isis lab.
+- [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab.
 - [OpenToAll](https://github.com/OpenToAllCTF/Tips) [![GitHub stars](https://img.shields.io/github/stars/OpenToAllCTF/Tips?style=flat)](https://github.com/OpenToAllCTF/Tips/stargazers) - CTF tips by OTA CTF team members.
 
 ## Writeups Collections

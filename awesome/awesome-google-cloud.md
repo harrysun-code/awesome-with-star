@@ -1,5 +1,7 @@
 # Google Cloud
 
+> 来源：[GoogleCloudPlatform/awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
+
 [![GitHub stars](https://img.shields.io/github/stars/GoogleCloudPlatform/awesome-google-cloud?style=flat)](https://github.com/GoogleCloudPlatform/awesome-google-cloud/stargazers)
 
 <!--lint ignore no-dead-urls awesome-license-->

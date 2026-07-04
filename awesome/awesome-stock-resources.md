@@ -1,5 +1,7 @@
 # Stock Resources
 
+> 来源：[neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)
+
 [![GitHub stars](https://img.shields.io/github/stars/neutraltone/awesome-stock-resources?style=flat)](https://github.com/neutraltone/awesome-stock-resources/stargazers)
 
 # Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Github Workflow](https://img.shields.io/github/actions/workflow/status/neutraltone/awesome-stock-resources/main.yml)](https://github.com/neutraltone/awesome-stock-resources/actions) [![Support Me via Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/tonyphipps) [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy_Me_a_Coffee-orange.svg)](https://buymeacoffee.com/neutraltone)
@@ -246,7 +248,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) A Simple and Definitive Open-Source Icons Library.
 * [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
-* [Maps Icon](https://github.com/djaiss/mapsicon) [![GitHub stars](https://img.shields.io/github/stars/djaiss/mapsicon?style=flat)](https://github.com/djaiss/mapsicon/stargazers) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+* [Maps Icon](https://github.com/djaiss/mapsicon) [![GitHub stars](https://img.shields.io/github/stars/djaiss/mapsicon?style=flat)](https://github.com/djaiss/mapsicon/stargazers) - [:copyright:](https://github.com/djaiss/mapsicon#license) [![GitHub stars](https://img.shields.io/github/stars/djaiss/mapsicon?style=flat)](https://github.com/djaiss/mapsicon/stargazers) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Obra Icons](https://icons.obra.studio/) - [:copyright:](https://icons.obra.studio/licensing-agreement) A simple, consistent set of icons, perfect for user interfaces.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) [![GitHub stars](https://img.shields.io/github/stars/simple-icons/simple-icons?style=flat)](https://github.com/simple-icons/simple-icons/stargazers) - [:copyright:](https://artlibre.org/licence/lal/en/) SVG icons for popular brands.

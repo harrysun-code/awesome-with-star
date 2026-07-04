@@ -1,5 +1,7 @@
 # University Courses
 
+> 来源：[prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+
 [![GitHub stars](https://img.shields.io/github/stars/prakhar1989/awesome-courses?style=flat)](https://github.com/prakhar1989/awesome-courses/stargazers)
 
 # Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -80,7 +82,7 @@ Courses
 	- [Assignments](https://courses.engr.illinois.edu/cs241/sp2016/mps.html)
 	- [Labs](https://courses.engr.illinois.edu/cs241/sp2016/labs.html)
 	- [Github Page](http://angrave.github.io/sys/#)
-	- [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki) [![GitHub stars](https://img.shields.io/github/stars/angrave/SystemProgramming/wiki?style=flat)](https://github.com/angrave/SystemProgramming/wiki/stargazers)
+	- [Crowd Sourced Book](https://github.com/angrave/SystemProgramming/wiki)
 - [CS 425](https://courses.engr.illinois.edu/cs425/fa2016/index.html) **Distributed Systems** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- Brilliant set of lectures and reading material covering fundamental concepts in distributed systems such as Vector clocks, Consensus and Paxos. This is the 2016 version by Prof Indranil Gupta.
 	- [Lectures](https://courses.engr.illinois.edu/cs425/fa2016/lectures.html)
@@ -741,7 +743,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 	- [Readings](http://web.stanford.edu/class/cs276/index.html#books)
 - [Practical_RL](https://github.com/yandexdataschool/Practical_RL) [![GitHub stars](https://img.shields.io/github/stars/yandexdataschool/Practical_RL?style=flat)](https://github.com/yandexdataschool/Practical_RL/stargazers) **Reinforcement Learning in the Wild** *Yandex SDA* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- A course on reinforcement learning in the wild. Taught on-campus in HSE and Yandex SDA (russian) and maintained to be friendly to online students (both english and russian).
-	- [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus)
+	- [Syllabus](https://github.com/yandexdataschool/Practical_RL#syllabus) [![GitHub stars](https://img.shields.io/github/stars/yandexdataschool/Practical_RL?style=flat)](https://github.com/yandexdataschool/Practical_RL/stargazers)
 - [UvA DEEP LEARNING](http://uvadlc.github.io/) **UvA Deep Learning Course** *University of Amsterdam* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- This course is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep learning, namely of modern, multi-layered neural networks trained on big data. The course focuses particularly on computer vision and language modelling, which are perhaps two of the most recognizable and impressive applications of the deep learning theory.
 	- [Lecture Videos & Notes](http://uvadlc.github.io/#lecture)

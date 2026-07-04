@@ -1,5 +1,7 @@
 # Quarto
 
+> 来源：[mcanouil/awesome-quarto](https://github.com/mcanouil/awesome-quarto)
+
 [![GitHub stars](https://img.shields.io/github/stars/mcanouil/awesome-quarto?style=flat)](https://github.com/mcanouil/awesome-quarto/stargazers)
 
 <!--lint disable double-link-->

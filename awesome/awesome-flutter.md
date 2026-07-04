@@ -1,5 +1,7 @@
 # Flutter
 
+> 来源：[Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)
+
 [![GitHub stars](https://img.shields.io/github/stars/Solido/awesome-flutter?style=flat)](https://github.com/Solido/awesome-flutter/stargazers)
 
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)

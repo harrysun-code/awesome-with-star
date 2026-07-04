@@ -1,5 +1,7 @@
 # Visual Studio Code
 
+> 来源：[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+
 [![GitHub stars](https://img.shields.io/github/stars/viatsko/awesome-vscode?style=flat)](https://github.com/viatsko/awesome-vscode/stargazers)
 
 

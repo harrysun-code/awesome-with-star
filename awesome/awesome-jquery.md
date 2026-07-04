@@ -1,5 +1,7 @@
 # jQuery
 
+> 来源：[petk/awesome-jquery](https://github.com/petk/awesome-jquery)
+
 [![GitHub stars](https://img.shields.io/github/stars/petk/awesome-jquery?style=flat)](https://github.com/petk/awesome-jquery/stargazers)
 
 # Awesome jQuery

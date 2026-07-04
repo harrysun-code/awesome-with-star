@@ -1,5 +1,7 @@
 # Education
 
+> 来源：[pehapkari/awesome-symfony-education](https://github.com/pehapkari/awesome-symfony-education)
+
 [![GitHub stars](https://img.shields.io/github/stars/pehapkari/awesome-symfony-education?style=flat)](https://github.com/pehapkari/awesome-symfony-education/stargazers)
 
 # Awesome Symfony Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

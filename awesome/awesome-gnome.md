@@ -1,5 +1,7 @@
 # GNOME
 
+> 来源：[Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome)
+
 [![GitHub stars](https://img.shields.io/github/stars/Kazhnuz/awesome-gnome?style=flat)](https://github.com/Kazhnuz/awesome-gnome/stargazers)
 
 # Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

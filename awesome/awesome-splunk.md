@@ -1,5 +1,7 @@
 # Splunk
 
+> 来源：[sduff/awesome-splunk](https://github.com/sduff/awesome-splunk)
+
 [![GitHub stars](https://img.shields.io/github/stars/sduff/awesome-splunk?style=flat)](https://github.com/sduff/awesome-splunk/stargazers)
 
 <div align="center">

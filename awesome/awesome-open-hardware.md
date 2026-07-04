@@ -1,5 +1,7 @@
 # Open Hardware
 
+> 来源：[delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+
 [![GitHub stars](https://img.shields.io/github/stars/delftopenhardware/awesome-open-hardware?style=flat)](https://github.com/delftopenhardware/awesome-open-hardware/stargazers)
 
 # Awesome Open Hardware [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->

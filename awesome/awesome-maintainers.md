@@ -1,5 +1,7 @@
 # Open Source Maintainers
 
+> 来源：[nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers)
+
 [![GitHub stars](https://img.shields.io/github/stars/nayafia/awesome-maintainers?style=flat)](https://github.com/nayafia/awesome-maintainers/stargazers)
 
 # Awesome Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

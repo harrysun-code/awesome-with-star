@@ -1,5 +1,7 @@
 # Flexbox
 
+> 来源：[afonsopacifer/awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+
 [![GitHub stars](https://img.shields.io/github/stars/afonsopacifer/awesome-flexbox?style=flat)](https://github.com/afonsopacifer/awesome-flexbox/stargazers)
 
 [![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/)

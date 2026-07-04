@@ -1,5 +1,7 @@
 # Pyramid
 
+> 来源：[uralbash/awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
+
 [![GitHub stars](https://img.shields.io/github/stars/uralbash/awesome-pyramid?style=flat)](https://github.com/uralbash/awesome-pyramid/stargazers)
 
 # Awesome Pyramid
@@ -108,7 +110,7 @@ based on [awesome-python](https://github.com/vinta/awesome-python/) [![GitHub st
   based authentication and role based security for Pyramid application
 * [Python Social Auth](https://github.com/omab/python-social-auth) [![GitHub stars](https://img.shields.io/github/stars/omab/python-social-auth?style=flat)](https://github.com/omab/python-social-auth/stargazers) - Social
   authentication/registration mechanism with support for a large number of
-  [providers](https://github.com/omab/python-social-auth#auth-providers).
+  [providers](https://github.com/omab/python-social-auth#auth-providers) [![GitHub stars](https://img.shields.io/github/stars/omab/python-social-auth?style=flat)](https://github.com/omab/python-social-auth/stargazers).
 * [Authomatic](https://github.com/authomatic/authomatic) [![GitHub stars](https://img.shields.io/github/stars/authomatic/authomatic?style=flat)](https://github.com/authomatic/authomatic/stargazers) -  Simple yet powerful
   authorization / authentication client library for Python web applications.
 * [apex](https://github.com/cd34/apex) [![GitHub stars](https://img.shields.io/github/stars/cd34/apex?style=flat)](https://github.com/cd34/apex/stargazers) - Toolkit for Pyramid, a Pylons Project,

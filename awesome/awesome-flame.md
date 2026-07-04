@@ -1,5 +1,7 @@
 # Flame
 
+> 来源：[flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame)
+
 [![GitHub stars](https://img.shields.io/github/stars/flame-engine/awesome-flame?style=flat)](https://github.com/flame-engine/awesome-flame/stargazers)
 
 <div align="center">
@@ -104,6 +106,7 @@
 - [bonfire](https://github.com/RafaelBarbosatec/bonfire) [![GitHub stars](https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=flat)](https://github.com/RafaelBarbosatec/bonfire/stargazers) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec) [![GitHub stars](https://img.shields.io/github/stars/RafaelBarbosatec?style=flat)](https://github.com/RafaelBarbosatec/stargazers)
 - [flame_texturepacker](https://github.com/Brixto/flame_texturepacker) [![GitHub stars](https://img.shields.io/github/stars/Brixto/flame_texturepacker?style=flat)](https://github.com/Brixto/flame_texturepacker/stargazers) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto) [![GitHub stars](https://img.shields.io/github/stars/Brixto?style=flat)](https://github.com/Brixto/stargazers)
 - [leap](https://github.com/kurtome/leap) [![GitHub stars](https://img.shields.io/github/stars/kurtome/leap?style=flat)](https://github.com/kurtome/leap/stargazers) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome) [![GitHub stars](https://img.shields.io/github/stars/kurtome?style=flat)](https://github.com/kurtome/stargazers)
+- [fuse](https://github.com/misha/flame_fuse) [![GitHub stars](https://img.shields.io/github/stars/misha/flame_fuse?style=flat)](https://github.com/misha/flame_fuse/stargazers) - Behavior composition with hooks for Flame components. By [Misha](https://github.com/misha) [![GitHub stars](https://img.shields.io/github/stars/misha?style=flat)](https://github.com/misha/stargazers)
 
 ## Projects
 

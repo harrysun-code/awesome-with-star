@@ -1,5 +1,7 @@
 # Windows
 
+> 来源：[0pandadev/awesome-windows](https://github.com/0pandadev/awesome-windows)
+
 [![GitHub stars](https://img.shields.io/github/stars/0pandadev/awesome-windows?style=flat)](https://github.com/0pandadev/awesome-windows/stargazers)
 
 <!--

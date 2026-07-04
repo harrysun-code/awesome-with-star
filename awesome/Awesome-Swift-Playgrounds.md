@@ -1,5 +1,7 @@
 # Playgrounds
 
+> 来源：[uraimo/Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
+
 [![GitHub stars](https://img.shields.io/github/stars/uraimo/Awesome-Swift-Playgrounds?style=flat)](https://github.com/uraimo/Awesome-Swift-Playgrounds/stargazers)
 
 # Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![156 playgrounds](https://img.shields.io/badge/Playgrounds:-156-orange.svg)
@@ -179,7 +181,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) [![GitHub stars](https://img.shields.io/github/stars/raywenderlich/swift-algorithm-club?style=flat)](https://github.com/raywenderlich/swift-algorithm-club/stargazers) - Algorithms and data structures in Swift with explanations. 🌟
 * [Sorting Experiments](https://github.com/adrfer/Sort) [![GitHub stars](https://img.shields.io/github/stars/adrfer/Sort?style=flat)](https://github.com/adrfer/Sort/stargazers) - Alluring experiments with sorting algorithms in Swift, sort of.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) [![GitHub stars](https://img.shields.io/github/stars/akpw/VisualBinaryTrees?style=flat)](https://github.com/akpw/VisualBinaryTrees/stargazers) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
-* [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 
+* [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) [![GitHub stars](https://img.shields.io/github/stars/gongzhang/julia-set-playground?style=flat)](https://github.com/gongzhang/julia-set-playground/stargazers) - A Swift playground that generates beautiful Julia set fractal images. 
 * [A Star](https://github.com/Dev1an/A-Star) [![GitHub stars](https://img.shields.io/github/stars/Dev1an/A-Star?style=flat)](https://github.com/Dev1an/A-Star/stargazers) - Protocol oriented A* pathfinding algorithm implementation in Swift 4.🍁
 * [DataStructures Playground](https://github.com/oliverfoggin/DataStructuresPlayground) [![GitHub stars](https://img.shields.io/github/stars/oliverfoggin/DataStructuresPlayground?style=flat)](https://github.com/oliverfoggin/DataStructuresPlayground/stargazers) - Data Structures and Algorithms in Swift. ⏳
 * [Swiftography](https://github.com/sketchytech/Swiftography) [![GitHub stars](https://img.shields.io/github/stars/sketchytech/Swiftography?style=flat)](https://github.com/sketchytech/Swiftography/stargazers) - Standard cryptographic algorithms in a Swift Playground. ⏳

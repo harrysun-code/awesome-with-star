@@ -1,5 +1,7 @@
 # Audiovisual
 
+> 来源：[stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual)
+
 [![GitHub stars](https://img.shields.io/github/stars/stingalleman/awesome-audiovisual?style=flat)](https://github.com/stingalleman/awesome-audiovisual/stargazers)
 
 
@@ -82,7 +84,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 **[`^        back to top        ^`](#Contents)**
 
-See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme).
+See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme) [![GitHub stars](https://img.shields.io/github/stars/ebu/awesome-broadcasting?style=flat)](https://github.com/ebu/awesome-broadcasting/stargazers).
 
 ## Tools
 

@@ -1,5 +1,7 @@
 # Theoretical Computer Science
 
+> 来源：[mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+
 [![GitHub stars](https://img.shields.io/github/stars/mostafatouny/awesome-theoretical-computer-science?style=flat)](https://github.com/mostafatouny/awesome-theoretical-computer-science/stargazers)
 
 ![banner](./TCS-banner.png)

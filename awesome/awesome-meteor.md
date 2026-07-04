@@ -1,5 +1,7 @@
 # Meteor
 
+> 来源：[Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor)
+
 [![GitHub stars](https://img.shields.io/github/stars/Urigo/awesome-meteor?style=flat)](https://github.com/Urigo/awesome-meteor/stargazers)
 
 # Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -201,7 +203,7 @@ _Handling files in Meteor_
 _Search, sort and paginate related tools_
 
 - [percolate:find-from-publication](https://github.com/versolearning/find-from-publication) [![GitHub stars](https://img.shields.io/github/stars/versolearning/find-from-publication?style=flat)](https://github.com/versolearning/find-from-publication/stargazers) - Enable finding all documents that have been published by a given publication.
-- [meteor-publish-join](https://github.com/nlhuykhang/meteor-publish-join#readme) - A performant NPM package for publishing non-reactive or aggregated values.
+- [meteor-publish-join](https://github.com/nlhuykhang/meteor-publish-join#readme) [![GitHub stars](https://img.shields.io/github/stars/nlhuykhang/meteor-publish-join?style=flat)](https://github.com/nlhuykhang/meteor-publish-join/stargazers) - A performant NPM package for publishing non-reactive or aggregated values.
 - [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) [![GitHub stars](https://img.shields.io/github/stars/percolatestudio/publish-counts?style=flat)](https://github.com/percolatestudio/publish-counts/stargazers) - Publish the count of a cursor, in real time.
 - [meteorhacks:search-source](https://github.com/meteorhacks/search-source) [![GitHub stars](https://img.shields.io/github/stars/meteorhacks/search-source?style=flat)](https://github.com/meteorhacks/search-source/stargazers) - Reactive Data Source for Search.
 - [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) [![GitHub stars](https://img.shields.io/github/stars/matteodem/meteor-easy-search?style=flat)](https://github.com/matteodem/meteor-easy-search/stargazers) - Easy-to-use search with Blaze Components (+ Elastic Search Support)
@@ -258,7 +260,7 @@ _Debugging Tools_
 ## Editor Plugins
 
 - [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-- [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) - Completion for the meteor command.
+- [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) [![GitHub stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh/wiki/Plugins?style=flat)](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins/stargazers) - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -386,7 +388,7 @@ _Where to discover new Meteor things_
 ## Social
 
 - [Official Twitter Account](https://twitter.com/meteorjs)
-- [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
+- [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack) [![GitHub stars](https://img.shields.io/github/stars/Meteor-Community-Packages/organization?style=flat)](https://github.com/Meteor-Community-Packages/organization/stargazers)
 
 
 ## Work Opportunities

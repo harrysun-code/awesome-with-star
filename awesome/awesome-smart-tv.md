@@ -1,5 +1,7 @@
 # Smart TV
 
+> 来源：[vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv)
+
 [![GitHub stars](https://img.shields.io/github/stars/vitalets/awesome-smart-tv?style=flat)](https://github.com/vitalets/awesome-smart-tv/stargazers)
 
 # Awesome Smart TV [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -139,7 +141,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [Reddit](https://www.reddit.com/r/smarttv)
 
 ## Contribute
-Feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-smart-tv/issues) [![GitHub stars](https://img.shields.io/github/stars/vitalets/awesome-smart-tv/issues?style=flat)](https://github.com/vitalets/awesome-smart-tv/issues/stargazers) or [pull request](https://github.com/vitalets/awesome-smart-tv/pulls) [![GitHub stars](https://img.shields.io/github/stars/vitalets/awesome-smart-tv/pulls?style=flat)](https://github.com/vitalets/awesome-smart-tv/pulls/stargazers).
+Feel free to share your experience and contribute useful extension resources by creating [new issue](https://github.com/vitalets/awesome-smart-tv/issues) or [pull request](https://github.com/vitalets/awesome-smart-tv/pulls).
 Please read the [contribution guidelines](CONTRIBUTING.md) first. Thanks!
 
 ## License

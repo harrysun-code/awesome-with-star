@@ -1,5 +1,7 @@
 # DigitalOcean
 
+> 来源：[jonleibowitz/awesome-digitalocean](https://github.com/jonleibowitz/awesome-digitalocean)
+
 [![GitHub stars](https://img.shields.io/github/stars/jonleibowitz/awesome-digitalocean?style=flat)](https://github.com/jonleibowitz/awesome-digitalocean/stargazers)
 
 # Awesome DigitalOcean [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

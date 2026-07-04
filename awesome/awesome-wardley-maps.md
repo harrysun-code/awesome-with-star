@@ -1,5 +1,7 @@
 # Wardley Maps
 
+> 来源：[wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps)
+
 [![GitHub stars](https://img.shields.io/github/stars/wardley-maps-community/awesome-wardley-maps?style=flat)](https://github.com/wardley-maps-community/awesome-wardley-maps/stargazers)
 
 # Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -44,7 +46,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Reading
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-  - E-book - PDF and Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases) [![GitHub stars](https://img.shields.io/github/stars/andrewharmellaw/wardley-maps-book/releases?style=flat)](https://github.com/andrewharmellaw/wardley-maps-book/releases/stargazers).
+  - E-book - PDF and Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
   - Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
   - [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 - [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.

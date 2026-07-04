@@ -1,5 +1,7 @@
 # Streaming
 
+> 来源：[manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming)
+
 [![GitHub stars](https://img.shields.io/github/stars/manuzhang/awesome-streaming?style=flat)](https://github.com/manuzhang/awesome-streaming/stargazers)
 
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/manuzhang/awesome-streaming/workflows/build/badge.svg?style=flat)](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg/stargazers)](https://github.com/manuzhang/awesome-streaming/actions)

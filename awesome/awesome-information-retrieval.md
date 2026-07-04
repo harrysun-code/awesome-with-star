@@ -1,5 +1,7 @@
 # Information Retrieval
 
+> 来源：[harpribot/awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval)
+
 [![GitHub stars](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval?style=flat)](https://github.com/harpribot/awesome-information-retrieval/stargazers)
 
 # Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -10,7 +12,7 @@ Curated list of information retrieval and web search resources from all around t
 ## Introduction
 [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) involves finding relevant information for user queries, ranging from simple domain of database search to complicated aspects of web search (Eg - Google, Bing, Yahoo). Currently, researchers are developing algorithms to address [Information Need](https://en.wikipedia.org/wiki/Information_needs) of user(s), by maximizing [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) of retrieved results, while minimizing [Information Overload](https://en.wikipedia.org/wiki/Information_overload) and retrieval time.
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) [![GitHub stars](https://img.shields.io/github/stars/harpribot/awesome-information-retrieval/pulls?style=flat)](https://github.com/harpribot/awesome-information-retrieval/pulls/stargazers) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
+Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
 
 ## Contents
  - [Books](#books)

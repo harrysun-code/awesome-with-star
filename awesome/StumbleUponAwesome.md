@@ -1,5 +1,7 @@
 # StumbleUponAwesome
 
+> 来源：[basharovV/StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
+
 [![GitHub stars](https://img.shields.io/github/stars/basharovV/StumbleUponAwesome?style=flat)](https://github.com/basharovV/StumbleUponAwesome/stargazers)
 
 # <img src="extension/images/icon_128.png" width="45" align="left"> StumbleUponAwesome
@@ -95,6 +97,6 @@ After removing from the dataset, a record of dead or broken links (those with 40
 #### Contribute
 
 [☝️Submit an issue](https://github.com/basharovV/StumbleUponAwesome/issues/new) [![GitHub stars](https://img.shields.io/github/stars/basharovV/StumbleUponAwesome/issues/new?style=flat)](https://github.com/basharovV/StumbleUponAwesome/issues/new/stargazers)
-[🤘Submit a PR](https://github.com/basharovV/StumbleUponAwesome/pulls) [![GitHub stars](https://img.shields.io/github/stars/basharovV/StumbleUponAwesome/pulls?style=flat)](https://github.com/basharovV/StumbleUponAwesome/pulls/stargazers)
+[🤘Submit a PR](https://github.com/basharovV/StumbleUponAwesome/pulls)
 
 ✨ Stay curious!

@@ -1,5 +1,7 @@
 # Less
 
+> 来源：[LucasBassetti/awesome-less](https://github.com/LucasBassetti/awesome-less)
+
 [![GitHub stars](https://img.shields.io/github/stars/LucasBassetti/awesome-less?style=flat)](https://github.com/LucasBassetti/awesome-less/stargazers)
 
 # Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

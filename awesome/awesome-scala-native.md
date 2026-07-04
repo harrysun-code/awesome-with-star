@@ -1,5 +1,7 @@
 # Scala Native
 
+> 来源：[tindzk/awesome-scala-native](https://github.com/tindzk/awesome-scala-native)
+
 [![GitHub stars](https://img.shields.io/github/stars/tindzk/awesome-scala-native?style=flat)](https://github.com/tindzk/awesome-scala-native/stargazers)
 
 # Awesome Scala Native [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

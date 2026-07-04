@@ -1,5 +1,7 @@
 # CI/CD Attacks
 
+> 来源：[TupleType/awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks)
+
 [![GitHub stars](https://img.shields.io/github/stars/TupleType/awesome-cicd-attacks?style=flat)](https://github.com/TupleType/awesome-cicd-attacks/stargazers)
 
 # Awesome CI/CD Attacks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

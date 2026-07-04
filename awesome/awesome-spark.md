@@ -1,5 +1,7 @@
 # Apache Spark
 
+> 来源：[awesome-spark/awesome-spark](https://github.com/awesome-spark/awesome-spark)
+
 [![GitHub stars](https://img.shields.io/github/stars/awesome-spark/awesome-spark?style=flat)](https://github.com/awesome-spark/awesome-spark/stargazers)
 
 [<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/f78a16db/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)

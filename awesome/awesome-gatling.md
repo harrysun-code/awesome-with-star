@@ -1,5 +1,7 @@
 # Gatling
 
+> 来源：[aliesbelik/awesome-gatling](https://github.com/aliesbelik/awesome-gatling)
+
 [![GitHub stars](https://img.shields.io/github/stars/aliesbelik/awesome-gatling?style=flat)](https://github.com/aliesbelik/awesome-gatling/stargazers)
 
 # Awesome Gatling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

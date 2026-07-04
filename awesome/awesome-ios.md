@@ -1,5 +1,7 @@
 # iOS
 
+> 来源：[vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
+
 [![GitHub stars](https://img.shields.io/github/stars/vsouza/awesome-ios?style=flat)](https://github.com/vsouza/awesome-ios/stargazers)
 
 <div align="center">
@@ -1331,7 +1333,7 @@ Most of these are paid services, some have free tiers.
 - [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit) [![GitHub stars](https://img.shields.io/github/stars/olucurious/Awesome-ARKit?style=flat)](https://github.com/olucurious/Awesome-ARKit/stargazers) - A curated list of awesome ARKit projects and resources.
 - [Awesome iOS Interview question list](https://github.com/dashvlas/awesome-ios-interview) [![GitHub stars](https://img.shields.io/github/stars/dashvlas/awesome-ios-interview?style=flat)](https://github.com/dashvlas/awesome-ios-interview/stargazers) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
 - [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) [![GitHub stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps?style=flat)](https://github.com/serhii-londar/open-source-mac-os-apps/stargazers) - List of awesome open source applications for macOS.
-- [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
+- [awesome-gists](https://github.com/vsouza/awesome-gists#ios) [![GitHub stars](https://img.shields.io/github/stars/vsouza/awesome-gists?style=flat)](https://github.com/vsouza/awesome-gists/stargazers) - A list of amazing gists (iOS section).
 - [awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) [![GitHub stars](https://img.shields.io/github/stars/bystritskiy/awesome-ios-books?style=flat)](https://github.com/bystritskiy/awesome-ios-books/stargazers) - A list of books for iOS developers.
 - [awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) [![GitHub stars](https://img.shields.io/github/stars/jphong1111/awesome-ios-developer?style=flat)](https://github.com/jphong1111/awesome-ios-developer/stargazers) - Useful knowledges and stuff for ios developer.
 - [Awesome-iOS-Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter) [![GitHub stars](https://img.shields.io/github/stars/carolanitz/Awesome-iOS-Twitter?style=flat)](https://github.com/carolanitz/Awesome-iOS-Twitter/stargazers) - A curated list of awesome iOS Twitter accounts.
@@ -1887,7 +1889,7 @@ Most of these are paid services, some have free tiers.
 
 - [BackgroundVideoiOS](https://github.com/Guzlan/BackgroundVideoiOS) [![GitHub stars](https://img.shields.io/github/stars/Guzlan/BackgroundVideoiOS?style=flat)](https://github.com/Guzlan/BackgroundVideoiOS/stargazers) - A swift and objective-C object that lets you add a background video to iOS views.
 - [BAFluidView](https://github.com/antiguab/BAFluidView) [![GitHub stars](https://img.shields.io/github/stars/antiguab/BAFluidView?style=flat)](https://github.com/antiguab/BAFluidView/stargazers) - UIView that simulates a 2D view of a fluid in motion.
-- [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox#sample-app) - Tasteful Checkbox for iOS.
+- [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox#sample-app) [![GitHub stars](https://img.shields.io/github/stars/Boris-Em/BEMCheckBox?style=flat)](https://github.com/Boris-Em/BEMCheckBox/stargazers) - Tasteful Checkbox for iOS.
 - [Cacao](https://github.com/PureSwift/Cacao) [![GitHub stars](https://img.shields.io/github/stars/PureSwift/Cacao?style=flat)](https://github.com/PureSwift/Cacao/stargazers) - Pure Swift Cross-platform UIKit (Cocoa Touch) implementation (Supports Linux).
 - [ClassicKit](https://github.com/Baddaboo/ClassicKit) [![GitHub stars](https://img.shields.io/github/stars/Baddaboo/ClassicKit?style=flat)](https://github.com/Baddaboo/ClassicKit/stargazers) - A collection of classic-style UI components for iOS.
 - [ComponentKit](https://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.

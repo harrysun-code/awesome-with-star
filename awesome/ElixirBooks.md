@@ -1,5 +1,7 @@
 # Elixir Books
 
+> 来源：[sger/ElixirBooks](https://github.com/sger/ElixirBooks)
+
 [![GitHub stars](https://img.shields.io/github/stars/sger/ElixirBooks?style=flat)](https://github.com/sger/ElixirBooks/stargazers)
 
 # Awesome Elixir Books [![Build Status](https://github.com/sger/ElixirBooks/actions/workflows/main.yml/badge.svg?branch=main) [![GitHub stars](https://img.shields.io/github/stars/sger/ElixirBooks/actions/workflows/main.yml/badge.svg?branch=main?style=flat)](https://github.com/sger/ElixirBooks/actions/workflows/main.yml/badge.svg?branch=main/stargazers)](https://github.com/sger/ElixirBooks/actions/workflows/main.yml) [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # GitHub Wiki
 
+> 来源：[MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki)
+
 [![GitHub stars](https://img.shields.io/github/stars/MyHoneyBadger/awesome-github-wiki?style=flat)](https://github.com/MyHoneyBadger/awesome-github-wiki/stargazers)
 
 # Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/)
@@ -15,19 +17,19 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 
 ## Examples
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:    
-- [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki) [![GitHub stars](https://img.shields.io/github/stars/Netflix/Hystrix/wiki?style=flat)](https://github.com/Netflix/Hystrix/wiki/stargazers)
-- [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki) [![GitHub stars](https://img.shields.io/github/stars/aws/aws-parallelcluster/wiki?style=flat)](https://github.com/aws/aws-parallelcluster/wiki/stargazers)
-- [facebook/hhvm](https://github.com/facebook/hhvm/wiki) [![GitHub stars](https://img.shields.io/github/stars/facebook/hhvm/wiki?style=flat)](https://github.com/facebook/hhvm/wiki/stargazers)
-- [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki) [![GitHub stars](https://img.shields.io/github/stars/thinkaurelius/titan/wiki?style=flat)](https://github.com/thinkaurelius/titan/wiki/stargazers)
+- [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
+- [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
+- [facebook/hhvm](https://github.com/facebook/hhvm/wiki)
+- [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed) [![GitHub stars](https://img.shields.io/github/stars/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed?style=flat)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed/stargazers)
-- [apple/foundationdb](https://github.com/apple/foundationdb/wiki) [![GitHub stars](https://img.shields.io/github/stars/apple/foundationdb/wiki?style=flat)](https://github.com/apple/foundationdb/wiki/stargazers)
-- [google/guava](https://github.com/google/guava/wiki) [![GitHub stars](https://img.shields.io/github/stars/google/guava/wiki?style=flat)](https://github.com/google/guava/wiki/stargazers)
-- [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki) [![GitHub stars](https://img.shields.io/github/stars/hyperledger-cacti/cacti/wiki?style=flat)](https://github.com/hyperledger-cacti/cacti/wiki/stargazers)
-- [facebook/react-native](https://github.com/facebook/react-native/wiki) [![GitHub stars](https://img.shields.io/github/stars/facebook/react-native/wiki?style=flat)](https://github.com/facebook/react-native/wiki/stargazers)
-- [uber/NullAway](https://github.com/uber/NullAway/wiki) [![GitHub stars](https://img.shields.io/github/stars/uber/NullAway/wiki?style=flat)](https://github.com/uber/NullAway/wiki/stargazers)
-- [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki) [![GitHub stars](https://img.shields.io/github/stars/internetarchive/openlibrary/wiki?style=flat)](https://github.com/internetarchive/openlibrary/wiki/stargazers)
-- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki) [![GitHub stars](https://img.shields.io/github/stars/JustArchiNET/ArchiSteamFarm/wiki?style=flat)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki/stargazers)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki) [![GitHub stars](https://img.shields.io/github/stars/GyulyVGC/sniffnet/wiki?style=flat)](https://github.com/GyulyVGC/sniffnet/wiki/stargazers)
+- [apple/foundationdb](https://github.com/apple/foundationdb/wiki)
+- [google/guava](https://github.com/google/guava/wiki)
+- [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki)
+- [facebook/react-native](https://github.com/facebook/react-native/wiki)
+- [uber/NullAway](https://github.com/uber/NullAway/wiki)
+- [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
+- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki)
 
 ## Useful links with tips & tricks
 - [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)

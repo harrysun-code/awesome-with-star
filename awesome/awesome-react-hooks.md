@@ -1,5 +1,7 @@
 # React Hooks
 
+> 来源：[glauberfc/awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks)
+
 [![GitHub stars](https://img.shields.io/github/stars/glauberfc/awesome-react-hooks?style=flat)](https://github.com/glauberfc/awesome-react-hooks/stargazers)
 
 # Awesome React Hooks [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -59,7 +61,7 @@ A curated list about React Hooks.
 
 - [v6 Candidate Preview: Use React Hooks for connect](https://github.com/reduxjs/react-redux/pull/1065) [![GitHub stars](https://img.shields.io/github/stars/reduxjs/react-redux/pull/1065?style=flat)](https://github.com/reduxjs/react-redux/pull/1065/stargazers) - Mark Erikson.
 - [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68) [![GitHub stars](https://img.shields.io/github/stars/reactjs/rfcs/pull/68?style=flat)](https://github.com/reactjs/rfcs/pull/68/stargazers) - Sebastian Markbåge.
-- [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - Héctor Ramos.
+- [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) [![GitHub stars](https://img.shields.io/github/stars/facebook/react-native/issues/21967?style=flat)](https://github.com/facebook/react-native/issues/21967/stargazers) - Héctor Ramos.
 
 ## Examples
 

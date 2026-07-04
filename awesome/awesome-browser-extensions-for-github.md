@@ -1,5 +1,7 @@
 # Browser Extensions
 
+> 来源：[stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
 [![GitHub stars](https://img.shields.io/github/stars/stefanbuck/awesome-browser-extensions-for-github?style=flat)](https://github.com/stefanbuck/awesome-browser-extensions-for-github/stargazers)
 
 # Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

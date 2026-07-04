@@ -1,5 +1,7 @@
 # V
 
+> 来源：[vlang/awesome-v](https://github.com/vlang/awesome-v)
+
 [![GitHub stars](https://img.shields.io/github/stars/vlang/awesome-v?style=flat)](https://github.com/vlang/awesome-v/stargazers)
 
 <!--lint disable no-dead-urls-->
@@ -78,6 +80,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Command-line
 
 - [amdim](https://github.com/tailsmails/amdim) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/amdim?style=flat)](https://github.com/tailsmails/amdim/stargazers) - Make your screen dimmer than 0%.
+- [anyside](https://github.com/tailsmails/anyside) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/anyside?style=flat)](https://github.com/tailsmails/anyside/stargazers) - Transport-Agnostic Covert Tunneling Sandbox & Protocol Gateway.
 - [crepl](https://github.com/l1mey112/crepl) [![GitHub stars](https://img.shields.io/github/stars/l1mey112/crepl?style=flat)](https://github.com/l1mey112/crepl/stargazers) - Compile and execute C code on the fly as you type it.
 - [dnshammer](https://github.com/tailsmails/dnshammer) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/dnshammer?style=flat)](https://github.com/tailsmails/dnshammer/stargazers) - A covert communication channel that encodes data into DNS cache timing differences.
 - [envelop](https://github.com/tailsmails/envelop) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/envelop?style=flat)](https://github.com/tailsmails/envelop/stargazers) - Generates background HTTP HEAD requests to obfuscate real web traffic.
@@ -293,7 +296,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [viup](https://github.com/kjlaw89/viup) [![GitHub stars](https://img.shields.io/github/stars/kjlaw89/viup?style=flat)](https://github.com/kjlaw89/viup/stargazers) - V wrapper for the C-based cross-platform UI library, IUP.
 - [vsdl](https://github.com/kjlaw89/vsdl) [![GitHub stars](https://img.shields.io/github/stars/kjlaw89/vsdl?style=flat)](https://github.com/kjlaw89/vsdl/stargazers) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) [![GitHub stars](https://img.shields.io/github/stars/nsauzede/vsdl2?style=flat)](https://github.com/nsauzede/vsdl2/stargazers) - A libSDL2 wrapper.
-- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) [![GitHub stars](https://img.shields.io/github/stars/vlang/vsl/tree/master/vcl?style=flat)](https://github.com/vlang/vsl/tree/master/vcl/stargazers) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 - [vbmp](https://github.com/dy-tea/vbmp) [![GitHub stars](https://img.shields.io/github/stars/dy-tea/vbmp?style=flat)](https://github.com/dy-tea/vbmp/stargazers) - Read and write bitmap files.
 - [voronoi](https://github.com/larpon/voronoi) [![GitHub stars](https://img.shields.io/github/stars/larpon/voronoi?style=flat)](https://github.com/larpon/voronoi/stargazers) - V wrapper of [JCash/voronoi](https://github.com/JCash/voronoi) [![GitHub stars](https://img.shields.io/github/stars/JCash/voronoi?style=flat)](https://github.com/JCash/voronoi/stargazers).
 - [vqoi](https://github.com/Le0Developer/vqoi) [![GitHub stars](https://img.shields.io/github/stars/Le0Developer/vqoi?style=flat)](https://github.com/Le0Developer/vqoi/stargazers) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
@@ -325,6 +328,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Scientific computing
 
+- [vnm](https://github.com/tailsmails/vnm) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/vnm?style=flat)](https://github.com/tailsmails/vnm/stargazers) - A minimalist, compiled neural network library written in the V programming language.
 - [vplot](https://github.com/erdetn/vplot) [![GitHub stars](https://img.shields.io/github/stars/erdetn/vplot?style=flat)](https://github.com/erdetn/vplot/stargazers) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl](https://github.com/vlang/vsl) [![GitHub stars](https://img.shields.io/github/stars/vlang/vsl?style=flat)](https://github.com/vlang/vsl/stargazers) - A Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, it also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vstats](https://github.com/rodabt/vstats) [![GitHub stars](https://img.shields.io/github/stars/rodabt/vstats?style=flat)](https://github.com/rodabt/vstats/stargazers) - A dependency-free Linear Algebra, Statistics, and Machine Learning library written from scratch in V.

@@ -1,5 +1,7 @@
 # Computational Biology
 
+> 来源：[inoue0426/awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology)
+
 [![GitHub stars](https://img.shields.io/github/stars/inoue0426/awesome-computational-biology?style=flat)](https://github.com/inoue0426/awesome-computational-biology/stargazers)
 
 # Awesome Computational Biology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

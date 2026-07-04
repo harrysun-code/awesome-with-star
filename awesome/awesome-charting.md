@@ -1,5 +1,7 @@
 # Charting
 
+> 来源：[zingchart/awesome-charting](https://github.com/zingchart/awesome-charting)
+
 [![GitHub stars](https://img.shields.io/github/stars/zingchart/awesome-charting?style=flat)](https://github.com/zingchart/awesome-charting/stargazers)
 
 

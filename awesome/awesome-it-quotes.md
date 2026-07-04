@@ -1,5 +1,7 @@
 # IT Quotes
 
+> 来源：[victorlaerte/awesome-it-quotes](https://github.com/victorlaerte/awesome-it-quotes)
+
 [![GitHub stars](https://img.shields.io/github/stars/victorlaerte/awesome-it-quotes?style=flat)](https://github.com/victorlaerte/awesome-it-quotes/stargazers)
 
 # Awesome IT Quotes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # Refinery CMS
 
+> 来源：[refinerycms-contrib/awesome-refinerycms](https://github.com/refinerycms-contrib/awesome-refinerycms)
+
 [![GitHub stars](https://img.shields.io/github/stars/refinerycms-contrib/awesome-refinerycms?style=flat)](https://github.com/refinerycms-contrib/awesome-refinerycms/stargazers)
 
 # Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

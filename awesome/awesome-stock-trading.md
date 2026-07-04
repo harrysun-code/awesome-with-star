@@ -1,5 +1,7 @@
 # Stock Trading
 
+> 来源：[shi-rudo/awesome-stock-trading](https://github.com/shi-rudo/awesome-stock-trading)
+
 [![GitHub stars](https://img.shields.io/github/stars/shi-rudo/awesome-stock-trading?style=flat)](https://github.com/shi-rudo/awesome-stock-trading/stargazers)
 
 # Awesome Stock Trading [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

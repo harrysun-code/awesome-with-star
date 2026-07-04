@@ -1,5 +1,7 @@
 # Master CSS
 
+> 来源：[master-co/awesome-master-css](https://github.com/master-co/awesome-master-css)
+
 [![GitHub stars](https://img.shields.io/github/stars/master-co/awesome-master-css?style=flat)](https://github.com/master-co/awesome-master-css/stargazers)
 
 # Awesome Master CSS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
@@ -38,7 +40,7 @@
 - [@master/literal](https://github.com/master-co/literal) [![GitHub stars](https://img.shields.io/github/stars/master-co/literal?style=flat)](https://github.com/master-co/literal/stargazers) - Conditionally construct class names and strings with template literals.
 
 ## Community
-- [Discussions](https://github.com/master-co/css/discussions) [![GitHub stars](https://img.shields.io/github/stars/master-co/css/discussions?style=flat)](https://github.com/master-co/css/discussions/stargazers) - Official place to discussion.
+- [Discussions](https://github.com/master-co/css/discussions) - Official place to discussion.
 - [Discord channel](https://discord.gg/sZNKpAAAw6) - Channel to chat with Master community.
 - [Official Twitter](https://twitter.com/mastercorg) - Newly developed notifications about Master.
 

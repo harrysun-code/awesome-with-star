@@ -1,5 +1,7 @@
 # OpenGL
 
+> 来源：[eug/awesome-opengl](https://github.com/eug/awesome-opengl)
+
 [![GitHub stars](https://img.shields.io/github/stars/eug/awesome-opengl?style=flat)](https://github.com/eug/awesome-opengl/stargazers)
 
 # awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # LaTeX
 
+> 来源：[egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+
 [![GitHub stars](https://img.shields.io/github/stars/egeerardyn/awesome-LaTeX?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/stargazers)
 
 # Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](LICENSE.md)

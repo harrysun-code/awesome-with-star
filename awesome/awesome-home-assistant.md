@@ -1,5 +1,7 @@
 # Home Assistant
 
+> 来源：[frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)
+
 [![GitHub stars](https://img.shields.io/github/stars/frenck/awesome-home-assistant?style=flat)](https://github.com/frenck/awesome-home-assistant/stargazers)
 
 # Awesome Home Assistant [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -187,13 +189,13 @@ _Discords, forums, and chats run by community projects you will see elsewhere on
 
 - [AppDaemon Discord](https://discord.gg/sgSr79jW5x) - Help with the Python automation framework that runs alongside the core.
 - [ESPHome Discord](https://discord.gg/KhAMKrd) - Help with ESP-based DIY devices and the YAML firmware for them.
-- [Frigate Discussions](https://github.com/blakeblackshear/frigate/discussions) [![GitHub stars](https://img.shields.io/github/stars/blakeblackshear/frigate/discussions?style=flat)](https://github.com/blakeblackshear/frigate/discussions/stargazers) - GitHub Discussions for the local-NVR / object-detection project.
+- [Frigate Discussions](https://github.com/blakeblackshear/frigate/discussions) - GitHub Discussions for the local-NVR / object-detection project.
 - [HACS Discord](https://discord.gg/apgchf8) - Help with the Home Assistant Community Store.
 - [Music Assistant Discord](https://discord.gg/kaVm8hGpne) - Chat for the multi-room music server.
 - [NetDaemon Discord](https://discord.gg/K3xwfcX) - Help with writing automations in C# / .NET.
 - [Tasmota Discord](https://discord.gg/Ks2Kzd4) - Chat for the ESP firmware that powers many Sonoff and eWeLink devices.
 - [Z-Wave JS Discord](https://discord.gg/HFqcyFNfWd) - Chat for the Z-Wave JS stack used by the Z-Wave integration.
-- [Zigbee2MQTT Discussions](https://github.com/Koenkk/zigbee2mqtt/discussions) [![GitHub stars](https://img.shields.io/github/stars/Koenkk/zigbee2mqtt/discussions?style=flat)](https://github.com/Koenkk/zigbee2mqtt/discussions/stargazers) - GitHub Discussions for the popular Zigbee bridge.
+- [Zigbee2MQTT Discussions](https://github.com/Koenkk/zigbee2mqtt/discussions) - GitHub Discussions for the popular Zigbee bridge.
 
 ### 💬 Other community spaces
 
@@ -214,7 +216,7 @@ _Independent groups not tied to a specific language or project._
 
 _Wondering how more experienced users have set up their thermostat schedules, presence detection, or automations? These are full Home Assistant configurations published on GitHub. Read them like recipe books, copy the bits that look useful, and skip the rest._
 
-- [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - Probably the most documented configuration out there (5,208★).
+- [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) [![GitHub stars](https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig?style=flat)](https://github.com/CCOSTAN/Home-AssistantConfig/stargazers) - Probably the most documented configuration out there (5,208★).
 - [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) [![GitHub stars](https://img.shields.io/github/stars/DubhAd/Home-AssistantConfig?style=flat)](https://github.com/DubhAd/Home-AssistantConfig/stargazers) - Also known as Tinkerer, shares his configuration files (688★).
 - [geekofweek](https://github.com/geekofweek/homeassistant) [![GitHub stars](https://img.shields.io/github/stars/geekofweek/homeassistant?style=flat)](https://github.com/geekofweek/homeassistant/stargazers) - Has 300+ automations (1,477★).
 - [Alok Saboo](https://github.com/arsaboo/homeassistant-config) [![GitHub stars](https://img.shields.io/github/stars/arsaboo/homeassistant-config?style=flat)](https://github.com/arsaboo/homeassistant-config/stargazers) - Also known as arsaboo. Regularly updated (1,953★).
@@ -835,7 +837,7 @@ _Home Assistant is not the only home-automation platform out there. If you want 
 _Like this list, but for adjacent topics? The lists below cover broader smart-home categories, specific protocols, and self-hosted software in general. They are good places to look when something does not fit Home Assistant directly but might solve part of your puzzle._
 
 - [awesome-iot](https://github.com/HQarroum/awesome-iot) [![GitHub stars](https://img.shields.io/github/stars/HQarroum/awesome-iot?style=flat)](https://github.com/HQarroum/awesome-iot/stargazers) - Curated list of awesome Internet of Things projects and resources (3,948★).
-- [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt#readme) - Curated list of MQTT related stuff (2,350★).
+- [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt#readme) [![GitHub stars](https://img.shields.io/github/stars/awesome-mqtt/awesome-mqtt?style=flat)](https://github.com/awesome-mqtt/awesome-mqtt/stargazers) - Curated list of MQTT related stuff (2,350★).
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) [![GitHub stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat)](https://github.com/awesome-selfhosted/awesome-selfhosted/stargazers) - Curated list of awesome self hosted software (298,647★).
 
 ## Contributing

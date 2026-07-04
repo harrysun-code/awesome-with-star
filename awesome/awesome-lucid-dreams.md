@@ -1,5 +1,7 @@
 # Lucid Dreams
 
+> 来源：[IAmCoder/awesome-lucid-dreams](https://github.com/IAmCoder/awesome-lucid-dreams)
+
 [![GitHub stars](https://img.shields.io/github/stars/IAmCoder/awesome-lucid-dreams?style=flat)](https://github.com/IAmCoder/awesome-lucid-dreams/stargazers)
 
 # Awesome Lucid Dreams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

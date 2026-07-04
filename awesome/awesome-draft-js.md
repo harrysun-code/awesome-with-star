@@ -1,5 +1,7 @@
 # Draft.js
 
+> 来源：[nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js)
+
 [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
 
 # Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,14 +10,14 @@
 
 **Table of Contents**
 
-- [Community](https://github.com/nikgraf/awesome-draft-js#community)
-- [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations)
-- [Projects on Top of Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs)
-- [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities)
-- [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
-- [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
-- [Usage in Production](https://github.com/nikgraf/awesome-draft-js#usage-in-production)
-- [License](https://github.com/nikgraf/awesome-draft-js#license)
+- [Community](https://github.com/nikgraf/awesome-draft-js#community) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
+- [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
+- [Projects on Top of Draft.js](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
+- [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
+- [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
+- [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
+- [Usage in Production](https://github.com/nikgraf/awesome-draft-js#usage-in-production) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
+- [License](https://github.com/nikgraf/awesome-draft-js#license) [![GitHub stars](https://img.shields.io/github/stars/nikgraf/awesome-draft-js?style=flat)](https://github.com/nikgraf/awesome-draft-js/stargazers)
 
 ## Community
 

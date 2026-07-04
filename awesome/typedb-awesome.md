@@ -1,5 +1,7 @@
 # TypeDB
 
+> 来源：[vaticle/typedb-awesome](https://github.com/vaticle/typedb-awesome)
+
 [![GitHub stars](https://img.shields.io/github/stars/vaticle/typedb-awesome?style=flat)](https://github.com/vaticle/typedb-awesome/stargazers)
 
 [![TypeDB](https://github.com/typedb/typedb/blob/2c5e3114cb4d19085a329b379eef590d7a3e9eda/docs/banner.png) [![GitHub stars](https://img.shields.io/github/stars/typedb/typedb/blob/2c5e3114cb4d19085a329b379eef590d7a3e9eda/docs/banner.png?style=flat)](https://github.com/typedb/typedb/blob/2c5e3114cb4d19085a329b379eef590d7a3e9eda/docs/banner.png/stargazers)](https://typedb.com)

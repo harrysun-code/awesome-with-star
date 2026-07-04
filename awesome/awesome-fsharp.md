@@ -1,5 +1,7 @@
 # F#
 
+> 来源：[fsprojects/awesome-fsharp](https://github.com/fsprojects/awesome-fsharp)
+
 [![GitHub stars](https://img.shields.io/github/stars/fsprojects/awesome-fsharp?style=flat)](https://github.com/fsprojects/awesome-fsharp/stargazers)
 
 # Awesome F# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://fsharp.org/img/logo/fsharp.svg" width="48" height="48" align="right"/>

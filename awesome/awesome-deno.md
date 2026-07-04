@@ -1,5 +1,7 @@
 # Deno
 
+> 来源：[denolib/awesome-deno](https://github.com/denolib/awesome-deno)
+
 [![GitHub stars](https://img.shields.io/github/stars/denolib/awesome-deno?style=flat)](https://github.com/denolib/awesome-deno/stargazers)
 
 # Awesome Deno [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

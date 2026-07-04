@@ -1,5 +1,7 @@
 # Idris
 
+> 来源：[joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris)
+
 [![GitHub stars](https://img.shields.io/github/stars/joaomilho/awesome-idris?style=flat)](https://github.com/joaomilho/awesome-idris/stargazers)
 
 

@@ -1,5 +1,7 @@
 # IBM Cloud
 
+> 来源：[victorshinya/awesome-ibmcloud](https://github.com/victorshinya/awesome-ibmcloud)
+
 [![GitHub stars](https://img.shields.io/github/stars/victorshinya/awesome-ibmcloud?style=flat)](https://github.com/victorshinya/awesome-ibmcloud/stargazers)
 
 # Awesome IBM Cloud

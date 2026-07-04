@@ -1,5 +1,7 @@
 # Biomedical Information Extraction
 
+> 来源：[caufieldjh/awesome-bioie](https://github.com/caufieldjh/awesome-bioie)
+
 [![GitHub stars](https://img.shields.io/github/stars/caufieldjh/awesome-bioie?style=flat)](https://github.com/caufieldjh/awesome-bioie/stargazers)
 
 <div align="center">
@@ -22,7 +24,7 @@ Resources included here are preferentially those available at no monetary cost a
 
 See also [awesome-nlp](https://github.com/keon/awesome-nlp) [![GitHub stars](https://img.shields.io/github/stars/keon/awesome-nlp?style=flat)](https://github.com/keon/awesome-nlp/stargazers), [awesome-biology](https://github.com/raivivek/awesome-biology) [![GitHub stars](https://img.shields.io/github/stars/raivivek/awesome-biology?style=flat)](https://github.com/raivivek/awesome-biology/stargazers) and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) [![GitHub stars](https://img.shields.io/github/stars/danielecook/Awesome-Bioinformatics?style=flat)](https://github.com/danielecook/Awesome-Bioinformatics/stargazers).
 
-_Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) [![GitHub stars](https://img.shields.io/github/stars/caufieldjh/awesome-bioie/pulls?style=flat)](https://github.com/caufieldjh/awesome-bioie/pulls/stargazers)._
+_Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
 
 ## Contents
 * [Research Overviews](#research-overviews)

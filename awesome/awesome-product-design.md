@@ -1,5 +1,7 @@
 # Product Design
 
+> 来源：[ttt30ga/awesome-product-design](https://github.com/ttt30ga/awesome-product-design)
+
 [![GitHub stars](https://img.shields.io/github/stars/ttt30ga/awesome-product-design?style=flat)](https://github.com/ttt30ga/awesome-product-design/stargazers)
 
 <div align="center" style="margin: 12px">

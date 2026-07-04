@@ -1,5 +1,7 @@
 # CodeRabbit
 
+> 来源：[coderabbitai/awesome-coderabbit](https://github.com/coderabbitai/awesome-coderabbit)
+
 [![GitHub stars](https://img.shields.io/github/stars/coderabbitai/awesome-coderabbit?style=flat)](https://github.com/coderabbitai/awesome-coderabbit/stargazers)
 
 # Awesome CodeRabbit [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

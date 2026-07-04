@@ -1,14 +1,16 @@
 # Papers We Love
 
+> 来源：[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
+
 [![GitHub stars](https://img.shields.io/github/stars/papers-we-love/papers-we-love?style=flat)](https://github.com/papers-we-love/papers-we-love/stargazers)
 
-﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
  [![Discord](https://img.shields.io/static/v1?label=Discord&message=join%20us!&color=mediumslateblue)](https://discord.gg/Tu2VynkRWV)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
-Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/main/.github/CONTRIBUTING.md#respect-content-licenses) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
+Due to [licenses](https://github.com/papers-we-love/papers-we-love/blob/main/.github/CONTRIBUTING.md#respect-content-licenses) [![GitHub stars](https://img.shields.io/github/stars/papers-we-love/papers-we-love/blob/main/.github/CONTRIBUTING.md?style=flat)](https://github.com/papers-we-love/papers-we-love/blob/main/.github/CONTRIBUTING.md/stargazers) we cannot always host the papers themselves (when we do, you will see a :scroll: emoji next to its title in the directory README) but we can provide links to their locations.
 
 If you enjoy the papers, perhaps stop by a local chapter meetup and join in on the vibrant discussions around them. You can also discuss *PWL* events, the content in this repository, and/or anything related to *PWL* on our [Discord](https://discord.gg/Tu2VynkRWV) server.
 
@@ -31,7 +33,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [2 Minute Papers](https://www.youtube.com/user/keeroyz)
 * [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
 * [arXiv Paper Repository](http://arxiv.org/)
-* [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
+* [Bell System Technical Journal, 1922-1983](https://archive.org/details/bstj-archives)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [cat-v.org](http://doc.cat-v.org/)
 * [eugeneyan/applied-ml GitHub repository](https://github.com/eugeneyan/applied-ml) [![GitHub stars](https://img.shields.io/github/stars/eugeneyan/applied-ml?style=flat)](https://github.com/eugeneyan/applied-ml/stargazers)

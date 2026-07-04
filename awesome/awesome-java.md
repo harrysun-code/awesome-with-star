@@ -1,5 +1,7 @@
 # Java
 
+> 来源：[akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+
 [![GitHub stars](https://img.shields.io/github/stars/akullpp/awesome-java?style=flat)](https://github.com/akullpp/awesome-java/stargazers)
 
 # Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

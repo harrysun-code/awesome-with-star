@@ -1,5 +1,7 @@
 # Learn to Program
 
+> 来源：[karlhorky/learn-to-program](https://github.com/karlhorky/learn-to-program)
+
 [![GitHub stars](https://img.shields.io/github/stars/karlhorky/learn-to-program?style=flat)](https://github.com/karlhorky/learn-to-program/stargazers)
 
 # Learn to Program [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

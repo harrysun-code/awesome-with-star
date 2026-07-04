@@ -1,5 +1,7 @@
 # OpenID Connect
 
+> 来源：[cerberauth/awesome-openid-connect](https://github.com/cerberauth/awesome-openid-connect)
+
 [![GitHub stars](https://img.shields.io/github/stars/cerberauth/awesome-openid-connect?style=flat)](https://github.com/cerberauth/awesome-openid-connect/stargazers)
 
 # Awesome OpenID Connect [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

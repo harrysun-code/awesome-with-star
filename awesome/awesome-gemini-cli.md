@@ -1,5 +1,7 @@
 # Gemini CLI
 
+> 来源：[Piebald-AI/awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli)
+
 [![GitHub stars](https://img.shields.io/github/stars/Piebald-AI/awesome-gemini-cli?style=flat)](https://github.com/Piebald-AI/awesome-gemini-cli/stargazers)
 
 <div>
@@ -118,6 +120,7 @@ Modified versions of Gemini CLI with enhanced features or alternative model supp
 - [ToutKit](https://github.com/toutkit/toutkit) [![GitHub stars](https://img.shields.io/github/stars/toutkit/toutkit?style=flat)](https://github.com/toutkit/toutkit/stargazers) - Desktop notebook with a built-in terminal that runs Gemini CLI alongside Claude Code and Codex; an in-app webview renders whatever the agent writes inline, and each note is a self-contained folder with its own SQLite, files, and scripts. Local-first, Electron, AGPL-3.0.
 - [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) [![GitHub stars](https://img.shields.io/github/stars/Ivy-Interactive/Ivy-Tendril?style=flat)](https://github.com/Ivy-Interactive/Ivy-Tendril/stargazers) - Open-source desktop app that orchestrates Gemini CLI alongside Claude Code, Codex, and Copilot through a plan-based lifecycle with verification gates, self-improving memory, and git worktree isolation. Local-first, agent-agnostic, FSL licensed.
 - [postmortemthis](https://github.com/Softeria/postmortemthis) [![GitHub stars](https://img.shields.io/github/stars/Softeria/postmortemthis?style=flat)](https://github.com/Softeria/postmortemthis/stargazers) - Runs Gemini CLI alongside your other coding agents (Claude Code, Codex, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model review panel.
+- [CodeAgentSwarm](https://www.codeagentswarm.com) - Desktop app (macOS, Windows) that runs multiple Gemini CLI terminals in parallel alongside Claude Code and Codex CLI, under human supervision. Desktop notifications when an agent finishes or needs input, cross-session conversation history, per-terminal file diffs, and an MCP kanban board.
 
 ## Commands & Extensions
 
@@ -146,6 +149,7 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) [![GitHub stars](https://img.shields.io/github/stars/drpcorg/drpc-agent-skills?style=flat)](https://github.com/drpcorg/drpc-agent-skills/stargazers) - Query blockchain RPCs from Gemini CLI. Fetch balances, read contracts, and check gas prices via dRPC.
 - [OpenAccountants](https://github.com/openaccountants/openaccountants) [![GitHub stars](https://img.shields.io/github/stars/openaccountants/openaccountants?style=flat)](https://github.com/openaccountants/openaccountants/stargazers) - 371 tax classification skills across 134 countries. Classify bank statement transactions into VAT/GST, income tax, and social contribution categories with conservative defaults.
 - [gemini-discord](https://github.com/Yamato-main/gemini-discord) [![GitHub stars](https://img.shields.io/github/stars/Yamato-main/gemini-discord?style=flat)](https://github.com/Yamato-main/gemini-discord/stargazers) - Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.
+- [xberg-io plugins](https://github.com/xberg-io/plugins) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/plugins?style=flat)](https://github.com/xberg-io/plugins/stargazers) - A suite of Gemini CLI extensions from Kreuzberg, Inc.: document extraction (xberg — 97+ formats with OCR), web crawling (crawlberg), HTML→Markdown, a universal LLM client for 143 providers (liter-llm), and code intelligence for 300+ languages (tree-sitter-language-pack). Install via `gemini extensions install`.
 
 ## Fun
 
@@ -236,6 +240,10 @@ Model Context Protocol servers that enable Gemini CLI integration with other AI 
 - [TokRepo MCP Server](https://github.com/henu-wang/tokrepo-mcp-server) [![GitHub stars](https://img.shields.io/github/stars/henu-wang/tokrepo-mcp-server?style=flat)](https://github.com/henu-wang/tokrepo-mcp-server/stargazers) - Search and install AI skills, prompts, MCP configs, and workflows from TokRepo from Gemini CLI and other MCP clients.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) [![GitHub stars](https://img.shields.io/github/stars/MohamedAbdallah-14/prompt-to-asset?style=flat)](https://github.com/MohamedAbdallah-14/prompt-to-asset/stargazers) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required for first run via Pollinations and Stable Horde free tiers. Works with any MCP client including Gemini CLI.
 - [TWZRD Agent Intel](https://intel.twzrd.xyz/mcp) - Trust scoring and identity verification for AI agent wallets on Solana. Verify agent identity before x402 micropayments or agent-initiated operations. Free: `score_agent`, `preflight_check`. Paid (x402): `get_trust_receipt`. Works with any MCP client including Gemini CLI.
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) [![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat)](https://github.com/IvanMurzak/Unity-MCP/stargazers) - Open-source MCP server connecting AI agents (including Gemini CLI) to the Unity Editor and runtime, with 100+ built-in tools.
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) [![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/Godot-MCP?style=flat)](https://github.com/IvanMurzak/Godot-MCP/stargazers) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) [![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/Unreal-MCP?style=flat)](https://github.com/IvanMurzak/Unreal-MCP/stargazers) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
+- [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) [![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/GameDev-MCP-Server?style=flat)](https://github.com/IvanMurzak/GameDev-MCP-Server/stargazers) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
 
 ## Neovim Plugins
 

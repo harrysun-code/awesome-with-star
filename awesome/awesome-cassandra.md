@@ -1,5 +1,7 @@
 # Cassandra
 
+> 来源：[Anant/awesome-cassandra](https://github.com/Anant/awesome-cassandra)
+
 [![GitHub stars](https://img.shields.io/github/stars/Anant/awesome-cassandra?style=flat)](https://github.com/Anant/awesome-cassandra/stargazers)
 
 # Awesome Cassandra [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # LIDAR
 
+> 来源：[szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
+
 [![GitHub stars](https://img.shields.io/github/stars/szenergy/awesome-lidar?style=flat)](https://github.com/szenergy/awesome-lidar/stargazers)
 
 # Awesome LIDAR [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

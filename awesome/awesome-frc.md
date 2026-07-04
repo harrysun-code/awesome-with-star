@@ -1,5 +1,7 @@
 # FIRST Robotics Competition
 
+> 来源：[andrewda/awesome-frc](https://github.com/andrewda/awesome-frc)
+
 [![GitHub stars](https://img.shields.io/github/stars/andrewda/awesome-frc?style=flat)](https://github.com/andrewda/awesome-frc/stargazers)
 
 # Awesome FRC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

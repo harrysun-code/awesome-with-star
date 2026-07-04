@@ -1,5 +1,7 @@
 # ComputerCraft
 
+> 来源：[tomodachi94/awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft)
+
 [![GitHub stars](https://img.shields.io/github/stars/tomodachi94/awesome-computercraft?style=flat)](https://github.com/tomodachi94/awesome-computercraft/stargazers)
 
 <!--lint disable double-link-->

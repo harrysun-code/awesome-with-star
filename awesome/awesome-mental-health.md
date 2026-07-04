@@ -1,5 +1,7 @@
 # Mental Health
 
+> 来源：[dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health)
+
 [![GitHub stars](https://img.shields.io/github/stars/dreamingechoes/awesome-mental-health?style=flat)](https://github.com/dreamingechoes/awesome-mental-health/stargazers)
 
 

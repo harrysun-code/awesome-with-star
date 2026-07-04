@@ -1,5 +1,7 @@
 # Cryptography
 
+> 来源：[sobolevn/awesome-cryptography](https://github.com/sobolevn/awesome-cryptography)
+
 [![GitHub stars](https://img.shields.io/github/stars/sobolevn/awesome-cryptography?style=flat)](https://github.com/sobolevn/awesome-cryptography/stargazers)
 
 # Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -223,7 +225,7 @@ A curated list of cryptography resources and links.
 
 ### Delphi
 
-- [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) [![GitHub stars](https://img.shields.io/github/stars/winkelsdorf/DelphiEncryptionCompendium/releases?style=flat)](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases/stargazers) - Cryptographic library for Delphi.
+- [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
 - [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
 - [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) [![GitHub stars](https://img.shields.io/github/stars/synopse/mORMot/blob/master/SynCrypto.pas?style=flat)](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas/stargazers) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
 - [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.

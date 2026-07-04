@@ -1,5 +1,7 @@
 # Cosmos SDK
 
+> 来源：[cosmos/awesome-cosmos](https://github.com/cosmos/awesome-cosmos)
+
 [![GitHub stars](https://img.shields.io/github/stars/cosmos/awesome-cosmos?style=flat)](https://github.com/cosmos/awesome-cosmos/stargazers)
 
 <!--lint disable double-link-->
@@ -241,7 +243,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 ### CLI
 
 * [tmkms](https://github.com/iqlusioninc/tmkms) [![GitHub stars](https://img.shields.io/github/stars/iqlusioninc/tmkms?style=flat)](https://github.com/iqlusioninc/tmkms/stargazers) - Key Management System for Tendermint validators.
-* [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
+* [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) [![GitHub stars](https://img.shields.io/github/stars/cosmos/cosmos-sdk/tree/main/cosmovisor?style=flat)](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor/stargazers) - Automates Cosmos SDK application binary upgrades.
 * [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) [![GitHub stars](https://img.shields.io/github/stars/hukkinj1/cosmosvanity?style=flat)](https://github.com/hukkinj1/cosmosvanity/stargazers) - CLI tool for generating Cosmos vanity addresses.
 * [findaccount](https://github.com/blockpane/findaccount) [![GitHub stars](https://img.shields.io/github/stars/blockpane/findaccount?style=flat)](https://github.com/blockpane/findaccount/stargazers) - Helps identify if an account exists on multiple Cosmos chains with the same address.
 * [lens](https://github.com/strangelove-ventures/lens) [![GitHub stars](https://img.shields.io/github/stars/strangelove-ventures/lens?style=flat)](https://github.com/strangelove-ventures/lens/stargazers) - CLI tool to interact with any Cosmos chain supporting the core Cosmos-SDK modules.

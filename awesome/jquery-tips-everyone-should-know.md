@@ -1,5 +1,7 @@
 # Tips
 
+> 来源：[AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
+
 [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/jquery-tips-everyone-should-know?style=flat)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/stargazers)
 
 # jQuery Tips Everyone Should Know [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

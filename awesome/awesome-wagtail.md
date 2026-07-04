@@ -1,5 +1,7 @@
 # Wagtail
 
+> 来源：[springload/awesome-wagtail](https://github.com/springload/awesome-wagtail)
+
 [![GitHub stars](https://img.shields.io/github/stars/springload/awesome-wagtail?style=flat)](https://github.com/springload/awesome-wagtail/stargazers)
 
 # Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://cdn.jsdelivr.net/gh/wagtail/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/)

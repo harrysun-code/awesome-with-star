@@ -1,5 +1,7 @@
 # ArcGIS Developer
 
+> 来源：[Esri/awesome-arcgis-developer](https://github.com/Esri/awesome-arcgis-developer)
+
 [![GitHub stars](https://img.shields.io/github/stars/Esri/awesome-arcgis-developer?style=flat)](https://github.com/Esri/awesome-arcgis-developer/stargazers)
 
 <!--lint disable double-link-->
@@ -301,10 +303,10 @@ You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issue
 <!--lint disable no-emphasis-as-heading-->
 **Contributing**
 
-Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) [![GitHub stars](https://img.shields.io/github/stars/ArcGIS/awesome-arcgis-developer/pulls?style=flat)](https://github.com/ArcGIS/awesome-arcgis-developer/pulls/stargazers) to propose an update, but before doing it, please:
+Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) to propose an update, but before doing it, please:
 
 - Check the [contributing guidelines for this repo](./CONTRIBUTING.md).
-- Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues) [![GitHub stars](https://img.shields.io/github/stars/ArcGIS/awesome-arcgis-developer/issues?style=flat)](https://github.com/ArcGIS/awesome-arcgis-developer/issues/stargazers). 
+- Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues). 
 
 For more information, please see Esri's [guidelines for contributing](https://github.com/esri/contributing) [![GitHub stars](https://img.shields.io/github/stars/esri/contributing?style=flat)](https://github.com/esri/contributing/stargazers).
 

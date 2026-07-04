@@ -1,5 +1,7 @@
 # Groovy
 
+> 来源：[kdabir/awesome-groovy](https://github.com/kdabir/awesome-groovy)
+
 [![GitHub stars](https://img.shields.io/github/stars/kdabir/awesome-groovy?style=flat)](https://github.com/kdabir/awesome-groovy/stargazers)
 
 Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

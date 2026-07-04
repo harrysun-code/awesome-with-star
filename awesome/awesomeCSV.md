@@ -1,5 +1,7 @@
 # CSV
 
+> 来源：[secretGeek/awesomeCSV](https://github.com/secretGeek/awesomeCSV)
+
 [![GitHub stars](https://img.shields.io/github/stars/secretGeek/awesomeCSV?style=flat)](https://github.com/secretGeek/awesomeCSV/stargazers)
 
 # Awesome CSV [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -42,7 +44,7 @@ Here are some awesome tools for dealing with CSV:
 - [QSV](https://github.com/dathere/qsv) [![GitHub stars](https://img.shields.io/github/stars/dathere/qsv?style=flat)](https://github.com/dathere/qsv/stargazers) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 - [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
-- [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
+- [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) [![GitHub stars](https://img.shields.io/github/stars/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md?style=flat)](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md/stargazers) - Comprehensive examples of using awk.
 - [Miller](http://johnkerl.org/miller/doc/) - Like sed / awk / cut / join / sort etc for name-indexed data such as CSV.
 - [ParaText](https://github.com/wiseio/paratext) [![GitHub stars](https://img.shields.io/github/stars/wiseio/paratext?style=flat)](https://github.com/wiseio/paratext/stargazers) - CSV parsing at 2.5 GB per second.
 - [CSVGet](http://github.com/fizx/csvget/tree/master) - Get structured data from sites as CSV.
@@ -57,7 +59,7 @@ Here are some awesome tools for dealing with CSV:
 - [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) [![GitHub stars](https://img.shields.io/github/stars/kentcb/KBCsv/blob/master/README.md?style=flat)](https://github.com/kentcb/KBCsv/blob/master/README.md/stargazers) - An efficient, easy to use .NET parsing and writing library for CSV.
 - [csvprintf](https://github.com/archiecobbs/csvprintf) [![GitHub stars](https://img.shields.io/github/stars/archiecobbs/csvprintf?style=flat)](https://github.com/archiecobbs/csvprintf/stargazers) - UNIX command line utility for parsing and formatting output based on CSV files.
 - [Ron's Data Edit](https://www.ronsplace.eu/Products/RonsDataEdit) (new modern version of [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor)) - Handles big files, does miraculous things. A timeless editor for a timeless format.
-- [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) [![GitHub stars](https://img.shields.io/github/stars/mechatroner/rainbow_csv?style=flat)](https://github.com/mechatroner/rainbow_csv/stargazers), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
+- [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) [![GitHub stars](https://img.shields.io/github/stars/mechatroner/rainbow_csv?style=flat)](https://github.com/mechatroner/rainbow_csv/stargazers) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) [![GitHub stars](https://img.shields.io/github/stars/mechatroner/rainbow_csv?style=flat)](https://github.com/mechatroner/rainbow_csv/stargazers), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 - [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 - [Modern CSV](https://www.moderncsv.com/) - A tool for editing CSV files and viewing large files.
@@ -84,7 +86,7 @@ Here are some awesome tools for dealing with CSV:
 - [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) - Faceted browse and a JSON API for any CSV File or SQLite DB.
 - [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 - [RBQL](https://rbql.org) - Rainbow Query Language, a SQL-like language with JavaScript or Python backend.
-- [PSKit Query](https://github.com/dfinke/PSKit#sql-query) &mdash; Powershell module lets you run simple queries over objects, including imported with csv
+- [PSKit Query](https://github.com/dfinke/PSKit#sql-query) [![GitHub stars](https://img.shields.io/github/stars/dfinke/PSKit?style=flat)](https://github.com/dfinke/PSKit/stargazers) &mdash; Powershell module lets you run simple queries over objects, including imported with csv
 
 ### Convert to or from CSV
 

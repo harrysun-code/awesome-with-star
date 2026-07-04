@@ -1,5 +1,7 @@
 # Mobile Web Development
 
+> 来源：[myshov/awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development)
+
 [![GitHub stars](https://img.shields.io/github/stars/myshov/awesome-mobile-web-development?style=flat)](https://github.com/myshov/awesome-mobile-web-development/stargazers)
 
 # Awesome Mobile Web Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

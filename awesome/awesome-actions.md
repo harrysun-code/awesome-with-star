@@ -1,5 +1,7 @@
 # GitHub Actions
 
+> 来源：[sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+
 [![GitHub stars](https://img.shields.io/github/stars/sdras/awesome-actions?style=flat)](https://github.com/sdras/awesome-actions/stargazers)
 
 <p align="center">
@@ -44,9 +46,9 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 ## Official Resources
 
-- [Official Site](https://github.com/features/actions) [![GitHub stars](https://img.shields.io/github/stars/features/actions?style=flat)](https://github.com/features/actions/stargazers)
+- [Official Site](https://github.com/features/actions)
 - [Official Documentation](https://help.github.com/en/actions)
-- [Official Actions organization](https://github.com/actions) [![GitHub stars](https://img.shields.io/github/stars/actions?style=flat)](https://github.com/actions/stargazers)
+- [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) [![GitHub stars](https://img.shields.io/github/stars/actions/virtual-environments?style=flat)](https://github.com/actions/virtual-environments/stargazers) - GitHub Actions virtual environments.
   - [actions/runner](https://github.com/actions/runner) [![GitHub stars](https://img.shields.io/github/stars/actions/runner?style=flat)](https://github.com/actions/runner/stargazers) - The Runner for GitHub Actions.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
@@ -323,9 +325,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint) [![GitHub stars](https://img.shields.io/github/stars/xen0l/iam-lint?style=flat)](https://github.com/xen0l/iam-lint/stargazers)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) [![GitHub stars](https://img.shields.io/github/stars/webfactory/secret-spreader?style=flat)](https://github.com/webfactory/secret-spreader/stargazers) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) [![GitHub stars](https://img.shields.io/github/stars/google/secrets-sync-action?style=flat)](https://github.com/google/secrets-sync-action/stargazers) - Action syncs secrets across multiple repositories.
-- [Snyk Test Action](https://github.com/snyk/actions) [![GitHub stars](https://img.shields.io/github/stars/snyk/actions?style=flat)](https://github.com/snyk/actions/stargazers)
+- [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets) [![GitHub stars](https://img.shields.io/github/stars/unfor19/githubsecrets?style=flat)](https://github.com/unfor19/githubsecrets/stargazers)
-- [SecretHub](https://github.com/secrethub/actions) [![GitHub stars](https://img.shields.io/github/stars/secrethub/actions?style=flat)](https://github.com/secrethub/actions/stargazers) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 
 #### Code Coverage
 
@@ -421,7 +423,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Deployment
 
-- [Deploy to Netlify](https://github.com/netlify/actions) [![GitHub stars](https://img.shields.io/github/stars/netlify/actions?style=flat)](https://github.com/netlify/actions/stargazers)
+- [Deploy to Netlify](https://github.com/netlify/actions)
 - [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
 - [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub) [![GitHub stars](https://img.shields.io/github/stars/swinton/SpotHub?style=flat)](https://github.com/swinton/SpotHub/stargazers)
 - [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action) [![GitHub stars](https://img.shields.io/github/stars/lannonbr/vsce-action?style=flat)](https://github.com/lannonbr/vsce-action/stargazers)
@@ -475,7 +477,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Kubernetes
 
-- [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions) [![GitHub stars](https://img.shields.io/github/stars/pulumi/actions?style=flat)](https://github.com/pulumi/actions/stargazers)
+- [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl) [![GitHub stars](https://img.shields.io/github/stars/steebchen/kubectl?style=flat)](https://github.com/steebchen/kubectl/stargazers)
 - [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig) [![GitHub stars](https://img.shields.io/github/stars/machine-learning-apps/gke-kubeconfig?style=flat)](https://github.com/machine-learning-apps/gke-kubeconfig/stargazers)
 - [Kustomize Kubernetes Config YAMLs](https://github.com/karancode/kustomize-github-action) [![GitHub stars](https://img.shields.io/github/stars/karancode/kustomize-github-action?style=flat)](https://github.com/karancode/kustomize-github-action/stargazers)

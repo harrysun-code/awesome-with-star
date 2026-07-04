@@ -1,5 +1,7 @@
 # Game Datasets
 
+> 来源：[leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets)
+
 [![GitHub stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets?style=flat)](https://github.com/leomaurodesenv/game-datasets/stargazers)
 
 # :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

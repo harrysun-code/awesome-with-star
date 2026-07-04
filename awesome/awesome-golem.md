@@ -1,5 +1,7 @@
 # Golem
 
+> 来源：[golemfactory/awesome-golem](https://github.com/golemfactory/awesome-golem)
+
 [![GitHub stars](https://img.shields.io/github/stars/golemfactory/awesome-golem?style=flat)](https://github.com/golemfactory/awesome-golem/stargazers)
 
 # Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg?style=flat)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg/stargazers)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
@@ -86,7 +88,7 @@ Emeth specializes in DeFi (Decentralized Finance) portfolio management and block
 
 - [Golem Docs](https://docs.golem.network/) - A manual for Golem (both for Requestors and Providers).
 - [Python API Reference](https://yapapi.readthedocs.io/) - Yapapi API Reference.
-- [Releases List](https://github.com/golemfactory/yagna/releases) [![GitHub stars](https://img.shields.io/github/stars/golemfactory/yagna/releases?style=flat)](https://github.com/golemfactory/yagna/releases/stargazers) - GitHub releases of Yagna.
+- [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
 - [JS Requestor Quickstart](https://docs.golem.network/docs/quickstarts/js-quickstart) - Get started quickly and create your first tasks/request on Golem.
 - [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 

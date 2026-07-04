@@ -1,5 +1,7 @@
 # InfluxDB
 
+> 来源：[mark-rushakoff/awesome-influxdb](https://github.com/mark-rushakoff/awesome-influxdb)
+
 [![GitHub stars](https://img.shields.io/github/stars/mark-rushakoff/awesome-influxdb?style=flat)](https://github.com/mark-rushakoff/awesome-influxdb/stargazers)
 
 # awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -79,7 +81,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) [![GitHub stars](https://img.shields.io/github/stars/novaquark/sysinfo_influxdb?style=flat)](https://github.com/novaquark/sysinfo_influxdb/stargazers) - Collect and send system (linux) info to InfluxDB
 * [snmpcollector](https://github.com/toni-moreno/snmpcollector) [![GitHub stars](https://img.shields.io/github/stars/toni-moreno/snmpcollector?style=flat)](https://github.com/toni-moreno/snmpcollector/stargazers) - A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB
 * [Telegraf](https://github.com/influxdata/telegraf) [![GitHub stars](https://img.shields.io/github/stars/influxdata/telegraf?style=flat)](https://github.com/influxdata/telegraf/stargazers) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
-* [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) [![GitHub stars](https://img.shields.io/github/stars/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb?style=flat)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb/stargazers) - Streams data from Tesla Model S to InfluxDB ([rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
+* [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) [![GitHub stars](https://img.shields.io/github/stars/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb?style=flat)](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb/stargazers) - Streams data from Tesla Model S to InfluxDB ([rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16) [![GitHub stars](https://img.shields.io/github/stars/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake?style=flat)](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake/stargazers))
 * [traffic_stats](https://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html) - Acquires and stores statistics about CDNs controlled by [Apache Traffic Control](https://trafficcontrol.apache.org/)
 * [vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) [![GitHub stars](https://img.shields.io/github/stars/Oxalide/vsphere-influxdb-go?style=flat)](https://github.com/Oxalide/vsphere-influxdb-go/stargazers) - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB
 

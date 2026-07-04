@@ -1,5 +1,7 @@
 # Adafruit IO
 
+> 来源：[adafruit/awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio)
+
 [![GitHub stars](https://img.shields.io/github/stars/adafruit/awesome-adafruitio?style=flat)](https://github.com/adafruit/awesome-adafruitio/stargazers)
 
 <h1 align="center">

@@ -1,5 +1,7 @@
 # Frontend Development
 
+> 来源：[dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
 [![GitHub stars](https://img.shields.io/github/stars/dypsilon/frontend-dev-bookmarks?style=flat)](https://github.com/dypsilon/frontend-dev-bookmarks/stargazers)
 
 # Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

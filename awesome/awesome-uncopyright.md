@@ -1,5 +1,7 @@
 # Uncopyright
 
+> 来源：[johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright)
+
 [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-uncopyright?style=flat)](https://github.com/johnjago/awesome-uncopyright/stargazers)
 
 # Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

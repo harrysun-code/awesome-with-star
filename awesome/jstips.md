@@ -1,5 +1,7 @@
 # Tips
 
+> 来源：[loverajoel/jstips](https://github.com/loverajoel/jstips)
+
 [![GitHub stars](https://img.shields.io/github/stars/loverajoel/jstips?style=flat)](https://github.com/loverajoel/jstips/stargazers)
 
 [![header](https://pbs.twimg.com/profile_banners/4539400881/1613214971/1500x500)](https://www.jstips.co/book/?utm_source=github&utm_medium=header&utm_campaign=book&utm_content=pro)

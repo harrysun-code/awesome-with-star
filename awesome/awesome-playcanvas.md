@@ -1,5 +1,7 @@
 # PlayCanvas
 
+> 来源：[playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas)
+
 [![GitHub stars](https://img.shields.io/github/stars/playcanvas/awesome-playcanvas?style=flat)](https://github.com/playcanvas/awesome-playcanvas/stargazers)
 
 # Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

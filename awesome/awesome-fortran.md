@@ -1,5 +1,7 @@
 # Fortran
 
+> 来源：[rabbiabram/awesome-fortran](https://github.com/rabbiabram/awesome-fortran)
+
 [![GitHub stars](https://img.shields.io/github/stars/rabbiabram/awesome-fortran?style=flat)](https://github.com/rabbiabram/awesome-fortran/stargazers)
 
 # Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
@@ -18,6 +20,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
   - [Command-Line parsing](#command-line-parsing)
   - [Compiling and building](#compiling-and-building)
   - [Preprocessor](#preprocessor)
+  - [Formatting](#formatting)
   - [Automatic documentation](#automatic-documentation)
   - [Computational Fluid Dynamics](#computational-fluid-dynamics)
   - [Docker](#docker)
@@ -38,7 +41,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [DISLIN](https://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 * [f90gl](https://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
 * [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
-* [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki) [![GitHub stars](https://img.shields.io/github/stars/vmagnin/gtk-fortran/wiki?style=flat)](https://github.com/vmagnin/gtk-fortran/wiki/stargazers) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
+* [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 * [PGPLOT](https://www.astro.caltech.edu/~tjp/pgplot/) - cross-platform scientific graphing library.
 * [VTKFortran](https://github.com/szaghi/VTKFortran) [![GitHub stars](https://img.shields.io/github/stars/szaghi/VTKFortran?style=flat)](https://github.com/szaghi/VTKFortran/stargazers) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 
@@ -106,6 +109,11 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 * [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
 * [PreForM](https://github.com/szaghi/PreForM) [![GitHub stars](https://img.shields.io/github/stars/szaghi/PreForM?style=flat)](https://github.com/szaghi/PreForM/stargazers) - Preprocessor for Fortran poor Men.
+
+## Formatting
+*Tools for formatting and style-checking Fortran source code.*
+
+* [ffmt](https://github.com/sbryngelson/ffmt) [![GitHub stars](https://img.shields.io/github/stars/sbryngelson/ffmt?style=flat)](https://github.com/sbryngelson/ffmt/stargazers) - Fast, configurable Fortran formatter with support for Fypp, Doxygen, and OpenACC/OpenMP directives. Written in Rust, installable via pip.
 
 ## Automatic documentation
 *Libraries for building documentation.*

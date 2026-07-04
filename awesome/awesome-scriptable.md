@@ -1,5 +1,7 @@
 # Scriptable
 
+> 来源：[dersvenhesse/awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable)
+
 [![GitHub stars](https://img.shields.io/github/stars/dersvenhesse/awesome-scriptable?style=flat)](https://github.com/dersvenhesse/awesome-scriptable/stargazers)
 
 # Awesome Scriptable [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

@@ -1,5 +1,7 @@
 # Xamarin
 
+> 来源：[XamSome/awesome-xamarin](https://github.com/XamSome/awesome-xamarin)
+
 [![GitHub stars](https://img.shields.io/github/stars/XamSome/awesome-xamarin?style=flat)](https://github.com/XamSome/awesome-xamarin/stargazers)
 
 ~~# Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)~~

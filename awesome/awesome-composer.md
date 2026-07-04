@@ -1,5 +1,7 @@
 # Composer
 
+> 来源：[jakoch/awesome-composer](https://github.com/jakoch/awesome-composer)
+
 [![GitHub stars](https://img.shields.io/github/stars/jakoch/awesome-composer?style=flat)](https://github.com/jakoch/awesome-composer/stargazers)
 
 <!--lint disable double-link awesome-toc-->
@@ -17,7 +19,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) [![GitH
 
 - [Official Website](https://getcomposer.org/)
 - [GitHub](https://github.com/composer/composer) [![GitHub stars](https://img.shields.io/github/stars/composer/composer?style=flat)](https://github.com/composer/composer/stargazers)
-- [Issues](https://github.com/composer/composer/issues) [![GitHub stars](https://img.shields.io/github/stars/composer/composer/issues?style=flat)](https://github.com/composer/composer/issues/stargazers)
+- [Issues](https://github.com/composer/composer/issues)
 - [Source](https://github.com/composer/composer/tree/HEAD/src/Composer) [![GitHub stars](https://img.shields.io/github/stars/composer/composer/tree/HEAD/src/Composer?style=flat)](https://github.com/composer/composer/tree/HEAD/src/Composer/stargazers)
 - [Documentation](https://getcomposer.org/doc/)
 - [Getting Started Guide and Installation Instructions](https://getcomposer.org/doc/00-intro.md)

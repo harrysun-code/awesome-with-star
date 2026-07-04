@@ -1,5 +1,7 @@
 # Event-Driven Architecture
 
+> 来源：[lutzh/awesome-event-driven-architecture](https://github.com/lutzh/awesome-event-driven-architecture)
+
 [![GitHub stars](https://img.shields.io/github/stars/lutzh/awesome-event-driven-architecture?style=flat)](https://github.com/lutzh/awesome-event-driven-architecture/stargazers)
 
 <!-- omit in toc -->

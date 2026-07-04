@@ -1,5 +1,7 @@
 # GDPR
 
+> 来源：[bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr)
+
 [![GitHub stars](https://img.shields.io/github/stars/bakke92/awesome-gdpr?style=flat)](https://github.com/bakke92/awesome-gdpr/stargazers)
 
 # Awesome GDPR [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -100,9 +102,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) [![GitHub stars](https://img.shields.io/github/stars/nikitavoloboev/privacy-respecting?style=flat)](https://github.com/nikitavoloboev/privacy-respecting/stargazers)
-* [Awesome: Security](https://github.com/sindresorhus/awesome#security)
-* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme)
-* [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
+* [Awesome: Security](https://github.com/sindresorhus/awesome#security) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat)](https://github.com/sindresorhus/awesome/stargazers)
+* [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) [![GitHub stars](https://img.shields.io/github/stars/humanetech-community/awesome-humane-tech?style=flat)](https://github.com/humanetech-community/awesome-humane-tech/stargazers)
+* [Awesome: Privacy](https://github.com/pluja/awesome-privacy#readme) [![GitHub stars](https://img.shields.io/github/stars/pluja/awesome-privacy?style=flat)](https://github.com/pluja/awesome-privacy/stargazers) - List of free, open source and privacy respecting services and alternatives to privative services.
 * [Developers Guide to HIPAA Compliance](https://github.com/truevault/hipaa-compliance-developers-guide) [![GitHub stars](https://img.shields.io/github/stars/truevault/hipaa-compliance-developers-guide?style=flat)](https://github.com/truevault/hipaa-compliance-developers-guide/stargazers)
 * [Analytics without cookies](https://www.gocookieless.com/)
 * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services)

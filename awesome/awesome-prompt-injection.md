@@ -1,5 +1,7 @@
 # Prompt Injection
 
+> 来源：[FonduAI/awesome-prompt-injection](https://github.com/FonduAI/awesome-prompt-injection)
+
 [![GitHub stars](https://img.shields.io/github/stars/FonduAI/awesome-prompt-injection?style=flat)](https://github.com/FonduAI/awesome-prompt-injection/stargazers)
 
 # Awesome Prompt Injection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

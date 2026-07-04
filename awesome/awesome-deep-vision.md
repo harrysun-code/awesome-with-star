@@ -1,5 +1,7 @@
 # Deep Vision
 
+> 来源：[kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+
 [![GitHub stars](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision?style=flat)](https://github.com/kjw0612/awesome-deep-vision/stargazers)
 
 # Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -11,7 +13,7 @@ Maintainers - [Jiwon Kim](https://github.com/kjw0612) [![GitHub stars](https://i
 The project is not actively maintained. 
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) [![GitHub stars](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision/pulls?style=flat)](https://github.com/kjw0612/awesome-deep-vision/pulls/stargazers) to add papers.
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) to add papers.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 

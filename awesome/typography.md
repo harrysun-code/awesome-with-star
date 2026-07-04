@@ -1,5 +1,7 @@
 # Web Typography
 
+> 来源：[deanhume/typography](https://github.com/deanhume/typography)
+
 [![GitHub stars](https://img.shields.io/github/stars/deanhume/typography?style=flat)](https://github.com/deanhume/typography/stargazers)
 
 # Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

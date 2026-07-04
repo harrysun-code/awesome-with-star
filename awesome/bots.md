@@ -1,5 +1,7 @@
 # Bots
 
+> 来源：[hackerkid/bots](https://github.com/hackerkid/bots)
+
 [![GitHub stars](https://img.shields.io/github/stars/hackerkid/bots?style=flat)](https://github.com/hackerkid/bots/stargazers)
 
 <p align="center">

@@ -1,5 +1,7 @@
 # Earth
 
+> 来源：[philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth)
+
 [![GitHub stars](https://img.shields.io/github/stars/philsturgeon/awesome-earth?style=flat)](https://github.com/philsturgeon/awesome-earth/stargazers)
 
 # Awesome Earth [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->

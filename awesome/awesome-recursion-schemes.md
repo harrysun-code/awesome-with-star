@@ -1,5 +1,7 @@
 # Recursion Schemes
 
+> 来源：[passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes)
+
 [![GitHub stars](https://img.shields.io/github/stars/passy/awesome-recursion-schemes?style=flat)](https://github.com/passy/awesome-recursion-schemes/stargazers)
 
 # Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

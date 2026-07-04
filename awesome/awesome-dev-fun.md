@@ -1,5 +1,7 @@
 # Dev Fun
 
+> 来源：[mislavcimpersak/awesome-dev-fun](https://github.com/mislavcimpersak/awesome-dev-fun)
+
 [![GitHub stars](https://img.shields.io/github/stars/mislavcimpersak/awesome-dev-fun?style=flat)](https://github.com/mislavcimpersak/awesome-dev-fun/stargazers)
 
 # Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -162,7 +164,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [sudont](https://github.com/cbondurant/sudont) [![GitHub stars](https://img.shields.io/github/stars/cbondurant/sudont?style=flat)](https://github.com/cbondurant/sudont/stargazers) - Grants superuser permission, then does nothing.
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) [![GitHub stars](https://img.shields.io/github/stars/kyle8998/Sudo-Productivity?style=flat)](https://github.com/kyle8998/Sudo-Productivity/stargazers) - Boost your "productivity" to the max! A productivity suite made for slackers by slackers.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) [![GitHub stars](https://img.shields.io/github/stars/pipeseroni/pipes.sh?style=flat)](https://github.com/pipeseroni/pipes.sh/stargazers) - Animated pipes terminal screensaver.
-- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) - A Chuck Norris fortune plugin for ZSH.
+- [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) [![GitHub stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh/wiki/Plugins?style=flat)](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins/stargazers) - A Chuck Norris fortune plugin for ZSH.
 - [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) [![GitHub stars](https://img.shields.io/github/stars/jayphelps/git-blame-someone-else?style=flat)](https://github.com/jayphelps/git-blame-someone-else/stargazers) - Blame someone else for your bad code.
 - [cmatrix](https://github.com/abishekvashok/cmatrix) [![GitHub stars](https://img.shields.io/github/stars/abishekvashok/cmatrix?style=flat)](https://github.com/abishekvashok/cmatrix/stargazers) - Make it digital rain in your terminal like The Matrix.
 - [Gosleap](https://github.com/koriroys/gosleap) [![GitHub stars](https://img.shields.io/github/stars/koriroys/gosleap?style=flat)](https://github.com/koriroys/gosleap/stargazers) - Make Ryan Gosling jump across your screen.

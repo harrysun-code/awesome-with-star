@@ -1,5 +1,7 @@
 # Data Visualization
 
+> 来源：[javierluraschi/awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
+
 [![GitHub stars](https://img.shields.io/github/stars/javierluraschi/awesome-dataviz?style=flat)](https://github.com/javierluraschi/awesome-dataviz/stargazers)
 
 # Awesome Dataviz

@@ -1,5 +1,7 @@
 # KDE
 
+> 来源：[francoism90/awesome-kde](https://github.com/francoism90/awesome-kde)
+
 [![GitHub stars](https://img.shields.io/github/stars/francoism90/awesome-kde?style=flat)](https://github.com/francoism90/awesome-kde/stargazers)
 
 # Awesome KDE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -16,7 +18,7 @@
 
 - [Applications](#applications)
 - [Customization](#customization)
-- [Documentation](#documentation)
+- [Documentation](#documentation-and-resources)
 - [Articles](#articles)
 - [Communities](#communities)
 
@@ -135,12 +137,14 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) [![GitHub stars](https://img.shields.io/github/stars/zzag/plasma5-wallpapers-dynamic?style=flat)](https://github.com/zzag/plasma5-wallpapers-dynamic/stargazers) - A wallpaper plugin that continuously updates the desktop background based on the current time in your location.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) [![GitHub stars](https://img.shields.io/github/stars/Fuchs/hoppla-sa?style=flat)](https://github.com/Fuchs/hoppla-sa/stargazers) - KDE Plasma desktop widget to control Philips Hue lights.
 - [Kvantum](https://github.com/tsujan/Kvantum) [![GitHub stars](https://img.shields.io/github/stars/tsujan/Kvantum?style=flat)](https://github.com/tsujan/Kvantum/stargazers) - An SVG-based theme engine for Qt4/Qt5, KDE and LXQt, with an emphasis on elegance, usability and practicality.
-- [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.
-- [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) [![GitHub stars](https://img.shields.io/github/stars/dfaust/plasma-applet-places-widget?style=flat)](https://github.com/dfaust/plasma-applet-places-widget/stargazers) - Plasma 5 widget that gives access to user places.
-- [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) [![GitHub stars](https://img.shields.io/github/stars/psifidotos/applet-window-appmenu?style=flat)](https://github.com/psifidotos/applet-window-appmenu/stargazers) - Plasma 5 applet in order to show the window appmenu.
-- [Window Title Applet](https://github.com/psifidotos/applet-window-title/) [![GitHub stars](https://img.shields.io/github/stars/psifidotos/applet-window-title/?style=flat)](https://github.com/psifidotos/applet-window-title//stargazers) - Plasma 5 applet that shows the current window title and icon in your panels.
+- [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) [![GitHub stars](https://img.shields.io/github/stars/dfaust/plasma-applet-places-widget?style=flat)](https://github.com/dfaust/plasma-applet-places-widget/stargazers) - **Plasma 5** widget that gives access to user places.
+- [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) [![GitHub stars](https://img.shields.io/github/stars/psifidotos/applet-window-appmenu?style=flat)](https://github.com/psifidotos/applet-window-appmenu/stargazers) - **Plasma 5** applet in order to show the window appmenu.
+- [Window Title Applet](https://github.com/psifidotos/applet-window-title/) [![GitHub stars](https://img.shields.io/github/stars/psifidotos/applet-window-title/?style=flat)](https://github.com/psifidotos/applet-window-title//stargazers) - **Plasma 5** applet that shows the current window title and icon in your panels.
 - [Karousel](https://github.com/peterfajdiga/karousel) [![GitHub stars](https://img.shields.io/github/stars/peterfajdiga/karousel?style=flat)](https://github.com/peterfajdiga/karousel/stargazers) - KWin tiling script with scrolling. Works especially well with ultrawide screens.
-
+- [KDoit](https://github.com/lubdhak7414/KDoit) [![GitHub stars](https://img.shields.io/github/stars/lubdhak7414/KDoit?style=flat)](https://github.com/lubdhak7414/KDoit/stargazers) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
+- [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
+- [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) [![GitHub stars](https://img.shields.io/github/stars/ruizhi-lab/latte-dock-ng?style=flat)](https://github.com/ruizhi-lab/latte-dock-ng/stargazers) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+  
 #### KCM Modules and Systems
 
 - [kcm-wacomtablet](https://invent.kde.org/plasma/wacomtablet/) - KDE GUI for the Wacom Linux Drivers 📌.
@@ -149,17 +153,17 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Themes
 
-- [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) [![GitHub stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/adapta-kde?style=flat)](https://github.com/PapirusDevelopmentTeam/adapta-kde/stargazers) - A port of the popular GTK theme Adapta for Plasma 5 desktop with a few additions and extras.
-- [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) [![GitHub stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/arc-kde?style=flat)](https://github.com/PapirusDevelopmentTeam/arc-kde/stargazers) - A port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.
-- [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (Plasma 5).
+- [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde) [![GitHub stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/adapta-kde?style=flat)](https://github.com/PapirusDevelopmentTeam/adapta-kde/stargazers) - A port of the popular GTK theme Adapta for **Plasma 5** desktop with a few additions and extras.
+- [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) [![GitHub stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/arc-kde?style=flat)](https://github.com/PapirusDevelopmentTeam/arc-kde/stargazers) - A port of the popular GTK theme Arc for **Plasma 5** desktop with a few additions and extras.
+- [Breath](https://gitlab.manjaro.org/artwork/themes/breath) - Breath Theme for Manjaro Linux (**Plasma 5**).
 - [Canta](https://github.com/vinceliuice/Canta-kde) [![GitHub stars](https://img.shields.io/github/stars/vinceliuice/Canta-kde?style=flat)](https://github.com/vinceliuice/Canta-kde/stargazers) - A flat design theme for KDE Plasma desktop.
 - [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) [![GitHub stars](https://img.shields.io/github/stars/vinceliuice/ChromeOS-kde?style=flat)](https://github.com/vinceliuice/ChromeOS-kde/stargazers) - A materia Design theme for KDE Plasma desktop.
-- [Darkine KDE](https://github.com/Rokin05/darkine-kde) [![GitHub stars](https://img.shields.io/github/stars/Rokin05/darkine-kde?style=flat)](https://github.com/Rokin05/darkine-kde/stargazers) - Theme for KDE Plasma 5 desktop, SDDM and more.
+- [Darkine KDE](https://github.com/Rokin05/darkine-kde) [![GitHub stars](https://img.shields.io/github/stars/Rokin05/darkine-kde?style=flat)](https://github.com/Rokin05/darkine-kde/stargazers) - Theme for KDE **Plasma 5** desktop, SDDM and more.
 - [Fluent](https://github.com/vinceliuice/Fluent-kde) [![GitHub stars](https://img.shields.io/github/stars/vinceliuice/Fluent-kde?style=flat)](https://github.com/vinceliuice/Fluent-kde/stargazers) - A Microsoft inspired fluent Design theme for the KDE Plasma desktop.
-- [Helium](https://store.kde.org/p/998869/) - A translucent theme for Plasma 5.
+- [Helium](https://store.kde.org/p/998869/) - A translucent theme for **Plasma 5**.
 - [Hello](https://github.com/n4n0GH/hello) [![GitHub stars](https://img.shields.io/github/stars/n4n0GH/hello?style=flat)](https://github.com/n4n0GH/hello/stargazers) - A compilation of various color-schemes, themes, icons and more for the KDE Plasma desktop. It is unopinionated, putting you in charge.
 - [Layan](https://github.com/vinceliuice/Layan-kde) [![GitHub stars](https://img.shields.io/github/stars/vinceliuice/Layan-kde?style=flat)](https://github.com/vinceliuice/Layan-kde/stargazers) - A flat design theme for KDE Plasma desktop.
-- [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) [![GitHub stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/materia-kde?style=flat)](https://github.com/PapirusDevelopmentTeam/materia-kde/stargazers) - A port of the popular GTK theme Materia for Plasma 5 desktop with a few additions and extras.
+- [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) [![GitHub stars](https://img.shields.io/github/stars/PapirusDevelopmentTeam/materia-kde?style=flat)](https://github.com/PapirusDevelopmentTeam/materia-kde/stargazers) - A port of the popular GTK theme Materia for **Plasma 5** desktop with a few additions and extras.
 - [McMojave](https://github.com/vinceliuice/McMojave-kde) [![GitHub stars](https://img.shields.io/github/stars/vinceliuice/McMojave-kde?style=flat)](https://github.com/vinceliuice/McMojave-kde/stargazers) - A MacOSX Mojave like theme for KDE Plasma desktop.
 - [Orchis](https://github.com/vinceliuice/Orchis-kde) [![GitHub stars](https://img.shields.io/github/stars/vinceliuice/Orchis-kde?style=flat)](https://github.com/vinceliuice/Orchis-kde/stargazers) - A materia Design theme for KDE Plasma desktop.
 - [Qogir](https://github.com/vinceliuice/Qogir-kde) [![GitHub stars](https://img.shields.io/github/stars/vinceliuice/Qogir-kde?style=flat)](https://github.com/vinceliuice/Qogir-kde/stargazers) - A flat design theme for KDE Plasma desktop.
@@ -202,7 +206,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Display Manager
 
-- [Chili](https://github.com/MarianArlt/kde-plasma-chili) [![GitHub stars](https://img.shields.io/github/stars/MarianArlt/kde-plasma-chili?style=flat)](https://github.com/MarianArlt/kde-plasma-chili/stargazers) - The hottest login theme around for KDE Plasma 5.
+- [Chili](https://github.com/MarianArlt/kde-plasma-chili) [![GitHub stars](https://img.shields.io/github/stars/MarianArlt/kde-plasma-chili?style=flat)](https://github.com/MarianArlt/kde-plasma-chili/stargazers) - The hottest login theme around for KDE **Plasma 5**.
 - [Delicious](https://github.com/stuomas/delicious-sddm-theme) [![GitHub stars](https://img.shields.io/github/stars/stuomas/delicious-sddm-theme?style=flat)](https://github.com/stuomas/delicious-sddm-theme/stargazers) - A delicious SDDM theme for DE collectors/addicts.
 - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for the SDDM display manager.
 

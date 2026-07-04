@@ -1,5 +1,7 @@
 # LÖVE
 
+> 来源：[love2d-community/awesome-love2d](https://github.com/love2d-community/awesome-love2d)
+
 [![GitHub stars](https://img.shields.io/github/stars/love2d-community/awesome-love2d?style=flat)](https://github.com/love2d-community/awesome-love2d/stargazers)
 
 # Awesome Löve [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -336,7 +338,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luis](https://github.com/SiENcE/luis) [![GitHub stars](https://img.shields.io/github/stars/SiENcE/luis?style=flat)](https://github.com/SiENcE/luis/stargazers) - Love UI System - A retained mode UI framework for LÖVE with input processing (mouse, keyboard, touch, gamepad), layer-, grid-, state-, theming-system, UI editor, 16+ widgets (for desktop & mobile).
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [MeowUI](https://github.com/MoonGameLab/MeowUI) [![GitHub stars](https://img.shields.io/github/stars/MoonGameLab/MeowUI?style=flat)](https://github.com/MoonGameLab/MeowUI/stargazers) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
-* [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+* [NLay](https://github.com/MikuAuahDark/NPad93#nlay) [![GitHub stars](https://img.shields.io/github/stars/MikuAuahDark/NPad93?style=flat)](https://github.com/MikuAuahDark/NPad93/stargazers) - Flexible layouting library.
 * [Patchy](https://github.com/excessive/patchy) [![GitHub stars](https://img.shields.io/github/stars/excessive/patchy?style=flat)](https://github.com/excessive/patchy/stargazers) - 9patch library.
 * [Plan](https://github.com/zombrodo/plan) [![GitHub stars](https://img.shields.io/github/stars/zombrodo/plan?style=flat)](https://github.com/zombrodo/plan/stargazers) - A super simple Rule-based layout library.
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
@@ -395,7 +397,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [How to LÖVE](https://sheepolution.com/learn/book/contents) - A book by Sheepolution teaching LÖVE from the ground up.
 * [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
-* [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) [![GitHub stars](https://img.shields.io/github/stars/noooway/love2d_arkanoid_tutorial/wiki?style=flat)](https://github.com/noooway/love2d_arkanoid_tutorial/wiki/stargazers) - A complete tutorial on how to make a breakout clone by nooowaay.
+* [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
 * [Using Tiled Maps in LÖVE (archived)](https://web.archive.org/web/20230314215611/http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
 
 ## IDEs

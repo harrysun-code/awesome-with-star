@@ -1,5 +1,7 @@
 # Application Security
 
+> 来源：[paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
+
 [![GitHub stars](https://img.shields.io/github/stars/paragonie/awesome-appsec?style=flat)](https://github.com/paragonie/awesome-appsec/stargazers)
 
 # Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -379,7 +381,7 @@ How to go on the offence before online attackers do.
 
 ### [OWASP NodeGoat](https://github.com/owasp/nodegoat) [![GitHub stars](https://img.shields.io/github/stars/owasp/nodegoat?style=flat)](https://github.com/owasp/nodegoat/stargazers)
 
-Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API) [![GitHub stars](https://img.shields.io/github/stars/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API?style=flat)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API/stargazers), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API) [![GitHub stars](https://img.shields.io/github/stars/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API?style=flat)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API/stargazers), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) [![GitHub stars](https://img.shields.io/github/stars/owasp/nodegoat?style=flat)](https://github.com/owasp/nodegoat/stargazers). With several options to get up and running fast.
 
 ### [Securing The Stack](https://securingthestack.com)
 
@@ -715,7 +717,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ## Websites
 
-### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) [![GitHub stars](https://img.shields.io/github/stars/ebranca/owasp-pysec/wiki?style=flat)](https://github.com/ebranca/owasp-pysec/wiki/stargazers) (2014)
+### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) (2014)
 
 **Released**: June 21, 2014
 

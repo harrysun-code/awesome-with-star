@@ -1,5 +1,7 @@
 # Qlik
 
+> 来源：[ambster-public/awesome-qlik](https://github.com/ambster-public/awesome-qlik)
+
 [![GitHub stars](https://img.shields.io/github/stars/ambster-public/awesome-qlik?style=flat)](https://github.com/ambster-public/awesome-qlik/stargazers)
 
 # Awesome Qlik [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://webapps.qlik.com/WarsawMarathon/qlik.jpg" width="250" align="right" alt="Qlik logo">](https://qlik.com)

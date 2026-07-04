@@ -1,5 +1,7 @@
 # JavaScript
 
+> 来源：[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+
 [![GitHub stars](https://img.shields.io/github/stars/sorrycc/awesome-javascript?style=flat)](https://github.com/sorrycc/awesome-javascript/stargazers)
 
 # Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)

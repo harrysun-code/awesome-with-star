@@ -1,5 +1,7 @@
 # TikZ
 
+> 来源：[xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
+
 [![GitHub stars](https://img.shields.io/github/stars/xiaohanyu/awesome-tikz?style=flat)](https://github.com/xiaohanyu/awesome-tikz/stargazers)
 
 Awesome Ti*k*Z

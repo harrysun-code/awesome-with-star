@@ -1,5 +1,7 @@
 # Asyncio
 
+> 来源：[timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
+
 [![GitHub stars](https://img.shields.io/github/stars/timofurrer/awesome-asyncio?style=flat)](https://github.com/timofurrer/awesome-asyncio/stargazers)
 
 > [!WARNING]

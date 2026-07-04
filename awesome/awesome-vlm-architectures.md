@@ -1,5 +1,7 @@
 # VLM Architectures
 
+> 来源：[gokayfem/awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures)
+
 [![GitHub stars](https://img.shields.io/github/stars/gokayfem/awesome-vlm-architectures?style=flat)](https://github.com/gokayfem/awesome-vlm-architectures/stargazers)
 
 # 👁️‍🗨️Awesome VLM Architectures [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [DualView](https://dualview.ai) 

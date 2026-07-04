@@ -1,5 +1,7 @@
 # Learn Gamedev
 
+> 来源：[notpresident35/awesome-learn-gamedev](https://github.com/notpresident35/awesome-learn-gamedev)
+
 [![GitHub stars](https://img.shields.io/github/stars/notpresident35/awesome-learn-gamedev?style=flat)](https://github.com/notpresident35/awesome-learn-gamedev/stargazers)
 
 [<img src="images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
@@ -59,9 +61,9 @@ This list is aimed at learning the craft of game development. It has been curate
 
 Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
 
-Suggestions and future-proofing efforts are always welcome! See `Contributing.md` for contribution guidelines, and check out [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) [![GitHub stars](https://img.shields.io/github/stars/notpresident35/learn-awesome-gamedev/issues?style=flat)](https://github.com/notpresident35/learn-awesome-gamedev/issues/stargazers) for tasks that need completing, such as archival work.
+Suggestions and future-proofing efforts are always welcome! See `Contributing.md` for contribution guidelines, and check out [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) for tasks that need completing, such as archival work.
 
-Generally, this lists avoids tools and assets. However, it contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their role more effectively (for example, the animation section contains rigs). For tools, assets, communities, and more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
+Generally, this lists avoids tools and assets. However, it contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their role more effectively (for example, the animation section contains rigs). For tools, assets, communities, and more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat)](https://github.com/sindresorhus/awesome/stargazers)
 
 This list avoids including tutorials (within reason). It aims to help you develop your problem-solving skills and improve your general knowledge, rather than show you how to solve a particular problem. It also avoids design analysis videos, as they tend to be aimed at passive entertainment more than active learning. Both of these are easy to find and difficult to categorize. For curation purposes, this list errs on the side of exclusion.
 

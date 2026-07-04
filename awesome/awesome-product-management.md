@@ -1,5 +1,7 @@
 # Product Management
 
+> 来源：[dend/awesome-product-management](https://github.com/dend/awesome-product-management)
+
 [![GitHub stars](https://img.shields.io/github/stars/dend/awesome-product-management?style=flat)](https://github.com/dend/awesome-product-management/stargazers)
 
 <div align="center">

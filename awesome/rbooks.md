@@ -1,5 +1,7 @@
 # R Books
 
+> 来源：[RomanTsegelskyi/rbooks](https://github.com/RomanTsegelskyi/rbooks)
+
 [![GitHub stars](https://img.shields.io/github/stars/RomanTsegelskyi/rbooks?style=flat)](https://github.com/RomanTsegelskyi/rbooks/stargazers)
 
 R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

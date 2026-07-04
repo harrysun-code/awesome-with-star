@@ -1,5 +1,7 @@
 # Artificial Intelligence
 
+> 来源：[owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+
 [![GitHub stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence?style=flat)](https://github.com/owainlewis/awesome-artificial-intelligence/stargazers)
 
 # Awesome Artificial Intelligence

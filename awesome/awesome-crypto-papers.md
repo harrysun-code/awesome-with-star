@@ -1,5 +1,7 @@
 # Papers
 
+> 来源：[pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers)
+
 [![GitHub stars](https://img.shields.io/github/stars/pFarb/awesome-crypto-papers?style=flat)](https://github.com/pFarb/awesome-crypto-papers/stargazers)
 
 # Awesome Crypto Papers  [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/d2005375894e77d69827b0e3c17073bbf6f062d7/media/badge.svg)](https://github.com/sindresorhus/awesome)

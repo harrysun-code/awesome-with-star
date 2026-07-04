@@ -1,5 +1,7 @@
 # Construct 2
 
+> 来源：[ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct)
+
 [![GitHub stars](https://img.shields.io/github/stars/ConstructCommunity/awesome-construct?style=flat)](https://github.com/ConstructCommunity/awesome-construct/stargazers)
 
 # Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)

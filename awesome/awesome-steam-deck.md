@@ -1,5 +1,7 @@
 # Steam Deck
 
+> 来源：[airscripts/awesome-steam-deck](https://github.com/airscripts/awesome-steam-deck)
+
 [![GitHub stars](https://img.shields.io/github/stars/airscripts/awesome-steam-deck?style=flat)](https://github.com/airscripts/awesome-steam-deck/stargazers)
 
 # Awesome Steam Deck [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

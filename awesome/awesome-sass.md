@@ -1,5 +1,7 @@
 # Sass
 
+> 来源：[Famolus/awesome-sass](https://github.com/Famolus/awesome-sass)
+
 [![GitHub stars](https://img.shields.io/github/stars/Famolus/awesome-sass?style=flat)](https://github.com/Famolus/awesome-sass/stargazers)
 
 ![Awesome Sass](https://raw.githubusercontent.com/Famolus/awesome-sass/master/awesome-sass-logo-github.png)
@@ -161,7 +163,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [sass-rails](https://github.com/rails/sass-rails) [![GitHub stars](https://img.shields.io/github/stars/rails/sass-rails?style=flat)](https://github.com/rails/sass-rails/stargazers) - Ruby on Rails stylesheet engine for Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 - [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
-- [scss-lint](https://github.com/brigade/scss-lint) [![GitHub stars](https://img.shields.io/github/stars/brigade/scss-lint?style=flat)](https://github.com/brigade/scss-lint/stargazers) - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
+- [scss-lint](https://github.com/brigade/scss-lint) [![GitHub stars](https://img.shields.io/github/stars/brigade/scss-lint?style=flat)](https://github.com/brigade/scss-lint/stargazers) - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint) [![GitHub stars](https://img.shields.io/github/stars/brigade/scss-lint?style=flat)](https://github.com/brigade/scss-lint/stargazers)
 - [SharpScss](https://github.com/xoofx/SharpScss) [![GitHub stars](https://img.shields.io/github/stars/xoofx/SharpScss?style=flat)](https://github.com/xoofx/SharpScss/stargazers) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
 - [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 

@@ -1,5 +1,7 @@
 # Digital Humanities
 
+> 来源：[dh-tech/awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities)
+
 [![GitHub stars](https://img.shields.io/github/stars/dh-tech/awesome-digital-humanities?style=flat)](https://github.com/dh-tech/awesome-digital-humanities/stargazers)
 
 # Awesome Digital Humanities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

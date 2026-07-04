@@ -1,5 +1,7 @@
 # Next.js
 
+> 来源：[unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+
 [![GitHub stars](https://img.shields.io/github/stars/unicodeveloper/awesome-nextjs?style=flat)](https://github.com/unicodeveloper/awesome-nextjs/stargazers)
 
 # Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
@@ -32,7 +34,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 ## Community
 
 - [GitHub](https://github.com/vercel/next.js) [![GitHub stars](https://img.shields.io/github/stars/vercel/next.js?style=flat)](https://github.com/vercel/next.js/stargazers)
-- [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions) [![GitHub stars](https://img.shields.io/github/stars/vercel/next.js/discussions?style=flat)](https://github.com/vercel/next.js/discussions/stargazers)
+- [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions)
 - [Vercel Community](https://vercel.community/)
 
 ## Essentials

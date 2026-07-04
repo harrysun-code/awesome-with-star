@@ -1,5 +1,7 @@
 # Linguistics
 
+> 来源：[theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
+
 [![GitHub stars](https://img.shields.io/github/stars/theimpossibleastronaut/awesome-linguistics?style=flat)](https://github.com/theimpossibleastronaut/awesome-linguistics/stargazers)
 
 ### Awesome Linguistics

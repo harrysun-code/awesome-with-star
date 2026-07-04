@@ -1,5 +1,7 @@
 # Visual Regression Testing
 
+> 来源：[mojoaxel/awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing)
+
 [![GitHub stars](https://img.shields.io/github/stars/mojoaxel/awesome-regression-testing?style=flat)](https://github.com/mojoaxel/awesome-regression-testing/stargazers)
 
 # Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

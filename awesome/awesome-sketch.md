@@ -1,5 +1,7 @@
 # Sketch
 
+> 来源：[diessica/awesome-sketch](https://github.com/diessica/awesome-sketch)
+
 [![GitHub stars](https://img.shields.io/github/stars/diessica/awesome-sketch?style=flat)](https://github.com/diessica/awesome-sketch/stargazers)
 
 # awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

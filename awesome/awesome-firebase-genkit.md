@@ -1,5 +1,7 @@
 # Firebase Genkit
 
+> 来源：[xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-firebase-genkit)
+
 [![GitHub stars](https://img.shields.io/github/stars/xavidop/awesome-firebase-genkit?style=flat)](https://github.com/xavidop/awesome-firebase-genkit/stargazers)
 
 <div align="center">

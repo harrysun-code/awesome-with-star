@@ -1,5 +1,7 @@
 # Computational Neuroscience
 
+> 来源：[eselkin/awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience)
+
 [![GitHub stars](https://img.shields.io/github/stars/eselkin/awesome-computational-neuroscience?style=flat)](https://github.com/eselkin/awesome-computational-neuroscience/stargazers)
 
 # Awesome Computational Neuroscience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

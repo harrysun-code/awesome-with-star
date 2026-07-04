@@ -1,5 +1,7 @@
 # Text Editing
 
+> 来源：[dok/awesome-text-editing](https://github.com/dok/awesome-text-editing)
+
 [![GitHub stars](https://img.shields.io/github/stars/dok/awesome-text-editing?style=flat)](https://github.com/dok/awesome-text-editing/stargazers)
 
 # Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

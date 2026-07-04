@@ -1,5 +1,7 @@
 # Elm
 
+> 来源：[sporto/awesome-elm](https://github.com/sporto/awesome-elm)
+
 [![GitHub stars](https://img.shields.io/github/stars/sporto/awesome-elm?style=flat)](https://github.com/sporto/awesome-elm/stargazers)
 
 
@@ -131,7 +133,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) [![GitHub stars](https://img.shields.io/github/stars/eeue56/elm-for-web-developers?style=flat)](https://github.com/eeue56/elm-for-web-developers/stargazers) - A collection of notes for web developers looking into moving to Elm.
 * [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612) - A blog post describing a possible approach to reducing TEA boilerplate. Useful for component libraries and anyone interested in seeing the amazing things you can do with function types.
-* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) - An article describing how to organize code that follows the Elm architecture into independent features, how to communicate between features, and how to group some of these features together to assemble larger features.
+* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) [![GitHub stars](https://img.shields.io/github/stars/foxdonut/adventures-reactive-web-dev/tree/master/client-elm?style=flat)](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm/stargazers) - An article describing how to organize code that follows the Elm architecture into independent features, how to communicate between features, and how to group some of these features together to assemble larger features.
 * [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) - Series of Elm education tutorials.
 * [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - a realistic look at where Elm is and isn’t superior to other options.
 
@@ -398,7 +400,7 @@ You can find hundreds of high quality packages at:
 ### Sublime Text
 
 * [LSP-elm](https://github.com/sublimelsp/LSP-elm) [![GitHub stars](https://img.shields.io/github/stars/sublimelsp/LSP-elm?style=flat)](https://github.com/sublimelsp/LSP-elm/stargazers) - Elm Language Server for Sublime (Recommended).
-* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
+* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) [![GitHub stars](https://img.shields.io/github/stars/elm-tooling/elm-language-server?style=flat)](https://github.com/elm-tooling/elm-language-server/stargazers) - Language server implementation for Elm
 * [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
 * [Elm Format on Save](https://github.com/evancz/elm-format-on-save) [![GitHub stars](https://img.shields.io/github/stars/evancz/elm-format-on-save?style=flat)](https://github.com/evancz/elm-format-on-save/stargazers) - Sublime Text plugin to run elm-format on save.
 

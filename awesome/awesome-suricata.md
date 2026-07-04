@@ -1,5 +1,7 @@
 # Suricata
 
+> 来源：[satta/awesome-suricata](https://github.com/satta/awesome-suricata)
+
 [![GitHub stars](https://img.shields.io/github/stars/satta/awesome-suricata?style=flat)](https://github.com/satta/awesome-suricata/stargazers)
 
 # Awesome Suricata [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -103,7 +105,7 @@
 
 ## Rule Sets and Lists
 
-- [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
+- [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) [![GitHub stars](https://img.shields.io/github/stars/klingerko/nids-rule-library?style=flat)](https://github.com/klingerko/nids-rule-library/stargazers) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
 - [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) [![GitHub stars](https://img.shields.io/github/stars/quadrantsec/suricata-rules?style=flat)](https://github.com/quadrantsec/suricata-rules/stargazers) - Set of Suricata rules published by QuadrantSec.
 - [Cluster25/detection](https://github.com/Cluster25/detection) [![GitHub stars](https://img.shields.io/github/stars/Cluster25/detection?style=flat)](https://github.com/Cluster25/detection/stargazers) - Cluster25's detection rules.

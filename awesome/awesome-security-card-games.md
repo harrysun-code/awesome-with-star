@@ -1,5 +1,7 @@
 # Security Card Games
 
+> 来源：[Karneades/awesome-security-card-games](https://github.com/Karneades/awesome-security-card-games)
+
 [![GitHub stars](https://img.shields.io/github/stars/Karneades/awesome-security-card-games?style=flat)](https://github.com/Karneades/awesome-security-card-games/stargazers)
 
 # Awesome Security Card Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # Game Remakes
 
+> 来源：[radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes)
+
 [![GitHub stars](https://img.shields.io/github/stars/radek-sprta/awesome-game-remakes?style=flat)](https://github.com/radek-sprta/awesome-game-remakes/stargazers)
 
 # Awesome Game Remakes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

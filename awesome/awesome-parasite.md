@@ -1,5 +1,7 @@
 # Parasite
 
+> 来源：[ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite)
+
 [![GitHub stars](https://img.shields.io/github/stars/ecohealthalliance/awesome-parasite?style=flat)](https://github.com/ecohealthalliance/awesome-parasite/stargazers)
 
 Awesome Parasite [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

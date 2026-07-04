@@ -1,5 +1,7 @@
 # C/C++
 
+> 来源：[fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+
 [![GitHub stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp?style=flat)](https://github.com/fffaraz/awesome-cpp/stargazers)
 
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
@@ -418,6 +420,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
 * [BeeCrypt](http://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
+* [BoringSSL](https://boringssl.googlesource.com/boringssl) - A fork of OpenSSL that is designed to meet Google's needs. [Apache2]
 * [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp) [![GitHub stars](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat)](https://github.com/weidai11/cryptopp/stargazers) - A free C++ class library of cryptographic schemes. [Boost] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp) [![GitHub stars](https://img.shields.io/github/stars/kerukuro/digestpp?style=flat)](https://github.com/kerukuro/digestpp/stargazers) - C++11 header-only message digest (hash) library. [PublicDomain]
@@ -1603,8 +1606,8 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 *Fantastic C or C++ related books.*
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md) [![GitHub stars](https://img.shields.io/github/stars/fffaraz/awesome-cpp/blob/master/books.md?style=flat)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md/stargazers)
-* [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-* [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+* [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) [![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md?style=flat)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md/stargazers) - vhf/free-programming-books/C.
+* [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) [![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md?style=flat)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md/stargazers) - vhf/free-programming-books/C++.
 * [Practical Guide to Bare Metal C++](https://github.com/arobenko/bare_metal_cpp) [![GitHub stars](https://img.shields.io/github/stars/arobenko/bare_metal_cpp?style=flat)](https://github.com/arobenko/bare_metal_cpp/stargazers)
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) [![GitHub stars](https://img.shields.io/github/stars/lefticus/cppbestpractices?style=flat)](https://github.com/lefticus/cppbestpractices/stargazers) - Collaborative Collection of C++ Best Practices.
 

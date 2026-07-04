@@ -1,5 +1,7 @@
 # Hackathon
 
+> 来源：[dribdat/awesome-hackathon](https://github.com/dribdat/awesome-hackathon)
+
 [![GitHub stars](https://img.shields.io/github/stars/dribdat/awesome-hackathon?style=flat)](https://github.com/dribdat/awesome-hackathon/stargazers)
 
 # Awesome Hackathon
@@ -108,9 +110,9 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Promoting
 
-- [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
-- [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world.
-- [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
+- [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) [![GitHub stars](https://img.shields.io/github/stars/Neuro-Hack/sponsorship?style=flat)](https://github.com/Neuro-Hack/sponsorship/stargazers) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
+- [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) [![GitHub stars](https://img.shields.io/github/stars/Hackalist/Hackalist.github.io?style=flat)](https://github.com/Hackalist/Hackalist.github.io/stargazers) - A list of upcoming hackathons from around the world.
+- [Hack Club](https://github.com/hackclub/hackathons#readme) [![GitHub stars](https://img.shields.io/github/stars/hackclub/hackathons?style=flat)](https://github.com/hackclub/hackathons/stargazers) - A curated list of hackathons organized for high schoolers.
 - [Hackamaps](https://hackamaps.com) - A global hackathon map and discovery tool for finding events, prize pools, and co-founders.
 - [Scrapbook](https://github.com/hackclub/scrapbook) [![GitHub stars](https://img.shields.io/github/stars/hackclub/scrapbook?style=flat)](https://github.com/hackclub/scrapbook/stargazers) by HackClub - A daily streak system & portfolio for your projects.
 - [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) [![GitHub stars](https://img.shields.io/github/stars/Catalyst-IN/OpenSourceEvents-Frontend?style=flat)](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend/stargazers) - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
@@ -138,7 +140,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Ansys Developer](https://developer.ansys.com/node/14990) - A set of judging criteria for hackathons.
 - [Evaluation Hackathon](https://www.betterevaluation.org/blog/hackathon) - High-level advice on better evaluation from the IPDET hackathons.
 - [Eventflare's Journal](https://eventflare.io/journal/crafting-effective-hackathon-judging-criteria-a-step-by-step-guide) - Strategies for determining criteria & [recruiting judges](https://eventflare.io/journal/how-to-select-the-right-hackathon-judges-for-your-event).
-- [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) - Create a Devpost Expo table frontend.
+- [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) [![GitHub stars](https://img.shields.io/github/stars/nealrs/expo?style=flat)](https://github.com/nealrs/expo/stargazers) - Create a Devpost Expo table frontend.
 - [Evaluation Manual](https://github.com/mayurah/Evaluation-Manual) [![GitHub stars](https://img.shields.io/github/stars/mayurah/Evaluation-Manual?style=flat)](https://github.com/mayurah/Evaluation-Manual/stargazers) - Older guidance sourced from Hacker Earth.
 - [Gavel](https://github.com/anishathalye/gavel) [![GitHub stars](https://img.shields.io/github/stars/anishathalye/gavel?style=flat)](https://github.com/anishathalye/gavel/stargazers) - A project expo judging system by HackMIT that uses fancy math to get good results.
 - [MLH Judging Plan](https://guide.mlh.io/general-information/judging-and-submissions/judging-plan) - A science-fair type approach to evaluation.
@@ -148,7 +150,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 > These are helpful handbooks, literature collections and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
-- [Dribdat wiki](https://github.com/dribdat/docs/wiki) [![GitHub stars](https://img.shields.io/github/stars/dribdat/docs/wiki?style=flat)](https://github.com/dribdat/docs/wiki/stargazers) - Community sourced guidelines from an open source project.
+- [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
 - [Guides et documentation data.gouv.fr](https://guides.data.gouv.fr/autres-ressources-utiles/guide-du-participant-au-hackathon-meteo/ressources-du-hackathon) - (In French) Documentation for open government data hackathon organizers.
 - [Hackathon Guidelines - Opendata.ch](https://opendata.ch/guidelines) - Principles for hackathons from the Swiss open data community.

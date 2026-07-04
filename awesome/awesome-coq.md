@@ -1,5 +1,7 @@
 # Coq
 
+> 来源：[coq-community/awesome-coq](https://github.com/coq-community/awesome-coq)
+
 [![GitHub stars](https://img.shields.io/github/stars/coq-community/awesome-coq?style=flat)](https://github.com/coq-community/awesome-coq/stargazers)
 
 # Awesome Coq [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -224,7 +226,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Official Coq Discourse forum](https://coq.discourse.group)
 - [Official Coq Zulip chat](https://coq.zulipchat.com)
 - [Official Coq-Club mailing list](https://sympa.inria.fr/sympa/arc/coq-club)
-- [Official Coq wiki](https://github.com/coq/coq/wiki) [![GitHub stars](https://img.shields.io/github/stars/coq/coq/wiki?style=flat)](https://github.com/coq/coq/wiki/stargazers)
+- [Official Coq wiki](https://github.com/coq/coq/wiki)
 - [Official Coq X/Twitter](https://x.com/CoqLang)
 - [Coq Zulip chat archive](https://coq.gitlab.io/zulip-archive/)
 - [Coq subreddit](https://www.reddit.com/r/Coq/)
@@ -233,7 +235,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Coq tag on Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/questions/tagged/coq)
 - [Coq keyword on Zenodo](https://zenodo.org/search?q=keywords%3A%22Coq%22)
 - [Coq-community package maintenance project](https://github.com/coq-community/manifesto) [![GitHub stars](https://img.shields.io/github/stars/coq-community/manifesto?style=flat)](https://github.com/coq-community/manifesto/stargazers)
-- [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki) [![GitHub stars](https://img.shields.io/github/stars/math-comp/math-comp/wiki?style=flat)](https://github.com/math-comp/math-comp/wiki/stargazers)
+- [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki)
 - [100 famous theorems proved using Coq](https://github.com/coq-community/coq-100-theorems) [![GitHub stars](https://img.shields.io/github/stars/coq-community/coq-100-theorems?style=flat)](https://github.com/coq-community/coq-100-theorems/stargazers)
 - [Planet Coq link aggregator](https://coq.pl-a.net)
 

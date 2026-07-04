@@ -1,5 +1,7 @@
 # Slim
 
+> 来源：[nekofar/awesome-slim](https://github.com/nekofar/awesome-slim)
+
 [![GitHub stars](https://img.shields.io/github/stars/nekofar/awesome-slim?style=flat)](https://github.com/nekofar/awesome-slim/stargazers)
 
 # Awesome Slim [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

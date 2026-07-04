@@ -1,5 +1,7 @@
 # Fish
 
+> 来源：[jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish)
+
 [![GitHub stars](https://img.shields.io/github/stars/jorgebucaran/awsm.fish?style=flat)](https://github.com/jorgebucaran/awsm.fish/stargazers)
 
 # awsm.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

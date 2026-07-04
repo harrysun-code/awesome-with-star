@@ -1,5 +1,7 @@
 # Babylon.js
 
+> 来源：[Symbitic/awesome-babylonjs](https://github.com/Symbitic/awesome-babylonjs)
+
 [![GitHub stars](https://img.shields.io/github/stars/Symbitic/awesome-babylonjs?style=flat)](https://github.com/Symbitic/awesome-babylonjs/stargazers)
 
 # Awesome Babylon.js [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

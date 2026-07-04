@@ -1,5 +1,7 @@
 # Dash
 
+> 来源：[ucg8j/awesome-dash](https://github.com/ucg8j/awesome-dash)
+
 [![GitHub stars](https://img.shields.io/github/stars/ucg8j/awesome-dash?style=flat)](https://github.com/ucg8j/awesome-dash/stargazers)
 
 # Awesome Dash [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
@@ -54,7 +56,7 @@ A curated list of awesome Dash (plotly) resources
 - [Dash PDF](https://github.com/ploomber/dash-pdf) [![GitHub stars](https://img.shields.io/github/stars/ploomber/dash-pdf?style=flat)](https://github.com/ploomber/dash-pdf/stargazers) - Display inline PDFs
 - [Dash MUI](https://github.com/ploomber/dash-mui) [![GitHub stars](https://img.shields.io/github/stars/ploomber/dash-mui?style=flat)](https://github.com/ploomber/dash-mui/stargazers) - Material UI components
 - [Dash React Simple Maps](https://github.com/ploomber/dash-react-simple-maps) [![GitHub stars](https://img.shields.io/github/stars/ploomber/dash-react-simple-maps?style=flat)](https://github.com/ploomber/dash-react-simple-maps/stargazers) - Create interactive maps
-- [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic](https://github.com/uwdata/mosaic) [![GitHub stars](https://img.shields.io/github/stars/uwdata/mosaic?style=flat)](https://github.com/uwdata/mosaic/stargazers) plots
+- [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) [![GitHub stars](https://img.shields.io/github/stars/ploomber/mosaic-python?style=flat)](https://github.com/ploomber/mosaic-python/stargazers) - Display [Mosaic](https://github.com/uwdata/mosaic) [![GitHub stars](https://img.shields.io/github/stars/uwdata/mosaic?style=flat)](https://github.com/uwdata/mosaic/stargazers) plots
 - [Dash Tabler Icons](https://github.com/ploomber/dash-tabler-icons) [![GitHub stars](https://img.shields.io/github/stars/ploomber/dash-tabler-icons?style=flat)](https://github.com/ploomber/dash-tabler-icons/stargazers) - Beautiful icons for your Dash apps
 - [Dash React Syntax Highlighter](https://github.com/ploomber/dash-react-syntax-highlighter) [![GitHub stars](https://img.shields.io/github/stars/ploomber/dash-react-syntax-highlighter?style=flat)](https://github.com/ploomber/dash-react-syntax-highlighter/stargazers) - Display code snippets with a copy button
 - [Dash Canvas Components](https://dash.plotly.com/canvas) - Module for image annotation and image processing using 

@@ -1,5 +1,7 @@
 # Supabase
 
+> 来源：[lyqht/awesome-supabase](https://github.com/lyqht/awesome-supabase)
+
 [![GitHub stars](https://img.shields.io/github/stars/lyqht/awesome-supabase?style=flat)](https://github.com/lyqht/awesome-supabase/stargazers)
 
 # Awesome Supabase [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

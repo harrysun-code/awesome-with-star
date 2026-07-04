@@ -1,5 +1,7 @@
 # Ripple
 
+> 来源：[vhpoet/awesome-ripple](https://github.com/vhpoet/awesome-ripple)
+
 [![GitHub stars](https://img.shields.io/github/stars/vhpoet/awesome-ripple?style=flat)](https://github.com/vhpoet/awesome-ripple/stargazers)
 
 # Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

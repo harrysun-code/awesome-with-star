@@ -1,5 +1,7 @@
 # Vorpal
 
+> 来源：[vorpaljs/awesome-vorpal](https://github.com/vorpaljs/awesome-vorpal)
+
 [![GitHub stars](https://img.shields.io/github/stars/vorpaljs/awesome-vorpal?style=flat)](https://github.com/vorpaljs/awesome-vorpal/stargazers)
 
 # Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -23,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 
 - [Chat](https://gitter.im/dthree/vorpal)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/vorpal.js)
-- [Wiki](https://github.com/dthree/vorpal/wiki) [![GitHub stars](https://img.shields.io/github/stars/dthree/vorpal/wiki?style=flat)](https://github.com/dthree/vorpal/wiki/stargazers)
+- [Wiki](https://github.com/dthree/vorpal/wiki)
 
 ## Tutorials
 

@@ -1,5 +1,7 @@
 # Question Answering
 
+> 来源：[seriousran/awesome-qa](https://github.com/seriousran/awesome-qa)
+
 [![GitHub stars](https://img.shields.io/github/stars/seriousran/awesome-qa?style=flat)](https://github.com/seriousran/awesome-qa/stargazers)
 
 # Awesome Question Answering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 

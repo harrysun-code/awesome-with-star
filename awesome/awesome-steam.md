@@ -1,5 +1,7 @@
 # Steam
 
+> 来源：[scholtzm/awesome-steam](https://github.com/scholtzm/awesome-steam)
+
 [![GitHub stars](https://img.shields.io/github/stars/scholtzm/awesome-steam?style=flat)](https://github.com/scholtzm/awesome-steam/stargazers)
 
 # Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

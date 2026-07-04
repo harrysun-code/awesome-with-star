@@ -1,5 +1,7 @@
 # AppImage
 
+> 来源：[AppImageCommunity/awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage)
+
 [![GitHub stars](https://img.shields.io/github/stars/AppImageCommunity/awesome-appimage?style=flat)](https://github.com/AppImageCommunity/awesome-appimage/stargazers)
 
 <!--lint disable double-link-->
@@ -194,7 +196,7 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Deployment tools for .NET Core (Mono) applications
 
 - [Publish-AppImage for .NET](https://github.com/kuiperzone/Publish-AppImage) [![GitHub stars](https://img.shields.io/github/stars/kuiperzone/Publish-AppImage?style=flat)](https://github.com/kuiperzone/Publish-AppImage/stargazers) - Publish AppImages for .NET applications.
-- [.NET Core AppImage example](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
+- [.NET Core AppImage example](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) [![GitHub stars](https://img.shields.io/github/stars/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs?style=flat)](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs/stargazers) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 - [PupNet Deploy](https://github.com/kuiperzone/PupNet-Deploy) [![GitHub stars](https://img.shields.io/github/stars/kuiperzone/PupNet-Deploy?style=flat)](https://github.com/kuiperzone/PupNet-Deploy/stargazers) - Cross-platform deployment utility which publishes your .NET project and packages it as a ready-to-ship installation file in a single step.
 - [DotnetPackaging](https://github.com/SuperJMN/DotnetPackaging) [![GitHub stars](https://img.shields.io/github/stars/SuperJMN/DotnetPackaging?style=flat)](https://github.com/SuperJMN/DotnetPackaging/stargazers) - Tool to distribute .NET applications in the AppImage format.
 
@@ -305,7 +307,7 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Miscellaneous
 
-- [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) [![GitHub stars](https://img.shields.io/github/stars/AppImage/AppImageKit/wiki?style=flat)](https://github.com/AppImage/AppImageKit/wiki/stargazers) - Official AppImage wiki.
+- [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
 - [AppImageZip](https://github.com/sagebind/appimagezip) [![GitHub stars](https://img.shields.io/github/stars/sagebind/appimagezip?style=flat)](https://github.com/sagebind/appimagezip/stargazers) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.
 - [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues) [![GitHub stars](https://img.shields.io/github/stars/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues?style=flat)](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues/stargazers) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
 - [appdwarf](https://github.com/Phantop/appdwarf) [![GitHub stars](https://img.shields.io/github/stars/Phantop/appdwarf?style=flat)](https://github.com/Phantop/appdwarf/stargazers) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.

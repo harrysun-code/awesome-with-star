@@ -1,5 +1,7 @@
 # Vert.x
 
+> 来源：[vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome)
+
 [![GitHub stars](https://img.shields.io/github/stars/vert-x3/vertx-awesome?style=flat)](https://github.com/vert-x3/vertx-awesome/stargazers)
 
 # Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -393,8 +395,8 @@ next to it. This icon means the component is part of the official
 * [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) - Discuss all user issues related to *using* Vert.x.
 * [Developer Group](https://groups.google.com/forum/?fromgroups#!forum/vertx-dev) - A group for Vert.x core *developers* and *contributors*.
 * [Discord Server](https://discord.gg/KzEMwP2) - Chat about any Vert.x-related topic.
-* [Issues](https://github.com/vert-x3/issues/issues) [![GitHub stars](https://img.shields.io/github/stars/vert-x3/issues/issues?style=flat)](https://github.com/vert-x3/issues/issues/stargazers) - Vert.x core issue tracker.
-* [Wiki](https://github.com/vert-x3/wiki/wiki) [![GitHub stars](https://img.shields.io/github/stars/vert-x3/wiki/wiki?style=flat)](https://github.com/vert-x3/wiki/wiki/stargazers) - Contains useful information about Vert.x.
+* [Issues](https://github.com/vert-x3/issues/issues) - Vert.x core issue tracker.
+* [Wiki](https://github.com/vert-x3/wiki/wiki) - Contains useful information about Vert.x.
 * [Blog](http://vertx.io/blog/) - The official Vert.x blog containing many tutorials and other information.
 
 ## Articles

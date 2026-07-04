@@ -1,5 +1,7 @@
 # Standards
 
+> 来源：[donBarbos/awesome-standards](https://github.com/donBarbos/awesome-standards)
+
 [![GitHub stars](https://img.shields.io/github/stars/donBarbos/awesome-standards?style=flat)](https://github.com/donBarbos/awesome-standards/stargazers)
 
 <!--lint disable awesome-heading-->

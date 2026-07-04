@@ -1,5 +1,7 @@
 # Kustomize
 
+> 来源：[DevOpsHiveHQ/awesome-kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize)
+
 [![GitHub stars](https://img.shields.io/github/stars/DevOpsHiveHQ/awesome-kustomize?style=flat)](https://github.com/DevOpsHiveHQ/awesome-kustomize/stargazers)
 
 <!-- omit in toc -->
@@ -15,7 +17,7 @@
 
 [Kustomize](https://kustomize.io) introduces a template-free way to customize Kubernetes manifests. It's extensible and uses a purely declarative approach to configuration customization, helping you efficiently manage your Infrastructure as Code (IaC).
 
-Contributions are welcome, add links through [pull requests](https://github.com/aabouzaid/awesome-kustomize/pulls) [![GitHub stars](https://img.shields.io/github/stars/aabouzaid/awesome-kustomize/pulls?style=flat)](https://github.com/aabouzaid/awesome-kustomize/pulls/stargazers) or create an issue to start a discussion.
+Contributions are welcome, add links through [pull requests](https://github.com/aabouzaid/awesome-kustomize/pulls) or create an issue to start a discussion.
 
 Push it forward and add the project badge in your repo to support the community! ⭐
 

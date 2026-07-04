@@ -1,5 +1,7 @@
 # Learning
 
+> 来源：[GustavBertram/awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning)
+
 [![GitHub stars](https://img.shields.io/github/stars/GustavBertram/awesome-common-lisp-learning?style=flat)](https://github.com/GustavBertram/awesome-common-lisp-learning/stargazers)
 
 # Awesome Common Lisp Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -48,7 +50,7 @@ You can run a Lisp implementation directly, but an editing environment makes the
 - For advanced users
   - [Articulate Common Lisp](http://articulate-lisp.com) - A HOWTO for putting together a Lisp environment, and has information on [useful libraries](http://articulate-lisp.com/project/abcs.html) and how to [structure projects](http://articulate-lisp.com/project/new-project.html).
   - If you're an experienced [Emacs](https://www.gnu.org/software/emacs/) user, you can just install [SLIME](https://common-lisp.net/project/slime/) and a [supported Common Lisp implementation](https://common-lisp.net/project/slime/doc/html/Platforms.html#Platforms). See the [SLIME manual](https://common-lisp.net/project/slime/doc/html/) for more details.
-  - The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell](https://github.com/roswell/roswell/wiki) [![GitHub stars](https://img.shields.io/github/stars/roswell/roswell/wiki?style=flat)](https://github.com/roswell/roswell/wiki/stargazers), or on Docker.
+  - The Common Lisp Cookbook has more information about [installing an implementation](https://lispcookbook.github.io/cl-cookbook/getting-started.html) using an implementation manager like [Roswell](https://github.com/roswell/roswell/wiki), or on Docker.
 
 ## Online References
 - [The Common Lisp Hyperspec (CLHS)](http://www.lispworks.com/documentation/common-lisp.html) - *The* language reference document for Common Lisp. Bookmark it now.

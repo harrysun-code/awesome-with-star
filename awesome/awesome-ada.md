@@ -1,5 +1,7 @@
 # Ada/SPARK
 
+> 来源：[ohenley/awesome-ada](https://github.com/ohenley/awesome-ada)
+
 [![GitHub stars](https://img.shields.io/github/stars/ohenley/awesome-ada?style=flat)](https://github.com/ohenley/awesome-ada/stargazers)
 
 # Awesome Ada [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -182,7 +184,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Reference
 - [iso-standard](http://www.ada-auth.org/standards/ada22.html) - The 2022 revision to the Ada Standard, usually known as Ada 2022.
 - [adalib](https://github.com/reznikmm/adalib) [![GitHub stars](https://img.shields.io/github/stars/reznikmm/adalib?style=flat)](https://github.com/reznikmm/adalib/stargazers) - Standard Ada library specification as defined in Reference Manual.
-- [Ada 2022 Reference Card](https://github.com/bracke/AdaReferenceCard/releases) [![GitHub stars](https://img.shields.io/github/stars/bracke/AdaReferenceCard/releases?style=flat)](https://github.com/bracke/AdaReferenceCard/releases/stargazers) - Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.
+- [Ada 2022 Reference Card](https://github.com/bracke/AdaReferenceCard/releases) - Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library.
 
 ## Community
 
@@ -220,7 +222,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 #### GPL (with linking exception)
 
-- [fsf-gnat](https://github.com/alire-project/GNAT-FSF-builds/releases) [![GitHub stars](https://img.shields.io/github/stars/alire-project/GNAT-FSF-builds/releases?style=flat)](https://github.com/alire-project/GNAT-FSF-builds/releases/stargazers) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.
+- [fsf-gnat](https://github.com/alire-project/GNAT-FSF-builds/releases) - Free Software Foundation compiler for the Ada programming language which forms part of the GNU Compiler Collection. It supports all versions of the language, i.e. Ada 2022, Ada 2012, Ada 2005, Ada 95 and Ada 83.
 
 #### MIT
 

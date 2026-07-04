@@ -1,5 +1,7 @@
 # Typing
 
+> 来源：[typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
+
 [![GitHub stars](https://img.shields.io/github/stars/typeddjango/awesome-python-typing?style=flat)](https://github.com/typeddjango/awesome-python-typing/stargazers)
 
 # Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)

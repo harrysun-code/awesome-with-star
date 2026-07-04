@@ -1,5 +1,7 @@
 # Discounts for Student Developers
 
+> 来源：[AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev)
+
 [![GitHub stars](https://img.shields.io/github/stars/AchoArnold/discount-for-student-dev?style=flat)](https://github.com/AchoArnold/discount-for-student-dev/stargazers)
 
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # Web Design
 
+> 来源：[nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design)
+
 [![GitHub stars](https://img.shields.io/github/stars/nicolesaidy/awesome-web-design?style=flat)](https://github.com/nicolesaidy/awesome-web-design/stargazers)
 
 # Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

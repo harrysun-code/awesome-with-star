@@ -1,5 +1,7 @@
 # Gems
 
+> 来源：[hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
+
 [![GitHub stars](https://img.shields.io/github/stars/hothero/awesome-rails-gem?style=flat)](https://github.com/hothero/awesome-rails-gem/stargazers)
 
 # Awesome Rails Gem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

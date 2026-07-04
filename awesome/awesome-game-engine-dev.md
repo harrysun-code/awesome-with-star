@@ -1,5 +1,7 @@
 # Game Engine Development
 
+> 来源：[stevinz/awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev)
+
 [![GitHub stars](https://img.shields.io/github/stars/stevinz/awesome-game-engine-dev?style=flat)](https://github.com/stevinz/awesome-game-engine-dev/stargazers)
 
 <!--lint ignore no-dead-urls-->
@@ -761,7 +763,7 @@ _Language specific game engine development libraries / frameworks / code._
 - 📚 [Awesome Java](https://github.com/akullpp/awesome-java) [![GitHub stars](https://img.shields.io/github/stars/akullpp/awesome-java?style=flat)](https://github.com/akullpp/awesome-java/stargazers) - Awesome frameworks, libraries and software for Java.
 - 🌎 [Java](https://dev.java) - General-purpose language, runs on [Java virtual machines](https://en.wikipedia.org/wiki/Java_virtual_machine). [[GitHub](https://github.com/openjdk) [![GitHub stars](https://img.shields.io/github/stars/openjdk?style=flat)](https://github.com/openjdk/stargazers)]
 - 📚 [Learn Java](https://dev.java/learn/) - Official docs and tutorials.
-- 📚 [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki) [![GitHub stars](https://img.shields.io/github/stars/mattdesl/lwjgl-basics/wiki?style=flat)](https://github.com/mattdesl/lwjgl-basics/wiki/stargazers) - OpenGL / GLSL tutorials for _LWJGL_ and _libGDX_.
+- 📚 [OpenGL & GLSL Tutorials](https://github.com/mattdesl/lwjgl-basics/wiki) - OpenGL / GLSL tutorials for _LWJGL_ and _libGDX_.
 - Java: Game Framework
     - 🎉 [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) [![GitHub stars](https://img.shields.io/github/stars/jMonkeyEngine/jmonkeyengine?style=flat)](https://github.com/jMonkeyEngine/jmonkeyengine/stargazers) - Modern 3D game development suite.
     - 🎉 [libGDX](https://github.com/libgdx/libgdx) [![GitHub stars](https://img.shields.io/github/stars/libgdx/libgdx?style=flat)](https://github.com/libgdx/libgdx/stargazers) - Game framework built on, and adds to _LWJGL_. [[Awesome](https://github.com/rafaskb/awesome-libgdx) [![GitHub stars](https://img.shields.io/github/stars/rafaskb/awesome-libgdx?style=flat)](https://github.com/rafaskb/awesome-libgdx/stargazers) | [Website](https://libgdx.com/)]

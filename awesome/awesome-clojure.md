@@ -1,5 +1,7 @@
 # Clojure
 
+> 来源：[razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure)
+
 [![GitHub stars](https://img.shields.io/github/stars/razum2um/awesome-clojure?style=flat)](https://github.com/razum2um/awesome-clojure/stargazers)
 
 # Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -304,7 +306,7 @@
 
 *Libraries for working with HTML.*
 
-  * [Enlive](https://github.com/cgrand/enlive/wiki) [![GitHub stars](https://img.shields.io/github/stars/cgrand/enlive/wiki?style=flat)](https://github.com/cgrand/enlive/wiki/stargazers)
+  * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup](https://github.com/weavejester/hiccup) [![GitHub stars](https://img.shields.io/github/stars/weavejester/hiccup?style=flat)](https://github.com/weavejester/hiccup/stargazers)
   * [clostache](https://github.com/fhd/clostache) [![GitHub stars](https://img.shields.io/github/stars/fhd/clostache?style=flat)](https://github.com/fhd/clostache/stargazers)
   * [selmer](https://github.com/yogthos/Selmer) [![GitHub stars](https://img.shields.io/github/stars/yogthos/Selmer?style=flat)](https://github.com/yogthos/Selmer/stargazers)

@@ -1,5 +1,7 @@
 # Scientific Writing
 
+> 来源：[writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+
 [![GitHub stars](https://img.shields.io/github/stars/writing-resources/awesome-scientific-writing?style=flat)](https://github.com/writing-resources/awesome-scientific-writing/stargazers)
 
 # Awesome Scientific Writing [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
@@ -35,12 +37,12 @@ document**.
   - [bookdown](https://github.com/rstudio/bookdown) [![GitHub stars](https://img.shields.io/github/stars/rstudio/bookdown?style=flat)](https://github.com/rstudio/bookdown/stargazers) - R package to facilitate writing books and long-form articles, reports with R Markdown :bookmark: :link:.
   - [R Markdown](https://rmarkdown.rstudio.com/) - R package to write R next to Markdown :bookmark: :link:.
 - [Vim](https://www.vim.org/) - Command line text editor.
-  - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) - BibTeX source
+  - [fzf-bibtex](https://github.com/msprev/fzf-bibtex/#readme) [![GitHub stars](https://img.shields.io/github/stars/msprev/fzf-bibtex/?style=flat)](https://github.com/msprev/fzf-bibtex//stargazers) - BibTeX source
     with Vim integration which uses fzf (a fuzzy finder implemented in Go).
   - [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc) [![GitHub stars](https://img.shields.io/github/stars/vim-pandoc/vim-pandoc?style=flat)](https://github.com/vim-pandoc/vim-pandoc/stargazers) - Pandoc integration and utilities for Vim.
   - [vim-pandoc-syntax](https://github.com/vim-pandoc/vim-pandoc-syntax) [![GitHub stars](https://img.shields.io/github/stars/vim-pandoc/vim-pandoc-syntax?style=flat)](https://github.com/vim-pandoc/vim-pandoc-syntax/stargazers) - Pandoc syntax highlighting for Vim.
 - [Visual Studio Code](https://code.visualstudio.com/) - Popular IDE with Markdown support.
-  - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) - Extension for enhanced
+  - [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown/#readme) [![GitHub stars](https://img.shields.io/github/stars/yzhang-gh/vscode-markdown/?style=flat)](https://github.com/yzhang-gh/vscode-markdown//stargazers) - Extension for enhanced
     Markdown support in VSCode, such as preview and auto completion to name a few.
   - [Markdown Preview Enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) [![GitHub stars](https://img.shields.io/github/stars/shd101wyy/markdown-preview-enhanced?style=flat)](https://github.com/shd101wyy/markdown-preview-enhanced/stargazers) - Pandoc
     integration and utilities.
@@ -131,7 +133,7 @@ Reusable minimalist examples.
 
 ### Books
 
-- [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) - Minimal
+- [bookdown-demo](https://github.com/rstudio/bookdown-demo/#readme) [![GitHub stars](https://img.shields.io/github/stars/rstudio/bookdown-demo/?style=flat)](https://github.com/rstudio/bookdown-demo//stargazers) - Minimal
    example of a book based on R Markdown and bookdown.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) [![GitHub stars](https://img.shields.io/github/stars/Wandmalfarbe/pandoc-latex-template?style=flat)](https://github.com/Wandmalfarbe/pandoc-latex-template/stargazers) - Clean academic pandoc LaTeX template.
 - [Template for writing a PhD thesis in
@@ -144,7 +146,7 @@ Reusable minimalist examples.
 How to generate articles and presentations for scientific purposes.
 
 - [3 frameworks into one — Write your next paper with R Studio!](https://blog.devgenius.io/write-your-whole-paper-in-r-it-is-better-77e1843f0c09) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers.
-- [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - This
+- [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) [![GitHub stars](https://img.shields.io/github/stars/clawpack/riemann_book/?style=flat)](https://github.com/clawpack/riemann_book//stargazers) - This
    example uses a custom `nbconvert` template and shows how to store your
    notebooks with no output (for version control) while automatically executing
    them before running `bookbook`, so that PDF and HTML versions include the
@@ -159,9 +161,9 @@ How to generate articles and presentations for scientific purposes.
 
 ## Other Lists
 
-- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion)
-- [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme)
-- [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme)
+- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter/#renderingpublishingconversion) [![GitHub stars](https://img.shields.io/github/stars/markusschanta/awesome-jupyter/?style=flat)](https://github.com/markusschanta/awesome-jupyter//stargazers)
+- [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX/#readme) [![GitHub stars](https://img.shields.io/github/stars/egeerardyn/awesome-LaTeX/?style=flat)](https://github.com/egeerardyn/awesome-LaTeX//stargazers)
+- [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown/#readme) [![GitHub stars](https://img.shields.io/github/stars/BubuAnabelas/awesome-markdown/?style=flat)](https://github.com/BubuAnabelas/awesome-markdown//stargazers)
 - [Delightful Open Science](https://codeberg.org/teaserbot-labs/delightful-open-science)
 
 ### Contribute

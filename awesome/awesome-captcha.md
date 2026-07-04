@@ -1,5 +1,7 @@
 # Captcha
 
+> 来源：[ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha)
+
 [![GitHub stars](https://img.shields.io/github/stars/ZYSzys/awesome-captcha?style=flat)](https://github.com/ZYSzys/awesome-captcha/stargazers)
 
 # Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -68,7 +70,7 @@
 - [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) [![GitHub stars](https://img.shields.io/github/stars/zhengwh/captcha-svm?style=flat)](https://github.com/zhengwh/captcha-svm/stargazers) - Use svm to hack simple captcha.
 - [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) [![GitHub stars](https://img.shields.io/github/stars/chxj1992/captcha_cracker?style=flat)](https://github.com/chxj1992/captcha_cracker/stargazers) - Crack captcha with CNN.
 - [chxj1992/slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) [![GitHub stars](https://img.shields.io/github/stars/chxj1992/slide_captcha_cracker?style=flat)](https://github.com/chxj1992/slide_captcha_cracker/stargazers) - Crack solution for slide captcha with Canny algorithm.
-- [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
+- [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) [![GitHub stars](https://img.shields.io/github/stars/JasonLiTW/simple-railway-captcha-solver?style=flat)](https://github.com/JasonLiTW/simple-railway-captcha-solver/stargazers) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
 - [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) [![GitHub stars](https://img.shields.io/github/stars/lllcho/CAPTCHA-breaking?style=flat)](https://github.com/lllcho/CAPTCHA-breaking/stargazers) - Breaking the captcha.
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) [![GitHub stars](https://img.shields.io/github/stars/ecthros/uncaptcha?style=flat)](https://github.com/ecthros/uncaptcha/stargazers) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [dessant/buster](https://github.com/dessant/buster) [![GitHub stars](https://img.shields.io/github/stars/dessant/buster?style=flat)](https://github.com/dessant/buster/stargazers) - Captcha solver extension for humans and monsters.

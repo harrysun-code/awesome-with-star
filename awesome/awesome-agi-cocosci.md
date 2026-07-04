@@ -1,5 +1,7 @@
 # AGI & CoCoSci
 
+> 来源：[YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)
+
 [![GitHub stars](https://img.shields.io/github/stars/YuzheSHI/awesome-agi-cocosci?style=flat)](https://github.com/YuzheSHI/awesome-agi-cocosci/stargazers)
 
 <div align="center">
@@ -2431,7 +2433,7 @@ We applied our framework to three visual recognition tasks, namely, image classi
 
 ##### Malmo Platform for Minecraft AI
   * [The Malmo Platform for Artificial Intelligence Experimentation](https://www.microsoft.com/en-us/research/publication/malmo-platform-artificial-intelligence-experimentation/) ***IJCAI'16***, 2016. 
-  * [[Malmo](https://github.com/Microsoft/malmo#getting-started)]. 
+  * [[Malmo](https://github.com/Microsoft/malmo#getting-started) [![GitHub stars](https://img.shields.io/github/stars/Microsoft/malmo?style=flat)](https://github.com/Microsoft/malmo/stargazers)]. 
   * [[Malmo-env](https://github.com/Microsoft/malmo/tree/master/MalmoEnv) [![GitHub stars](https://img.shields.io/github/stars/Microsoft/malmo/tree/master/MalmoEnv?style=flat)](https://github.com/Microsoft/malmo/tree/master/MalmoEnv/stargazers)]. 
   * [[Malmo-Tutorials](https://microsoft.github.io/malmo/0.17.0/Python_Examples/Tutorial.pdf)].
   * [[MineRL](https://minerl.io/)].

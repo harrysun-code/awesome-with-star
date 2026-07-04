@@ -1,5 +1,7 @@
 # Free Software
 
+> 来源：[johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
+
 [![GitHub stars](https://img.shields.io/github/stars/johnjago/awesome-free-software?style=flat)](https://github.com/johnjago/awesome-free-software/stargazers)
 
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

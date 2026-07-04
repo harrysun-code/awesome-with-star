@@ -1,5 +1,7 @@
 # Mad Science npm Packages
 
+> 来源：[feross/awesome-mad-science](https://github.com/feross/awesome-mad-science)
+
 [![GitHub stars](https://img.shields.io/github/stars/feross/awesome-mad-science?style=flat)](https://github.com/feross/awesome-mad-science/stargazers)
 
 # Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

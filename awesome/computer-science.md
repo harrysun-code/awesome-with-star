@@ -1,5 +1,7 @@
 # Open Source Society University
 
+> 来源：[ossu/computer-science](https://github.com/ossu/computer-science)
+
 [![GitHub stars](https://img.shields.io/github/stars/ossu/computer-science?style=flat)](https://github.com/ossu/computer-science/stargazers)
 
 <div align="center" style="text-align: center">

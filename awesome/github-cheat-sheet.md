@@ -1,5 +1,7 @@
 # Cheat Sheet
 
+> 来源：[tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+
 [![GitHub stars](https://img.shields.io/github/stars/tiimgreen/github-cheat-sheet?style=flat)](https://github.com/tiimgreen/github-cheat-sheet/stargazers)
 
 # GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -602,7 +604,7 @@ This allows you to do things like:
 $ hub clone tiimgreen/toc
 ```
 
-[*Check out some more cool commands Hub has to offer.*](https://github.com/github/hub#commands)
+[*Check out some more cool commands Hub has to offer.*](https://github.com/github/hub#commands) [![GitHub stars](https://img.shields.io/github/stars/github/hub?style=flat)](https://github.com/github/hub/stargazers)
 
 ### Contribution Guidelines
 GitHub supports adding 3 different files which help users contribute to your project.
@@ -864,7 +866,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
+*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases) [![GitHub stars](https://img.shields.io/github/stars/tiimgreen/github-cheat-sheet?style=flat)](https://github.com/tiimgreen/github-cheat-sheet/stargazers).*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 

@@ -1,5 +1,7 @@
 # Functional Programming
 
+> 来源：[stoeffel/awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
+
 [![GitHub stars](https://img.shields.io/github/stars/stoeffel/awesome-fp-js?style=flat)](https://github.com/stoeffel/awesome-fp-js/stargazers)
 
 # Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -117,7 +119,7 @@ Write performant functional code by using the right data structures for the task
 * [DerivableJS](https://github.com/ds300/derivablejs) [![GitHub stars](https://img.shields.io/github/stars/ds300/derivablejs?style=flat)](https://github.com/ds300/derivablejs/stargazers) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
 * [imlazy](https://github.com/benji6/imlazy) [![GitHub stars](https://img.shields.io/github/stars/benji6/imlazy?style=flat)](https://github.com/benji6/imlazy/stargazers) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable](https://github.com/frptools/collectable) [![GitHub stars](https://img.shields.io/github/stars/frptools/collectable?style=flat)](https://github.com/frptools/collectable/stargazers) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
-* [List](https://github.com/funkia/list) [![GitHub stars](https://img.shields.io/github/stars/funkia/list?style=flat)](https://github.com/funkia/list/stargazers) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda](https://github.com/funkia/list#seamless-ramda-integration).
+* [List](https://github.com/funkia/list) [![GitHub stars](https://img.shields.io/github/stars/funkia/list?style=flat)](https://github.com/funkia/list/stargazers) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda](https://github.com/funkia/list#seamless-ramda-integration) [![GitHub stars](https://img.shields.io/github/stars/funkia/list?style=flat)](https://github.com/funkia/list/stargazers).
 * [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) [![GitHub stars](https://img.shields.io/github/stars/emmanueltouzery/prelude.ts?style=flat)](https://github.com/emmanueltouzery/prelude.ts/stargazers) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
 * [TSTL](https://github.com/samchon/tstl) [![GitHub stars](https://img.shields.io/github/stars/samchon/tstl?style=flat)](https://github.com/samchon/tstl/stargazers) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
 

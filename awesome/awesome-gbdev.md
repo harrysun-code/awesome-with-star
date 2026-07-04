@@ -1,5 +1,7 @@
 # Game Boy Development
 
+> 来源：[gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev)
+
 [![GitHub stars](https://img.shields.io/github/stars/gbdev/awesome-gbdev?style=flat)](https://github.com/gbdev/awesome-gbdev/stargazers)
 
 # ![GameboyIcon](http://i.imgur.com/ROUq7NT.gif) Awesome Game Boy Development
@@ -223,7 +225,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 ### Assemblers
 
 - [RGBDS](https://github.com/gbdev/rgbds) [![GitHub stars](https://img.shields.io/github/stars/gbdev/rgbds?style=flat)](https://github.com/gbdev/rgbds/stargazers) - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
-- [ASMotor](https://github.com/csoren/asmotor) [![GitHub stars](https://img.shields.io/github/stars/csoren/asmotor?style=flat)](https://github.com/csoren/asmotor/stargazers) - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation](https://github.com/asmotor/asmotor/tree/develop#further-reading).
+- [ASMotor](https://github.com/csoren/asmotor) [![GitHub stars](https://img.shields.io/github/stars/csoren/asmotor?style=flat)](https://github.com/csoren/asmotor/stargazers) - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation](https://github.com/asmotor/asmotor/tree/develop#further-reading) [![GitHub stars](https://img.shields.io/github/stars/asmotor/asmotor/tree/develop?style=flat)](https://github.com/asmotor/asmotor/tree/develop/stargazers).
 - [wla-dx](https://github.com/vhelin/wla-dx) [![GitHub stars](https://img.shields.io/github/stars/vhelin/wla-dx?style=flat)](https://github.com/vhelin/wla-dx/stargazers) - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 
 ### Compilers

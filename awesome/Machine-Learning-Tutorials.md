@@ -1,5 +1,7 @@
 # Tutorials
 
+> 来源：[ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
 [![GitHub stars](https://img.shields.io/github/stars/ujjwalkarn/Machine-Learning-Tutorials?style=flat)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/stargazers)
 
 
@@ -69,7 +71,7 @@
 
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
-- [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
+- [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning) [![GitHub stars](https://img.shields.io/github/stars/prakhar1989/awesome-courses?style=flat)](https://github.com/prakhar1989/awesome-courses/stargazers)
 
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) [![GitHub stars](https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers?style=flat)](https://github.com/ZuzooVn/machine-learning-for-software-engineers/stargazers)
 
@@ -484,7 +486,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - Neural Machine Translation
 
-    - **[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list)**
+    - **[Machine Translation Reading List](https://github.com/THUNLP-MT/MT-Reading-List#machine-translation-reading-list) [![GitHub stars](https://img.shields.io/github/stars/THUNLP-MT/MT-Reading-List?style=flat)](https://github.com/THUNLP-MT/MT-Reading-List/stargazers)**
 
     - [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/), [Part 2](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/), [Part 3](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
     

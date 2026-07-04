@@ -1,5 +1,7 @@
 # choo
 
+> 来源：[choojs/awesome-choo](https://github.com/choojs/awesome-choo)
+
 [![GitHub stars](https://img.shields.io/github/stars/choojs/awesome-choo?style=flat)](https://github.com/choojs/awesome-choo/stargazers)
 
 # Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>

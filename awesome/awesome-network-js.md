@@ -1,5 +1,7 @@
 # Network Layer
 
+> 来源：[Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js)
+
 [![GitHub stars](https://img.shields.io/github/stars/Kikobeats/awesome-network-js?style=flat)](https://github.com/Kikobeats/awesome-network-js/stargazers)
 
 # Awesome JavaScript Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kikobeats/awesome-network-js) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-network-js/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-network-js) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)

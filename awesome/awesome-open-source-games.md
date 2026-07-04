@@ -1,5 +1,7 @@
 # Open Source Games
 
+> 来源：[michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games)
+
 [![GitHub stars](https://img.shields.io/github/stars/michelpereira/awesome-open-source-games?style=flat)](https://github.com/michelpereira/awesome-open-source-games/stargazers)
 
 # Awesome Open Source Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -498,7 +500,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Ammo.js](https://github.com/kripken/ammo.js) [![GitHub stars](https://img.shields.io/github/stars/kripken/ammo.js?style=flat)](https://github.com/kripken/ammo.js/stargazers) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
 - [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) [![GitHub stars](https://img.shields.io/github/stars/AtomicGameEngine/AtomicGameEngine?style=flat)](https://github.com/AtomicGameEngine/AtomicGameEngine/stargazers) - Features 2D and 3D rendering, standards compliant JavaScript, full Player and Editor source on GitHub, Windows & Mac Editors, with deployment to Windows, Mac, WebGL, Android, and iOS from the editor.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) [![GitHub stars](https://img.shields.io/github/stars/BabylonJS/Babylon.js?style=flat)](https://github.com/BabylonJS/Babylon.js/stargazers) - Complete JavaScript framework for building 3D games with HTML 5 and WebGL.
-- [Bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - Cross-platform rendering library.
+- [Bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) [![GitHub stars](https://img.shields.io/github/stars/bkaradzic/bgfx?style=flat)](https://github.com/bkaradzic/bgfx/stargazers) - Cross-platform rendering library.
 - [Chilli Works](https://github.com/ChilliWorks/ChilliSource) [![GitHub stars](https://img.shields.io/github/stars/ChilliWorks/ChilliSource?style=flat)](https://github.com/ChilliWorks/ChilliSource/stargazers) - An open source, cross-platform game engine designed for indie developers.
 - [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) [![GitHub stars](https://img.shields.io/github/stars/slembcke/Chipmunk-Physics?style=flat)](https://github.com/slembcke/Chipmunk-Physics/stargazers) - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
 - [ChoiceScript](https://github.com/dfabulich/choicescript) [![GitHub stars](https://img.shields.io/github/stars/dfabulich/choicescript?style=flat)](https://github.com/dfabulich/choicescript/stargazers) - A language/engine for developing text-based multiple-choice interactive novels.

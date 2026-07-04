@@ -1,5 +1,7 @@
 # Prometheus
 
+> 来源：[roaldnefs/awesome-prometheus](https://github.com/roaldnefs/awesome-prometheus)
+
 [![GitHub stars](https://img.shields.io/github/stars/roaldnefs/awesome-prometheus?style=flat)](https://github.com/roaldnefs/awesome-prometheus/stargazers)
 
 # Awesome Prometheus  [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)

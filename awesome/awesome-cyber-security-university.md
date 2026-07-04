@@ -1,5 +1,7 @@
 # Cyber Security University
 
+> 来源：[brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university)
+
 [![GitHub stars](https://img.shields.io/github/stars/brootware/awesome-cyber-security-university?style=flat)](https://github.com/brootware/awesome-cyber-security-university/stargazers)
 
 # Awesome Cyber Security University [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -55,7 +57,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 <!--lint enable double-link-->
 ## Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki](https://github.com/brootware/Cyber-Security-University/wiki) [![GitHub stars](https://img.shields.io/github/stars/brootware/Cyber-Security-University/wiki?style=flat)](https://github.com/brootware/Cyber-Security-University/wiki/stargazers) if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## Introduction and Pre-Security
 

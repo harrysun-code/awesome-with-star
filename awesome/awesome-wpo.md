@@ -1,5 +1,7 @@
 # Web Performance Optimization
 
+> 来源：[davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+
 [![GitHub stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo?style=flat)](https://github.com/davidsonfellipe/awesome-wpo/stargazers)
 
 # Awesome WPO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -60,11 +62,11 @@ Here's a quick overview of the categories covered in this collection:
 
 > Agent skills for web quality audits and optimization workflows.
 
-- [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) - Comprehensive quality review across all categories.
-- [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) - LCP, INP, and CLS specific optimizations.
-- [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) - WCAG compliance, screen reader support, and keyboard navigation.
-- [performance](https://github.com/addyosmani/web-quality-skills#performance) - Loading speed, runtime efficiency, and resource optimization.
-- [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) - Security, modern APIs, and code quality patterns.
+- [web-quality-audit](https://github.com/addyosmani/web-quality-skills#web-quality-audit) [![GitHub stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills?style=flat)](https://github.com/addyosmani/web-quality-skills/stargazers) - Comprehensive quality review across all categories.
+- [core-web-vitals](https://github.com/addyosmani/web-quality-skills#core-web-vitals) [![GitHub stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills?style=flat)](https://github.com/addyosmani/web-quality-skills/stargazers) - LCP, INP, and CLS specific optimizations.
+- [accessibility](https://github.com/addyosmani/web-quality-skills#accessibility) [![GitHub stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills?style=flat)](https://github.com/addyosmani/web-quality-skills/stargazers) - WCAG compliance, screen reader support, and keyboard navigation.
+- [performance](https://github.com/addyosmani/web-quality-skills#performance) [![GitHub stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills?style=flat)](https://github.com/addyosmani/web-quality-skills/stargazers) - Loading speed, runtime efficiency, and resource optimization.
+- [best-practices](https://github.com/addyosmani/web-quality-skills#best-practices) [![GitHub stars](https://img.shields.io/github/stars/addyosmani/web-quality-skills?style=flat)](https://github.com/addyosmani/web-quality-skills/stargazers) - Security, modern APIs, and code quality patterns.
 
 ## Articles
 
@@ -448,4 +450,4 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Contributing
 
-For contributing, please check [contributing.md](contributing.md), then [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) [![GitHub stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo/issues?style=flat)](https://github.com/davidsonfellipe/awesome-wpo/issues/stargazers) and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls) [![GitHub stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo/pulls?style=flat)](https://github.com/davidsonfellipe/awesome-wpo/pulls/stargazers).
+For contributing, please check [contributing.md](contributing.md), then [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls).

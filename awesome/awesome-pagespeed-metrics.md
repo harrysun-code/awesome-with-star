@@ -1,5 +1,7 @@
 # PageSpeed Metrics
 
+> 来源：[csabapalfi/awesome-pagespeed-metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics)
+
 [![GitHub stars](https://img.shields.io/github/stars/csabapalfi/awesome-pagespeed-metrics?style=flat)](https://github.com/csabapalfi/awesome-pagespeed-metrics/stargazers)
 
 # Awesome Page Speed Metrics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -98,9 +100,9 @@ To optimize interactivity metrics like [Total Blocking Time (TBT)](#total-blocki
 It's important to track metrics relevant to users and their experience. To measure the perceived performance we can choose metrics by framing them around a few key questions.
 
 - [Docs - User-centric Performance Metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
-- Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
-- Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
-- Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
+- Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp) [![GitHub stars](https://img.shields.io/github/stars/csabapalfi/awesome-web-performance-metrics/?style=flat)](https://github.com/csabapalfi/awesome-web-performance-metrics//stargazers))
+- Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp) [![GitHub stars](https://img.shields.io/github/stars/csabapalfi/awesome-web-performance-metrics/?style=flat)](https://github.com/csabapalfi/awesome-web-performance-metrics//stargazers))
+- Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt) [![GitHub stars](https://img.shields.io/github/stars/csabapalfi/awesome-web-performance-metrics/?style=flat)](https://github.com/csabapalfi/awesome-web-performance-metrics//stargazers))
 - Is it delightful/smooth? - Are the interactions smooth and natural, free of lag and jank?
 
 ---
@@ -123,7 +125,7 @@ The Largest Contentful Paint (LCP) metric reports the render time of the largest
 - Lab: Lighthouse/WPT
 - Field: Chrome 77+
 - [Docs - LCP - web.dev](https://web.dev/largest-contentful-paint/)
-- [Spec - LCP - W3C](https://github.com/WICG/largest-contentful-paint#readme)
+- [Spec - LCP - W3C](https://github.com/WICG/largest-contentful-paint#readme) [![GitHub stars](https://img.shields.io/github/stars/WICG/largest-contentful-paint?style=flat)](https://github.com/WICG/largest-contentful-paint/stargazers)
 
 ### Cumulative Layout Shift (CLS)
 

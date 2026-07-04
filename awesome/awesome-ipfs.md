@@ -1,12 +1,14 @@
 # IPFS
 
+> 来源：[ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs)
+
 [![GitHub stars](https://img.shields.io/github/stars/ipfs/awesome-ipfs?style=flat)](https://github.com/ipfs/awesome-ipfs/stargazers)
 
 # Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a community list of awesome projects, apps, tools, and services related to IPFS.
 
-To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy), and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md) [![GitHub stars](https://img.shields.io/github/stars/ipfs/awesome-ipfs/edit/main/README.md?style=flat)](https://github.com/ipfs/awesome-ipfs/edit/main/README.md/stargazers)
+To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy) [![GitHub stars](https://img.shields.io/github/stars/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md?style=flat)](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md/stargazers), and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md) [![GitHub stars](https://img.shields.io/github/stars/ipfs/awesome-ipfs/edit/main/README.md?style=flat)](https://github.com/ipfs/awesome-ipfs/edit/main/README.md/stargazers)
 
 ## Table of Contents
 

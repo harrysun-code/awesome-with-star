@@ -1,5 +1,7 @@
 # Move
 
+> 来源：[MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move)
+
 [![GitHub stars](https://img.shields.io/github/stars/MystenLabs/awesome-move?style=flat)](https://github.com/MystenLabs/awesome-move/stargazers)
 
 <!--lint disable double-link-->
@@ -44,8 +46,8 @@ Move is a programming language for writing safe smart contracts originally devel
 
 ## Overview
 
-- [Installation](https://github.com/move-language/move/tree/main/language/tools/move-cli#installation)
-- [Problem Statement](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md#problem-statement)
+- [Installation](https://github.com/move-language/move/tree/main/language/tools/move-cli#installation) [![GitHub stars](https://img.shields.io/github/stars/move-language/move/tree/main/language/tools/move-cli?style=flat)](https://github.com/move-language/move/tree/main/language/tools/move-cli/stargazers)
+- [Problem Statement](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md#problem-statement) [![GitHub stars](https://img.shields.io/github/stars/mystenlabs/awesome-move/blob/main/docs/problem_statement.md?style=flat)](https://github.com/mystenlabs/awesome-move/blob/main/docs/problem_statement.md/stargazers)
 
 ## Move-Powered Blockchains
 
@@ -180,7 +182,7 @@ The ability to separate blockchain-specific framework logic from the generic fun
 - [TaoHe](https://github.com/taoheorg/taohe) [![GitHub stars](https://img.shields.io/github/stars/taoheorg/taohe?style=flat)](https://github.com/taoheorg/taohe/stargazers) - A collection of nestable Move resources.
 - [Starcoin Framework Commons](https://github.com/starcoinorg/starcoin-framework-commons) [![GitHub stars](https://img.shields.io/github/stars/starcoinorg/starcoin-framework-commons?style=flat)](https://github.com/starcoinorg/starcoin-framework-commons/stargazers) - Libraries for Move commons utility on starcoin-framework. From Starcoin.
 - [Movemate](https://github.com/pentagonxyz/movemate) [![GitHub stars](https://img.shields.io/github/stars/pentagonxyz/movemate?style=flat)](https://github.com/pentagonxyz/movemate/stargazers) - Smart contract building blocks for Aptos and Sui (Math utilities, governance contracts, escrow, and more). Maintained by the Pentagon team.
-- [Move cron parser](https://github.com/snowflake-so/move-cron-parser#readme) - Library is built for a purpose of parsing cron expression. Maintained by Snowflake Network team.
+- [Move cron parser](https://github.com/snowflake-so/move-cron-parser#readme) [![GitHub stars](https://img.shields.io/github/stars/snowflake-so/move-cron-parser?style=flat)](https://github.com/snowflake-so/move-cron-parser/stargazers) - Library is built for a purpose of parsing cron expression. Maintained by Snowflake Network team.
 
 ### Miscellaneous
 

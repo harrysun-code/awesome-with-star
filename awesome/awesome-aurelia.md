@@ -1,5 +1,7 @@
 # Aurelia
 
+> 来源：[aurelia-contrib/awesome-aurelia](https://github.com/aurelia-contrib/awesome-aurelia)
+
 [![GitHub stars](https://img.shields.io/github/stars/aurelia-contrib/awesome-aurelia?style=flat)](https://github.com/aurelia-contrib/awesome-aurelia/stargazers)
 
 <p align="center">
@@ -270,7 +272,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) [![GitHub stars](https://img.shields.io/github/stars/jdanyow/aurelia-solitaire?style=flat)](https://github.com/jdanyow/aurelia-solitaire/stargazers) * Klondike solitaire built with Aurelia and dragula.
 * [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) [![GitHub stars](https://img.shields.io/github/stars/discosultan/aurelia-minesweeper/?style=flat)](https://github.com/discosultan/aurelia-minesweeper//stargazers) * Classic Minesweeper game built with Aurelia by @discosultan.
 * [aurelia-webapi-example](https://github.com/jimschubert/aurelia-webapi-example) [![GitHub stars](https://img.shields.io/github/stars/jimschubert/aurelia-webapi-example?style=flat)](https://github.com/jimschubert/aurelia-webapi-example/stargazers) * An example WebAPI written with C# and Aurelia
-* [michaelbull/aurelia-hacker-news](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) * A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
+* [michaelbull/aurelia-hacker-news](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) [![GitHub stars](https://img.shields.io/github/stars/michaelbull/aurelia-hacker-news?style=flat)](https://github.com/michaelbull/aurelia-hacker-news/stargazers) * A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
 * [Built with Aurelia](http://builtwithaurelia.com/) * Showcase of examples created by the Aurelia community.
 
 ##### Aurelia + Electron Examples

@@ -1,5 +1,7 @@
 # ChatOps
 
+> 来源：[exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops)
+
 [![GitHub stars](https://img.shields.io/github/stars/exAspArk/awesome-chatops?style=flat)](https://github.com/exAspArk/awesome-chatops/stargazers)
 
 # Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

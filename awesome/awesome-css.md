@@ -1,5 +1,7 @@
 # CSS
 
+> 来源：[awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css)
+
 [![GitHub stars](https://img.shields.io/github/stars/awesome-css-group/awesome-css?style=flat)](https://github.com/awesome-css-group/awesome-css/stargazers)
 
 [awesome-link]:  https://github.com/sindresorhus/awesome
@@ -226,7 +228,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 * [Point North](http://pointnorth.io/#base-browser-styling)
 * [RSCSS](https://rscss.io/)
-* [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
+* [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname) [![GitHub stars](https://img.shields.io/github/stars/suitcss/suit/blob/master/doc/naming-conventions.md?style=flat)](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md/stargazers)
 * [Title CSS](https://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
 
 <sub>[⇧ back to top](#contents)</sub>

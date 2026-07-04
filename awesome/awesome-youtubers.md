@@ -1,5 +1,7 @@
 # YouTubers
 
+> 来源：[JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
+
 [![GitHub stars](https://img.shields.io/github/stars/JoseDeFreitas/awesome-youtubers?style=flat)](https://github.com/JoseDeFreitas/awesome-youtubers/stargazers)
 
 <!--lint disable double-link-->

@@ -1,5 +1,7 @@
 # Password Cracking
 
+> 来源：[n0kovo/awesome-password-cracking](https://github.com/n0kovo/awesome-password-cracking)
+
 [![GitHub stars](https://img.shields.io/github/stars/n0kovo/awesome-password-cracking?style=flat)](https://github.com/n0kovo/awesome-password-cracking/stargazers)
 
 # Awesome Password Cracking  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

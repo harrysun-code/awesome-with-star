@@ -1,5 +1,7 @@
 # Network Analysis
 
+> 来源：[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
+
 [![GitHub stars](https://img.shields.io/github/stars/briatte/awesome-network-analysis?style=flat)](https://github.com/briatte/awesome-network-analysis/stargazers)
 
 # Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481)
@@ -811,7 +813,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [JGraphT](https://jgrapht.org/) - Java graph library for graph data structures and algorithms ([example algorithms](https://github.com/agouge/Java-Network-Analyzer) [![GitHub stars](https://img.shields.io/github/stars/agouge/Java-Network-Analyzer?style=flat)](https://github.com/agouge/Java-Network-Analyzer/stargazers)).
 -   [JUNG - Java Universal Network/Graph Framework](https://jung.sourceforge.net/) - Extensible library to represent network objects.
 -   [PGF/TikZ](http://www.ctan.org/tex-archive/graphics/pgf/) - [Tandem](https://en.wikipedia.org/wiki/PGF/TikZ) of vector graphics languages that can be used to draw graphs in the [LaTeX](https://latex-project.org/) typesetting environment.
-    -   [Awesome LaTeX: TiKZ](https://github.com/egeerardyn/awesome-LaTeX#tikz).
+    -   [Awesome LaTeX: TiKZ](https://github.com/egeerardyn/awesome-LaTeX#tikz) [![GitHub stars](https://img.shields.io/github/stars/egeerardyn/awesome-LaTeX?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/stargazers).
     -   [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex)
     -   [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/graphs/).
     -   [TikZ & PGF Manual](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/graphics/pgf/base/doc/pgfmanual.pdf).

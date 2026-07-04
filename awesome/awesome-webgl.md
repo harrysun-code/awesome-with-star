@@ -1,5 +1,7 @@
 # WebGL
 
+> 来源：[sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl)
+
 [![GitHub stars](https://img.shields.io/github/stars/sjfricke/awesome-webgl?style=flat)](https://github.com/sjfricke/awesome-webgl/stargazers)
 
 # Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -81,7 +83,7 @@ Processing Unit (GPU).
 > Reporting bugs helps everyone in long run
 
 * [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) - Chrome related bugs
-* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) [![GitHub stars](https://img.shields.io/github/stars/KhronosGroup/WebGL/issues?style=flat)](https://github.com/KhronosGroup/WebGL/issues/stargazers) - Spec or Conformance related bugs
+* [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
 * [Mozilla BugZilla](https://bugzilla.mozilla.org) - Firefox related bugs
 * [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com&attachurl=&blocked=&bug_file_loc=http%3A%2F%2F&bug_severity=Normal&bug_status=NEW&comment=&component=WebGL&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&dependson=&description=&flag_type-1=X&flag_type-3=X&form_name=enter_bug&keywords=&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Mac%20OS%20X%2010.5&priority=P2&product=WebKit&rep_platform=PC&short_desc=&version=528%2B%20%28Nightly%20build%29) - Safari related bugs
 

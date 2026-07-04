@@ -1,5 +1,7 @@
 # Math
 
+> 来源：[rossant/awesome-math](https://github.com/rossant/awesome-math)
+
 [![GitHub stars](https://img.shields.io/github/stars/rossant/awesome-math?style=flat)](https://github.com/rossant/awesome-math/stargazers)
 
 # Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -176,7 +178,7 @@ All resources are freely available except those with a 💲 icon.
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+* [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics) [![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md?style=flat)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md/stargazers)
 * [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 * [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
 * [Grokking Statistics](https://www.manning.com/books/grokking-statistics)

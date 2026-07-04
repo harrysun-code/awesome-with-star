@@ -1,5 +1,7 @@
 # Design and Development Guides
 
+> 来源：[NARKOZ/guides](https://github.com/NARKOZ/guides)
+
 [![GitHub stars](https://img.shields.io/github/stars/NARKOZ/guides?style=flat)](https://github.com/NARKOZ/guides/stargazers)
 
 # Guides
@@ -67,13 +69,13 @@ coding style guides and development practices across the web.
 ### CSS
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-+ [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme)
++ [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme) [![GitHub stars](https://img.shields.io/github/stars/necolas/idiomatic-css?style=flat)](https://github.com/necolas/idiomatic-css/stargazers)
 + [HTML and CSS code guide](https://codeguide.co/)
-+ [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
++ [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme) [![GitHub stars](https://img.shields.io/github/stars/csswizardry/CSS-Guidelines?style=flat)](https://github.com/csswizardry/CSS-Guidelines/stargazers)
 
 ### Sass
 
-+ [Principles of writing idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass#readme)
++ [Principles of writing idiomatic Sass](https://github.com/anthonyshort/idiomatic-sass#readme) [![GitHub stars](https://img.shields.io/github/stars/anthonyshort/idiomatic-sass?style=flat)](https://github.com/anthonyshort/idiomatic-sass/stargazers)
 + [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 + [Sass Guidelines](https://sass-guidelin.es/)
 
@@ -82,7 +84,7 @@ coding style guides and development practices across the web.
 ### HTML
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-+ [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
++ [HTML and CSS code guide](https://github.com/mdo/code-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/mdo/code-guide?style=flat)](https://github.com/mdo/code-guide/stargazers)
 
 ### XML
 
@@ -97,7 +99,7 @@ coding style guides and development practices across the web.
 ### C++
 
 + [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-+ [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
++ [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme) [![GitHub stars](https://img.shields.io/github/stars/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md?style=flat)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md/stargazers)
 
 ### C&#35;
 
@@ -106,15 +108,15 @@ coding style guides and development practices across the web.
 
 ### Clojure
 
-+ [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme)
++ [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/bbatsov/clojure-style-guide?style=flat)](https://github.com/bbatsov/clojure-style-guide/stargazers)
 
 ### CoffeeScript
 
-+ [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme)
++ [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/polarmobile/coffeescript-style-guide?style=flat)](https://github.com/polarmobile/coffeescript-style-guide/stargazers)
 
 ### Elixir
 
-+ [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme)
++ [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide#readme) [![GitHub stars](https://img.shields.io/github/stars/christopheradams/elixir_style_guide?style=flat)](https://github.com/christopheradams/elixir_style_guide/stargazers)
 
 ### Go
 
@@ -128,12 +130,12 @@ coding style guides and development practices across the web.
 
 + [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 + [UPDATED] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-+ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme)
-+ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
++ [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme) [![GitHub stars](https://img.shields.io/github/stars/rwaldron/idiomatic.js?style=flat)](https://github.com/rwaldron/idiomatic.js/stargazers)
++ [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme) [![GitHub stars](https://img.shields.io/github/stars/airbnb/javascript?style=flat)](https://github.com/airbnb/javascript/stargazers)
 + [JavaScript: The Right Way](http://jstherightway.org/)
-+ [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
-+ [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme)
-+ [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme)
++ [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme) [![GitHub stars](https://img.shields.io/github/stars/elierotenberg/coding-styles/blob/master/es6.md?style=flat)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md/stargazers)
++ [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme) [![GitHub stars](https://img.shields.io/github/stars/hueitan/javascript-sdk-design?style=flat)](https://github.com/hueitan/javascript-sdk-design/stargazers)
++ [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme) [![GitHub stars](https://img.shields.io/github/stars/elsewhencode/project-guidelines?style=flat)](https://github.com/elsewhencode/project-guidelines/stargazers)
 
 ### Java
 
@@ -142,8 +144,8 @@ coding style guides and development practices across the web.
 ### Objective-C
 
 + [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
-+ [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme)
-+ [The official raywenderlich.com Objective-C style guide](https://github.com/kodecocodes/objective-c-style-guide#readme)
++ [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/NYTimes/objective-c-style-guide?style=flat)](https://github.com/NYTimes/objective-c-style-guide/stargazers)
++ [The official raywenderlich.com Objective-C style guide](https://github.com/kodecocodes/objective-c-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/kodecocodes/objective-c-style-guide?style=flat)](https://github.com/kodecocodes/objective-c-style-guide/stargazers)
 
 ### PHP
 
@@ -161,12 +163,12 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-+ [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme)
++ [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/rubocop/ruby-style-guide?style=flat)](https://github.com/rubocop/ruby-style-guide/stargazers)
 + [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-+ [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
++ [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide) [![GitHub stars](https://img.shields.io/github/stars/rust-lang/rust/tree/HEAD/src/doc/style-guide/src?style=flat)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src/stargazers)
 
 ### Scala
 
@@ -184,7 +186,7 @@ coding style guides and development practices across the web.
 
 ### Swift
 
-+ [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#readme)
++ [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/kodecocodes/swift-style-guide?style=flat)](https://github.com/kodecocodes/swift-style-guide/stargazers)
 
 ### Vimscript
 
@@ -194,18 +196,18 @@ coding style guides and development practices across the web.
 
 ### AngularJS
 
-+ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme)
++ [AngularJS Style Guide](https://github.com/johnpapa/angular-styleguide#readme) [![GitHub stars](https://img.shields.io/github/stars/johnpapa/angular-styleguide?style=flat)](https://github.com/johnpapa/angular-styleguide/stargazers)
 + [An AngularJS Style Guide for Closure Users at Google](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ### RSpec
 
 + [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
-+ [RSpec Style Guide](https://github.com/rubocop/rspec-style-guide#readme)
++ [RSpec Style Guide](https://github.com/rubocop/rspec-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/rubocop/rspec-style-guide?style=flat)](https://github.com/rubocop/rspec-style-guide/stargazers)
 + [Even Better Specs | Guidelines for Maintainable Tests](https://evenbetterspecs.github.io/)
 
 ### Rails
 
-+ [Rails Style Guide](https://github.com/rubocop/rails-style-guide#readme)
++ [Rails Style Guide](https://github.com/rubocop/rails-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/rubocop/rails-style-guide?style=flat)](https://github.com/rubocop/rails-style-guide/stargazers)
 
 ### Vue
 
@@ -215,10 +217,10 @@ coding style guides and development practices across the web.
 
 ### API
 
-+ [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
++ [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme) [![GitHub stars](https://img.shields.io/github/stars/interagent/http-api-design?style=flat)](https://github.com/interagent/http-api-design/stargazers)
 + [Principles of good RESTful API
   Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
-+ [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
++ [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) [![GitHub stars](https://img.shields.io/github/stars/Microsoft/api-guidelines/blob/vNext/Guidelines.md?style=flat)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md/stargazers)
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 + [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
@@ -237,7 +239,7 @@ coding style guides and development practices across the web.
 
 ### Favicon
 
-+ [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
++ [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme) [![GitHub stars](https://img.shields.io/github/stars/audreyfeldroy/favicon-cheat-sheet?style=flat)](https://github.com/audreyfeldroy/favicon-cheat-sheet/stargazers)
 
 ### iOS
 
@@ -245,8 +247,8 @@ coding style guides and development practices across the web.
 
 ### Git
 
-+ [Git Style Guide](https://github.com/agis/git-style-guide#readme)
-+ [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme)
++ [Git Style Guide](https://github.com/agis/git-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/agis/git-style-guide?style=flat)](https://github.com/agis/git-style-guide/stargazers)
++ [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/RomuloOliveira/commit-messages-guide?style=flat)](https://github.com/RomuloOliveira/commit-messages-guide/stargazers)
 
 ### JSON
 
@@ -258,8 +260,8 @@ coding style guides and development practices across the web.
 
 ### Node.js
 
-+ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
-+ [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)
++ [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme) [![GitHub stars](https://img.shields.io/github/stars/felixge/node-style-guide?style=flat)](https://github.com/felixge/node-style-guide/stargazers)
++ [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme) [![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=flat)](https://github.com/goldbergyoni/nodebestpractices/stargazers)
 
 ### Security
 

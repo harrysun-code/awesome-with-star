@@ -1,5 +1,7 @@
 # Scientific Computing
 
+> 来源：[nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
+
 [![GitHub stars](https://img.shields.io/github/stars/nschloe/awesome-scientific-computing?style=flat)](https://github.com/nschloe/awesome-scientific-computing/stargazers)
 
 # Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

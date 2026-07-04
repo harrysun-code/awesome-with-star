@@ -1,5 +1,7 @@
 # Play1 Framework
 
+> 来源：[PerfectCarl/awesome-play1](https://github.com/PerfectCarl/awesome-play1)
+
 [![GitHub stars](https://img.shields.io/github/stars/PerfectCarl/awesome-play1?style=flat)](https://github.com/PerfectCarl/awesome-play1/stargazers)
 
 # Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -38,7 +40,7 @@ The modules are divided in the following categories :
  * [Translation](#translation) 
  * [Misc](#misc) 
 
-If you want to contribute information about a module, please refer to the [guide](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md#module).
+If you want to contribute information about a module, please refer to the [guide](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md#module) [![GitHub stars](https://img.shields.io/github/stars/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md?style=flat)](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md/stargazers).
 
 ### Database 
 

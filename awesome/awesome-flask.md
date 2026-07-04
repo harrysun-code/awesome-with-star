@@ -1,5 +1,7 @@
 # Flask
 
+> 来源：[mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask)
+
 [![GitHub stars](https://img.shields.io/github/stars/mjhea0/awesome-flask?style=flat)](https://github.com/mjhea0/awesome-flask/stargazers)
 
 # Awesome Flask [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
@@ -131,7 +133,7 @@
 - [Flask-Migrate](https://flask-migrate.readthedocs.io) - Handles SQLAlchemy database migrations via Alembic.
 
 <!--lint ignore double-link-->
-> Curious about the differences between Alembic, Flask-Alembic, Flask-Migrate, and Flask-DB? Review [this item](https://github.com/nickjj/flask-db#differences-between-alembic-flask-migrate-flask-alembic-and-flask-db) from Flask-DB's FAQ.
+> Curious about the differences between Alembic, Flask-Alembic, Flask-Migrate, and Flask-DB? Review [this item](https://github.com/nickjj/flask-db#differences-between-alembic-flask-migrate-flask-alembic-and-flask-db) [![GitHub stars](https://img.shields.io/github/stars/nickjj/flask-db?style=flat)](https://github.com/nickjj/flask-db/stargazers) from Flask-DB's FAQ.
 
 #### Other Tools
 

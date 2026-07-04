@@ -1,5 +1,7 @@
 # Terraform
 
+> 来源：[shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
+
 [![GitHub stars](https://img.shields.io/github/stars/shuaibiyy/awesome-terraform?style=flat)](https://github.com/shuaibiyy/awesome-terraform/stargazers)
 
 # Awesome Terraform [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
@@ -69,7 +71,7 @@ Terraform enables you to safely and predictably create, change, and improve prod
 - [weekly.tf - Terraform Weekly Newsletter](https://www.weekly.tf/) - Weekly newsletter covering Terraform news, open-source projects, announcements, and discussions.
 - [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf) [![GitHub stars](https://img.shields.io/github/stars/antonbabenko/terraform-docs-as-pdf?style=flat)](https://github.com/antonbabenko/terraform-docs-as-pdf/stargazers) :skull:
 - [Terraform AWS Modules](https://github.com/terraform-aws-modules) [![GitHub stars](https://img.shields.io/github/stars/terraform-aws-modules?style=flat)](https://github.com/terraform-aws-modules/stargazers) + [meta-configurations repository](https://github.com/terraform-aws-modules/meta) [![GitHub stars](https://img.shields.io/github/stars/terraform-aws-modules/meta?style=flat)](https://github.com/terraform-aws-modules/meta/stargazers)
-- [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues) [![GitHub stars](https://img.shields.io/github/stars/hashicorp/terraform/issues?style=flat)](https://github.com/hashicorp/terraform/issues/stargazers)
+- [Terraform Bug Tracker](https://github.com/hashicorp/terraform/issues)
 - [Terraform Cheatsheet](https://vivid-badger-c30.notion.site/Terraform-Cheatsheet-352d7b505fb980618d5de73aa086d1d4)
 - [Terraform Community Modules](https://github.com/terraform-community-modules) [![GitHub stars](https://img.shields.io/github/stars/terraform-community-modules?style=flat)](https://github.com/terraform-community-modules/stargazers)
 - [Terraform Twitter Community](https://twitter.com/i/communities/1501688565884928007) <!-- markdown-link-check-disable-line -->

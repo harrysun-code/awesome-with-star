@@ -1,5 +1,7 @@
 # Jupyter
 
+> 来源：[markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
+
 [![GitHub stars](https://img.shields.io/github/stars/markusschanta/awesome-jupyter?style=flat)](https://github.com/markusschanta/awesome-jupyter/stargazers)
 
 # Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![HitCount](https://hits.dwyl.com/markusschanta/awesome-jupyter.svg?style=flat)](http://hits.dwyl.com/markusschanta/awesome-jupyter)

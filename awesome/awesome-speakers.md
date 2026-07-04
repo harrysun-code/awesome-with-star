@@ -1,5 +1,7 @@
 # Speakers
 
+> 来源：[karlhorky/awesome-speakers](https://github.com/karlhorky/awesome-speakers)
+
 [![GitHub stars](https://img.shields.io/github/stars/karlhorky/awesome-speakers?style=flat)](https://github.com/karlhorky/awesome-speakers/stargazers)
 
 # Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

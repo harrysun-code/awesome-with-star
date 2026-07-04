@@ -1,5 +1,7 @@
 # Read the Docs
 
+> 来源：[readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs)
+
 [![GitHub stars](https://img.shields.io/github/stars/readthedocs-examples/awesome-read-the-docs?style=flat)](https://github.com/readthedocs-examples/awesome-read-the-docs/stargazers)
 
 <!--lint ignore awesome-git-repo-age-->

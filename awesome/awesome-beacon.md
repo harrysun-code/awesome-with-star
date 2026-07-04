@@ -1,5 +1,7 @@
 # Bluetooth Beacons
 
+> 来源：[rabschi/awesome-beacon](https://github.com/rabschi/awesome-beacon)
+
 [![GitHub stars](https://img.shields.io/github/stars/rabschi/awesome-beacon?style=flat)](https://github.com/rabschi/awesome-beacon/stargazers)
 
 # Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -138,7 +140,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Beacon Development
 
 * [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) Support OS-level scan filter & peripheral mode.
-* [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) [![GitHub stars](https://img.shields.io/github/stars/inthepocket/ibeacon-scanner-android?style=flat)](https://github.com/inthepocket/ibeacon-scanner-android/stargazers), [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) [![GitHub stars](https://img.shields.io/github/stars/inthepocket/ibeacon-scanner-android/wiki?style=flat)](https://github.com/inthepocket/ibeacon-scanner-android/wiki/stargazers) & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
+* [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) [![GitHub stars](https://img.shields.io/github/stars/inthepocket/ibeacon-scanner-android?style=flat)](https://github.com/inthepocket/ibeacon-scanner-android/stargazers), [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
 * [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) [![GitHub stars](https://img.shields.io/github/stars/AltBeacon/android-beacon-library?style=flat)](https://github.com/AltBeacon/android-beacon-library/stargazers) Use a custom beacon parser for iBeacon device compatibility.
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) [![GitHub stars](https://img.shields.io/github/stars/m039/beacon-keeper?style=flat)](https://github.com/m039/beacon-keeper/stargazers) The simple library for locating iBeacons in background
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)

@@ -1,5 +1,7 @@
 # Fuse
 
+> 来源：[fuse-compound/awesome-fuse](https://github.com/fuse-compound/awesome-fuse)
+
 [![GitHub stars](https://img.shields.io/github/stars/fuse-compound/awesome-fuse?style=flat)](https://github.com/fuse-compound/awesome-fuse/stargazers)
 
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)

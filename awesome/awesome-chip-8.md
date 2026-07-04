@@ -1,5 +1,7 @@
 # CHIP-8
 
+> 来源：[tobiasvl/awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8)
+
 [![GitHub stars](https://img.shields.io/github/stars/tobiasvl/awesome-chip-8?style=flat)](https://github.com/tobiasvl/awesome-chip-8/stargazers)
 
 # Awesome CHIP-8 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)

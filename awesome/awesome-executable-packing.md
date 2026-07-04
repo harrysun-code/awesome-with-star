@@ -1,5 +1,7 @@
 # Executable Packing
 
+> 来源：[dhondta/awesome-executable-packing](https://github.com/dhondta/awesome-executable-packing)
+
 [![GitHub stars](https://img.shields.io/github/stars/dhondta/awesome-executable-packing?style=flat)](https://github.com/dhondta/awesome-executable-packing/stargazers)
 
 # Awesome Executable Packing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://x.com/intent/tweet?text=Awesome%20Executable%20Packing%20-%20A%20curated%20list%20of%20resources%20related%20to%20the%20packing%20of%20various%20executable%20formats%20and%20its%20detection.%0D%0Ahttps%3a%2f%2fgithub%2ecom%2fdhondta%2fawesome-executable-packing%0D%0A&hashtags=awesomelists,malware,malwareresearch,executablepacking,cybersecurity,infosec"><img id="top" src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a>
@@ -515,7 +517,7 @@
 
 - [Alienyze](https://alienyze.com) - Advanced software protection and security for Windows 32-bit executables.
 - [Alternate EXE Packer](https://www.alternate-tools.com/pages/c_exepacker.php) - Compression tool for executable files (type EXE) or DLL's relying on UPX 3.96.
-- [Amber](https://github.com/EgeBalci/amber/releases) [![GitHub stars](https://img.shields.io/github/stars/EgeBalci/amber/releases?style=flat)](https://github.com/EgeBalci/amber/releases/stargazers) - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
+- [Amber](https://github.com/EgeBalci/amber/releases) - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
 - [Andromeda](https://blog.morphisec.com/andromeda-tactics-analyzed) - Custom packer used in malware campaigns using RunPE techniques for evading AV mitigation methods.
 - [APKProtect](https://sourceforge.net/projects/apkprotect) - APK encryption and shell protection supporting Java and C++.
 - [Armadillo](https://web.archive.org/web/20030324043555/https://www.exetools.com/files/protectors/win/armd252b2.zip) - Incorporates both a license manager and wrapper system for protecting PE files.
@@ -742,7 +744,7 @@
 - [Defacto2 Analyzers Archive](https://defacto2.net/f/aa2e6ec) - Collection of 60 binary files analysers for MS-DOS and Windows32 from the 1990s and the 2000s.
 - [Defacto2 Packers Archive](https://defacto2.net/f/a520164) - Collection of 460 binary and data file packers for MS-DOS and Windows32 from the 1990s and 2000s.
 - [Defacto2 Unpackers Archive](https://defacto2.net/f/a218ab4) - Collection of 152 binary files unpackers for MS-DOS and Windows 32 from the 1990s and 2000s.
-- [DIE](https://github.com/horsicq/DIE-engine/releases) [![GitHub stars](https://img.shields.io/github/stars/horsicq/DIE-engine/releases?style=flat)](https://github.com/horsicq/DIE-engine/releases/stargazers) - Detect It Easy ; Program for determining types of files.
+- [DIE](https://github.com/horsicq/DIE-engine/releases) - Detect It Easy ; Program for determining types of files.
 - [DSFF](https://github.com/packing-box/python-dsff) [![GitHub stars](https://img.shields.io/github/stars/packing-box/python-dsff?style=flat)](https://github.com/packing-box/python-dsff/stargazers) - DataSet File Format for exchanging datasets and converting to ARFF (for use with Weka), CSV or Packing-Box's dataset structure.
 - [DynamoRIO](https://dynamorio.org) - Runtime code manipulation system that supports code transformations on any part of a program, while it executes.
 - [Emulator](https://techdocs.broadcom.com/us/en/symantec-security-software/endpoint-security-and-management/endpoint-protection/all/Using-policies-to-manage-security/preventing-and-handling-virus-and-spyware-attacks-v40739565-d49e172/how-does-the-emulator-in-symantec-endpoint-protect-v121004909-d47e230.html) - Symantec Endpoint Protector (from v14) capability to create a virtual machine on the fly to identify, detonate, and eliminate malware hiding inside custom malware packers.

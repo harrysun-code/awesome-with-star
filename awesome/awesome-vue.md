@@ -1,5 +1,7 @@
 # Vue.js
 
+> 来源：[vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+
 [![GitHub stars](https://img.shields.io/github/stars/vuejs/awesome-vue?style=flat)](https://github.com/vuejs/awesome-vue/stargazers)
 
 Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0a3d78fca341a9739a42bf6cd95d/contents/README.md] <p align="center">
@@ -160,10 +162,10 @@ Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0
 - [Documentation](https://vuejs.org/)
 - [API Reference](https://vuejs.org/api/)
 - [GitHub Repo](https://github.com/vuejs/) [![GitHub stars](https://img.shields.io/github/stars/vuejs/?style=flat)](https://github.com/vuejs//stargazers)
-- [Release Notes](https://github.com/vuejs/core/releases) [![GitHub stars](https://img.shields.io/github/stars/vuejs/core/releases?style=flat)](https://github.com/vuejs/core/releases/stargazers)
+- [Release Notes](https://github.com/vuejs/core/releases)
 - [Style Guide](https://vuejs.org/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
-- [IDE Language Support](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
+- [IDE Language Support](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools) [![GitHub stars](https://img.shields.io/github/stars/vuejs/language-tools?tab=readme-ov-file?style=flat)](https://github.com/vuejs/language-tools?tab=readme-ov-file/stargazers)
 - [Awesome Vite](https://github.com/vitejs/awesome-vite) [![GitHub stars](https://img.shields.io/github/stars/vitejs/awesome-vite?style=flat)](https://github.com/vitejs/awesome-vite/stargazers)
 
 ### Truly awesome projects
@@ -516,7 +518,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Paper-Dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) [![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/vue-paper-dashboard?style=flat)](https://github.com/creativetimofficial/vue-paper-dashboard/stargazers) -Creative Tim Paper Dashboard made for Vue
 - [CoreUI Vue Admin Template](https://github.com/coreui/coreui-free-vue-admin-template) [![GitHub stars](https://img.shields.io/github/stars/coreui/coreui-free-vue-admin-template?style=flat)](https://github.com/coreui/coreui-free-vue-admin-template/stargazers) - Open Source Admin Template powered by Vue.js
 - [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) [![GitHub stars](https://img.shields.io/github/stars/mubaidr/vuejs-extension-pack?style=flat)](https://github.com/mubaidr/vuejs-extension-pack/stargazers) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
-- [Wiki.js](https://github.com/Requarks/wiki) [![GitHub stars](https://img.shields.io/github/stars/Requarks/wiki?style=flat)](https://github.com/Requarks/wiki/stargazers) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+- [Wiki.js](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 - [peregrine-cms](https://github.com/headwirecom/peregrine-cms) [![GitHub stars](https://img.shields.io/github/stars/headwirecom/peregrine-cms?style=flat)](https://github.com/headwirecom/peregrine-cms/stargazers) - A Vue.js and Apache Sling based head-optional CMS
 - [Light Bootstrap Dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) [![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/vue-light-bootstrap-dashboard?style=flat)](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard/stargazers) - Creative Tim Light Bootstrap Dashboard made for Vue
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) [![GitHub stars](https://img.shields.io/github/stars/DivanteLtd/vue-storefront?style=flat)](https://github.com/DivanteLtd/vue-storefront/stargazers) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
@@ -577,6 +579,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 - [JARVIS](https://github.com/hyhmrright/JARVIS) [![GitHub stars](https://img.shields.io/github/stars/hyhmrright/JARVIS?style=flat)](https://github.com/hyhmrright/JARVIS/stargazers) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 - [Simple IoT](https://github.com/dingdaoyi/simple-iot) [![GitHub stars](https://img.shields.io/github/stars/dingdaoyi/simple-iot?style=flat)](https://github.com/dingdaoyi/simple-iot/stargazers) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
+- [MarkerOn](https://github.com/ifer47/markeron) [![GitHub stars](https://img.shields.io/github/stars/ifer47/markeron?style=flat)](https://github.com/ifer47/markeron/stargazers) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+
 ### Commercial Products
 
 - [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -749,6 +753,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
 - [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
+- [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 
 ### Interactive Experiences
 
@@ -1117,6 +1122,7 @@ _Display non-editable events in a Calendar_
 
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed) [![GitHub stars](https://img.shields.io/github/stars/hrynko/vue-pdf-embed?style=flat)](https://github.com/hrynko/vue-pdf-embed/stargazers) - PDF embed component for Vue 2 and Vue 3
 - [@tato30/vue-pdf](https://github.com/TaTo30/VuePDF) [![GitHub stars](https://img.shields.io/github/stars/TaTo30/VuePDF?style=flat)](https://github.com/TaTo30/VuePDF/stargazers) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+- [@jasy/vue](https://github.com/jasy-pdf/jasy/tree/main/packages/vue) [![GitHub stars](https://img.shields.io/github/stars/jasy-pdf/jasy/tree/main/packages/vue?style=flat)](https://github.com/jasy-pdf/jasy/tree/main/packages/vue/stargazers) - Author PDFs as Vue 3 components and render them straight in the browser, no headless browser required. Real layout, pagination and tables, with XRechnung and ZUGFeRD e-invoicing out of the box (Nuxt module available).
 
 #### Tree
 
@@ -1170,6 +1176,7 @@ _Display non-editable events in a Calendar_
 - [vue-awesome-button](https://github.com/rcaferati/vue-awesome-button) [![GitHub stars](https://img.shields.io/github/stars/rcaferati/vue-awesome-button?style=flat)](https://github.com/rcaferati/vue-awesome-button/stargazers) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 - [vuehex](https://github.com/vvollers/vuehex) [![GitHub stars](https://img.shields.io/github/stars/vvollers/vuehex?style=flat)](https://github.com/vvollers/vuehex/stargazers) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
 - [vue3-icon-picker](https://github.com/noeGnh/vue3-icon-picker) [![GitHub stars](https://img.shields.io/github/stars/noeGnh/vue3-icon-picker?style=flat)](https://github.com/noeGnh/vue3-icon-picker/stargazers) Icon picker component for Vue 3.
+- [custom-highlight](https://github.com/roydukkey/custom-highlight) [![GitHub stars](https://img.shields.io/github/stars/roydukkey/custom-highlight?style=flat)](https://github.com/roydukkey/custom-highlight/stargazers) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
 
 #### Tabs
 
@@ -1466,6 +1473,7 @@ _Retrieve data over HTTP_
 - [swrv](https://github.com/Kong/swrv) [![GitHub stars](https://img.shields.io/github/stars/Kong/swrv?style=flat)](https://github.com/Kong/swrv/stargazers) - Stale-while-revalidate data fetching for Vue.
 - [vue-vroom](https://github.com/frederikbache/vue-vroom) [![GitHub stars](https://img.shields.io/github/stars/frederikbache/vue-vroom?style=flat)](https://github.com/frederikbache/vue-vroom/stargazers) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 - [tanstack-query](https://github.com/tanstack/query) [![GitHub stars](https://img.shields.io/github/stars/tanstack/query?style=flat)](https://github.com/tanstack/query/stargazers) - Powerful asynchronous state management.
+- [@stitchapi/vue](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) [![GitHub stars](https://img.shields.io/github/stars/rejifald/StitchAPI/tree/main/packages/vue?style=flat)](https://github.com/rejifald/StitchAPI/tree/main/packages/vue/stargazers) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
 
 #### i18n
 
@@ -1650,6 +1658,7 @@ _Text editor plugins_
 
 _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator_
 
+- [ILUMINATY](https://github.com/LuynoxRD/ILUMINATY) [![GitHub stars](https://img.shields.io/github/stars/LuynoxRD/ILUMINATY?style=flat)](https://github.com/LuynoxRD/ILUMINATY/stargazers) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 - [Vite](https://github.com/vitejs/vite) [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite?style=flat)](https://github.com/vitejs/vite/stargazers) - Next generation frontend tooling. It's fast!
 - [Create Vue](https://github.com/vuejs/create-vue) [![GitHub stars](https://img.shields.io/github/stars/vuejs/create-vue?style=flat)](https://github.com/vuejs/create-vue/stargazers)
 - [vuesion](https://github.com/vuesion/vuesion) [![GitHub stars](https://img.shields.io/github/stars/vuesion/vuesion?style=flat)](https://github.com/vuesion/vuesion/stargazers) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.

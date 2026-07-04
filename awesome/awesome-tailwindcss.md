@@ -1,5 +1,7 @@
 # Tailwind CSS
 
+> 来源：[aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)
+
 [![GitHub stars](https://img.shields.io/github/stars/aniftyco/awesome-tailwindcss?style=flat)](https://github.com/aniftyco/awesome-tailwindcss/stargazers)
 
 <!--lint disable awesome-heading awesome-github double-link no-dead-urls-->

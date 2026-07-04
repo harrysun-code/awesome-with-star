@@ -1,5 +1,7 @@
 # H2O
 
+> 来源：[h2oai/awesome-h2o](https://github.com/h2oai/awesome-h2o)
+
 [![GitHub stars](https://img.shields.io/github/stars/h2oai/awesome-h2o?style=flat)](https://github.com/h2oai/awesome-h2o/stargazers)
 
 # Awesome H2O [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Powered by H2O.ai](https://img.shields.io/badge/powered%20by-h2oai-yellow.svg)](https://github.com/h2oai/)

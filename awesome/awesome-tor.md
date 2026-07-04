@@ -1,5 +1,7 @@
 # Tor
 
+> 来源：[polycarbohydrate/awesome-tor](https://github.com/polycarbohydrate/awesome-tor)
+
 [![GitHub stars](https://img.shields.io/github/stars/polycarbohydrate/awesome-tor?style=flat)](https://github.com/polycarbohydrate/awesome-tor/stargazers)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -155,7 +157,7 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 ## Public reception, Impact, News, and Legislation
 - [A close look at the Great Firewall of China](https://blog.torproject.org/closer-look-great-firewall-china/) - Some information about the censorship of Tor within China.
 - [Analyzing China's Blocking of Unpublished Tor Bridges](https://www.usenix.org/conference/foci18/presentation/dunna) - Study on how China blocks unlisted Tor bridges and how to prevent this.
-- [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) [![GitHub stars](https://img.shields.io/github/stars/AnarchoTechNYC/meta/wiki?style=flat)](https://github.com/AnarchoTechNYC/meta/wiki/stargazers) - Wiki that explains how to stay private and anonymous online.
+- [Anarcho-Tech NYC Wiki](https://github.com/AnarchoTechNYC/meta/wiki) - Wiki that explains how to stay private and anonymous online.
 - [Anonymity Bibliography](https://www.freehaven.net/anonbib/) - Selected papers in anonymity from 1977 - 2020.
 - [Dropping Docs on Darknet](https://www.youtube.com/watch?v=eQ2OZKitRwc) - DEF CON 22 - Adrian Crenshaw- Dropping Docs on Darknets: How People Got Caught.
 - [How governments have tried to block Tor](https://www.youtube.com/watch?v=DX46Qv_b7F4) - How governments have tried to block Tor by 28c3.

@@ -1,5 +1,7 @@
 # Conversational AI
 
+> 来源：[jyguyomarch/awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai)
+
 [![GitHub stars](https://img.shields.io/github/stars/jyguyomarch/awesome-conversational-ai?style=flat)](https://github.com/jyguyomarch/awesome-conversational-ai/stargazers)
 
 # Awesome Conversational AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

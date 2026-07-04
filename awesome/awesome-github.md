@@ -1,5 +1,7 @@
 # GitHub
 
+> 来源：[phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github)
+
 [![GitHub stars](https://img.shields.io/github/stars/phillipadsmith/awesome-github?style=flat)](https://github.com/phillipadsmith/awesome-github/stargazers)
 
 # Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)

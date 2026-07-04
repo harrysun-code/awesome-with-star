@@ -1,5 +1,7 @@
 # OCaml
 
+> 来源：[ocaml-community/awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml)
+
 [![GitHub stars](https://img.shields.io/github/stars/ocaml-community/awesome-ocaml?style=flat)](https://github.com/ocaml-community/awesome-ocaml/stargazers)
 
 Awesome OCaml
@@ -465,7 +467,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
-  - [Diskuv OCaml](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
+  - [Diskuv OCaml](https://github.com/diskuv/dkml-installer-ocaml#readme) [![GitHub stars](https://img.shields.io/github/stars/diskuv/dkml-installer-ocaml?style=flat)](https://github.com/diskuv/dkml-installer-ocaml/stargazers) - Diskuv OCaml distribution for Windows.
   - [makorel](https://github.com/sagotch/makorel) [![GitHub stars](https://img.shields.io/github/stars/sagotch/makorel?style=flat)](https://github.com/sagotch/makorel/stargazers) – Release OPAM packages easily.
   - [esy](https://github.com/esy/esy) [![GitHub stars](https://img.shields.io/github/stars/esy/esy?style=flat)](https://github.com/esy/esy/stargazers) - package.json workflow for native development with Reason/OCaml.
 
@@ -501,20 +503,20 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 
 ## Printers helpers
 
-- Reason's native [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything)
-- [**Dum**](https://github.com/mjambon/dum#readme)
-- [**Inspect**](https://github.com/krohrer/caml-inspect#readme)
-- [**ppx_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage)’s `[@@deriving show]`.
-- [**refl** ](https://github.com/thierry-martinez/refl#basic-usage), a ppx_deriving-like.
-- [**lrt** ](https://github.com/LexiFi/lrt#getting-started), another ppx_deriving-like.
-- [**tpf** ](https://github.com/pqwy/tpf#readme), again a ppx_deriving-like.
+- Reason's native [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything) [![GitHub stars](https://img.shields.io/github/stars/reasonml/reason-native/tree/master/src/console?style=flat)](https://github.com/reasonml/reason-native/tree/master/src/console/stargazers)
+- [**Dum**](https://github.com/mjambon/dum#readme) [![GitHub stars](https://img.shields.io/github/stars/mjambon/dum?style=flat)](https://github.com/mjambon/dum/stargazers)
+- [**Inspect**](https://github.com/krohrer/caml-inspect#readme) [![GitHub stars](https://img.shields.io/github/stars/krohrer/caml-inspect?style=flat)](https://github.com/krohrer/caml-inspect/stargazers)
+- [**ppx_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage) [![GitHub stars](https://img.shields.io/github/stars/ocaml-ppx/ppx_deriving?style=flat)](https://github.com/ocaml-ppx/ppx_deriving/stargazers)’s `[@@deriving show]`.
+- [**refl** ](https://github.com/thierry-martinez/refl#basic-usage) [![GitHub stars](https://img.shields.io/github/stars/thierry-martinez/refl?style=flat)](https://github.com/thierry-martinez/refl/stargazers), a ppx_deriving-like.
+- [**lrt** ](https://github.com/LexiFi/lrt#getting-started) [![GitHub stars](https://img.shields.io/github/stars/LexiFi/lrt?style=flat)](https://github.com/LexiFi/lrt/stargazers), another ppx_deriving-like.
+- [**tpf** ](https://github.com/pqwy/tpf#readme) [![GitHub stars](https://img.shields.io/github/stars/pqwy/tpf?style=flat)](https://github.com/pqwy/tpf/stargazers), again a ppx_deriving-like.
 - [**typerep** ](https://github.com/janestreet/typerep) [![GitHub stars](https://img.shields.io/github/stars/janestreet/typerep?style=flat)](https://github.com/janestreet/typerep/stargazers), probably a ppx_deriving-like with ppx_typerep_conv.
 - [**repr**](https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json), which appears to have the user build the type representation manually from combinators in addition to also having the user pass it where needed.
 - [**data-encoding**](https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding), also fully manual.
-- [**cmon** ](https://github.com/let-def/cmon#documentation), fully manual.
+- [**cmon** ](https://github.com/let-def/cmon#documentation) [![GitHub stars](https://img.shields.io/github/stars/let-def/cmon?style=flat)](https://github.com/let-def/cmon/stargazers), fully manual.
 - [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) [![GitHub stars](https://img.shields.io/github/stars/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli?style=flat)](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli/stargazers) in Dune. It appears to also be fully manual.
-- [**Genprint** ](https://github.com/progman1/genprintlib#readme)
-- [**OCaml@p** ](https://github.com/tsubame-sp/ocaml_at_p#readme)
+- [**Genprint** ](https://github.com/progman1/genprintlib#readme) [![GitHub stars](https://img.shields.io/github/stars/progman1/genprintlib?style=flat)](https://github.com/progman1/genprintlib/stargazers)
+- [**OCaml@p** ](https://github.com/tsubame-sp/ocaml_at_p#readme) [![GitHub stars](https://img.shields.io/github/stars/tsubame-sp/ocaml_at_p?style=flat)](https://github.com/tsubame-sp/ocaml_at_p/stargazers)
 
 
 ## Project Starter Templates

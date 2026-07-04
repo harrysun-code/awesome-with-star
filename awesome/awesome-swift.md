@@ -1,5 +1,7 @@
 # Swift
 
+> 来源：[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)
+
 [![GitHub stars](https://img.shields.io/github/stars/matteocrippa/awesome-swift?style=flat)](https://github.com/matteocrippa/awesome-swift/stargazers)
 
 # Awesome Swift
@@ -490,7 +492,7 @@ In parternship with:
 * [Hue](https://github.com/zenangst/Hue) [![GitHub stars](https://img.shields.io/github/stars/zenangst/Hue?style=flat)](https://github.com/zenangst/Hue/stargazers) - Hue is the all-in-one coloring utility that you'll ever need.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) [![GitHub stars](https://img.shields.io/github/stars/jdhealy/PrettyColors?style=flat)](https://github.com/jdhealy/PrettyColors/stargazers) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 * [SheetyColors](https://github.com/chrs1885/SheetyColors) [![GitHub stars](https://img.shields.io/github/stars/chrs1885/SheetyColors?style=flat)](https://github.com/chrs1885/SheetyColors/stargazers) - An action sheet styled color picker for iOS.
-* [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - A tool to auto-generate `enums` for your `UIColor` constants.
+* [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) [![GitHub stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen?style=flat)](https://github.com/SwiftGen/SwiftGen/stargazers) - A tool to auto-generate `enums` for your `UIColor` constants.
 * [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) [![GitHub stars](https://img.shields.io/github/stars/thii/SwiftHEXColors?style=flat)](https://github.com/thii/SwiftHEXColors/stargazers) - HEX color handling as an extension for UIColor.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) [![GitHub stars](https://img.shields.io/github/stars/yeahdongcn/UIColor-Hex-Swift?style=flat)](https://github.com/yeahdongcn/UIColor-Hex-Swift/stargazers) - Hex to UIColor converter.
 * [UIGradient](https://github.com/dqhieu/UIGradient) [![GitHub stars](https://img.shields.io/github/stars/dqhieu/UIGradient?style=flat)](https://github.com/dqhieu/UIGradient/stargazers) - A simple and powerful library for using gradient layer, image, color.
@@ -911,7 +913,7 @@ In parternship with:
 * [Sharaku](https://github.com/makomori/Sharaku) [![GitHub stars](https://img.shields.io/github/stars/makomori/Sharaku?style=flat)](https://github.com/makomori/Sharaku/stargazers) - Image filtering UI library like Instagram.
 * [Snowflake](https://github.com/onmyway133/Snowflake) [![GitHub stars](https://img.shields.io/github/stars/onmyway133/Snowflake?style=flat)](https://github.com/onmyway133/Snowflake/stargazers) - Work with SVG.
 * [SwiftDraw](https://github.com/swhitty/SwiftDraw) [![GitHub stars](https://img.shields.io/github/stars/swhitty/SwiftDraw?style=flat)](https://github.com/swhitty/SwiftDraw/stargazers) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
-* [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
+* [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) [![GitHub stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen?style=flat)](https://github.com/SwiftGen/SwiftGen/stargazers) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) [![GitHub stars](https://img.shields.io/github/stars/mchoe/SwiftSVG?style=flat)](https://github.com/mchoe/SwiftSVG/stargazers) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 * [SwiftWebImage](https://github.com/HotWordland/SwiftWebImage) [![GitHub stars](https://img.shields.io/github/stars/HotWordland/SwiftWebImage?style=flat)](https://github.com/HotWordland/SwiftWebImage/stargazers) - 🚀SwiftUI Image downloader with performant LRU mem/disk cache.
 * [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) [![GitHub stars](https://img.shields.io/github/stars/alexiscreuzot/SwiftyGif?style=flat)](https://github.com/alexiscreuzot/SwiftyGif/stargazers) - High performance GIF engine.
@@ -993,7 +995,7 @@ In parternship with:
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) [![GitHub stars](https://img.shields.io/github/stars/marmelroy/Localize-Swift?style=flat)](https://github.com/marmelroy/Localize-Swift/stargazers) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Locheck](https://github.com/Asana/locheck) [![GitHub stars](https://img.shields.io/github/stars/Asana/locheck?style=flat)](https://github.com/Asana/locheck/stargazers) - Validate .strings and .stringsdict files for errors
 * [StringSwitch](https://stringswitch.com) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
-* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) [![GitHub stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen?style=flat)](https://github.com/SwiftGen/SwiftGen/stargazers) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
 * [Translatio](https://github.com/andrealufino/Translatio) [![GitHub stars](https://img.shields.io/github/stars/andrealufino/Translatio?style=flat)](https://github.com/andrealufino/Translatio/stargazers) - Super lightweight library that helps you to localize strings, even directly in storyboards.
 
 ### Location
@@ -1759,7 +1761,7 @@ In parternship with:
 * [SwiftBoost](https://github.com/sparrowcode/SwiftBoost) [![GitHub stars](https://img.shields.io/github/stars/sparrowcode/SwiftBoost?style=flat)](https://github.com/sparrowcode/SwiftBoost/stargazers) - Collection of Swift-extensions to boost development process.
 * [Swiftbot](https://github.com/noppefoxwolf/Swiftbot) [![GitHub stars](https://img.shields.io/github/stars/noppefoxwolf/Swiftbot?style=flat)](https://github.com/noppefoxwolf/Swiftbot/stargazers) - run swift code on slack.
 * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) [![GitHub stars](https://img.shields.io/github/stars/SwifterSwift/SwifterSwift?style=flat)](https://github.com/SwifterSwift/SwifterSwift/stargazers) - A handy collection of more than 500 native extensions to boost your productivity.
-* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) - A tool to auto-generate `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
+* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) [![GitHub stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen?style=flat)](https://github.com/SwiftGen/SwiftGen/stargazers) - A tool to auto-generate `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) [![GitHub stars](https://img.shields.io/github/stars/LeonardoCardoso/SwiftLinkPreview?style=flat)](https://github.com/LeonardoCardoso/SwiftLinkPreview/stargazers) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML) [![GitHub stars](https://img.shields.io/github/stars/MarcoEidinger/SwiftPlantUML?style=flat)](https://github.com/MarcoEidinger/SwiftPlantUML/stargazers) - A command-line tool and Swift Package to generate UML class from your Swift source code. Also available as Xcode Source Editor Extension.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) [![GitHub stars](https://img.shields.io/github/stars/thellimist/SwiftRandom?style=flat)](https://github.com/thellimist/SwiftRandom/stargazers) - A tiny generator of random data.

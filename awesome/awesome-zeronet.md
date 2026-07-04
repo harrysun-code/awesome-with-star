@@ -1,5 +1,7 @@
 # ZeroNet
 
+> 来源：[zolagonano/awesome-zeronet](https://github.com/zolagonano/awesome-zeronet)
+
 [![GitHub stars](https://img.shields.io/github/stars/zolagonano/awesome-zeronet?style=flat)](https://github.com/zolagonano/awesome-zeronet/stargazers)
 
 <p align="center">

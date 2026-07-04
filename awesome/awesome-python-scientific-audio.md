@@ -1,5 +1,7 @@
 # Scientific Audio
 
+> 来源：[faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio)
+
 [![GitHub stars](https://img.shields.io/github/stars/faroit/awesome-python-scientific-audio?style=flat)](https://github.com/faroit/awesome-python-scientific-audio/stargazers)
 
 # Python for Scientific Audio

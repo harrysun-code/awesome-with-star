@@ -1,5 +1,7 @@
 # Serverless Framework
 
+> 来源：[pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless)
+
 [![GitHub stars](https://img.shields.io/github/stars/pmuens/awesome-serverless?style=flat)](https://github.com/pmuens/awesome-serverless/stargazers)
 
 # Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

@@ -1,5 +1,7 @@
 # Promises
 
+> 来源：[wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises)
+
 [![GitHub stars](https://img.shields.io/github/stars/wbinnssmith/awesome-promises?style=flat)](https://github.com/wbinnssmith/awesome-promises/stargazers)
 
 <a href="https://promisesaplus.com/">

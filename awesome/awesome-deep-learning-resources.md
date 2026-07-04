@@ -1,5 +1,7 @@
 # Education
 
+> 来源：[guillaume-chevalier/awesome-deep-learning-resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
+
 [![GitHub stars](https://img.shields.io/github/stars/guillaume-chevalier/awesome-deep-learning-resources?style=flat)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/stargazers)
 
 # [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![GitHub stars](https://img.shields.io/github/stars/guillaume-chevalier/Awesome-Deep-Learning-Resources?style=flat)](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources/stargazers) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

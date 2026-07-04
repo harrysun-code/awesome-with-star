@@ -1,5 +1,7 @@
 # Open Source Supporters
 
+> 来源：[zachflower/awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters)
+
 [![GitHub stars](https://img.shields.io/github/stars/zachflower/awesome-open-source-supporters?style=flat)](https://github.com/zachflower/awesome-open-source-supporters/stargazers)
 
 # Awesome Open Source Supporters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)

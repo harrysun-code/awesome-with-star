@@ -1,5 +1,7 @@
 # OpenTofu
 
+> 来源：[virtualroot/awesome-opentofu](https://github.com/virtualroot/awesome-opentofu)
+
 [![GitHub stars](https://img.shields.io/github/stars/virtualroot/awesome-opentofu?style=flat)](https://github.com/virtualroot/awesome-opentofu/stargazers)
 
 # Awesome OpenTofu [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
@@ -32,7 +34,7 @@
 - [OpenTofu repository](https://github.com/opentofu/opentofu) [![GitHub stars](https://img.shields.io/github/stars/opentofu/opentofu?style=flat)](https://github.com/opentofu/opentofu/stargazers) 🎉
 - [Fork announcement](https://opentofu.org/announcement)
 - [Registry](https://github.com/opentofu/registry) [![GitHub stars](https://img.shields.io/github/stars/opentofu/registry?style=flat)](https://github.com/opentofu/registry/stargazers)
-- [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
+- [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server) [![GitHub stars](https://img.shields.io/github/stars/opentofu/opentofu-mcp-server?style=flat)](https://github.com/opentofu/opentofu-mcp-server/stargazers)
 - [Weekly updates](https://github.com/opentofu/opentofu/discussions/categories/weekly-updates) [![GitHub stars](https://img.shields.io/github/stars/opentofu/opentofu/discussions/categories/weekly-updates?style=flat)](https://github.com/opentofu/opentofu/discussions/categories/weekly-updates/stargazers)
 - [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
 - [Technical Steering Committee updates](https://github.com/opentofu/org/tree/main/TSC) [![GitHub stars](https://img.shields.io/github/stars/opentofu/org/tree/main/TSC?style=flat)](https://github.com/opentofu/org/tree/main/TSC/stargazers)
@@ -41,7 +43,7 @@
 
 *Communication channels, meetups, newsletters, and forums.*
 
-- [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions) [![GitHub stars](https://img.shields.io/github/stars/orgs/opentofu/discussions?style=flat)](https://github.com/orgs/opentofu/discussions/stargazers)
+- [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
 - [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
 - [OpenTofu Slack](https://opentofu.org/slack)
 - [OpenTofu Twitter](https://twitter.com/opentofuorg)

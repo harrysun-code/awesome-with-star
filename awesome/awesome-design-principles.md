@@ -1,5 +1,7 @@
 # Design Principles
 
+> 来源：[robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles)
+
 [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles?style=flat)](https://github.com/robinstickel/awesome-design-principles/stargazers)
 
 # Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,13 +10,13 @@ A curated list of good design and experience principles.
 
 > Design Principles are a tool for creating better and more consistent designs and experiences. They are high level rules that guide detailed design decisions. They are often written down within bigger style guides, pattern libraries or design systems.
 
-Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles/pulls?style=flat)](https://github.com/robinstickel/awesome-design-principles/pulls/stargazers), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles/issues/new?style=flat)](https://github.com/robinstickel/awesome-design-principles/issues/new/stargazers). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles/issues/new?style=flat)](https://github.com/robinstickel/awesome-design-principles/issues/new/stargazers). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ### Contents
-- [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
-- [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
-- [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources)
-- [Credits and Notes](https://github.com/robinstickel/awesome-design-principles#credits-and-notes)
+- [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles?style=flat)](https://github.com/robinstickel/awesome-design-principles/stargazers)
+- [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles?style=flat)](https://github.com/robinstickel/awesome-design-principles/stargazers)
+- [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles?style=flat)](https://github.com/robinstickel/awesome-design-principles/stargazers)
+- [Credits and Notes](https://github.com/robinstickel/awesome-design-principles#credits-and-notes) [![GitHub stars](https://img.shields.io/github/stars/robinstickel/awesome-design-principles?style=flat)](https://github.com/robinstickel/awesome-design-principles/stargazers)
 
 ## Principles within bigger Design Systems
 

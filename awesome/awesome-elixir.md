@@ -1,5 +1,7 @@
 # Elixir
 
+> 来源：[h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir)
+
 [![GitHub stars](https://img.shields.io/github/stars/h4cc/awesome-elixir?style=flat)](https://github.com/h4cc/awesome-elixir/stargazers)
 
 # Awesome Elixir [![CI Badge](https://github.com/h4cc/awesome-elixir/actions/workflows/ci.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/h4cc/awesome-elixir/actions/workflows/ci.yml/badge.svg?style=flat)](https://github.com/h4cc/awesome-elixir/actions/workflows/ci.yml/badge.svg/stargazers)](https://github.com/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -887,7 +889,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [floki](https://github.com/philss/floki) [![GitHub stars](https://img.shields.io/github/stars/philss/floki?style=flat)](https://github.com/philss/floki/stargazers) - A simple HTML parser that enables searching using CSS like selectors.
 * [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) [![GitHub stars](https://img.shields.io/github/stars/rrrene/html_sanitize_ex?style=flat)](https://github.com/rrrene/html_sanitize_ex/stargazers) - HTML sanitizer for Elixir.
-* [meseeks](https://github.com/mischov/meeseeks#html) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+* [meseeks](https://github.com/mischov/meeseeks#html) [![GitHub stars](https://img.shields.io/github/stars/mischov/meeseeks?style=flat)](https://github.com/mischov/meeseeks/stargazers) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [modest_ex](https://github.com/f34nk/modest_ex) [![GitHub stars](https://img.shields.io/github/stars/f34nk/modest_ex?style=flat)](https://github.com/f34nk/modest_ex/stargazers) - A library to do pipeable transformations on html strings with CSS selectors, e.g. find(), prepend(), append(), replace() etc.
 * [myhtmlex](https://github.com/Overbryd/myhtmlex) [![GitHub stars](https://img.shields.io/github/stars/Overbryd/myhtmlex?style=flat)](https://github.com/Overbryd/myhtmlex/stargazers) - Elixir/Erlang bindings for lexborisov's myhtml.
 * [readability](https://github.com/keepcosmos/readability) [![GitHub stars](https://img.shields.io/github/stars/keepcosmos/readability?style=flat)](https://github.com/keepcosmos/readability/stargazers) - Readability is for extracting and curating articles.
@@ -1827,7 +1829,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exml](https://github.com/expelledboy/exml) [![GitHub stars](https://img.shields.io/github/stars/expelledboy/exml?style=flat)](https://github.com/expelledboy/exml/stargazers) - Most simple Elixir wrapper for xmerl xpath.
 * [exoml](https://github.com/Overbryd/exoml) [![GitHub stars](https://img.shields.io/github/stars/Overbryd/exoml?style=flat)](https://github.com/Overbryd/exoml/stargazers) - A module to decode/encode xml into a tree structure.
 * [fast_xml](https://github.com/processone/fast_xml) [![GitHub stars](https://img.shields.io/github/stars/processone/fast_xml?style=flat)](https://github.com/processone/fast_xml/stargazers) - Fast Expat based Erlang XML parsing library.
-* [meeseeks](https://github.com/mischov/meeseeks#xml) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+* [meeseeks](https://github.com/mischov/meeseeks#xml) [![GitHub stars](https://img.shields.io/github/stars/mischov/meeseeks?style=flat)](https://github.com/mischov/meeseeks/stargazers) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [quinn](https://github.com/nhu313/Quinn) [![GitHub stars](https://img.shields.io/github/stars/nhu313/Quinn?style=flat)](https://github.com/nhu313/Quinn/stargazers) - XML parser for Elixir.
 * [saxy](https://github.com/qcam/saxy) [![GitHub stars](https://img.shields.io/github/stars/qcam/saxy?style=flat)](https://github.com/qcam/saxy/stargazers) - Saxy is an XML parser and encoder in Elixir that focuses on speed and standard compliance.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) [![GitHub stars](https://img.shields.io/github/stars/awetzel/sweet_xml?style=flat)](https://github.com/awetzel/sweet_xml/stargazers) - Query XML simply and effectively.
@@ -1926,7 +1928,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [ElixirWeekly](https://elixirweekly.net) - The Elixir community newsletter, covering stuff you easily miss, shared on [ElixirStatus](http://elixirstatus.com) and the web.
 
 ## Other Awesome Lists
-*Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists) or [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness).*
+*Other amazingly awesome lists can be found at [jnv/lists](https://github.com/jnv/lists#lists-of-lists) [![GitHub stars](https://img.shields.io/github/stars/jnv/lists?style=flat)](https://github.com/jnv/lists/stargazers) or [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness) [![GitHub stars](https://img.shields.io/github/stars/bayandin/awesome-awesomeness?style=flat)](https://github.com/bayandin/awesome-awesomeness/stargazers).*
 
 * [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs) [![GitHub stars](https://img.shields.io/github/stars/slashdotdash/awesome-elixir-cqrs?style=flat)](https://github.com/slashdotdash/awesome-elixir-cqrs/stargazers) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
 * [Awesome Elixir by LibHunt](https://elixir.libhunt.com) - A curated list of awesome Elixir and Erlang packages and resources.
@@ -1991,7 +1993,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.
 * [Elixir Flashcards](https://elixircards.co.uk/) - Flashcards are a powerful way to improve your knowledge. Elixircards are hand crafted, professionally printed flashcards for levelling up your Elixir.
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) [![GitHub stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat)](https://github.com/elixir-lang/elixir/stargazers) - The project repository.
-* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) [![GitHub stars](https://img.shields.io/github/stars/elixir-lang/elixir/wiki?style=flat)](https://github.com/elixir-lang/elixir/wiki/stargazers) - The project's wiki, containing much useful information.
+* [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.
 * [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - A list of Elixir Online Courses (some are free) from Classpert Online Course Search.
 * [Elixir Quiz](http://elixirquiz.github.io/) - Weekly programming problems to help you learn Elixir.
 * [Elixir Recipes](http://elixir-recipes.github.io/) - Collection of patterns & solutions to common problems in Elixir.

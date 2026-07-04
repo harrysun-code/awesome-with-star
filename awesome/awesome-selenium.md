@@ -1,5 +1,7 @@
 # Selenium
 
+> 来源：[christian-bromann/awesome-selenium](https://github.com/christian-bromann/awesome-selenium)
+
 [![GitHub stars](https://img.shields.io/github/stars/christian-bromann/awesome-selenium?style=flat)](https://github.com/christian-bromann/awesome-selenium/stargazers)
 
 # Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test Awesome List](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/christian-bromann/awesome-selenium/actions/workflows/test.yaml/badge.svg?style=flat)](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml/badge.svg/stargazers)](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml)

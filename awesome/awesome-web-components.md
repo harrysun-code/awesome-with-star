@@ -1,5 +1,7 @@
 # Web Components
 
+> 来源：[web-padawan/awesome-web-components](https://github.com/web-padawan/awesome-web-components)
+
 [![GitHub stars](https://img.shields.io/github/stars/web-padawan/awesome-web-components?style=flat)](https://github.com/web-padawan/awesome-web-components/stargazers)
 
 # Awesome Web Components [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -163,7 +165,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 - [Custom Element Best Practices](https://web.dev/custom-elements-best-practices/)
 - [Developing Components: Publishing](https://open-wc.org/guides/developing-components/publishing/)
-- [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki) [![GitHub stars](https://img.shields.io/github/stars/webcomponents/gold-standard/wiki?style=flat)](https://github.com/webcomponents/gold-standard/wiki/stargazers)
+- [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
 - [Open Web Components Recommendations](https://open-wc.org)

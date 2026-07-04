@@ -1,5 +1,7 @@
 # Web Performance Budget
 
+> 来源：[pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget)
+
 [![GitHub stars](https://img.shields.io/github/stars/pajaydev/awesome-web-performance-budget?style=flat)](https://github.com/pajaydev/awesome-web-performance-budget/stargazers)
 
 # Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

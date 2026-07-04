@@ -1,5 +1,7 @@
 # Plone
 
+> 来源：[collective/awesome-plone](https://github.com/collective/awesome-plone)
+
 [![GitHub stars](https://img.shields.io/github/stars/collective/awesome-plone?style=flat)](https://github.com/collective/awesome-plone/stargazers)
 
 # Awesome Plone [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
