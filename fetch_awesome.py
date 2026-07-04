@@ -74,9 +74,11 @@ def get_readme_content(owner, repo, retries=5):
     api_url = f"https://api.github.com/repos/{owner}/{repo}/readme"
 
     # 第一步：优先使用 GitHub API 获取
+    # 用 -D /dev/stderr 把响应头输出到 stderr，body 输出到 stdout
+    # 避免 curl -i 在 HTTP/2 连接中输出多个头块导致解析失败
     for attempt in range(retries):
         try:
-            cmd = ['curl', '-s', '--connect-timeout', '30', '--max-time', '120', '-i']
+            cmd = ['curl', '-s', '--connect-timeout', '30', '--max-time', '120', '-D', '/dev/stderr']
             if token:
                 cmd.extend(['-H', f'Authorization: token {token}'])
             cmd.extend(['-H', 'Accept: application/vnd.github.v3+json'])
@@ -89,22 +91,31 @@ def get_readme_content(owner, repo, retries=5):
                 encoding='utf-8'
             )
 
-            if result.returncode == 0 and result.stdout:
-                # 解析响应，提取 header 和 body
-                response_text = result.stdout
-                header_end = response_text.find('\r\n\r\n')
-                if header_end == -1:
+            if result.returncode == 0:
+                # stderr 是响应头，stdout 是 body
+                header_text = result.stderr
+                body_text = result.stdout
+
+                if not header_text:
+                    if attempt < retries - 1:
+                        print(f"    API 重试 {attempt+1}/{retries}...", flush=True)
+                        time.sleep(2 * (attempt + 1))
                     continue
 
-                header_text = response_text[:header_end]
-                body_text = response_text[header_end + 4:]
-                lines = header_text.split('\r\n')
-                status_line = lines[0]
+                # 解析响应头（可能有多组，取最后一组）
+                # HTTP/2 连接可能有多个头块，取最后一个有效的
+                header_blocks = re.split(r'\r?\n\r?\n', header_text.strip())
                 headers = {}
-                for line in lines[1:]:
-                    if ':' in line:
-                        key, value = line.split(':', 1)
-                        headers[key.strip().lower()] = value.strip()
+                status_line = ''
+                for block in header_blocks:
+                    block_lines = block.strip().split('\n')
+                    if block_lines and block_lines[0].startswith('HTTP/'):
+                        status_line = block_lines[0]
+                        headers = {}
+                        for line in block_lines[1:]:
+                            if ':' in line:
+                                key, value = line.split(':', 1)
+                                headers[key.strip().lower()] = value.strip()
 
                 # 检查 HTTP 状态码
                 http_code = int(status_line.split()[1]) if len(status_line.split()) > 1 else 0
@@ -135,7 +146,7 @@ def get_readme_content(owner, repo, retries=5):
                     return None
 
                 # 正常响应
-                if http_code == 200:
+                if http_code == 200 and body_text:
                     try:
                         data = json.loads(body_text)
                         # 正常获取到 README 内容（base64 编码）
@@ -248,8 +259,15 @@ def process_readme_with_stars(content):
             if 'img.shields.io' in line[match.start():match.end()]:
                 continue
 
-            # Skip sub-links
+            # 处理带 # 的链接，去掉 # 部分获取真实仓库路径
             if '#' in path:
+                path = path.split('#')[0]
+                if not path or '/' not in path:
+                    continue
+
+            # 跳过非仓库路径
+            last_part = path.split('/')[-1]
+            if last_part in ('issues', 'pulls', 'wiki', 'actions', 'releases', 'discussions'):
                 continue
 
             # Create star badge
@@ -258,6 +276,70 @@ def process_readme_with_stars(content):
             # Insert badge after the link
             insert_pos = match.end()
             new_line = new_line[:insert_pos] + " " + badge + new_line[insert_pos:]
+
+        processed_lines.append(new_line)
+
+    return '\n'.join(processed_lines)
+
+def add_source_marker(content, owner, repo):
+    """
+    在 README 内容顶部添加来源标记，指向原始 GitHub 项目。
+    """
+    source_url = f"https://github.com/{owner}/{repo}"
+    marker = f"> 来源：[{owner}/{repo}]({source_url})\n\n"
+    return marker + content
+
+def process_main_readme(content, downloaded_projects):
+    """
+    处理 sindresorhus/awesome 的 README：
+    1. 为所有 GitHub 项目链接添加 star 标
+    2. 将有本地文件的链接改写为指向 awesome 目录下的本地文件
+    downloaded_projects: dict, key = 仓库路径(owner/repo), value = 本地文件名
+    """
+    lines = content.split('\n')
+    processed_lines = []
+    link_pattern = r'\[([^\]]+)\]\(https://github\.com/([^)]+)\)'
+
+    for line in lines:
+        # Skip badge lines
+        if 'img.shields.io' in line:
+            processed_lines.append(line)
+            continue
+
+        new_line = line
+        matches = list(re.finditer(link_pattern, line))
+
+        # Process matches in reverse order to preserve positions
+        for match in reversed(matches):
+            name = match.group(1).strip()
+            path = match.group(2).strip()
+
+            # Skip if already has badge
+            if 'img.shields.io' in line[match.start():match.end()]:
+                continue
+
+            # 处理带 # 的链接，去掉 # 部分获取真实仓库路径
+            clean_path = path.split('#')[0]
+            if not clean_path or '/' not in clean_path:
+                continue
+
+            # 跳过非仓库路径
+            last_part = clean_path.split('/')[-1]
+            if last_part in ('issues', 'pulls', 'wiki', 'actions', 'releases', 'discussions'):
+                continue
+
+            # 创建 star 标
+            badge = f"[![GitHub stars](https://img.shields.io/github/stars/{clean_path}?style=flat)](https://github.com/{clean_path}/stargazers)"
+
+            # 检查是否有本地文件，有则改写链接指向本地文件
+            if clean_path in downloaded_projects:
+                local_file = downloaded_projects[clean_path]
+                new_link = f'[{name}](./awesome/{local_file}) {badge}'
+                new_line = new_line[:match.start()] + new_link + new_line[match.end():]
+            else:
+                # 没有本地文件，只添加 star 标
+                insert_pos = match.end()
+                new_line = new_line[:insert_pos] + " " + badge + new_line[insert_pos:]
 
         processed_lines.append(new_line)
 
@@ -283,28 +365,15 @@ def main():
         print("Failed to fetch sindresorhus/awesome README")
         return
 
-    # Save the original README with star badges
-    print("Processing main README with star badges...")
-    processed_main_readme = process_readme_with_stars(main_readme_content)
-    # Save to awesome directory
-    with open(awesome_dir / 'sindresorhus-awesome-original.md', 'w', encoding='utf-8') as f:
-        f.write(processed_main_readme)
-    # Save to root README.md
-    with open(base_dir / 'README.md', 'w', encoding='utf-8') as f:
-        f.write(processed_main_readme)
-    print("Main README saved to README.md and awesome/sindresorhus-awesome-original.md")
-
     print("Parsing projects from README...")
     projects = parse_awesome_readme(main_readme_content)
     print(f"Found {len(projects)} projects")
 
-    # Get stars for each project and download READMEs
-    all_projects = projects.copy()
-    processed_paths = {p['path'] for p in projects}
-
+    # 第一步：下载所有项目 README，并记录成功下载的项目
     print("Downloading project READMEs...")
     success_count = 0
     fail_count = 0
+    downloaded_projects = {}  # 记录成功下载的项目: {owner/repo: 本地文件名}
 
     for i, project in enumerate(projects):
         print(f"  [{i+1}/{len(projects)}] {project['path']}...", end=' ', flush=True)
@@ -315,22 +384,19 @@ def main():
             safe_name = project['repo']
             readme_path = awesome_dir / f"{safe_name}.md"
             with open(readme_path, 'w', encoding='utf-8') as f:
-                # Add title and star badge at the top
+                # 添加标题
                 f.write(f"# {project['name']}\n\n")
+                # 添加来源标记
+                f.write(add_source_marker('', project['owner'], project['repo']))
+                # 添加 star 标
                 f.write(f"[![GitHub stars](https://img.shields.io/github/stars/{project['path']}?style=flat)](https://github.com/{project['path']}/stargazers)\n\n")
-                # Add star badges to all project links in the README
+                # 为 README 中的所有 GitHub 项目链接添加 star 标
                 processed_content = process_readme_with_stars(readme_content)
                 f.write(processed_content)
 
             print(f"OK", flush=True)
             success_count += 1
-
-            # Extract nested projects
-            nested_projects = process_nested_readme(readme_content, processed_paths)
-            for np in nested_projects:
-                if np['path'] not in processed_paths:
-                    all_projects.append(np)
-                    processed_paths.add(np['path'])
+            downloaded_projects[project['path']] = f"{safe_name}.md"
         else:
             print(f"FAILED", flush=True)
             fail_count += 1
@@ -338,7 +404,19 @@ def main():
         # Rate limiting
         time.sleep(0.5)
 
-    print(f"\nDone! Success: {success_count}, Failed: {fail_count}")
+    print(f"\nDownloaded: {success_count}, Failed: {fail_count}")
+
+    # 第二步：处理主 README（添加 star 标 + 改写链接指向本地文件 + 添加来源标记）
+    print("Processing main README...")
+    processed_main_readme = process_main_readme(main_readme_content, downloaded_projects)
+    processed_main_readme = add_source_marker(processed_main_readme, 'sindresorhus', 'awesome')
+
+    # 保存到 awesome 目录和根目录
+    with open(awesome_dir / 'sindresorhus-awesome-original.md', 'w', encoding='utf-8') as f:
+        f.write(processed_main_readme)
+    with open(base_dir / 'README.md', 'w', encoding='utf-8') as f:
+        f.write(processed_main_readme)
+    print("Main README saved to README.md and awesome/sindresorhus-awesome-original.md")
 
 if __name__ == '__main__':
     main()
