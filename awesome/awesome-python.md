@@ -161,6 +161,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [pydantic-ai](https://github.com/pydantic/pydantic-ai) [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat)](https://github.com/pydantic/pydantic-ai/stargazers) - A Python agent framework for building generative AI applications with structured schemas.
   - [TradingAgents](https://github.com/TauricResearch/TradingAgents) [![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat)](https://github.com/TauricResearch/TradingAgents/stargazers) - A multi-agents LLM financial trading framework.
 - Data Layer
+  - [entroly](https://github.com/juyterman1000/entroly) [![GitHub stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=flat)](https://github.com/juyterman1000/entroly/stargazers) - An auditable context control plane that optimizes prompt context, stabilizes cache prefixes, and verifies answers locally with WITNESS.
   - [instructor](https://github.com/567-labs/instructor) [![GitHub stars](https://img.shields.io/github/stars/567-labs/instructor?style=flat)](https://github.com/567-labs/instructor/stargazers) - A library for extracting structured data from LLMs, powered by Pydantic.
   - [llama-index](https://github.com/run-llama/llama_index) [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat)](https://github.com/run-llama/llama_index/stargazers) - A data framework for your LLM application.
   - [mem0](https://github.com/mem0ai/mem0) [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat)](https://github.com/mem0ai/mem0/stargazers) - An intelligent memory layer for AI agents enabling personalized interactions.
@@ -386,6 +387,7 @@ _Libraries to automate web scraping and extract web content._
 - Frameworks
   - [browser-use](https://github.com/browser-use/browser-use) [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat)](https://github.com/browser-use/browser-use/stargazers) - Make websites accessible for AI agents with easy browser automation.
   - [crawl4ai](https://github.com/unclecode/crawl4ai) [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat)](https://github.com/unclecode/crawl4ai/stargazers) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
+  - [crawlberg](https://github.com/xberg-io/crawlberg) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/crawlberg?style=flat)](https://github.com/xberg-io/crawlberg/stargazers) - A high-performance web crawling engine with a Rust core, headless-browser fallback, and built-in robots.txt and sitemap parsing.
   - [mechanicalsoup](https://github.com/MechanicalSoup/MechanicalSoup) [![GitHub stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup?style=flat)](https://github.com/MechanicalSoup/MechanicalSoup/stargazers) - A Python library for automating interaction with websites.
   - [scrapy](https://github.com/scrapy/scrapy) [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=flat)](https://github.com/scrapy/scrapy/stargazers) - A fast high-level screen scraping and web crawling framework.
 - Content Extraction
@@ -905,6 +907,7 @@ _Libraries for parsing and manipulating plain texts._
 _Libraries for working with HTML and XML._
 
 - [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
+- [html-to-markdown](https://github.com/xberg-io/html-to-markdown) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown?style=flat)](https://github.com/xberg-io/html-to-markdown/stargazers) - A fast, CommonMark-compliant HTML to Markdown converter with a Rust core, tolerant of malformed HTML.
 - [justhtml](https://github.com/EmilStenstrom/justhtml/) [![GitHub stars](https://img.shields.io/github/stars/EmilStenstrom/justhtml/?style=flat)](https://github.com/EmilStenstrom/justhtml//stargazers) - A pure Python HTML5 parser that just works.
 - [lxml](https://github.com/lxml/lxml) [![GitHub stars](https://img.shields.io/github/stars/lxml/lxml?style=flat)](https://github.com/lxml/lxml/stargazers) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 - [markupsafe](https://github.com/pallets/markupsafe) [![GitHub stars](https://img.shields.io/github/stars/pallets/markupsafe?style=flat)](https://github.com/pallets/markupsafe/stargazers) - Implements a XML/HTML/XHTML Markup safe string for Python.

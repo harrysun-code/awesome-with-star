@@ -228,6 +228,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@railwayapp-templates/angular-starter](https://github.com/railwayapp-templates/angular-starter) [![GitHub stars](https://img.shields.io/github/stars/railwayapp-templates/angular-starter?style=flat)](https://github.com/railwayapp-templates/angular-starter/stargazers) - One-click default Angular TS starter, utilizing Caddy to serve!
 * [angular-deploy-bunny](https://github.com/lostium/angular-deploy-bunny) [![GitHub stars](https://img.shields.io/github/stars/lostium/angular-deploy-bunny?style=flat)](https://github.com/lostium/angular-deploy-bunny/stargazers) - Angular Architect builder (`ng deploy`) that syncs your build to a Bunny.net CDN Storage Zone using SHA256 incremental diffing, then purges the corresponding Pull Zone.
 * [ngx-ssh-deploy](https://bitbucket.org/dkhang97/ngx-ssh-deploy/src/master/) - Deploy Angular projects using SSH.
+* [front-ready](https://github.com/czfabrics/front-ready) [![GitHub stars](https://img.shields.io/github/stars/czfabrics/front-ready?style=flat)](https://github.com/czfabrics/front-ready/stargazers) - Detects your Angular build settings, compiles the project, and uploads it to AWS S3 with optimized cache headers using a single command.
 
 ### Desktop Applications
 
@@ -1188,6 +1189,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [CozyDevKit](https://cozydevkit.com/) - Interactive tools, architecture patterns, cheat sheets, and DevOps services for Angular 21.
 * [devkitly](https://www.devkitly.io/) - Production-ready Angular 21 starter kit with auth, billing, audit logging, feature flags, and SSR.
 * [draftNG](https://www.draftng.xyz/) - Minimalist & high-performance Angular 22+ platform templates.
+* [NgStarter](https://ngstarter.com/) - Angular UI Components & Admin Templates.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)
 * [Vortex](https://template.giacomobellazzi.com/) - A high-performance web application template built with Angular and Java, designed to deliver seamless user experiences and powerful backend solutions.
@@ -1299,7 +1301,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-chrts](https://github.com/dennisadriaans/angular-chrts) [![GitHub stars](https://img.shields.io/github/stars/dennisadriaans/angular-chrts?style=flat)](https://github.com/dennisadriaans/angular-chrts/stargazers) - A high-performance, developer-friendly data visualization library for modern Angular applications.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) [![GitHub stars](https://img.shields.io/github/stars/FERNman/angular-google-charts?style=flat)](https://github.com/FERNman/angular-google-charts/stargazers) - A wrapper for the Google Charts library written in Angular.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) [![GitHub stars](https://img.shields.io/github/stars/carbon-design-system/carbon-charts/tree/master/packages/angular?style=flat)](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular/stargazers) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
-* [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
+* [Foblex Flow](https://github.com/Foblex/f-flow) [![GitHub stars](https://img.shields.io/github/stars/Foblex/f-flow?style=flat)](https://github.com/Foblex/f-flow/stargazers) - Angular-native library for node editors, workflow builders and interactive diagrams: drag-and-drop nodes and connections, minimap, auto-layout, virtualization, and a keyboard accessibility layer.
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) [![GitHub stars](https://img.shields.io/github/stars/highcharts/highcharts-angular?style=flat)](https://github.com/highcharts/highcharts-angular/stargazers) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 * [michi-vz-mono](https://github.com/beany-vu/michi-vz-mono) [![GitHub stars](https://img.shields.io/github/stars/beany-vu/michi-vz-mono?style=flat)](https://github.com/beany-vu/michi-vz-mono/stargazers) - One engine powering 17 interactive, accessible chart types with seamless support for Angular and more, all emitting LLM‑ready data for reports, dashboards, and AI features.
 * [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) [![GitHub stars](https://img.shields.io/github/stars/apexcharts/ng-apexcharts?style=flat)](https://github.com/apexcharts/ng-apexcharts/stargazers) - Angular wrapper for ApexCharts to build interactive visualizations.
@@ -1316,6 +1318,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [org-chart](https://github.com/bumbeishvili/org-chart) [![GitHub stars](https://img.shields.io/github/stars/bumbeishvili/org-chart?style=flat)](https://github.com/bumbeishvili/org-chart/stargazers) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
 * [pioneer-charts](https://github.com/PioneerCode/pioneer-charts) [![GitHub stars](https://img.shields.io/github/stars/PioneerCode/pioneer-charts?style=flat)](https://github.com/PioneerCode/pioneer-charts/stargazers) - An Angular library for creating responsive, customizable charts using D3.js—supports bar, line, pie, and more.
 * [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) [![GitHub stars](https://img.shields.io/github/stars/nocode-js/sequential-workflow-designer?style=flat)](https://github.com/nocode-js/sequential-workflow-designer/stargazers) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
+* [schedula-core-angular](https://github.com/RGabGH/schedula-core/tree/main/integrations/packages/angular) [![GitHub stars](https://img.shields.io/github/stars/RGabGH/schedula-core/tree/main/integrations/packages/angular?style=flat)](https://github.com/RGabGH/schedula-core/tree/main/integrations/packages/angular/stargazers) - Official Angular wrapper for [SchedulaCore](https://www.npmjs.com/package/schedula-core) — a fast, lightweight Gantt chart & resource scheduler component.
 * [systelab-charts](https://github.com/systelab/systelab-charts) [![GitHub stars](https://img.shields.io/github/stars/systelab/systelab-charts?style=flat)](https://github.com/systelab/systelab-charts/stargazers) - Systelab Angular Chart services.
 * [unovis](https://github.com/f5/unovis) [![GitHub stars](https://img.shields.io/github/stars/f5/unovis?style=flat)](https://github.com/f5/unovis/stargazers) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 
@@ -1730,6 +1733,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dockview-angular](https://www.npmjs.com/package/dockview-angular) - Zero dependency layout manager supporting tabs, groups, grids, and splitviews.
 * [ngx-compactable-row](https://github.com/MikeVensel/ngx-compactable-row) [![GitHub stars](https://img.shields.io/github/stars/MikeVensel/ngx-compactable-row?style=flat)](https://github.com/MikeVensel/ngx-compactable-row/stargazers) - Provides a responsive button row that moves excess buttons into a menu when space is limited.
 * [ng-cmdk](https://github.com/wadie/ng-cmdk) [![GitHub stars](https://img.shields.io/github/stars/wadie/ng-cmdk?style=flat)](https://github.com/wadie/ng-cmdk/stargazers) - Fast, composable, unstyled command menu for Angular — a port of [cmdk](https://github.com/pacocoursey/cmdk) [![GitHub stars](https://img.shields.io/github/stars/pacocoursey/cmdk?style=flat)](https://github.com/pacocoursey/cmdk/stargazers).
+* [ngx-dock-layout](https://github.com/mickael-pezzoni/ngx-dock-layout) [![GitHub stars](https://img.shields.io/github/stars/mickael-pezzoni/ngx-dock-layout?style=flat)](https://github.com/mickael-pezzoni/ngx-dock-layout/stargazers) - An Angular library for creating IDE-style, resizable panel layouts.
 
 ### Loaders
 
@@ -1877,6 +1881,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@alvaromarinho/libs](https://github.com/alvaromarinho/libs) [![GitHub stars](https://img.shields.io/github/stars/alvaromarinho/libs?style=flat)](https://github.com/alvaromarinho/libs/stargazers) - A collection of Angular libraries for common UI needs, compatible with Angular 14+.
 * [angular-helpers](https://github.com/Gaspar1992/angular-helpers) [![GitHub stars](https://img.shields.io/github/stars/Gaspar1992/angular-helpers?style=flat)](https://github.com/Gaspar1992/angular-helpers/stargazers) - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
 * [ngneat-archive](https://github.com/ngneat-archive) [![GitHub stars](https://img.shields.io/github/stars/ngneat-archive?style=flat)](https://github.com/ngneat-archive/stargazers) - A read-only preservation archive of the [ngneat](https://github.com/ngneat) [![GitHub stars](https://img.shields.io/github/stars/ngneat?style=flat)](https://github.com/ngneat/stargazers) repositories.
+* [Indice.Angular](https://github.com/indice-co/Indice.Angular) [![GitHub stars](https://img.shields.io/github/stars/indice-co/Indice.Angular?style=flat)](https://github.com/indice-co/Indice.Angular/stargazers) - A collection of Angular libraries providing authentication, configuration, and reusable components for Angular v20+ applications.
 
 ### Modals
 
@@ -2044,6 +2049,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-webstore](https://github.com/saurabh-vaish/ngx-webstore) [![GitHub stars](https://img.shields.io/github/stars/saurabh-vaish/ngx-webstore?style=flat)](https://github.com/saurabh-vaish/ngx-webstore/stargazers) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
 * [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) [![GitHub stars](https://img.shields.io/github/stars/maximilian27/moltendb-web?style=flat)](https://github.com/maximilian27/moltendb-web/stargazers) - Rust/WebAssembly local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
 * [ngx-secure-storage](https://github.com/MadeByRaymond/ngx-secure-storage) [![GitHub stars](https://img.shields.io/github/stars/MadeByRaymond/ngx-secure-storage?style=flat)](https://github.com/MadeByRaymond/ngx-secure-storage/stargazers) - SSR-compatible Angular service to securely store, retrieve, and manage encrypted data in localStorage and sessionStorage using AES encryption.
+* [ngx-local-vault](https://github.com/ysndmr/ngx-local-vault) [![GitHub stars](https://img.shields.io/github/stars/ysndmr/ngx-local-vault?style=flat)](https://github.com/ysndmr/ngx-local-vault/stargazers) - A reactive, encrypted browser storage for Angular—built on Signals, under 2KB gzipped, with zero runtime dependencies.
 
 ### Tooltips
 
@@ -2124,6 +2130,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cupertino](https://github.com/gacc94/ngx-cupertino) [![GitHub stars](https://img.shields.io/github/stars/gacc94/ngx-cupertino?style=flat)](https://github.com/gacc94/ngx-cupertino/stargazers) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
 * [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) [![GitHub stars](https://img.shields.io/github/stars/GregNBlack/kanso-protocol?style=flat)](https://github.com/GregNBlack/kanso-protocol/stargazers) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 * [frame-ui](https://github.com/Gamekohl/frame-ui) [![GitHub stars](https://img.shields.io/github/stars/Gamekohl/frame-ui?style=flat)](https://github.com/Gamekohl/frame-ui/stargazers) - A customizable Angular component library built around modern primitives.
+* [coss-ui-angular](https://github.com/lordsarcastic/coss-ui-angular) [![GitHub stars](https://img.shields.io/github/stars/lordsarcastic/coss-ui-angular?style=flat)](https://github.com/lordsarcastic/coss-ui-angular/stargazers) - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
 
 ### UI Libraries built on Bootstrap
 
@@ -2341,6 +2348,7 @@ for the creation of web applications developed with Angular.
 * [Keploy](https://keploy.io/docs/quickstart/openhospital/) - Record test cases and mocks by interacting with the Angular UI, and then test them using Keploy.
 * [alterior](https://github.com/alterior-mvc/alterior) [![GitHub stars](https://img.shields.io/github/stars/alterior-mvc/alterior?style=flat)](https://github.com/alterior-mvc/alterior/stargazers) - Isomorphic TypeScript framework for building modular services with seamless Angular integration.
 * [23blocks SDK](https://github.com/23blocks-OS/frontend-sdk) [![GitHub stars](https://img.shields.io/github/stars/23blocks-OS/frontend-sdk?style=flat)](https://github.com/23blocks-OS/frontend-sdk/stargazers) - Build full-stack apps 10x faster with modular backend blocks.
+* [ngx-unity](https://github.com/jjmhalew/ngx-unity) [![GitHub stars](https://img.shields.io/github/stars/jjmhalew/ngx-unity?style=flat)](https://github.com/jjmhalew/ngx-unity/stargazers) - A type-safe bridge for bidirectional communication between Unity WebGL/WebGPU and Angular.
 
 ### Wrappers
 
@@ -2417,6 +2425,7 @@ for the creation of web applications developed with Angular.
 * [sio](https://github.com/silicia-apps/sio) [![GitHub stars](https://img.shields.io/github/stars/silicia-apps/sio?style=flat)](https://github.com/silicia-apps/sio/stargazers) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [UnReact.js](https://github.com/arnvjshi/unreactpjs) [![GitHub stars](https://img.shields.io/github/stars/arnvjshi/unreactpjs?style=flat)](https://github.com/arnvjshi/unreactpjs/stargazers) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) [![GitHub stars](https://img.shields.io/github/stars/kaokei/use-vue-service?style=flat)](https://github.com/kaokei/use-vue-service/stargazers) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
+* [weave](https://github.com/weave-framework/weave) [![GitHub stars](https://img.shields.io/github/stars/weave-framework/weave?style=flat)](https://github.com/weave-framework/weave/stargazers) - A fine-grained reactive, signal-native UI framework.
 
 ## External Lists
 

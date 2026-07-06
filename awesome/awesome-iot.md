@@ -176,7 +176,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
  - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) [![GitHub stars](https://img.shields.io/github/stars/chaos-genius/chaos_genius?style=flat)](https://github.com/chaos-genius/chaos_genius/stargazers) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.  
  - [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
  - [ThingsOn MQTT Bench](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) [![GitHub stars](https://img.shields.io/github/stars/volkanalkilic/ThingsOn.MQTT.Bench?style=flat)](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench/stargazers) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
-
+ - [ReductStore](https://github.com/reductstore/reductstore) [![GitHub stars](https://img.shields.io/github/stars/reductstore/reductstore?style=flat)](https://github.com/reductstore/reductstore/stargazers) - high-performance blob and time-series storage for industrial IoT, with edge deployment, selective replication, and efficient querying of multimodal data. 
 
 #### Miscellaneous
 

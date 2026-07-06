@@ -671,6 +671,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [share](https://github.com/beavailable/share) [![GitHub stars](https://img.shields.io/github/stars/beavailable/share?style=flat)](https://github.com/beavailable/share/stargazers) - Share and receive files effortlessly over HTTP.
 - [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
 - [croc](https://github.com/schollz/croc) [![GitHub stars](https://img.shields.io/github/stars/schollz/croc?style=flat)](https://github.com/schollz/croc/stargazers) - Easily send things from one computer to another.
+- [filecast](https://github.com/gistrec/filecast) [![GitHub stars](https://img.shields.io/github/stars/gistrec/filecast?style=flat)](https://github.com/gistrec/filecast/stargazers) - Fast file transfer to multiple machines on your LAN.
 
 ### Directory Listing
 
@@ -748,6 +749,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-github](https://github.com/IonicaBizau/cli-github) [![GitHub stars](https://img.shields.io/github/stars/IonicaBizau/cli-github?style=flat)](https://github.com/IonicaBizau/cli-github/stargazers) - Fancy GitHub client.
 - [hub](https://github.com/github/hub) [![GitHub stars](https://img.shields.io/github/stars/github/hub?style=flat)](https://github.com/github/hub/stargazers) - Make git easier to use with GitHub.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) [![GitHub stars](https://img.shields.io/github/stars/himynameisdave/git-labelmaker?style=flat)](https://github.com/himynameisdave/git-labelmaker/stargazers) - Edit GitHub labels.
+- [gitfetch](https://github.com/Matars/gitfetch) [![GitHub stars](https://img.shields.io/github/stars/Matars/gitfetch?style=flat)](https://github.com/Matars/gitfetch/stargazers) - Neofetch-style stats of your git forge.
 
 ### Emoji
 
