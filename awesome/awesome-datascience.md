@@ -563,6 +563,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [RStudio](https://www.rstudio.com) | IDE – powerful user interface for R. It’s free and open source, and works on Windows, Mac, and Linux. |
 | [Python - Pandas - Anaconda](https://www.anaconda.com) | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing |
 | [Pandas GUI](https://github.com/adrotog/PandasGUI) [![GitHub stars](https://img.shields.io/github/stars/adrotog/PandasGUI?style=flat)](https://github.com/adrotog/PandasGUI/stargazers) | Pandas GUI |
+| [NuriStat](https://github.com/baramgay/stat) [![GitHub stars](https://img.shields.io/github/stars/baramgay/stat?style=flat)](https://github.com/baramgay/stat/stargazers) | Free open-source SPSS alternative — menu-driven desktop statistics (t-tests, ANOVA, regression, survival analysis, ROC) with SPSS .sav import/export |
 | [Polars](https://github.com/pola-rs/polars) [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=flat)](https://github.com/pola-rs/polars/stargazers) | Fast DataFrame library for Rust and Python, designed as a faster alternative to Pandas |
 | [CiteMe](https://citeme.app) | AI-powered academic citation generator. Searches 11+ scholarly databases (OpenAlex, PubMed, Semantic Scholar, CrossRef, SciELO) and formats references in 40+ citation styles. Available as web app, browser extension, Google Docs add-on, and public API. |
 | [Scikit-Learn](https://scikit-learn.org/stable/) | Machine Learning in Python |
@@ -1145,6 +1146,7 @@ Some data mining competition platforms
 
 - [Academic Torrents](https://academictorrents.com/)
 - [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
+- [Chinese Tea Dataset](https://chinatea.house/dataset/) - Curated open dataset of 100+ Chinese teas with category, origin, caffeine level, flavor notes, oxidation, and brewing parameters. Available as JSON and CSV.
 - [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) [![GitHub stars](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat)](https://github.com/noahaust2/ai-displacement-tracker/stargazers) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 - [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public packaging product dataset generated from 1,000 exact-spec SKU records, with downloadable CSV and JSON files for ecommerce fulfillment and warehouse analysis.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -1164,6 +1166,7 @@ Some data mining competition platforms
 - [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 - [Crime Brasil](https://crimebrasil.com.br) - Open-data platform for Brazilian crime statistics. Neighborhood-level in Rio Grande do Sul (2.99M incidents across 79,024 neighborhoods, 2022–2025), municipality-level for MG and RJ, plus national PRF highway and DATASUS interpersonal-violence data. Free REST API, CSV/Parquet, daily updates, CC BY 4.0.
 - [US Truck-Involved Fatal Crashes (FARS) 2018-2024](https://doi.org/10.5281/zenodo.20487070) - Filtered subset of NHTSA Fatality Analysis Reporting System covering 33,898 fatal crashes involving medium and heavy commercial trucks across all 50 US states, 2018-2024. Includes interactive [Vision Zero Report Card](https://accidentlawyerreview.com/research/vision-zero-report-card/) comparing 19 cities, reproducible Python pipeline on [GitHub](https://github.com/MarvinBregiosa/vision-zero-fars) [![GitHub stars](https://img.shields.io/github/stars/MarvinBregiosa/vision-zero-fars?style=flat)](https://github.com/MarvinBregiosa/vision-zero-fars/stargazers), and HuggingFace mirror. Permanent DOI, CC BY 4.0.
+- [State of Peptides 2026](https://peptahub.com/state-of-peptides-2026) - Structured reference dataset of 156 peptide and peptide-adjacent compounds, each with a regulatory status bucket, category, route, half-life, molecular weight, CAS number, reference count, and PubChem/DrugBank/Wikidata IDs. CSV and JSON, no login, CC BY 4.0.
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
@@ -1207,6 +1210,7 @@ Some data mining competition platforms
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
 - [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
 - [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
+- [BDE Score](https://github.com/hbhqq9/bde-score) [![GitHub stars](https://img.shields.io/github/stars/hbhqq9/bde-score?style=flat)](https://github.com/hbhqq9/bde-score/stargazers) - AI-powered multi-market stock analysis with transparent BDE scoring across 73 stocks (US/HK/A-share). EU AI Act Art.50 compliant. MIT license.
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – Find datasets across the web.
 - [notesjor corpus-collection](https://notes.jan-oliver-ruediger.de/korpora/) - Free corpora (over 6 billion tokens) mostly German (both historically and in contemporary German).
 - [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a European repository for scientific datasets.
@@ -1218,6 +1222,7 @@ Some data mining competition platforms
 - [latamdata-py](https://github.com/juanmoisesd/latamdata-py) [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/latamdata-py?style=flat)](https://github.com/juanmoisesd/latamdata-py/stargazers) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 - [ZipCheckup](https://github.com/artakulov/us-water-quality-data) [![GitHub stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data?style=flat)](https://github.com/artakulov/us-water-quality-data/stargazers) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 - [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
+- [Verified Supplement Evidence](https://github.com/erinheit451/verified-supplement-evidence) [![GitHub stars](https://img.shields.io/github/stars/erinheit451/verified-supplement-evidence?style=flat)](https://github.com/erinheit451/verified-supplement-evidence/stargazers) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
 
 ### Comics

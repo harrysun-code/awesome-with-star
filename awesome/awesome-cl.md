@@ -270,6 +270,7 @@ Credit: borretti.me's [State of CL Ecosystem 2015](http://borretti.me/article/co
 ## Expert Systems
 
 * [Lisa](https://github.com/youngde811/Lisa) [![GitHub stars](https://img.shields.io/github/stars/youngde811/Lisa?style=flat)](https://github.com/youngde811/Lisa/stargazers) - a production-quality, forward-chaining expert system shell featuring an optimized implementation of Charles Forgy's Rete algorithm, a highly efficient solution to the difficult many-to-many pattern matching problem. MIT.
+  * [Lisa 4.0.0](https://github.com/youngde811/Lisa/releases/tag/v4.0.0) [![GitHub stars](https://img.shields.io/github/stars/youngde811/Lisa/releases/tag/v4.0.0?style=flat)](https://github.com/youngde811/Lisa/releases/tag/v4.0.0/stargazers): hybrid Symbolic/LLM Support that integrates Anthropic's Claude with Lisa's symbolic reasoning engine.
 * [WouldWork](https://github.com/davypough/wouldwork) [![GitHub stars](https://img.shields.io/github/stars/davypough/wouldwork?style=flat)](https://github.com/davypough/wouldwork/stargazers) - solve classical planning and constraint satisfaction problems without extensive programming experience. BSD_3Clause.
 
 ## Educational
@@ -1022,7 +1023,7 @@ Experimental:
 CLOS extensions
 ---------------
 
-* ⭐ [closer-mop](https://github.com/pcostanza/closer-mop) [![GitHub stars](https://img.shields.io/github/stars/pcostanza/closer-mop?style=flat)](https://github.com/pcostanza/closer-mop/stargazers) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
+* ⭐ [closer-mop](https://codeberg.org/pcostanza/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 * [specialization-store](https://github.com/markcox80/specialization-store/) [![GitHub stars](https://img.shields.io/github/stars/markcox80/specialization-store/?style=flat)](https://github.com/markcox80/specialization-store//stargazers) - generic functions based on types. Simplified BSD License variant.
 * [filtered-functions](https://github.com/pcostanza/filtered-functions) [![GitHub stars](https://img.shields.io/github/stars/pcostanza/filtered-functions?style=flat)](https://github.com/pcostanza/filtered-functions/stargazers) - enable the use of arbitrary predicates for selecting and applying methods. [MIT][200].
 * [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) [![GitHub stars](https://img.shields.io/github/stars/guicho271828/inlined-generic-function?style=flat)](https://github.com/guicho271828/inlined-generic-function/stargazers) -
@@ -2255,6 +2256,8 @@ Caching (serialization)
   - dare we add: used in production by the author's company (ASTN Group, see [awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies/) [![GitHub stars](https://img.shields.io/github/stars/azzamsa/awesome-lisp-companies/?style=flat)](https://github.com/azzamsa/awesome-lisp-companies//stargazers))
 * 🚀 [cl-binary-store](https://github.com/ajberkley/cl-binary-store) [![GitHub stars](https://img.shields.io/github/stars/ajberkley/cl-binary-store?style=flat)](https://github.com/ajberkley/cl-binary-store/stargazers) -  A fast Common Lisp binary serializer/deserializer. BSD_3Clause. See [reddit announce](https://www.reddit.com/r/Common_Lisp/comments/1hz5879/new_binary_serializationdeserialization_library/) (2025).
   * "A super fast and customizable serializer/deserializer of Common Lisp objects to/from a very compact binary format. Equality of objects, circular references, and the full Common Lisp type system are supported. Specialized arrays (on SBCL) are stored/restore at lightning speed."
+- [cl-marshal](https://github.com/wlbr/cl-marshal) [![GitHub stars](https://img.shields.io/github/stars/wlbr/cl-marshal?style=flat)](https://github.com/wlbr/cl-marshal/stargazers) - Simple and fast serialization of all kinds of Common Lisp data structures. MIT.
+  * Only minimal changes required to make your CLOS objects serializable.
 
 See also the [Persistent object databases](#persistent-object-databases) section.
 

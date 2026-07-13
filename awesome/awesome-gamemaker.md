@@ -8,7 +8,7 @@
     <a href="https://gamemaker.io/"><img src="https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/banner.png" /></a>
 </p>
 
-# Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker](https://img.shields.io/badge/Made%20with-GameMaker-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://www.yoyogames.com/gamemaker) [![Links](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml/badge.svg)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml)
+# Awesome GameMaker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Made with GameMaker](https://img.shields.io/badge/Made%20with-GameMaker-000000.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)](https://gamemaker.io) [![Links](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml/badge.svg)](https://github.com/bytecauldron/awesome-gamemaker/actions/workflows/links.yml)
 
 > A curated list of awesome libraries, snippets, guides, and projects for GameMaker. 😎
 
@@ -62,7 +62,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 - If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 - For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-  - [Aseprite's source code](https://github.com/aseprite/aseprite) [![GitHub stars](https://img.shields.io/github/stars/aseprite/aseprite?style=flat)](https://github.com/aseprite/aseprite/stargazers) can be compiled for free.
+- [Aseprite's source code](https://github.com/aseprite/aseprite) [![GitHub stars](https://img.shields.io/github/stars/aseprite/aseprite?style=flat)](https://github.com/aseprite/aseprite/stargazers) - Can be compiled for free.
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -99,6 +99,7 @@ This includes data structures and file formats that do not fit into a more speci
 
 These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
 
+- [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) [![GitHub stars](https://img.shields.io/github/stars/YoYoGames/GM-ExtensionGenerator?style=flat)](https://github.com/YoYoGames/GM-ExtensionGenerator/stargazers) - Official, schema-driven code generator for native extensions.
 - [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
 - [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
 - [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) [![GitHub stars](https://img.shields.io/github/stars/YAL-GameMaker/GMSDLL?style=flat)](https://github.com/YAL-GameMaker/GMSDLL/stargazers) - A template project for building DLLs for GameMaker.
@@ -106,8 +107,8 @@ These work on specific platform(s) and enable the games to do something that wou
 - [gameframe](https://github.com/YAL-GameMaker/gameframe) [![GitHub stars](https://img.shields.io/github/stars/YAL-GameMaker/gameframe?style=flat)](https://github.com/YAL-GameMaker/gameframe/stargazers) - Custom window caption and border for Windows.
 - [GMD3D11](https://github.com/blueburncz/GMD3D11) [![GitHub stars](https://img.shields.io/github/stars/blueburncz/GMD3D11?style=flat)](https://github.com/blueburncz/GMD3D11/stargazers) - A DLL for interfacing with Windows Direct3D.
 - [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) [![GitHub stars](https://img.shields.io/github/stars/SpikeHD/gm-sysinfo?style=flat)](https://github.com/SpikeHD/gm-sysinfo/stargazers) - Cross-platform extension for getting system information and resource usage.
-- [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
-- [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
+- [Video Player Extension](https://forum.gamemaker.io/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
+- [GMESCAPI](https://marketplace.gamemaker.io/assets/9529/gmescapi) - Webcam capture.
 - [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 - [window_shape](https://yellowafterlife.itch.io/gamemaker-window-shape) - Custom-shaped windows on Windows. 💸
 - [Windows' windows](https://yellowafterlife.itch.io/gamemaker-winwin) - Multiple windows on Windows. 💸
@@ -116,7 +117,7 @@ These work on specific platform(s) and enable the games to do something that wou
 - [file_dropper](https://yellowafterlife.itch.io/gamemaker-file-dropper) - Accept drag-and-dropping files onto a game window on Windows.
 - [file_dragger](https://github.com/YAL-GameMaker/file_dragger) [![GitHub stars](https://img.shields.io/github/stars/YAL-GameMaker/file_dragger?style=flat)](https://github.com/YAL-GameMaker/file_dragger/stargazers) - Drag-and-drop files *out* of the game window on Windows.
 - [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) - Dispatch/intercept window controls like Minimize (and other window-related functions).
-- [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) [![GitHub stars](https://img.shields.io/github/stars/Sidorakh/wasm-bridge?style=flat)](https://github.com/Sidorakh/wasm-bridge/stargazers) - A way to use JS extensions in GX/WASM games.
+- [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) [![GitHub stars](https://img.shields.io/github/stars/Sidorakh/wasm-bridge?style=flat)](https://github.com/Sidorakh/wasm-bridge/stargazers) - A way to use JS extensions in GX/WebAssembly games.
 - [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) - A dynamic texture page loading system for HTML5.
 - [GMWinBackdrop](https://topherlicious.itch.io/gmwinbackdrop) - Windows 11 backdrop materials.
 - [GMSDLL.rs](https://github.com/YAL-GameMaker/GMSDLL.rs?) [![GitHub stars](https://img.shields.io/github/stars/YAL-GameMaker/GMSDLL.rs??style=flat)](https://github.com/YAL-GameMaker/GMSDLL.rs?/stargazers) - Example on how to make native DLL extensions in Rust.
@@ -125,15 +126,16 @@ These work on specific platform(s) and enable the games to do something that wou
 
 Custom timers, timelines, and task scheduling.
 
-- [Iota](https://github.com/JujuAdams/iota) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/iota?style=flat)](https://github.com/JujuAdams/iota/stargazers) - Lightweight timestep library.
+- [DoLater](https://github.com/JujuAdams/DoLater) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/DoLater?style=flat)](https://github.com/JujuAdams/DoLater/stargazers) - Deferred code execution improving on the native call_later() function. 
 - [Stopwatch](https://github.com/Lojemiru/Stopwatch) [![GitHub stars](https://img.shields.io/github/stars/Lojemiru/Stopwatch?style=flat)](https://github.com/Lojemiru/Stopwatch/stargazers) - GameMaker alarm replacement.
 - [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
 - [FrogAlarm](https://github.com/colmeye/FrogAlarms) [![GitHub stars](https://img.shields.io/github/stars/colmeye/FrogAlarms?style=flat)](https://github.com/colmeye/FrogAlarms/stargazers) - Another easy alternative to GameMaker alarms.
 - [fuwafuwa](https://github.com/kemonologic/fuwafuwa) [![GitHub stars](https://img.shields.io/github/stars/kemonologic/fuwafuwa?style=flat)](https://github.com/kemonologic/fuwafuwa/stargazers) - Easy-to-use timer system.
-- [Timer](https://github.com/nommiin/Timers) [![GitHub stars](https://img.shields.io/github/stars/nommiin/Timers?style=flat)](https://github.com/nommiin/Timers/stargazers) - Timer methods based on setTimeout and setInterval from JS.
+- [Timer](https://github.com/nommiin/Timers) [![GitHub stars](https://img.shields.io/github/stars/nommiin/Timers?style=flat)](https://github.com/nommiin/Timers/stargazers) - Interval-based timing methods modeled after JS's setTimeout and setInterval.
 - [GMTimeLine](https://github.com/TimVN/GMTimeLine) [![GitHub stars](https://img.shields.io/github/stars/TimVN/GMTimeLine?style=flat)](https://github.com/TimVN/GMTimeLine/stargazers) - A pure code alternative to GameMaker timelines.
 - [Agenda](https://github.com/benal20/Agenda.gml) [![GitHub stars](https://img.shields.io/github/stars/benal20/Agenda.gml?style=flat)](https://github.com/benal20/Agenda.gml/stargazers) - Schedule and delay the execution of callbacks.
 - [GMMT](https://github.com/erkan612/GMMT) [![GitHub stars](https://img.shields.io/github/stars/erkan612/GMMT?style=flat)](https://github.com/erkan612/GMMT/stargazers) - Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.
+- [STAGING](https://github.com/sdelaughter/STAGING) [![GitHub stars](https://img.shields.io/github/stars/sdelaughter/STAGING?style=flat)](https://github.com/sdelaughter/STAGING/stargazers) - Split initialization tasks over multiple frames, including support for asynchronous tasks.
 
 ## Async
 
@@ -174,6 +176,9 @@ Custom timers, timelines, and task scheduling.
 - [Figgy](https://github.com/glebtsereteli/Figgy) [![GitHub stars](https://img.shields.io/github/stars/glebtsereteli/Figgy?style=flat)](https://github.com/glebtsereteli/Figgy/stargazers) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack](https://github.com/FoxyOfJungle/RenderStack) [![GitHub stars](https://img.shields.io/github/stars/FoxyOfJungle/RenderStack?style=flat)](https://github.com/FoxyOfJungle/RenderStack/stargazers) - Organize your game's rendering into a customizable order.
 - [GMLiteSearch](https://github.com/erkan612/GMLiteSearch) [![GitHub stars](https://img.shields.io/github/stars/erkan612/GMLiteSearch?style=flat)](https://github.com/erkan612/GMLiteSearch/stargazers) - Fast, flexible full‑text search for GameMaker. Built for small to medium datasets (10k‑50k+ docs) with real‑time indexing, fuzzy search, n‑grams, BM25/TF‑IDF scoring, and persistence.
+- [Iota](https://github.com/JujuAdams/iota) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/iota?style=flat)](https://github.com/JujuAdams/iota/stargazers) - Lightweight timestep library.
+- [GMVex](https://github.com/erkan612/GMVex) [![GitHub stars](https://img.shields.io/github/stars/erkan612/GMVex?style=flat)](https://github.com/erkan612/GMVex/stargazers) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
+- [RunGML](https://github.com/sdelaughter/RunGML) [![GitHub stars](https://img.shields.io/github/stars/sdelaughter/RunGML?style=flat)](https://github.com/sdelaughter/RunGML/stargazers) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
 
 ## Tools
 
@@ -194,11 +199,8 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Debugging
 
 - [rt-shell](https://github.com/daikon-games/rt-shell) [![GitHub stars](https://img.shields.io/github/stars/daikon-games/rt-shell?style=flat)](https://github.com/daikon-games/rt-shell/stargazers) - Easy to use in-game shell. Create your own commands, command meta data, command suggestions, history, etc.
-- [Olympus](https://github.com/bscotch/olympus#readme) [![GitHub stars](https://img.shields.io/github/stars/bscotch/olympus?style=flat)](https://github.com/bscotch/olympus/stargazers) - Testing Framework.
-- [Crispy](https://github.com/bfrymire/crispy) [![GitHub stars](https://img.shields.io/github/stars/bfrymire/crispy?style=flat)](https://github.com/bfrymire/crispy/stargazers) - Unit testing in GameMaker.
 - [Snitch](https://github.com/JujuAdams/Snitch) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/Snitch?style=flat)](https://github.com/JujuAdams/Snitch/stargazers) - Crash and logging system.
 - [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
-- [gms2-test](https://github.com/pmarincak/gms2-test) [![GitHub stars](https://img.shields.io/github/stars/pmarincak/gms2-test?style=flat)](https://github.com/pmarincak/gms2-test/stargazers) - Unit testing framework.
 - [Meta](https://github.com/nommiin/meta) [![GitHub stars](https://img.shields.io/github/stars/nommiin/meta?style=flat)](https://github.com/nommiin/meta/stargazers) - Runtime asset inspector.
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck](https://github.com/imlazyeye/duck) [![GitHub stars](https://img.shields.io/github/stars/imlazyeye/duck?style=flat)](https://github.com/imlazyeye/duck/stargazers) - A fast GML analyzer to enforce code styling and detect errors.
@@ -207,10 +209,16 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Inspectron](https://github.com/shdwcat/Inspectron) [![GitHub stars](https://img.shields.io/github/stars/shdwcat/Inspectron?style=flat)](https://github.com/shdwcat/Inspectron/stargazers) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 - [Lookout](https://github.com/glebtsereteli/Lookout) [![GitHub stars](https://img.shields.io/github/stars/glebtsereteli/Lookout?style=flat)](https://github.com/glebtsereteli/Lookout/stargazers) - Helpful debug overlay views.
+- [Olympus](https://github.com/bscotch/olympus) [![GitHub stars](https://img.shields.io/github/stars/bscotch/olympus?style=flat)](https://github.com/bscotch/olympus/stargazers) - Testing Framework.
+- [Ganary](https://github.com/bscotch/ganary) [![GitHub stars](https://img.shields.io/github/stars/bscotch/ganary?style=flat)](https://github.com/bscotch/ganary/stargazers) - Uses Olympus to perform regression tests.
+- [gm-verrific](https://github.com/Alphish/gm-verrific) [![GitHub stars](https://img.shields.io/github/stars/Alphish/gm-verrific?style=flat)](https://github.com/Alphish/gm-verrific/stargazers) - The ultimate automated testing framework.
+- [gms2-test](https://github.com/pmarincak/gms2-test) [![GitHub stars](https://img.shields.io/github/stars/pmarincak/gms2-test?style=flat)](https://github.com/pmarincak/gms2-test/stargazers) - Unit testing framework.
+- [Crispy](https://github.com/bfrymire/crispy) [![GitHub stars](https://img.shields.io/github/stars/bfrymire/crispy?style=flat)](https://github.com/bfrymire/crispy/stargazers) - Unit testing in GameMaker.
 
 ## Input Handling
 
 - [Input](https://codeberg.org/offalynne/Input) - No nonsense gamepad/keyboard library.
+- [InputTouch](https://github.com/AlubJ/InputTouch) [![GitHub stars](https://img.shields.io/github/stars/AlubJ/InputTouch?style=flat)](https://github.com/AlubJ/InputTouch/stargazers) - Touch controls plugin for Input.
 - [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 - [InputCandy](https://github.com/LAGameStudio/InputCandy) [![GitHub stars](https://img.shields.io/github/stars/LAGameStudio/InputCandy?style=flat)](https://github.com/LAGameStudio/InputCandy/stargazers) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
 - [Good Vibes](https://github.com/mrdaneeyul/good-vibes) [![GitHub stars](https://img.shields.io/github/stars/mrdaneeyul/good-vibes?style=flat)](https://github.com/mrdaneeyul/good-vibes/stargazers) - Device vibration.
@@ -264,7 +272,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Physics
 
 - [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) [![GitHub stars](https://img.shields.io/github/stars/Lojemiru/Loj-Hadron-Collider?style=flat)](https://github.com/Lojemiru/Loj-Hadron-Collider/stargazers) - A robust, pixel-perfect collision engine.
-- [On Slopes and Grids](https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
+- [On Slopes and Grids](https://forum.gamemaker.io/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
 - [GMS2 Platforming System](https://benal.itch.io/basic-modern-platforming-system) - GameMaker implementation by Ben Allen and an expansion on Shaun Spalding's original 1.4 platformer tutorial.
 - [Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) [![GitHub stars](https://img.shields.io/github/stars/tonystr/Inverse-Kinematics-Extension-for-Gamemaker?style=flat)](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker/stargazers) - A library for working with inverse kinematics.
 - [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
@@ -352,8 +360,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Xor's Halftone](https://xordev.itch.io/halftone) - A wonderful, versatile halftone shader. Lots of tweakable settings.
 - [Voronoi](https://github.com/XorDev/GMS-Voronoi-Pixels) [![GitHub stars](https://img.shields.io/github/stars/XorDev/GMS-Voronoi-Pixels?style=flat)](https://github.com/XorDev/GMS-Voronoi-Pixels/stargazers) - Sampled pixels on a Voronoi diagram.
 - [Fire-Fun](https://github.com/XorDev/Fire-Fun/wiki) - Some fun magic fireballs.
-- [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - Jump Flooding Algorithm for GameMaker made with shaders.
-- [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) [![GitHub stars](https://img.shields.io/github/stars/Grisgram/gml-outline-shader-drawer?style=flat)](https://github.com/Grisgram/gml-outline-shader-drawer/stargazers) - Outline shader.
+- [Jump Flooding](https://terohannula.itch.io/jump-flooding-algorithm) - GML implementation of the jump flooding algorithm, using shaders.
+- [Outline Shader](https://github.com/Grisgram/gml-outline-shader-drawer) [![GitHub stars](https://img.shields.io/github/stars/Grisgram/gml-outline-shader-drawer?style=flat)](https://github.com/Grisgram/gml-outline-shader-drawer/stargazers) - Draws outlines around sprites using a shader.
 - [Chameleon](https://github.com/Lojemiru/Chameleon) [![GitHub stars](https://img.shields.io/github/stars/Lojemiru/Chameleon?style=flat)](https://github.com/Lojemiru/Chameleon/stargazers) - Palette Swapper.
 - [Xpanda](https://github.com/GameMakerDiscord/Xpanda) [![GitHub stars](https://img.shields.io/github/stars/GameMakerDiscord/Xpanda?style=flat)](https://github.com/GameMakerDiscord/Xpanda/stargazers) - Include code from external files in your shaders.
 - [Shadertoy to GameMaker](https://github.com/jfkn1ght/Shadertoy2GM) [![GitHub stars](https://img.shields.io/github/stars/jfkn1ght/Shadertoy2GM?style=flat)](https://github.com/jfkn1ght/Shadertoy2GM/stargazers) - Convert shadertoy.com shaders to run in GameMaker (GLSL ES).
@@ -364,7 +372,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [3D-2D](https://github.com/YoYoGames/3D-2D) [![GitHub stars](https://img.shields.io/github/stars/YoYoGames/3D-2D?style=flat)](https://github.com/YoYoGames/3D-2D/stargazers) - Official tool to turn 3D models into 2D sprites.
 - [BBMOD](https://github.com/blueburn-cz/BBMOD) [![GitHub stars](https://img.shields.io/github/stars/blueburn-cz/BBMOD?style=flat)](https://github.com/blueburn-cz/BBMOD/stargazers) - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
-- [ColMesh](https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
+- [ColMesh](https://forum.gamemaker.io/index.php?threads/colmesh-3d-collisions-made-easy.82765/) - 3D Collision Library from TheSnidr.
 - [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) - Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.
 - [dotobj](https://github.com/JujuAdams/dotobj) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/dotobj?style=flat)](https://github.com/JujuAdams/dotobj/stargazers) - Lightweight .obj/.mtl 3D model loader written in native GML.
 - [Bronze Box](https://github.com/cicadian/Bronze-Box) [![GitHub stars](https://img.shields.io/github/stars/cicadian/Bronze-Box?style=flat)](https://github.com/cicadian/Bronze-Box/stargazers) - Example of how to build 3D world models from a 2D grid.
@@ -373,8 +381,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) [![GitHub stars](https://img.shields.io/github/stars/Dreamer13sq/DmrVBM-blender-to-gms2?style=flat)](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2/stargazers) - Import/Export tools to load vertex buffer data out of Blender and into GMS.
 - [Penguin](https://dragonite.itch.io/penguin) - 3D model conversion tool.
 - [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) [![GitHub stars](https://img.shields.io/github/stars/XorDev/ThreeMiceInaTrenchcoat?style=flat)](https://github.com/XorDev/ThreeMiceInaTrenchcoat/stargazers) - Source for a GameMaker 3D game.
-- [sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
-- [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
+- [sPart](https://marketplace.gamemaker.io/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
+- [Terrain Editor](https://dragonite.itch.io/terrain) - Exports terrain to GM models, obj, or vertex buffers.
 - [Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
 - [Collisions](https://dragonite.itch.io/collisions) - 3D collision system that works with native GML.
 - [Bonk](https://github.com/JujuAdams/Bonk) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/Bonk?style=flat)](https://github.com/JujuAdams/Bonk/stargazers) - Another cool collision library handling a majority of collision shape use-cases.
@@ -410,13 +418,13 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [DHook](https://github.com/tabularelf/DHook) [![GitHub stars](https://img.shields.io/github/stars/tabularelf/DHook?style=flat)](https://github.com/tabularelf/DHook/stargazers) - Discord integration.
 - [GMS2_RPC](https://github.com/Mtax-Development/GMS2_RPC) [![GitHub stars](https://img.shields.io/github/stars/Mtax-Development/GMS2_RPC?style=flat)](https://github.com/Mtax-Development/GMS2_RPC/stargazers) - Another Discord integration.
-- [NekoPresence](https://marketplace.yoyogames.com/assets/9526/nekopresence) - Oops, all Discord integration.
+- [NekoPresence](https://marketplace.gamemaker.io/assets/9526/nekopresence) - Oops, all Discord integration.
 - [GMHook](https://github.com/Kruger0/GMHook) [![GitHub stars](https://img.shields.io/github/stars/Kruger0/GMHook?style=flat)](https://github.com/Kruger0/GMHook/stargazers) - We really like Discord integration.
 - [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) [![GitHub stars](https://img.shields.io/github/stars/YAL-GameMaker/steamworks.gml?style=flat)](https://github.com/YAL-GameMaker/steamworks.gml/stargazers) - Various expansions to Steamworks SDK support in GameMaker: Studio.
 - [Parworks](https://github.com/nkrapivin/Parworks) [![GitHub stars](https://img.shields.io/github/stars/nkrapivin/Parworks?style=flat)](https://github.com/nkrapivin/Parworks/stargazers) - Additional functionality for the YYG Steamworks extension.
 - [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) [![GitHub stars](https://img.shields.io/github/stars/GameMakerDiscord/GOG.gml?style=flat)](https://github.com/GameMakerDiscord/GOG.gml/stargazers) - A native extension for GOG.com SDK support.
 - [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) [![GitHub stars](https://img.shields.io/github/stars/GameMakerDiscord/GMTwitch?style=flat)](https://github.com/GameMakerDiscord/GMTwitch/stargazers) - Twitch integration.
-- [Github.gml](https://github.com/AlubJ/GitHub.gml) [![GitHub stars](https://img.shields.io/github/stars/AlubJ/GitHub.gml?style=flat)](https://github.com/AlubJ/GitHub.gml/stargazers) - GitHub REST API
+- [Github.gml](https://github.com/AlubJ/GitHub.gml) [![GitHub stars](https://img.shields.io/github/stars/AlubJ/GitHub.gml?style=flat)](https://github.com/AlubJ/GitHub.gml/stargazers) - GitHub REST API.
 
 ## Camera
 
@@ -513,7 +521,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Community
 
-[![GameMaker Forums](https://img.shields.io/badge/Forums-6AA916?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC&&logoColor=white)](https://forum.yoyogames.com/index.php)
+[![GameMaker Forums](https://img.shields.io/badge/Forums-6AA916?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC&&logoColor=white)](https://forum.gamemaker.io/index.php)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/gamemaker/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gamemaker)
 
@@ -525,14 +533,12 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 - This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) [![GitHub stars](https://img.shields.io/github/stars/FaultyFunctions/GameMakerLibraries?style=flat)](https://github.com/FaultyFunctions/GameMakerLibraries/stargazers) and from Gleb Tsereteli with additional links/details.
 - A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
-- If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) [![GitHub stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev?style=flat)](https://github.com/Calinou/awesome-gamedev/stargazers) or [MagicTools](https://github.com/ellisonleao/magictools#readme) [![GitHub stars](https://img.shields.io/github/stars/ellisonleao/magictools?style=flat)](https://github.com/ellisonleao/magictools/stargazers).
+- If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) [![GitHub stars](https://img.shields.io/github/stars/Calinou/awesome-gamedev?style=flat)](https://github.com/Calinou/awesome-gamedev/stargazers) or [MagicTools](https://github.com/ellisonleao/magictools) [![GitHub stars](https://img.shields.io/github/stars/ellisonleao/magictools?style=flat)](https://github.com/ellisonleao/magictools/stargazers).
 
 *GameMaker® is the property of YoYo Games™. This list is not affiliated with YoYo Games.*
 
 ## Contributing
 
 Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md?style=flat)](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md/stargazers).
-
-## GameMaker Keybindings
 
 ![Keybindings](https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png) [![GitHub stars](https://img.shields.io/github/stars/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png?style=flat)](https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png/stargazers)

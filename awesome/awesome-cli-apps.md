@@ -369,6 +369,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [kanban](https://github.com/fulsomenko/kanban) [![GitHub stars](https://img.shields.io/github/stars/fulsomenko/kanban?style=flat)](https://github.com/fulsomenko/kanban/stargazers) - Keyboard-driven project management tool inspired by lazygit.
 - [gtasks](https://github.com/BRO3886/gtasks) [![GitHub stars](https://img.shields.io/github/stars/BRO3886/gtasks?style=flat)](https://github.com/BRO3886/gtasks/stargazers) - Manage Google Tasks.
 - [epiq](https://github.com/ljtn/epiq) [![GitHub stars](https://img.shields.io/github/stars/ljtn/epiq?style=flat)](https://github.com/ljtn/epiq/stargazers) - Local-first distributed issue tracker backed by Git.
+- [feeling](https://github.com/qiz-li/feeling) [![GitHub stars](https://img.shields.io/github/stars/qiz-li/feeling?style=flat)](https://github.com/qiz-li/feeling/stargazers) - Mood tracker that visualizes your emotional patterns over time.
 
 ### Finance
 

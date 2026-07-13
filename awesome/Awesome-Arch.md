@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/PandaFoss/Awesome-Arch?style=flat)](https://github.com/PandaFoss/Awesome-Arch/stargazers)
 
-# Awesome Arch [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.com/PandaFoss/Awesome-Arch.svg?branch=master)](https://travis-ci.com/PandaFoss/Awesome-Arch)
+# Awesome Arch [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/4c119a21-57f6-4391-9f3a-fe7f6b72f05c/deploy-status)](https://app.netlify.com/projects/awesome-arch/deploys)
 
 > An awesome list for an awesome project.</i></p>
 
@@ -32,8 +32,11 @@
   - [Other](#other)
 - [Other projects](#other-projects)
 - [Inactive projects](#inactive-projects)
+<!-- content:start -->
 
 ## Arch-based projects
+
+Within the ecosystem of Arch-based projects, we can find some that use the Linux kernel, and others that do not, expanding even more the options available to Arch lovers.
 
 ### Linux
 
@@ -52,6 +55,8 @@
 
 ## Arch-based distros
 
+Simplicity is one of the great features of Arch Linux, which has led the community to use it for their own distributions. In this section we cover all of these through two categories: those general purpose distros (the ones we usually install on our home computers), and those others that were designed with a particular purpose in mind, be it focused on security, data rescue, servers among others.
+
 ### Desktop
 
 > Linux distributions based on Arch Linux for general use.
@@ -61,9 +66,8 @@
 - [ArchBang Linux](http://archbang.org/) - A lightweight distribution based on Arch Linux.
 - [Archcraft OS](https://archcraft-os.github.io/) - A Minimalistic Linux Distribution, Focused On Aesthetics & Based On Arch Linux.
 - [Archman](http://archman.org/) - An Arch Linux-based distribution which features the Calamares system installer and a pre-configured desktop environment.
+- [Crystal Linux](https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
 - [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) - A GNU/Linux distribution that is based on Arch Linux.
-- [Crystal Linux](Https://getcryst.al) -  Crystal Linux is a brand new Arch Linux based distribution. Completely beginner friendly, easy to use, and powerful.
-- [CachyOS](https://cachyos.org) - A GNU/Linux distribution built on Arch Linux, it features the optimized linux-cachyos kernel utilizing the advanced BORE Scheduler for unparalleled performance.
 - [EndeavourOS](https://endeavouros.com/) - A rolling release Linux distribution based on Arch Linux.
 - [ArchLabs Linux](https://archlabslinux.com/) - A distribution based on Arch Linux and featuring the Openbox window manager as the primary desktop interface.
 - [Namib GNU/Linux](https://www.namiblinux.org/) - A desktop operating system based on (and compatible with) the Arch Linux distribution.
@@ -80,17 +84,18 @@
 
 > Linux distributions based on Arch Linux with a specific purpose.
 
+- [Archphile](https://archphile.org/) - _(Raspberry Pi/ARM/Audio)_ - Yet another linux audio distribution for embedded boards.
+- [ArchStrike](https://archstrike.org/) - _(Security)_ - A distribution for security professionals and researchers based on Arch Linux.
+- [BBQLinux](http://bbqlinux.org/) - _(Android Developers)_ - A user-friendly Linux distribution made for Android developers.
 - [BioArchLinux](https://bioarchlinux.org/) - _(Bioinformatics/Biology)_ Arch Community for Biologists & Arch Repository for Biological Software.
 - [BlackArch Linux](https://blackarch.org/) - _(Security/Forensics)_ - An Arch Linux-based distribution designed for penetration testers and security researchers.
-- [ArchStrike](https://archstrike.org/) - _(Security)_ - A distribution for security professionals and researchers based on Arch Linux.
-- [SystemRescueCd](http://www.system-rescue-cd.org/) - _(Data Rescue)_ - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
-- [MorpheusArch Linux](https://sourceforge.net/projects/morpheusarch-lxqt/files/) - _(Data Rescue)_ - A distribution based on Arch Linux. 
 - [LinHES](http://www.linhes.org/) - _(MythTV)_ - An attempt to make the installation of GNU/Linux and MythTV as trivial as possible.
-- [UBOS](https://ubos.net/) - _(Server)_ - A Linux distribution designed to greatly reduce the amount of time required to set up and maintain common network services.
-- [TalkingArch](https://talkingarch.tk/) - _(Assistive)_ - A re-spin of the Arch Linux live ISO image, modified to include speech and Braille output for blind and visually-impaired users.
-- [BBQLinux](http://bbqlinux.org/) - _(Android Developers)_ - A user-friendly Linux distribution made for Android developers.
-It has everything on board to build AOSP or AOSP-based distributions like LineageOS or OmniROM.
+- [MorpheusArch Linux](https://sourceforge.net/projects/morpheusarch-lxqt/files/) - _(Data Rescue)_ - A distribution based on Arch Linux.
 - [RaspArch](https://sourceforge.net/projects/rasparch/) - _(Raspberry Pi/ARM)_ - A “remaster” of Arch Linux ARM.
+- [SystemRescueCd](http://www.system-rescue-cd.org/) - _(Data Rescue)_ - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
+- [TalkingArch](https://talkingarch.tk/) - _(Assistive)_ - A re-spin of the Arch Linux live ISO image, modified to include speech and Braille output for blind and visually-impaired users.
+- [UBOS](https://ubos.net/) - _(Server)_ - A Linux distribution designed to greatly reduce the amount of time required to set up and maintain common network services.
+It has everything on board to build AOSP or AOSP-based distributions like LineageOS or OmniROM.
 
 ## Pacman-based Linux distros
 
@@ -116,6 +121,18 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - [aui](https://github.com/helmuthdu/aui) [![GitHub stars](https://img.shields.io/github/stars/helmuthdu/aui?style=flat)](https://github.com/helmuthdu/aui/stargazers) - The Archlinux Ultimate Install comprises of two primary scripts, Lilo and Fifo, which streamline the installation process of Archlinux Base, as well as additional packages, tools, and graphical user interfaces.
 
 ## AUR Helpers
+
+From Arch Wiki:
+
+> AUR helpers automate usage of the [Arch User Repository](https://aur.archlinux.org/). In particular, they may automate the following tasks:
+>
+> - searching for packages published on the AUR;
+> - resolving of dependencies between AUR packages;
+> - retrieve and build AUR packages;
+> - retrieve web content, such as user comments;
+> - submission of AUR packages.
+
+This section tries to cover all these helpers, divided according to their functionality.
 
 ### Search and download
 
@@ -150,7 +167,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - [Pamac](https://gitlab.manjaro.org/applications/pamac) (Vala | GTK3) - Graphical Package Manager for Manjaro Linux with Alpm, AUR, Appstream, Flatpak and Snap support.
 - [Pakku GUI](https://gitlab.com/mrvik/pakku-gui) (Python | GTK3) - Basic GTK interface to (install|remove|upgrade) packages with `pakku`.
 - [PkgBrowser](https://osdn.net/projects/pkgbrowser) (Python | Qt5) - A utility for browsing `pacman` databases and the AUR.
-- [Octopi](https://tintaescura.com/projects/octopi) (C++ | Qt5) - A graphical user interface for the Arch Linux package management tool `pacman`. 
+- [Octopi](https://tintaescura.com/projects/octopi) (C++ | Qt5) - A graphical user interface for the Arch Linux package management tool `pacman`.
 - [Yup](https://github.com/ericm/yup) [![GitHub stars](https://img.shields.io/github/stars/ericm/yup?style=flat)](https://github.com/ericm/yup/stargazers) (Go | TUI) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting.
 
 ### Maintenance
@@ -175,12 +192,13 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 
 > Projects linked to or inspired by Arch Linux that do not belong to any previous category.
 
-- [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/ulises-jeremias/dotfiles?style=flat)](https://github.com/ulises-jeremias/dotfiles/stargazers) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
-- [Termux Arch](https://termuxarch.github.io/TermuxArch/) - Run Arch Linux ARM on your mobile phone with Termux.
 - [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 - [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - Amazon EC2 AMIs based on Arch Linux
+- [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/ulises-jeremias/dotfiles?style=flat)](https://github.com/ulises-jeremias/dotfiles/stargazers) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 - [JuNest](https://github.com/fsquillace/junest) [![GitHub stars](https://img.shields.io/github/stars/fsquillace/junest?style=flat)](https://github.com/fsquillace/junest/stargazers) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
 - [makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) [![GitHub stars](https://img.shields.io/github/stars/ptr1337/makepkg-optimize?style=flat)](https://github.com/ptr1337/makepkg-optimize/stargazers) - A collection of supplemental tidy, buildenv, and executable scripts for pacman which provide macros for several kinds of optimization in the build() and package() stages.
+- [Termux Arch](https://termuxarch.github.io/TermuxArch/) - Run Arch Linux ARM on your mobile phone with Termux.
+- [tarman](https://github.com/Alessandro-Salerno/tarman) [![GitHub stars](https://img.shields.io/github/stars/Alessandro-Salerno/tarman?style=flat)](https://github.com/Alessandro-Salerno/tarman/stargazers) -  The portable, cross-platform, extensible, and simple package manager for tarballs (and others!).
 
 ## Inactive projects
 
@@ -191,6 +209,7 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 - **Archphile** - _(Raspberry Pi/ARM/Audio)_ - Yet another linux audio distribution for embedded boards. (inactive)
 - **Anarchy** - A simple and intuitive Arch Linux installer. ([discontinued](https://gitlab.com/anarchyinstaller/installer#deprecated-project))
 
+<!-- content:end -->
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
@@ -225,6 +244,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="12.5%"><a href="http://malacology.net"><img src="https://avatars.githubusercontent.com/u/37733075?v=4?s=100" width="100px;" alt="Kuoi"/><br /><sub><b>Kuoi</b></sub></a><br /><a href="#content-starsareintherose" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/sogreatandpowerfull"><img src="https://avatars.githubusercontent.com/u/114095654?v=4?s=100" width="100px;" alt="SoGreatAndPowerful"/><br /><sub><b>SoGreatAndPowerful</b></sub></a><br /><a href="#content-sogreatandpowerfull" title="Content">🖋</a></td>
       <td align="center" valign="top" width="12.5%"><a href="https://github.com/ghost"><img src="https://avatars.githubusercontent.com/u/10137?v=4?s=100" width="100px;" alt="Deleted user"/><br /><sub><b>Deleted user</b></sub></a><br /><a href="#maintenance-ghost" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/Alessandro-Salerno"><img src="https://avatars.githubusercontent.com/u/67583725?v=4?s=100" width="100px;" alt="Alessandro Salerno"/><br /><sub><b>Alessandro Salerno</b></sub></a><br /><a href="#content-Alessandro-Salerno" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

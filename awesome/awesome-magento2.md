@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **231** projects · **65** actively maintained · **11** 🔥 hot · **46** 🪦 on the graveyard shelf.
+> Tracking **232** projects · **65** actively maintained · **11** 🔥 hot · **46** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -122,6 +122,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Adobe PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) - Adobe's headless React frontend. GraphQL client; offers Venia theme, Peregrine hooks, Buildpack (Webpack) and UPWARD (SSR/image middleware).
 - [Magento Luma](https://developer.adobe.com/commerce/frontend-core/guide/) - Magento 2's default demo theme (extends Magento/blank). The name also refers to the whole Luma stack: XML layout + blocks/containers + PHTML templates, enriched with LESS-compiled CSS and RequireJS/KnockoutJS/jQuery.
+- [MageObsidian](https://github.com/mage-obsidian/module-modern-frontend) [![GitHub stars](https://img.shields.io/github/stars/mage-obsidian/module-modern-frontend?style=flat)](https://github.com/mage-obsidian/module-modern-frontend/stargazers) 🫡 - Open-source Luma replacement using Vite, Vue 3 islands and TailwindCSS 4 on top of native layouts/blocks/templates. Native ESM, HMR, optional Twig engine.
 - [Alokai](https://github.com/vuestorefront/vue-storefront) [![GitHub stars](https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=flat)](https://github.com/vuestorefront/vue-storefront/stargazers) - Formerly Vue Storefront — headless frontend framework.
 - [ScandiPWA](https://github.com/scandipwa/scandipwa) [![GitHub stars](https://img.shields.io/github/stars/scandipwa/scandipwa?style=flat)](https://github.com/scandipwa/scandipwa/stargazers) - React/Redux PWA theme for Magento 2.3+.
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
@@ -395,9 +396,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Newsletters
 
 - [Mage Dispatch](https://www.magedispatch.com/) 🫡 - Community-driven newsletter collecting links the Magento community should know about.
-- [The Devletter](https://www.maxpronko.com/the-devletter/) 🫡 - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
 - [M Bytes Newsletter](https://m.academy/newsletter/) - Weekly developer newsletter from M.academy delivering three free Magento video lessons every Thursday.
 - [Mageres Monthly Digest](https://mailchi.mp/6a498018d9ef/mageres) - Hand-curated monthly newsletter by Alessandro Ronchi collecting useful Magento resources.
+- [The Devletter](https://www.maxpronko.com/the-devletter/) - Free weekly email digest by Max Pronko covering Magento 2 development tips and news.
 
 ## Community
 

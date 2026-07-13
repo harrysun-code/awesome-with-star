@@ -1344,6 +1344,7 @@ be
 * [Opik](https://github.com/comet-ml/opik) [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=flat)](https://github.com/comet-ml/opik/stargazers): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 * [pyclugen](https://github.com/clugen/pyclugen) [![GitHub stars](https://img.shields.io/github/stars/clugen/pyclugen?style=flat)](https://github.com/clugen/pyclugen/stargazers) - Multidimensional cluster generation in Python.
 * [mlforgex](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) [![GitHub stars](https://img.shields.io/github/stars/dhgefergfefruiwefhjhcduc/ML_Forgex?style=flat)](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex/stargazers) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
+* [autobatcher](https://github.com/doublewordai/autobatcher) [![GitHub stars](https://img.shields.io/github/stars/doublewordai/autobatcher?style=flat)](https://github.com/doublewordai/autobatcher/stargazers) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization

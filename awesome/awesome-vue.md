@@ -1117,6 +1117,7 @@ _Display non-editable events in a Calendar_
 - [@f3ve/vue-markdown-it](https://github.com/f3ve/vue-markdown-it) [![GitHub stars](https://img.shields.io/github/stars/f3ve/vue-markdown-it?style=flat)](https://github.com/f3ve/vue-markdown-it/stargazers) - A markdown-it component for Vue3. Easy to use and fully typed.
 - [Vue Markdown](https://github.com/litingyes/vue-markdown) [![GitHub stars](https://img.shields.io/github/stars/litingyes/vue-markdown?style=flat)](https://github.com/litingyes/vue-markdown/stargazers) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
 - [markdown-design](https://github.com/ZeroOneJs/markdown-design) [![GitHub stars](https://img.shields.io/github/stars/ZeroOneJs/markdown-design?style=flat)](https://github.com/ZeroOneJs/markdown-design/stargazers) - An out-of-the-box Vue 3 Markdown component with real-time rendering, featuring TOC generation, full-text search, and more.
+- [markstream-vue](https://github.com/Simon-He95/markstream-vue) [![GitHub stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat)](https://github.com/Simon-He95/markstream-vue/stargazers) - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
 
 #### PDF
 

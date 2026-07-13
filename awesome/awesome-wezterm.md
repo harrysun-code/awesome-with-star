@@ -89,6 +89,7 @@ To enhance your WezTerm configuration experience:
 - [neapsix/wezterm](https://github.com/neapsix/wezterm) [![GitHub stars](https://img.shields.io/github/stars/neapsix/wezterm?style=flat)](https://github.com/neapsix/wezterm/stargazers) - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 - [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) [![GitHub stars](https://img.shields.io/github/stars/sravioli/kanagawa.wz?style=flat)](https://github.com/sravioli/kanagawa.wz/stargazers) - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 - [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) [![GitHub stars](https://img.shields.io/github/stars/koh-sh/wezterm-theme-rotator?style=flat)](https://github.com/koh-sh/wezterm-theme-rotator/stargazers) - Cycle through built-in themes using keyboard shortcuts.
+- [Tomauskasz/electric-control-room.wez](https://github.com/Tomauskasz/electric-control-room.wez) [![GitHub stars](https://img.shields.io/github/stars/Tomauskasz/electric-control-room.wez?style=flat)](https://github.com/Tomauskasz/electric-control-room.wez/stargazers) - Animated electric control-room theme with layered APNG background effects.
 - [willytop8/Wezterm-Window-Tint](https://github.com/willytop8/Wezterm-Window-Tint) [![GitHub stars](https://img.shields.io/github/stars/willytop8/Wezterm-Window-Tint?style=flat)](https://github.com/willytop8/Wezterm-Window-Tint/stargazers) - Color the window frame, tab bar, and status badge by the active pane's Git root.
 
 ## Utility

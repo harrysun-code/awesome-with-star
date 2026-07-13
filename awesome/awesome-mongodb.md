@@ -277,6 +277,7 @@ Services:
  - [VisuaLeaf](https://visualeaf.com/) - MongoDB GUI designed for speed, clarity, and effortless data exploration
 
 ### Development
+ - [Argon](https://github.com/argon-lab/argon) [![GitHub stars](https://img.shields.io/github/stars/argon-lab/argon?style=flat)](https://github.com/argon-lab/argon/stargazers) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
  - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-analyzer?style=flat)](https://github.com/mongodb/mongo-csharp-analyzer/stargazers) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
  - [mgodatagen](https://github.com/feliixx/mgodatagen) [![GitHub stars](https://img.shields.io/github/stars/feliixx/mgodatagen?style=flat)](https://github.com/feliixx/mgodatagen/stargazers) - Random data generator
  - [migrate-mongo](https://github.com/seppevs/migrate-mongo) [![GitHub stars](https://img.shields.io/github/stars/seppevs/migrate-mongo?style=flat)](https://github.com/seppevs/migrate-mongo/stargazers) - Database migration tool

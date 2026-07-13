@@ -18,12 +18,12 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <br/>
 </div>
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/>
+  <img src='https://capgo.app/readme-banner.svg?repo=riderx/awesome-capacitor' alt='Capgo - Instant updates for capacitor'/>
 </p>
 <br/>
 <div align="center">
-  <h2><a href="https://capgo.app/?ref=plugin"> ➡️ Get Instant updates for your App with Capgo </a></h2>
-  <h2><a href="https://capgo.app/consulting/?ref=plugin"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
+  <h2><a href="https://capgo.app/?ref=awesome-capacitor"> ➡️ Get Instant updates for your App with Capgo </a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=awesome-capacitor"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
 </div>
 <br/>
 
@@ -32,12 +32,13 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Official plugins](#official-plugins)
 - [Community plugins](#community-plugins)
 - [Capgo plugins](#capgo-plugins)
-- [Capawesome plugins](#capawesome-plugins)
 - [Transistor Software plugins](#transistor-software-plugins)
 - [Aparajita plugins](#aparajita-plugins)
+- [Capawesome plugins](#capawesome-plugins)
 - [Other plugins](#other-plugins)
 - [Cordova plugins](#cordova-plugins) 
 - [Tools](#tools)
+- [Helpers](#helpers)
 - [Learning](#learning)
 - [Demo apps](#demo-apps)
 - [Community](#community)
@@ -127,6 +128,8 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 ### Core & Updates
 - [Updater](https://github.com/Cap-go/capacitor-updater) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=flat)](https://github.com/Cap-go/capacitor-updater/stargazers) - Live update for capacitor apps.
 - [Live Reload](https://github.com/Cap-go/capacitor-live-reload) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-live-reload?style=flat)](https://github.com/Cap-go/capacitor-live-reload/stargazers) - Reload Capacitor apps from a remote Vite dev server.
+- [Capacitor Patch](https://github.com/Cap-go/capacitor-patch) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-patch?style=flat)](https://github.com/Cap-go/capacitor-patch/stargazers) - Apply vetted Capgo patches during cap sync and cap update.
+- [Capacitor+](https://github.com/Cap-go/capacitor-plus) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-plus?style=flat)](https://github.com/Cap-go/capacitor-plus/stargazers) - Always-synced Capacitor fork with community fixes and faster releases.
 
 ### Device & Sensors
 - [Accelerometer](https://github.com/Cap-go/capacitor-accelerometer) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-accelerometer?style=flat)](https://github.com/Cap-go/capacitor-accelerometer/stargazers) - Read device accelerometer measurements.
@@ -134,9 +137,12 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 - [Barometer](https://github.com/Cap-go/capacitor-barometer) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-barometer?style=flat)](https://github.com/Cap-go/capacitor-barometer/stargazers) - Access device barometer readings.
 - [Brightness](https://github.com/Cap-go/capacitor-brightness) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-brightness?style=flat)](https://github.com/Cap-go/capacitor-brightness/stargazers) - Control screen brightness on iOS and Android.
 - [Compass](https://github.com/Cap-go/capacitor-compass) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-compass?style=flat)](https://github.com/Cap-go/capacitor-compass/stargazers) - Native compass heading plugin.
+- [Device Info](https://github.com/Cap-go/capacitor-device-info) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-device-info?style=flat)](https://github.com/Cap-go/capacitor-device-info/stargazers) - Read CPU, memory, GPU, storage, and onboard sensor metrics.
 - [Light Sensor](https://github.com/Cap-go/capacitor-light-sensor) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-light-sensor?style=flat)](https://github.com/Cap-go/capacitor-light-sensor/stargazers) - Access the device light sensor (Android only).
 - [Mute](https://github.com/Cap-go/capacitor-mute) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-mute?style=flat)](https://github.com/Cap-go/capacitor-mute/stargazers) - Detect if the mute switch is enabled/disabled on a device.
 - [Pedometer](https://github.com/Cap-go/capacitor-pedometer) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-pedometer?style=flat)](https://github.com/Cap-go/capacitor-pedometer/stargazers) - Access pedometer data including steps, distance, pace, cadence, and floors.
+- [Persistent UUID](https://github.com/Cap-go/capacitor-persistent-uuid) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-persistent-uuid?style=flat)](https://github.com/Cap-go/capacitor-persistent-uuid/stargazers) - Persist an app UUID across reinstalls and updates.
+- [Proximity](https://github.com/Cap-go/capacitor-proximity) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-proximity?style=flat)](https://github.com/Cap-go/capacitor-proximity/stargazers) - Monitor proximity sensor state in mobile apps.
 - [Shake](https://github.com/Cap-go/capacitor-shake) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-shake?style=flat)](https://github.com/Cap-go/capacitor-shake/stargazers) - Detect shake gesture in device.
 - [Volume Buttons](https://github.com/Cap-go/capacitor-volume-buttons) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-volume-buttons?style=flat)](https://github.com/Cap-go/capacitor-volume-buttons/stargazers) - Listen to volume button presses.
 - [SIM](https://github.com/Cap-go/capacitor-sim) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-sim?style=flat)](https://github.com/Cap-go/capacitor-sim/stargazers) - Get information from device's sim cards.
@@ -151,6 +157,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 - [Video Player](https://github.com/Cap-go/capacitor-video-player) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-video-player?style=flat)](https://github.com/Cap-go/capacitor-video-player/stargazers) - Play video in native player.
 - [Video Thumbnails](https://github.com/Cap-go/capacitor-video-thumbnails) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-video-thumbnails?style=flat)](https://github.com/Cap-go/capacitor-video-thumbnails/stargazers) - Generate video thumbnails from local or remote video files.
 - [Photo Library](https://github.com/Cap-go/capacitor-photo-library) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-photo-library?style=flat)](https://github.com/Cap-go/capacitor-photo-library/stargazers) - Display photo gallery as web page or native screen.
+- [Asset Cache](https://github.com/Cap-go/capacitor-asset-cache) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-asset-cache?style=flat)](https://github.com/Cap-go/capacitor-asset-cache/stargazers) - Transparently cache large images and videos locally.
 - [FFmpeg](https://github.com/Cap-go/capacitor-ffmpeg) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-ffmpeg?style=flat)](https://github.com/Cap-go/capacitor-ffmpeg/stargazers) - Exposes the FFmpeg API to Capacitor.
 - [IVS Player](https://github.com/Cap-go/capacitor-ivs-player) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-ivs-player?style=flat)](https://github.com/Cap-go/capacitor-ivs-player/stargazers) - Amazon IVS player for Capacitor apps.
 - [JW Player](https://github.com/Cap-go/capacitor-jw-player) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-jw-player?style=flat)](https://github.com/Cap-go/capacitor-jw-player/stargazers) - Play videos from jwplayer.com.
@@ -164,6 +171,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 - [File](https://github.com/Cap-go/capacitor-file) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-file?style=flat)](https://github.com/Cap-go/capacitor-file/stargazers) - System operations compatible with Cordova File plugin API.
 - [File Picker](https://github.com/Cap-go/capacitor-file-picker) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-file-picker?style=flat)](https://github.com/Cap-go/capacitor-file-picker/stargazers) - Pick files, images, videos, and directories.
 - [File Compressor](https://github.com/Cap-go/capacitor-file-compressor) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-file-compressor?style=flat)](https://github.com/Cap-go/capacitor-file-compressor/stargazers) - Efficient image compression supporting PNG, JPEG, and WebP formats.
+- [File Sharer](https://github.com/Cap-go/capacitor-file-sharer) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-file-sharer?style=flat)](https://github.com/Cap-go/capacitor-file-sharer/stargazers) - Share and save files on Android, iOS, and Web.
 - [Downloader](https://github.com/Cap-go/capacitor-downloader) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-downloader?style=flat)](https://github.com/Cap-go/capacitor-downloader/stargazers) - Download file in background or foreground.
 - [Uploader](https://github.com/Cap-go/capacitor-uploader) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-uploader?style=flat)](https://github.com/Cap-go/capacitor-uploader/stargazers) - Upload file natively.
 - [Zip](https://github.com/Cap-go/capacitor-zip) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-zip?style=flat)](https://github.com/Cap-go/capacitor-zip/stargazers) - Zipping and unzipping files on iOS, Android, and Web.
@@ -172,13 +180,19 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 - [Background Geolocation](https://github.com/Cap-go/capacitor-background-geolocation) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-background-geolocation?style=flat)](https://github.com/Cap-go/capacitor-background-geolocation/stargazers) - Receive accurate geolocation updates even while the app is in the background.
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-nativegeocoder?style=flat)](https://github.com/Cap-go/capacitor-nativegeocoder/stargazers) - Native forward and reverse geocoding.
 - [Launch Navigator](https://github.com/Cap-go/capacitor-launch-navigator) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-launch-navigator?style=flat)](https://github.com/Cap-go/capacitor-launch-navigator/stargazers) - Launch native route navigation apps for Android and iOS.
+- [Mock Location Detector](https://github.com/Cap-go/capacitor-mock-location-detector) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-mock-location-detector?style=flat)](https://github.com/Cap-go/capacitor-mock-location-detector/stargazers) - Detect simulated GPS locations and spoofing developer tools.
 
 ### Authentication & Security
 - [App Attest](https://github.com/Cap-go/capacitor-app-attest) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-app-attest?style=flat)](https://github.com/Cap-go/capacitor-app-attest/stargazers) - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
+- [Device Integrity](https://github.com/Cap-go/capacitor-device-integrity) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-device-integrity?style=flat)](https://github.com/Cap-go/capacitor-device-integrity/stargazers) - Check Widevine, Play Integrity, App Attest, and DeviceCheck signals.
 - [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-app-tracking-transparency?style=flat)](https://github.com/Cap-go/capacitor-app-tracking-transparency/stargazers) - Request ATT authorization for tracking on iOS.
 - [Native Biometric](https://github.com/Cap-go/capacitor-native-biometric) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-biometric?style=flat)](https://github.com/Cap-go/capacitor-native-biometric/stargazers) - Access native biometric APIs for Android and iOS.
 - [Persona](https://github.com/Cap-go/capacitor-persona) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-persona?style=flat)](https://github.com/Cap-go/capacitor-persona/stargazers) - Launch Persona inquiry flows on iOS and Android.
 - [Social Login](https://github.com/Cap-go/capacitor-social-login) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-social-login?style=flat)](https://github.com/Cap-go/capacitor-social-login/stargazers) - All social logins in one plugin.
+- [Passkey](https://github.com/Cap-go/capacitor-passkey) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-passkey?style=flat)](https://github.com/Cap-go/capacitor-passkey/stargazers) - WebAuthn-compatible passkey shim for native apps.
+- [reCAPTCHA](https://github.com/Cap-go/capacitor-recaptcha) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-recaptcha?style=flat)](https://github.com/Cap-go/capacitor-recaptcha/stargazers) - Generate reCAPTCHA and reCAPTCHA Enterprise tokens.
+- [SSL Pinning](https://github.com/Cap-go/capacitor-ssl-pinning) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-ssl-pinning?style=flat)](https://github.com/Cap-go/capacitor-ssl-pinning/stargazers) - Pin HTTPS certificates through CapacitorHttp on Android and iOS.
+- [Verisoul](https://github.com/Cap-go/capacitor-verisoul) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-verisoul?style=flat)](https://github.com/Cap-go/capacitor-verisoul/stargazers) - Fraud prevention sessions for Capacitor apps.
 - [Autofill Save Password](https://github.com/Cap-go/capacitor-autofill-save-password) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-autofill-save-password?style=flat)](https://github.com/Cap-go/capacitor-autofill-save-password/stargazers) - Prompt to save login into device password manager.
 - [Persistent Account](https://github.com/Cap-go/capacitor-persistent-account) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-persistent-account?style=flat)](https://github.com/Cap-go/capacitor-persistent-account/stargazers) - Securely store account information for a user.
 - [Is Root](https://github.com/Cap-go/capacitor-is-root) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-is-root?style=flat)](https://github.com/Cap-go/capacitor-is-root/stargazers) - Jailbreak/Root Detection Plugin.
@@ -187,24 +201,35 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 - [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-inappbrowser?style=flat)](https://github.com/Cap-go/capacitor-inappbrowser/stargazers) - Native in-app browser for secure web content.
 - [Live Activities](https://github.com/Cap-go/capacitor-live-activities) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-live-activities?style=flat)](https://github.com/Cap-go/capacitor-live-activities/stargazers) - Manage iOS Live Activities from Capacitor.
 - [Navigation Bar](https://github.com/Cap-go/capacitor-navigation-bar) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-navigation-bar?style=flat)](https://github.com/Cap-go/capacitor-navigation-bar/stargazers) - Set navigation bar color for Android Lollipop and higher.
+- [Native Navigation](https://github.com/Cap-go/capacitor-native-navigation) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-navigation?style=flat)](https://github.com/Cap-go/capacitor-native-navigation/stargazers) - Native navbar, tabbar, safe-area handling, and WebView transitions.
 - [Home Indicator](https://github.com/Cap-go/capacitor-home-indicator) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-home-indicator?style=flat)](https://github.com/Cap-go/capacitor-home-indicator/stargazers) - Hide and show home button indicator in Capacitor app.
 - [Screen Orientation](https://github.com/Cap-go/capacitor-screen-orientation) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-screen-orientation?style=flat)](https://github.com/Cap-go/capacitor-screen-orientation/stargazers) - Control device orientation with support for bypassing orientation lock.
 - [Flash](https://github.com/Cap-go/capacitor-flash) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-flash?style=flat)](https://github.com/Cap-go/capacitor-flash/stargazers) - Switch the Flashlight / Torch of your device.
 - [Keep Awake](https://github.com/Cap-go/capacitor-keep-awake) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-keep-awake?style=flat)](https://github.com/Cap-go/capacitor-keep-awake/stargazers) - Prevent the device screen from dimming or sleeping.
 - [Text Interaction](https://github.com/Cap-go/capacitor-textinteraction) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-textinteraction?style=flat)](https://github.com/Cap-go/capacitor-textinteraction/stargazers) - Toggle text interaction in Capacitor based iOS apps.
 - [Transitions](https://github.com/Cap-go/capacitor-transitions) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-transitions?style=flat)](https://github.com/Cap-go/capacitor-transitions/stargazers) - Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.
+- [Native Loader](https://github.com/Cap-go/capacitor-native-loader) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-loader?style=flat)](https://github.com/Cap-go/capacitor-native-loader/stargazers) - Native animated loaders, transparent overlays, Lottie assets, and WebView resizing.
+- [Pretty Toast](https://github.com/Cap-go/capacitor-pretty-toast) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-pretty-toast?style=flat)](https://github.com/Cap-go/capacitor-pretty-toast/stargazers) - Native-first toast notifications for Capacitor and the web.
+- [Privacy Screen](https://github.com/Cap-go/capacitor-privacy-screen) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-privacy-screen?style=flat)](https://github.com/Cap-go/capacitor-privacy-screen/stargazers) - Hide app content in screenshots and app switcher previews.
+- [Date Picker](https://github.com/Cap-go/capacitor-date-picker) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-date-picker?style=flat)](https://github.com/Cap-go/capacitor-date-picker/stargazers) - Native date, time, date-time, year-month, and range pickers.
 - [Printer](https://github.com/Cap-go/capacitor-printer) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-printer?style=flat)](https://github.com/Cap-go/capacitor-printer/stargazers) - Print documents, HTML, PDFs, images and web views.
 - [PDF Generator](https://github.com/Cap-go/capacitor-pdf-generator) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-pdf-generator?style=flat)](https://github.com/Cap-go/capacitor-pdf-generator/stargazers) - Generate PDF files from HTML strings or URLs.
+- [Sheets](https://github.com/Cap-go/capacitor-sheets) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-sheets?style=flat)](https://github.com/Cap-go/capacitor-sheets/stargazers) - Framework-agnostic sheets, drawers, dialogs, and overlay primitives.
 
 ### Purchases & Payments
 - [Native Purchases](https://github.com/Cap-go/capacitor-native-purchases) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-native-purchases?style=flat)](https://github.com/Cap-go/capacitor-native-purchases/stargazers) - In-app Subscriptions Made Easy.
 - [Pay](https://github.com/Cap-go/capacitor-pay) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-pay?style=flat)](https://github.com/Cap-go/capacitor-pay/stargazers) - Trigger native payment for iOS (Apple Pay) and Android (Google Pay).
+- [Stripe Identity](https://github.com/Cap-go/capacitor-stripe-identity) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-stripe-identity?style=flat)](https://github.com/Cap-go/capacitor-stripe-identity/stargazers) - Verify identities with Stripe Identity.
+- [Stripe Pay](https://github.com/Cap-go/capacitor-stripe-pay) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-stripe-pay?style=flat)](https://github.com/Cap-go/capacitor-stripe-pay/stargazers) - Payment Sheet, Apple Pay, and Google Pay for Stripe.
+- [Stripe Terminal](https://github.com/Cap-go/capacitor-stripe-terminal) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-stripe-terminal?style=flat)](https://github.com/Cap-go/capacitor-stripe-terminal/stargazers) - In-person Stripe Terminal payments.
 
 ### Communication & Messaging
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-crisp?style=flat)](https://github.com/Cap-go/capacitor-crisp/stargazers) - Native SDK for customer messaging and chat support.
-- [Intercom](https://github.com/Cap-go/capacitor-intercom) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-intercom?style=flat)](https://github.com/Cap-go/capacitor-intercom/stargazers) - Intercom SDK integration for Capacitor apps.
+- [Incoming Call Kit](https://github.com/Cap-go/capacitor-incoming-call-kit) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-incoming-call-kit?style=flat)](https://github.com/Cap-go/capacitor-incoming-call-kit/stargazers) - Native incoming call UI with Android full-screen notifications and iOS CallKit.
+- [Intercom](https://github.com/Cap-go/capacitor-intercom) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-intercom?style=flat)](https://github.com/Cap-go/capacitor-intercom/stargazers) - Customer messaging SDK integration for Capacitor apps.
 - [NFC](https://github.com/Cap-go/capacitor-nfc) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-nfc?style=flat)](https://github.com/Cap-go/capacitor-nfc/stargazers) - Native NFC tag discovery, reading and writing for iOS and Android.
 - [Bluetooth Low Energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-bluetooth-low-energy?style=flat)](https://github.com/Cap-go/capacitor-bluetooth-low-energy/stargazers) - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
+- [MQTT](https://github.com/Cap-go/capacitor-mqtt) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-mqtt?style=flat)](https://github.com/Cap-go/capacitor-mqtt/stargazers) - Connect to MQTT brokers on Android and iOS.
 - [WiFi](https://github.com/Cap-go/capacitor-wifi) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-wifi?style=flat)](https://github.com/Cap-go/capacitor-wifi/stargazers) - Manage WiFi connectivity for your Capacitor app.
 - [iBeacon](https://github.com/Cap-go/capacitor-ibeacon) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-ibeacon?style=flat)](https://github.com/Cap-go/capacitor-ibeacon/stargazers) - Proximity detection and beacon region monitoring.
 - [Speech Recognition](https://github.com/Cap-go/capacitor-speech-recognition) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-speech-recognition?style=flat)](https://github.com/Cap-go/capacitor-speech-recognition/stargazers) - Comprehensive on-device speech recognition with live partial results.
@@ -217,11 +242,17 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 
 ### Analytics & Tracking
 - [AdMob](https://github.com/Cap-go/capacitor-admob) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-admob?style=flat)](https://github.com/Cap-go/capacitor-admob/stargazers) - Bridge AdMob SDKs for iOS and Android.
+- [AppsFlyer](https://github.com/Cap-go/capacitor-appsflyer) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-appsflyer?style=flat)](https://github.com/Cap-go/capacitor-appsflyer/stargazers) - Attribution, analytics, and deep links for AppsFlyer.
 - [GTM](https://github.com/Cap-go/capacitor-gtm) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-gtm?style=flat)](https://github.com/Cap-go/capacitor-gtm/stargazers) - Google Tag Manager plugin for Capacitor.
 - [App Insights](https://github.com/Cap-go/capacitor-appinsights) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-appinsights?style=flat)](https://github.com/Cap-go/capacitor-appinsights/stargazers) - A wrapper around the Apptopia App Insights SDK.
+- [Contentsquare](https://github.com/Cap-go/capacitor-contentsquare) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-contentsquare?style=flat)](https://github.com/Cap-go/capacitor-contentsquare/stargazers) - Mobile analytics SDK integration for Capacitor apps.
+- [Facebook Analytics](https://github.com/Cap-go/capacitor-facebook-analytics) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-facebook-analytics?style=flat)](https://github.com/Cap-go/capacitor-facebook-analytics/stargazers) - Meta/Facebook App Events analytics for Capacitor apps.
+- [Install Referrer](https://github.com/Cap-go/capacitor-install-referrer) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-install-referrer?style=flat)](https://github.com/Cap-go/capacitor-install-referrer/stargazers) - Attribution via Google Play Install Referrer and Apple AdServices.
+- [RudderStack](https://github.com/Cap-go/capacitor-rudderstack) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-rudderstack?style=flat)](https://github.com/Cap-go/capacitor-rudderstack/stargazers) - Analytics, identity, and event tracking for RudderStack.
 
 ### Contacts & Health
 - [Contacts](https://github.com/Cap-go/capacitor-contacts) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-contacts?style=flat)](https://github.com/Cap-go/capacitor-contacts/stargazers) - Work with device contacts using Capacitor APIs.
+- [Calendar](https://github.com/Cap-go/capacitor-calendar) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-calendar?style=flat)](https://github.com/Cap-go/capacitor-calendar/stargazers) - Manage calendar events on iOS and Android.
 - [Health](https://github.com/Cap-go/capacitor-health) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-health?style=flat)](https://github.com/Cap-go/capacitor-health/stargazers) - Interact with data from Apple HealthKit and Health Connect.
 
 ### App Store & Market
@@ -233,18 +264,22 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 - [Android Age Signals](https://github.com/Cap-go/capacitor-android-age-signals) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-age-signals?style=flat)](https://github.com/Cap-go/capacitor-android-age-signals/stargazers) - Exposes Google Play Age Signals to your app.
 - [Android Inline Install](https://github.com/Cap-go/capacitor-android-inline-install) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-inline-install?style=flat)](https://github.com/Cap-go/capacitor-android-inline-install/stargazers) - Trigger Android inline install feature.
 - [Android Kiosk](https://github.com/Cap-go/capacitor-android-kiosk) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-kiosk?style=flat)](https://github.com/Cap-go/capacitor-android-kiosk/stargazers) - Lock device into kiosk mode with launcher functionality.
+- [Android SMS Retriever](https://github.com/Cap-go/capacitor-android-sms-retriever) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-android-sms-retriever?style=flat)](https://github.com/Cap-go/capacitor-android-sms-retriever/stargazers) - SMS Retriever and Phone Number Hint APIs on Android.
 - [Intent Launcher](https://github.com/Cap-go/capacitor-intent-launcher) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-intent-launcher?style=flat)](https://github.com/Cap-go/capacitor-intent-launcher/stargazers) - Launch Android intents and open system settings screens on Android and iOS.
 
 ### Platform Integrations
 - [Supabase](https://github.com/Cap-go/capacitor-supabase) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-supabase?style=flat)](https://github.com/Cap-go/capacitor-supabase/stargazers) - Native Supabase SDK integration - Auth, Database, and JWT access.
+- [Auto](https://github.com/Cap-go/capacitor-auto) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-auto?style=flat)](https://github.com/Cap-go/capacitor-auto/stargazers) - CarPlay and Android Auto communication.
+- [Intune](https://github.com/Cap-go/capacitor-intune) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-intune?style=flat)](https://github.com/Cap-go/capacitor-intune/stargazers) - Microsoft Intune MAM enrollment, app protection policies, app config, and MSAL authentication.
 - [WeChat](https://github.com/Cap-go/capacitor-wechat) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-wechat?style=flat)](https://github.com/Cap-go/capacitor-wechat/stargazers) - SDK for authentication, sharing, payments, and mini-programs.
 - [Watch](https://github.com/Cap-go/capacitor-watch) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-watch?style=flat)](https://github.com/Cap-go/capacitor-watch/stargazers) - Apple Watch communication with bidirectional messaging support.
 - [Share Target](https://github.com/Cap-go/capacitor-share-target) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-share-target?style=flat)](https://github.com/Cap-go/capacitor-share-target/stargazers) - Receive shared content from other apps.
+- [Widget Kit](https://github.com/Cap-go/capacitor-widget-kit) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-widget-kit?style=flat)](https://github.com/Cap-go/capacitor-widget-kit/stargazers) - Build iOS widgets, Live Activities, and shared App Group integrations.
 
 ### Firebase
 - [Analytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md?style=flat)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md/stargazers) - Firebase Analytics for Capacitor.
 - [App](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase/blob/main/packages/app/README.md?style=flat)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md/stargazers) - Firebase App for Capacitor.
-- [App Check](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md?style=flat)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md/stargazers) - Firebase App Check for Capacitor.
+- [App Check](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md?style=flat)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md/stargazers) - Firebase App Check for Capacitor.
 - [Authentication](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md?style=flat)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md/stargazers) - Firebase Authentication for Capacitor.
 - [Crashlytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md?style=flat)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md/stargazers) - Firebase Crashlytics for Capacitor.
 - [Firestore](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md?style=flat)](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md/stargazers) - Firebase Cloud Firestore for Capacitor.
@@ -256,13 +291,34 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) [![GitHub stars
 
 ### Utilities
 - [Alarm](https://github.com/Cap-go/capacitor-alarm) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-alarm?style=flat)](https://github.com/Cap-go/capacitor-alarm/stargazers) - Manage native alarms.
+- [Background Task](https://github.com/Cap-go/capacitor-background-task) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-background-task?style=flat)](https://github.com/Cap-go/capacitor-background-task/stargazers) - Periodic background fetch tasks on iOS and Android.
 - [Env](https://github.com/Cap-go/capacitor-env) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-env?style=flat)](https://github.com/Cap-go/capacitor-env/stargazers) - Set Env var in Capacitor config and read them at runtime.
+- [Network Diagnostics](https://github.com/Cap-go/capacitor-network-diagnostics) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-network-diagnostics?style=flat)](https://github.com/Cap-go/capacitor-network-diagnostics/stargazers) - Run native network diagnostics from Capacitor.
+- [WebView Crash](https://github.com/Cap-go/capacitor-webview-crash) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-webview-crash?style=flat)](https://github.com/Cap-go/capacitor-webview-crash/stargazers) - Detect recovered WebView crashes.
 - [WebView Guardian](https://github.com/Cap-go/capacitor-webview-guardian) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-webview-guardian?style=flat)](https://github.com/Cap-go/capacitor-webview-guardian/stargazers) - Detect when the WebView was killed in the background and relaunch it on foreground.
 - [WebView Version Checker](https://github.com/Cap-go/capacitor-webview-version-checker) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-webview-version-checker?style=flat)](https://github.com/Cap-go/capacitor-webview-version-checker/stargazers) - Check Android WebView version and prompt users to update when needed.
 - [LLM](https://github.com/Cap-go/capacitor-llm) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-llm?style=flat)](https://github.com/Cap-go/capacitor-llm/stargazers) - Adds support for LLM locally run for Capacitor.
 
 ### Specialized Hardware
 - [Ricoh360 Camera](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-ricoh360-camera-plugin?style=flat)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/stargazers) - SDK for the Ricoh360 cameras.
+- [UWB](https://github.com/Cap-go/capacitor-uwb) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-uwb?style=flat)](https://github.com/Cap-go/capacitor-uwb/stargazers) - Ultra-Wideband ranging on iOS and Android.
+- [Zebra DataWedge](https://github.com/Cap-go/capacitor-zebra-datawedge) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/capacitor-zebra-datawedge?style=flat)](https://github.com/Cap-go/capacitor-zebra-datawedge/stargazers) - Manage Zebra DataWedge profiles, notifications, queries, and soft scanning.
+
+## [Transistor Software plugins](https://www.transistorsoft.com/)
+Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft?style=flat)](https://github.com/transistorsoft/stargazers) and maintained by [@christocracy](https://github.com/christocracy) [![GitHub stars](https://img.shields.io/github/stars/christocracy?style=flat)](https://github.com/christocracy/stargazers).
+
+- [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation?style=flat)](https://github.com/transistorsoft/capacitor-background-geolocation/stargazers) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+- [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-fetch?style=flat)](https://github.com/transistorsoft/capacitor-background-fetch/stargazers) - Periodic callbacks in the background for both iOS and Android.
+- [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation-firebase?style=flat)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase/stargazers) - Firebase adapter for Capacitor Background Geolocation.
+
+
+## Aparajita plugins
+Plugins written and maintained by [@aparajita](https://github.com/aparajita) [![GitHub stars](https://img.shields.io/github/stars/aparajita?style=flat)](https://github.com/aparajita/stargazers).
+
+- [Biometric Auth](https://github.com/aparajita/capacitor-biometric-auth) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-biometric-auth?style=flat)](https://github.com/aparajita/capacitor-biometric-auth/stargazers) - Easy access to native biometric auth APIs on iOS and Android.
+- [Dark Mode](https://github.com/aparajita/capacitor-dark-mode) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-dark-mode?style=flat)](https://github.com/aparajita/capacitor-dark-mode/stargazers) - Universal, reliable dark mode support on the web, iOS and Android.
+- [Logger](https://github.com/aparajita/capacitor-logger) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-logger?style=flat)](https://github.com/aparajita/capacitor-logger/stargazers) - Better logging for the web and native Ionic/Capacitor apps.
+- [Secure Storage](https://github.com/aparajita/capacitor-secure-storage) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-secure-storage?style=flat)](https://github.com/aparajita/capacitor-secure-storage/stargazers) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 
 ## Capawesome plugins
@@ -272,22 +328,6 @@ Plugins owned by Capawesome organisation and maintained by @robingenz.
 - [Badge](https://github.com/capawesome-team/capacitor-badge) [![GitHub stars](https://img.shields.io/github/stars/capawesome-team/capacitor-badge?style=flat)](https://github.com/capawesome-team/capacitor-badge/stargazers) - Access and update the badge number of the app icon.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) [![GitHub stars](https://img.shields.io/github/stars/capawesome-team/capacitor-managed-configurations?style=flat)](https://github.com/capawesome-team/capacitor-managed-configurations/stargazers) - Capacitor plugin to access managed configuration settings.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) [![GitHub stars](https://img.shields.io/github/stars/capawesome-team/capacitor-photo-editor?style=flat)](https://github.com/capawesome-team/capacitor-photo-editor/stargazers) - Capacitor plugin that allows the user to edit a photo.
-
-## [Transistor Software plugins](https://www.transistorsoft.com//)
-Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft?style=flat)](https://github.com/transistorsoft/stargazers) and maintained by [@christocracy](https://github.com/christocracy) [![GitHub stars](https://img.shields.io/github/stars/christocracy?style=flat)](https://github.com/christocracy/stargazers).
-
-- [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation?style=flat)](https://github.com/transistorsoft/capacitor-background-geolocation/stargazers) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
-- [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-fetch?style=flat)](https://github.com/transistorsoft/capacitor-background-fetch/stargazers) - Periodic callbacks in the background for both iOS and Android.
-- [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) [![GitHub stars](https://img.shields.io/github/stars/transistorsoft/capacitor-background-geolocation-firebase?style=flat)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase/stargazers) - Firebase adapter for Capacitor Background Geolocation.
-
-
-## [Aparajita plugins](https://github.com/aparajita?tab=repositories&q=capacitor) [![GitHub stars](https://img.shields.io/github/stars/aparajita?tab=repositories&q=capacitor?style=flat)](https://github.com/aparajita?tab=repositories&q=capacitor/stargazers)
-Plugins written and maintained by [@aparajita](https://github.com/aparajita) [![GitHub stars](https://img.shields.io/github/stars/aparajita?style=flat)](https://github.com/aparajita/stargazers).
-
-- [Biometric Auth](https://github.com/aparajita/capacitor-biometric-auth) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-biometric-auth?style=flat)](https://github.com/aparajita/capacitor-biometric-auth/stargazers) - Easy access to native biometric auth APIs on iOS and Android.
-- [Dark Mode](https://github.com/aparajita/capacitor-dark-mode) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-dark-mode?style=flat)](https://github.com/aparajita/capacitor-dark-mode/stargazers) - Universal, reliable dark mode support on the web, iOS and Android.
-- [Logger](https://github.com/aparajita/capacitor-logger) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-logger?style=flat)](https://github.com/aparajita/capacitor-logger/stargazers) - Better logging for the web and native Ionic/Capacitor apps.
-- [Secure Storage](https://github.com/aparajita/capacitor-secure-storage) [![GitHub stars](https://img.shields.io/github/stars/aparajita/capacitor-secure-storage?style=flat)](https://github.com/aparajita/capacitor-secure-storage/stargazers) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 
 ## Other plugins
 
@@ -322,7 +362,6 @@ Independents plugins are listed here.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) [![GitHub stars](https://img.shields.io/github/stars/hemangsk/capacitor-mlkit-language?style=flat)](https://github.com/hemangsk/capacitor-mlkit-language/stargazers) - Identify the language of a string of text.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) [![GitHub stars](https://img.shields.io/github/stars/trancee/capacitor-google-mlkit-vision/?style=flat)](https://github.com/trancee/capacitor-google-mlkit-vision//stargazers) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 - [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) [![GitHub stars](https://img.shields.io/github/stars/Ad-Scientiam/capacitor-healthkit?style=flat)](https://github.com/Ad-Scientiam/capacitor-healthkit/stargazers) - Retrieve data from HealthKit.
-- [Intent](https://github.com/IT-MikeS/capacitor-intents) [![GitHub stars](https://img.shields.io/github/stars/IT-MikeS/capacitor-intents?style=flat)](https://github.com/IT-MikeS/capacitor-intents/stargazers) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) [![GitHub stars](https://img.shields.io/github/stars/calvinckho/capacitor-jitsi-meet?style=flat)](https://github.com/calvinckho/capacitor-jitsi-meet/stargazers) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) [![GitHub stars](https://img.shields.io/github/stars/Elvincth/capacitor-plugin-lightsensor?style=flat)](https://github.com/Elvincth/capacitor-plugin-lightsensor/stargazers) - Get the illuminance level on the device.
 - [Native Audio Player](https://github.com/smartcompanion-app/native-audio-player) [![GitHub stars](https://img.shields.io/github/stars/smartcompanion-app/native-audio-player?style=flat)](https://github.com/smartcompanion-app/native-audio-player/stargazers) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
@@ -354,6 +393,7 @@ Independents plugins are listed here.
 - [Capacitor Calendar](https://github.com/ebarooni/capacitor-calendar) [![GitHub stars](https://img.shields.io/github/stars/ebarooni/capacitor-calendar?style=flat)](https://github.com/ebarooni/capacitor-calendar/stargazers) - A plugin for interacting with calendar and reminders.
 - [Capacitor voice recorder](https://github.com/tchvu3/capacitor-voice-recorder) [![GitHub stars](https://img.shields.io/github/stars/tchvu3/capacitor-voice-recorder?style=flat)](https://github.com/tchvu3/capacitor-voice-recorder/stargazers) - A plugin for simple voice recording.
 - [capacitor-app-attest](https://github.com/ludufre/capacitor-app-attest) [![GitHub stars](https://img.shields.io/github/stars/ludufre/capacitor-app-attest?style=flat)](https://github.com/ludufre/capacitor-app-attest/stargazers) - Apple Attest with Ionic Capacitor.
+- [capacitor-thermal-state](https://github.com/isaforge/capacitor-thermal-state) [![GitHub stars](https://img.shields.io/github/stars/isaforge/capacitor-thermal-state?style=flat)](https://github.com/isaforge/capacitor-thermal-state/stargazers) - Monitor device thermal state (overheating detection) on iOS and Android.
 - [capacitor-live-activities](https://github.com/ludufre/capacitor-live-activities) [![GitHub stars](https://img.shields.io/github/stars/ludufre/capacitor-live-activities?style=flat)](https://github.com/ludufre/capacitor-live-activities/stargazers) - Capacitor plugin to use Live Activities on iOS 16.2+.
 - [capacitor-lottie-splash-screen](https://github.com/ludufre/capacitor-lottie-splash-screen) [![GitHub stars](https://img.shields.io/github/stars/ludufre/capacitor-lottie-splash-screen?style=flat)](https://github.com/ludufre/capacitor-lottie-splash-screen/stargazers) - Capacitor plugin to use Lottie animations as splash screen.
 
@@ -397,7 +437,12 @@ This list will be upgraded soon
 - [Capgo Skills](https://capgo.app/skills/) - Check your Capacitor app compatibility and skills.
 - [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for your app.
+- [Capstart](https://github.com/AdrienADV/capstart) [![GitHub stars](https://img.shields.io/github/stars/AdrienADV/capstart?style=flat)](https://github.com/AdrienADV/capstart/stargazers) - CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association (AASA) configuration.
+
+## Helpers
+
+- [vue-capacitor-haptics](https://https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.
 
 ## Learning
 
@@ -419,7 +464,7 @@ Places to learn about Capacitor
 
 ### Crash Courses
 
-- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course) - Learn to use Capacitor with Ionic by Simon Grimm.
+- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course/) - Learn to use Capacitor with Ionic by Simon Grimm.
 
 ### Community Tutorials
 
@@ -463,8 +508,9 @@ Places to discuss about Capacitor
 
 ## Freelancers
 
-- [Martin Donadieu](https://cal.com/martindonadieu/30min) - Creator of this list and of Capgo live update system + 10 plugins.
-
+- [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart the best boilerplate for Capacitor and Capgo part-time developper.
+- [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
+- [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
 
 ## Contributing
 

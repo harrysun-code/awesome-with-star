@@ -994,6 +994,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Restbed](https://github.com/corvusoft/restbed) [![GitHub stars](https://img.shields.io/github/stars/corvusoft/restbed?style=flat)](https://github.com/corvusoft/restbed/stargazers) - C++11 Asynchronous RESTful framework. [AGPL]
 * [Restinio](https://github.com/Stiffstream/restinio) [![GitHub stars](https://img.shields.io/github/stars/Stiffstream/restinio?style=flat)](https://github.com/Stiffstream/restinio/stargazers) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. [BSD]
 * [c-ares](https://github.com/c-ares/c-ares) [![GitHub stars](https://img.shields.io/github/stars/c-ares/c-ares?style=flat)](https://github.com/c-ares/c-ares/stargazers) - A C library for asynchronous DNS requests. [MIT]
+* [cofetch](https://github.com/SSARCandy/cofetch) [![GitHub stars](https://img.shields.io/github/stars/SSARCandy/cofetch?style=flat)](https://github.com/SSARCandy/cofetch/stargazers) - Chainable async HTTP client built on libcurl's multi interface and ASIO. Callbacks, coroutines and futures from one implementation. [MIT]
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib) [![GitHub stars](https://img.shields.io/github/stars/yhirose/cpp-httplib?style=flat)](https://github.com/yhirose/cpp-httplib/stargazers) - A single file C++11 header-only HTTP/HTTPS server library. [MIT]
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) [![GitHub stars](https://img.shields.io/github/stars/cpp-netlib/uri?style=flat)](https://github.com/cpp-netlib/uri/stargazers) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. [Boost]
@@ -1143,6 +1144,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 
 ## Robotics
 
+* [FusionCore](https://github.com/manankharwar/fusioncore) [![GitHub stars](https://img.shields.io/github/stars/manankharwar/fusioncore?style=flat)](https://github.com/manankharwar/fusioncore/stargazers) - ROS 2 UKF sensor fusion library fusing GPS, IMU, and wheel odometry with adaptive noise and outlier rejection for robust outdoor localization. [Apache2]
 * [MOOS-IvP](http://moos-ivp.org) - A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
 * [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) [![GitHub stars](https://img.shields.io/github/stars/PointCloudLibrary/pcl?style=flat)](https://github.com/PointCloudLibrary/pcl/stargazers) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing. [BSD] [website](http://www.pointclouds.org/)

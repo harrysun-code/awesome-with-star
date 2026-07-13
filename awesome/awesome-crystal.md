@@ -189,6 +189,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [envyable](https://github.com/philnash/envyable.cr) [![GitHub stars](https://img.shields.io/github/stars/philnash/envyable.cr?style=flat)](https://github.com/philnash/envyable.cr/stargazers) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) [![GitHub stars](https://img.shields.io/github/stars/luckyframework/habitat?style=flat)](https://github.com/luckyframework/habitat/stargazers) - Type safe configuration for your classes and modules
  * [totem](https://github.com/icyleaf/totem) [![GitHub stars](https://img.shields.io/github/stars/icyleaf/totem?style=flat)](https://github.com/icyleaf/totem/stargazers) - Load and parse a configuration in JSON, YAML, dotenv formats
+ * [typed_env_config](https://github.com/systatum/typed_env_config) [![GitHub stars](https://img.shields.io/github/stars/systatum/typed_env_config?style=flat)](https://github.com/systatum/typed_env_config/stargazers) - Load type-safe configuration from YAML/dotenv with ENV overrides
  * [ucl.cr](https://github.com/jbox-web/ucl.cr) [![GitHub stars](https://img.shields.io/github/stars/jbox-web/ucl.cr?style=flat)](https://github.com/jbox-web/ucl.cr/stargazers) - Bindings to [libucl](https://github.com/vstakhov/libucl) [![GitHub stars](https://img.shields.io/github/stars/vstakhov/libucl?style=flat)](https://github.com/vstakhov/libucl/stargazers), load, dump and validate UCL/JSON configuration
 
 ## Converters
