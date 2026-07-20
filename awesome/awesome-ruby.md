@@ -42,16 +42,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
       Atlas Cloud is a full-modal AI inference platform that gives developers a single AI API to access video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities.
     </div>
   </a><br>
-  <a href="https://github.com/Doloffer-g/guide">
-    <div>
-      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/doloffer.png" width="120" alt="DolOffer">
-    </div>
-    <div>
-      Discounted GPT & Claude membership top-ups, genuine subscriptions, worry-free after-sales support.<br>
-      10% off coupon code available: AI8888.
-    </div>
-  </a>
-  <br>
   <hr>
 </div>
 
@@ -225,7 +215,6 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Roar](https://github.com/trailblazer/roar) [![GitHub stars](https://img.shields.io/github/stars/trailblazer/roar?style=flat)](https://github.com/trailblazer/roar/stargazers) - Resource-Oriented Architectures in Ruby.
 * [Spyke](https://github.com/balvig/spyke) [![GitHub stars](https://img.shields.io/github/stars/balvig/spyke?style=flat)](https://github.com/balvig/spyke/stargazers) - Interact with REST services in an ActiveRecord-like manner.
 * [Version Cake](https://github.com/bwillis/versioncake) [![GitHub stars](https://img.shields.io/github/stars/bwillis/versioncake?style=flat)](https://github.com/bwillis/versioncake/stargazers) - An unobtrusive way to version APIs in your Rails app.
-* [versionist](https://github.com/bploetz/versionist) [![GitHub stars](https://img.shields.io/github/stars/bploetz/versionist?style=flat)](https://github.com/bploetz/versionist/stargazers) - A plugin for versioning Rails based RESTful APIs.
 
 ## Assets
 
@@ -300,6 +289,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Light Service](https://github.com/adomokos/light-service) [![GitHub stars](https://img.shields.io/github/stars/adomokos/light-service?style=flat)](https://github.com/adomokos/light-service/stargazers) - Series of Actions with an emphasis on simplicity.
 * [Mutations](https://github.com/cypriss/mutations) [![GitHub stars](https://img.shields.io/github/stars/cypriss/mutations?style=flat)](https://github.com/cypriss/mutations/stargazers) - Compose your business logic into commands that sanitize and validate input.
 * [Servactory](https://github.com/servactory/servactory) [![GitHub stars](https://img.shields.io/github/stars/servactory/servactory?style=flat)](https://github.com/servactory/servactory/stargazers) - A set of tools for building reliable service objects of any complexity.
+* [Stoplight](https://github.com/bolshakov/stoplight) [![GitHub stars](https://img.shields.io/github/stars/bolshakov/stoplight?style=flat)](https://github.com/bolshakov/stoplight/stargazers) - A circuit breaker implementation for Ruby that prevents cascading failures when external dependencies (databases, APIs, third-party services) start failing.
 * [Surrounded](https://github.com/saturnflyer/surrounded) [![GitHub stars](https://img.shields.io/github/stars/saturnflyer/surrounded?style=flat)](https://github.com/saturnflyer/surrounded/stargazers) - Encapsulated related objects in a single system to add behavior during runtime. Extensible implementation of DCI.
 * [Waterfall](https://github.com/apneadiving/waterfall) [![GitHub stars](https://img.shields.io/github/stars/apneadiving/waterfall?style=flat)](https://github.com/apneadiving/waterfall/stargazers) - A slice of functional programming to chain ruby services and blocks, thus providing a new approach to flow control.
 * [wisper](https://github.com/krisleech/wisper) [![GitHub stars](https://img.shields.io/github/stars/krisleech/wisper?style=flat)](https://github.com/krisleech/wisper/stargazers) - A micro library providing Ruby objects with Publish-Subscribe capabilities.
@@ -892,6 +882,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [i18n](https://github.com/ruby-i18n/i18n) [![GitHub stars](https://img.shields.io/github/stars/ruby-i18n/i18n?style=flat)](https://github.com/ruby-i18n/i18n/stargazers) - Ruby Internationalization and localization solution.
 * [mini_i18n](https://github.com/markets/mini_i18n) [![GitHub stars](https://img.shields.io/github/stars/markets/mini_i18n?style=flat)](https://github.com/markets/mini_i18n/stargazers) - Minimalistic, flexible and fast Internationalization library. It supports localization, interpolations, pluralization, fallbacks, nested keys and more.
 * [rails-i18n](https://github.com/svenfuchs/rails-i18n) [![GitHub stars](https://img.shields.io/github/stars/svenfuchs/rails-i18n?style=flat)](https://github.com/svenfuchs/rails-i18n/stargazers) - Repository for collecting Locale data for Rails I18n as well as other interesting, Rails related I18n stuff.
+* [rails-i18n-manager](https://github.com/westonganger/rails_i18n_manager) [![GitHub stars](https://img.shields.io/github/stars/westonganger/rails_i18n_manager?style=flat)](https://github.com/westonganger/rails_i18n_manager/stargazers) - Web interface to manage i18n translations helping to facilitate the editors of your translations. 
 * [r18n](https://github.com/r18n/r18n) [![GitHub stars](https://img.shields.io/github/stars/r18n/r18n?style=flat)](https://github.com/r18n/r18n/stargazers) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 * [Termit](https://github.com/pawurb/termit) [![GitHub stars](https://img.shields.io/github/stars/pawurb/termit?style=flat)](https://github.com/pawurb/termit/stargazers) - Translations with speech synthesis in your terminal.
 * [Tolk](https://github.com/tolk/tolk) [![GitHub stars](https://img.shields.io/github/stars/tolk/tolk?style=flat)](https://github.com/tolk/tolk/stargazers) - A web interface for doing i18n translations packaged as a Rails engine.
@@ -973,7 +964,6 @@ Where to discover new Ruby libraries, projects and trends.
 * [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) [![GitHub stars](https://img.shields.io/github/stars/watsonbox/pocketsphinx-ruby?style=flat)](https://github.com/watsonbox/pocketsphinx-ruby/stargazers) - Ruby speech recognition with Pocketsphinx.
 * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) [![GitHub stars](https://img.shields.io/github/stars/diasks2/pragmatic_segmenter?style=flat)](https://github.com/diasks2/pragmatic_segmenter/stargazers) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 * [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp) [![GitHub stars](https://img.shields.io/github/stars/diasks2/ruby-nlp?style=flat)](https://github.com/diasks2/ruby-nlp/stargazers) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
-* [ruby-spellchecker](https://github.com/omohokcoj/ruby-spellchecker) [![GitHub stars](https://img.shields.io/github/stars/omohokcoj/ruby-spellchecker?style=flat)](https://github.com/omohokcoj/ruby-spellchecker/stargazers) - English spelling and grammar checker that can be used for autocorrection.
 * [Sentimental](https://github.com/7compass/sentimental) [![GitHub stars](https://img.shields.io/github/stars/7compass/sentimental?style=flat)](https://github.com/7compass/sentimental/stargazers) - Simple sentiment analysis with Ruby.
 * [Text](https://github.com/threedaymonk/text) [![GitHub stars](https://img.shields.io/github/stars/threedaymonk/text?style=flat)](https://github.com/threedaymonk/text/stargazers) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 * [Textstat](https://github.com/kupolak/textstat) [![GitHub stars](https://img.shields.io/github/stars/kupolak/textstat?style=flat)](https://github.com/kupolak/textstat/stargazers) - Ruby gem for text readability analysis. Calculate readability statistics using 13 proven formulas (Flesch, SMOG, Coleman-Liau, etc.) with support for 22 languages.
@@ -1350,7 +1340,6 @@ Online tools, services and APIs to simplify development.
     * Formatters
       * [Emoji-RSpec](https://github.com/cupakromer/emoji-rspec) [![GitHub stars](https://img.shields.io/github/stars/cupakromer/emoji-rspec?style=flat)](https://github.com/cupakromer/emoji-rspec/stargazers) - Custom Emoji Formatters for RSpec.
       * [Fuubar](https://github.com/thekompanee/fuubar) [![GitHub stars](https://img.shields.io/github/stars/thekompanee/fuubar?style=flat)](https://github.com/thekompanee/fuubar/stargazers) - The instafailing RSpec progress bar formatter.
-      * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) [![GitHub stars](https://img.shields.io/github/stars/mattsears/nyan-cat-formatter?style=flat)](https://github.com/mattsears/nyan-cat-formatter/stargazers) - Nyan Cat inspired RSpec formatter!
   * [Aruba](https://github.com/cucumber/aruba) [![GitHub stars](https://img.shields.io/github/stars/cucumber/aruba?style=flat)](https://github.com/cucumber/aruba/stargazers) - Testing command line applications with cucumber and rspec.
   * [Bacon](https://github.com/leahneukirchen/bacon) [![GitHub stars](https://img.shields.io/github/stars/leahneukirchen/bacon?style=flat)](https://github.com/leahneukirchen/bacon/stargazers) - A small RSpec clone.
   * [Capybara](https://github.com/teamcapybara/capybara) [![GitHub stars](https://img.shields.io/github/stars/teamcapybara/capybara?style=flat)](https://github.com/teamcapybara/capybara/stargazers) - Acceptance test framework for web applications.

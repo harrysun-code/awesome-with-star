@@ -120,6 +120,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata) [![GitHub stars](https://img.shields.io/github/stars/emilybache/Tennis-Refactoring-Kata?style=flat)](https://github.com/emilybache/Tennis-Refactoring-Kata/stargazers)
   - [Docker Katas](https://github.com/eficode-academy/docker-katas) [![GitHub stars](https://img.shields.io/github/stars/eficode-academy/docker-katas?style=flat)](https://github.com/eficode-academy/docker-katas/stargazers)
   - [SupermarketReceipt Refactoring Kata](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata) [![GitHub stars](https://img.shields.io/github/stars/emilybache/SupermarketReceipt-Refactoring-Kata?style=flat)](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata/stargazers)
+  - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) [![GitHub stars](https://img.shields.io/github/stars/XD-DENG/SQL-exercise?style=flat)](https://github.com/XD-DENG/SQL-exercise/stargazers)
   
 ## Contribution
   

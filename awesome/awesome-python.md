@@ -393,6 +393,7 @@ _Libraries to automate web scraping and extract web content._
   - [crawlberg](https://github.com/xberg-io/crawlberg) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/crawlberg?style=flat)](https://github.com/xberg-io/crawlberg/stargazers) - A high-performance web crawling engine with a Rust core, headless-browser fallback, and built-in robots.txt and sitemap parsing.
   - [mechanicalsoup](https://github.com/MechanicalSoup/MechanicalSoup) [![GitHub stars](https://img.shields.io/github/stars/MechanicalSoup/MechanicalSoup?style=flat)](https://github.com/MechanicalSoup/MechanicalSoup/stargazers) - A Python library for automating interaction with websites.
   - [scrapy](https://github.com/scrapy/scrapy) [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=flat)](https://github.com/scrapy/scrapy/stargazers) - A fast high-level screen scraping and web crawling framework.
+  - [website-downloader](https://github.com/PKHarsimran/website-downloader) [![GitHub stars](https://img.shields.io/github/stars/PKHarsimran/website-downloader?style=flat)](https://github.com/PKHarsimran/website-downloader/stargazers) - A modern wget --mirror / HTTrack alternative that turns whole websites into browsable offline copies.
 - Content Extraction
   - [feedparser](https://github.com/kurtmckee/feedparser) [![GitHub stars](https://img.shields.io/github/stars/kurtmckee/feedparser?style=flat)](https://github.com/kurtmckee/feedparser/stargazers) - Universal feed parser.
   - [html2text](https://github.com/Alir3z4/html2text) [![GitHub stars](https://img.shields.io/github/stars/Alir3z4/html2text?style=flat)](https://github.com/Alir3z4/html2text/stargazers) - Convert HTML to Markdown-formatted text.
@@ -499,6 +500,9 @@ _Libraries for data analysis._
 - [modin](https://github.com/modin-project/modin) [![GitHub stars](https://img.shields.io/github/stars/modin-project/modin?style=flat)](https://github.com/modin-project/modin/stargazers) - A drop-in pandas replacement that scales workflows by changing a single line of code.
 - [pandas](https://github.com/pandas-dev/pandas) [![GitHub stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat)](https://github.com/pandas-dev/pandas/stargazers) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 - [pathway](https://github.com/pathwaycom/pathway) [![GitHub stars](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat)](https://github.com/pathwaycom/pathway/stargazers) - Real-time data processing framework for Python with reactive dataflows.
+
+- [percentify](https://github.com/data-centt/percentify) [![GitHub stars](https://img.shields.io/github/stars/data-centt/percentify?style=flat)](https://github.com/data-centt/percentify/stargazers) - Exploratory stats and data-quality diagnostics/profiler, that supports both pandas and Polars DataFrames inputs.
+
 - [polars](https://github.com/pola-rs/polars) [![GitHub stars](https://img.shields.io/github/stars/pola-rs/polars?style=flat)](https://github.com/pola-rs/polars/stargazers) - A fast DataFrame library implemented in Rust with a Python API.
 
 ### Data Ingestion / ETL
@@ -1080,6 +1084,7 @@ _Libraries for Python version and virtual environment management._
 _Libraries for package and dependency management._
 
 - [conda](https://github.com/conda/conda/) [![GitHub stars](https://img.shields.io/github/stars/conda/conda/?style=flat)](https://github.com/conda/conda//stargazers) - Cross-platform, Python-agnostic binary package manager.
+- [hatch](https://github.com/pypa/hatch) [![GitHub stars](https://img.shields.io/github/stars/pypa/hatch?style=flat)](https://github.com/pypa/hatch/stargazers) - Modern, extensible Python project manager for environments, builds, and publishing.
 - [pip](https://github.com/pypa/pip) [![GitHub stars](https://img.shields.io/github/stars/pypa/pip?style=flat)](https://github.com/pypa/pip/stargazers) - The package installer for Python.
 - [pipx](https://github.com/pypa/pipx) [![GitHub stars](https://img.shields.io/github/stars/pypa/pipx?style=flat)](https://github.com/pypa/pipx/stargazers) - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
 - [poetry](https://github.com/python-poetry/poetry) [![GitHub stars](https://img.shields.io/github/stars/python-poetry/poetry?style=flat)](https://github.com/python-poetry/poetry/stargazers) - Python dependency management and packaging made easy.

@@ -72,6 +72,7 @@ Logos of different brands or companies or technologies.
 
 Icons that are not general or logos, but something special.
 
+- [GeoIcons](https://github.com/getgeoicons/geoicons#readme) [![GitHub stars](https://img.shields.io/github/stars/getgeoicons/geoicons?style=flat)](https://github.com/getgeoicons/geoicons/stargazers) - Geographic map icons as tree-shakable SVG components. ([Website](https://geoicons.io))
 - [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) [![GitHub stars](https://img.shields.io/github/stars/madebybowtie/FlagKit?style=flat)](https://github.com/madebybowtie/FlagKit/stargazers) - Beautiful flag icons for usage in apps and on the web.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) [![GitHub stars](https://img.shields.io/github/stars/djaiss/mapsicon?style=flat)](https://github.com/djaiss/mapsicon/stargazers) - A free collection of maps for every country in the world.
 - [IconicFonts](https://github.com/iconicFonts/iconic-fonts#readme) [![GitHub stars](https://img.shields.io/github/stars/iconicFonts/iconic-fonts?style=flat)](https://github.com/iconicFonts/iconic-fonts/stargazers) - Over 50 pre-patched fonts featuring 60k icons as glyphs.

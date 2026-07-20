@@ -36,6 +36,7 @@
 - [Preact CLI](https://github.com/developit/preact-cli) [![GitHub stars](https://img.shields.io/github/stars/developit/preact-cli?style=flat)](https://github.com/developit/preact-cli/stargazers) - Build a Preact Progressive Web App in seconds.
 - [Vite](https://github.com/vitejs/vite) [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite?style=flat)](https://github.com/vitejs/vite/stargazers) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 - [PreactPress](https://github.com/kamod-ch/preactpress) [![GitHub stars](https://img.shields.io/github/stars/kamod-ch/preactpress?style=flat)](https://github.com/kamod-ch/preactpress/stargazers) - Vite and Preact powered static site generator for docs, blogs, and marketing sites *([demo](https://kamod-ch.github.io/preactpress/))*.
+- [EviKit](https://codeberg.org/nykula/evikit) - Vite/Preact SSR framework for small web apps. SQLite ORM, OpenAPI validation, translation, SEO.
 - [nwb](https://github.com/insin/nwb) [![GitHub stars](https://img.shields.io/github/stars/insin/nwb?style=flat)](https://github.com/insin/nwb/stargazers) - Quick Development with React, Inferno or Preact.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired) [![GitHub stars](https://img.shields.io/github/stars/timarney/react-app-rewired?style=flat)](https://github.com/timarney/react-app-rewired/stargazers) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) [![GitHub stars](https://img.shields.io/github/stars/SaraVieira/preact-cli-postcss?style=flat)](https://github.com/SaraVieira/preact-cli-postcss/stargazers) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
@@ -188,6 +189,7 @@
 - [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app _([GitHub Project](https://github.com/MiftikCZ/idea-keeper-2) [![GitHub stars](https://img.shields.io/github/stars/MiftikCZ/idea-keeper-2?style=flat)](https://github.com/MiftikCZ/idea-keeper-2/stargazers))_.
 - [Trellith](https://trellith.sakih.net/) - Tiny Trello Clone PWA ([GitHub Project](https://github.com/sakihet/trellith) [![GitHub stars](https://img.shields.io/github/stars/sakihet/trellith?style=flat)](https://github.com/sakihet/trellith/stargazers)).
 - [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant _([GitHub Project](https://github.com/GladysAssistant/Gladys) [![GitHub stars](https://img.shields.io/github/stars/GladysAssistant/Gladys?style=flat)](https://github.com/GladysAssistant/Gladys/stargazers))_.
+- [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) [![GitHub stars](https://img.shields.io/github/stars/facebook/react?style=flat)](https://github.com/facebook/react/stargazers) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

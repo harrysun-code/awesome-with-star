@@ -246,12 +246,14 @@
 - [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
 - [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 - [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
+- [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
 - [Crysta](https://crysta.ai/) - Turn your favorite moments into exquisite, full-color 3D keepsakes.
 - [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [Echo-2 Viewer](https://spaitial.ai/gallery) - Explore splats created by the world models of SpAItial AI.
+- [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
 - [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
 - [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
@@ -266,7 +268,10 @@
 - [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Portable human 3DGS capture platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 - [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
+- [Splat Labs](https://www.splatlabs.ai/) - Capture, host and share immersive Gaussian splat digital twins.
 - [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
+- [SplatMart](https://www.splatmart.com/) - Marketplace for buying and selling Gaussian splat scenes and assets.
+- [Splatimation](https://splatimation.com/) - Create and publish 3D virtual tours.
 - [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 - [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
 - [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.

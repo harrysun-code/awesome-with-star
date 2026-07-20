@@ -61,6 +61,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [voicetest](https://github.com/voicetestdev/voicetest) [![GitHub stars](https://img.shields.io/github/stars/voicetestdev/voicetest?style=flat)](https://github.com/voicetestdev/voicetest/stargazers) - Open-source test harness for voice AI agents supporting Retell, VAPI, LiveKit, and Bland with autonomous simulations and LLM-based evaluation.
 - [AgentSkeptic](https://github.com/jwekavanagh/agentskeptic) [![GitHub stars](https://img.shields.io/github/stars/jwekavanagh/agentskeptic?style=flat)](https://github.com/jwekavanagh/agentskeptic/stargazers) - Verifies AI/agent workflows by checking database state after execution, comparing expected vs observed outcomes with read-only SQL.
 - [Evaliphy](https://github.com/evaliphy/evaliphy) [![GitHub stars](https://img.shields.io/github/stars/evaliphy/evaliphy?style=flat)](https://github.com/evaliphy/evaliphy/stargazers) - Test your AI system end-to-end with Evaliphy. It uses a Playwright-style testing approach and generates HTML reports.
+- [QASkills.sh](https://qaskills.sh) - Open registry of 400+ QA and testing skills (Playwright, API, LLM evaluation, accessibility, performance) that AI coding agents install and follow via the qaskills CLI. Works with Claude Code, Cursor, and 30+ other agents.
 - [nika](https://github.com/supernovae-st/nika) [![GitHub stars](https://img.shields.io/github/stars/supernovae-st/nika?style=flat)](https://github.com/supernovae-st/nika/stargazers) - Workflow engine for AI with testing built in: `nika test` pins a workflow's offline behavior as a golden snapshot (deterministic mock provider, zero keys) and replays it in CI; every run also leaves a hash-chained trace for post-hoc verification.
 
 ### Service Virtualization
@@ -99,6 +100,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
 - [Octomind](https://github.com/OctoMind-dev) [![GitHub stars](https://img.shields.io/github/stars/OctoMind-dev?style=flat)](https://github.com/OctoMind-dev/stargazers) - AI-powered test case discovery and maintenance.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) [![GitHub stars](https://img.shields.io/github/stars/vitalets/playwright-bdd?style=flat)](https://github.com/vitalets/playwright-bdd/stargazers) - BDD-style Playwright testing.
+- [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator that produces a ready-to-commit playwright.config.ts/.js/.mjs with browser projects (Chromium, Firefox, WebKit, mobile devices), retries, workers, trace/video/screenshots, webServer, and CI reporters. No signup.
 - [QA Wolf](https://github.com/qawolf/qawolf) [![GitHub stars](https://img.shields.io/github/stars/qawolf/qawolf?style=flat)](https://github.com/qawolf/qawolf/stargazers) - Node.js library for creating browser tests faster.
 - [tapflow](https://github.com/jo-duchan/tapflow) [![GitHub stars](https://img.shields.io/github/stars/jo-duchan/tapflow?style=flat)](https://github.com/jo-duchan/tapflow/stargazers) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) [![GitHub stars](https://img.shields.io/github/stars/Nikita-Filonov/ui-coverage-scenario-tool?style=flat)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool/stargazers) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
@@ -112,6 +114,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
+- [DATAMIMIC CE](https://github.com/rapiddweller/datamimic) [![GitHub stars](https://img.shields.io/github/stars/rapiddweller/datamimic?style=flat)](https://github.com/rapiddweller/datamimic/stargazers) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
+- [JSON Validation Test Cases](https://github.com/UtilHatch/json-validation-test-cases) [![GitHub stars](https://img.shields.io/github/stars/UtilHatch/json-validation-test-cases?style=flat)](https://github.com/UtilHatch/json-validation-test-cases/stargazers) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms. Free tier available.
 - [Synth](https://github.com/getsynth/synth) [![GitHub stars](https://img.shields.io/github/stars/getsynth/synth?style=flat)](https://github.com/getsynth/synth/stargazers) - Open-source test data generator.
 - [Touca](https://github.com/trytouca/trytouca) [![GitHub stars](https://img.shields.io/github/stars/trytouca/trytouca?style=flat)](https://github.com/trytouca/trytouca/stargazers) - Continuous regression testing for behavioral and performance comparisons.
@@ -129,6 +133,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Accessibility & Usability Testing
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 - [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for ADA and WCAG 2.2 compliance with instant actionable audits.
+- [squirrelscan](https://squirrelscan.com) - Audits websites for accessibility, SEO, performance, and security with 260+ rules and returns exact fixes for your coding agent, from the CLI, cloud, or MCP.
 - [VertaaUX CLI](https://github.com/VertaaUX/cli) [![GitHub stars](https://img.shields.io/github/stars/VertaaUX/cli?style=flat)](https://github.com/VertaaUX/cli/stargazers) - UX, accessibility, and conversion audits from the terminal and CI, with score-based quality gates and PR regression detection.
 - [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
@@ -153,6 +158,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Screen Recording & Session Replays
 - [Captura](https://github.com/MathewSachin/Captura) [![GitHub stars](https://img.shields.io/github/stars/MathewSachin/Captura?style=flat)](https://github.com/MathewSachin/Captura/stargazers) - Open-source video recording tool.
+- [PR Preview](https://www.pr-preview.com/) - MCP for Claude Code that drives your web app in a headed browser and records before/after demo videos of a pull request as MP4 or GIF.
 
 ### Mind Mapping & Documentation
 - [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.
@@ -213,6 +219,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) [![GitHub stars](https://img.shields.io/github/stars/christian-bromann/awesome-selenium?style=flat)](https://github.com/christian-bromann/awesome-selenium/stargazers) - Better than searching Google if you know what you want.
 - [Security](https://github.com/sbilly/awesome-security) [![GitHub stars](https://img.shields.io/github/stars/sbilly/awesome-security?style=flat)](https://github.com/sbilly/awesome-security/stargazers) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) [![GitHub stars](https://img.shields.io/github/stars/ligurio/awesome-software-quality?style=flat)](https://github.com/ligurio/awesome-software-quality/stargazers) - A list of free software testing and verification resources.
+- [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) [![GitHub stars](https://img.shields.io/github/stars/tugkanboz/awesome-ai-testing?style=flat)](https://github.com/tugkanboz/awesome-ai-testing/stargazers) - A curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 - [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) [![GitHub stars](https://img.shields.io/github/stars/virajkulkarni14/awesome-cucumber?style=flat)](https://github.com/virajkulkarni14/awesome-cucumber/stargazers) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) [![GitHub stars](https://img.shields.io/github/stars/aliesbelik/awesome-jmeter?style=flat)](https://github.com/aliesbelik/awesome-jmeter/stargazers) - A curated collection of resources around Apache JMeter.
 - [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) [![GitHub stars](https://img.shields.io/github/stars/be-next/awesome-performance-engineering?style=flat)](https://github.com/be-next/awesome-performance-engineering/stargazers) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.

@@ -125,7 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) [![GitHub stars](https://img.shields.io/github/stars/rockymadden/somafm-cli?style=flat)](https://github.com/rockymadden/somafm-cli/stargazers) - Listen to SomaFM in your terminal.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) [![GitHub stars](https://img.shields.io/github/stars/MusicPlayerDaemon/MPD?style=flat)](https://github.com/MusicPlayerDaemon/MPD/stargazers) - Music Player Daemon.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) [![GitHub stars](https://img.shields.io/github/stars/arybczak/ncmpcpp?style=flat)](https://github.com/arybczak/ncmpcpp/stargazers) - mpd client.
-- [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
+- [moc](https://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) [![GitHub stars](https://img.shields.io/github/stars/clangen/musikcube?style=flat)](https://github.com/clangen/musikcube/stargazers) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) [![GitHub stars](https://img.shields.io/github/stars/beetbox/beets?style=flat)](https://github.com/beetbox/beets/stargazers) - Music library manager and tagger.
 - [spotatui](https://github.com/LargeModGames/spotatui) [![GitHub stars](https://img.shields.io/github/stars/LargeModGames/spotatui?style=flat)](https://github.com/LargeModGames/spotatui/stargazers) - Spotify client.
@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [editly](https://github.com/mifi/editly) [![GitHub stars](https://img.shields.io/github/stars/mifi/editly?style=flat)](https://github.com/mifi/editly/stargazers) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) [![GitHub stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat)](https://github.com/yt-dlp/yt-dlp/stargazers) - A `youtube-dl` fork with additional features and fixes.
 - [cinema](https://github.com/marm00/cinema) [![GitHub stars](https://img.shields.io/github/stars/marm00/cinema?style=flat)](https://github.com/marm00/cinema/stargazers) - Multiviewer for videos and streams.
+- [capcut-cli](https://github.com/renezander030/capcut-cli) [![GitHub stars](https://img.shields.io/github/stars/renezander030/capcut-cli?style=flat)](https://github.com/renezander030/capcut-cli/stargazers) - Edit CapCut/JianYing projects.
 
 ### Movies
 
@@ -154,7 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
+- [Dwarf Fortress](https://www.bay12games.com/dwarves/) - Roguelike construction and management simulation.
 - [Cataclysm-DDA](https://cataclysmdda.org) - Turn-based survival game set in a post-apocalyptic world.
 - [Pokete](https://github.com/lxgr-linux/Pokete) [![GitHub stars](https://img.shields.io/github/stars/lxgr-linux/Pokete?style=flat)](https://github.com/lxgr-linux/Pokete/stargazers) - Pokemon-like.
 - [NetHack](https://www.nethack.org) - Roguelike dungeon crawler.
@@ -601,7 +602,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Columns
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/parse-columns-cli?style=flat)](https://github.com/sindresorhus/parse-columns-cli/stargazers) - Parse text columns to JSON.
-- [q](http://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
+- [q](https://harelba.github.io/q/) - Execution of SQL-like queries on CSV/TSV/tabular text file.
 
 ### Text
 
@@ -838,6 +839,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [toktrack](https://github.com/mag123c/toktrack) [![GitHub stars](https://img.shields.io/github/stars/mag123c/toktrack?style=flat)](https://github.com/mag123c/toktrack/stargazers) - Track token usage and cost across all agents.
 - [OpenCode](https://github.com/anomalyco/opencode) [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=flat)](https://github.com/anomalyco/opencode/stargazers) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) [![GitHub stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat)](https://github.com/Nano-Collective/nanocoder/stargazers) - Local-first agent TUI.
+- [faf-cli](https://github.com/Wolfe-Jam/faf-cli) [![GitHub stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli?style=flat)](https://github.com/Wolfe-Jam/faf-cli/stargazers) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 
 ### LLM Interaction
 

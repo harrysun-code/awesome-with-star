@@ -135,7 +135,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Skeema](https://github.com/skeema/skeema) [![GitHub stars](https://img.shields.io/github/stars/skeema/skeema?style=flat)](https://github.com/skeema/skeema/stargazers) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
 - [SQLE](https://github.com/actiontech/sqle/blob/main/README_en.md) [![GitHub stars](https://img.shields.io/github/stars/actiontech/sqle/blob/main/README_en.md?style=flat)](https://github.com/actiontech/sqle/blob/main/README_en.md/stargazers) - SQLE is a SQL audit platform for DBA or developer
 - [Test database](https://github.com/datacharmer/test_db) [![GitHub stars](https://img.shields.io/github/stars/datacharmer/test_db?style=flat)](https://github.com/datacharmer/test_db/stargazers) - A sample MySQL database with an integrated test suite, used to test applications and servers
-- [cover_me](https://github.com/verizonconnect/database-development) [![GitHub stars](https://img.shields.io/github/stars/verizonconnect/database-development?style=flat)](https://github.com/verizonconnect/database-development/stargazers) - code coverage tool for mysql stored procedures and functions
+- [cover_me](https://github.com/verizonconnect/cover_me) [![GitHub stars](https://img.shields.io/github/stars/verizonconnect/cover_me?style=flat)](https://github.com/verizonconnect/cover_me/stargazers) - code coverage tool for mysql stored procedures and functions
 
 ## GUI
 

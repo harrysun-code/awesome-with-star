@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **232** projects · **65** actively maintained · **11** 🔥 hot · **46** 🪦 on the graveyard shelf.
+> Tracking **232** projects · **65** actively maintained · **11** 🔥 hot · **45** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -103,6 +103,7 @@ Also see:
 - [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
+- [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
@@ -111,7 +112,6 @@ Also see:
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
-- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -137,11 +137,11 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [n98-magerun2](https://github.com/netz98/n98-magerun2) [![GitHub stars](https://img.shields.io/github/stars/netz98/n98-magerun2?style=flat)](https://github.com/netz98/n98-magerun2/stargazers) 🫡 - The CLI Swiss Army Knife for Magento 2.
 - [Warden](https://github.com/wardenenv/warden) [![GitHub stars](https://img.shields.io/github/stars/wardenenv/warden?style=flat)](https://github.com/wardenenv/warden/stargazers) 🫡 - CLI utility for working with docker-compose environments by David Alger.
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) [![GitHub stars](https://img.shields.io/github/stars/magento/magento2-phpstorm-plugin?style=flat)](https://github.com/magento/magento2-phpstorm-plugin/stargazers) 🫡 - Official PhpStorm Magento 2 extension.
-- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) [![GitHub stars](https://img.shields.io/github/stars/baldwin-agency/magento2-module-url-data-integrity-checker?style=flat)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker/stargazers) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
 - [Mage](https://github.com/GrimLink/mage) [![GitHub stars](https://img.shields.io/github/stars/GrimLink/mage?style=flat)](https://github.com/GrimLink/mage/stargazers) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge](https://github.com/OpenForgeProject/mageforge) [![GitHub stars](https://img.shields.io/github/stars/OpenForgeProject/mageforge?style=flat)](https://github.com/OpenForgeProject/mageforge/stargazers) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) [![GitHub stars](https://img.shields.io/github/stars/magespecialist/mage-chrome-toolbar?style=flat)](https://github.com/magespecialist/mage-chrome-toolbar/stargazers) - Chrome extension for Magento 2 development by MageSpecialist.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) [![GitHub stars](https://img.shields.io/github/stars/AmpersandHQ/ampersand-magento2-upgrade-patch-helper?style=flat)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper/stargazers) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
+- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) [![GitHub stars](https://img.shields.io/github/stars/baldwin-agency/magento2-module-url-data-integrity-checker?style=flat)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker/stargazers) - Magento 2 module that finds potential URL-related problems in your catalog data.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) [![GitHub stars](https://img.shields.io/github/stars/magespecialist/m2-MSP_DevTools?style=flat)](https://github.com/magespecialist/m2-MSP_DevTools/stargazers) - Developer toolbar for Magento 2.
 - [Tango](https://github.com/roma-glushko/tango) [![GitHub stars](https://img.shields.io/github/stars/roma-glushko/tango?style=flat)](https://github.com/roma-glushko/tango/stargazers) - CLI for analyzing access logs.
 - [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce) [![GitHub stars](https://img.shields.io/github/stars/opengento/magento2-downgrade-ee-ce?style=flat)](https://github.com/opengento/magento2-downgrade-ee-ce/stargazers) - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
@@ -170,6 +170,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) [![GitHub stars](https://img.shields.io/github/stars/mage2tv/magento-cache-clean?style=flat)](https://github.com/mage2tv/magento-cache-clean/stargazers) 🔥 - A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
 - [Magewire PHP](https://github.com/magewirephp/magewire) [![GitHub stars](https://img.shields.io/github/stars/magewirephp/magewire?style=flat)](https://github.com/magewirephp/magewire/stargazers) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
+- [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) [![GitHub stars](https://img.shields.io/github/stars/avstudnitz/AvS_ScopeHint2?style=flat)](https://github.com/avstudnitz/AvS_ScopeHint2/stargazers) 🫡 - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) [![GitHub stars](https://img.shields.io/github/stars/semaio/Magento2-ConfigImportExport?style=flat)](https://github.com/semaio/Magento2-ConfigImportExport/stargazers) 🫡 - CLI-based config management.
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento?style=flat)](https://github.com/bitExpert/phpstan-magento/stargazers) 🫡 - Magento-specific extension for PHPStan.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_Whoops?style=flat)](https://github.com/yireo/Yireo_Whoops/stargazers) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
@@ -181,7 +182,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [MageVulnDB](https://github.com/gwillem/magevulndb) [![GitHub stars](https://img.shields.io/github/stars/gwillem/magevulndb?style=flat)](https://github.com/gwillem/magevulndb/stargazers) - Central repository for third-party Magento extensions with known security issues.
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) [![GitHub stars](https://img.shields.io/github/stars/ctidigital/magento2-configurator?style=flat)](https://github.com/ctidigital/magento2-configurator/stargazers) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
 - [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) [![GitHub stars](https://img.shields.io/github/stars/elgentos/magento2-cypress-testing-suite/?style=flat)](https://github.com/elgentos/magento2-cypress-testing-suite//stargazers) - A community-driven Cypress testing suite for Magento 2.
-- [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) [![GitHub stars](https://img.shields.io/github/stars/avstudnitz/AvS_ScopeHint2?style=flat)](https://github.com/avstudnitz/AvS_ScopeHint2/stargazers) - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_AutoFlushCache?style=flat)](https://github.com/yireo/Yireo_AutoFlushCache/stargazers) - Magento 2 module to automatically flush the cache.
 - [Dot Env](https://github.com/zepgram/magento-dotenv) [![GitHub stars](https://img.shields.io/github/stars/zepgram/magento-dotenv?style=flat)](https://github.com/zepgram/magento-dotenv/stargazers) - Magento 2 Environment Variable Component implementing Symfony Dotenv.
 - [Rest Client](https://github.com/zepgram/module-rest) [![GitHub stars](https://img.shields.io/github/stars/zepgram/module-rest?style=flat)](https://github.com/zepgram/module-rest/stargazers) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
@@ -354,9 +354,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Atwix](https://www.atwix.com/blog/) 🫡 - Magento development agency blog.
 - [Classy Llama](https://www.classyllama.com/blog) 🫡 - Magento agency blog.
-- [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
 - [dev98](https://dev98.de/) - German Magento agency blog.
+- [FireBear Studio](https://firebearstudio.com/blog) - FireBear Studio's Magento development blog.
 - [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
 <details>
