@@ -371,6 +371,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [gtasks](https://github.com/BRO3886/gtasks) [![GitHub stars](https://img.shields.io/github/stars/BRO3886/gtasks?style=flat)](https://github.com/BRO3886/gtasks/stargazers) - Manage Google Tasks.
 - [epiq](https://github.com/ljtn/epiq) [![GitHub stars](https://img.shields.io/github/stars/ljtn/epiq?style=flat)](https://github.com/ljtn/epiq/stargazers) - Local-first distributed issue tracker backed by Git.
 - [feeling](https://github.com/qiz-li/feeling) [![GitHub stars](https://img.shields.io/github/stars/qiz-li/feeling?style=flat)](https://github.com/qiz-li/feeling/stargazers) - Mood tracker that visualizes your emotional patterns over time.
+- [confluence-cli](https://github.com/pchuri/confluence-cli) [![GitHub stars](https://img.shields.io/github/stars/pchuri/confluence-cli?style=flat)](https://github.com/pchuri/confluence-cli/stargazers) - Confluence client.
 
 ### Finance
 
@@ -642,6 +643,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dust](https://github.com/bootandy/dust) [![GitHub stars](https://img.shields.io/github/stars/bootandy/dust?style=flat)](https://github.com/bootandy/dust/stargazers) - A more intuitive version of `du` in Rust.
 - [dutree](https://github.com/nachoparker/dutree) [![GitHub stars](https://img.shields.io/github/stars/nachoparker/dutree?style=flat)](https://github.com/nachoparker/dutree/stargazers) - A tool to analyze file system usage written in Rust.
 - [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
+- [darya](https://github.com/mrkatebzadeh/darya) [![GitHub stars](https://img.shields.io/github/stars/mrkatebzadeh/darya?style=flat)](https://github.com/mrkatebzadeh/darya/stargazers) - A disk usage explorer TUI with live treemap.
 
 ### Files
 
@@ -840,6 +842,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [OpenCode](https://github.com/anomalyco/opencode) [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=flat)](https://github.com/anomalyco/opencode/stargazers) - Open-source agent TUI.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) [![GitHub stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat)](https://github.com/Nano-Collective/nanocoder/stargazers) - Local-first agent TUI.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) [![GitHub stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli?style=flat)](https://github.com/Wolfe-Jam/faf-cli/stargazers) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
+- [agentty](https://github.com/1ay1/agentty) [![GitHub stars](https://img.shields.io/github/stars/1ay1/agentty?style=flat)](https://github.com/1ay1/agentty/stargazers) - C++ agent TUI.
 
 ### LLM Interaction
 

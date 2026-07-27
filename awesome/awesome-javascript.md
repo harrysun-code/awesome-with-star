@@ -562,6 +562,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) [![GitHub stars](https://img.shields.io/github/stars/Fooidge/PleaseJS?style=flat)](https://github.com/Fooidge/PleaseJS/stargazers) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) [![GitHub stars](https://img.shields.io/github/stars/bgrins/TinyColor?style=flat)](https://github.com/bgrins/TinyColor/stargazers) - Fast, small color manipulation and conversion for JavaScript.
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) [![GitHub stars](https://img.shields.io/github/stars/jariz/vibrant.js/?style=flat)](https://github.com/jariz/vibrant.js//stargazers) - Extract prominent colors from an image.
+* [color-space](https://github.com/colorjs/color-space) [![GitHub stars](https://img.shields.io/github/stars/colorjs/color-space?style=flat)](https://github.com/colorjs/color-space/stargazers) - Conversions between 162 color spaces (OKLCH, CAM16, Munsell, camera logs) with cited references.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -640,6 +641,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Streaming
 
 * [Tailor](https://github.com/zalando/tailor) [![GitHub stars](https://img.shields.io/github/stars/zalando/tailor?style=flat)](https://github.com/zalando/tailor/stargazers) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
+* [Markstream](https://github.com/Simon-He95/markstream-vue) [![GitHub stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat)](https://github.com/Simon-He95/markstream-vue/stargazers) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
 
 ## Vision Detection
 
@@ -1098,6 +1100,7 @@ https://listjs.com
 * [Peg.js](https://github.com/pegjs/pegjs) [![GitHub stars](https://img.shields.io/github/stars/pegjs/pegjs?style=flat)](https://github.com/pegjs/pegjs/stargazers) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) [![GitHub stars](https://img.shields.io/github/stars/ryanseys/lune?style=flat)](https://github.com/ryanseys/lune/stargazers) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) [![GitHub stars](https://img.shields.io/github/stars/fcambus/jsemu?style=flat)](https://github.com/fcambus/jsemu/stargazers) - A list of emulators written in the JavaScript programming language.
+* [rrweb](https://github.com/rrweb-io/rrweb) [![GitHub stars](https://img.shields.io/github/stars/rrweb-io/rrweb?style=flat)](https://github.com/rrweb-io/rrweb/stargazers) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 
 # Worth Reading
  

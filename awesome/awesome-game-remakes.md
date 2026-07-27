@@ -14,6 +14,10 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 If you are looking for game archive file formats see: [Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing/) [![GitHub stars](https://img.shields.io/github/stars/VelocityRa/awesome-game-file-format-reversing/?style=flat)](https://github.com/VelocityRa/awesome-game-file-format-reversing//stargazers)
 
+If you are looking for not only remakes have a look at:
+- [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) [![GitHub stars](https://img.shields.io/github/stars/michelpereira/awesome-open-source-games?style=flat)](https://github.com/michelpereira/awesome-open-source-games/stargazers)
+- [OSGL - Open Source Games List](https://github.com/Trilarion/opensourcegames) [![GitHub stars](https://img.shields.io/github/stars/Trilarion/opensourcegames?style=flat)](https://github.com/Trilarion/opensourcegames/stargazers)
+
 ---
 
 ## Contents
@@ -114,6 +118,8 @@ If you are looking for game archive file formats see: [Awesome Game File Format 
 - [ezQuake](https://github.com/ezQuake/ezquake-source) [![GitHub stars](https://img.shields.io/github/stars/ezQuake/ezquake-source?style=flat)](https://github.com/ezQuake/ezquake-source/stargazers) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
 - [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine. :flower_playing_cards:
 - [Freedoom](https://github.com/freedoom/freedoom) [![GitHub stars](https://img.shields.io/github/stars/freedoom/freedoom?style=flat)](https://github.com/freedoom/freedoom/stargazers) - Free software FPS based on the classic DOOM engine. :flower_playing_cards:
+- [FnQ3](https://github.com/themuffinator/FnQ3) [![GitHub stars](https://img.shields.io/github/stars/themuffinator/FnQ3?style=flat)](https://github.com/themuffinator/FnQ3/stargazers) - FnQ3 • Fappin' Quake 3 • Modernized sourceport for QUAKE III: ARENA
+- [FnQL](https://github.com/themuffinator/FnQL) [![GitHub stars](https://img.shields.io/github/stars/themuffinator/FnQL?style=flat)](https://github.com/themuffinator/FnQL/stargazers) - FnQL • Fappin' QUAKE LIVE • Modernized sourceport for QUAKE LIVE
 - [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 - [ew-progs](https://code.idtech.space/two-guys/ew-progs) - Eternal War: Shadows of Light's progs source code.
 - [ew-engine](https://code.idtech.space/two-guys/ew-engine) - Eternal War: Shadows of Light's engine source code.
@@ -150,7 +156,6 @@ If you are looking for game archive file formats see: [Awesome Game File Format 
 - [quake3-rust-edition](https://github.com/Oli97430/quake3-rust-edition) [![GitHub stars](https://img.shields.io/github/stars/Oli97430/quake3-rust-edition?style=flat)](https://github.com/Oli97430/quake3-rust-edition/stargazers) - id Tech 3 reimagined in Rust — multiplayer FPS with lag compensation, TDM, demos, and ultra-wide support.
 - [Quake3e](https://github.com/ec-/Quake3e) [![GitHub stars](https://img.shields.io/github/stars/ec-/Quake3e?style=flat)](https://github.com/ec-/Quake3e/stargazers) - Improved Quake III Arena engine.
 - [quakeforge](https://github.com/quakeforge/quakeforge) [![GitHub stars](https://img.shields.io/github/stars/quakeforge/quakeforge?style=flat)](https://github.com/quakeforge/quakeforge/stargazers) - QuakeForge is descended from the original Quake engine as released by Id Software in December 1999, and can be used to play original Quake and QuakeWorld games and mods (including many modern mods).
-- [QL-SRP](https://github.com/themuffinator/QL-SRP) [![GitHub stars](https://img.shields.io/github/stars/themuffinator/QL-SRP?style=flat)](https://github.com/themuffinator/QL-SRP/stargazers) - Source Reconstruction Project for QUAKE LIVE [WIP]
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 - [Raze](https://github.com/ZDoom/Raze) [![GitHub stars](https://img.shields.io/github/stars/ZDoom/Raze?style=flat)](https://github.com/ZDoom/Raze/stargazers) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) [![GitHub stars](https://img.shields.io/github/stars/RobertBeckebans/RBDOOM-3-BFG?style=flat)](https://github.com/RobertBeckebans/RBDOOM-3-BFG/stargazers) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.

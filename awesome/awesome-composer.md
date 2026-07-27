@@ -80,7 +80,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) [![GitH
 - [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) [![GitHub stars](https://img.shields.io/github/stars/BrainMaestro/composer-git-hooks?style=flat)](https://github.com/BrainMaestro/composer-git-hooks/stargazers) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex](https://github.com/symfony/flex) [![GitHub stars](https://img.shields.io/github/stars/symfony/flex?style=flat)](https://github.com/symfony/flex/stargazers) - Provides [recipe-based](https://github.com/symfony/recipes) [![GitHub stars](https://img.shields.io/github/stars/symfony/recipes?style=flat)](https://github.com/symfony/recipes/stargazers) installation and configuration management for Symfony packages.
 - [Narrowspark-Automatic](https://github.com/narrowspark/automatic) [![GitHub stars](https://img.shields.io/github/stars/narrowspark/automatic?style=flat)](https://github.com/narrowspark/automatic/stargazers) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
-- [PHPCodeSniffer-Composer-Installer](https://github.com/PHPCSStandards/composer-installer) [![GitHub stars](https://img.shields.io/github/stars/PHPCSStandards/composer-installer?style=flat)](https://github.com/PHPCSStandards/composer-installer/stargazers) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer?style=flat)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers) coding standards (rulesets).
+- [PHPCodeSniffer-Composer-Installer](https://github.com/PHPCSStandards/composer-installer) [![GitHub stars](https://img.shields.io/github/stars/PHPCSStandards/composer-installer?style=flat)](https://github.com/PHPCSStandards/composer-installer/stargazers) - The plugin enables you to install [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) [![GitHub stars](https://img.shields.io/github/stars/PHPCSStandards/PHP_CodeSniffer?style=flat)](https://github.com/PHPCSStandards/PHP_CodeSniffer/stargazers) coding standards (rulesets).
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) [![GitHub stars](https://img.shields.io/github/stars/jderusse/composer-warmup?style=flat)](https://github.com/jderusse/composer-warmup/stargazers) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 - [Foxy](https://github.com/fxpio/foxy) [![GitHub stars](https://img.shields.io/github/stars/fxpio/foxy?style=flat)](https://github.com/fxpio/foxy/stargazers) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) [![GitHub stars](https://img.shields.io/github/stars/thecodingmachine/nodejs-installer?style=flat)](https://github.com/thecodingmachine/nodejs-installer/stargazers) - Installer for Node.js and npm.
@@ -100,6 +100,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) [![GitH
 - [Composer-Diff](https://github.com/IonBazan/composer-diff) [![GitHub stars](https://img.shields.io/github/stars/IonBazan/composer-diff?style=flat)](https://github.com/IonBazan/composer-diff/stargazers) - Compares `composer.lock` changes and generates a Markdown report for usage in a pull request description.
 - [Composer-Velocita](https://github.com/isaaceindhoven/composer-velocita) [![GitHub stars](https://img.shields.io/github/stars/isaaceindhoven/composer-velocita?style=flat)](https://github.com/isaaceindhoven/composer-velocita/stargazers) - Fast and reliable Composer package downloads using [Velocita](https://github.com/isaaceindhoven/velocita-proxy) [![GitHub stars](https://img.shields.io/github/stars/isaaceindhoven/velocita-proxy?style=flat)](https://github.com/isaaceindhoven/velocita-proxy/stargazers): a caching reverse proxy that does not require you to modify your projects.
 - [Composer Translation Validator](https://github.com/move-elevator/composer-translation-validator) [![GitHub stars](https://img.shields.io/github/stars/move-elevator/composer-translation-validator?style=flat)](https://github.com/move-elevator/composer-translation-validator/stargazers) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
+- [Composer-Fanfare](https://github.com/wazum/composer-fanfare) [![GitHub stars](https://img.shields.io/github/stars/wazum/composer-fanfare?style=flat)](https://github.com/wazum/composer-fanfare/stargazers) - Displays a colored ASCII art banner after install/update, with color presets, gradients and animations.
 
 ## Tools
 
@@ -136,9 +137,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) [![GitH
 
 ## Tutorials
 
-- [A beginners guide to Composer](https://www.digitalocean.com/community/tutorials/a-beginners-guide-to-composer)
-- [A short & simple Composer tutorial](https://www.dev-metal.com/composer-tutorial/)
-- [Easy package management with Composer](https://code.tutsplus.com/easy-package-management-with-composer--net-25530t)
+- [A short & simple Composer tutorial](https://dev-metal.com/composer-tutorial/)
 - [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 - [Composer Primer](https://daylerees.com/composer-primer/)
 - [PHP Composer Magento Tutorial by Alan Storm](https://alanastorm.com/php_composer_magento_tutorial/)
@@ -213,11 +212,8 @@ About metadata mirrors: https://packagist.org/mirrors
 - Global, CloudFlare - [packagist.pages.dev](https://packagist.pages.dev/)
 - North America
   - Canada - [packagist.org](https://packagist.org) *Main mirror*
-- Africa
-  - South Africa - [packagist.co.za](https://packagist.co.za)
 - Asia
   - China - [https://pkg.xyz/](https://pkg.xyz/), [https://developer.aliyun.com/composer](https://developer.aliyun.com/composer)
-  - India - [https://packagist.in/](https://packagist.in/)
   - Japan - [packagist.jp](https://packagist.jp)
   - Korea - [https://packagist.kr/](https://packagist.kr/)
 

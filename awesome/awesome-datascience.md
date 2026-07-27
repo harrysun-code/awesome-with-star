@@ -27,7 +27,11 @@ $ brew install academic
 
 ## Sponsors
 
-Be the first to sponsor! `github@academic.io`
+
+[![Graphyn: visualize specialized agent workflows](https://raw.githubusercontent.com/fuego-wtf/graphyn-code/main/assets/graphyn-agent-workflows.png)](https://graphyn.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=graphyn_founding_alpha&utm_content=awesome_datascience_banner)
+
+
+Become a sponsor! `github@academic.io`
 
 
 
@@ -128,6 +132,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 
 ### Frameworks
 - [ADK-Rust](https://github.com/zavora-ai/adk-rust) [![GitHub stars](https://img.shields.io/github/stars/zavora-ai/adk-rust?style=flat)](https://github.com/zavora-ai/adk-rust/stargazers) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
+- [Lumen](https://github.com/holoviz/lumen) [![GitHub stars](https://img.shields.io/github/stars/holoviz/lumen?style=flat)](https://github.com/holoviz/lumen/stargazers) - Agent framework for chatting with data, turning natural language into SQL, transformation pipelines and visualizations. Outputs are declarative specs that can be inspected, edited, reopened in a notebook or composed into a dashboard.
 
 ### Tools
 - [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp) [![GitHub stars](https://img.shields.io/github/stars/OzorOwn/frostbyte-mcp?style=flat)](https://github.com/OzorOwn/frostbyte-mcp/stargazers) - MCP server providing 13 data tools for AI agents: real-time crypto prices, IP geolocation, DNS lookups, web scraping to markdown, code execution, and screenshots. One API key for 40+ services.

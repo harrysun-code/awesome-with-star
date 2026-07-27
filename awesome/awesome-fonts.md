@@ -60,6 +60,7 @@ A curated list of fonts and typography resources.
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) [![GitHub stars](https://img.shields.io/github/stars/TypeNetwork/Amstelvar?style=flat)](https://github.com/TypeNetwork/Amstelvar/stargazers) - A parametric variable font
 * [AtF Spark](https://github.com/aftertheflood/sparks) [![GitHub stars](https://img.shields.io/github/stars/aftertheflood/sparks?style=flat)](https://github.com/aftertheflood/sparks/stargazers) - Font designed to create sparklines
 * [Barlow](https://github.com/jpt/barlow) [![GitHub stars](https://img.shields.io/github/stars/jpt/barlow?style=flat)](https://github.com/jpt/barlow/stargazers) - A grotesk variable font superfamily
+* [Decoy Font](https://www.mixfont.com/experiments/decoy-font) - A TTF font that hides what you're typing from AI
 * [Inter](https://github.com/rsms/inter) [![GitHub stars](https://img.shields.io/github/stars/rsms/inter?style=flat)](https://github.com/rsms/inter/stargazers) - A typeface specially designed for user interfaces
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) [![GitHub stars](https://img.shields.io/github/stars/impallari/Libre-Franklin?style=flat)](https://github.com/impallari/Libre-Franklin/stargazers) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 * [Martian Mono](https://github.com/evilmartians/mono) [![GitHub stars](https://img.shields.io/github/stars/evilmartians/mono?style=flat)](https://github.com/evilmartians/mono/stargazers) - Free and open-source monospaced font from Evil Martians

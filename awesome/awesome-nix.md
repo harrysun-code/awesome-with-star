@@ -80,6 +80,7 @@ A curated list of the best resources in the Nix community.
 * [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) [![GitHub stars](https://img.shields.io/github/stars/ryan4yin/nixos-and-flakes-book?style=flat)](https://github.com/ryan4yin/nixos-and-flakes-book/stargazers) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
 * [NixOS in Production](https://leanpub.com/nixos-in-production) - Free (pay-what-you-want) book in pdf format.
+* [Unofficial NixOS test driver manual](https://applicative.systems/nixos-test-driver-manual/) - Opinionated unofficial NixOS test driver manual with quick getting started guides and best practices.
 * [Official Nix manual](https://nix.dev/manual/nix/stable/) - Latest stable version of the official Nix manual, best used as reference guide. Receives updates when available.
 * [Official NixOS manual](https://nixos.org/manual/nixos/stable/) - Latest stable version of the official NixOS manual, mix of tutorial and reference guide. Receives updates when available.
 * [Official Nixpkgs manual](https://nixos.org/manual/nixpkgs/stable/) - Latest stable version of the official Nixpkgs reference manual. Receives updates when available.
@@ -92,6 +93,7 @@ A curated list of the best resources in the Nix community.
 * [Home Manager Option Search](https://home-manager-options.extranix.com/) - Search through all 2000+ Home Manager options and read how to use them.
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
+* [Nix Software](https://nixsoftware.org/en/) - Friendly package search. Supports logos, screenshots, categories, and translations into multiple languages.
 * [nix-search-tv](https://github.com/3timeslazy/nix-search-tv) [![GitHub stars](https://img.shields.io/github/stars/3timeslazy/nix-search-tv?style=flat)](https://github.com/3timeslazy/nix-search-tv/stargazers) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 * [NüschtOS Search](https://github.com/NuschtOS/search) [![GitHub stars](https://img.shields.io/github/stars/NuschtOS/search?style=flat)](https://github.com/NuschtOS/search/stargazers) - Simple and fast static-page NixOS option search.
@@ -118,7 +120,7 @@ A curated list of the best resources in the Nix community.
 
 * [bento](https://github.com/rapenne-s/bento/) [![GitHub stars](https://img.shields.io/github/stars/rapenne-s/bento/?style=flat)](https://github.com/rapenne-s/bento//stargazers) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 * [Clan](https://clan.lol) - A peer-to-peer deployment tool with inbuilt support for secrets and a module system to manage distributed networks.
-* [Colmena](https://github.com/zhaofengli/colmena) [![GitHub stars](https://img.shields.io/github/stars/zhaofengli/colmena?style=flat)](https://github.com/zhaofengli/colmena/stargazers) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+* [Colmena](https://github.com/nix-community/colmena) [![GitHub stars](https://img.shields.io/github/stars/nix-community/colmena?style=flat)](https://github.com/nix-community/colmena/stargazers) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 * [comin](https://github.com/nlewo/comin) [![GitHub stars](https://img.shields.io/github/stars/nlewo/comin?style=flat)](https://github.com/nlewo/comin/stargazers) - A deployment tool to continuously pull from Git repositories.
 * [deploy-rs](https://github.com/serokell/deploy-rs) [![GitHub stars](https://img.shields.io/github/stars/serokell/deploy-rs?style=flat)](https://github.com/serokell/deploy-rs/stargazers) - A simple multi-profile Nix-flake deploy tool.
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
@@ -135,6 +137,7 @@ A curated list of the best resources in the Nix community.
 
 ## Virtualisation
 
+* [agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) [![GitHub stars](https://img.shields.io/github/stars/archie-judd/agent-sandbox.nix?style=flat)](https://github.com/archie-judd/agent-sandbox.nix/stargazers) - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
 * [extra-container](https://github.com/erikarvstedt/extra-container) [![GitHub stars](https://img.shields.io/github/stars/erikarvstedt/extra-container?style=flat)](https://github.com/erikarvstedt/extra-container/stargazers) - Run declarative NixOS containers from the command line.
 * [microvm](https://github.com/microvm-nix/microvm.nix) [![GitHub stars](https://img.shields.io/github/stars/microvm-nix/microvm.nix?style=flat)](https://github.com/microvm-nix/microvm.nix/stargazers) - NixOS-based MicroVMs.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) [![GitHub stars](https://img.shields.io/github/stars/Mic92/nixos-shell?style=flat)](https://github.com/Mic92/nixos-shell/stargazers) - Simple headless VM configuration using Nix (similar to Vagrant).
@@ -146,7 +149,7 @@ A curated list of the best resources in the Nix community.
 * [comma](https://github.com/nix-community/comma) [![GitHub stars](https://img.shields.io/github/stars/nix-community/comma?style=flat)](https://github.com/nix-community/comma/stargazers) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [deadnix](https://github.com/astro/deadnix) [![GitHub stars](https://img.shields.io/github/stars/astro/deadnix?style=flat)](https://github.com/astro/deadnix/stargazers) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) [![GitHub stars](https://img.shields.io/github/stars/cachix/devenv?style=flat)](https://github.com/cachix/devenv/stargazers) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
-* [dix](https://github.com/faukah/dix) [![GitHub stars](https://img.shields.io/github/stars/faukah/dix?style=flat)](https://github.com/faukah/dix/stargazers) - Diff Nix; a super-fast tool to diff Nix related things.
+* [dix](https://github.com/manic-systems/dix) [![GitHub stars](https://img.shields.io/github/stars/manic-systems/dix?style=flat)](https://github.com/manic-systems/dix/stargazers) - Diff Nix; a super-fast tool to diff Nix related things.
 * [manix](https://github.com/mlvzk/manix) [![GitHub stars](https://img.shields.io/github/stars/mlvzk/manix?style=flat)](https://github.com/mlvzk/manix/stargazers) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 * [nh](https://github.com/nix-community/nh) [![GitHub stars](https://img.shields.io/github/stars/nix-community/nh?style=flat)](https://github.com/nix-community/nh/stargazers) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) [![GitHub stars](https://img.shields.io/github/stars/thiagokokada/nix-alien?style=flat)](https://github.com/thiagokokada/nix-alien/stargazers) - Run unpatched binaries on Nix/NixOS easily.
@@ -177,6 +180,7 @@ A curated list of the best resources in the Nix community.
 * [Devbox](https://github.com/jetify-com/devbox) [![GitHub stars](https://img.shields.io/github/stars/jetify-com/devbox?style=flat)](https://github.com/jetify-com/devbox/stargazers) - Instant, portable, and predictable development environments.
 * [devshell](https://github.com/numtide/devshell) [![GitHub stars](https://img.shields.io/github/stars/numtide/devshell?style=flat)](https://github.com/numtide/devshell/stargazers) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
 * [dream2nix](https://github.com/nix-community/dream2nix) [![GitHub stars](https://img.shields.io/github/stars/nix-community/dream2nix?style=flat)](https://github.com/nix-community/dream2nix/stargazers) - A framework for automatically converting packages from other build systems to Nix.
+* [flake-edit](https://github.com/a-kenji/flake-edit) [![GitHub stars](https://img.shields.io/github/stars/a-kenji/flake-edit?style=flat)](https://github.com/a-kenji/flake-edit/stargazers) - Edit your flake inputs with auto-follows and update functionality directly from the CLI.
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) [![GitHub stars](https://img.shields.io/github/stars/gytis-ivaskevicius/flake-utils-plus?style=flat)](https://github.com/gytis-ivaskevicius/flake-utils-plus/stargazers) - A lightweight Nix library flake for painless NixOS flake configuration.
 * [flake-utils](https://github.com/numtide/flake-utils) [![GitHub stars](https://img.shields.io/github/stars/numtide/flake-utils?style=flat)](https://github.com/numtide/flake-utils/stargazers) - Pure Nix flake utility functions to help with writing flakes.
 * [flake.parts](https://github.com/hercules-ci/flake-parts) [![GitHub stars](https://img.shields.io/github/stars/hercules-ci/flake-parts?style=flat)](https://github.com/hercules-ci/flake-parts/stargazers) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules.
@@ -300,9 +304,7 @@ A curated list of the best resources in the Nix community.
 * [fenix](https://github.com/nix-community/fenix) [![GitHub stars](https://img.shields.io/github/stars/nix-community/fenix?style=flat)](https://github.com/nix-community/fenix/stargazers) - Rust toolchains and Rust analyzer nightly for nix.
 * [naersk](https://github.com/nix-community/naersk) [![GitHub stars](https://img.shields.io/github/stars/nix-community/naersk?style=flat)](https://github.com/nix-community/naersk/stargazers) - Build Rust packages directly from `Cargo.lock`. No conversion step needed.
 * [nix-cargo-integration](https://github.com/90-008/nix-cargo-integration) [![GitHub stars](https://img.shields.io/github/stars/90-008/nix-cargo-integration?style=flat)](https://github.com/90-008/nix-cargo-integration/stargazers) - A library that allows easy and effortless integration for Cargo projects.
-* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) [![GitHub stars](https://img.shields.io/github/stars/mozilla/nixpkgs-mozilla?style=flat)](https://github.com/mozilla/nixpkgs-mozilla/stargazers) - Mozilla's overlay with Rust toolchains and Firefox.
 * [rust-nix-templater](https://github.com/90-008/rust-nix-templater) [![GitHub stars](https://img.shields.io/github/stars/90-008/rust-nix-templater?style=flat)](https://github.com/90-008/rust-nix-templater/stargazers) - Generates Nix build and development files for Rust projects.
-* [rust-overlay](https://github.com/oxalica/rust-overlay) [![GitHub stars](https://img.shields.io/github/stars/oxalica/rust-overlay?style=flat)](https://github.com/oxalica/rust-overlay/stargazers) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 
 ### Scala
 
@@ -347,8 +349,10 @@ A curated list of the best resources in the Nix community.
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) [![GitHub stars](https://img.shields.io/github/stars/freuk/awesome-nix-hpc?style=flat)](https://github.com/freuk/awesome-nix-hpc/stargazers) - High Performance Computing package sets.
 * [neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) [![GitHub stars](https://img.shields.io/github/stars/nix-community/neovim-nightly-overlay?style=flat)](https://github.com/nix-community/neovim-nightly-overlay/stargazers) - Daily bumped Neovim nightly package.
 * [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) [![GitHub stars](https://img.shields.io/github/stars/bandithedoge/nixpkgs-firefox-darwin?style=flat)](https://github.com/bandithedoge/nixpkgs-firefox-darwin/stargazers) - Automatically updated Firefox binary packages for macOS.
+* [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) [![GitHub stars](https://img.shields.io/github/stars/mozilla/nixpkgs-mozilla?style=flat)](https://github.com/mozilla/nixpkgs-mozilla/stargazers) - Mozilla's overlay with Rust toolchains and Firefox.
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) [![GitHub stars](https://img.shields.io/github/stars/nix-community/nixpkgs-wayland?style=flat)](https://github.com/nix-community/nixpkgs-wayland/stargazers) - Bleeding-edge Wayland packages.
 * [NUR](https://github.com/nix-community/NUR/) [![GitHub stars](https://img.shields.io/github/stars/nix-community/NUR/?style=flat)](https://github.com/nix-community/NUR//stargazers) - Nix User Repositories. The mother of all overlays, allowing access to user repositories and installing packages via attributes.
+* [rust-overlay](https://github.com/oxalica/rust-overlay) [![GitHub stars](https://img.shields.io/github/stars/oxalica/rust-overlay?style=flat)](https://github.com/oxalica/rust-overlay/stargazers) - Pure and reproducible nix overlay of binary distributed Rust toolchains.
 * [System Manager](https://github.com/numtide/system-manager) [![GitHub stars](https://img.shields.io/github/stars/numtide/system-manager?style=flat)](https://github.com/numtide/system-manager/stargazers) - A non-NixOS Linux system configuration tool built on Nix.
 * [zig-overlay](https://github.com/mitchellh/zig-overlay) [![GitHub stars](https://img.shields.io/github/stars/mitchellh/zig-overlay?style=flat)](https://github.com/mitchellh/zig-overlay/stargazers) - A Nix flake packaging the Zig compiler. The flake mirrors the binaries built officially by Zig and does not build them from source.
 

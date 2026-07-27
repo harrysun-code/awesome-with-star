@@ -4,7 +4,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/stingalleman/awesome-audiovisual?style=flat)](https://github.com/stingalleman/awesome-audiovisual/stargazers)
 
-
 # Awesome Audiovisual [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of software, libraries and resources for lighting, video and audio professionals and hobbyists.
@@ -74,6 +73,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 - [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) [![GitHub stars](https://img.shields.io/github/stars/FrancescoCeruti/linux-show-player?style=flat)](https://github.com/FrancescoCeruti/linux-show-player/stargazers) `✓ open-source`.
 - [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. `⚠ freemium`.
 - [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `⚠ freemium`.
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
 
 ### Audio tools
 
@@ -92,6 +92,8 @@ See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readm
 
 - [Livescript](https://github.com/Netlob/livescript) [![GitHub stars](https://img.shields.io/github/stars/Netlob/livescript?style=flat)](https://github.com/Netlob/livescript/stargazers) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 - [Ontime](https://github.com/cpvalente/ontime) [![GitHub stars](https://img.shields.io/github/stars/cpvalente/ontime?style=flat)](https://github.com/cpvalente/ontime/stargazers) - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
+- [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
+- [RunCue](https://runcue.fly.dev/) - `⚠ not free` Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.
 - [stagetimer.io](https://stagetimer.io) - Browser-based remote-controlled countdown timer.  `⚠ freemium`.
 
 ### CADs

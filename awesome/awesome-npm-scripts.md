@@ -52,7 +52,7 @@ You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm) [
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [script-runner](https://github.com/paulpflug/script-runner) [![GitHub stars](https://img.shields.io/github/stars/paulpflug/script-runner?style=flat)](https://github.com/paulpflug/script-runner/stargazers) - Simple task runner with a terse syntax.
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) [![GitHub stars](https://img.shields.io/github/stars/mysticatea/npm-run-all?style=flat)](https://github.com/mysticatea/npm-run-all/stargazers) - Fully featured task runner.
+- [npm-run-all2](https://github.com/bcomnes/npm-run-all2) [![GitHub stars](https://img.shields.io/github/stars/bcomnes/npm-run-all2?style=flat)](https://github.com/bcomnes/npm-run-all2/stargazers) - Fully featured task runner.
 - [redrun](https://github.com/coderaiser/redrun) [![GitHub stars](https://img.shields.io/github/stars/coderaiser/redrun?style=flat)](https://github.com/coderaiser/redrun/stargazers) - Expand scripts from package.json to improve execution speed.
 
 ## File Watchers

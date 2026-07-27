@@ -150,11 +150,11 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 ## Digests
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Written by [Trail of Bits](https://www.trailofbits.com/).
-- [Hacker101](https://www.hacker101.com/) - Written by [hackerone](https://www.hackerone.com/start-hacking).
+- [Hacker101](https://www.hacker101.com/) - Written by [hackerone](http://web.archive.org/web/20200630164946/https://www.hackerone.com/start-hacking).
 - [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) - Written by [Mark Robinson](https://www.sneakymonkey.net/).
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) [![GitHub stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings/?style=flat)](https://github.com/swisskyrepo/PayloadsAllTheThings//stargazers) - Written by [@swisskyrepo](https://github.com/swisskyrepo) [![GitHub stars](https://img.shields.io/github/stars/swisskyrepo?style=flat)](https://github.com/swisskyrepo/stargazers).
 - [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) - Written by [PortSwigger](https://portswigger.net/).
-- [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](https://bitvijays.github.io/aboutme.html).
+- [The Magic of Learning](https://bitvijays.github.io/) - Written by [@bitvijays](http://web.archive.org/web/20230519134723/https://bitvijays.github.io/aboutme.html).
 - [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) - Written by [Netsparker](https://www.netsparker.com/).
 - [tl;dr sec](https://tldrsec.com/) - Weekly summary of top security tools, blog posts, and security research.
 
@@ -311,6 +311,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 
 - [SSL & TLS Penetration Testing](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - Written by [APTIVE](https://www.aptive.co.uk/).
 - [Practical introduction to SSL/TLS](https://github.com/Hakky54/mutual-tls-ssl) [![GitHub stars](https://img.shields.io/github/stars/Hakky54/mutual-tls-ssl?style=flat)](https://github.com/Hakky54/mutual-tls-ssl/stargazers) - Written by [@Hakky54](https://github.com/Hakky54) [![GitHub stars](https://img.shields.io/github/stars/Hakky54?style=flat)](https://github.com/Hakky54/stargazers).
+- [State of TLS on the public web](https://securemonk.io/insights/state-of-tls) - Live-data research across thousands of scanned hosts: protocol adoption, the TLS-versus-headers maturity gap, ECDSA drawing even with RSA, certificate lifetimes against the CA/B Forum 47-day schedule, and the end of OCSP stapling. Figures recompute from the scan corpus on each load.
 
 <a name="webmail"></a>
 ### Webmail
@@ -379,6 +380,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [Attacking .NET deserialization](https://www.youtube.com/watch?v=eDfGpu3iE4Q) - Written by [@pwntester](https://twitter.com/pwntester).
 - [How to exploit the DotNetNuke Cookie Deserialization](https://pentest-tools.com/blog/exploit-dotnetnuke-cookie-deserialization/) - Written by [CRISTIAN CORNEA](https://pentest-tools.com/blog/author/pentest-cristian/).
 - [HOW TO EXPLOIT LIFERAY CVE-2020-7961 : QUICK JOURNEY TO POC](https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html) - Written by [@synacktiv](https://twitter.com/synacktiv).
+- [Altus iX Developer XAML Deserialization RCE](https://0day-rubbish.com/blog/altus-ix-developer-xaml-rce) - Root-cause analysis and reproducible PoC for a XAML deserialization RCE (CVSS 7.3) in a SCADA HMI engineering IDE, including affected versions and a self-contained exploit script, published by [0day Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish) [![GitHub stars](https://img.shields.io/github/stars/Exploit-Garbage/0day-Rubbish?style=flat)](https://github.com/Exploit-Garbage/0day-Rubbish/stargazers).
 
 <a name="oauth"></a>
 ### OAuth
@@ -879,6 +881,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) [![GitHub stars](https://img.shields.io/github/stars/juice-shop/juice-shop?style=flat)](https://github.com/juice-shop/juice-shop/stargazers) - Probably the most modern and sophisticated insecure web application - Written by [@bkimminich](https://github.com/bkimminich) [![GitHub stars](https://img.shields.io/github/stars/bkimminich?style=flat)](https://github.com/bkimminich/stargazers) and the [@owasp_juiceshop](https://twitter.com/owasp_juiceshop) team.
 - [Portswigger Web Security Academy](https://portswigger.net/web-security) - Free trainings and labs - Written by [PortSwigger](https://portswigger.net/).
 - [OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) [![GitHub stars](https://img.shields.io/github/stars/kOaDT/oss-oopssec-store?style=flat)](https://github.com/kOaDT/oss-oopssec-store/stargazers) - Intentionally vulnerable e-commerce application built with Next.js - Written by [@kOaDT](https://github.com/kOaDT) [![GitHub stars](https://img.shields.io/github/stars/kOaDT?style=flat)](https://github.com/kOaDT/stargazers).
+- [The Next.js security-headers pitfall](https://poszo.com/security/nextjs-headers-pitfall) - Shows how a correct-looking Next.js headers() block can overwrite route-specific rules or differ from final CDN responses, with an inventory, merge, preview, deployed-route verification, and rollback workflow.
 
 <a name="practices-aws"></a>
 ### AWS
