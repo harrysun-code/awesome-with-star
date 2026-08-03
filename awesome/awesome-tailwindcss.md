@@ -96,7 +96,6 @@
 - 🧩 [shadcn UI](https://ui.shadcn.com) - Re-usable components built using Radix UI and Tailwind CSS.
 - 🧩 [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev) - Layouts and UI patterns for Tailwind CSS.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
-- 🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 - 🧩 [HyperUI](https://hyperui.dev) - Open source marketing and ecommerce Tailwind CSS components.
 - 🧩 [Ripple UI](https://www.ripple-ui.com) - Clean, modern and beautiful Tailwind CSS components.
 - 🧩 [Pines UI](https://devdojo.com/pines) - Alpine and Tailwind CSS UI library.
@@ -107,13 +106,12 @@
 - 📚 [Daisy UI](https://github.com/saadeghi/daisyui) [![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=flat)](https://github.com/saadeghi/daisyui/stargazers) - UI Components for Tailwind CSS.
 - 📚 [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - Component library built with Tailwind CSS.
 - 📚 [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind CSS.
-- 📚 [Preline UI](https://preline.co) - Open-source Tailwind CSS components library for any needs.
 - 📚 [Date picker](https://github.com/themesberg/tailwind-datepicker) [![GitHub stars](https://img.shields.io/github/stars/themesberg/tailwind-datepicker?style=flat)](https://github.com/themesberg/tailwind-datepicker/stargazers) - Adds a datepicker component built with Tailwind CSS and vanilla JavaScript.
+- 📚 [Appica UI](https://appica.dev/ui) - Open-source React component library built on Tailwind CSS, with a matching Figma library.
 - 📁 [Built at lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - 📁 [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) [![GitHub stars](https://img.shields.io/github/stars/justboil/admin-one-vue-tailwind?style=flat)](https://github.com/justboil/admin-one-vue-tailwind/stargazers) - Free Vue.js 3 Tailwind CSS admin template with Vite & Vue CLI support.
 - 📁 [Admin One React](https://github.com/justboil/admin-one-react-tailwind) [![GitHub stars](https://img.shields.io/github/stars/justboil/admin-one-react-tailwind?style=flat)](https://github.com/justboil/admin-one-react-tailwind/stargazers) - Free React.js Tailwind CSS admin template with Next.js & TypeScript.
 - 📁 [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) [![GitHub stars](https://img.shields.io/github/stars/themesberg/flowbite-admin-dashboard?style=flat)](https://github.com/themesberg/flowbite-admin-dashboard/stargazers) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
-- 📁 [Astro Template Resume](https://github.com/fortezhuo/fortezhuo.my.id) [![GitHub stars](https://img.shields.io/github/stars/fortezhuo/fortezhuo.my.id?style=flat)](https://github.com/fortezhuo/fortezhuo.my.id/stargazers) - Eye-catching resume template built with Astro, Tailwind CSS.
 - 📁 [Astro Template Cactus](https://github.com/chrismwilliams/astro-theme-cactus) [![GitHub stars](https://img.shields.io/github/stars/chrismwilliams/astro-theme-cactus?style=flat)](https://github.com/chrismwilliams/astro-theme-cactus/stargazers) - Tailwind CSS Astro starter template.
 - 📁 [Astro Template Ovidius](https://github.com/JustGoodUI/ovidius-astro-theme) [![GitHub stars](https://img.shields.io/github/stars/JustGoodUI/ovidius-astro-theme?style=flat)](https://github.com/JustGoodUI/ovidius-astro-theme/stargazers) - Tailwind CSS & Astro blog template.
 - 📁 [Astro Template Dante](https://github.com/JustGoodUI/dante-astro-theme) [![GitHub stars](https://img.shields.io/github/stars/JustGoodUI/dante-astro-theme?style=flat)](https://github.com/JustGoodUI/dante-astro-theme/stargazers) - Tailwind CSS & Astro blog/portfolio template.

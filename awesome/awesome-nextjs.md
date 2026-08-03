@@ -28,6 +28,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
   - [Videos](#videos)
   - [Projects(Beginner level)](#projectsbeginner-level)
   - [Newsletters](#newsletters)
+  - [Jobs](#jobs)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -279,6 +280,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 
 - [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 - [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
+
+## Jobs
+
+- [Jobs in JS](https://jobsinjs.com/nextjs-developer-jobs/) - Next.js developer jobs in the US, Canada and UK. Updated daily.
 
 ## Contributing
 

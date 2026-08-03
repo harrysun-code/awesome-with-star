@@ -136,6 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [TUISIC](https://github.com/Dark-Kernel/tuisic) [![GitHub stars](https://img.shields.io/github/stars/Dark-Kernel/tuisic?style=flat)](https://github.com/Dark-Kernel/tuisic/stargazers) - Login-free music streaming.
 - [termusic](https://github.com/tramhao/termusic) [![GitHub stars](https://img.shields.io/github/stars/tramhao/termusic?style=flat)](https://github.com/tramhao/termusic/stargazers) - Music player in rust with download capabilities.
 - [ytm-player](https://github.com/peternaame-boop/ytm-player) [![GitHub stars](https://img.shields.io/github/stars/peternaame-boop/ytm-player?style=flat)](https://github.com/peternaame-boop/ytm-player/stargazers) - YouTube Music player.
+- [tunein-cli](https://github.com/tsirysndr/tunein-cli) [![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli?style=flat)](https://github.com/tsirysndr/tunein-cli/stargazers) - TuneIn and Radio Browser client.
 
 ### Video
 
@@ -717,6 +718,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rawhide](https://github.com/raforg/rawhide) [![GitHub stars](https://img.shields.io/github/stars/raforg/rawhide?style=flat)](https://github.com/raforg/rawhide/stargazers) - Find files using pretty C expressions.
 - [semantic-grep](https://github.com/arunsupe/semantic-grep) [![GitHub stars](https://img.shields.io/github/stars/arunsupe/semantic-grep?style=flat)](https://github.com/arunsupe/semantic-grep/stargazers) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 - [reflex](https://github.com/reflex-search/reflex) [![GitHub stars](https://img.shields.io/github/stars/reflex-search/reflex?style=flat)](https://github.com/reflex-search/reflex/stargazers) - Instant, offline, code-aware search for text, symbols, and import graphs.
+- [Vexor](https://github.com/scarletkc/vexor) [![GitHub stars](https://img.shields.io/github/stars/scarletkc/vexor?style=flat)](https://github.com/scarletkc/vexor/stargazers) - A semantic search engine for files and code.
 
 ## Version Control
 

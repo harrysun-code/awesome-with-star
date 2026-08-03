@@ -57,10 +57,12 @@ List of middlewares that are included within the Fiber framework.
 - [Favicon](https://github.com/gofiber/fiber/tree/main/middleware/favicon) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/favicon?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/favicon/stargazers) - Ignore favicon from logs or serve from memory if a file path is provided.
 - [Healthcheck](https://github.com/gofiber/fiber/tree/main/middleware/healthcheck) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/healthcheck?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/healthcheck/stargazers) - Adds health-check endpoints for readiness and liveness probes.
 - [Helmet](https://github.com/gofiber/fiber/tree/main/middleware/helmet) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/helmet?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/helmet/stargazers) - Helps secure your apps by setting various HTTP headers.
+- [Host Authorization](https://github.com/gofiber/fiber/tree/main/middleware/hostauthorization) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/hostauthorization?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/hostauthorization/stargazers) - Validates the `Host` header against an allowlist to protect against DNS rebinding attacks.
 - [Idempotency](https://github.com/gofiber/fiber/tree/main/middleware/idempotency) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/idempotency?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/idempotency/stargazers) - Enables fault-tolerant APIs when duplicate requests occur.
 - [Keyauth](https://github.com/gofiber/fiber/tree/main/middleware/keyauth) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/keyauth?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/keyauth/stargazers) - Key auth middleware provides a key based authentication.
 - [Limiter](https://github.com/gofiber/fiber/tree/main/middleware/limiter) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/limiter?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/limiter/stargazers) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
 - [Logger](https://github.com/gofiber/fiber/tree/main/middleware/logger) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/logger?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/logger/stargazers) - HTTP request/response logger.
+- [Paginate](https://github.com/gofiber/fiber/tree/main/middleware/paginate) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/paginate?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/paginate/stargazers) - Parses pagination parameters from the query string, supporting page-based, offset-based and cursor-based strategies.
 - [Pprof](https://github.com/gofiber/fiber/tree/main/middleware/pprof) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/pprof?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/pprof/stargazers) - Serves runtime profiling data in the format expected by the pprof visualization tool.
 - [Proxy](https://github.com/gofiber/fiber/tree/main/middleware/proxy) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/proxy?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/proxy/stargazers) - Allows you to proxy requests to a multiple servers.
 - [Recover](https://github.com/gofiber/fiber/tree/main/middleware/recover) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/recover?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/recover/stargazers) - Recovers from panics anywhere in the stack chain and hands control to the centralized ErrorHandler.
@@ -70,6 +72,7 @@ List of middlewares that are included within the Fiber framework.
 - [Rewrite](https://github.com/gofiber/fiber/tree/main/middleware/rewrite) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/rewrite?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/rewrite/stargazers) - Rewrites the URL path based on provided rules for backward compatibility or cleaner links.
 - [Session](https://github.com/gofiber/fiber/tree/main/middleware/session) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/session?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/session/stargazers) - Provides session management. NOTE: This middleware uses our Storage package.
 - [Skip](https://github.com/gofiber/fiber/tree/main/middleware/skip) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/skip?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/skip/stargazers) - Skips a wrapped handler when a predicate is true.
+- [SSE](https://github.com/gofiber/fiber/tree/main/middleware/sse) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/sse?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/sse/stargazers) - Server-Sent Events transport that handles headers, event formatting, flushing, heartbeats and disconnect detection.
 - [Static](https://github.com/gofiber/fiber/tree/main/middleware/static) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/static?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/static/stargazers) - Serves static files from a local or custom file system.
 - [Timeout](https://github.com/gofiber/fiber/tree/main/middleware/timeout) [![GitHub stars](https://img.shields.io/github/stars/gofiber/fiber/tree/main/middleware/timeout?style=flat)](https://github.com/gofiber/fiber/tree/main/middleware/timeout/stargazers) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
@@ -86,6 +89,7 @@ List of third party middlewares and maintained by the Fiber team and community.
 
 - [casbin](https://github.com/gofiber/contrib/tree/main/v3/casbin) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/casbin?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/casbin/stargazers) - Authorization middleware for Fiber powered by Casbin.
 - [circuitbreaker](https://github.com/gofiber/contrib/tree/main/v3/circuitbreaker) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/circuitbreaker?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/circuitbreaker/stargazers) - Circuit breaker middleware for Fiber.
+- [coraza](https://github.com/gofiber/contrib/tree/main/v3/coraza) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/coraza?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/coraza/stargazers) - Web application firewall middleware for Fiber powered by Coraza.
 - [fgprof](https://github.com/gofiber/contrib/tree/main/v3/fgprof) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/fgprof?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/fgprof/stargazers) - Fiber profiling support via fgprof.
 - [hcaptcha](https://github.com/gofiber/contrib/tree/main/v3/hcaptcha) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/hcaptcha?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/hcaptcha/stargazers) - Bot-protection middleware using hCaptcha.
 - [i18n](https://github.com/gofiber/contrib/tree/main/v3/i18n) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/i18n?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/i18n/stargazers) - Internationalization middleware built on go-i18n.
@@ -101,6 +105,7 @@ List of third party middlewares and maintained by the Fiber team and community.
 - [swaggo](https://github.com/gofiber/contrib/tree/main/v3/swaggo) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/swaggo?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/swaggo/stargazers) - Middleware for serving Swag-generated API docs in Fiber.
 - [swaggerui](https://github.com/gofiber/contrib/tree/main/v3/swaggerui) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/swaggerui?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/swaggerui/stargazers) - Swagger UI middleware for serving OpenAPI specs in Fiber.
 - [testcontainers](https://github.com/gofiber/contrib/tree/main/v3/testcontainers) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/testcontainers?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/testcontainers/stargazers) - Service implementation for integrating Testcontainers with Fiber.
+- [uptime](https://github.com/gofiber/contrib/tree/main/v3/uptime) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/uptime?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/uptime/stargazers) - Records heartbeat history and serves a status dashboard with a JSON API for monitoring uptime.
 - [WebSocket](https://github.com/gofiber/contrib/tree/main/v3/websocket) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/websocket?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/websocket/stargazers) - Fasthttp-based WebSocket integration for Fiber with `fiber.Ctx` support.
 - [zap](https://github.com/gofiber/contrib/tree/main/v3/zap) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/zap?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/zap/stargazers) - Logging middleware support for Fiber with Zap.
 - [zerolog](https://github.com/gofiber/contrib/tree/main/v3/zerolog) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/zerolog?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/zerolog/stargazers) - Logging middleware support for Fiber with Zerolog.
@@ -157,6 +162,7 @@ Premade boilerplates for Fiber.
 - [ingeniousambivert/fiber-bootstrapped](https://github.com/ingeniousambivert/fiber-bootstrapped) [![GitHub stars](https://img.shields.io/github/stars/ingeniousambivert/fiber-bootstrapped?style=flat)](https://github.com/ingeniousambivert/fiber-bootstrapped/stargazers) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS.
 - [sebajax/go-vertical-slice-architecture](https://github.com/sebajax/go-vertical-slice-architecture) [![GitHub stars](https://img.shields.io/github/stars/sebajax/go-vertical-slice-architecture?style=flat)](https://github.com/sebajax/go-vertical-slice-architecture/stargazers) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
 - [go-rat/fiber-skeleton](https://github.com/go-rat/fiber-skeleton) [![GitHub stars](https://img.shields.io/github/stars/go-rat/fiber-skeleton?style=flat)](https://github.com/go-rat/fiber-skeleton/stargazers) - Fiber skeleton to powers web projects, support wire-based dependency injection.
+- [rachmanzz/fiber-starter](https://github.com/rachmanzz/fiber-starter) [![GitHub stars](https://img.shields.io/github/stars/rachmanzz/fiber-starter?style=flat)](https://github.com/rachmanzz/fiber-starter/stargazers) - A Go backend boilerplate using Fiber v3, PostgreSQL (pgx v5), and SQLC.
 
 ## 📁 Recipes
 
@@ -179,6 +185,7 @@ Several tools to make Fiber usage easier.
 - [Alibaba/opentelemetry-go-auto-instrumentation](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) [![GitHub stars](https://img.shields.io/github/stars/alibaba/opentelemetry-go-auto-instrumentation?style=flat)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation/stargazers) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) [![GitHub stars](https://img.shields.io/github/stars/deepmap/oapi-codegen?style=flat)](https://github.com/deepmap/oapi-codegen/stargazers) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 - [go-dawn/dawn](https://github.com/go-dawn/dawn) [![GitHub stars](https://img.shields.io/github/stars/go-dawn/dawn?style=flat)](https://github.com/go-dawn/dawn/stargazers) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
+- [gofiber/cli](https://github.com/gofiber/cli) [![GitHub stars](https://img.shields.io/github/stars/gofiber/cli?style=flat)](https://github.com/gofiber/cli/stargazers) - Official Fiber command line interface for project generation, live reloading and version migration.
 - [MUlt1mate/protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) [![GitHub stars](https://img.shields.io/github/stars/MUlt1mate/protoc-gen-httpgo?style=flat)](https://github.com/MUlt1mate/protoc-gen-httpgo/stargazers) - A protoc plugin that generates Fiber HTTP server and client code from proto files.
 - [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) [![GitHub stars](https://img.shields.io/github/stars/ryanbekhen/feserve?style=flat)](https://github.com/ryanbekhen/feserve/stargazers) - Feserve is a lightweight application or Docker image to serve frontend and load balancer applications.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) [![GitHub stars](https://img.shields.io/github/stars/tompston/gomakeme?style=flat)](https://github.com/tompston/gomakeme/stargazers) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
@@ -228,9 +235,24 @@ Several benchmarks to compare Fiber with other frameworks.
 
 Contribution guidelines can be found on [CONTRIBUTING.md](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md?style=flat)](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md/stargazers)
 
+<!-- skip-docs -->
 ## ☕ Supporters
 
 Fiber is an open-source project that runs on donations to pay the bills, e.g., our domain name, hosting, and serverless infrastructure. If you want to support Fiber, please become a [GitHub Sponsor](https://github.com/sponsors/gofiber) [![GitHub stars](https://img.shields.io/github/stars/sponsors/gofiber?style=flat)](https://github.com/sponsors/gofiber/stargazers).
+
+<p align="center">
+  <a href="https://www.coderabbit.ai/?utm_source=gofiber&utm_medium=sponsor&utm_content=readme">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.coderabbit.ai/images/logo-dark.svg">
+      <img width="280" height="52" alt="CodeRabbit" src="https://www.coderabbit.ai/images/logo-orange.svg">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://blacksmith.sh/?utm_source=gofiber&utm_medium=sponsor&utm_content=readme">
+    <img width="280" height="96" alt="Blacksmith" src="https://raw.githubusercontent.com/gofiber/.github/main/assets/sponsors/blacksmith.png">
+  </a>
+</p>
 
 <!-- sponsors -->
 
@@ -246,5 +268,7 @@ Fiber is an open-source project that runs on donations to pay the bills, e.g., o
 
 <table>
 <tr><td valign="top"><strong>🚀 Fiber Hero</strong></td><td><a href="https://www.thanks.dev" title="@thnxdev"><img src="https://github.com/thnxdev.png" width="40" alt="@thnxdev" /></a></td></tr>
+<tr><td valign="top"><strong>🪴 Fiber Friend</strong></td><td><a href="https://github.com/Gl1tchedPixzl" title="@Gl1tchedPixzl"><img src="https://github.com/Gl1tchedPixzl.png" width="26" alt="@Gl1tchedPixzl" /></a></td></tr>
 </table>
 <!-- sponsors -->
+<!-- skip-docs -->

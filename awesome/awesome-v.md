@@ -119,7 +119,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [vgoogle](https://github.com/changhz/vgoogle) [![GitHub stars](https://img.shields.io/github/stars/changhz/vgoogle?style=flat)](https://github.com/changhz/vgoogle/stargazers) - Make google search on the terminal.
 - [vin](https://github.com/DeoDorqnt387/vin) [![GitHub stars](https://img.shields.io/github/stars/DeoDorqnt387/vin?style=flat)](https://github.com/DeoDorqnt387/vin/stargazers) - A Basic Command Line Interface for V.
 - [vin32](https://github.com/tailsmails/vin32) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/vin32?style=flat)](https://github.com/tailsmails/vin32/stargazers) - A basic, heuristic-based CLI tool to generate V language bindings from simple Windows C header files.
-- [vindex](https://github.com/wenxuanjun/vindex) [![GitHub stars](https://img.shields.io/github/stars/wenxuanjun/vindex?style=flat)](https://github.com/wenxuanjun/vindex/stargazers) - A simple file list server generating json strings, compatible with nginx's autoindex module.
 - [vinit](https://github.com/pranavbaburaj/vinit) [![GitHub stars](https://img.shields.io/github/stars/pranavbaburaj/vinit?style=flat)](https://github.com/pranavbaburaj/vinit/stargazers) - A tool to generate v projects.
 - [vLogQL](https://github.com/lmangani/vLogQL) [![GitHub stars](https://img.shields.io/github/stars/lmangani/vLogQL?style=flat)](https://github.com/lmangani/vLogQL/stargazers) - A tiny command-line utility to query LogQL APIs.
 - [vlsh](https://github.com/vlshcc/vlsh) [![GitHub stars](https://img.shields.io/github/stars/vlshcc/vlsh?style=flat)](https://github.com/vlshcc/vlsh/stargazers) - *nix Shell written in V (pipes, plugins, mux mode, etc).
@@ -145,7 +144,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Games
 
-- [2048](https://github.com/wenxuanjun/2048) [![GitHub stars](https://img.shields.io/github/stars/wenxuanjun/2048?style=flat)](https://github.com/wenxuanjun/2048/stargazers) - A 2048 game with several types of traditional AI integrated.
 - [Boundstone](https://github.com/organization/boundstone) [![GitHub stars](https://img.shields.io/github/stars/organization/boundstone?style=flat)](https://github.com/organization/boundstone/stargazers) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
 - [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) [![GitHub stars](https://img.shields.io/github/stars/vlang/v/tree/master/examples/flappylearning?style=flat)](https://github.com/vlang/v/tree/master/examples/flappylearning/stargazers) - A simple flappy learning demo in v.
 - [Kurarin](https://github.com/FireRedz/kurarin) [![GitHub stars](https://img.shields.io/github/stars/FireRedz/kurarin?style=flat)](https://github.com/FireRedz/kurarin/stargazers) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
@@ -170,7 +168,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v](https://github.com/vlang/v) [![GitHub stars](https://img.shields.io/github/stars/vlang/v?style=flat)](https://github.com/vlang/v/stargazers) - The language V itself. Simple, fast, safe, compiled language for developing maintainable software.
 - [vas](https://github.com/v420v/vas) [![GitHub stars](https://img.shields.io/github/stars/v420v/vas?style=flat)](https://github.com/v420v/vas/stargazers) - A simple x86-64 assembler written in V.
 - [vbf](https://github.com/vpervenditti/vbf) [![GitHub stars](https://img.shields.io/github/stars/vpervenditti/vbf?style=flat)](https://github.com/vpervenditti/vbf/stargazers) - A brainfuck interpreter/compiler.
-- [vfuck](https://github.com/ShayokhShorfuddin/VFuck) [![GitHub stars](https://img.shields.io/github/stars/ShayokhShorfuddin/VFuck?style=flat)](https://github.com/ShayokhShorfuddin/VFuck/stargazers) - A brainfuck interpreter written in V.
 - [vcc](https://github.com/lemoncmd/vcc) [![GitHub stars](https://img.shields.io/github/stars/lemoncmd/vcc?style=flat)](https://github.com/lemoncmd/vcc/stargazers) - A C compiler written in V.
 - [Vork](https://github.com/Itay2805/Vork) [![GitHub stars](https://img.shields.io/github/stars/Itay2805/Vork?style=flat)](https://github.com/Itay2805/Vork/stargazers) - Alternative V compiler/interpreter written in Python.
 
@@ -325,7 +322,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [netaddr](https://github.com/gechandesu/netaddr) [![GitHub stars](https://img.shields.io/github/stars/gechandesu/netaddr?style=flat)](https://github.com/gechandesu/netaddr/stargazers) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 - [netio](https://github.com/gechandesu/netio) [![GitHub stars](https://img.shields.io/github/stars/gechandesu/netio?style=flat)](https://github.com/gechandesu/netio/stargazers) - Low-level networking library for V that gives more control over sockets.
 - [netr](https://github.com/tailsmails/netr) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/netr?style=flat)](https://github.com/tailsmails/netr/stargazers) - A modular, zero-dependency raw socket and network packet crafting library written in V.
-- [v-grpc](https://github.com/hyperpolymath/v-grpc) [![GitHub stars](https://img.shields.io/github/stars/hyperpolymath/v-grpc?style=flat)](https://github.com/hyperpolymath/v-grpc/stargazers) - gRPC and Protobuf support for V with Idris2 ABI proofs and Zig FFI.
 - [vibe](https://github.com/tobealive/vibe) [![GitHub stars](https://img.shields.io/github/stars/tobealive/vibe?style=flat)](https://github.com/tobealive/vibe/stargazers) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) [![GitHub stars](https://img.shields.io/github/stars/jordan-bonecutter/vmq?style=flat)](https://github.com/jordan-bonecutter/vmq/stargazers) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
@@ -407,7 +403,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [json2v](https://github.com/ldedev/Json2V) [![GitHub stars](https://img.shields.io/github/stars/ldedev/Json2V?style=flat)](https://github.com/ldedev/Json2V/stargazers) - Convert a json to a struct in Vlang.
 - [objc](https://github.com/magic003/objc) [![GitHub stars](https://img.shields.io/github/stars/magic003/objc?style=flat)](https://github.com/magic003/objc/stargazers) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) [![GitHub stars](https://img.shields.io/github/stars/Delta456/range?style=flat)](https://github.com/Delta456/range/stargazers) - Functionality of Python's range() in V.
-- [ssh-config](https://github.com/walkingdevel/ssh-config) [![GitHub stars](https://img.shields.io/github/stars/walkingdevel/ssh-config?style=flat)](https://github.com/walkingdevel/ssh-config/stargazers) - A V library for parsing SSH config files.
 - [structlog](https://github.com/gechandesu/structlog) [![GitHub stars](https://img.shields.io/github/stars/gechandesu/structlog?style=flat)](https://github.com/gechandesu/structlog/stargazers) - Structured logs library for V.
 - [V-crypto](https://github.com/bstnbuck/V-crypto) [![GitHub stars](https://img.shields.io/github/stars/bstnbuck/V-crypto?style=flat)](https://github.com/bstnbuck/V-crypto/stargazers) - Implementation of additional cryptographic algorithms.
 - [vaker](https://github.com/ChAoSUnItY/vaker) [![GitHub stars](https://img.shields.io/github/stars/ChAoSUnItY/vaker?style=flat)](https://github.com/ChAoSUnItY/vaker/stargazers) - A light-weight compile-time-generated data faker written in V.
@@ -424,10 +419,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [jsonrpcv](https://github.com/Te4nick/jsonrpcv) [![GitHub stars](https://img.shields.io/github/stars/Te4nick/jsonrpcv?style=flat)](https://github.com/Te4nick/jsonrpcv/stargazers) - JSON-RPC 2.0 client+server implementation in pure V.
 - [pico.v](https://github.com/S-YOU/pico.v) [![GitHub stars](https://img.shields.io/github/stars/S-YOU/pico.v?style=flat)](https://github.com/S-YOU/pico.v/stargazers) - A web server in V based on picoev and picohttpparser.
 - [sessions](https://github.com/einar-hjortdal/sessions) [![GitHub stars](https://img.shields.io/github/stars/einar-hjortdal/sessions?style=flat)](https://github.com/einar-hjortdal/sessions/stargazers) - Web-framework-agnostic sessions library.
-- [v-graphql](https://github.com/hyperpolymath/v-graphql) [![GitHub stars](https://img.shields.io/github/stars/hyperpolymath/v-graphql?style=flat)](https://github.com/hyperpolymath/v-graphql/stargazers) - GraphQL server implementation with schema generation, Idris2 ABI proofs, and Zig FFI.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) [![GitHub stars](https://img.shields.io/github/stars/nedpals/v-jsonrpc?style=flat)](https://github.com/nedpals/v-jsonrpc/stargazers) - Basic JSON-RPC 2.0-compliant server written on V.
-- [v-rest](https://github.com/hyperpolymath/v-rest) [![GitHub stars](https://img.shields.io/github/stars/hyperpolymath/v-rest?style=flat)](https://github.com/hyperpolymath/v-rest/stargazers) - REST API server framework with Idris2 ABI proofs and Zig FFI.
-- [v-tiktok](https://github.com/walkingdevel/v-tiktok) [![GitHub stars](https://img.shields.io/github/stars/walkingdevel/v-tiktok?style=flat)](https://github.com/walkingdevel/v-tiktok/stargazers) - A V library for downloading TikTok videos.
 - [validate](https://github.com/endeveit/v-validate) [![GitHub stars](https://img.shields.io/github/stars/endeveit/v-validate?style=flat)](https://github.com/endeveit/v-validate/stargazers) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) [![GitHub stars](https://img.shields.io/github/stars/taojy123/valval?style=flat)](https://github.com/taojy123/valval/stargazers) - Web framework written in V, improved by vweb.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) [![GitHub stars](https://img.shields.io/github/stars/mehtaarn000/vcurrency?style=flat)](https://github.com/mehtaarn000/vcurrency/stargazers) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
@@ -508,13 +500,11 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 - [V Playground](https://play.vlang.io)
 - [V Playground (old)](https://v-wasm.now.sh/)
-- [VOSCA V Playground](https://play.vosca.dev)
 
 ### Operating Systems & OS Development Examples
 
 - [limine-v-template](https://github.com/plos-clan/limine-v-template) [![GitHub stars](https://img.shields.io/github/stars/plos-clan/limine-v-template?style=flat)](https://github.com/plos-clan/limine-v-template/stargazers) - A simple template for building a Limine-compliant kernel in V.
 - [Simple Linux kernel module example](https://github.com/spytheman/simple_kernel_module_in_v) [![GitHub stars](https://img.shields.io/github/stars/spytheman/simple_kernel_module_in_v?style=flat)](https://github.com/spytheman/simple_kernel_module_in_v/stargazers) - Demonstration & test of writing a very simple Linux kernel module, using V.
-- [v-limine](https://github.com/wenxuanjun/v-limine) [![GitHub stars](https://img.shields.io/github/stars/wenxuanjun/v-limine?style=flat)](https://github.com/wenxuanjun/v-limine/stargazers) - A V library for handling Limine boot protocol structures.
 
 ### Patterns
 
@@ -538,7 +528,6 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [V by Example](https://github.com/v-community/v_by_example) [![GitHub stars](https://img.shields.io/github/stars/v-community/v_by_example?style=flat)](https://github.com/v-community/v_by_example/stargazers) - V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) [![GitHub stars](https://img.shields.io/github/stars/Thigidu/vlang-for-nodejs-developers?style=flat)](https://github.com/Thigidu/vlang-for-nodejs-developers/stargazers) - Vlang for node js developers.
 - [V learning notes](https://github.com/lydiandy/vlang_note) [![GitHub stars](https://img.shields.io/github/stars/lydiandy/vlang_note?style=flat)](https://github.com/lydiandy/vlang_note/stargazers) - Personal learning notes in Chinese.
-- [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - Tutorial category on VOSCA blog.
 
 ### Videos
 

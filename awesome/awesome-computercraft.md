@@ -194,6 +194,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
     - [KristForge](https://github.com/tmpim/kristforge) [![GitHub stars](https://img.shields.io/github/stars/tmpim/kristforge?style=flat)](https://github.com/tmpim/kristforge/stargazers) -  A miner for the Krist virtual currency.
     - [KristWeb2](https://github.com/tmpim/KristWeb2) [![GitHub stars](https://img.shields.io/github/stars/tmpim/KristWeb2?style=flat)](https://github.com/tmpim/KristWeb2/stargazers) -  A web wallet for Krist, written in React.
 - [Netmount](https://github.com/tmpim/netmountcc) [![GitHub stars](https://img.shields.io/github/stars/tmpim/netmountcc?style=flat)](https://github.com/tmpim/netmountcc/stargazers) - Configurable WebSocket and WebDAV remote storage solution.
+- [Turtleshell](https://turtleshell.ginger.services/) - A relay server that allows in-game computers to be accessed over [SSH](https://en.wikipedia.org/wiki/Secure_Shell).
 - [Ultron Control](https://gitlab.com/Merith-TK/ultron-control) -  A program which exposes a web API for controlling turtles.
 
 ### Emulators
