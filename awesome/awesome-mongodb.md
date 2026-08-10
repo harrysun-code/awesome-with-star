@@ -113,6 +113,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
  - [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-cxx-driver?style=flat)](https://github.com/mongodb/mongo-cxx-driver/stargazers) - Official C++ driver
 
 ### C#/.NET ###
+ - [FluentStorage](https://github.com/robinrodricks/FluentStorage) [![GitHub stars](https://img.shields.io/github/stars/robinrodricks/FluentStorage?style=flat)](https://github.com/robinrodricks/FluentStorage/stargazers) - .NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS
  - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-driver?style=flat)](https://github.com/mongodb/mongo-csharp-driver/stargazers) - Official C# driver
  - [mongo-efcore-provider](https://github.com/mongodb/mongo-efcore-provider) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-efcore-provider?style=flat)](https://github.com/mongodb/mongo-efcore-provider/stargazers) - Official Entity Framework (EF) Core provider for MongoDB
  - [MongoRepository](https://github.com/RobThree/MongoRepository) [![GitHub stars](https://img.shields.io/github/stars/RobThree/MongoRepository?style=flat)](https://github.com/RobThree/MongoRepository/stargazers) - Repository abstraction layer on top of the C# driver

@@ -4,6 +4,10 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/liuchong/awesome-roadmaps?style=flat)](https://github.com/liuchong/awesome-roadmaps/stargazers)
 
+<p align="center">
+  <img src="assets/logo.svg" alt="Awesome Roadmaps logo" width="96">
+</p>
+
 # Awesome Roadmaps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of roadmaps, mostly about software development, which give you a clear route to improve your knowledge or skills.
@@ -69,6 +73,7 @@ Type badges indicate the current resource type or status.
 - [Agentic Engineering Handbook](https://github.com/keyuchen21/agentic-engineering-handbook) - Agentic engineering roadmap and handbook covering MCP, harnesses, evals, coding agents, and production agent systems. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 - [AI Engineer Roadmap](https://github.com/dswh/ai-engineer-roadmap) - AI engineering roadmap focused on LLM applications, RAG, agents, and LLMOps. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Artificial intelligence roadmap covering theory, tools, and hands-on practice. <img alt="Year 2022" src="https://img.shields.io/badge/Year-2022-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
+- [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) - Beginner-friendly 12-week artificial intelligence curriculum with 24 ordered lessons, quizzes, labs, and practical notebooks covering symbolic AI, deep learning, computer vision, NLP, reinforcement learning, and AI ethics. <img alt="Course" src="https://img.shields.io/badge/Format-Course-0A66C2"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 - [AI, Governance & GTM Career Roadmaps](https://github.com/Hardik-369/ROADMAP) - Free zero-budget job-ready roadmaps for AI Engineer, AI Governance Specialist, and GTM Engineer roles. <img alt="Year 2026" src="https://img.shields.io/badge/Year-2026-brightgreen"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 - [Data Analyst Roadmap](https://github.com/mtahiraslan/data-analyst-roadmap) - Full data analyst roadmap covering statistics, Excel, SQL, BI, Python, and communication skills. <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">
 - [Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Data engineering study guide for the modern data stack. <img alt="Year 2021" src="https://img.shields.io/badge/Year-2021-green"> <img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github">

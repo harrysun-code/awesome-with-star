@@ -62,6 +62,7 @@ Here are some example projects using pest:
 - [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - Converts WordStar documents into Markdown files.
 - [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) [![GitHub stars](https://img.shields.io/github/stars/typedb/typeql/tree/master/rust?style=flat)](https://github.com/typedb/typeql/tree/master/rust/stargazers) - TypeDB's query language, written in Pest
 - [Woxi](https://github.com/ad-si/Woxi) [![GitHub stars](https://img.shields.io/github/stars/ad-si/Woxi?style=flat)](https://github.com/ad-si/Woxi/stargazers) - Interpreter and computer algebra system for a subset of the Wolfram Language.
+- [Amble](https://github.com/pygmy-twylyte/amble) [![GitHub stars](https://img.shields.io/github/stars/pygmy-twylyte/amble?style=flat)](https://github.com/pygmy-twylyte/amble/stargazers) - Parser (text adventure) game development platform (uses Pest both for parsing player input and for the DSL used in world creation).
 
 ## Tooling
 

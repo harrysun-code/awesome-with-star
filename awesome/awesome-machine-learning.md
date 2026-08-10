@@ -1471,6 +1471,7 @@ be
 <a name="python-neural-networks"></a>
 #### Neural Networks
 
+* [fenn](https://github.com/pyfenn/fenn) [![GitHub stars](https://img.shields.io/github/stars/pyfenn/fenn?style=flat)](https://github.com/pyfenn/fenn/stargazers) - A simple Python framework for building ML/DL workflows and LLM agents faster, with prebuilt trainers, agent templates, logging, configuration management, and much more.
 * [Kinho](https://github.com/kinhosz/Neural) [![GitHub stars](https://img.shields.io/github/stars/kinhosz/Neural?style=flat)](https://github.com/kinhosz/Neural/stargazers) - Simple API for Neural Network. Better for image processing with CPU/GPU + Transfer Learning.
 * [nn_builder](https://github.com/p-christ/nn_builder) [![GitHub stars](https://img.shields.io/github/stars/p-christ/nn_builder?style=flat)](https://github.com/p-christ/nn_builder/stargazers) - nn_builder is a python package that lets you build neural networks in 1 line
 * [NeuralTalk](https://github.com/karpathy/neuraltalk) [![GitHub stars](https://img.shields.io/github/stars/karpathy/neuraltalk?style=flat)](https://github.com/karpathy/neuraltalk/stargazers) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.

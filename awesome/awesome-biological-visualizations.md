@@ -51,6 +51,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [Mutaframe](http://deogen2.mutaframe.com/) - Visualize variants of the human genome.
 - [Coessentiality](http://coessentiality.net) - A genome-wide almanac of co-essential modules assigns function to uncharacterized genes.
 - [Gosling](https://gosling.js.org) - A grammar-based toolkit for scalable and interactive genomics data visualization.
+- [gbatlas](https://fishka.bio/gbatlas) - Interactive viewer for GenBank/GenPept records: linear and circular feature maps, CDS translation, ORF and restriction-site layers, entirely in the browser.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
@@ -73,8 +74,10 @@ Web-based biology-related visualization tools are often scattered across the int
 ## Proteomics
 - [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/protein/EGFR) - A platform for understanding cancer mutations in the context of 3D protein structure.
 - [EzMol](http://www.sbg.bio.ic.ac.uk/~ezmol/) - Visualisation and image production of protein and nucleic acid structures.
+- [Genomics 2 Proteins portal](https://g2p.broadinstitute.org/) - A platform for connecting genomic data to protein sequence and protein structure.
 - [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) - Visualization of large-scale 
 macromolecular structure data.
+- [pdb2print](https://pdb2print.org) - Convert a PDB structure into a 3D-printable 3MF file, with one object per chain, magnet pockets and custom display stands.
 
 
 ## Spatial transcriptomics

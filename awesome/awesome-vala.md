@@ -123,6 +123,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 - [EasyDocs](https://github.com/watsonprojects/EasyDocs) [![GitHub stars](https://img.shields.io/github/stars/watsonprojects/EasyDocs?style=flat)](https://github.com/watsonprojects/EasyDocs/stargazers) -  Quickly read developer documentation.
 - [Spider](https://github.com/colinkiama/spider) [![GitHub stars](https://img.shields.io/github/stars/colinkiama/spider?style=flat)](https://github.com/colinkiama/spider/stargazers) - Quickly generate a HTML5 site structure.
 - [Valdo](https://github.com/vala-lang/valdo) [![GitHub stars](https://img.shields.io/github/stars/vala-lang/valdo?style=flat)](https://github.com/vala-lang/valdo/stargazers) - Create new Vala projects from templates.
+- [Vamposer](https://github.com/ValaTux/vamposer) [![GitHub stars](https://img.shields.io/github/stars/ValaTux/vamposer?style=flat)](https://github.com/ValaTux/vamposer/stargazers) - Dependency manager for Vala projects inspired by Composer/Go modules and integrated with Meson subprojects.
 
 ## Editor Plugins
 

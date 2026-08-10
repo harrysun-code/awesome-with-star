@@ -115,6 +115,7 @@
 - [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
 - [Kamod UI](https://github.com/kamod-ch/kamod-ui) [![GitHub stars](https://img.shields.io/github/stars/kamod-ch/kamod-ui?style=flat)](https://github.com/kamod-ch/kamod-ui/stargazers) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
 - [Preact Filter Builder](https://github.com/dimidd/preact-filter-builder) [![GitHub stars](https://img.shields.io/github/stars/dimidd/preact-filter-builder?style=flat)](https://github.com/dimidd/preact-filter-builder/stargazers) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
+- [I18n Micro](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) [![GitHub stars](https://img.shields.io/github/stars/s00d/nuxt-i18n-micro/tree/main/packages/preact?style=flat)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact/stargazers) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) [![GitHub stars](https://img.shields.io/github/stars/concretesolutions/redux-zero?style=flat)](https://github.com/concretesolutions/redux-zero/stargazers) - A lightweight state container based on Redux with a single store and no reducers.

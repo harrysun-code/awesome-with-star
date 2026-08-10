@@ -6,7 +6,7 @@
 
 # Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](LICENSE.md)
 
-[![LaTeX Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png)](https://www.latex-project.org/)
+[![LaTeX Logo](fig/latex-logo.svg)](https://www.latex-project.org/)
 
 > This is a curated list of awesome stuff for the [(La)TeX typesetting system](https://www.latex-project.org/).
 
@@ -25,10 +25,12 @@
     - [LaTeX-focused](#latex-focused)
     - [General purpose text editors](#general-purpose-text-editors)
     - [Online editors](#online-editors)
+  - [Language Servers](#language-servers)
   - [Bibliography tools](#bibliography-tools)
   - [Build Tools](#build-tools)
     - [GitHub Actions](#github-actions)
   - [Misc. Tools](#misc-tools)
+    - [Formatters](#formatters)
     - [Quality Check Tools](#quality-check-tools)
     - [Tools centered around equations](#tools-centered-around-equations)
   - [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
@@ -112,6 +114,8 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 - [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform. ![foss]
 - [BakomaTex](https://www.bakoma-tex.com) - Commercial LaTeX editor that allows to edit your document both using its source code and WYSIWYG.
 - [Texifier](https://www.texifier.com/) - Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing. ![mac]
+- [TeX64](https://tex64.com) – Native macOS LaTeX editor with AI-powered error fixing, equation OCR, live PDF preview, and structured math editing. ![mac]
+- [Oleafly](https://github.com/Oleafly/Oleafly) [![GitHub stars](https://img.shields.io/github/stars/Oleafly/Oleafly?style=flat)](https://github.com/Oleafly/Oleafly/stargazers) - Free, open-source desktop editor for LaTeX, Typst, and Markdown with live PDF preview, SyncTeX, bundled engines, and Git-native projects. ![foss]
 
 ### General purpose text editors
 
@@ -138,7 +142,6 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
   - [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) [![GitHub stars](https://img.shields.io/github/stars/James-Yu/LaTeX-Workshop?style=flat)](https://github.com/James-Yu/LaTeX-Workshop/stargazers) - LaTeX extension for Visual Studio Code ![foss]
-  - [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool grammar/spell checking ![foss]
   - [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) [![GitHub stars](https://img.shields.io/github/stars/a-nau/latex-devcontainer?style=flat)](https://github.com/a-nau/latex-devcontainer/stargazers) - Devcontainer setup for easy LaTeX usage without local installation ![foss]
 
 ### Online editors
@@ -150,7 +153,8 @@ Online editors that allow you to edit documents collaboratively.
 - [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
 - [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) [![GitHub stars](https://img.shields.io/github/stars/InMDev/Modern-LaTeX-Editor?style=flat)](https://github.com/InMDev/Modern-LaTeX-Editor/stargazers) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 - [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
-- [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
+- [Androma TeX Editor](https://androma.org) - Collaborative LaTeX editor integrated into a mathematics wiki, with issue tracking, pull requests, and WASM-based compilation.
+- [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support. Also available as [Overleaf Community Edition](https://github.com/overleaf/overleaf) [![GitHub stars](https://img.shields.io/github/stars/overleaf/overleaf?style=flat)](https://github.com/overleaf/overleaf/stargazers) (self-hosted, AGPL licensed). ![foss]
   - [olcli](https://github.com/aloth/olcli) [![GitHub stars](https://img.shields.io/github/stars/aloth/olcli?style=flat)](https://github.com/aloth/olcli/stargazers) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
 - [SciTeX Cloud](https://github.com/ywatanabe1989/scitex-cloud) [![GitHub stars](https://img.shields.io/github/stars/ywatanabe1989/scitex-cloud?style=flat)](https://github.com/ywatanabe1989/scitex-cloud/stargazers) - Self-hostable online editor with AI assistant integration, figure/table/citation management, real-time collaboration, and an MCP server (29 tools). ![foss]
 - [WebLaTeX](https://github.com/sanjib-sen/weblatex) [![GitHub stars](https://img.shields.io/github/stars/sanjib-sen/weblatex?style=flat)](https://github.com/sanjib-sen/weblatex/stargazers) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
@@ -158,6 +162,15 @@ Online editors that allow you to edit documents collaboratively.
 - [JaxEdit](https://zohooo.GitHub.io/jaxedit/) - Online LaTeX editor with Live Preview and nice presentation mode.
 - [Vexlio](https://vexlio.com/) - Online diagram editor with built-in LaTeX equation support including live preview and easy exports. 
 - [TeXbrain](https://tex.swimmingbrain.dev) - Free, open-source browser-based LaTeX editor with in-browser compilation, live PDF preview and Git integration. No account or install required. ![foss]
+- [LetX](https://letx.app) - Online editor with real-time multi-author collaboration (CRDT), bidirectional SyncTeX, and 1000+ journal/thesis templates.
+- [Sarmate.net](https://www.sarmate.net) - Online editor with 5 built-in WYSIWYG helpers (TikZ figures, probability trees, sign tables, color boxes, LaTeX tables) that auto-generate clean LaTeX code. Cloud compilation, real-time collaboration, free tier.
+
+## Language Servers
+
+Language servers bring IDE features (completion, diagnostics, navigation, and more) to any editor that speaks the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/), such as Neovim, VS Code, Emacs, and Helix.
+
+- [TexLab](https://github.com/latex-lsp/texlab) [![GitHub stars](https://img.shields.io/github/stars/latex-lsp/texlab?style=flat)](https://github.com/latex-lsp/texlab/stargazers) - Language server for LaTeX and BibTeX with completion, definitions, references, rename, formatting, and forward search. ![foss]
+- [Badness](https://github.com/jolars/badness) [![GitHub stars](https://img.shields.io/github/stars/jolars/badness?style=flat)](https://github.com/jolars/badness/stargazers) - Language server, formatter, and linter for LaTeX built on a lossless, error-tolerant syntax tree in the style of rust-analyzer. ![foss]
 
 ## Bibliography tools
 
@@ -192,11 +205,21 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 - [Pandoc](https://pandoc.org) - This program converts almost any document format (LaTeX, DOC, markdown, etc.) to almost any other format. A great tool to aid workflows where multiple formats are used. ![foss]
 - [SciTeX Writer](https://github.com/ywatanabe1989/scitex-writer) [![GitHub stars](https://img.shields.io/github/stars/ywatanabe1989/scitex-writer?style=flat)](https://github.com/ywatanabe1989/scitex-writer/stargazers) - Manuscript compilation system with templates for manuscripts, revisions, and supplementary materials, plus figure, table, and citation handling, and an MCP server (38 tools). ![foss]
 
+### Formatters
+
+Formatters keep the layout of your LaTeX source consistent, so that you can focus on the content.
+
+- [latexindent](https://ctan.org/pkg/latexindent) - Perl script that indents and reformats LaTeX documents, highly configurable through YAML settings and shipped with the major TeX distributions. ![foss]
+- [tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt) [![GitHub stars](https://img.shields.io/github/stars/WGUNDERWOOD/tex-fmt?style=flat)](https://github.com/WGUNDERWOOD/tex-fmt/stargazers) - Extremely fast LaTeX formatter written in Rust, with sensible defaults and minimal configuration. ![foss]
+- [Badness](https://github.com/jolars/badness) [![GitHub stars](https://img.shields.io/github/stars/jolars/badness?style=flat)](https://github.com/jolars/badness/stargazers) - Deterministic, rule-based, and idempotent LaTeX formatter written in Rust (also a linter and language server). ![foss]
+
 ### Quality Check Tools
 
 - [ChkTeX](https://www.nongnu.org/chktex/) - Linter / code checker for LaTeX documents. ![foss]
 - [blacktex](https://github.com/nschloe/blacktex) [![GitHub stars](https://img.shields.io/github/stars/nschloe/blacktex?style=flat)](https://github.com/nschloe/blacktex/stargazers) - Command-line tool that replaces commonly occurring LaTeX anti-patterns and cleans up your files. ![windows] ![linux] ![mac] ![foss]
 - [TeXtidote](https://github.com/sylvainhalle/textidote) [![GitHub stars](https://img.shields.io/github/stars/sylvainhalle/textidote?style=flat)](https://github.com/sylvainhalle/textidote/stargazers) - A cross-platform (Java) spelling, grammar and style checker for LaTeX documents. ![windows] ![linux] ![mac] ![foss]
+- [Badness](https://github.com/jolars/badness) [![GitHub stars](https://img.shields.io/github/stars/jolars/badness?style=flat)](https://github.com/jolars/badness/stargazers) - Error-tolerant LaTeX linter with rich diagnostics and source snippets (also a formatter and language server). ![foss]
+- [latex2arxiv](https://github.com/YuZh98/latex2arxiv) [![GitHub stars](https://img.shields.io/github/stars/YuZh98/latex2arxiv?style=flat)](https://github.com/YuZh98/latex2arxiv/stargazers) - CLI tool that prepares a LaTeX project for arXiv submission: prunes unreachable files, strips draft markup, validates the bibliography, and catches desk-rejection errors before upload. Also available as a GitHub Action and MCP server for AI agents. ![windows] ![linux] ![mac] ![foss]
 
 ### Tools centered around equations
 
@@ -253,6 +276,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) [![GitHub stars](https://img.shields.io/github/stars/matlab2tikz/matlab2tikz?style=flat)](https://github.com/matlab2tikz/matlab2tikz/stargazers) - Convert your MATLAB plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 - [tikzplotlib](https://github.com/nschloe/tikzplotlib) [![GitHub stars](https://img.shields.io/github/stars/nschloe/tikzplotlib?style=flat)](https://github.com/nschloe/tikzplotlib/stargazers) - Convert your matplotlib plots to PGFPlots/TikZ. ![windows] ![linux] ![mac] ![foss]
 - [TikZBlog](https://latexdraw.com) - Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.
+- [OpenTikZ](https://github.com/opentikz/opentikz) [![GitHub stars](https://img.shields.io/github/stars/opentikz/opentikz?style=flat)](https://github.com/opentikz/opentikz/stargazers) - Community library of copyable TikZ icons and editable, parametric templates for academic conceptual diagrams (system/architecture, pipelines, flowcharts); CC0 content, with a Claude Code skill to edit figures on request. ![foss]
 
 ### Source Code
 

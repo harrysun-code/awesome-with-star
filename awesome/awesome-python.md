@@ -160,6 +160,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [OpenChronicle](https://github.com/Einsia/OpenChronicle) [![GitHub stars](https://img.shields.io/github/stars/Einsia/OpenChronicle?style=flat)](https://github.com/Einsia/OpenChronicle/stargazers) - Open-source, local-first memory for any tool-capable LLM agent.
   - [promptise](https://github.com/promptise-com/foundry) [![GitHub stars](https://img.shields.io/github/stars/promptise-com/foundry?style=flat)](https://github.com/promptise-com/foundry/stargazers) - A framework for building end-to-end production-ready agentic systems, scalable & secure MCP's and autonomous agents.
   - [pydantic-ai](https://github.com/pydantic/pydantic-ai) [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat)](https://github.com/pydantic/pydantic-ai/stargazers) - A Python agent framework for building generative AI applications with structured schemas.
+  - [smolagents](https://github.com/huggingface/smolagents) [![GitHub stars](https://img.shields.io/github/stars/huggingface/smolagents?style=flat)](https://github.com/huggingface/smolagents/stargazers) - A lightweight library to build agents and multi-agent workflows with minimal code.
   - [TradingAgents](https://github.com/TauricResearch/TradingAgents) [![GitHub stars](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=flat)](https://github.com/TauricResearch/TradingAgents/stargazers) - A multi-agents LLM financial trading framework.
 - Data Layer
   - [entroly](https://github.com/juyterman1000/entroly) [![GitHub stars](https://img.shields.io/github/stars/juyterman1000/entroly?style=flat)](https://github.com/juyterman1000/entroly/stargazers) - An auditable context control plane that optimizes prompt context, stabilizes cache prefixes, and verifies answers locally with WITNESS.
@@ -486,6 +487,7 @@ _Libraries for serializing complex data types._
 
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) [![GitHub stars](https://img.shields.io/github/stars/marshmallow-code/marshmallow?style=flat)](https://github.com/marshmallow-code/marshmallow/stargazers) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [msgpack](https://github.com/msgpack/msgpack-python) [![GitHub stars](https://img.shields.io/github/stars/msgpack/msgpack-python?style=flat)](https://github.com/msgpack/msgpack-python/stargazers) - MessagePack serializer implementation for Python.
+- [msgspec](https://github.com/msgspec/msgspec) [![GitHub stars](https://img.shields.io/github/stars/msgspec/msgspec?style=flat)](https://github.com/msgspec/msgspec/stargazers) - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
 - [orjson](https://github.com/ijl/orjson) [![GitHub stars](https://img.shields.io/github/stars/ijl/orjson?style=flat)](https://github.com/ijl/orjson/stargazers) - Fast, correct JSON library.
 
 **Data & Science**

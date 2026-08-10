@@ -79,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 - [GoodLooks](https://github.com/dashcamio/goodlooks) [![GitHub stars](https://img.shields.io/github/stars/dashcamio/goodlooks?style=flat)](https://github.com/dashcamio/goodlooks/stargazers) - AI-powered visual validation for Playwright tests.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
+- [Image Diff](https://nutilz.com/image-diff) - Free, browser-based pixel diff tool for comparing two images and highlighting exactly what changed, with an adjustable sensitivity threshold. No upload, no sign-up.
 - [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with AI flake triage and baseline review.
 - [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 - [recheck-web](https://github.com/retest/recheck-web) [![GitHub stars](https://img.shields.io/github/stars/retest/recheck-web?style=flat)](https://github.com/retest/recheck-web/stargazers) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.

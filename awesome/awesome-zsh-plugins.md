@@ -60,7 +60,6 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [zap](#zap)
   - [zapack](#zapack)
   - [zcomet](#zcomet)
-  - [zdx](#zdx)
   - [zeesh](#zeesh)
   - [zef](#zef)
   - [zert](#zert)
@@ -90,6 +89,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [ztupide](#ztupide)
   - [zulu](#zulu)
   - [zush 🦥 - Mid-Performance ZSH Configuration](#zush----mid-performance-zsh-configuration)
+  - [Performance](#performance)
 - [Setups](#setups)
   - [oh-my-zsh](#oh-my-zsh-1)
   - [Raw ZSH](#raw-zsh)
@@ -147,11 +147,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ## Frameworks
 
 These frameworks make customizing your ZSH setup easier.
-
-You can find performance timing comparisons of various frameworks in the following locations.
-
-- [rossmacarthur/zsh-plugin-manager-benchmark](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) [![GitHub stars](https://img.shields.io/github/stars/rossmacarthur/zsh-plugin-manager-benchmark?style=flat)](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark/stargazers) - Contains performance benchmarks for the most popular ZSH frameworks, including both install time and load time.
-- [pm-perf-test](https://github.com/z-shell/pm-perf-test) [![GitHub stars](https://img.shields.io/github/stars/z-shell/pm-perf-test?style=flat)](https://github.com/z-shell/pm-perf-test/stargazers) - Tooling for running performance tests on multiple ZSH frameworks.
 
 ### [alf](https://github.com/psyrendust/alf) [![GitHub stars](https://img.shields.io/github/stars/psyrendust/alf?style=flat)](https://github.com/psyrendust/alf/stargazers)
 ![GitHub last commit](https://img.shields.io/github/last-commit/psyrendust/alf) ![GitHub Repo stars](https://img.shields.io/github/stars/psyrendust/alf)
@@ -446,12 +441,6 @@ Features Provided by XC-Manager:
 
 **zcomet** is a minimalistic ZSH plugin manager that gets you to the prompt surprisingly quickly without caching (see the benchmarks). In addition to loading and updating plugins stored in `git` repositories, it supports lazy-loading plugins (further reducing startup time) as well as downloading and sourcing code snippets.
 
-### [zdx](https://github.com/landerox/zdx-suite) [![GitHub stars](https://img.shields.io/github/stars/landerox/zdx-suite?style=flat)](https://github.com/landerox/zdx-suite/stargazers)
-![GitHub last commit](https://img.shields.io/github/last-commit/landerox/zdx-suite)
- ![GitHub Repo stars](https://img.shields.io/github/stars/landerox/zdx-suite)
-
-ZDX (ZSH Developer Experience Suite) is a streamlined, terminal-first productivity suite and custom plugin loader for ZSH. Stop memorizing complex flags and arguments. ZDX provides lightning-fast, fuzzy-search-driven access to your daily shell workflows. Powered by [fzf](https://github.com/junegunn/fzf) [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf?style=flat)](https://github.com/junegunn/fzf/stargazers), these modular, interactive suites and custom plugins transform your terminal into a high-performance developer dashboard.
-
 ### [zeesh](https://github.com/zeekay/zeesh) [![GitHub stars](https://img.shields.io/github/stars/zeekay/zeesh?style=flat)](https://github.com/zeekay/zeesh/stargazers)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zeekay/zeesh)
  ![GitHub Repo stars](https://img.shields.io/github/stars/zeekay/zeesh)
@@ -723,6 +712,13 @@ Features:
 - Auto-compilation - All ZSH files compiled with `zcompile` for faster loading
 - Smart Caching - Environment changes cached for instant startup
 
+### Performance
+
+You can find performance timing comparisons for various frameworks in the following locations.
+
+- [rossmacarthur/zsh-plugin-manager-benchmark](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark) [![GitHub stars](https://img.shields.io/github/stars/rossmacarthur/zsh-plugin-manager-benchmark?style=flat)](https://github.com/rossmacarthur/zsh-plugin-manager-benchmark/stargazers) - Contains performance benchmarks for the most popular ZSH frameworks, including both install time and load time.
+- [pm-perf-test](https://github.com/z-shell/pm-perf-test) [![GitHub stars](https://img.shields.io/github/stars/z-shell/pm-perf-test?style=flat)](https://github.com/z-shell/pm-perf-test/stargazers) - Tooling for running performance tests on multiple ZSH frameworks.
+
 ## Setups
 
 This section is for full setup dropins - they aren't frameworks, but they're not simple plugins/themes either.
@@ -863,6 +859,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment) [![GitHub stars](https://img.shields.io/github/stars/se-jaeger/zsh-activate-py-environment?style=flat)](https://github.com/se-jaeger/zsh-activate-py-environment/stargazers) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
 - [adguard-helper](https://github.com/MohamedElashri/adguard-helper) [![GitHub stars](https://img.shields.io/github/stars/MohamedElashri/adguard-helper?style=flat)](https://github.com/MohamedElashri/adguard-helper/stargazers) - Simplies interaction with the [AdGuard VPN CLI](https://github.com/AdguardTeam/AdGuardVPNCLI) [![GitHub stars](https://img.shields.io/github/stars/AdguardTeam/AdGuardVPNCLI?style=flat)](https://github.com/AdguardTeam/AdGuardVPNCLI/stargazers). It provides user-friendly commands that reduce the need to remember complex flags and commands by offering a more intuitive interface.
 - [adonisjs](https://github.com/baliestri/adonisjs.plugin.zsh) [![GitHub stars](https://img.shields.io/github/stars/baliestri/adonisjs.plugin.zsh?style=flat)](https://github.com/baliestri/adonisjs.plugin.zsh/stargazers) - Plugin for skipping the `node` part of the `ace` command.
+- [agent-history](https://github.com/aaronbronow/agent-history) [![GitHub stars](https://img.shields.io/github/stars/aaronbronow/agent-history?style=flat)](https://github.com/aaronbronow/agent-history/stargazers) - ZSH shortcut to resume recent AI coding sessions in the terminal.
 - [ai-cmd](https://github.com/kylesnowschwartz/zsh-ai-cmd) [![GitHub stars](https://img.shields.io/github/stars/kylesnowschwartz/zsh-ai-cmd?style=flat)](https://github.com/kylesnowschwartz/zsh-ai-cmd/stargazers) - Natural language to shell commands with ghost text preview. Requires `curl`, [`jq`](https://stedolan.github.io/jq/) and an Anthropic API key.
 - [ai-cmd](https://github.com/shanemcd/ai-cmd) [![GitHub stars](https://img.shields.io/github/stars/shanemcd/ai-cmd?style=flat)](https://github.com/shanemcd/ai-cmd/stargazers) - Generate shell commands from natural language using LLMs via [Claude Code](https://docs.anthropic.com/en/docs/claude-code) or [Ollama](https://ollama.ai/).
 - [ai-commands](https://github.com/muePatrick/zsh-ai-commands) [![GitHub stars](https://img.shields.io/github/stars/muePatrick/zsh-ai-commands?style=flat)](https://github.com/muePatrick/zsh-ai-commands/stargazers) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
@@ -1120,6 +1117,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [env-secrets](https://github.com/singular0/zsh-env-secrets) [![GitHub stars](https://img.shields.io/github/stars/singular0/zsh-env-secrets?style=flat)](https://github.com/singular0/zsh-env-secrets/stargazers) - Automatically retrieves secrets from secure storage backends and exports them as environment variables during shell initialization. This eliminates the need to store sensitive information in plain text configuration files. Works with `pass` and the macOS keychain.
 - [envrc](https://github.com/fabiogibson/envrc-zsh-plugin) [![GitHub stars](https://img.shields.io/github/stars/fabiogibson/envrc-zsh-plugin?style=flat)](https://github.com/fabiogibson/envrc-zsh-plugin/stargazers) - Automatically loads and unloads environment variables if a `.envrc` file is found in a directory.
 - [escape-backtick](https://github.com/bezhermoso/zsh-escape-backtick) [![GitHub stars](https://img.shields.io/github/stars/bezhermoso/zsh-escape-backtick?style=flat)](https://github.com/bezhermoso/zsh-escape-backtick/stargazers) - Quickly insert escaped backticks when double-tapping "`".
+- [ev](https://github.com/emhat098/ev) [![GitHub stars](https://img.shields.io/github/stars/emhat098/ev?style=flat)](https://github.com/emhat098/ev/stargazers) - ev is a ZSG / [Oh My Zsh](https://ohmyz.sh/) plugin for progressive command autocomplete: a selectable suggestion list under your prompt that deepens as you type - commands → subcommands → flags. Use it as a [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) [![GitHub stars](https://img.shields.io/github/stars/zsh-users/zsh-autosuggestions?style=flat)](https://github.com/zsh-users/zsh-autosuggestions/stargazers) alternative when you want a navigable list (not only ghost text), including `git`, `gh`, `docker`, and other CLI subcommands.
 - [evalcache](https://github.com/mroth/evalcache) [![GitHub stars](https://img.shields.io/github/stars/mroth/evalcache?style=flat)](https://github.com/mroth/evalcache/stargazers) - Caches the output of a binary initialization command like `eval "$(hub alias -s)"`, to help lower shell startup time by loading from cache instead of re-running every new shell session.
 - [evil-registers](https://github.com/zsh-vi-more/evil-registers) [![GitHub stars](https://img.shields.io/github/stars/zsh-vi-more/evil-registers?style=flat)](https://github.com/zsh-vi-more/evil-registers/stargazers) - Extends ZLE `vi` commands to remotely access named registers of the `vim` and `nvim` editors, and system selection and clipboard.
 - [exa (DarrinTisdale)](https://github.com/DarrinTisdale/zsh-aliases-exa) [![GitHub stars](https://img.shields.io/github/stars/DarrinTisdale/zsh-aliases-exa?style=flat)](https://github.com/DarrinTisdale/zsh-aliases-exa/stargazers) - Enables a number of aliases extending [exa](https://github.com/ogham/exa) [![GitHub stars](https://img.shields.io/github/stars/ogham/exa?style=flat)](https://github.com/ogham/exa/stargazers), the modern replacement for `ls`.
@@ -1917,7 +1915,6 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [zaw](https://github.com/zsh-users/zaw) [![GitHub stars](https://img.shields.io/github/stars/zsh-users/zaw?style=flat)](https://github.com/zsh-users/zaw/stargazers) - ZSH anything.el-like widget.
 - [zbrowse](https://github.com/zdharma-continuum/zbrowse) [![GitHub stars](https://img.shields.io/github/stars/zdharma-continuum/zbrowse?style=flat)](https://github.com/zdharma-continuum/zbrowse/stargazers) - When doing shell work, it is often the case that `echo $variable` is invoked multiple times, to check the result of a loop, etc. With ZBrowse, you just need to press `Ctrl-B`, which invokes the ZBrowse – Zshell variable browser.
 - [zce](https://github.com/hchbaw/zce.zsh) [![GitHub stars](https://img.shields.io/github/stars/hchbaw/zce.zsh?style=flat)](https://github.com/hchbaw/zce.zsh/stargazers) - Vim's EasyMotion / Emacs's ace-jump-mode for ZSH.
-- [zcolors](https://github.com/marlonrichert/zcolors) [![GitHub stars](https://img.shields.io/github/stars/marlonrichert/zcolors?style=flat)](https://github.com/marlonrichert/zcolors/stargazers) - Uses your `$LS_COLORS` to generate a coherent theme for Git and your Zsh prompt, completions and [ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) [![GitHub stars](https://img.shields.io/github/stars/zsh-users/zsh-syntax-highlighting?style=flat)](https://github.com/zsh-users/zsh-syntax-highlighting/stargazers).
 - [zconvey](https://github.com/zdharma-continuum/zconvey) [![GitHub stars](https://img.shields.io/github/stars/zdharma-continuum/zconvey?style=flat)](https://github.com/zdharma-continuum/zconvey/stargazers) - Adds ability to send commands to other ZSH sessions, you can use this to `cd $PWD` on all active ZSH sessions, for example.
 - [zed](https://github.com/eendroroy/zed-zsh) [![GitHub stars](https://img.shields.io/github/stars/eendroroy/zed-zsh?style=flat)](https://github.com/eendroroy/zed-zsh/stargazers) - A simple wrapper for [z](https://github.com/rupa/z) [![GitHub stars](https://img.shields.io/github/stars/rupa/z?style=flat)](https://github.com/rupa/z/stargazers) to install it via a ZSH plugin.
 - [zellij (jaeheonji)](https://github.com/jaeheonji/zsh-zellij-plugin) [![GitHub stars](https://img.shields.io/github/stars/jaeheonji/zsh-zellij-plugin?style=flat)](https://github.com/jaeheonji/zsh-zellij-plugin/stargazers) - Provides an environment that uses [zellij](https://github.com/zellij-org/zellij) [![GitHub stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat)](https://github.com/zellij-org/zellij/stargazers). Requires [tmux](https://github.com/tmux/tmux) [![GitHub stars](https://img.shields.io/github/stars/tmux/tmux?style=flat)](https://github.com/tmux/tmux/stargazers). Deprecated by author, now [supported natively](https://zellij.dev/documentation/integration.html#autostart-on-shell-creation).
@@ -2231,6 +2228,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [acenoster](https://github.com/himdek/Acenoster-ZSH-Theme) [![GitHub stars](https://img.shields.io/github/stars/himdek/Acenoster-ZSH-Theme?style=flat)](https://github.com/himdek/Acenoster-ZSH-Theme/stargazers) - A multi-purpose theme with very detailed `git` and `mercurial` support. Also includes decorators for AWS profile name, virtual environment name if any, number of background tasks, current directory and previous command's exit code if non-zero.
 - [achab](https://github.com/niotna/antoinechab-theme) [![GitHub stars](https://img.shields.io/github/stars/niotna/antoinechab-theme?style=flat)](https://github.com/niotna/antoinechab-theme/stargazers) - Includes decorators for the current folder path, the current user and the current `git` branch. Decorator colors are easily customizable.
 - [adamdodev](https://github.com/adamdodev/adamdodev-zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/adamdodev/adamdodev-zsh-theme?style=flat)](https://github.com/adamdodev/adamdodev-zsh-theme/stargazers) - Includes decorators for `git` status, the name of your AWS profile, the name of your Azure Service Principal, kubernetes context, terraform workspace, last command exit status and current working directory.
+- [adhde](https://github.com/Senderman/adhde-zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/Senderman/adhde-zsh-theme?style=flat)](https://github.com/Senderman/adhde-zsh-theme/stargazers) - Includes decorators for user@host, current directory, `git` status, last command status and datetime.
 - [adlee](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme?style=flat)](https://github.com/adlee-was-taken/oh-my-zsh-osx/blob/master/adlee.zsh-theme/stargazers) - macOS theme, requires a Powerline-compatible font.
 - [adoz](daviosoo/adoz-zsh-theme) - A minimalistic theme with a focus on purple and blue color tones. Adoz provides a clean, modern prompt that displays essential information while maintaining a sleek aesthetic. Highly customizable by setting environment variables. Includes decorators for user@hostname, current directory, timestamp and `git` status.
 - [af-magic-dynamic](https://github.com/rslavin/af-magic-dynamic) [![GitHub stars](https://img.shields.io/github/stars/rslavin/af-magic-dynamic?style=flat)](https://github.com/rslavin/af-magic-dynamic/stargazers) - Modified version of [af-magic](https://github.com/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme?style=flat)](https://github.com/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme/stargazers) with dynamic path shortening.
@@ -2414,6 +2412,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [cmder-wsl](https://github.com/szyminson/cmder-wsl-zsh) [![GitHub stars](https://img.shields.io/github/stars/szyminson/cmder-wsl-zsh?style=flat)](https://github.com/szyminson/cmder-wsl-zsh/stargazers) - Configuration file for `cmder`that is configured to work in quake mode with ZSH and a modified [Agnoster](https://gist.github.com/agnoster/3712874) theme.
 - [cmder](https://github.com/potasiyam/cmder-zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/potasiyam/cmder-zsh-theme?style=flat)](https://github.com/potasiyam/cmder-zsh-theme/stargazers) - A ZSH theme that matches the theme of Cmder, a popular terminal emulator for windows. Includes `node` and `git` status decorations.
 - [cn](https://github.com/shinqcn/cn-zsh/) [![GitHub stars](https://img.shields.io/github/stars/shinqcn/cn-zsh/?style=flat)](https://github.com/shinqcn/cn-zsh//stargazers) - Includes `username`, `directory` and `git` status decorations.
+- [cobalt-spark](https://github.com/azhuchkov/cobalt-spark) [![GitHub stars](https://img.shields.io/github/stars/azhuchkov/cobalt-spark?style=flat)](https://github.com/azhuchkov/cobalt-spark/stargazers) - A compact, low-noise theme designed to stay out of the way during everyday terminal work. Includes abbreviated paths and concise indicators for Git state, virtualenvs, nested shells and background jobs.
 - [cobalt2](https://github.com/wesbos/Cobalt2-iterm) [![GitHub stars](https://img.shields.io/github/stars/wesbos/Cobalt2-iterm?style=flat)](https://github.com/wesbos/Cobalt2-iterm/stargazers) - Wes Bos' Cobalt 2 theme for ZSH and iTerm 2.
 - [cobalt2git](https://github.com/alexeimun/cobalt2git) [![GitHub stars](https://img.shields.io/github/stars/alexeimun/cobalt2git?style=flat)](https://github.com/alexeimun/cobalt2git/stargazers) - Cobalt 2 theme with `git` extensions.
 - [codemachine](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) [![GitHub stars](https://img.shields.io/github/stars/CodeMonkeyMike/ZshTheme-CodeMachine?style=flat)](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine/stargazers) - Displays decorators for `git` info, whether you're logged in via `ssh`, and the return code of last command.
@@ -2744,6 +2743,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [linuxero](https://github.com/andreshincapier/linuxero) [![GitHub stars](https://img.shields.io/github/stars/andreshincapier/linuxero?style=flat)](https://github.com/andreshincapier/linuxero/stargazers) - Minimalist. Includes decorations for root status, current directory, `git` status, current ruby rvm environment and current python virtualenv.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) [![GitHub stars](https://img.shields.io/github/stars/nojhan/liquidprompt?style=flat)](https://github.com/nojhan/liquidprompt/stargazers) - A full-featured & carefully designed adaptive prompt with useful information when you need it. It shows you what you need when you need it. You will notice what changes when it changes, saving time and frustration.
 - [lish](https://github.com/bashelled/lish) [![GitHub stars](https://img.shields.io/github/stars/bashelled/lish?style=flat)](https://github.com/bashelled/lish/stargazers) - A casual theme. No roughness, just smooth. Includes `git`, user@host, last command exit status, current directory, current time and root status decorators.
+- [litmus](https://github.com/dceoy/litmus-zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/dceoy/litmus-zsh-theme?style=flat)](https://github.com/dceoy/litmus-zsh-theme/stargazers) - Connection-aware colors: prompt turns cyan on local sessions and magenta over SSH, so you always know where you are, includes decorators for datetime, `git` status, root status indicator, exit status of last command and user@host.
 - [liver](https://github.com/RenoirTan/liver.zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/RenoirTan/liver.zsh-theme?style=flat)](https://github.com/RenoirTan/liver.zsh-theme/stargazers) - Colorful, includes `git` status, user, host, current and relative path to the current repository root decorations.
 - [llama](https://github.com/PsychoLlama/llama.zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/PsychoLlama/llama.zsh-theme?style=flat)](https://github.com/PsychoLlama/llama.zsh-theme/stargazers) - Minimalist theme used by discerning llamas.
 - [logico](https://github.com/logico/logico-zsh-theme) [![GitHub stars](https://img.shields.io/github/stars/logico/logico-zsh-theme?style=flat)](https://github.com/logico/logico-zsh-theme/stargazers) - Has `git` decorations. Shows remote status and indicator for vi-mode.
@@ -3357,7 +3357,7 @@ Most of these plugins can be installed by adding `zpm load "githubuser/reponame"
 
 ## Writing New Plugins and Themes
 
-I've documented some recommendations for writing new plugin and themes [here](https://github.com/unixorn/awesome-zsh-plugins/blob/master/Writing_Plugins_and_Themes.md) [![GitHub stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins/blob/master/Writing_Plugins_and_Themes.md?style=flat)](https://github.com/unixorn/awesome-zsh-plugins/blob/master/Writing_Plugins_and_Themes.md/stargazers).
+I've documented some recommendations for writing new plugin and themes [here](https://github.com/unixorn/awesome-zsh-plugins/blob/main/Writing_Plugins_and_Themes.md) [![GitHub stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins/blob/main/Writing_Plugins_and_Themes.md?style=flat)](https://github.com/unixorn/awesome-zsh-plugins/blob/main/Writing_Plugins_and_Themes.md/stargazers).
 
 There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.github.io/Zsh-100-Commits-Club/Zsh-Plugin-Standard.html).
 
@@ -3381,13 +3381,12 @@ There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.gi
 - [shtab](https://github.com/iterative/shtab) [![GitHub stars](https://img.shields.io/github/stars/iterative/shtab?style=flat)](https://github.com/iterative/shtab/stargazers) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
 - [smucd](https://github.com/pro555161rblxs/smucd) [![GitHub stars](https://img.shields.io/github/stars/pro555161rblxs/smucd?style=flat)](https://github.com/pro555161rblxs/smucd/stargazers) - Fuzzy typo-tolerant cd replacement with interactive selection UI.
 - [zargparse](https://github.com/ctil/zargparse) [![GitHub stars](https://img.shields.io/github/stars/ctil/zargparse?style=flat)](https://github.com/ctil/zargparse/stargazers) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.
+- [zcolors](https://github.com/marlonrichert/zcolors) [![GitHub stars](https://img.shields.io/github/stars/marlonrichert/zcolors?style=flat)](https://github.com/marlonrichert/zcolors/stargazers) - Uses your `$LS_COLORS` to generate a coherent theme for `git` and your ZSH prompt, completions and [ZSH syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) [![GitHub stars](https://img.shields.io/github/stars/zsh-users/zsh-syntax-highlighting?style=flat)](https://github.com/zsh-users/zsh-syntax-highlighting/stargazers).
 - [zsh-ai-completions](https://github.com/iloveitaly/zsh-ai-completions) [![GitHub stars](https://img.shields.io/github/stars/iloveitaly/zsh-ai-completions?style=flat)](https://github.com/iloveitaly/zsh-ai-completions/stargazers) - AI-generated ZSH completions
 - [zsh-bench](https://github.com/romkatv/zsh-bench) [![GitHub stars](https://img.shields.io/github/stars/romkatv/zsh-bench?style=flat)](https://github.com/romkatv/zsh-bench/stargazers) - A benchmark for interactive ZSH. It measures user-visible latency of interactive `zsh`: input lag, command lag, etc.
 - [zshdb](https://github.com/rocky/zshdb) [![GitHub stars](https://img.shields.io/github/stars/rocky/zshdb?style=flat)](https://github.com/rocky/zshdb/stargazers) - A ZSH debugger.
 - [zshelldoc](https://github.com/zdharma-continuum/zshelldoc) [![GitHub stars](https://img.shields.io/github/stars/zdharma-continuum/zshelldoc?style=flat)](https://github.com/zdharma-continuum/zshelldoc/stargazers) - Doxygen for shell scripts. Parses ZSH and Bash scripts, outputs Asciidoc document with function lists, call trees, lists of exported variables, and more.
 - [zunit](https://github.com/zunit-zsh/zunit) [![GitHub stars](https://img.shields.io/github/stars/zunit-zsh/zunit?style=flat)](https://github.com/zunit-zsh/zunit/stargazers) - A powerful unit testing framework for ZSH.
-
-
 
 ### Other Useful Lists
 

@@ -393,6 +393,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Starbound](https://github.com/rwf93/Starbound) [![GitHub stars](https://img.shields.io/github/stars/rwf93/Starbound?style=flat)](https://github.com/rwf93/Starbound/stargazers) - A 2D sandbox adventure game where players explore a vast procedurally generated universe.
 - [Terasology](https://github.com/MovingBlocks/Terasology) [![GitHub stars](https://img.shields.io/github/stars/MovingBlocks/Terasology?style=flat)](https://github.com/MovingBlocks/Terasology/stargazers) - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 - [The Powder Toy](https://github.com/simtr/The-Powder-Toy) [![GitHub stars](https://img.shields.io/github/stars/simtr/The-Powder-Toy?style=flat)](https://github.com/simtr/The-Powder-Toy/stargazers) - Falling-sand physics sandbox game.
+- [Unturned](https://github.com/SmartlyDressedGames/U3-SDK) [![GitHub stars](https://img.shields.io/github/stars/SmartlyDressedGames/U3-SDK?style=flat)](https://github.com/SmartlyDressedGames/U3-SDK/stargazers) - Free open-world zombie survival sandbox game.
 
 ### Simulation
 
@@ -449,6 +450,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Android
 
+- [Braincup](https://github.com/SimonSchubert/Braincup) [![GitHub stars](https://img.shields.io/github/stars/SimonSchubert/Braincup?style=flat)](https://github.com/SimonSchubert/Braincup/stargazers) - Memory, focus & math trainer.
 - [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) [![GitHub stars](https://img.shields.io/github/stars/tvbarthel/ChaseWhisplyProject?style=flat)](https://github.com/tvbarthel/ChaseWhisplyProject/stargazers) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
 - [Colorphun](https://github.com/prakhar1989/colorphun) [![GitHub stars](https://img.shields.io/github/stars/prakhar1989/colorphun?style=flat)](https://github.com/prakhar1989/colorphun/stargazers) - Simple color based Android Game.
 - [Game of Life](https://github.com/zsoltk/GameOfLife) [![GitHub stars](https://img.shields.io/github/stars/zsoltk/GameOfLife?style=flat)](https://github.com/zsoltk/GameOfLife/stargazers) - Conway's Game of Life with editable rules.

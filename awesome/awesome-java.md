@@ -29,7 +29,7 @@ _Frameworks and libraries that help implementing and verifying design and archit
 
 > **[jMolecules](https://github.com/xmolecules/jmolecules) [![GitHub stars](https://img.shields.io/github/stars/xmolecules/jmolecules?style=flat)](https://github.com/xmolecules/jmolecules/stargazers)** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Annotations and interfaces to express design and architecture concepts in code.
 
-> **[jQAssistant](https://github.com/jQAssistant/jqassistant) [![GitHub stars](https://img.shields.io/github/stars/jQAssistant/jqassistant?style=flat)](https://github.com/jQAssistant/jqassistant/stargazers)** <kbd>★ 285</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Static code analysis with Neo4J-based query language.
+> **[jQAssistant](https://github.com/jQAssistant/jqassistant) [![GitHub stars](https://img.shields.io/github/stars/jQAssistant/jqassistant?style=flat)](https://github.com/jQAssistant/jqassistant/stargazers)** <kbd>★ 287</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Static code analysis with Neo4J-based query language.
 
 > **[Taikai](https://github.com/enofex/taikai) [![GitHub stars](https://img.shields.io/github/stars/enofex/taikai?style=flat)](https://github.com/enofex/taikai/stargazers)** <kbd>★ 244</kbd> <kbd>MIT</kbd> 🟢<br>ArchUnit extension with predefined architecture rules for common Java technologies.
 
@@ -40,15 +40,15 @@ _Frameworks and libraries that help implementing and verifying design and archit
 
 _Frameworks for building applications with AI, agents and knowledge-based systems._
 
-> **[A2A Java SDK](https://github.com/a2aproject/a2a-java) [![GitHub stars](https://img.shields.io/github/stars/a2aproject/a2a-java?style=flat)](https://github.com/a2aproject/a2a-java/stargazers)** <kbd>★ 467</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for the Agent2Agent protocol.
+> **[A2A Java SDK](https://github.com/a2aproject/a2a-java) [![GitHub stars](https://img.shields.io/github/stars/a2aproject/a2a-java?style=flat)](https://github.com/a2aproject/a2a-java/stargazers)** <kbd>★ 469</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for the Agent2Agent protocol.
 
-> **[AgentScope Java](https://github.com/agentscope-ai/agentscope-java) [![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java?style=flat)](https://github.com/agentscope-ai/agentscope-java/stargazers)** <kbd>★ 4.8k</kbd> 🟢<br>Framework for building distributed, long-running AI agents with tool execution, persistence and multi-agent orchestration.
+> **[AgentScope Java](https://github.com/agentscope-ai/agentscope-java) [![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java?style=flat)](https://github.com/agentscope-ai/agentscope-java/stargazers)** <kbd>★ 5.0k</kbd> 🟢<br>Framework for building distributed, long-running AI agents with tool execution, persistence and multi-agent orchestration.
 
 > **[Anahata ASI](https://github.com/anahata-os/anahata-asi) [![GitHub stars](https://img.shields.io/github/stars/anahata-os/anahata-asi?style=flat)](https://github.com/anahata-os/anahata-asi/stargazers)** <kbd>★ 23</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java agent container with local LLM adapters, stateful tool execution, context management and IDE integration.
 
-> **[Dokimos](https://github.com/dokimos-dev/dokimos) [![GitHub stars](https://img.shields.io/github/stars/dokimos-dev/dokimos?style=flat)](https://github.com/dokimos-dev/dokimos/stargazers)** <kbd>★ 48</kbd> <kbd>MIT</kbd> 🟢<br>Evaluation framework for LLM and AI-agent applications that scores responses, validates tool calls and execution traces, and catches quality regressions in CI.
+> **[Dokimos](https://github.com/dokimos-dev/dokimos) [![GitHub stars](https://img.shields.io/github/stars/dokimos-dev/dokimos?style=flat)](https://github.com/dokimos-dev/dokimos/stargazers)** <kbd>★ 50</kbd> <kbd>MIT</kbd> 🟢<br>Evaluation framework for LLM and AI-agent applications that scores responses, validates tool calls and execution traces, and catches quality regressions in CI.
 
-> **[Google Gen AI Java SDK](https://github.com/googleapis/java-genai) [![GitHub stars](https://img.shields.io/github/stars/googleapis/java-genai?style=flat)](https://github.com/googleapis/java-genai/stargazers)** <kbd>★ 385</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for integrating Google generative AI models.
+> **[Google Gen AI Java SDK](https://github.com/googleapis/java-genai) [![GitHub stars](https://img.shields.io/github/stars/googleapis/java-genai?style=flat)](https://github.com/googleapis/java-genai/stargazers)** <kbd>★ 387</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java SDK for integrating Google generative AI models.
 
 > **[JADE](https://jade.tilab.com)**<br>Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 
@@ -56,7 +56,7 @@ _Frameworks for building applications with AI, agents and knowledge-based system
 
 > **[LangChain4j](https://github.com/langchain4j/langchain4j) [![GitHub stars](https://img.shields.io/github/stars/langchain4j/langchain4j?style=flat)](https://github.com/langchain4j/langchain4j/stargazers)** <kbd>★ 12.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
 
-> **[liter-llm](https://github.com/xberg-io/liter-llm) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/liter-llm?style=flat)](https://github.com/xberg-io/liter-llm/stargazers)** <kbd>★ 240</kbd> <kbd>MIT</kbd> 🟢<br>Provides a Java binding for a unified LLM API client across multiple providers.
+> **[liter-llm](https://github.com/xberg-io/liter-llm) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/liter-llm?style=flat)](https://github.com/xberg-io/liter-llm/stargazers)** <kbd>★ 244</kbd> <kbd>MIT</kbd> 🟢<br>Provides a Java binding for a unified LLM API client across multiple providers.
 
 > **[MCP Java SDK](https://github.com/modelcontextprotocol/java-sdk) [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk?style=flat)](https://github.com/modelcontextprotocol/java-sdk/stargazers)** <kbd>★ 3.6k</kbd> <kbd>MIT</kbd> 🟢<br>Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
 
@@ -66,7 +66,7 @@ _Frameworks for building applications with AI, agents and knowledge-based system
 
 > **[simple-openai](https://github.com/sashirestela/simple-openai) [![GitHub stars](https://img.shields.io/github/stars/sashirestela/simple-openai?style=flat)](https://github.com/sashirestela/simple-openai/stargazers)** <kbd>★ 380</kbd> <kbd>MIT</kbd> 🟠<br>Library to use the OpenAI API (and compatible ones) in the simplest possible way.
 
-> **[Spring AI](https://github.com/spring-projects/spring-ai) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-ai?style=flat)](https://github.com/spring-projects/spring-ai/stargazers)** <kbd>★ 9.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Application framework for AI engineering for Spring.
+> **[Spring AI](https://github.com/spring-projects/spring-ai) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-ai?style=flat)](https://github.com/spring-projects/spring-ai/stargazers)** <kbd>★ 9.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Application framework for AI engineering for Spring.
 
 > **[Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) [![GitHub stars](https://img.shields.io/github/stars/alibaba/spring-ai-alibaba?style=flat)](https://github.com/alibaba/spring-ai-alibaba/stargazers)** <kbd>★ 10.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Agentic AI framework built on Spring AI with model, tool, RAG and workflow integrations.
 
@@ -96,7 +96,7 @@ _Libraries and frameworks for building chatbots and messaging-platform bots._
 
 > **[JDA](https://github.com/discord-jda/JDA) [![GitHub stars](https://img.shields.io/github/stars/discord-jda/JDA?style=flat)](https://github.com/discord-jda/JDA/stargazers)** <kbd>★ 4.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Wrapping of the Discord REST API and its WebSocket events.
 
-> **[Nyagram](https://github.com/kaleert/nyagram) [![GitHub stars](https://img.shields.io/github/stars/kaleert/nyagram?style=flat)](https://github.com/kaleert/nyagram/stargazers)** <kbd>★ 8</kbd> <kbd>MIT</kbd> 🟢<br>Reactive, type-safe framework for Telegram bots based on Spring Boot 3 and Java 21.
+> **[Nyagram](https://github.com/kaleert/nyagram) [![GitHub stars](https://img.shields.io/github/stars/kaleert/nyagram?style=flat)](https://github.com/kaleert/nyagram/stargazers)** <kbd>★ 9</kbd> <kbd>MIT</kbd> 🟢<br>Reactive, type-safe framework for Telegram bots based on Spring Boot 3 and Java 21.
 
 > **[TelegramBots](https://github.com/rubenlagus/TelegramBots) [![GitHub stars](https://img.shields.io/github/stars/rubenlagus/TelegramBots?style=flat)](https://github.com/rubenlagus/TelegramBots/stargazers)** <kbd>★ 5.5k</kbd> <kbd>MIT</kbd> 🟢<br>Java library for building bots with the Telegram Bot API.
 
@@ -123,7 +123,7 @@ _Tools that handle the build cycle and dependencies of an application._
 
 > **[git-commit-id Maven Plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin) [![GitHub stars](https://img.shields.io/github/stars/git-commit-id/git-commit-id-maven-plugin?style=flat)](https://github.com/git-commit-id/git-commit-id-maven-plugin/stargazers)** <kbd>★ 1.7k</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Exposes Git revision information to Maven builds and applications.
 
-> **[Gradle](https://github.com/gradle/gradle) [![GitHub stars](https://img.shields.io/github/stars/gradle/gradle?style=flat)](https://github.com/gradle/gradle/stargazers)** <kbd>★ 18.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+> **[Gradle](https://github.com/gradle/gradle) [![GitHub stars](https://img.shields.io/github/stars/gradle/gradle?style=flat)](https://github.com/gradle/gradle/stargazers)** <kbd>★ 18.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
 > **[jar-cart](https://github.com/Sudhanshu-Ambastha/jar-cart) [![GitHub stars](https://img.shields.io/github/stars/Sudhanshu-Ambastha/jar-cart?style=flat)](https://github.com/Sudhanshu-Ambastha/jar-cart/stargazers)** <kbd>★ 4</kbd> <kbd>MIT</kbd> 🟢<br>A modern, zero-configuration package manager and runner for the Java ecosystem written in Go, focusing on developer productivity and build speed.
 
@@ -131,7 +131,7 @@ _Tools that handle the build cycle and dependencies of an application._
 
 > **[Jib](https://github.com/GoogleContainerTools/jib) [![GitHub stars](https://img.shields.io/github/stars/GoogleContainerTools/jib?style=flat)](https://github.com/GoogleContainerTools/jib/stargazers)** <kbd>★ 14.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Builds optimized container images for Java applications without a Docker daemon.
 
-> **[Maven Wrapper](https://github.com/apache/maven-wrapper) [![GitHub stars](https://img.shields.io/github/stars/apache/maven-wrapper?style=flat)](https://github.com/apache/maven-wrapper/stargazers)** <kbd>★ 252</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analogue of Gradle Wrapper for Maven, allowing projects to build without a preinstalled Maven.
+> **[Maven Wrapper](https://github.com/apache/maven-wrapper) [![GitHub stars](https://img.shields.io/github/stars/apache/maven-wrapper?style=flat)](https://github.com/apache/maven-wrapper/stargazers)** <kbd>★ 253</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analogue of Gradle Wrapper for Maven, allowing projects to build without a preinstalled Maven.
 
 > **[Polyglot for Maven](https://github.com/takari/polyglot-maven) [![GitHub stars](https://img.shields.io/github/stars/takari/polyglot-maven?style=flat)](https://github.com/takari/polyglot-maven/stargazers)** <kbd>★ 922</kbd> <kbd>EPL-1.0</kbd> 🟢<br>Extensions for Maven 3.3.1+ that allows writing the POM model in dialects other than XML.
 
@@ -171,7 +171,7 @@ _Libraries that provide caching facilities._
 
 > **[Caffeine](https://github.com/ben-manes/caffeine) [![GitHub stars](https://img.shields.io/github/stars/ben-manes/caffeine?style=flat)](https://github.com/ben-manes/caffeine/stargazers)** <kbd>★ 17.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, near-optimal caching library.
 
-> **[Ehcache](https://github.com/ehcache/ehcache3) [![GitHub stars](https://img.shields.io/github/stars/ehcache/ehcache3?style=flat)](https://github.com/ehcache/ehcache3/stargazers)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed general-purpose cache.
+> **[Ehcache](https://github.com/ehcache/ehcache3) [![GitHub stars](https://img.shields.io/github/stars/ehcache/ehcache3?style=flat)](https://github.com/ehcache/ehcache3/stargazers)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Distributed general-purpose cache.
 
 > **[Infinispan](https://github.com/infinispan/infinispan) [![GitHub stars](https://img.shields.io/github/stars/infinispan/infinispan?style=flat)](https://github.com/infinispan/infinispan/stargazers)** <kbd>★ 1.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly concurrent key/value datastore used for caching.
 
@@ -221,7 +221,7 @@ _Libraries to integrate or use cloud-specific features._
 
 > **[Google Cloud Client Libraries](https://github.com/googleapis/google-cloud-java) [![GitHub stars](https://img.shields.io/github/stars/googleapis/google-cloud-java?style=flat)](https://github.com/googleapis/google-cloud-java/stargazers)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Client libraries for accessing Google Cloud services from Java applications.
 
-> **[Java Operator SDK](https://github.com/operator-framework/java-operator-sdk) [![GitHub stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk?style=flat)](https://github.com/operator-framework/java-operator-sdk/stargazers)** <kbd>★ 936</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
+> **[Java Operator SDK](https://github.com/operator-framework/java-operator-sdk) [![GitHub stars](https://img.shields.io/github/stars/operator-framework/java-operator-sdk?style=flat)](https://github.com/operator-framework/java-operator-sdk/stargazers)** <kbd>★ 937</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for implementing Kubernetes operators in Java.
 
 > **[Kubernetes Java Client](https://github.com/kubernetes-client/java) [![GitHub stars](https://img.shields.io/github/stars/kubernetes-client/java?style=flat)](https://github.com/kubernetes-client/java/stargazers)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official Java client for the Kubernetes API.
 
@@ -246,7 +246,7 @@ _Tools that provide metrics and quality measurements._
 
 > **[JSpecify](https://github.com/jspecify/jspecify) [![GitHub stars](https://img.shields.io/github/stars/jspecify/jspecify?style=flat)](https://github.com/jspecify/jspecify/stargazers)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Standardized nullness annotations designed to work uniformly across various Java IDEs, compilers, and static analysis tools.
 
-> **[Modernizer](https://github.com/gaul/modernizer-maven-plugin) [![GitHub stars](https://img.shields.io/github/stars/gaul/modernizer-maven-plugin?style=flat)](https://github.com/gaul/modernizer-maven-plugin/stargazers)** <kbd>★ 391</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detect uses of legacy Java APIs.
+> **[Modernizer](https://github.com/gaul/modernizer-maven-plugin) [![GitHub stars](https://img.shields.io/github/stars/gaul/modernizer-maven-plugin?style=flat)](https://github.com/gaul/modernizer-maven-plugin/stargazers)** <kbd>★ 390</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detect uses of legacy Java APIs.
 
 > **[Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector) [![GitHub stars](https://img.shields.io/github/stars/MutabilityDetector/MutabilityDetector?style=flat)](https://github.com/MutabilityDetector/MutabilityDetector/stargazers)** <kbd>★ 246</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Reports whether instances of a given class are immutable.
 
@@ -254,7 +254,7 @@ _Tools that provide metrics and quality measurements._
 
 > **[OpenRewrite](https://github.com/openrewrite/rewrite) [![GitHub stars](https://img.shields.io/github/stars/openrewrite/rewrite?style=flat)](https://github.com/openrewrite/rewrite/stargazers)** <kbd>★ 3.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Automates large-scale source-code refactoring through reusable recipes.
 
-> **[OpenTaint](https://github.com/seqra/opentaint) [![GitHub stars](https://img.shields.io/github/stars/seqra/opentaint?style=flat)](https://github.com/seqra/opentaint/stargazers)** <kbd>★ 126</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Interprocedural taint analyzer for Java and Spring applications with reusable security rules and dependency models.
+> **[OpenTaint](https://github.com/seqra/opentaint) [![GitHub stars](https://img.shields.io/github/stars/seqra/opentaint?style=flat)](https://github.com/seqra/opentaint/stargazers)** <kbd>★ 127</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Interprocedural taint analyzer for Java and Spring applications with reusable security rules and dependency models.
 
 > **[PMD](https://github.com/pmd/pmd) [![GitHub stars](https://img.shields.io/github/stars/pmd/pmd?style=flat)](https://github.com/pmd/pmd/stargazers)** <kbd>★ 5.5k</kbd> 🟢<br>Source code analysis for finding bad coding practices.
 
@@ -275,7 +275,7 @@ _Tools that provide metrics and quality measurements._
 
 _Frameworks and tools that enable code coverage metrics collection for test suites._
 
-> **[Delta Coverage](https://github.com/gw-kit/delta-coverage-plugin) [![GitHub stars](https://img.shields.io/github/stars/gw-kit/delta-coverage-plugin?style=flat)](https://github.com/gw-kit/delta-coverage-plugin/stargazers)** <kbd>★ 40</kbd> <kbd>MIT</kbd> 🟢<br>Computes code coverage of new and modified code based on a provided diff, supporting JaCoCo and IntelliJ coverage engines.
+> **[Delta Coverage](https://github.com/gw-kit/delta-coverage-plugin) [![GitHub stars](https://img.shields.io/github/stars/gw-kit/delta-coverage-plugin?style=flat)](https://github.com/gw-kit/delta-coverage-plugin/stargazers)** <kbd>★ 41</kbd> <kbd>MIT</kbd> 🟢<br>Computes code coverage of new and modified code based on a provided diff, supporting JaCoCo and IntelliJ coverage engines.
 
 > **[JaCoCo](https://github.com/jacoco/jacoco) [![GitHub stars](https://img.shields.io/github/stars/jacoco/jacoco?style=flat)](https://github.com/jacoco/jacoco/stargazers)** <kbd>★ 4.6k</kbd> 🟢<br>Framework that enables collection of code coverage metrics, using both offline and runtime bytecode instrumentation.
 
@@ -290,9 +290,9 @@ _Tools that format or restructure Java source code._
 
 > **[google-java-format](https://github.com/google/google-java-format) [![GitHub stars](https://img.shields.io/github/stars/google/google-java-format?style=flat)](https://github.com/google/google-java-format/stargazers)** <kbd>★ 6.2k</kbd> 🟢<br>Reformats Java source code to follow Google Java Style.
 
-> **[JHarmonizer](https://github.com/lemon-ant/JHarmonizer) [![GitHub stars](https://img.shields.io/github/stars/lemon-ant/JHarmonizer?style=flat)](https://github.com/lemon-ant/JHarmonizer/stargazers)** <kbd>★ 26</kbd> 🟢<br>Safely reorders Java source code with configurable rules and Palantir Java Format.
+> **[JHarmonizer](https://github.com/lemon-ant/JHarmonizer) [![GitHub stars](https://img.shields.io/github/stars/lemon-ant/JHarmonizer?style=flat)](https://github.com/lemon-ant/JHarmonizer/stargazers)** <kbd>★ 27</kbd> 🟢<br>Safely reorders Java source code with configurable rules and Palantir Java Format.
 
-> **[Palantir Java Format](https://github.com/palantir/palantir-java-format) [![GitHub stars](https://img.shields.io/github/stars/palantir/palantir-java-format?style=flat)](https://github.com/palantir/palantir-java-format/stargazers)** <kbd>★ 856</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Formatter based on google-java-format with wider lines and lambda-friendly output.
+> **[Palantir Java Format](https://github.com/palantir/palantir-java-format) [![GitHub stars](https://img.shields.io/github/stars/palantir/palantir-java-format?style=flat)](https://github.com/palantir/palantir-java-format/stargazers)** <kbd>★ 860</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Formatter based on google-java-format with wider lines and lambda-friendly output.
 
 > **[Spotless](https://github.com/diffplug/spotless) [![GitHub stars](https://img.shields.io/github/stars/diffplug/spotless?style=flat)](https://github.com/diffplug/spotless/stargazers)** <kbd>★ 5.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A versatile code formatter for Gradle and Maven that enforces multiple styles (including Google and Palantir) across Java and other languages.
 
@@ -333,7 +333,7 @@ _Tools that generate patterns for repetitive code in order to reduce verbosity a
 
 > **[Lombok](https://github.com/projectlombok/lombok) [![GitHub stars](https://img.shields.io/github/stars/projectlombok/lombok?style=flat)](https://github.com/projectlombok/lombok/stargazers)** <kbd>★ 13.5k</kbd> 🟢<br>Code generator that aims to reduce verbosity.
 
-> **[Record-Builder](https://github.com/Randgalt/record-builder) [![GitHub stars](https://img.shields.io/github/stars/Randgalt/record-builder?style=flat)](https://github.com/Randgalt/record-builder/stargazers)** <kbd>★ 925</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Companion builder class, withers and templates for Java records.
+> **[Record-Builder](https://github.com/Randgalt/record-builder) [![GitHub stars](https://img.shields.io/github/stars/Randgalt/record-builder?style=flat)](https://github.com/Randgalt/record-builder/stargazers)** <kbd>★ 926</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Companion builder class, withers and templates for Java records.
 
 > **[Spring CRUD Generator](https://github.com/mzivkovicdev/spring-crud-generator) [![GitHub stars](https://img.shields.io/github/stars/mzivkovicdev/spring-crud-generator?style=flat)](https://github.com/mzivkovicdev/spring-crud-generator/stargazers)** <kbd>★ 38</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Maven plugin for generating Spring Boot CRUD applications from YAML/JSON specifications.
 
@@ -350,7 +350,7 @@ _Frameworks that help to create parsers, interpreters or compilers._
 
 > **[JavaCC](https://github.com/javacc/javacc) [![GitHub stars](https://img.shields.io/github/stars/javacc/javacc?style=flat)](https://github.com/javacc/javacc/stargazers)** <kbd>★ 1.3k</kbd> <kbd>BSD-3-Clause</kbd> 🔴<br>Parser generator that generates top-down parsers. Allows lexical state switching and permits extended BNF specifications.
 
-> **[JFlex](https://github.com/jflex-de/jflex) [![GitHub stars](https://img.shields.io/github/stars/jflex-de/jflex?style=flat)](https://github.com/jflex-de/jflex/stargazers)** <kbd>★ 630</kbd> 🔴<br>Lexical analyzer generator.
+> **[JFlex](https://github.com/jflex-de/jflex) [![GitHub stars](https://img.shields.io/github/stars/jflex-de/jflex?style=flat)](https://github.com/jflex-de/jflex/stargazers)** <kbd>★ 632</kbd> 🔴<br>Lexical analyzer generator.
 
 </details>
 
@@ -361,7 +361,7 @@ _Libraries which seek to gain high level information from images and videos._
 
 > **[BoofCV](https://github.com/lessthanoptimal/BoofCV) [![GitHub stars](https://img.shields.io/github/stars/lessthanoptimal/BoofCV?style=flat)](https://github.com/lessthanoptimal/BoofCV/stargazers)** <kbd>★ 1.2k</kbd> 🟢<br>Library for image processing, camera calibration, tracking, SFM, MVS, 3D vision, QR Code and much more.
 
-> **[ImageJ](https://github.com/imagej/ImageJ) [![GitHub stars](https://img.shields.io/github/stars/imagej/ImageJ?style=flat)](https://github.com/imagej/ImageJ/stargazers)** <kbd>★ 775</kbd> 🟢<br>Medical image processing application with an API.
+> **[ImageJ](https://github.com/imagej/ImageJ) [![GitHub stars](https://img.shields.io/github/stars/imagej/ImageJ?style=flat)](https://github.com/imagej/ImageJ/stargazers)** <kbd>★ 777</kbd> 🟢<br>Medical image processing application with an API.
 
 > **[JavaCV](https://github.com/bytedeco/javacv) [![GitHub stars](https://img.shields.io/github/stars/bytedeco/javacv?style=flat)](https://github.com/bytedeco/javacv/stargazers)** <kbd>★ 8.3k</kbd> 🟢<br>Java interface to OpenCV, FFmpeg, and much more.
 
@@ -374,13 +374,13 @@ _Libraries that provide external configuration._
 
 > **[avaje config](https://github.com/avaje/avaje-config) [![GitHub stars](https://img.shields.io/github/stars/avaje/avaje-config?style=flat)](https://github.com/avaje/avaje-config/stargazers)** <kbd>★ 108</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Loads yaml and properties files, supports dynamic configuration, plugins, file-watching and config event listeners.
 
-> **[centraldogma](https://github.com/line/centraldogma) [![GitHub stars](https://img.shields.io/github/stars/line/centraldogma?style=flat)](https://github.com/line/centraldogma/stargazers)** <kbd>★ 665</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
+> **[centraldogma](https://github.com/line/centraldogma) [![GitHub stars](https://img.shields.io/github/stars/line/centraldogma?style=flat)](https://github.com/line/centraldogma/stargazers)** <kbd>★ 666</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
 
-> **[ClearConfig](https://github.com/japgolly/clear-config-java) [![GitHub stars](https://img.shields.io/github/stars/japgolly/clear-config-java?style=flat)](https://github.com/japgolly/clear-config-java/stargazers)** <kbd>★ 9</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type-safe, composable configuration library with a focus on runtime clarity.
+> **[ClearConfig](https://github.com/japgolly/clear-config-java) [![GitHub stars](https://img.shields.io/github/stars/japgolly/clear-config-java?style=flat)](https://github.com/japgolly/clear-config-java/stargazers)** <kbd>★ 10</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Type-safe, composable configuration library with a focus on runtime clarity.
 
 > **[config](https://github.com/lightbend/config) [![GitHub stars](https://img.shields.io/github/stars/lightbend/config?style=flat)](https://github.com/lightbend/config/stargazers)** <kbd>★ 6.3k</kbd> 🟢<br>Configuration library supporting Java properties, JSON or its human optimized superset HOCON.
 
-> **[Configurate](https://github.com/SpongePowered/Configurate) [![GitHub stars](https://img.shields.io/github/stars/SpongePowered/Configurate?style=flat)](https://github.com/SpongePowered/Configurate/stargazers)** <kbd>★ 466</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Configuration library with support for various configuration formats and transformations.
+> **[Configurate](https://github.com/SpongePowered/Configurate) [![GitHub stars](https://img.shields.io/github/stars/SpongePowered/Configurate?style=flat)](https://github.com/SpongePowered/Configurate/stargazers)** <kbd>★ 465</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Configuration library with support for various configuration formats and transformations.
 
 > **[dotenv](https://github.com/shyiko/dotenv) [![GitHub stars](https://img.shields.io/github/stars/shyiko/dotenv?style=flat)](https://github.com/shyiko/dotenv/stargazers)** <kbd>★ 51</kbd> 🔴<br>Twelve-factor configuration library which uses environment-specific files.
 
@@ -394,7 +394,7 @@ _Libraries that provide external configuration._
 
 > **[microconfig](https://github.com/microconfig/microconfig) [![GitHub stars](https://img.shields.io/github/stars/microconfig/microconfig?style=flat)](https://github.com/microconfig/microconfig/stargazers)** <kbd>★ 320</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Configuration system designed for microservices which helps to separate configuration from code. The configuration for different services can have common and specific parts and can be dynamically distributed.
 
-> **[NightConfig](https://github.com/TheElectronWill/night-config) [![GitHub stars](https://img.shields.io/github/stars/TheElectronWill/night-config?style=flat)](https://github.com/TheElectronWill/night-config/stargazers)** <kbd>★ 283</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Configuration library supporting TOML, YAML, HOCON, JSON and in-memory formats.
+> **[NightConfig](https://github.com/TheElectronWill/night-config) [![GitHub stars](https://img.shields.io/github/stars/TheElectronWill/night-config?style=flat)](https://github.com/TheElectronWill/night-config/stargazers)** <kbd>★ 285</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Configuration library supporting TOML, YAML, HOCON, JSON and in-memory formats.
 
 > **[owner](https://github.com/matteobaccan/owner) [![GitHub stars](https://img.shields.io/github/stars/matteobaccan/owner?style=flat)](https://github.com/matteobaccan/owner/stargazers)** <kbd>★ 939</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Reduces boilerplate of properties.
 
@@ -420,7 +420,7 @@ _Libraries that help with implementing optimization and satisfiability problems.
 
 _Frameworks and libraries that simplify reading/writing CSV data._
 
-> **[FastCSV](https://github.com/osiegmar/FastCSV) [![GitHub stars](https://img.shields.io/github/stars/osiegmar/FastCSV?style=flat)](https://github.com/osiegmar/FastCSV/stargazers)** <kbd>★ 690</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
+> **[FastCSV](https://github.com/osiegmar/FastCSV) [![GitHub stars](https://img.shields.io/github/stars/osiegmar/FastCSV?style=flat)](https://github.com/osiegmar/FastCSV/stargazers)** <kbd>★ 691</kbd> <kbd>MIT</kbd> 🟢<br>Performance-optimized, dependency-free and RFC 4180 compliant.
 
 > **[jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformats-text) [![GitHub stars](https://img.shields.io/github/stars/FasterXML/jackson-dataformats-text?style=flat)](https://github.com/FasterXML/jackson-dataformats-text/stargazers)** <kbd>★ 454</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson extension for reading and writing CSV.
 
@@ -433,7 +433,7 @@ _Frameworks and libraries that simplify reading/writing CSV data._
 
 _Tools for batch, stream, table and data-transformation workloads._
 
-> **[Apache Flink](https://github.com/apache/flink) [![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=flat)](https://github.com/apache/flink/stargazers)** <kbd>★ 26.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, large-scale data processing engine.
+> **[Apache Flink](https://github.com/apache/flink) [![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=flat)](https://github.com/apache/flink/stargazers)** <kbd>★ 26.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, large-scale data processing engine.
 
 > **[Apache Storm](https://github.com/apache/storm) [![GitHub stars](https://img.shields.io/github/stars/apache/storm?style=flat)](https://github.com/apache/storm/stargazers)** <kbd>★ 6.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Realtime computation system.
 
@@ -443,7 +443,7 @@ _Tools for batch, stream, table and data-transformation workloads._
 
 > **[OpenRefine](https://github.com/OpenRefine/OpenRefine) [![GitHub stars](https://img.shields.io/github/stars/OpenRefine/OpenRefine?style=flat)](https://github.com/OpenRefine/OpenRefine/stargazers)** <kbd>★ 11.9k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 
-> **[Siddhi](https://github.com/siddhi-io/siddhi) [![GitHub stars](https://img.shields.io/github/stars/siddhi-io/siddhi?style=flat)](https://github.com/siddhi-io/siddhi/stargazers)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Cloud native streaming and complex event processing engine.
+> **[Siddhi](https://github.com/siddhi-io/siddhi) [![GitHub stars](https://img.shields.io/github/stars/siddhi-io/siddhi?style=flat)](https://github.com/siddhi-io/siddhi/stargazers)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Cloud native streaming and complex event processing engine.
 
 > **[Smooks](https://github.com/smooks/smooks) [![GitHub stars](https://img.shields.io/github/stars/smooks/smooks?style=flat)](https://github.com/smooks/smooks/stargazers)** <kbd>★ 417</kbd> 🟠<br>Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
@@ -456,9 +456,9 @@ _Tools for batch, stream, table and data-transformation workloads._
 
 _Efficient and specific data structures._
 
-> **[CQEngine Next](https://github.com/MSaifAsif/cqengine-next) [![GitHub stars](https://img.shields.io/github/stars/MSaifAsif/cqengine-next?style=flat)](https://github.com/MSaifAsif/cqengine-next/stargazers)** <kbd>★ 17</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides indexed, SQL-like queries over Java collections.
+> **[CQEngine Next](https://github.com/MSaifAsif/cqengine-next) [![GitHub stars](https://img.shields.io/github/stars/MSaifAsif/cqengine-next?style=flat)](https://github.com/MSaifAsif/cqengine-next/stargazers)** <kbd>★ 18</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides indexed, SQL-like queries over Java collections.
 
-> **[HashSmith](https://github.com/bluuewhale/hash-smith) [![GitHub stars](https://img.shields.io/github/stars/bluuewhale/hash-smith?style=flat)](https://github.com/bluuewhale/hash-smith/stargazers)** <kbd>★ 106</kbd> <kbd>MIT</kbd> 🟠<br>Hash map and set implementations using SwissTable-style SWAR/SIMD control-byte probing, optimized for memory efficiency.
+> **[HashSmith](https://github.com/bluuewhale/hash-smith) [![GitHub stars](https://img.shields.io/github/stars/bluuewhale/hash-smith?style=flat)](https://github.com/bluuewhale/hash-smith/stargazers)** <kbd>★ 107</kbd> <kbd>MIT</kbd> 🟠<br>Hash map and set implementations using SwissTable-style SWAR/SIMD control-byte probing, optimized for memory efficiency.
 
 > **[Persistent Collection](https://github.com/hrldcpr/pcollections) [![GitHub stars](https://img.shields.io/github/stars/hrldcpr/pcollections?style=flat)](https://github.com/hrldcpr/pcollections/stargazers)** <kbd>★ 787</kbd> 🔴<br>Persistent and immutable analogue of the Java Collections Framework.
 
@@ -477,7 +477,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Apache Calcite](https://github.com/apache/calcite) [![GitHub stars](https://img.shields.io/github/stars/apache/calcite?style=flat)](https://github.com/apache/calcite/stargazers)** <kbd>★ 5.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dynamic data management framework. It contains many of the pieces that comprise a typical database management system.
 
-> **[Apache Cassandra](https://github.com/apache/cassandra) [![GitHub stars](https://img.shields.io/github/stars/apache/cassandra?style=flat)](https://github.com/apache/cassandra/stargazers)** <kbd>★ 10.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed wide-column database with linear scalability and fault tolerance.
+> **[Apache Cassandra](https://github.com/apache/cassandra) [![GitHub stars](https://img.shields.io/github/stars/apache/cassandra?style=flat)](https://github.com/apache/cassandra/stargazers)** <kbd>★ 10.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed wide-column database with linear scalability and fault tolerance.
 
 > **[Apache Doris](https://github.com/apache/doris) [![GitHub stars](https://img.shields.io/github/stars/apache/doris?style=flat)](https://github.com/apache/doris/stargazers)** <kbd>★ 15.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed SQL database for real-time analytics.
 
@@ -495,13 +495,13 @@ _Everything that simplifies interactions with the database._
 
 > **[ClickHouse Java](https://github.com/ClickHouse/clickhouse-java) [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/clickhouse-java?style=flat)](https://github.com/ClickHouse/clickhouse-java/stargazers)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java clients and JDBC driver for ClickHouse.
 
-> **[CosId](https://github.com/Ahoo-Wang/CosId) [![GitHub stars](https://img.shields.io/github/stars/Ahoo-Wang/CosId?style=flat)](https://github.com/Ahoo-Wang/CosId/stargazers)** <kbd>★ 640</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Universal, flexible, high-performance distributed ID generator.
+> **[CosId](https://github.com/Ahoo-Wang/CosId) [![GitHub stars](https://img.shields.io/github/stars/Ahoo-Wang/CosId?style=flat)](https://github.com/Ahoo-Wang/CosId/stargazers)** <kbd>★ 642</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Universal, flexible, high-performance distributed ID generator.
 
 > **[Debezium](https://github.com/debezium/debezium) [![GitHub stars](https://img.shields.io/github/stars/debezium/debezium?style=flat)](https://github.com/debezium/debezium/stargazers)** <kbd>★ 13.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Low latency data streaming platform for change data capture.
 
 > **[druid](https://github.com/apache/druid) [![GitHub stars](https://img.shields.io/github/stars/apache/druid?style=flat)](https://github.com/apache/druid/stargazers)** <kbd>★ 14.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, column-oriented, distributed data store.
 
-> **[eXist](https://github.com/eXist-db/exist) [![GitHub stars](https://img.shields.io/github/stars/eXist-db/exist?style=flat)](https://github.com/eXist-db/exist/stargazers)** <kbd>★ 466</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>NoSQL document database and application platform.
+> **[eXist](https://github.com/eXist-db/exist) [![GitHub stars](https://img.shields.io/github/stars/eXist-db/exist?style=flat)](https://github.com/eXist-db/exist/stargazers)** <kbd>★ 467</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>NoSQL document database and application platform.
 
 > **[FlexyPool](https://github.com/vladmihalcea/flexy-pool) [![GitHub stars](https://img.shields.io/github/stars/vladmihalcea/flexy-pool?style=flat)](https://github.com/vladmihalcea/flexy-pool/stargazers)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Brings metrics and failover strategies to the most common connection pooling solutions.
 
@@ -517,7 +517,7 @@ _Everything that simplifies interactions with the database._
 
 > **[JDBI](https://github.com/jdbi/jdbi) [![GitHub stars](https://img.shields.io/github/stars/jdbi/jdbi?style=flat)](https://github.com/jdbi/jdbi/stargazers)** <kbd>★ 2.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Convenient abstraction of JDBC.
 
-> **[Jedis](https://github.com/redis/jedis) [![GitHub stars](https://img.shields.io/github/stars/redis/jedis?style=flat)](https://github.com/redis/jedis/stargazers)** <kbd>★ 12.3k</kbd> <kbd>MIT</kbd> 🟢<br>Java client for Redis with synchronous, asynchronous and cluster APIs.
+> **[Jedis](https://github.com/redis/jedis) [![GitHub stars](https://img.shields.io/github/stars/redis/jedis?style=flat)](https://github.com/redis/jedis/stargazers)** <kbd>★ 12.4k</kbd> <kbd>MIT</kbd> 🟢<br>Java client for Redis with synchronous, asynchronous and cluster APIs.
 
 > **[jetcd](https://github.com/etcd-io/jetcd) [![GitHub stars](https://img.shields.io/github/stars/etcd-io/jetcd?style=flat)](https://github.com/etcd-io/jetcd/stargazers)** <kbd>★ 1.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java client for etcd v3.
 
@@ -529,7 +529,7 @@ _Everything that simplifies interactions with the database._
 
 > **[Liquibase](https://github.com/liquibase/liquibase) [![GitHub stars](https://img.shields.io/github/stars/liquibase/liquibase?style=flat)](https://github.com/liquibase/liquibase/stargazers)** <kbd>★ 5.6k</kbd> 🟢<br>Database-independent library for tracking, managing and applying database schema changes.
 
-> **[MapDB](https://github.com/jankotek/mapdb) [![GitHub stars](https://img.shields.io/github/stars/jankotek/mapdb?style=flat)](https://github.com/jankotek/mapdb/stargazers)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
+> **[MapDB](https://github.com/jankotek/mapdb) [![GitHub stars](https://img.shields.io/github/stars/jankotek/mapdb?style=flat)](https://github.com/jankotek/mapdb/stargazers)** <kbd>★ 5.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.
 
 > **[MariaDB4j](https://github.com/vorburger/MariaDB4j) [![GitHub stars](https://img.shields.io/github/stars/vorburger/MariaDB4j?style=flat)](https://github.com/vorburger/MariaDB4j/stargazers)** <kbd>★ 16</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Launcher for MariaDB that requires no installation or external dependencies.
 
@@ -606,11 +606,11 @@ _Libraries that handle decentralization tasks._
 
 _Libraries for decompiling JVM bytecode._
 
-> **[CFR](https://github.com/leibnitz27/cfr) [![GitHub stars](https://img.shields.io/github/stars/leibnitz27/cfr?style=flat)](https://github.com/leibnitz27/cfr/stargazers)** <kbd>★ 2.6k</kbd> <kbd>MIT</kbd> 🟢<br>Java decompiler focused on modern language features.
+> **[CFR](https://github.com/leibnitz27/cfr) [![GitHub stars](https://img.shields.io/github/stars/leibnitz27/cfr?style=flat)](https://github.com/leibnitz27/cfr/stargazers)** <kbd>★ 2.7k</kbd> <kbd>MIT</kbd> 🟢<br>Java decompiler focused on modern language features.
 
 > **[Fernflower](https://github.com/JetBrains/fernflower) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/fernflower?style=flat)](https://github.com/JetBrains/fernflower/stargazers)** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java decompiler with broad JVM bytecode support.
 
-> **[jadx](https://github.com/skylot/jadx) [![GitHub stars](https://img.shields.io/github/stars/skylot/jadx?style=flat)](https://github.com/skylot/jadx/stargazers)** <kbd>★ 49.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
+> **[jadx](https://github.com/skylot/jadx) [![GitHub stars](https://img.shields.io/github/stars/skylot/jadx?style=flat)](https://github.com/skylot/jadx/stargazers)** <kbd>★ 50.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Dex-to-Java decompiler with command-line and graphical interfaces.
 
 > **[transformer-api](https://github.com/nbauma109/transformer-api) [![GitHub stars](https://img.shields.io/github/stars/nbauma109/transformer-api?style=flat)](https://github.com/nbauma109/transformer-api/stargazers)** <kbd>★ 3</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Unified API that exposes multiple decompilers through one in-memory transformation interface.
 
@@ -644,11 +644,11 @@ _Libraries that help to realize the [Inversion of Control](https://en.wikipedia.
 
 _Augmentation of the development process at a fundamental level._
 
-> **[AspectJ](https://github.com/eclipse-aspectj/aspectj) [![GitHub stars](https://img.shields.io/github/stars/eclipse-aspectj/aspectj?style=flat)](https://github.com/eclipse-aspectj/aspectj/stargazers)** <kbd>★ 392</kbd> 🟠<br>Seamless aspect-oriented programming extension.
+> **[AspectJ](https://github.com/eclipse-aspectj/aspectj) [![GitHub stars](https://img.shields.io/github/stars/eclipse-aspectj/aspectj?style=flat)](https://github.com/eclipse-aspectj/aspectj/stargazers)** <kbd>★ 391</kbd> 🟠<br>Seamless aspect-oriented programming extension.
 
 > **[Faux Pas](https://github.com/zalando/faux-pas) [![GitHub stars](https://img.shields.io/github/stars/zalando/faux-pas?style=flat)](https://github.com/zalando/faux-pas/stargazers)** <kbd>★ 143</kbd> <kbd>MIT</kbd> 🔴<br>Library that simplifies error handling by circumventing the issue that none of the functional interfaces in the Java Runtime is allowed by default to throw checked exceptions.
 
-> **[Ghidra](https://github.com/NationalSecurityAgency/ghidra) [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=flat)](https://github.com/NationalSecurityAgency/ghidra/stargazers)** <kbd>★ 71.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extensible software reverse-engineering framework with Java APIs and scripting.
+> **[Ghidra](https://github.com/NationalSecurityAgency/ghidra) [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=flat)](https://github.com/NationalSecurityAgency/ghidra/stargazers)** <kbd>★ 72.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extensible software reverse-engineering framework with Java APIs and scripting.
 
 > **[HotswapAgent](https://github.com/HotswapProjects/HotswapAgent) [![GitHub stars](https://img.shields.io/github/stars/HotswapProjects/HotswapAgent?style=flat)](https://github.com/HotswapProjects/HotswapAgent/stargazers)** <kbd>★ 2.6k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Unlimited runtime class and resource redefinition.
 
@@ -656,17 +656,17 @@ _Augmentation of the development process at a fundamental level._
 
 > **[Jctx](https://github.com/Shashwat-Gupta57/jctx) [![GitHub stars](https://img.shields.io/github/stars/Shashwat-Gupta57/jctx?style=flat)](https://github.com/Shashwat-Gupta57/jctx/stargazers)** <kbd>★ 6</kbd> <kbd>MIT</kbd> 🟠<br>Reads a Java project and generates a structured context file so AI tools can understand and help plan the codebase.
 
-> **[JGit](https://github.com/eclipse-jgit/jgit) [![GitHub stars](https://img.shields.io/github/stars/eclipse-jgit/jgit?style=flat)](https://github.com/eclipse-jgit/jgit/stargazers)** <kbd>★ 414</kbd> 🟢<br>Lightweight, pure Java library implementing the Git version control system.
+> **[JGit](https://github.com/eclipse-jgit/jgit) [![GitHub stars](https://img.shields.io/github/stars/eclipse-jgit/jgit?style=flat)](https://github.com/eclipse-jgit/jgit/stargazers)** <kbd>★ 416</kbd> 🟢<br>Lightweight, pure Java library implementing the Git version control system.
 
 > **[Manifold](https://github.com/manifold-systems/manifold) [![GitHub stars](https://img.shields.io/github/stars/manifold-systems/manifold?style=flat)](https://github.com/manifold-systems/manifold/stargazers)** <kbd>★ 2.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Re-energizes Java with powerful features like type-safe metaprogramming, structural typing and extension methods.
 
 > **[NoException](https://github.com/robertvazan/noexception) [![GitHub stars](https://img.shields.io/github/stars/robertvazan/noexception?style=flat)](https://github.com/robertvazan/noexception/stargazers)** <kbd>★ 130</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Allows checked exceptions in functional interfaces and converts exceptions to Optional return.
 
-> **[RR4J](https://github.com/Kartikvk1996/RR4J) [![GitHub stars](https://img.shields.io/github/stars/Kartikvk1996/RR4J?style=flat)](https://github.com/Kartikvk1996/RR4J/stargazers)** <kbd>★ 25</kbd> <kbd>GPL-3.0</kbd> 🔴<br>RR4J is a tool that records java bytecode execution and later allows developers to replay locally.
+> **[RR4J](https://github.com/Kartikvk1996/RR4J) [![GitHub stars](https://img.shields.io/github/stars/Kartikvk1996/RR4J?style=flat)](https://github.com/Kartikvk1996/RR4J/stargazers)** <kbd>★ 26</kbd> <kbd>GPL-3.0</kbd> 🔴<br>RR4J is a tool that records java bytecode execution and later allows developers to replay locally.
 
 > **[SneakyThrow](https://github.com/rainerhahnekamp/sneakythrow) [![GitHub stars](https://img.shields.io/github/stars/rainerhahnekamp/sneakythrow?style=flat)](https://github.com/rainerhahnekamp/sneakythrow/stargazers)** <kbd>★ 81</kbd> <kbd>MIT</kbd> 🔴<br>Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
-> **[Tail](https://github.com/nrktkt/tail) [![GitHub stars](https://img.shields.io/github/stars/nrktkt/tail?style=flat)](https://github.com/nrktkt/tail/stargazers)** <kbd>★ 30</kbd> <kbd>Unlicense</kbd> 🔴<br>Enable infinite recursion using tail call optimization.
+> **[Tail](https://github.com/nrktkt/tail) [![GitHub stars](https://img.shields.io/github/stars/nrktkt/tail?style=flat)](https://github.com/nrktkt/tail/stargazers)** <kbd>★ 31</kbd> <kbd>Unlicense</kbd> 🔴<br>Enable infinite recursion using tail call optimization.
 
 </details>
 
@@ -737,7 +737,7 @@ _Tools that handle the distribution of applications in native formats._
 
 > **[Nexus](https://github.com/sonatype/nexus-public) [![GitHub stars](https://img.shields.io/github/stars/sonatype/nexus-public?style=flat)](https://github.com/sonatype/nexus-public/stargazers)** <kbd>★ 2.6k</kbd> <kbd>EPL-1.0</kbd> 🟢<br>Binary management with proxy and caching capabilities.
 
-> **[Nuts](https://github.com/thevpc/nuts) [![GitHub stars](https://img.shields.io/github/stars/thevpc/nuts?style=flat)](https://github.com/thevpc/nuts/stargazers)** <kbd>★ 157</kbd> 🟢<br>Installs and runs Java applications from Maven repositories, reusing descriptors and provisioning required JDKs.
+> **[Nuts](https://github.com/thevpc/nuts) [![GitHub stars](https://img.shields.io/github/stars/thevpc/nuts?style=flat)](https://github.com/thevpc/nuts/stargazers)** <kbd>★ 158</kbd> 🟢<br>Installs and runs Java applications from Maven repositories, reusing descriptors and provisioning required JDKs.
 
 > **[packr](https://github.com/libgdx/packr) [![GitHub stars](https://img.shields.io/github/stars/libgdx/packr?style=flat)](https://github.com/libgdx/packr/stargazers)** <kbd>★ 2.6k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Packs JARs, assets and the JVM for native distribution on Windows, Linux and macOS.
 
@@ -750,7 +750,7 @@ _Tools that handle the distribution of applications in native formats._
 
 _Libraries that assist with processing office document formats._
 
-> **[Apache Tika](https://github.com/apache/tika) [![GitHub stars](https://img.shields.io/github/stars/apache/tika?style=flat)](https://github.com/apache/tika/stargazers)** <kbd>★ 3.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detects and extracts text and metadata from a wide range of document formats.
+> **[Apache Tika](https://github.com/apache/tika) [![GitHub stars](https://img.shields.io/github/stars/apache/tika?style=flat)](https://github.com/apache/tika/stargazers)** <kbd>★ 4.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detects and extracts text and metadata from a wide range of document formats.
 
 > **[commonmark-java](https://github.com/commonmark/commonmark-java) [![GitHub stars](https://img.shields.io/github/stars/commonmark/commonmark-java?style=flat)](https://github.com/commonmark/commonmark-java/stargazers)** <kbd>★ 2.7k</kbd> <kbd>BSD-2-Clause</kbd> 🟢<br>Parses and renders CommonMark-compatible Markdown.
 
@@ -758,11 +758,11 @@ _Libraries that assist with processing office document formats._
 
 > **[docx4j](https://github.com/plutext/docx4j) [![GitHub stars](https://img.shields.io/github/stars/plutext/docx4j?style=flat)](https://github.com/plutext/docx4j/stargazers)** <kbd>★ 2.4k</kbd> 🟢<br>Create and manipulate Microsoft Open XML files.
 
-> **[html-to-markdown](https://github.com/xberg-io/html-to-markdown) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown?style=flat)](https://github.com/xberg-io/html-to-markdown/stargazers)** <kbd>★ 822</kbd> <kbd>MIT</kbd> 🟢<br>Converts HTML to CommonMark-compatible Markdown through a Java binding.
+> **[html-to-markdown](https://github.com/xberg-io/html-to-markdown) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/html-to-markdown?style=flat)](https://github.com/xberg-io/html-to-markdown/stargazers)** <kbd>★ 836</kbd> <kbd>MIT</kbd> 🟢<br>Converts HTML to CommonMark-compatible Markdown through a Java binding.
 
 > **[JQuick Excel](https://github.com/paohaijiao/jquick-excel) [![GitHub stars](https://img.shields.io/github/stars/paohaijiao/jquick-excel?style=flat)](https://github.com/paohaijiao/jquick-excel/stargazers)** <kbd>★ 130</kbd> 🟢<br>Configures Excel import, export, validation, formulas and charts through a declarative XML DSL.
 
-> **[xberg](https://github.com/xberg-io/xberg) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/xberg?style=flat)](https://github.com/xberg-io/xberg/stargazers)** <kbd>★ 8.8k</kbd> <kbd>MIT</kbd> 🟢<br>Extracts text, tables and metadata from PDFs, Office documents, images and other formats through a Java binding.
+> **[xberg](https://github.com/xberg-io/xberg) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/xberg?style=flat)](https://github.com/xberg-io/xberg/stargazers)** <kbd>★ 8.9k</kbd> <kbd>MIT</kbd> 🟢<br>Extracts text, tables and metadata from PDFs, Office documents, images and other formats through a Java binding.
 
 </details>
 
@@ -788,19 +788,19 @@ _Libraries and SDKs for evaluating and managing feature flags._
 
 _Libraries related to the financial domain._
 
-> **[Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) [![GitHub stars](https://img.shields.io/github/stars/cassandre-tech/cassandre-trading-bot?style=flat)](https://github.com/cassandre-tech/cassandre-trading-bot/stargazers)** <kbd>★ 660</kbd> <kbd>GPL-3.0</kbd> 🔴<br>Trading bot framework.
+> **[Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) [![GitHub stars](https://img.shields.io/github/stars/cassandre-tech/cassandre-trading-bot?style=flat)](https://github.com/cassandre-tech/cassandre-trading-bot/stargazers)** <kbd>★ 659</kbd> <kbd>GPL-3.0</kbd> 🔴<br>Trading bot framework.
 
 > **[Joda-Money](https://github.com/JodaOrg/joda-money) [![GitHub stars](https://img.shields.io/github/stars/JodaOrg/joda-money?style=flat)](https://github.com/JodaOrg/joda-money/stargazers)** <kbd>★ 679</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Basic currency and money classes and algorithms not provided by the JDK.
 
-> **[OpenGamma Strata](https://github.com/OpenGamma/Strata) [![GitHub stars](https://img.shields.io/github/stars/OpenGamma/Strata?style=flat)](https://github.com/OpenGamma/Strata/stargazers)** <kbd>★ 952</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analytics and market risk library for financial products.
+> **[OpenGamma Strata](https://github.com/OpenGamma/Strata) [![GitHub stars](https://img.shields.io/github/stars/OpenGamma/Strata?style=flat)](https://github.com/OpenGamma/Strata/stargazers)** <kbd>★ 953</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analytics and market risk library for financial products.
 
 > **[Philadelphia](https://github.com/paritytrading/philadelphia) [![GitHub stars](https://img.shields.io/github/stars/paritytrading/philadelphia?style=flat)](https://github.com/paritytrading/philadelphia/stargazers)** <kbd>★ 344</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Low-latency financial information exchange.
 
-> **[Stripe](https://github.com/stripe/stripe-java) [![GitHub stars](https://img.shields.io/github/stars/stripe/stripe-java?style=flat)](https://github.com/stripe/stripe-java/stargazers)** <kbd>★ 995</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
+> **[Stripe](https://github.com/stripe/stripe-java) [![GitHub stars](https://img.shields.io/github/stars/stripe/stripe-java?style=flat)](https://github.com/stripe/stripe-java/stargazers)** <kbd>★ 996</kbd> <kbd>MIT</kbd> 🟢<br>Integration with the Stripe API.
 
 > **[ta4j](https://github.com/ta4j/ta4j) [![GitHub stars](https://img.shields.io/github/stars/ta4j/ta4j?style=flat)](https://github.com/ta4j/ta4j/stargazers)** <kbd>★ 2.5k</kbd> 🟢<br>Library for technical analysis.
 
-> **[Wickra](https://github.com/wickra-lib/wickra) [![GitHub stars](https://img.shields.io/github/stars/wickra-lib/wickra?style=flat)](https://github.com/wickra-lib/wickra/stargazers)** <kbd>★ 36</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
+> **[Wickra](https://github.com/wickra-lib/wickra) [![GitHub stars](https://img.shields.io/github/stars/wickra-lib/wickra?style=flat)](https://github.com/wickra-lib/wickra/stargazers)** <kbd>★ 41</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.
 
 > **[XChange](https://github.com/knowm/XChange) [![GitHub stars](https://img.shields.io/github/stars/knowm/XChange?style=flat)](https://github.com/knowm/XChange/stargazers)** <kbd>★ 4.1k</kbd> <kbd>MIT</kbd> 🟢<br>Consistent Java API for market data and trading across cryptocurrency exchanges.
 
@@ -826,13 +826,13 @@ _Formal-methods tools: proof assistants, model checking, symbolic execution, etc
 
 > **[Checker Framework](https://github.com/typetools/checker-framework) [![GitHub stars](https://img.shields.io/github/stars/typetools/checker-framework?style=flat)](https://github.com/typetools/checker-framework/stargazers)** <kbd>★ 1.1k</kbd> 🟢<br>Pluggable type systems. Includes nullness types, physical units, immutability types and more. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[Daikon](https://github.com/codespecs/daikon) [![GitHub stars](https://img.shields.io/github/stars/codespecs/daikon?style=flat)](https://github.com/codespecs/daikon/stargazers)** <kbd>★ 255</kbd> 🟢<br>Detects likely program invariants and generates JML specs based on those invariants.
+> **[Daikon](https://github.com/codespecs/daikon) [![GitHub stars](https://img.shields.io/github/stars/codespecs/daikon?style=flat)](https://github.com/codespecs/daikon/stargazers)** <kbd>★ 259</kbd> 🟢<br>Detects likely program invariants and generates JML specs based on those invariants.
 
-> **[Java Path Finder (JPF)](https://github.com/javapathfinder/jpf-core) [![GitHub stars](https://img.shields.io/github/stars/javapathfinder/jpf-core?style=flat)](https://github.com/javapathfinder/jpf-core/stargazers)** <kbd>★ 615</kbd> 🟢<br>JVM formal verification tool containing a model checker and more. Created by NASA.
+> **[Java Path Finder (JPF)](https://github.com/javapathfinder/jpf-core) [![GitHub stars](https://img.shields.io/github/stars/javapathfinder/jpf-core?style=flat)](https://github.com/javapathfinder/jpf-core/stargazers)** <kbd>★ 614</kbd> 🟢<br>JVM formal verification tool containing a model checker and more. Created by NASA.
 
 > **[JMLOK 2.0](https://massoni.computacao.ufcg.edu.br/home/jmlok)**<br>Detects inconsistencies between code and JML specification through feedback-directed random tests generation, and suggests a likely cause for each nonconformance detected. (GPL-3.0-only)
 
-> **[KeY](https://github.com/KeYProject/key) [![GitHub stars](https://img.shields.io/github/stars/KeYProject/key?style=flat)](https://github.com/KeYProject/key/stargazers)** <kbd>★ 88</kbd> 🟢<br>Formal software development tool that aims to integrate design, implementation, formal specification, and formal verification of object-oriented software as seamlessly as possible. Uses JML for specification and symbolic execution for verification. (GPL-2.0-or-later)
+> **[KeY](https://github.com/KeYProject/key) [![GitHub stars](https://img.shields.io/github/stars/KeYProject/key?style=flat)](https://github.com/KeYProject/key/stargazers)** <kbd>★ 87</kbd> 🟢<br>Formal software development tool that aims to integrate design, implementation, formal specification, and formal verification of object-oriented software as seamlessly as possible. Uses JML for specification and symbolic execution for verification. (GPL-2.0-or-later)
 
 > **[OpenJML](https://github.com/OpenJML/OpenJML) [![GitHub stars](https://img.shields.io/github/stars/OpenJML/OpenJML?style=flat)](https://github.com/OpenJML/OpenJML/stargazers)** <kbd>★ 182</kbd> 🟢<br>Translates JML specifications into SMT-LIB format and passes the proof problems implied by the program to backend solvers. (GPL-2.0-only)
 
@@ -853,7 +853,7 @@ _Libraries that facilitate functional programming._
 
 > **[Parallel Collectors](https://github.com/pivovarit/parallel-collectors) [![GitHub stars](https://img.shields.io/github/stars/pivovarit/parallel-collectors?style=flat)](https://github.com/pivovarit/parallel-collectors/stargazers)** <kbd>★ 680</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Stream API Collectors for parallel processing with custom thread pools, designed for I/O-heavy workloads.
 
-> **[protonpack](https://github.com/poetix/protonpack) [![GitHub stars](https://img.shields.io/github/stars/poetix/protonpack?style=flat)](https://github.com/poetix/protonpack/stargazers)** <kbd>★ 487</kbd> <kbd>MIT</kbd> 🟢<br>Collection of stream utilities.
+> **[protonpack](https://github.com/poetix/protonpack) [![GitHub stars](https://img.shields.io/github/stars/poetix/protonpack?style=flat)](https://github.com/poetix/protonpack/stargazers)** <kbd>★ 487</kbd> <kbd>MIT</kbd> 🟠<br>Collection of stream utilities.
 
 > **[StreamEx](https://github.com/amaembo/streamex) [![GitHub stars](https://img.shields.io/github/stars/amaembo/streamex?style=flat)](https://github.com/amaembo/streamex/stargazers)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Enhances Java 8 Streams.
 
@@ -876,13 +876,13 @@ _Frameworks that support the development of games._
 
 > **[libGDX](https://github.com/libgdx/libgdx) [![GitHub stars](https://img.shields.io/github/stars/libgdx/libgdx?style=flat)](https://github.com/libgdx/libgdx/stargazers)** <kbd>★ 25.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>All-round cross-platform, high-level framework.
 
-> **[Litiengine](https://github.com/gurkenlabs/litiengine) [![GitHub stars](https://img.shields.io/github/stars/gurkenlabs/litiengine?style=flat)](https://github.com/gurkenlabs/litiengine/stargazers)** <kbd>★ 834</kbd> <kbd>MIT</kbd> 🟢<br>AWT-based, lightweight 2D game engine.
+> **[Litiengine](https://github.com/gurkenlabs/litiengine) [![GitHub stars](https://img.shields.io/github/stars/gurkenlabs/litiengine?style=flat)](https://github.com/gurkenlabs/litiengine/stargazers)** <kbd>★ 835</kbd> <kbd>MIT</kbd> 🟢<br>AWT-based, lightweight 2D game engine.
 
 > **[LWJGL](https://github.com/LWJGL/lwjgl3) [![GitHub stars](https://img.shields.io/github/stars/LWJGL/lwjgl3?style=flat)](https://github.com/LWJGL/lwjgl3/stargazers)** <kbd>★ 5.4k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Robust framework that abstracts libraries like OpenGL/CL/AL.
 
-> **[Pathetic](https://github.com/bsommerfeld/pathetic) [![GitHub stars](https://img.shields.io/github/stars/bsommerfeld/pathetic?style=flat)](https://github.com/bsommerfeld/pathetic/stargazers)** <kbd>★ 382</kbd> <kbd>MIT</kbd> 🟢<br>A highly configurable 3D A\* pathfinding library that uses specific optimizations for high performance.
+> **[Pathetic](https://github.com/bsommerfeld/pathetic) [![GitHub stars](https://img.shields.io/github/stars/bsommerfeld/pathetic?style=flat)](https://github.com/bsommerfeld/pathetic/stargazers)** <kbd>★ 383</kbd> <kbd>MIT</kbd> 🟢<br>A highly configurable 3D A\* pathfinding library that uses specific optimizations for high performance.
 
-> **[vulkan4j](https://github.com/chuigda/vulkan4j) [![GitHub stars](https://img.shields.io/github/stars/chuigda/vulkan4j?style=flat)](https://github.com/chuigda/vulkan4j/stargazers)** <kbd>★ 96</kbd> <kbd>BSD-3-Clause</kbd> 🔴<br>Vulkan, OpenGL ES2 and GLFW Memory Allocator bindings.
+> **[vulkan4j](https://github.com/chuigda/vulkan4j) [![GitHub stars](https://img.shields.io/github/stars/chuigda/vulkan4j?style=flat)](https://github.com/chuigda/vulkan4j/stargazers)** <kbd>★ 97</kbd> <kbd>BSD-3-Clause</kbd> 🔴<br>Vulkan, OpenGL ES2 and GLFW Memory Allocator bindings.
 
 </details>
 
@@ -928,7 +928,7 @@ _Libraries to create modern graphical user interfaces._
 
 > **[JavaFX](https://github.com/openjdk/jfx) [![GitHub stars](https://img.shields.io/github/stars/openjdk/jfx?style=flat)](https://github.com/openjdk/jfx/stargazers)** <kbd>★ 3.3k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Successor of Swing.
 
-> **[Scene Builder](https://github.com/gluonhq/scenebuilder) [![GitHub stars](https://img.shields.io/github/stars/gluonhq/scenebuilder?style=flat)](https://github.com/gluonhq/scenebuilder/stargazers)** <kbd>★ 819</kbd> 🟠<br>Visual layout tool for JavaFX applications.
+> **[Scene Builder](https://github.com/gluonhq/scenebuilder) [![GitHub stars](https://img.shields.io/github/stars/gluonhq/scenebuilder?style=flat)](https://github.com/gluonhq/scenebuilder/stargazers)** <kbd>★ 820</kbd> 🟠<br>Visual layout tool for JavaFX applications.
 
 > **[Sierra](https://github.com/HTTP-RPC/Sierra) [![GitHub stars](https://img.shields.io/github/stars/HTTP-RPC/Sierra?style=flat)](https://github.com/HTTP-RPC/Sierra/stargazers)** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightwieght declarative DSL for rapid development of Swing applications.
 
@@ -995,9 +995,9 @@ _Libraries that assist with creating HTTP requests and/or binding responses._
 
 _Integrated development environments that try to simplify several aspects of development._
 
-> **[Eclipse Java IDE](https://www.eclipse.org)** <kbd>★ 644</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Extensible Java IDE assembled from the Eclipse Platform, JDT and PDE.
+> **[Eclipse Java IDE](https://www.eclipse.org)** <kbd>★ 646</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Extensible Java IDE assembled from the Eclipse Platform, JDT and PDE.
 
-> **[Explyt](https://github.com/explyt/explyt) [![GitHub stars](https://img.shields.io/github/stars/explyt/explyt?style=flat)](https://github.com/explyt/explyt/stargazers)** <kbd>★ 22</kbd> 🟢<br>AI coding agent for JetBrains IDEs that uses IDE indexes, refactorings, test runners, static analysis and debugging for Java and Kotlin projects.
+> **[Explyt](https://github.com/explyt/explyt) [![GitHub stars](https://img.shields.io/github/stars/explyt/explyt?style=flat)](https://github.com/explyt/explyt/stargazers)** <kbd>★ 23</kbd> 🟢<br>AI coding agent for JetBrains IDEs that uses IDE indexes, refactorings, test runners, static analysis and debugging for Java and Kotlin projects.
 
 > **[IntelliJ IDEA](https://github.com/JetBrains/intellij-community) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/intellij-community?style=flat)](https://github.com/JetBrains/intellij-community/stargazers)** <kbd>★ 20.4k</kbd> 🟢<br>Supports many JVM languages and provides good options for Android development. The commercial edition targets the enterprise sector.
 
@@ -1032,7 +1032,7 @@ _Libraries that assist with the creation, evaluation or manipulation of graphica
 
 > **[TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) [![GitHub stars](https://img.shields.io/github/stars/haraldk/TwelveMonkeys?style=flat)](https://github.com/haraldk/TwelveMonkeys/stargazers)** <kbd>★ 2.1k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Collection of plugins that extend the number of supported image file formats.
 
-> **[vips-ffm](https://github.com/lopcode/vips-ffm) [![GitHub stars](https://img.shields.io/github/stars/lopcode/vips-ffm?style=flat)](https://github.com/lopcode/vips-ffm/stargazers)** <kbd>★ 131</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive bindings for libvips, using Java's "Foreign Function & Memory" API.
+> **[vips-ffm](https://github.com/lopcode/vips-ffm) [![GitHub stars](https://img.shields.io/github/stars/lopcode/vips-ffm?style=flat)](https://github.com/lopcode/vips-ffm/stargazers)** <kbd>★ 133</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive bindings for libvips, using Java's "Foreign Function & Memory" API.
 
 > **[webcam-capture](https://github.com/sarxos/webcam-capture) [![GitHub stars](https://img.shields.io/github/stars/sarxos/webcam-capture?style=flat)](https://github.com/sarxos/webcam-capture/stargazers)** <kbd>★ 2.4k</kbd> <kbd>MIT</kbd> 🟠<br>Library for using built-in and external webcams directly in Java.
 
@@ -1049,7 +1049,7 @@ _Libraries that help make the Java introspection and reflection API easier and f
 
 > **[jOOR](https://github.com/jOOQ/jOOR) [![GitHub stars](https://img.shields.io/github/stars/jOOQ/jOOR?style=flat)](https://github.com/jOOQ/jOOR/stargazers)** <kbd>★ 2.8k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
 
-> **[Objenesis](https://github.com/easymock/objenesis) [![GitHub stars](https://img.shields.io/github/stars/easymock/objenesis?style=flat)](https://github.com/easymock/objenesis/stargazers)** <kbd>★ 631</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows dynamic instantiation without default constructor, e.g. constructors which have required arguments, side effects or throw exceptions.
+> **[Objenesis](https://github.com/easymock/objenesis) [![GitHub stars](https://img.shields.io/github/stars/easymock/objenesis?style=flat)](https://github.com/easymock/objenesis/stargazers)** <kbd>★ 632</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows dynamic instantiation without default constructor, e.g. constructors which have required arguments, side effects or throw exceptions.
 
 > **[ReflectASM](https://github.com/EsotericSoftware/reflectasm) [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/reflectasm?style=flat)](https://github.com/EsotericSoftware/reflectasm/stargazers)** <kbd>★ 1.5k</kbd> <kbd>BSD-3-Clause</kbd> 🔴<br>ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 
@@ -1103,9 +1103,9 @@ _Libraries for serializing and deserializing JSON to and from Java objects._
 
 > **[JsonSurfer](https://github.com/jsurfer/JsonSurfer) [![GitHub stars](https://img.shields.io/github/stars/jsurfer/JsonSurfer?style=flat)](https://github.com/jsurfer/JsonSurfer/stargazers)** <kbd>★ 316</kbd> <kbd>MIT</kbd> 🔴<br>Streaming JsonPath processor dedicated to processing big and complicated JSON data.
 
-> **[Moshi](https://github.com/square/moshi) [![GitHub stars](https://img.shields.io/github/stars/square/moshi?style=flat)](https://github.com/square/moshi/stargazers)** <kbd>★ 10.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern JSON library, less opinionated and uses built-in types like List and Map.
+> **[Moshi](https://github.com/square/moshi) [![GitHub stars](https://img.shields.io/github/stars/square/moshi?style=flat)](https://github.com/square/moshi/stargazers)** <kbd>★ 10.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Modern JSON library, less opinionated and uses built-in types like List and Map.
 
-> **[Yasson](https://github.com/eclipse-ee4j/yasson) [![GitHub stars](https://img.shields.io/github/stars/eclipse-ee4j/yasson?style=flat)](https://github.com/eclipse-ee4j/yasson/stargazers)** <kbd>★ 217</kbd> 🟢<br>Binding layer between classes and JSON documents similar to JAXB.
+> **[Yasson](https://github.com/eclipse-ee4j/yasson) [![GitHub stars](https://img.shields.io/github/stars/eclipse-ee4j/yasson?style=flat)](https://github.com/eclipse-ee4j/yasson/stargazers)** <kbd>★ 216</kbd> 🟢<br>Binding layer between classes and JSON documents similar to JAXB.
 
 </details>
 
@@ -1124,7 +1124,7 @@ _Current implementations of the JVM/JDK._
 
 > **[Liberica JDK](https://bell-sw.com)**<br>Built from OpenJDK, thoroughly tested and passed the JCK. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[Microsoft JDK](https://github.com/microsoft/openjdk) [![GitHub stars](https://img.shields.io/github/stars/microsoft/openjdk?style=flat)](https://github.com/microsoft/openjdk/stargazers)** <kbd>★ 342</kbd> <kbd>MIT</kbd> 🟠<br>Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
+> **[Microsoft JDK](https://github.com/microsoft/openjdk) [![GitHub stars](https://img.shields.io/github/stars/microsoft/openjdk?style=flat)](https://github.com/microsoft/openjdk/stargazers)** <kbd>★ 343</kbd> <kbd>MIT</kbd> 🟠<br>Microsoft Build of OpenJDK, Free, Open Source, Freshly Brewed!
 
 > **[Open JDK](https://github.com/openjdk/jdk) [![GitHub stars](https://img.shields.io/github/stars/openjdk/jdk?style=flat)](https://github.com/openjdk/jdk/stargazers)** <kbd>★ 23.2k</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Open JDK community home.
 
@@ -1132,7 +1132,7 @@ _Current implementations of the JVM/JDK._
 
 > **[RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)**<br>RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[SAP Machine](https://github.com/SAP/SapMachine) [![GitHub stars](https://img.shields.io/github/stars/SAP/SapMachine?style=flat)](https://github.com/SAP/SapMachine/stargazers)** <kbd>★ 616</kbd> <kbd>GPL-2.0</kbd> 🟢<br>SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork.
+> **[SAP Machine](https://github.com/SAP/SapMachine) [![GitHub stars](https://img.shields.io/github/stars/SAP/SapMachine?style=flat)](https://github.com/SAP/SapMachine/stargazers)** <kbd>★ 618</kbd> <kbd>GPL-2.0</kbd> 🟢<br>SAP's no-cost, rigorously tested and JCK-verified OpenJDK friendly fork.
 
 > **[Zulu](https://www.azul.com/products/zulu-community/)**<br>OpenJDK builds for Windows, Linux, and macOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 
@@ -1180,7 +1180,7 @@ _Tools that provide specific statistical algorithms for learning from data._
 
 > **[H2O](https://github.com/h2oai/h2o-3) [![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat)](https://github.com/h2oai/h2o-3/stargazers)** <kbd>★ 7.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Analytics engine for statistics over big data.
 
-> **[Intelligent java](https://github.com/Barqawiz/IntelliJava) [![GitHub stars](https://img.shields.io/github/stars/Barqawiz/IntelliJava?style=flat)](https://github.com/Barqawiz/IntelliJava/stargazers)** <kbd>★ 64</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Seamlessly integrate with remote deep learning and language models programmatically.
+> **[Intelligent java](https://github.com/Barqawiz/IntelliJava) [![GitHub stars](https://img.shields.io/github/stars/Barqawiz/IntelliJava?style=flat)](https://github.com/Barqawiz/IntelliJava/stargazers)** <kbd>★ 65</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Seamlessly integrate with remote deep learning and language models programmatically.
 
 > **[JSAT](https://github.com/EdwardRaff/JSAT) [![GitHub stars](https://img.shields.io/github/stars/EdwardRaff/JSAT?style=flat)](https://github.com/EdwardRaff/JSAT/stargazers)** <kbd>★ 794</kbd> <kbd>GPL-3.0</kbd> 🔴<br>Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution.
 
@@ -1194,7 +1194,7 @@ _Tools that provide specific statistical algorithms for learning from data._
 
 > **[Smile](https://github.com/haifengl/smile) [![GitHub stars](https://img.shields.io/github/stars/haifengl/smile?style=flat)](https://github.com/haifengl/smile/stargazers)** <kbd>★ 6.4k</kbd> 🟢<br>Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.
 
-> **[Tribuo](https://github.com/oracle/tribuo) [![GitHub stars](https://img.shields.io/github/stars/oracle/tribuo?style=flat)](https://github.com/oracle/tribuo/stargazers)** <kbd>★ 1.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides tools for classification, regression, clustering, model development and interfaces with other libraries such as scikit-learn, pytorch and TensorFlow.
+> **[Tribuo](https://github.com/oracle/tribuo) [![GitHub stars](https://img.shields.io/github/stars/oracle/tribuo?style=flat)](https://github.com/oracle/tribuo/stargazers)** <kbd>★ 1.4k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Provides tools for classification, regression, clustering, model development and interfaces with other libraries such as scikit-learn, pytorch and TensorFlow.
 
 > **[Weka](https://git.cms.waikato.ac.nz/weka/weka)**<br>Collection of algorithms for data mining tasks ranging from pre-processing to visualization.
 
@@ -1211,27 +1211,27 @@ _Tools that help send messages between clients to ensure protocol independency._
 
 > **[Apache Camel](https://github.com/apache/camel) [![GitHub stars](https://img.shields.io/github/stars/apache/camel?style=flat)](https://github.com/apache/camel/stargazers)** <kbd>★ 6.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Glues together different transport APIs via Enterprise Integration Patterns.
 
-> **[Apache Kafka](https://github.com/apache/kafka) [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=flat)](https://github.com/apache/kafka/stargazers)** <kbd>★ 33.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-throughput distributed messaging system.
+> **[Apache Kafka](https://github.com/apache/kafka) [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=flat)](https://github.com/apache/kafka/stargazers)** <kbd>★ 33.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-throughput distributed messaging system.
 
 > **[Apache Pulsar](https://github.com/apache/pulsar) [![GitHub stars](https://img.shields.io/github/stars/apache/pulsar?style=flat)](https://github.com/apache/pulsar/stargazers)** <kbd>★ 15.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed pub/sub-messaging system.
 
 > **[Apache Qpid for Java](https://qpid.apache.org)** <kbd>★ 212</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java messaging clients and brokers implementing AMQP.
 
-> **[Apache RocketMQ](https://github.com/apache/rocketmq) [![GitHub stars](https://img.shields.io/github/stars/apache/rocketmq?style=flat)](https://github.com/apache/rocketmq/stargazers)** <kbd>★ 22.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, and scalable distributed messaging platform.
+> **[Apache RocketMQ](https://github.com/apache/rocketmq) [![GitHub stars](https://img.shields.io/github/stars/apache/rocketmq?style=flat)](https://github.com/apache/rocketmq/stargazers)** <kbd>★ 22.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, reliable, and scalable distributed messaging platform.
 
-> **[AutoMQ](https://github.com/AutoMQ/automq) [![GitHub stars](https://img.shields.io/github/stars/AutoMQ/automq?style=flat)](https://github.com/AutoMQ/automq/stargazers)** <kbd>★ 10.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>AutoMQ is a cloud-native, serverless reinvented Kafka that is easily scalable, manage-less and cost-effective.
+> **[AutoMQ](https://github.com/AutoMQ/automq) [![GitHub stars](https://img.shields.io/github/stars/AutoMQ/automq?style=flat)](https://github.com/AutoMQ/automq/stargazers)** <kbd>★ 10.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>AutoMQ is a cloud-native, serverless reinvented Kafka that is easily scalable, manage-less and cost-effective.
 
-> **[CloudEvents Java SDK](https://github.com/cloudevents/sdk-java) [![GitHub stars](https://img.shields.io/github/stars/cloudevents/sdk-java?style=flat)](https://github.com/cloudevents/sdk-java/stargazers)** <kbd>★ 442</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for creating, serializing and transporting CloudEvents.
+> **[CloudEvents Java SDK](https://github.com/cloudevents/sdk-java) [![GitHub stars](https://img.shields.io/github/stars/cloudevents/sdk-java?style=flat)](https://github.com/cloudevents/sdk-java/stargazers)** <kbd>★ 443</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for creating, serializing and transporting CloudEvents.
 
 > **[Emissary](https://github.com/joel-jeremy/emissary) [![GitHub stars](https://img.shields.io/github/stars/joel-jeremy/emissary?style=flat)](https://github.com/joel-jeremy/emissary/stargazers)** <kbd>★ 109</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Simple, lightweight, yet FAST messaging library for decoupling messages (requests and events) and message handlers.
 
-> **[Hermes](https://github.com/allegro/hermes) [![GitHub stars](https://img.shields.io/github/stars/allegro/hermes?style=flat)](https://github.com/allegro/hermes/stargazers)** <kbd>★ 862</kbd> 🟢<br>Fast and reliable message broker built on top of Kafka.
+> **[Hermes](https://github.com/allegro/hermes) [![GitHub stars](https://img.shields.io/github/stars/allegro/hermes?style=flat)](https://github.com/allegro/hermes/stargazers)** <kbd>★ 864</kbd> 🟢<br>Fast and reliable message broker built on top of Kafka.
 
 > **[HiveMQ MQTT Client](https://github.com/hivemq/hivemq-mqtt-client) [![GitHub stars](https://img.shields.io/github/stars/hivemq/hivemq-mqtt-client?style=flat)](https://github.com/hivemq/hivemq-mqtt-client/stargazers)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reactive and blocking Java client for MQTT 3.1.1 and MQTT 5.
 
 > **[JeroMQ](https://github.com/zeromq/jeromq) [![GitHub stars](https://img.shields.io/github/stars/zeromq/jeromq?style=flat)](https://github.com/zeromq/jeromq/stargazers)** <kbd>★ 2.4k</kbd> <kbd>MPL-2.0</kbd> 🟠<br>Implementation of ZeroMQ.
 
-> **[NATS client](https://github.com/nats-io/nats.java) [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats.java?style=flat)](https://github.com/nats-io/nats.java/stargazers)** <kbd>★ 671</kbd> <kbd>Apache-2.0</kbd> 🟢<br>NATS client.
+> **[NATS client](https://github.com/nats-io/nats.java) [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats.java?style=flat)](https://github.com/nats-io/nats.java/stargazers)** <kbd>★ 672</kbd> <kbd>Apache-2.0</kbd> 🟢<br>NATS client.
 
 > **[Pushy](https://github.com/jchambers/pushy) [![GitHub stars](https://img.shields.io/github/stars/jchambers/pushy?style=flat)](https://github.com/jchambers/pushy/stargazers)** <kbd>★ 1.9k</kbd> <kbd>MIT</kbd> 🟢<br>Java library for sending Apple Push Notification service messages.
 
@@ -1252,7 +1252,7 @@ _Tools for creating and managing microservices._
 
 > **[Armeria](https://github.com/line/armeria) [![GitHub stars](https://img.shields.io/github/stars/line/armeria?style=flat)](https://github.com/line/armeria/stargazers)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
 
-> **[Eureka](https://github.com/Netflix/eureka) [![GitHub stars](https://img.shields.io/github/stars/Netflix/eureka?style=flat)](https://github.com/Netflix/eureka/stargazers)** <kbd>★ 12.7k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>REST-based service registry for resilient load balancing and failover.
+> **[Eureka](https://github.com/Netflix/eureka) [![GitHub stars](https://img.shields.io/github/stars/Netflix/eureka?style=flat)](https://github.com/Netflix/eureka/stargazers)** <kbd>★ 12.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>REST-based service registry for resilient load balancing and failover.
 
 > **[gRPC Spring](https://github.com/grpc-ecosystem/grpc-spring) [![GitHub stars](https://img.shields.io/github/stars/grpc-ecosystem/grpc-spring?style=flat)](https://github.com/grpc-ecosystem/grpc-spring/stargazers)** <kbd>★ 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Spring Boot integration for building gRPC clients and servers.
 
@@ -1288,9 +1288,9 @@ _Tools for creating or managing mobile applications._
 
 > **[Codename One](https://github.com/codenameone/CodenameOne) [![GitHub stars](https://img.shields.io/github/stars/codenameone/CodenameOne?style=flat)](https://github.com/codenameone/CodenameOne/stargazers)** <kbd>★ 1.9k</kbd> 🟢<br>Cross-platform solution for writing native mobile apps. (GPL-2.0-only WITH Classpath-exception-2.0)
 
-> **[Gluon Substrate](https://github.com/gluonhq/substrate) [![GitHub stars](https://img.shields.io/github/stars/gluonhq/substrate?style=flat)](https://github.com/gluonhq/substrate/stargazers)** <kbd>★ 443</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Builds native JavaFX applications for desktop, mobile and embedded targets.
+> **[Gluon Substrate](https://github.com/gluonhq/substrate) [![GitHub stars](https://img.shields.io/github/stars/gluonhq/substrate?style=flat)](https://github.com/gluonhq/substrate/stargazers)** <kbd>★ 444</kbd> <kbd>GPL-2.0</kbd> 🟢<br>Builds native JavaFX applications for desktop, mobile and embedded targets.
 
-> **[MobileUI](https://github.com/MobileUI/mobileui) [![GitHub stars](https://img.shields.io/github/stars/MobileUI/mobileui?style=flat)](https://github.com/MobileUI/mobileui/stargazers)** <kbd>★ 13</kbd> <kbd>MIT</kbd> 🔴<br>Cross-platform framework for developing mobile apps with native UI in Java and Kotlin.
+> **[MobileUI](https://github.com/MobileUI/mobileui) [![GitHub stars](https://img.shields.io/github/stars/MobileUI/mobileui?style=flat)](https://github.com/MobileUI/mobileui/stargazers)** <kbd>★ 14</kbd> <kbd>MIT</kbd> 🔴<br>Cross-platform framework for developing mobile apps with native UI in Java and Kotlin.
 
 > **[Multi-OS Engine](https://github.com/multi-os-engine/multi-os-engine) [![GitHub stars](https://img.shields.io/github/stars/multi-os-engine/multi-os-engine?style=flat)](https://github.com/multi-os-engine/multi-os-engine/stargazers)** <kbd>★ 596</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source, cross-platform engine to develop native mobile (iOS, Android, etc.) apps.
 
@@ -1317,7 +1317,7 @@ _Tools that observe/monitor applications in production by providing telemetry._
 
 > **[Glowroot](https://github.com/glowroot/glowroot) [![GitHub stars](https://img.shields.io/github/stars/glowroot/glowroot?style=flat)](https://github.com/glowroot/glowroot/stargazers)** <kbd>★ 1.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source Java APM.
 
-> **[HertzBeat](https://github.com/dromara/hertzbeat) [![GitHub stars](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat)](https://github.com/dromara/hertzbeat/stargazers)** <kbd>★ 7.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Real-time monitoring system with custom-monitor and agentless.
+> **[HertzBeat](https://github.com/dromara/hertzbeat) [![GitHub stars](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat)](https://github.com/dromara/hertzbeat/stargazers)** <kbd>★ 7.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Real-time monitoring system with custom-monitor and agentless.
 
 > **[hippo4j](https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md) [![GitHub stars](https://img.shields.io/github/stars/opengoofy/hippo4j/blob/develop/README-EN.md?style=flat)](https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md/stargazers)** <kbd>★ 6.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Dynamic and observable thread pool framework.
 
@@ -1333,7 +1333,7 @@ _Tools that observe/monitor applications in production by providing telemetry._
 
 > **[OpenTelemetry](https://github.com/open-telemetry/opentelemetry-java) [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-java?style=flat)](https://github.com/open-telemetry/opentelemetry-java/stargazers)** <kbd>★ 2.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Instrument, generate, collect, and export telemetry data to help you analyze your software’s performance and behavior.
 
-> **[Pinpoint](https://github.com/naver/pinpoint) [![GitHub stars](https://img.shields.io/github/stars/naver/pinpoint?style=flat)](https://github.com/naver/pinpoint/stargazers)** <kbd>★ 13.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source APM tool.
+> **[Pinpoint](https://github.com/naver/pinpoint) [![GitHub stars](https://img.shields.io/github/stars/naver/pinpoint?style=flat)](https://github.com/naver/pinpoint/stargazers)** <kbd>★ 13.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source APM tool.
 
 > **[Prometheus](https://github.com/prometheus/client_java) [![GitHub stars](https://img.shields.io/github/stars/prometheus/client_java?style=flat)](https://github.com/prometheus/client_java/stargazers)** <kbd>★ 2.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
 
@@ -1341,7 +1341,7 @@ _Tools that observe/monitor applications in production by providing telemetry._
 
 > **[SPM](https://github.com/sematext/sematext-agent-java) [![GitHub stars](https://img.shields.io/github/stars/sematext/sematext-agent-java?style=flat)](https://github.com/sematext/sematext-agent-java/stargazers)** <kbd>★ 25</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Performance monitor with distributing transaction tracing for JVM apps.
 
-> **[zipkin](https://github.com/openzipkin/zipkin) [![GitHub stars](https://img.shields.io/github/stars/openzipkin/zipkin?style=flat)](https://github.com/openzipkin/zipkin/stargazers)** <kbd>★ 17.5k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Distributed tracing system which gathers timing data needed to troubleshoot latency problems in microservice architectures.
+> **[zipkin](https://github.com/openzipkin/zipkin) [![GitHub stars](https://img.shields.io/github/stars/openzipkin/zipkin?style=flat)](https://github.com/openzipkin/zipkin/stargazers)** <kbd>★ 17.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed tracing system which gathers timing data needed to troubleshoot latency problems in microservice architectures.
 
 </details>
 
@@ -1392,7 +1392,7 @@ _Libraries for building network clients and servers._
 
 > **[Atmosphere](https://github.com/Atmosphere/atmosphere) [![GitHub stars](https://img.shields.io/github/stars/Atmosphere/atmosphere?style=flat)](https://github.com/Atmosphere/atmosphere/stargazers)** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Real-time transport framework supporting WebSocket, SSE, gRPC and WebTransport.
 
-> **[Commons-networking](https://github.com/CiscoSE/commons-networking) [![GitHub stars](https://img.shields.io/github/stars/CiscoSE/commons-networking?style=flat)](https://github.com/CiscoSE/commons-networking/stargazers)** <kbd>★ 21</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Client for server-sent events (SSE).
+> **[Commons-networking](https://github.com/CiscoSE/commons-networking) [![GitHub stars](https://img.shields.io/github/stars/CiscoSE/commons-networking?style=flat)](https://github.com/CiscoSE/commons-networking/stargazers)** <kbd>★ 22</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Client for server-sent events (SSE).
 
 > **[dnsjava](https://github.com/dnsjava/dnsjava) [![GitHub stars](https://img.shields.io/github/stars/dnsjava/dnsjava?style=flat)](https://github.com/dnsjava/dnsjava/stargazers)** <kbd>★ 1.1k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Java implementation of the DNS protocol.
 
@@ -1437,7 +1437,7 @@ _APIs that handle the persistence of objects._
 
 > **[Apache Cayenne](https://github.com/apache/cayenne) [![GitHub stars](https://img.shields.io/github/stars/apache/cayenne?style=flat)](https://github.com/apache/cayenne/stargazers)** <kbd>★ 344</kbd> 🟢<br>Provides a clean, static API for data access. Also includes a GUI Modeler for working with database mappings, and DB reverse engineering and generation.
 
-> **[Doma](https://github.com/domaframework/doma) [![GitHub stars](https://img.shields.io/github/stars/domaframework/doma?style=flat)](https://github.com/domaframework/doma/stargazers)** <kbd>★ 504</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
+> **[Doma](https://github.com/domaframework/doma) [![GitHub stars](https://img.shields.io/github/stars/domaframework/doma?style=flat)](https://github.com/domaframework/doma/stargazers)** <kbd>★ 505</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Database access framework that verifies and generates source code at compile time using annotation processing as well as native SQL templates called two-way SQL.
 
 > **[Ebean](https://github.com/ebean-orm/ebean) [![GitHub stars](https://img.shields.io/github/stars/ebean-orm/ebean?style=flat)](https://github.com/ebean-orm/ebean/stargazers)** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Provides simple and fast data access.
 
@@ -1449,11 +1449,11 @@ _APIs that handle the persistence of objects._
 
 > **[mybatis-dynamic](https://github.com/myacelw/mybatis-dynamic) [![GitHub stars](https://img.shields.io/github/stars/myacelw/mybatis-dynamic?style=flat)](https://github.com/myacelw/mybatis-dynamic/stargazers)** <kbd>★ 4</kbd> 🟠<br>Code-first dynamic ORM for MyBatis with runtime schema modification.
 
-> **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus) [![GitHub stars](https://img.shields.io/github/stars/baomidou/mybatis-plus?style=flat)](https://github.com/baomidou/mybatis-plus/stargazers)** <kbd>★ 17.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A powerful enhanced toolkit of MyBatis for simplifying development.
+> **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus) [![GitHub stars](https://img.shields.io/github/stars/baomidou/mybatis-plus?style=flat)](https://github.com/baomidou/mybatis-plus/stargazers)** <kbd>★ 17.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>A powerful enhanced toolkit of MyBatis for simplifying development.
 
 > **[ObjectiveSql](https://github.com/braisdom/ObjectiveSql) [![GitHub stars](https://img.shields.io/github/stars/braisdom/ObjectiveSql?style=flat)](https://github.com/braisdom/ObjectiveSql/stargazers)** <kbd>★ 1.3k</kbd> <kbd>Apache-2.0</kbd> 🔴<br>ActiveRecord ORM for rapid development and convention over configuration.
 
-> **[Permazen](https://github.com/permazen/permazen) [![GitHub stars](https://img.shields.io/github/stars/permazen/permazen?style=flat)](https://github.com/permazen/permazen/stargazers)** <kbd>★ 423</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
+> **[Permazen](https://github.com/permazen/permazen) [![GitHub stars](https://img.shields.io/github/stars/permazen/permazen?style=flat)](https://github.com/permazen/permazen/stargazers)** <kbd>★ 424</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
 
 > **[SimpleFlatMapper](https://github.com/arnaudroger/SimpleFlatMapper) [![GitHub stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper?style=flat)](https://github.com/arnaudroger/SimpleFlatMapper/stargazers)** <kbd>★ 459</kbd> <kbd>MIT</kbd> 🟠<br>Simple database and CSV mapper.
 
@@ -1489,11 +1489,11 @@ _Tools to help with PDF files._
 
 > **[DynamicReports](https://github.com/dynamicreports/dynamicreports) [![GitHub stars](https://img.shields.io/github/stars/dynamicreports/dynamicreports?style=flat)](https://github.com/dynamicreports/dynamicreports/stargazers)** <kbd>★ 244</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Simplifies JasperReports.
 
-> **[Eclipse BIRT](https://github.com/eclipse-birt/birt) [![GitHub stars](https://img.shields.io/github/stars/eclipse-birt/birt?style=flat)](https://github.com/eclipse-birt/birt/stargazers)** <kbd>★ 540</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Report engine for creating PDF and other formats (DOCX, XLSX, HTML, etc) using Eclipse-based visual editor.
+> **[Eclipse BIRT](https://github.com/eclipse-birt/birt) [![GitHub stars](https://img.shields.io/github/stars/eclipse-birt/birt?style=flat)](https://github.com/eclipse-birt/birt/stargazers)** <kbd>★ 541</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Report engine for creating PDF and other formats (DOCX, XLSX, HTML, etc) using Eclipse-based visual editor.
 
 > **[flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) [![GitHub stars](https://img.shields.io/github/stars/flyingsaucerproject/flyingsaucer?style=flat)](https://github.com/flyingsaucerproject/flyingsaucer/stargazers)** <kbd>★ 2.2k</kbd> 🟢<br>XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 
-> **[GraphCompose](https://github.com/DemchaAV/GraphCompose) [![GitHub stars](https://img.shields.io/github/stars/DemchaAV/GraphCompose?style=flat)](https://github.com/DemchaAV/GraphCompose/stargazers)** <kbd>★ 106</kbd> <kbd>MIT</kbd> 🟢<br>Declarative engine for structured business PDFs with semantic layout, atomic pagination, theme tokens, and native vector charts.
+> **[GraphCompose](https://github.com/DemchaAV/GraphCompose) [![GitHub stars](https://img.shields.io/github/stars/DemchaAV/GraphCompose?style=flat)](https://github.com/DemchaAV/GraphCompose/stargazers)** <kbd>★ 110</kbd> <kbd>MIT</kbd> 🟢<br>Declarative engine for structured business PDFs with semantic layout, atomic pagination, theme tokens, and native vector charts.
 
 > **[iText](https://github.com/itext/itext-java) [![GitHub stars](https://img.shields.io/github/stars/itext/itext-java?style=flat)](https://github.com/itext/itext-java/stargazers)** <kbd>★ 2.3k</kbd> 🟢<br>Creates PDF files programmatically.
 
@@ -1501,11 +1501,11 @@ _Tools to help with PDF files._
 
 > **[jquick-pdf](https://github.com/paohaijiao/jquick-pdf) [![GitHub stars](https://img.shields.io/github/stars/paohaijiao/jquick-pdf?style=flat)](https://github.com/paohaijiao/jquick-pdf/stargazers)** <kbd>★ 225</kbd> 🟢<br>Generates PDFs from HTML-like templates and ECharts-style charts using iText 7, without a browser dependency.
 
-> **[Nostrum Dynamic Jasper](https://github.com/nostrum-tech/NostrumDynamicJasper) [![GitHub stars](https://img.shields.io/github/stars/nostrum-tech/NostrumDynamicJasper?style=flat)](https://github.com/nostrum-tech/NostrumDynamicJasper/stargazers)** <kbd>★ 1</kbd> <kbd>LGPL-3.0</kbd> 🟢<br>Provides dynamic report layouts on top of JasperReports.
+> **[Nostrum Dynamic Jasper](https://github.com/nostrum-tech/NostrumDynamicJasper) [![GitHub stars](https://img.shields.io/github/stars/nostrum-tech/NostrumDynamicJasper?style=flat)](https://github.com/nostrum-tech/NostrumDynamicJasper/stargazers)** <kbd>★ 1</kbd> <kbd>LGPL-3.0</kbd> 🟠<br>Provides dynamic report layouts on top of JasperReports.
 
-> **[Open HTML to PDF](https://github.com/openhtmltopdf/openhtmltopdf) [![GitHub stars](https://img.shields.io/github/stars/openhtmltopdf/openhtmltopdf?style=flat)](https://github.com/openhtmltopdf/openhtmltopdf/stargazers)** <kbd>★ 267</kbd> 🟢<br>Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+> **[Open HTML to PDF](https://github.com/openhtmltopdf/openhtmltopdf) [![GitHub stars](https://img.shields.io/github/stars/openhtmltopdf/openhtmltopdf?style=flat)](https://github.com/openhtmltopdf/openhtmltopdf/stargazers)** <kbd>★ 270</kbd> 🟢<br>Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-> **[OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) [![GitHub stars](https://img.shields.io/github/stars/opendataloader-project/opendataloader-pdf?style=flat)](https://github.com/opendataloader-project/opendataloader-pdf/stargazers)** <kbd>★ 28.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Parses PDFs into structured Markdown, JSON and HTML through a Java API and command line.
+> **[OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf) [![GitHub stars](https://img.shields.io/github/stars/opendataloader-project/opendataloader-pdf?style=flat)](https://github.com/opendataloader-project/opendataloader-pdf/stargazers)** <kbd>★ 28.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Parses PDFs into structured Markdown, JSON and HTML through a Java API and command line.
 
 > **[OpenPDF](https://github.com/LibrePDF/OpenPDF) [![GitHub stars](https://img.shields.io/github/stars/LibrePDF/OpenPDF?style=flat)](https://github.com/LibrePDF/OpenPDF/stargazers)** <kbd>★ 4.3k</kbd> 🟢<br>Open-source iText fork. (LGPL-3.0-only & MPL-2.0)
 
@@ -1526,7 +1526,7 @@ _Tools for performance analysis, profiling and benchmarking._
 
 > **[Heap Seance](https://github.com/SegfaultSorcerer/heap-seance) [![GitHub stars](https://img.shields.io/github/stars/SegfaultSorcerer/heap-seance?style=flat)](https://github.com/SegfaultSorcerer/heap-seance/stargazers)** <kbd>★ 4</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Memory leak diagnostics that orchestrates jcmd, jmap, jstat, JFR, Eclipse MAT, and async-profiler into a structured investigation workflow with confidence-based verdicts.
 
-> **[JDK Mission Control](https://github.com/openjdk/jmc) [![GitHub stars](https://img.shields.io/github/stars/openjdk/jmc?style=flat)](https://github.com/openjdk/jmc/stargazers)** <kbd>★ 983</kbd> 🟢<br>Profiling and diagnostics suite for JVM applications using Java Flight Recorder.
+> **[JDK Mission Control](https://github.com/openjdk/jmc) [![GitHub stars](https://img.shields.io/github/stars/openjdk/jmc?style=flat)](https://github.com/openjdk/jmc/stargazers)** <kbd>★ 984</kbd> 🟢<br>Profiling and diagnostics suite for JVM applications using Java Flight Recorder.
 
 > **[jHiccup](https://github.com/giltene/jHiccup) [![GitHub stars](https://img.shields.io/github/stars/giltene/jHiccup?style=flat)](https://github.com/giltene/jHiccup/stargazers)** <kbd>★ 704</kbd> 🟠<br>Logs and records platform JVM stalls.
 
@@ -1549,7 +1549,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[BCEL](https://github.com/apache/commons-bcel) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-bcel?style=flat)](https://github.com/apache/commons-bcel/stargazers)** <kbd>★ 273</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Byte Code Engineering Library - analyze, create, and manipulate Java class files.
 
-> **[BeanUtils](https://github.com/apache/commons-beanutils) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-beanutils?style=flat)](https://github.com/apache/commons-beanutils/stargazers)** <kbd>★ 322</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Easy-to-use wrappers around the Java reflection and introspection APIs.
+> **[BeanUtils](https://github.com/apache/commons-beanutils) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-beanutils?style=flat)](https://github.com/apache/commons-beanutils/stargazers)** <kbd>★ 323</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Easy-to-use wrappers around the Java reflection and introspection APIs.
 
 > **[BSF](https://github.com/apache/commons-bsf) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-bsf?style=flat)](https://github.com/apache/commons-bsf/stargazers)** <kbd>★ 32</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Bean Scripting Framework - interface to scripting languages, including JSR-223.
 
@@ -1559,11 +1559,11 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[CLI2](https://commons.apache.org/sandbox/commons-cli2/)**<br>Redesign of Commons CLI.
 
-> **[Codec](https://github.com/apache/commons-codec) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-codec?style=flat)](https://github.com/apache/commons-codec/stargazers)** <kbd>★ 490</kbd> <kbd>Apache-2.0</kbd> 🟢<br>General encoding/decoding algorithms, e.g. phonetic, base64 or URL.
+> **[Codec](https://github.com/apache/commons-codec) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-codec?style=flat)](https://github.com/apache/commons-codec/stargazers)** <kbd>★ 489</kbd> <kbd>Apache-2.0</kbd> 🟢<br>General encoding/decoding algorithms, e.g. phonetic, base64 or URL.
 
 > **[Collections](https://github.com/apache/commons-collections) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-collections?style=flat)](https://github.com/apache/commons-collections/stargazers)** <kbd>★ 726</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Extends or augments the Java Collections Framework.
 
-> **[Compress](https://github.com/apache/commons-compress) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-compress?style=flat)](https://github.com/apache/commons-compress/stargazers)** <kbd>★ 402</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Defines an API for working with tar, zip and bzip2 files.
+> **[Compress](https://github.com/apache/commons-compress) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-compress?style=flat)](https://github.com/apache/commons-compress/stargazers)** <kbd>★ 403</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Defines an API for working with tar, zip and bzip2 files.
 
 > **[Configuration](https://github.com/apache/commons-configuration) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-configuration?style=flat)](https://github.com/apache/commons-configuration/stargazers)** <kbd>★ 215</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reading of configuration/preferences files in various formats.
 
@@ -1595,7 +1595,7 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 > **[Id](https://commons.apache.org/sandbox/commons-id/)**<br>Id is a component used to generate identifiers.
 
-> **[Imaging](https://github.com/apache/commons-imaging) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-imaging?style=flat)](https://github.com/apache/commons-imaging/stargazers)** <kbd>★ 487</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Image library.
+> **[Imaging](https://github.com/apache/commons-imaging) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-imaging?style=flat)](https://github.com/apache/commons-imaging/stargazers)** <kbd>★ 485</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Image library.
 
 > **[IO](https://github.com/apache/commons-io) [![GitHub stars](https://img.shields.io/github/stars/apache/commons-io?style=flat)](https://github.com/apache/commons-io/stargazers)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Collection of I/O utilities.
 
@@ -1647,11 +1647,11 @@ _Frameworks that are suites of multiple libraries encompassing several categorie
 
 #### Other <kbd>3 projects</kbd>
 
-> **[CUBA Platform](https://github.com/jmix-framework/jmix) [![GitHub stars](https://img.shields.io/github/stars/jmix-framework/jmix?style=flat)](https://github.com/jmix-framework/jmix/stargazers)** <kbd>★ 695</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
+> **[CUBA Platform](https://github.com/jmix-framework/jmix) [![GitHub stars](https://img.shields.io/github/stars/jmix-framework/jmix?style=flat)](https://github.com/jmix-framework/jmix/stargazers)** <kbd>★ 697</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
 
 > **[Light-4J](https://github.com/networknt/light-4j/) [![GitHub stars](https://img.shields.io/github/stars/networknt/light-4j/?style=flat)](https://github.com/networknt/light-4j//stargazers)** <kbd>★ 3.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fast, lightweight and productive microservices framework with built-in security.
 
-> **[Spring Framework](https://github.com/spring-projects/spring-framework) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-framework?style=flat)](https://github.com/spring-projects/spring-framework/stargazers)** <kbd>★ 60.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive application framework for building Java applications.
+> **[Spring Framework](https://github.com/spring-projects/spring-framework) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-framework?style=flat)](https://github.com/spring-projects/spring-framework/stargazers)** <kbd>★ 60.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Comprehensive application framework for building Java applications.
 
 </details>
 
@@ -1675,9 +1675,9 @@ _Java proxy and gateway servers for routing and mediating traffic._
 
 > **[LittleProxy](https://github.com/LittleProxy/LittleProxy) [![GitHub stars](https://img.shields.io/github/stars/LittleProxy/LittleProxy?style=flat)](https://github.com/LittleProxy/LittleProxy/stargazers)** <kbd>★ 150</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High performance HTTP proxy atop Netty's event-based networking library.
 
-> **[Membrane Service Proxy](https://github.com/membrane/api-gateway) [![GitHub stars](https://img.shields.io/github/stars/membrane/api-gateway?style=flat)](https://github.com/membrane/api-gateway/stargazers)** <kbd>★ 628</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source, reverse-proxy framework.
+> **[Membrane Service Proxy](https://github.com/membrane/api-gateway) [![GitHub stars](https://img.shields.io/github/stars/membrane/api-gateway?style=flat)](https://github.com/membrane/api-gateway/stargazers)** <kbd>★ 630</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Open-source, reverse-proxy framework.
 
-> **[OpenIG](https://github.com/OpenIdentityPlatform/OpenIG) [![GitHub stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenIG?style=flat)](https://github.com/OpenIdentityPlatform/OpenIG/stargazers)** <kbd>★ 90</kbd> 🟢<br>High-performance reverse proxy server with specialized session management and credential replay functionality.
+> **[OpenIG](https://github.com/OpenIdentityPlatform/OpenIG) [![GitHub stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenIG?style=flat)](https://github.com/OpenIdentityPlatform/OpenIG/stargazers)** <kbd>★ 91</kbd> 🟢<br>High-performance reverse proxy server with specialized session management and credential replay functionality.
 
 > **[Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway) [![GitHub stars](https://img.shields.io/github/stars/spring-cloud/spring-cloud-gateway?style=flat)](https://github.com/spring-cloud/spring-cloud-gateway/stargazers)** <kbd>★ 4.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>API gateway built on Spring Framework and Spring Boot.
 
@@ -1726,13 +1726,13 @@ _Frameworks specifically for creating RESTful services._
 
 > **[Elide](https://github.com/yahoo/elide) [![GitHub stars](https://img.shields.io/github/stars/yahoo/elide?style=flat)](https://github.com/yahoo/elide/stargazers)** <kbd>★ 1.0k</kbd> 🟢<br>Opinionated framework for JSON- or GraphQL-APIs based on a JPA data model.
 
-> **[hate](https://github.com/blackdoor/hate) [![GitHub stars](https://img.shields.io/github/stars/blackdoor/hate?style=flat)](https://github.com/blackdoor/hate/stargazers)** <kbd>★ 25</kbd> <kbd>MIT</kbd> 🔴<br>Builds hypermedia-friendly objects according to HAL specification.
+> **[hate](https://github.com/blackdoor/hate) [![GitHub stars](https://img.shields.io/github/stars/blackdoor/hate?style=flat)](https://github.com/blackdoor/hate/stargazers)** <kbd>★ 26</kbd> <kbd>MIT</kbd> 🔴<br>Builds hypermedia-friendly objects according to HAL specification.
 
 > **[Jersey](https://github.com/eclipse-ee4j/jersey) [![GitHub stars](https://img.shields.io/github/stars/eclipse-ee4j/jersey?style=flat)](https://github.com/eclipse-ee4j/jersey/stargazers)** <kbd>★ 729</kbd> 🟢<br>JAX-RS reference implementation.
 
-> **[OfficeFloor](https://github.com/officefloor/OfficeFloor) [![GitHub stars](https://img.shields.io/github/stars/officefloor/OfficeFloor?style=flat)](https://github.com/officefloor/OfficeFloor/stargazers)** <kbd>★ 70</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Spring Boot add-on that adds explicit function orchestration to REST endpoints, with each endpoint's steps, branches and error flows in one YAML file whose directory path maps to the URL.
+> **[OfficeFloor](https://github.com/officefloor/OfficeFloor) [![GitHub stars](https://img.shields.io/github/stars/officefloor/OfficeFloor?style=flat)](https://github.com/officefloor/OfficeFloor/stargazers)** <kbd>★ 71</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Spring Boot add-on that adds explicit function orchestration to REST endpoints, with each endpoint's steps, branches and error flows in one YAML file whose directory path maps to the URL.
 
-> **[openapi-generator](https://github.com/OpenAPITools/openapi-generator) [![GitHub stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=flat)](https://github.com/OpenAPITools/openapi-generator/stargazers)** <kbd>★ 26.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows generation of API client libraries, SDKs, server stubs, documentation and configuration automatically given an OpenAPI Spec.
+> **[openapi-generator](https://github.com/OpenAPITools/openapi-generator) [![GitHub stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=flat)](https://github.com/OpenAPITools/openapi-generator/stargazers)** <kbd>★ 26.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Allows generation of API client libraries, SDKs, server stubs, documentation and configuration automatically given an OpenAPI Spec.
 
 > **[RESTEasy](https://github.com/resteasy/resteasy) [![GitHub stars](https://img.shields.io/github/stars/resteasy/resteasy?style=flat)](https://github.com/resteasy/resteasy/stargazers)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Fully certified and portable implementation of the JAX-RS specification.
 
@@ -1740,7 +1740,7 @@ _Frameworks specifically for creating RESTful services._
 
 > **[Restlet Framework](https://github.com/restlet/restlet-framework-java) [![GitHub stars](https://img.shields.io/github/stars/restlet/restlet-framework-java?style=flat)](https://github.com/restlet/restlet-framework-java/stargazers)** <kbd>★ 667</kbd> 🟢<br>Pioneering framework with powerful routing and filtering capabilities, and a unified client and server API.
 
-> **[Spark](https://github.com/sparkjavateam/spark) [![GitHub stars](https://img.shields.io/github/stars/sparkjavateam/spark?style=flat)](https://github.com/sparkjavateam/spark/stargazers)** <kbd>★ 14</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Sinatra inspired framework.
+> **[Spark](https://github.com/sparkjavateam/spark) [![GitHub stars](https://img.shields.io/github/stars/sparkjavateam/spark?style=flat)](https://github.com/sparkjavateam/spark/stargazers)** <kbd>★ 15</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Sinatra inspired framework.
 
 > **[Spring HATEOAS](https://github.com/spring-projects/spring-hateoas) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-hateoas?style=flat)](https://github.com/spring-projects/spring-hateoas/stargazers)** <kbd>★ 1.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Standalone and Spring support for building hypermedia-based APIs using HAL, HAL FORMS, Collection+JSON, ALPS and UBER.
 
@@ -1755,7 +1755,7 @@ _Frameworks specifically for creating RESTful services._
 
 _Libraries for scientific computing, analysis and visualization._
 
-> **[BioJava](https://github.com/biojava/biojava) [![GitHub stars](https://img.shields.io/github/stars/biojava/biojava?style=flat)](https://github.com/biojava/biojava/stargazers)** <kbd>★ 628</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
+> **[BioJava](https://github.com/biojava/biojava) [![GitHub stars](https://img.shields.io/github/stars/biojava/biojava?style=flat)](https://github.com/biojava/biojava/stargazers)** <kbd>★ 629</kbd> <kbd>LGPL-2.1</kbd> 🟢<br>Facilitates processing biological data by providing algorithms, file format parsers, sequencing and 3D visualization commonly used in bioinformatics.
 
 > **[Chart-FX](https://github.com/fair-acc/chart-fx) [![GitHub stars](https://img.shields.io/github/stars/fair-acc/chart-fx?style=flat)](https://github.com/fair-acc/chart-fx/stargazers)** <kbd>★ 612</kbd> <kbd>LGPL-3.0</kbd> 🟠<br>Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
 
@@ -1792,7 +1792,7 @@ _Tools and runtimes for using Java or Java-like languages as scripts._
 
 > **[JPad](https://jpad.io)**<br>Snippet runner.
 
-> **[JQuick Java](https://github.com/paohaijiao/jquick-java) [![GitHub stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat)](https://github.com/paohaijiao/jquick-java/stargazers)** <kbd>★ 447</kbd> 🟢<br>Java-like scripting language for dynamic rule engines with XML orchestration and Java interoperability.
+> **[JQuick Java](https://github.com/paohaijiao/jquick-java) [![GitHub stars](https://img.shields.io/github/stars/paohaijiao/jquick-java?style=flat)](https://github.com/paohaijiao/jquick-java/stargazers)** <kbd>★ 443</kbd> 🟢<br>Java-like scripting language for dynamic rule engines with XML orchestration and Java interoperability.
 
 </details>
 
@@ -1803,15 +1803,15 @@ _Engines that index documents for search and analysis._
 
 > **[Apache Lucene](https://github.com/apache/lucene) [![GitHub stars](https://img.shields.io/github/stars/apache/lucene?style=flat)](https://github.com/apache/lucene/stargazers)** <kbd>★ 3.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-performance, full-featured, cross-platform, text search engine library.
 
-> **[Apache Solr](https://github.com/apache/solr) [![GitHub stars](https://img.shields.io/github/stars/apache/solr?style=flat)](https://github.com/apache/solr/stargazers)** <kbd>★ 1.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Enterprise search engine optimized for high-volume traffic.
+> **[Apache Solr](https://github.com/apache/solr) [![GitHub stars](https://img.shields.io/github/stars/apache/solr?style=flat)](https://github.com/apache/solr/stargazers)** <kbd>★ 1.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Enterprise search engine optimized for high-volume traffic.
 
-> **[Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=flat)](https://github.com/elastic/elasticsearch/stargazers)** <kbd>★ 77.6k</kbd> 🟢<br>Distributed, multitenant-capable, full-text search engine with a RESTful web interface and schema-free JSON documents.
+> **[Elasticsearch](https://github.com/elastic/elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=flat)](https://github.com/elastic/elasticsearch/stargazers)** <kbd>★ 77.8k</kbd> 🟢<br>Distributed, multitenant-capable, full-text search engine with a RESTful web interface and schema-free JSON documents.
 
-> **[Elasticsearch Java Client](https://github.com/elastic/elasticsearch-java) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch-java?style=flat)](https://github.com/elastic/elasticsearch-java/stargazers)** <kbd>★ 524</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official typed Java client for Elasticsearch.
+> **[Elasticsearch Java Client](https://github.com/elastic/elasticsearch-java) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch-java?style=flat)](https://github.com/elastic/elasticsearch-java/stargazers)** <kbd>★ 522</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Official typed Java client for Elasticsearch.
 
-> **[OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=flat)](https://github.com/opensearch-project/OpenSearch/stargazers)** <kbd>★ 13.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed search and analytics engine derived from Elasticsearch.
+> **[OpenSearch](https://github.com/opensearch-project/OpenSearch) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=flat)](https://github.com/opensearch-project/OpenSearch/stargazers)** <kbd>★ 13.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed search and analytics engine derived from Elasticsearch.
 
-> **[Viglet Turing ES](https://github.com/openviglet/turing-ce) [![GitHub stars](https://img.shields.io/github/stars/openviglet/turing-ce?style=flat)](https://github.com/openviglet/turing-ce/stargazers)** <kbd>★ 14</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Self-hosted enterprise search platform with faceted, semantic and hybrid search, RAG, AI agents and pluggable Solr, Elasticsearch or Lucene backends.
+> **[Viglet Turing ES](https://github.com/openviglet/turing-ce) [![GitHub stars](https://img.shields.io/github/stars/openviglet/turing-ce?style=flat)](https://github.com/openviglet/turing-ce/stargazers)** <kbd>★ 17</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Self-hosted enterprise search platform with faceted, semantic and hybrid search, RAG, AI agents and pluggable Solr, Elasticsearch or Lucene backends.
 
 </details>
 
@@ -1820,15 +1820,15 @@ _Engines that index documents for search and analysis._
 
 _Libraries that handle security, authentication, authorization or session management._
 
-> **[Apache Shiro](https://github.com/apache/shiro) [![GitHub stars](https://img.shields.io/github/stars/apache/shiro?style=flat)](https://github.com/apache/shiro/stargazers)** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Performs authentication, authorization, cryptography and session management.
+> **[Apache Shiro](https://github.com/apache/shiro) [![GitHub stars](https://img.shields.io/github/stars/apache/shiro?style=flat)](https://github.com/apache/shiro/stargazers)** <kbd>★ 4.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Performs authentication, authorization, cryptography and session management.
 
-> **[Ayza](https://github.com/Hakky54/ayza) [![GitHub stars](https://img.shields.io/github/stars/Hakky54/ayza?style=flat)](https://github.com/Hakky54/ayza/stargazers)** <kbd>★ 578</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level SSL configuration builder for configuring HTTP clients and servers with SSL/TLS.
+> **[Ayza](https://github.com/Hakky54/ayza) [![GitHub stars](https://img.shields.io/github/stars/Hakky54/ayza?style=flat)](https://github.com/Hakky54/ayza/stargazers)** <kbd>★ 579</kbd> <kbd>Apache-2.0</kbd> 🟢<br>High-level SSL configuration builder for configuring HTTP clients and servers with SSL/TLS.
 
 > **[Bouncy Castle](https://github.com/bcgit/bc-java) [![GitHub stars](https://img.shields.io/github/stars/bcgit/bc-java?style=flat)](https://github.com/bcgit/bc-java/stargazers)** <kbd>★ 2.7k</kbd> <kbd>MIT</kbd> 🟢<br>All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
 
-> **[Certificate Ripper](https://github.com/Hakky54/certificate-ripper) [![GitHub stars](https://img.shields.io/github/stars/Hakky54/certificate-ripper?style=flat)](https://github.com/Hakky54/certificate-ripper/stargazers)** <kbd>★ 919</kbd> <kbd>Apache-2.0</kbd> 🟢<br>CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+> **[Certificate Ripper](https://github.com/Hakky54/certificate-ripper) [![GitHub stars](https://img.shields.io/github/stars/Hakky54/certificate-ripper?style=flat)](https://github.com/Hakky54/certificate-ripper/stargazers)** <kbd>★ 921</kbd> <kbd>Apache-2.0</kbd> 🟢<br>CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
 
-> **[Cryptomator](https://github.com/cryptomator/cryptomator) [![GitHub stars](https://img.shields.io/github/stars/cryptomator/cryptomator?style=flat)](https://github.com/cryptomator/cryptomator/stargazers)** <kbd>★ 15.8k</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Multiplatform, transparent, client-side encryption of files in the cloud.
+> **[Cryptomator](https://github.com/cryptomator/cryptomator) [![GitHub stars](https://img.shields.io/github/stars/cryptomator/cryptomator?style=flat)](https://github.com/cryptomator/cryptomator/stargazers)** <kbd>★ 15.9k</kbd> <kbd>GPL-3.0</kbd> 🟢<br>Multiplatform, transparent, client-side encryption of files in the cloud.
 
 > **[Dependency-Track](https://github.com/DependencyTrack/dependency-track) [![GitHub stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=flat)](https://github.com/DependencyTrack/dependency-track/stargazers)** <kbd>★ 4.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Software composition analysis platform for identifying supply-chain risk.
 
@@ -1838,29 +1838,29 @@ _Libraries that handle security, authentication, authorization or session manage
 
 > **[Jwks RSA](https://github.com/auth0/jwks-rsa-java) [![GitHub stars](https://img.shields.io/github/stars/auth0/jwks-rsa-java?style=flat)](https://github.com/auth0/jwks-rsa-java/stargazers)** <kbd>★ 206</kbd> <kbd>MIT</kbd> 🟢<br>JSON Web Key Set parser.
 
-> **[jwt-java](https://github.com/BastiaanJansen/jwt-java) [![GitHub stars](https://img.shields.io/github/stars/BastiaanJansen/jwt-java?style=flat)](https://github.com/BastiaanJansen/jwt-java/stargazers)** <kbd>★ 14</kbd> <kbd>MIT</kbd> 🔴<br>Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
+> **[jwt-java](https://github.com/BastiaanJansen/jwt-java) [![GitHub stars](https://img.shields.io/github/stars/BastiaanJansen/jwt-java?style=flat)](https://github.com/BastiaanJansen/jwt-java/stargazers)** <kbd>★ 15</kbd> <kbd>MIT</kbd> 🔴<br>Easily create and parse JSON Web Tokens and create customized JWT validators using a fluent API.
 
-> **[Keycloak](https://github.com/keycloak/keycloak) [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat)](https://github.com/keycloak/keycloak/stargazers)** <kbd>★ 36.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integrated SSO and IDM for browser apps and RESTful web services.
+> **[Keycloak](https://github.com/keycloak/keycloak) [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat)](https://github.com/keycloak/keycloak/stargazers)** <kbd>★ 36.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Integrated SSO and IDM for browser apps and RESTful web services.
 
 > **[MOSS](https://github.com/mosscomputing/moss-java) [![GitHub stars](https://img.shields.io/github/stars/mosscomputing/moss-java?style=flat)](https://github.com/mosscomputing/moss-java/stargazers)** <kbd>★ 0</kbd> 🟢<br>Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures, creating audit trails for attribution and compliance.
 
 > **[Nbvcxz](https://github.com/GoSimpleLLC/nbvcxz) [![GitHub stars](https://img.shields.io/github/stars/GoSimpleLLC/nbvcxz?style=flat)](https://github.com/GoSimpleLLC/nbvcxz/stargazers)** <kbd>★ 309</kbd> <kbd>MIT</kbd> 🟠<br>Advanced password strength estimation.
 
-> **[OpenAM](https://github.com/OpenIdentityPlatform/OpenAM) [![GitHub stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenAM?style=flat)](https://github.com/OpenIdentityPlatform/OpenAM/stargazers)** <kbd>★ 880</kbd> 🟢<br>Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
+> **[OpenAM](https://github.com/OpenIdentityPlatform/OpenAM) [![GitHub stars](https://img.shields.io/github/stars/OpenIdentityPlatform/OpenAM?style=flat)](https://github.com/OpenIdentityPlatform/OpenAM/stargazers)** <kbd>★ 881</kbd> 🟢<br>Access management solution that includes authentication, SSO, authorization, federation, entitlements and web services security.
 
-> **[OTP-Java](https://github.com/BastiaanJansen/OTP-Java) [![GitHub stars](https://img.shields.io/github/stars/BastiaanJansen/OTP-Java?style=flat)](https://github.com/BastiaanJansen/OTP-Java/stargazers)** <kbd>★ 241</kbd> <kbd>MIT</kbd> 🟢<br>One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
+> **[OTP-Java](https://github.com/BastiaanJansen/OTP-Java) [![GitHub stars](https://img.shields.io/github/stars/BastiaanJansen/OTP-Java?style=flat)](https://github.com/BastiaanJansen/OTP-Java/stargazers)** <kbd>★ 242</kbd> <kbd>MIT</kbd> 🟢<br>One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 
-> **[OWASP Dependency-Check](https://github.com/dependency-check/DependencyCheck) [![GitHub stars](https://img.shields.io/github/stars/dependency-check/DependencyCheck?style=flat)](https://github.com/dependency-check/DependencyCheck/stargazers)** <kbd>★ 7.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detects publicly disclosed vulnerabilities contained within a project's dependencies.
+> **[OWASP Dependency-Check](https://github.com/dependency-check/DependencyCheck) [![GitHub stars](https://img.shields.io/github/stars/dependency-check/DependencyCheck?style=flat)](https://github.com/dependency-check/DependencyCheck/stargazers)** <kbd>★ 7.7k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Detects publicly disclosed vulnerabilities contained within a project's dependencies.
 
 > **[pac4j](https://github.com/pac4j/pac4j) [![GitHub stars](https://img.shields.io/github/stars/pac4j/pac4j?style=flat)](https://github.com/pac4j/pac4j/stargazers)** <kbd>★ 2.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Security engine.
 
-> **[Passay](https://github.com/vt-middleware/passay) [![GitHub stars](https://img.shields.io/github/stars/vt-middleware/passay?style=flat)](https://github.com/vt-middleware/passay/stargazers)** <kbd>★ 313</kbd> 🟠<br>Enforce password policy by validating candidate passwords against a configurable rule set.
+> **[Passay](https://github.com/vt-middleware/passay) [![GitHub stars](https://img.shields.io/github/stars/vt-middleware/passay?style=flat)](https://github.com/vt-middleware/passay/stargazers)** <kbd>★ 315</kbd> 🟠<br>Enforce password policy by validating candidate passwords against a configurable rule set.
 
 > **[Password4j](https://github.com/Password4j/password4j) [![GitHub stars](https://img.shields.io/github/stars/Password4j/password4j?style=flat)](https://github.com/Password4j/password4j/stargazers)** <kbd>★ 430</kbd> <kbd>Apache-2.0</kbd> 🟠<br>User-friendly cryptographic library that supports Argon2, Bcrypt, Scrypt, PBKDF2 and various other cryptographic hash functions.
 
 > **[ScribeJava](https://github.com/scribejava/scribejava) [![GitHub stars](https://img.shields.io/github/stars/scribejava/scribejava?style=flat)](https://github.com/scribejava/scribejava/stargazers)** <kbd>★ 5.5k</kbd> <kbd>MIT</kbd> 🟢<br>OAuth client library supporting OAuth 1.0a, OAuth 2.0 and numerous providers.
 
-> **[SecurityBuilder](https://github.com/tersesystems/securitybuilder) [![GitHub stars](https://img.shields.io/github/stars/tersesystems/securitybuilder?style=flat)](https://github.com/tersesystems/securitybuilder/stargazers)** <kbd>★ 48</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
+> **[SecurityBuilder](https://github.com/tersesystems/securitybuilder) [![GitHub stars](https://img.shields.io/github/stars/tersesystems/securitybuilder?style=flat)](https://github.com/tersesystems/securitybuilder/stargazers)** <kbd>★ 49</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.
 
 > **[Spring Authorization Server](https://github.com/spring-projects/spring-authorization-server) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-authorization-server?style=flat)](https://github.com/spring-projects/spring-authorization-server/stargazers)** <kbd>★ 5.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Implements OAuth 2.1 and OpenID Connect authorization server specifications for Spring.
 
@@ -1901,7 +1901,7 @@ _Libraries that handle serialization with high efficiency._
 
 > **[Wire](https://github.com/square/wire) [![GitHub stars](https://img.shields.io/github/stars/square/wire?style=flat)](https://github.com/square/wire/stargazers)** <kbd>★ 4.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Clean, lightweight protocol buffers.
 
-> **[XMLBeam](https://github.com/SvenEwald/xmlbeam) [![GitHub stars](https://img.shields.io/github/stars/SvenEwald/xmlbeam?style=flat)](https://github.com/SvenEwald/xmlbeam/stargazers)** <kbd>★ 76</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Processes XML by using annotations or XPath within code.
+> **[XMLBeam](https://github.com/SvenEwald/xmlbeam) [![GitHub stars](https://img.shields.io/github/stars/SvenEwald/xmlbeam?style=flat)](https://github.com/SvenEwald/xmlbeam/stargazers)** <kbd>★ 76</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Processes XML by using annotations or XPath within code.
 
 </details>
 
@@ -1929,13 +1929,13 @@ _Libraries for reading, writing and generating spreadsheet files._
 
 > **[Apache POI](https://github.com/apache/poi) [![GitHub stars](https://img.shields.io/github/stars/apache/poi?style=flat)](https://github.com/apache/poi/stargazers)** <kbd>★ 2.3k</kbd> 🟢<br>Supports OOXML (XLSX, DOCX, PPTX) as well as OLE2 (XLS, DOC or PPT).
 
-> **[fastexcel](https://github.com/dhatim/fastexcel) [![GitHub stars](https://img.shields.io/github/stars/dhatim/fastexcel?style=flat)](https://github.com/dhatim/fastexcel/stargazers)** <kbd>★ 908</kbd> 🟢<br>High performance library to read and write large Excel (XLSX) worksheets.
+> **[fastexcel](https://github.com/dhatim/fastexcel) [![GitHub stars](https://img.shields.io/github/stars/dhatim/fastexcel?style=flat)](https://github.com/dhatim/fastexcel/stargazers)** <kbd>★ 909</kbd> 🟢<br>High performance library to read and write large Excel (XLSX) worksheets.
 
 > **[jackson-dataformat-spreadsheet](https://github.com/scndry/jackson-dataformat-spreadsheet) [![GitHub stars](https://img.shields.io/github/stars/scndry/jackson-dataformat-spreadsheet?style=flat)](https://github.com/scndry/jackson-dataformat-spreadsheet/stargazers)** <kbd>★ 23</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Jackson dataformat module for reading and writing Excel (XLSX/XLS) as POJOs via `ObjectMapper`.
 
 > **[Jxls](https://github.com/jxlsteam/jxls) [![GitHub stars](https://img.shields.io/github/stars/jxlsteam/jxls?style=flat)](https://github.com/jxlsteam/jxls/stargazers)** <kbd>★ 524</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Generates Excel reports from spreadsheet templates.
 
-> **[Sheetz](https://github.com/chitralabs/sheetz) [![GitHub stars](https://img.shields.io/github/stars/chitralabs/sheetz?style=flat)](https://github.com/chitralabs/sheetz/stargazers)** <kbd>★ 60</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reads and writes Excel, CSV and ODS files with annotation mapping, streaming, styling and validation.
+> **[Sheetz](https://github.com/chitralabs/sheetz) [![GitHub stars](https://img.shields.io/github/stars/chitralabs/sheetz?style=flat)](https://github.com/chitralabs/sheetz/stargazers)** <kbd>★ 105</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Reads and writes Excel, CSV and ODS files with annotation mapping, streaming, styling and validation.
 
 > **[zerocell](https://github.com/creditdatamw/zerocell) [![GitHub stars](https://img.shields.io/github/stars/creditdatamw/zerocell?style=flat)](https://github.com/creditdatamw/zerocell/stargazers)** <kbd>★ 82</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
 
@@ -1958,7 +1958,7 @@ _Tools that substitute expressions in a template._
 
 > **[Pebble](https://github.com/PebbleTemplates/pebble) [![GitHub stars](https://img.shields.io/github/stars/PebbleTemplates/pebble?style=flat)](https://github.com/PebbleTemplates/pebble/stargazers)** <kbd>★ 1.2k</kbd> <kbd>BSD-3-Clause</kbd> 🟢<br>Inspired by Twig and separates itself with its inheritance feature and its easy-to-read syntax. It ships with built-in autoescaping for security and it includes integrated support for internationalization.
 
-> **[Rocker](https://github.com/fizzed/rocker) [![GitHub stars](https://img.shields.io/github/stars/fizzed/rocker?style=flat)](https://github.com/fizzed/rocker/stargazers)** <kbd>★ 780</kbd> 🟠<br>Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
+> **[Rocker](https://github.com/fizzed/rocker) [![GitHub stars](https://img.shields.io/github/stars/fizzed/rocker?style=flat)](https://github.com/fizzed/rocker/stargazers)** <kbd>★ 781</kbd> 🟠<br>Optimized, memory efficient and speedy template engine producing statically typed, plain objects.
 
 > **[StringTemplate](https://github.com/antlr/stringtemplate4) [![GitHub stars](https://img.shields.io/github/stars/antlr/stringtemplate4?style=flat)](https://github.com/antlr/stringtemplate4/stargazers)** <kbd>★ 1.0k</kbd> 🔴<br>Template engine for generating source code, web pages, emails, or any other formatted text output.
 
@@ -2009,7 +2009,7 @@ _Provide environments to run tests for a specific use case._
 
 > **[BitDive Java Agent](https://github.com/bitDive/java-producer) [![GitHub stars](https://img.shields.io/github/stars/bitDive/java-producer?style=flat)](https://github.com/bitDive/java-producer/stargazers)** <kbd>★ 86</kbd> 🟠<br>Java agent that captures runtime traces, SQL queries and HTTP payloads for BitDive testing.
 
-> **[jqwik](https://github.com/jqwik-team/jqwik) [![GitHub stars](https://img.shields.io/github/stars/jqwik-team/jqwik?style=flat)](https://github.com/jqwik-team/jqwik/stargazers)** <kbd>★ 837</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Engine for property-based testing built on JUnit 5.
+> **[jqwik](https://github.com/jqwik-team/jqwik) [![GitHub stars](https://img.shields.io/github/stars/jqwik-team/jqwik?style=flat)](https://github.com/jqwik-team/jqwik/stargazers)** <kbd>★ 838</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Engine for property-based testing built on JUnit 5.
 
 > **[JUnit](https://github.com/junit-team/junit-framework) [![GitHub stars](https://img.shields.io/github/stars/junit-team/junit-framework?style=flat)](https://github.com/junit-team/junit-framework/stargazers)** <kbd>★ 7.0k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Common testing framework.
 
@@ -2017,7 +2017,7 @@ _Provide environments to run tests for a specific use case._
 
 > **[Robolectric](https://github.com/robolectric/robolectric) [![GitHub stars](https://img.shields.io/github/stars/robolectric/robolectric?style=flat)](https://github.com/robolectric/robolectric/stargazers)** <kbd>★ 6.0k</kbd> 🟢<br>Runs Android tests on the JVM without an emulator or device.
 
-> **[selenium](https://github.com/SeleniumHQ/selenium) [![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat)](https://github.com/SeleniumHQ/selenium/stargazers)** <kbd>★ 34.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Browser automation framework and ecosystem.
+> **[selenium](https://github.com/SeleniumHQ/selenium) [![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=flat)](https://github.com/SeleniumHQ/selenium/stargazers)** <kbd>★ 34.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Browser automation framework and ecosystem.
 
 > **[Selenium Boot](https://github.com/seleniumboot/selenium-boot) [![GitHub stars](https://img.shields.io/github/stars/seleniumboot/selenium-boot?style=flat)](https://github.com/seleniumboot/selenium-boot/stargazers)** <kbd>★ 11</kbd> 🟢<br>Zero-boilerplate Selenium + TestNG framework with auto driver management, smart retry, self-healing locators, AI failure analysis, and a built-in HTML report.
 
@@ -2073,15 +2073,15 @@ _Other stuff related to testing._
 
 > **[junit-pioneer](https://github.com/junit-pioneer/junit-pioneer) [![GitHub stars](https://img.shields.io/github/stars/junit-pioneer/junit-pioneer?style=flat)](https://github.com/junit-pioneer/junit-pioneer/stargazers)** <kbd>★ 617</kbd> <kbd>EPL-2.0</kbd> 🟢<br>JUnit 5 extension pack, pushing the frontiers on Jupiter.
 
-> **[log-capture](https://github.com/dm-drogeriemarkt/log-capture) [![GitHub stars](https://img.shields.io/github/stars/dm-drogeriemarkt/log-capture?style=flat)](https://github.com/dm-drogeriemarkt/log-capture/stargazers)** <kbd>★ 16</kbd> <kbd>MIT</kbd> 🟢<br>Captures log entries and provides assertions for unit and integration testing.
+> **[log-capture](https://github.com/dm-drogeriemarkt/log-capture) [![GitHub stars](https://img.shields.io/github/stars/dm-drogeriemarkt/log-capture?style=flat)](https://github.com/dm-drogeriemarkt/log-capture/stargazers)** <kbd>★ 16</kbd> <kbd>MIT</kbd> 🟠<br>Captures log entries and provides assertions for unit and integration testing.
 
 > **[LogCaptor](https://github.com/Hakky54/log-captor) [![GitHub stars](https://img.shields.io/github/stars/Hakky54/log-captor?style=flat)](https://github.com/Hakky54/log-captor/stargazers)** <kbd>★ 432</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Captures log entries for unit testing purposes.
 
 > **[Selfie](https://github.com/diffplug/selfie) [![GitHub stars](https://img.shields.io/github/stars/diffplug/selfie?style=flat)](https://github.com/diffplug/selfie/stargazers)** <kbd>★ 101</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Snapshot testing (inline and on disk).
 
-> **[skipper-java](https://github.com/get-skipper/skipper-java) [![GitHub stars](https://img.shields.io/github/stars/get-skipper/skipper-java?style=flat)](https://github.com/get-skipper/skipper-java/stargazers)** <kbd>★ 4</kbd> <kbd>MIT</kbd> 🟠<br>Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
+> **[skipper-java](https://github.com/get-skipper/skipper-java) [![GitHub stars](https://img.shields.io/github/stars/get-skipper/skipper-java?style=flat)](https://github.com/get-skipper/skipper-java/stargazers)** <kbd>★ 5</kbd> <kbd>MIT</kbd> 🟠<br>Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 
-> **[Stebz](https://github.com/stebz/stebz) [![GitHub stars](https://img.shields.io/github/stars/stebz/stebz?style=flat)](https://github.com/stebz/stebz/stargazers)** <kbd>★ 20</kbd> <kbd>MIT</kbd> 🟢<br>Multi-approach framework for test steps managing.
+> **[Stebz](https://github.com/stebz/stebz) [![GitHub stars](https://img.shields.io/github/stars/stebz/stebz?style=flat)](https://github.com/stebz/stebz/stargazers)** <kbd>★ 21</kbd> <kbd>MIT</kbd> 🟢<br>Multi-approach framework for test steps managing.
 
 > **[test-watch-maven-plugin](https://github.com/albilu/test-watch-maven-plugin) [![GitHub stars](https://img.shields.io/github/stars/albilu/test-watch-maven-plugin?style=flat)](https://github.com/albilu/test-watch-maven-plugin/stargazers)** <kbd>★ 1</kbd> <kbd>MIT</kbd> 🟢<br>Maven plugin providing Vitest-inspired watch mode for tests with smart selection and parallel execution.
 
@@ -2089,7 +2089,7 @@ _Other stuff related to testing._
 
 _Tools which mock collaborators to help testing single, isolated units._
 
-> **[EasyMock](https://github.com/easymock/easymock) [![GitHub stars](https://img.shields.io/github/stars/easymock/easymock?style=flat)](https://github.com/easymock/easymock/stargazers)** <kbd>★ 832</kbd> 🟢<br>EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
+> **[EasyMock](https://github.com/easymock/easymock) [![GitHub stars](https://img.shields.io/github/stars/easymock/easymock?style=flat)](https://github.com/easymock/easymock/stargazers)** <kbd>★ 831</kbd> 🟢<br>EasyMock is a Java library that provides an easy way to use Mock Objects in unit testing.
 
 > **[JMockit](https://github.com/jmockit/jmockit1) [![GitHub stars](https://img.shields.io/github/stars/jmockit/jmockit1?style=flat)](https://github.com/jmockit/jmockit1/stargazers)** <kbd>★ 473</kbd> 🔴<br>Integration testing, API mocking and faking, and code coverage.
 
@@ -2109,7 +2109,7 @@ _Tools for load and performance testing._
 
 > **[Gatling](https://github.com/gatling/gatling) [![GitHub stars](https://img.shields.io/github/stars/gatling/gatling?style=flat)](https://github.com/gatling/gatling/stargazers)** <kbd>★ 6.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Load testing tool designed for ease of use, maintainability and high performance.
 
-> **[JMeter DSL.java](https://github.com/abstracta/jmeter-java-dsl) [![GitHub stars](https://img.shields.io/github/stars/abstracta/jmeter-java-dsl?style=flat)](https://github.com/abstracta/jmeter-java-dsl/stargazers)** <kbd>★ 535</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Load tests with JMeter as simple as a JUnit test.
+> **[JMeter DSL.java](https://github.com/abstracta/jmeter-java-dsl) [![GitHub stars](https://img.shields.io/github/stars/abstracta/jmeter-java-dsl?style=flat)](https://github.com/abstracta/jmeter-java-dsl/stargazers)** <kbd>★ 536</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Load tests with JMeter as simple as a JUnit test.
 
 </details>
 
@@ -2122,29 +2122,29 @@ _Libraries which provide general utility functions._
 
 > **[cactoos](https://github.com/yegor256/cactoos) [![GitHub stars](https://img.shields.io/github/stars/yegor256/cactoos?style=flat)](https://github.com/yegor256/cactoos/stargazers)** <kbd>★ 778</kbd> <kbd>MIT</kbd> 🟢<br>Collection of object-oriented primitives.
 
-> **[fswatch](https://github.com/vorburger/ch.vorburger.fswatch) [![GitHub stars](https://img.shields.io/github/stars/vorburger/ch.vorburger.fswatch?style=flat)](https://github.com/vorburger/ch.vorburger.fswatch/stargazers)** <kbd>★ 33</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
+> **[fswatch](https://github.com/vorburger/ch.vorburger.fswatch) [![GitHub stars](https://img.shields.io/github/stars/vorburger/ch.vorburger.fswatch?style=flat)](https://github.com/vorburger/ch.vorburger.fswatch/stargazers)** <kbd>★ 34</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Micro library to watch for directory file system changes, simplifying java.nio.file.WatchService.
 
-> **[Guava](https://github.com/google/guava) [![GitHub stars](https://img.shields.io/github/stars/google/guava?style=flat)](https://github.com/google/guava/stargazers)** <kbd>★ 51.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.
+> **[Guava](https://github.com/google/guava) [![GitHub stars](https://img.shields.io/github/stars/google/guava?style=flat)](https://github.com/google/guava/stargazers)** <kbd>★ 51.9k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.
 
-> **[ISBN core](https://github.com/ladutsko/isbn-core) [![GitHub stars](https://img.shields.io/github/stars/ladutsko/isbn-core?style=flat)](https://github.com/ladutsko/isbn-core/stargazers)** <kbd>★ 5</kbd> <kbd>MIT</kbd> 🟢<br>A small library that contains a representation object of ISBN-10 and ISBN-13 and tools to parse, validate and format one.
+> **[ISBN core](https://github.com/ladutsko/isbn-core) [![GitHub stars](https://img.shields.io/github/stars/ladutsko/isbn-core?style=flat)](https://github.com/ladutsko/isbn-core/stargazers)** <kbd>★ 6</kbd> <kbd>MIT</kbd> 🟢<br>A small library that contains a representation object of ISBN-10 and ISBN-13 and tools to parse, validate and format one.
 
 > **[Java Diff Utils](https://github.com/java-diff-utils/java-diff-utils) [![GitHub stars](https://img.shields.io/github/stars/java-diff-utils/java-diff-utils?style=flat)](https://github.com/java-diff-utils/java-diff-utils/stargazers)** <kbd>★ 1.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Utilities for text or data comparison and patching.
 
 > **[Java UUID Generator](https://github.com/cowtowncoder/java-uuid-generator) [![GitHub stars](https://img.shields.io/github/stars/cowtowncoder/java-uuid-generator?style=flat)](https://github.com/cowtowncoder/java-uuid-generator/stargazers)** <kbd>★ 934</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Generates standard UUID versions including time-ordered UUIDv6 and UUIDv7.
 
-> **[java-refined](https://github.com/JunggiKim/java-refined) [![GitHub stars](https://img.shields.io/github/stars/JunggiKim/java-refined?style=flat)](https://github.com/JunggiKim/java-refined/stargazers)** <kbd>★ 4</kbd> <kbd>MIT</kbd> 🟠<br>Zero-dependency refinement types for Java 8+ with type-safe wrappers covering numerics, strings, and collections.
+> **[java-refined](https://github.com/JunggiKim/java-refined) [![GitHub stars](https://img.shields.io/github/stars/JunggiKim/java-refined?style=flat)](https://github.com/JunggiKim/java-refined/stargazers)** <kbd>★ 6</kbd> <kbd>MIT</kbd> 🟠<br>Zero-dependency refinement types for Java 8+ with type-safe wrappers covering numerics, strings, and collections.
 
-> **[java-util](https://github.com/jdereg/java-util) [![GitHub stars](https://img.shields.io/github/stars/jdereg/java-util?style=flat)](https://github.com/jdereg/java-util/stargazers)** <kbd>★ 440</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Zero-dependency, high-performance utilities featuring Converter (universal type conversion), DeepEquals, CaseInsensitiveMap, TTLCache, CompactMap, MultiKeyMap, and object graph traversal.
+> **[java-util](https://github.com/jdereg/java-util) [![GitHub stars](https://img.shields.io/github/stars/jdereg/java-util?style=flat)](https://github.com/jdereg/java-util/stargazers)** <kbd>★ 441</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Zero-dependency, high-performance utilities featuring Converter (universal type conversion), DeepEquals, CaseInsensitiveMap, TTLCache, CompactMap, MultiKeyMap, and object graph traversal.
 
 > **[JEmoji](https://github.com/felldo/JEmoji) [![GitHub stars](https://img.shields.io/github/stars/felldo/JEmoji?style=flat)](https://github.com/felldo/JEmoji/stargazers)** <kbd>★ 115</kbd> <kbd>Apache-2.0</kbd> 🟢<br>An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.
 
 > **[Jimfs](https://github.com/google/jimfs) [![GitHub stars](https://img.shields.io/github/stars/google/jimfs?style=flat)](https://github.com/google/jimfs/stargazers)** <kbd>★ 2.6k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>In-memory file system.
 
-> **[JKScope](https://github.com/evpl/jkscope) [![GitHub stars](https://img.shields.io/github/stars/evpl/jkscope?style=flat)](https://github.com/evpl/jkscope/stargazers)** <kbd>★ 23</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Java scope functions inspired by Kotlin.
+> **[JKScope](https://github.com/evpl/jkscope) [![GitHub stars](https://img.shields.io/github/stars/evpl/jkscope?style=flat)](https://github.com/evpl/jkscope/stargazers)** <kbd>★ 24</kbd> <kbd>Apache-2.0</kbd> 🔴<br>Java scope functions inspired by Kotlin.
 
 > **[PipelinR](https://github.com/sizovs/pipelinr) [![GitHub stars](https://img.shields.io/github/stars/sizovs/pipelinr?style=flat)](https://github.com/sizovs/pipelinr/stargazers)** <kbd>★ 493</kbd> <kbd>MIT</kbd> 🟠<br>Small utility library for using handlers and commands with pipelines.
 
-> **[Semver4j](https://github.com/semver4j/semver4j) [![GitHub stars](https://img.shields.io/github/stars/semver4j/semver4j?style=flat)](https://github.com/semver4j/semver4j/stargazers)** <kbd>★ 116</kbd> <kbd>MIT</kbd> 🟢<br>Lightweight library that helps you handling semantic versioning with different modes.
+> **[Semver4j](https://github.com/semver4j/semver4j) [![GitHub stars](https://img.shields.io/github/stars/semver4j/semver4j?style=flat)](https://github.com/semver4j/semver4j/stargazers)** <kbd>★ 117</kbd> <kbd>MIT</kbd> 🟢<br>Lightweight library that helps you handling semantic versioning with different modes.
 
 > **[Underscore-java](https://github.com/javadev/underscore-java) [![GitHub stars](https://img.shields.io/github/stars/javadev/underscore-java?style=flat)](https://github.com/javadev/underscore-java/stargazers)** <kbd>★ 550</kbd> <kbd>MIT</kbd> 🟢<br>Port of Underscore.js functions.
 
@@ -2157,9 +2157,9 @@ _Libraries which provide general utility functions._
 
 _Utilities that help create the development shell environment and switch between different Java versions._
 
-> **[jabba](https://github.com/Jabba-Team/jabba) [![GitHub stars](https://img.shields.io/github/stars/Jabba-Team/jabba?style=flat)](https://github.com/Jabba-Team/jabba/stargazers)** <kbd>★ 310</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
+> **[jabba](https://github.com/Jabba-Team/jabba) [![GitHub stars](https://img.shields.io/github/stars/Jabba-Team/jabba?style=flat)](https://github.com/Jabba-Team/jabba/stargazers)** <kbd>★ 314</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Java Version Manager inspired by nvm. Supports macOS, Linux and Windows.
 
-> **[jenv](https://github.com/jenv/jenv) [![GitHub stars](https://img.shields.io/github/stars/jenv/jenv?style=flat)](https://github.com/jenv/jenv/stargazers)** <kbd>★ 6.6k</kbd> <kbd>MIT</kbd> 🟠<br>Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and macOS.
+> **[jenv](https://github.com/jenv/jenv) [![GitHub stars](https://img.shields.io/github/stars/jenv/jenv?style=flat)](https://github.com/jenv/jenv/stargazers)** <kbd>★ 6.7k</kbd> <kbd>MIT</kbd> 🟠<br>Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and macOS.
 
 > **[SDKMan](https://github.com/sdkman/sdkman-cli) [![GitHub stars](https://img.shields.io/github/stars/sdkman/sdkman-cli?style=flat)](https://github.com/sdkman/sdkman-cli/stargazers)** <kbd>★ 6.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java Version Manager inspired by RVM and rbenv. Supports UNIX-based platforms and Windows.
 
@@ -2172,11 +2172,11 @@ _Libraries that analyze the content of websites._
 
 > **[Apache Nutch](https://github.com/apache/nutch) [![GitHub stars](https://img.shields.io/github/stars/apache/nutch?style=flat)](https://github.com/apache/nutch/stargazers)** <kbd>★ 3.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Highly extensible, highly scalable web crawler for production environments.
 
-> **[crawlberg](https://github.com/xberg-io/crawlberg) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/crawlberg?style=flat)](https://github.com/xberg-io/crawlberg/stargazers)** <kbd>★ 150</kbd> <kbd>MIT</kbd> 🟢<br>Crawls and scrapes websites through a Java binding with Markdown conversion and optional browser rendering.
+> **[crawlberg](https://github.com/xberg-io/crawlberg) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/crawlberg?style=flat)](https://github.com/xberg-io/crawlberg/stargazers)** <kbd>★ 152</kbd> <kbd>MIT</kbd> 🟢<br>Crawls and scrapes websites through a Java binding with Markdown conversion and optional browser rendering.
 
 > **[jsoup](https://github.com/jhy/jsoup) [![GitHub stars](https://img.shields.io/github/stars/jhy/jsoup?style=flat)](https://github.com/jhy/jsoup/stargazers)** <kbd>★ 11.4k</kbd> <kbd>MIT</kbd> 🟢<br>Scrapes, parses, manipulates and cleans HTML.
 
-> **[StormCrawler](https://github.com/apache/stormcrawler) [![GitHub stars](https://img.shields.io/github/stars/apache/stormcrawler?style=flat)](https://github.com/apache/stormcrawler/stargazers)** <kbd>★ 991</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for building low-latency and scalable web crawlers.
+> **[StormCrawler](https://github.com/apache/stormcrawler) [![GitHub stars](https://img.shields.io/github/stars/apache/stormcrawler?style=flat)](https://github.com/apache/stormcrawler/stargazers)** <kbd>★ 992</kbd> <kbd>Apache-2.0</kbd> 🟢<br>SDK for building low-latency and scalable web crawlers.
 
 > **[webmagic](https://github.com/code4craft/webmagic) [![GitHub stars](https://img.shields.io/github/stars/code4craft/webmagic?style=flat)](https://github.com/code4craft/webmagic/stargazers)** <kbd>★ 11.7k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Scalable crawler with downloading, url management, content extraction and persistent.
 
@@ -2189,7 +2189,7 @@ _Frameworks that handle the communication between the layers of a web applicatio
 
 > **[ActiveJ](https://github.com/activej/activej) [![GitHub stars](https://img.shields.io/github/stars/activej/activej?style=flat)](https://github.com/activej/activej/stargazers)** <kbd>★ 996</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Lightweight asynchronous framework built from the ground up for developing high-performance web applications.
 
-> **[Apache Tapestry](https://github.com/apache/tapestry-5) [![GitHub stars](https://img.shields.io/github/stars/apache/tapestry-5?style=flat)](https://github.com/apache/tapestry-5/stargazers)** <kbd>★ 136</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Component-oriented framework for creating dynamic, robust, highly scalable web applications.
+> **[Apache Tapestry](https://github.com/apache/tapestry-5) [![GitHub stars](https://img.shields.io/github/stars/apache/tapestry-5?style=flat)](https://github.com/apache/tapestry-5/stargazers)** <kbd>★ 137</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Component-oriented framework for creating dynamic, robust, highly scalable web applications.
 
 > **[Apache Wicket](https://github.com/apache/wicket) [![GitHub stars](https://img.shields.io/github/stars/apache/wicket?style=flat)](https://github.com/apache/wicket/stargazers)** <kbd>★ 794</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Component-based web application framework similar to Tapestry, with a stateful GUI.
 
@@ -2213,11 +2213,11 @@ _Frameworks that handle the communication between the layers of a web applicatio
 
 > **[Ratpack](https://github.com/ratpack/ratpack) [![GitHub stars](https://img.shields.io/github/stars/ratpack/ratpack?style=flat)](https://github.com/ratpack/ratpack/stargazers)** <kbd>★ 1.9k</kbd> 🟢<br>Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
 
-> **[Spring Boot](https://github.com/spring-projects/spring-boot) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-boot?style=flat)](https://github.com/spring-projects/spring-boot/stargazers)** <kbd>★ 81.2k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for creating stand-alone, production-grade Spring applications.
+> **[Spring Boot](https://github.com/spring-projects/spring-boot) [![GitHub stars](https://img.shields.io/github/stars/spring-projects/spring-boot?style=flat)](https://github.com/spring-projects/spring-boot/stargazers)** <kbd>★ 81.3k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Framework for creating stand-alone, production-grade Spring applications.
 
 > **[Takes](https://github.com/yegor256/takes) [![GitHub stars](https://img.shields.io/github/stars/yegor256/takes?style=flat)](https://github.com/yegor256/takes/stargazers)** <kbd>★ 876</kbd> <kbd>MIT</kbd> 🟢<br>Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 
-> **[tinystruct](https://github.com/tinystruct/tinystruct) [![GitHub stars](https://img.shields.io/github/stars/tinystruct/tinystruct?style=flat)](https://github.com/tinystruct/tinystruct/stargazers)** <kbd>★ 352</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight, pluggable framework for building Java applications with CLI, HTTP, and modular extension support.
+> **[tinystruct](https://github.com/tinystruct/tinystruct) [![GitHub stars](https://img.shields.io/github/stars/tinystruct/tinystruct?style=flat)](https://github.com/tinystruct/tinystruct/stargazers)** <kbd>★ 353</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Lightweight, pluggable framework for building Java applications with CLI, HTTP, and modular extension support.
 
 > **[Vaadin](https://vaadin.com)** <kbd>★ 1.7k</kbd> 🟢<br>Full-stack Java platform for building browser applications with server-side components.
 
@@ -2234,15 +2234,15 @@ _Engines for orchestrating long-running workflows and business processes._
 
 > **[Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) [![GitHub stars](https://img.shields.io/github/stars/apache/dolphinscheduler?style=flat)](https://github.com/apache/dolphinscheduler/stargazers)** <kbd>★ 14.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Distributed workflow orchestration platform with visual and API-driven scheduling.
 
-> **[Cadence Java Client](https://github.com/cadence-workflow/cadence-java-client) [![GitHub stars](https://img.shields.io/github/stars/cadence-workflow/cadence-java-client?style=flat)](https://github.com/cadence-workflow/cadence-java-client/stargazers)** <kbd>★ 152</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java client and workflow framework for the Cadence orchestration service.
+> **[Cadence Java Client](https://github.com/cadence-workflow/cadence-java-client) [![GitHub stars](https://img.shields.io/github/stars/cadence-workflow/cadence-java-client?style=flat)](https://github.com/cadence-workflow/cadence-java-client/stargazers)** <kbd>★ 153</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java client and workflow framework for the Cadence orchestration service.
 
-> **[Conductor](https://github.com/conductor-oss/conductor) [![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=flat)](https://github.com/conductor-oss/conductor/stargazers)** <kbd>★ 32.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Event-driven workflow engine for distributed applications and AI agents.
+> **[Conductor](https://github.com/conductor-oss/conductor) [![GitHub stars](https://img.shields.io/github/stars/conductor-oss/conductor?style=flat)](https://github.com/conductor-oss/conductor/stargazers)** <kbd>★ 32.1k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Event-driven workflow engine for distributed applications and AI agents.
 
-> **[flowable](https://github.com/flowable/flowable-engine) [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=flat)](https://github.com/flowable/flowable-engine/stargazers)** <kbd>★ 9.4k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compact and efficient workflow and business process management platform.
+> **[flowable](https://github.com/flowable/flowable-engine) [![GitHub stars](https://img.shields.io/github/stars/flowable/flowable-engine?style=flat)](https://github.com/flowable/flowable-engine/stargazers)** <kbd>★ 9.5k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Compact and efficient workflow and business process management platform.
 
 > **[Maestro](https://github.com/Netflix/maestro) [![GitHub stars](https://img.shields.io/github/stars/Netflix/maestro?style=flat)](https://github.com/Netflix/maestro/stargazers)** <kbd>★ 3.8k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Workflow orchestration engine developed by Netflix.
 
-> **[Temporal Java SDK](https://github.com/temporalio/sdk-java) [![GitHub stars](https://img.shields.io/github/stars/temporalio/sdk-java?style=flat)](https://github.com/temporalio/sdk-java/stargazers)** <kbd>★ 424</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for writing durable workflows and activities on Temporal.
+> **[Temporal Java SDK](https://github.com/temporalio/sdk-java) [![GitHub stars](https://img.shields.io/github/stars/temporalio/sdk-java?style=flat)](https://github.com/temporalio/sdk-java/stargazers)** <kbd>★ 426</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Java SDK for writing durable workflows and activities on Temporal.
 
 </details>
 

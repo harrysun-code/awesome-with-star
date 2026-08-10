@@ -16,7 +16,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1103 | June 15, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1107 | August 03, 2026 |
 
 In parternship with:
 
@@ -322,6 +322,7 @@ In parternship with:
 * [Fazm](https://github.com/m13v/fazm) [![GitHub stars](https://img.shields.io/github/stars/m13v/fazm?style=flat)](https://github.com/m13v/fazm/stargazers) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [Open Agent SDK](https://github.com/terryso/open-agent-sdk-swift) [![GitHub stars](https://img.shields.io/github/stars/terryso/open-agent-sdk-swift?style=flat)](https://github.com/terryso/open-agent-sdk-swift/stargazers) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 * [OpenAI](https://github.com/MacPaw/OpenAI) [![GitHub stars](https://img.shields.io/github/stars/MacPaw/OpenAI?style=flat)](https://github.com/MacPaw/OpenAI/stargazers) - Swift package for OpenAI public API.
+* [swift-coding-agent](https://github.com/ivan-magda/swift-coding-agent) [![GitHub stars](https://img.shields.io/github/stars/ivan-magda/swift-coding-agent?style=flat)](https://github.com/ivan-magda/swift-coding-agent/stargazers) - A terminal coding agent with subagents and context compaction.
 
 ### Algorithm
 [back to top](#readme) 
@@ -1030,6 +1031,7 @@ In parternship with:
 * [Cluster](https://github.com/efremidze/Cluster) [![GitHub stars](https://img.shields.io/github/stars/efremidze/Cluster?style=flat)](https://github.com/efremidze/Cluster/stargazers) - Easy Map Annotation Clustering.
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) [![GitHub stars](https://img.shields.io/github/stars/SvenTiigi/FlyoverKit?style=flat)](https://github.com/SvenTiigi/FlyoverKit/stargazers) - FlyoverKit enables you to present stunning 360° flyover views on your MKMapView with zero effort while maintaining full configuration possibilities.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) [![GitHub stars](https://img.shields.io/github/stars/GEOSwift/GEOSwift?style=flat)](https://github.com/GEOSwift/GEOSwift/stargazers) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
+* [ImmersiveMap](https://github.com/artembobkin/ImmersiveMap) [![GitHub stars](https://img.shields.io/github/stars/artembobkin/ImmersiveMap?style=flat)](https://github.com/artembobkin/ImmersiveMap/stargazers) - A Metal-rendered vector-tile map engine for SwiftUI with a 3D globe, flat map and live avatar markers.
 * [LocoKit](https://github.com/sobri909/LocoKit) [![GitHub stars](https://img.shields.io/github/stars/sobri909/LocoKit?style=flat)](https://github.com/sobri909/LocoKit/stargazers) - A location and activity recording framework for iOS.
 
 ### Math
@@ -1039,6 +1041,7 @@ In parternship with:
 * [BigInt](https://github.com/attaswift/BigInt) [![GitHub stars](https://img.shields.io/github/stars/attaswift/BigInt?style=flat)](https://github.com/attaswift/BigInt/stargazers) - Arbitrary-precision arithmetic.
 * [DDMathParser](https://github.com/davedelong/DDMathParser) [![GitHub stars](https://img.shields.io/github/stars/davedelong/DDMathParser?style=flat)](https://github.com/davedelong/DDMathParser/stargazers) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 * [SigmaSwiftStatistics](https://github.com/evgenyneu/SigmaSwiftStatistics) [![GitHub stars](https://img.shields.io/github/stars/evgenyneu/SigmaSwiftStatistics?style=flat)](https://github.com/evgenyneu/SigmaSwiftStatistics/stargazers) - A collection of functions for statistical calculation.
+* [SwaTex](https://github.com/PhraseHQ/SwaTex) [![GitHub stars](https://img.shields.io/github/stars/PhraseHQ/SwaTex?style=flat)](https://github.com/PhraseHQ/SwaTex/stargazers) - KaTeX-compatible LaTeX math rendering engine with no JavaScript, WebView, or DOM.
 * [Upsurge](https://github.com/alejandro-isaza/Upsurge) [![GitHub stars](https://img.shields.io/github/stars/alejandro-isaza/Upsurge?style=flat)](https://github.com/alejandro-isaza/Upsurge/stargazers) - Simple and fast matrix and vector math.
 
 ### Natural Language Processing
@@ -1714,6 +1717,7 @@ In parternship with:
 *Some interesting utilities to help you in your projects* [back to top](#readme) 
 
 * [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) [![GitHub stars](https://img.shields.io/github/stars/choefele/AlexaSkillsKit?style=flat)](https://github.com/choefele/AlexaSkillsKit/stargazers) - Develop custom Alexa Skills.
+* [AmoreKit](https://github.com/AmoreComputer/AmoreKit) [![GitHub stars](https://img.shields.io/github/stars/AmoreComputer/AmoreKit?style=flat)](https://github.com/AmoreComputer/AmoreKit/stargazers) - Sell and validate license keys in macOS apps distributed outside the App Store.
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) [![GitHub stars](https://img.shields.io/github/stars/shindyu/ApplyStyleKit?style=flat)](https://github.com/shindyu/ApplyStyleKit/stargazers) - Elegantly, Apply style to UIKit using Method Chain.
 * [Basis](https://github.com/typelift/Basis) [![GitHub stars](https://img.shields.io/github/stars/typelift/Basis?style=flat)](https://github.com/typelift/Basis/stargazers) - Pure Declarative Programming.
 * [Bow](https://github.com/bow-swift/bow) [![GitHub stars](https://img.shields.io/github/stars/bow-swift/bow?style=flat)](https://github.com/bow-swift/bow/stargazers) - Companion library for Typed Functional Programming.

@@ -976,7 +976,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Box2d.js](https://github.com/kripken/box2d.js/) [![GitHub stars](https://img.shields.io/github/stars/kripken/box2d.js/?style=flat)](https://github.com/kripken/box2d.js//stargazers) - Box2D to ported as WebAssembly.
     - 🎉 [box3d-wasm](https://github.com/monteslu/box3d-wasm) [![GitHub stars](https://img.shields.io/github/stars/monteslu/box3d-wasm?style=flat)](https://github.com/monteslu/box3d-wasm/stargazers) - Box3D to ported as WebAssembly.
     - 🎉 [Cannon-es](https://github.com/pmndrs/cannon-es) [![GitHub stars](https://img.shields.io/github/stars/pmndrs/cannon-es?style=flat)](https://github.com/pmndrs/cannon-es/stargazers) - Maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js) [![GitHub stars](https://img.shields.io/github/stars/schteppe/cannon.js?style=flat)](https://github.com/schteppe/cannon.js/stargazers) 3D physics engine. [[Demos](https://pmndrs.github.io/cannon-es/)]
-    - 🎉 [Goblin Physics](https://github.com/chandlerprall/GoblinPhysics) [![GitHub stars](https://img.shields.io/github/stars/chandlerprall/GoblinPhysics?style=flat)](https://github.com/chandlerprall/GoblinPhysics/stargazers) - 3D physics engine written from the ground up in JavaScript. [[Demos](http://www.goblinphysics.com/)]
+    - 🎉 [Goblin Physics](https://github.com/chandlerprall/GoblinPhysics) [![GitHub stars](https://img.shields.io/github/stars/chandlerprall/GoblinPhysics?style=flat)](https://github.com/chandlerprall/GoblinPhysics/stargazers) - 3D physics engine written from the ground up in JavaScript.
     - 🎉 [JoltPhysics.js](https://github.com/jrouwe/JoltPhysics.js) [![GitHub stars](https://img.shields.io/github/stars/jrouwe/JoltPhysics.js?style=flat)](https://github.com/jrouwe/JoltPhysics.js/stargazers) - Port of _Jolt Physics_ to JavaScript (as WebAssembly). [[Demos](https://jrouwe.github.io/JoltPhysics.js/)]
     - 🎉 [Matter.js](https://github.com/liabru/matter-js) [![GitHub stars](https://img.shields.io/github/stars/liabru/matter-js?style=flat)](https://github.com/liabru/matter-js/stargazers) - Featured 2D physics engine for the web. [[Demos](https://brm.io/matter-js/)]
     - 🎉 [Oimo.js](https://github.com/lo-th/Oimo.js) [![GitHub stars](https://img.shields.io/github/stars/lo-th/Oimo.js?style=flat)](https://github.com/lo-th/Oimo.js/stargazers) - Lightweight 3D physics engine. [[Demos](http://lo-th.github.io/Oimo.js)]
@@ -1361,6 +1361,7 @@ _Software to help with game engine / video game development._
 - 🌎 [Coolors](https://coolors.co) - Fast color palette generator.
 - 🌎 [Huemint](https://huemint.com) - Uses machine learning to generate colors for graphic design.
 - 🌎 [Lospec](https://lospec.com/palette-list) - Database of palettes for pixel art.
+- 🎉 [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact palette from any sprite or image, export to GPL, ASE or hex. [[Source](https://github.com/pixelpixi/spritewright) [![GitHub stars](https://img.shields.io/github/stars/pixelpixi/spritewright?style=flat)](https://github.com/pixelpixi/spritewright/stargazers)]
 - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
 
 ### Debugging / Profiling

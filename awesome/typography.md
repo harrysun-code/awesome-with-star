@@ -78,6 +78,7 @@ A curated collection of awesome web typography articles.
 - [Typebase.css](http://devinhunt.github.io/typebase.css/)
 - [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
 - [FontsWiki - Searchable font catalog with free alternatives and Fonts-in-Use references for designers and developers.](https://fontswiki.com)
+- [What Font Finder - Identify a font from an image in the browser, with a confidence score and no upload.](https://whatfontfinder.com/font-identifier/)
 - [Using Custom Fonts in Emails](https://github.com/ladjs/custom-fonts-in-emails) [![GitHub stars](https://img.shields.io/github/stars/ladjs/custom-fonts-in-emails?style=flat)](https://github.com/ladjs/custom-fonts-in-emails/stargazers)
 - [Typographist — Modular scale calculator API with config validation](https://github.com/typographist) [![GitHub stars](https://img.shields.io/github/stars/typographist?style=flat)](https://github.com/typographist/stargazers)
 - [Font Face Observer is a fast and simple web font loader](https://fontfaceobserver.com/)

@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [Productivity](#productivity)
   - [Time Tracking](#time-tracking)
   - [Note Taking, Lists, Task Management](#note-taking-lists-task-management)
+  - [Email](#email)
   - [Finance](#finance)
   - [Presentations](#presentations)
   - [Calendars](#calendars)
@@ -222,6 +223,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [localtunnel](https://github.com/localtunnel/localtunnel) [![GitHub stars](https://img.shields.io/github/stars/localtunnel/localtunnel?style=flat)](https://github.com/localtunnel/localtunnel/stargazers)
 - [tunnelmole](https://github.com/robbie-cahill/tunnelmole-client) [![GitHub stars](https://img.shields.io/github/stars/robbie-cahill/tunnelmole-client?style=flat)](https://github.com/robbie-cahill/tunnelmole-client/stargazers)
 - [ngrok](https://ngrok.com/)
+- [ytunnel](https://github.com/yetidevworks/ytunnel) [![GitHub stars](https://img.shields.io/github/stars/yetidevworks/ytunnel?style=flat)](https://github.com/yetidevworks/ytunnel/stargazers) - Create and manage Cloudflare Tunnels with custom domains.
 
 ### Mobile Development
 
@@ -327,7 +329,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [doing](https://github.com/ttscoff/doing/) [![GitHub stars](https://img.shields.io/github/stars/ttscoff/doing/?style=flat)](https://github.com/ttscoff/doing//stargazers) - Keep track of what you’re doing and track what you’ve done.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) [![GitHub stars](https://img.shields.io/github/stars/cytopia/ffscreencast?style=flat)](https://github.com/cytopia/ffscreencast/stargazers) - A ffmpeg screencast with video overlay and multi monitor support.
 - [meetup-cli](https://github.com/specious/meetup-cli) [![GitHub stars](https://img.shields.io/github/stars/specious/meetup-cli?style=flat)](https://github.com/specious/meetup-cli/stargazers) - Meetup.com client.
-- [NeoMutt](https://neomutt.org) - Email client.
 - [terjira](https://github.com/keepcosmos/terjira) [![GitHub stars](https://img.shields.io/github/stars/keepcosmos/terjira?style=flat)](https://github.com/keepcosmos/terjira/stargazers) - Jira client.
 - [ipt](https://github.com/drselump14/ipt) [![GitHub stars](https://img.shields.io/github/stars/drselump14/ipt?style=flat)](https://github.com/drselump14/ipt/stargazers) - Pivotal Tracker client.
 - [uber-cli](https://github.com/jaebradley/uber-cli) [![GitHub stars](https://img.shields.io/github/stars/jaebradley/uber-cli?style=flat)](https://github.com/jaebradley/uber-cli/stargazers) - Uber client.
@@ -373,6 +374,11 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [epiq](https://github.com/ljtn/epiq) [![GitHub stars](https://img.shields.io/github/stars/ljtn/epiq?style=flat)](https://github.com/ljtn/epiq/stargazers) - Local-first distributed issue tracker backed by Git.
 - [feeling](https://github.com/qiz-li/feeling) [![GitHub stars](https://img.shields.io/github/stars/qiz-li/feeling?style=flat)](https://github.com/qiz-li/feeling/stargazers) - Mood tracker that visualizes your emotional patterns over time.
 - [confluence-cli](https://github.com/pchuri/confluence-cli) [![GitHub stars](https://img.shields.io/github/stars/pchuri/confluence-cli?style=flat)](https://github.com/pchuri/confluence-cli/stargazers) - Confluence client.
+
+### Email
+
+- [NeoMutt](https://neomutt.org) - Email client.
+- [mail-duplicate](https://github.com/kdeldycke/mail-deduplicate) [![GitHub stars](https://img.shields.io/github/stars/kdeldycke/mail-deduplicate?style=flat)](https://github.com/kdeldycke/mail-deduplicate/stargazers) - Deduplicate mail boxes.
 
 ### Finance
 
@@ -513,6 +519,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [mdlt](https://github.com/metadelta/mdlt) [![GitHub stars](https://img.shields.io/github/stars/metadelta/mdlt?style=flat)](https://github.com/metadelta/mdlt/stargazers) - Do quick math right from the command line.
 - [Qalculate](https://github.com/Qalculate/libqalculate) [![GitHub stars](https://img.shields.io/github/stars/Qalculate/libqalculate?style=flat)](https://github.com/Qalculate/libqalculate/stargazers) - Calculate non-trivial math expressions. Unit conversions, symbolic calculations and more.
+- [numr](https://github.com/nasedkinpv/numr) [![GitHub stars](https://img.shields.io/github/stars/nasedkinpv/numr?style=flat)](https://github.com/nasedkinpv/numr/stargazers) - Natural-language calculator with variables, units, currencies, and live exchange rates.
 
 ### Academia
 
@@ -719,6 +726,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [semantic-grep](https://github.com/arunsupe/semantic-grep) [![GitHub stars](https://img.shields.io/github/stars/arunsupe/semantic-grep?style=flat)](https://github.com/arunsupe/semantic-grep/stargazers) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 - [reflex](https://github.com/reflex-search/reflex) [![GitHub stars](https://img.shields.io/github/stars/reflex-search/reflex?style=flat)](https://github.com/reflex-search/reflex/stargazers) - Instant, offline, code-aware search for text, symbols, and import graphs.
 - [Vexor](https://github.com/scarletkc/vexor) [![GitHub stars](https://img.shields.io/github/stars/scarletkc/vexor?style=flat)](https://github.com/scarletkc/vexor/stargazers) - A semantic search engine for files and code.
+- [ygrep](https://github.com/yetidevworks/ygrep) [![GitHub stars](https://img.shields.io/github/stars/yetidevworks/ygrep?style=flat)](https://github.com/yetidevworks/ygrep/stargazers) - Indexed code search backed by a local Tantivy full-text index.
 
 ## Version Control
 
@@ -845,6 +853,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) [![GitHub stars](https://img.shields.io/github/stars/Nano-Collective/nanocoder?style=flat)](https://github.com/Nano-Collective/nanocoder/stargazers) - Local-first agent TUI.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) [![GitHub stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli?style=flat)](https://github.com/Wolfe-Jam/faf-cli/stargazers) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 - [agentty](https://github.com/1ay1/agentty) [![GitHub stars](https://img.shields.io/github/stars/1ay1/agentty?style=flat)](https://github.com/1ay1/agentty/stargazers) - C++ agent TUI.
+- [bosun](https://github.com/yetidevworks/bosun) [![GitHub stars](https://img.shields.io/github/stars/yetidevworks/bosun?style=flat)](https://github.com/yetidevworks/bosun/stargazers) - Agent session manager built on tmux.
 
 ### LLM Interaction
 

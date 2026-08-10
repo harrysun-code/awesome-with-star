@@ -358,12 +358,20 @@ Featured playlists: `Tech & Coding` \
 [**Creel**](https://www.youtube.com/@WhatsACreel) \
 Content about: Linux, Assembly, Encryption \
 Featured playlists: `Linux x64 Assembly`, `AES Encryption`, `x64 Assembly Multithreading`, `CUDA Tutorials`, `C++ Tutorials`.
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/Y6jut5A-dhWRlv7W81kGxVFPtZGjZN97IhBP75uLnx2AVV7ZEJUUUxBKHlFw9GcwILxkz1E_cLc=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@t3dotgg)
 
 [**Theo - t3․gg**](https://www.youtube.com/@t3dotgg) \
 Content about: JavaScript Frameworks, Coding Tools and Technologies  \
 Featured playlists: N/A \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/Aksxhi2HYBuUC2-z61mrlNQ899oL7lOk867Us4oWoJfmVFJPJjVLXWy0UZFdBNidhnpp1-MUFw=s800-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@bashbunni)
+
+[**bashbunni**](https://www.youtube.com/@bashbunni) \
+Content about: Coding tools, Open-source app development, and programming life skills  \
+Featured playlists: `Code with me`, `Tips & Inspiration`  \
 <br/>
 
 [🔼 Back to the top](#contents)
@@ -1316,6 +1324,13 @@ Featured playlists: `CTT Utility Videos`, `Windows Playlists`, `Linux Playlists`
 [**Bread on Penguins**](https://www.youtube.com/@BreadOnPenguins) \
 Content about: Linux \
 Featured playlists: `window manager, dotfiles, and configuration`, `linux programs you should know about!`, `shell scripts, tricks, power usage.`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/QOHUDP-HekFhzwb2HJnyaMngXh55Gu3zh9PPcAZfr94erhUWThk1ohZmlEm-xoWLtfJXMY13=s800-c-k-c0x00ffffff-no-rj"/>](https://youtube.com/channel/UCo71RUe6DX4w-Vd47rFLXPg)
+
+[**typecraft**](https://youtube.com/channel/UCo71RUe6DX4w-Vd47rFLXPg) \
+Content about: Linux apps and terminal setups, Server apps  \
+Featured playlists: `Linux for Newbs`, `Neovim for Newbs`, `Tmux for Newbs`  \
+<br/>
 
 [🔼 Back to the top](#contents)
 

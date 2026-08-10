@@ -279,7 +279,7 @@
   * [Friend](https://github.com/cemerick/friend) [![GitHub stars](https://img.shields.io/github/stars/cemerick/friend?style=flat)](https://github.com/cemerick/friend/stargazers)
   * [secrets.clj](https://github.com/lk-geimfari/secrets.clj) [![GitHub stars](https://img.shields.io/github/stars/lk-geimfari/secrets.clj?style=flat)](https://github.com/lk-geimfari/secrets.clj/stargazers)
   * [bolt](https://github.com/juxt/bolt) [![GitHub stars](https://img.shields.io/github/stars/juxt/bolt?style=flat)](https://github.com/juxt/bolt/stargazers)
-  * [EACL](https://github.com/theronic/eacl) [![GitHub stars](https://img.shields.io/github/stars/theronic/eacl?style=flat)](https://github.com/theronic/eacl/stargazers): ReBAC authorization library based on SpiceDB, backed by Datomic
+  * [EACL](https://github.com/theronic/eacl) [![GitHub stars](https://img.shields.io/github/stars/theronic/eacl?style=flat)](https://github.com/theronic/eacl/stargazers): Situated ReBAC authorization library inspired by SpiceDB and backed by Datomic Pro, Datahike or DataScript.
 
 ## RESTful API
 

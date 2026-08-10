@@ -64,7 +64,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Steam Spy](https://github.com/topics/steamspy) [![GitHub stars](https://img.shields.io/github/stars/topics/steamspy?style=flat)](https://github.com/topics/steamspy/stargazers) - Game statistical from Steam users profiles.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) [![GitHub stars](https://img.shields.io/github/stars/TheGamesDB/TheGamesDB/?style=flat)](https://github.com/TheGamesDB/TheGamesDB//stargazers) - General information of games from any platform. [Website](https://thegamesdb.net/).
-- [TrendingNow.games](https://trendingnow.games/data-feeds) - Real-time trending Steam game data with free CSV, RSS, and JSON feeds updated hourly.
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) [![GitHub stars](https://img.shields.io/github/stars/GregorUT/vgchartzScrape?style=flat)](https://github.com/GregorUT/vgchartzScrape/stargazers) - Crawler from [VGChartz](http://www.vgchartz.com).
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 - [Xbox LIVE API](https://github.com/xboxapi) [![GitHub stars](https://img.shields.io/github/stars/xboxapi?style=flat)](https://github.com/xboxapi/stargazers) - Games, apps, users stats and messages. [paper](https://doi.org/10.1145/1943552.1943569).
@@ -80,7 +79,6 @@ ______________________________________________________________________
 - [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) [![GitHub stars](https://img.shields.io/github/stars/crawl/crawl?style=flat)](https://github.com/crawl/crawl/stargazers) - Roguelike adventure.
 - [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 - [FlightGear Flight Simulator](https://www.flightgear.org/) - Flight simulator.
-- [General Video Game AI](http://www.gvgai.net/) - Controller for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
 - [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
 - [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 - [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
@@ -211,6 +209,7 @@ ______________________________________________________________________
 - [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) [![GitHub stars](https://img.shields.io/github/stars/googlecreativelab/quickdraw-dataset?style=flat)](https://github.com/googlecreativelab/quickdraw-dataset/stargazers) - Collection of 50 million drawings across 345 categories.
 - [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - Time, cost and bonus of buildings.
+- [VGLocations Public Preview Dataset](https://vglocations.org/video-game-locations-datasets/) - A curated geospatial dataset of real-world video game locations, with free CSV releases containing up to 3,000 locations.
 - [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records.
 - [World of Warcraft Battlegrounds](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) - Details of battlegrounds.
 
@@ -247,6 +246,7 @@ ______________________________________________________________________
 
 - [Euro-Monitor, Video Games](https://www.euromonitor.com/) - Strategic Market Researcher.
 - [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies.
+- [IndieList](https://indielist.games/) - Indie game, studio, publisher, and funding relationship data with transparent sales estimates and market research tools.
 - [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
 

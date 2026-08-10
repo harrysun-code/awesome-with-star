@@ -100,6 +100,7 @@ List of third party middlewares and maintained by the Fiber team and community.
 - [opa](https://github.com/gofiber/contrib/tree/main/v3/opa) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/opa?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/opa/stargazers) - Open Policy Agent (OPA) middleware support for Fiber.
 - [otel](https://github.com/gofiber/contrib/tree/main/v3/otel) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/otel?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/otel/stargazers) - OpenTelemetry middleware support for Fiber.
 - [paseto](https://github.com/gofiber/contrib/tree/main/v3/paseto) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/paseto?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/paseto/stargazers) - Platform-Agnostic Security Tokens (PASETO) auth middleware.
+- [prometheus](https://github.com/gofiber/contrib/tree/main/v3/prometheus) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/prometheus?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/prometheus/stargazers) - Middleware that instruments incoming requests and serves a metrics endpoint for Prometheus.
 - [sentry](https://github.com/gofiber/contrib/tree/main/v3/sentry) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/sentry?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/sentry/stargazers) - Error monitoring and reporting integration for Fiber with Sentry.
 - [socketio](https://github.com/gofiber/contrib/tree/main/v3/socketio) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/socketio?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/socketio/stargazers) - Socket.IO-inspired WebSocket wrapper middleware for Fiber.
 - [swaggo](https://github.com/gofiber/contrib/tree/main/v3/swaggo) [![GitHub stars](https://img.shields.io/github/stars/gofiber/contrib/tree/main/v3/swaggo?style=flat)](https://github.com/gofiber/contrib/tree/main/v3/swaggo/stargazers) - Middleware for serving Swag-generated API docs in Fiber.
@@ -252,6 +253,16 @@ Fiber is an open-source project that runs on donations to pay the bills, e.g., o
   <a href="https://blacksmith.sh/?utm_source=gofiber&utm_medium=sponsor&utm_content=readme">
     <img width="280" height="96" alt="Blacksmith" src="https://raw.githubusercontent.com/gofiber/.github/main/assets/sponsors/blacksmith.png">
   </a>
+</p>
+<p align="center">
+  <sub><b>Tool Sponsors</b> - supporting Fiber with free IDE licenses and AI credits</sub>
+</p>
+<p align="center">
+  <a href="https://www.jetbrains.com/?from=gofiber" title="JetBrains - IDE licenses"><img width="36" height="36" alt="JetBrains" src="https://github.com/JetBrains.png?size=72"></a>
+  &nbsp;
+  <a href="https://openai.com/?utm_source=gofiber&utm_medium=sponsor&utm_content=readme" title="OpenAI - AI credits"><img width="36" height="36" alt="OpenAI" src="https://github.com/openai.png?size=72"></a>
+  &nbsp;
+  <a href="https://www.anthropic.com/?utm_source=gofiber&utm_medium=sponsor&utm_content=readme" title="Anthropic - AI credits"><img width="36" height="36" alt="Anthropic" src="https://github.com/anthropics.png?size=72"></a>
 </p>
 
 <!-- sponsors -->

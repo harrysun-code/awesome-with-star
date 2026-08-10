@@ -89,6 +89,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 - [Stark](https://www.getstark.co/) - Empowers you to design with accessibility in mind from conception of brand to fruition of product. Contrast checker, colorblind simulation and color suggestions.
 - [The A11Y Project](https://a11yproject.com/) - A community-driven effort to make web accessibility easier. See [resources](https://a11yproject.com/resources/) section.
 - [InclusiveColors palette creator](https://www.inclusivecolors.com/) - Creates accessible custom Tailwind-style color palettes that pass WCAG contrast checks and can be exported to CSS/Figma/Adobe.
+- [Nutilz Color Shades Generator](https://nutilz.com/color-shades-generator) - Generates a 50-950 tint/shade scale from any hex color and exports it as CSS variables, SCSS, or a Tailwind config.
 
 ### Design tools articles
 
@@ -108,6 +109,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 ### Tools
 
+- [CSS Variable Generator](https://alltoolsverse.com/tools/css-variable-generator/) - Generate scoped CSS custom properties with light and dark theme pairs, plus SCSS, Less, and JSON design-token exports.
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) [![GitHub stars](https://img.shields.io/github/stars/mikaelvesavuori/figmagic?style=flat)](https://github.com/mikaelvesavuori/figmagic/stargazers) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [Style Dictionary](https://github.com/amzn/style-dictionary) [![GitHub stars](https://img.shields.io/github/stars/amzn/style-dictionary?style=flat)](https://github.com/amzn/style-dictionary/stargazers) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 - [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.

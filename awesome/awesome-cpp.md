@@ -145,6 +145,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [WUI](https://github.com/intent-garden/wui) [![GitHub stars](https://img.shields.io/github/stars/intent-garden/wui?style=flat)](https://github.com/intent-garden/wui/stargazers) - WUI (Window User Interface Library) is a cross-platform library for creating graphical user interfaces in C++17+ [Boost][website](https://libwui.org)
 * [xtd](https://github.com/gammasoft71/xtd) [![GitHub stars](https://img.shields.io/github/stars/gammasoft71/xtd?style=flat)](https://github.com/gammasoft71/xtd/stargazers) - Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. [MIT]
 * [Yomm2](https://github.com/jll63/yomm2) [![GitHub stars](https://img.shields.io/github/stars/jll63/yomm2?style=flat)](https://github.com/jll63/yomm2/stargazers) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) [![GitHub stars](https://img.shields.io/github/stars/jll63/yomm11?style=flat)](https://github.com/jll63/yomm11/stargazers) [Boost]
+* [YUP!](https://github.com/kunitoki/yup) [![GitHub stars](https://img.shields.io/github/stars/kunitoki/yup?style=flat)](https://github.com/kunitoki/yup/stargazers) - The modern framework optimized for realtime audio and GPU-native creative software [ISC]
 
 ## Artificial Intelligence
 
