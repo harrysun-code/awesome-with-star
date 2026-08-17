@@ -20,6 +20,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 # Table of Contents
 
+ 
   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
   * [Cloud management solutions](#cloud-management-solutions)
   * [Analytics, Events, and Statistics](#analytics-events-and-statistics)
@@ -199,6 +200,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes one deployment server, one static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
   * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 10 job executions free per month with previews and auto-deploys included in the free tier.
+  * [Parsivex](https://www.parsivex.com) - Parsivex scans your AWS account for idle EC2, unattached EBS, oversized RDS, stale snapshots, NAT gateway overuse etc. Free tier provides a monthly scan for one AWS account and returns total monthly waste plus a category breakdown. Paid plans give access to itemized findings and scheduled re-scans.
   * [Pulumi](https://www.pulumi.com/) - Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
   * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
 
@@ -317,6 +319,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mockfly](https://www.mockfly.dev/) - Mockfly is a trusted development tool for API mocking and feature flag management. Quickly generate and control mock APIs with an intuitive interface. The free tier offers 500 requests per day.
   * [Mocko.dev](https://mocko.dev/) - Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
   * [Multi-Exit IP Address Checker](https://ip.alstra.ca/) -  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
+  * [NASdisks Drive Data API](https://www.nasdisks.com/data/) - Free, no-key, CORS-enabled API for NAS HDD/SSD specifications, per-model CMR/SMR classification, and annualized failure rates derived from Backblaze Drive Stats. Returns JSON or CSV, CC BY 4.0, no signup.
   * [News API](https://newsapi.org) - Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.
   * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100 free requests / month.
   * [OCR.Space](https://ocr.space/) - An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
@@ -324,6 +327,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
+  * [Pexafy](https://pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Posthook](https://posthook.io) - Schedule webhooks to fire at a future time with automatic retries, delivery tracking, and failure alerting. Free plan includes 1,000 webhooks per month.
   * [Postman](https://postman.com) - Simplify workflows and create better APIs - faster - with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
@@ -358,6 +362,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Weights & Biases](https://wandb.ai) - The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
   * [What Is My IP](https://whatismyip.help) - A free service to check your public IPv4 and IPv6 address and related request data through an API with different output formats for automation, scripts, and network troubleshooting.
   * [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
+  * [XFlux](https://www.xfluxapi.com) - X/Twitter read REST API (profiles, search, timelines) plus account monitors. Free tier: 1,000 API calls/month, 1 monitor, instant API key. HTTP webhooks on paid plans from $19/mo.
   * [wolfram.com](https://wolfram.com/language/) - Built-in knowledge-based algorithms in the cloud.
   * [wrapapi.com](https://wrapapi.com/) - Turn any website into a parameterized API. 30k API calls per month.
   * [Zenscrape](https://zenscrape.com/web-scraping-api) - Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
@@ -600,6 +605,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [aikido.dev](https://www.aikido.dev) - All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.
   * [CertKit](https://www.certkit.io/certificate-management) - Manage SSL Certificate issuance, renewal, and monitoring. Search the Certificate Transparency Logs. Free for 3 certificates and 1 user after the beta.
   * [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs. CT search is free but CT monitoring is not.
+  * [CertPost](https://www.certpost.ai) - Live SSL/TLS certificate monitoring on port 443 or custom ports (SMTP/IMAP). Reads the served certificate on the wire, full chain verification, and alerts via email or webhook before expiration. Free tier includes 3 certificates monitored forever.
   * [Corgea](https://corgea.com/) - Free autonomous security platform that finds, validates and fixes insecure code and packages across +20 languages and frameworks. Free plan includes 1 user and 2 repos.
   * [crypteron.com](https://www.crypteron.com/) - Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [CyberChef](https://gchq.github.io/CyberChef/) - A simple, intuitive web app for analyzing and decoding/encoding data without dealing with complex tools or programming languages. Like a Swiss army knife of cryptography & encryption. All features are free to use, with no limit. Open source if you wish to self-host.
@@ -615,6 +621,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [HimitsuShell](https://himitsushell.com) - A shell script DRM compiler that converts shell scripts into obfuscated binaries using an embedded shell interpreter and anti-debugging (alternative to shc). Free unlimited web edition.
   * [hostedscan.com](https://hostedscan.com) - Online vulnerability scanner for web applications, servers, and networks. Ten free scans per month.
   * [Infisical](https://infisical.com/) - Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.
+  * [inspect.software](https://inspect.software/) - Public record of automated open-source repository audits: security posture, maintainability, dependency health, and malicious-package checks, with a versioned methodology and grade badges. Free tier: full access to all published reports, automatic coverage of repositories above the public-interest threshold (≥500 stars, ≥50 forks, or org-owned with ≥250 stars), embeddable badges, and 100 starting credits (5 inspections) for below-threshold repositories.
   * [Internet.nl](https://internet.nl) - Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
   * [IntoDNS.ai](https://intodns.ai) - DNS and email security analyzer that checks SPF, DKIM, DMARC, DNSSEC, BIMI, MTA-STS, and 40+ blacklists with AI-powered explanations and fix suggestions. 100% free, no signup required.
   * [letsencrypt.org](https://letsencrypt.org/) - Free SSL Certificate Authority with certs trusted by all major browsers
@@ -872,6 +879,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [anon.li Alias](https://anon.li/alias) - Open source, anonymous email alias/forwarding solution with PGP encryption, reply capability, 10 random & 1 custom alias on the free plan with developer API & CLI.
   * [Antideo](https://www.antideo.com) - 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
   * [Anypost](https://anypost.com) - transactional and broadcast email API. 3,000 emails/month free, then as low as 8¢ per 1k
+  * [Atomic Mail](https://atomicmail.ai) - Email built for AI agents, entirely free. Programmatic inbox creation, custom domains, and full send/receive over the open JMAP standard (RFC 8620/8621); hosted MCP server available. A real mailbox service, not disposable/temporary email.
   * [Brevo](https://www.brevo.com/) - 9,000 emails/month, 300 emails/day free
   * [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
   * [Burnermail](https://burnermail.io/) - Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
@@ -1074,6 +1082,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Ownkube](https://ownkube.io) - Free single-node k3s in your own AWS account, run apps, databases, workers with a git push. Use your AWS credits at peak efficiency.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
   * [pythonanywhere.com](https://www.pythonanywhere.com/) - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
+  * [Runsite](https://runsite.app/) - European PaaS with automated deployments from GitHub for web services or static sites (1 web 0.1 vCPU/256 MB free), managed PostgreSQL and Valkey(Redis) (30 days for free), Transactional Email (3,000 emails/month free), S3 compatible storage (5 GB/free), all what you need for start your web site. Servers located in Germany.
   * [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
   * [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
@@ -1132,7 +1141,9 @@ Update Time, five active automations, webhooks.
   * [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
   * [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
   * [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
+  * [Harvis.dev](https://harvis.dev) - Static site hosting via CLI (`npx harvis`) with no config files or build step. Includes free subdomain, free form submissions collections, GitHub Actions integration, CloudFlare CDN, free SSL.
   * [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) - Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
+  * * [Koyeb](https://www.koyeb.com/) - Serverless platform with a free Hobby plan providing 550 free compute hours/month (512 MB RAM Free tier), 1 free PostgreSQL database, and custom domain SSL.
   * [MDB GO](https://mdbgo.com/) - Free hosting for one project with two weeks Container TTL, 500 MB RAM per project, SFTP - 1G disk space.
   * [Mirin](https://mirin.com) - Website platform for developer-built React, Vue, or Svelte component sites with visual editing, forms, analytics, and global CDN hosting. Free tier includes 1 site with unlimited pages and submissions.
   * [Neocities](https://neocities.org) - Static, 1 GB free storage with 200 GB Bandwidth.
@@ -1143,11 +1154,13 @@ Update Time, five active automations, webhooks.
   * [readthedocs.org](https://readthedocs.org/) - Free documentation hosting with versioning, PDF generation, and more
   * [render.com](https://render.com) - Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
   * [Revdoku](https://revdoku.com/) — Publish files, reports, custom microsites right from ChatGPT, Claude, Codex and other AI agents as public or password-protected websites. Free tier: 2GB storage, 2 live sites/apps, 1 database (25 MB), 3 AI connections, 1k files/bucket (100 MB/file), basic analytics.
+  * [ShipStatic](https://shipstatic.com) - Static hosting your AI agent can drive itself: `npx @shipstatic/ship ./dist` and the site is live, with no install, no signup, no repo, no build. MCP, SDK and API too. Free accounts keep sites permanently with automatic HTTPS, global edge delivery and unmetered bandwidth; custom domains are paid.
   * [SourceForge](https://sourceforge.net/) - Find, Create, and Publish Open Source software for free
   * [surge.sh](https://surge.sh/) - Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [tilda.cc](https://tilda.cc/) - One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain
   * [Vercel](https://vercel.com/) - Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
   * [Versoly](https://versoly.com/) - SaaS-focused website builder - unlimited websites, 70+ blocks, five templates, custom CSS, favicon, SEO and forms. No custom domain.
+* [Stormkit](https://www.stormkit.io) - Self-hostable Vercel alternative for building, hosting, and deploying modern frontend and JavaScript applications. Free plan includes 1 app, 50 GB bandwidth, unlimited custom domains, and free SSL.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1331,6 +1344,7 @@ Update Time, five active automations, webhooks.
   * [getpantry.cloud](https://getpantry.cloud/) - A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
   * [gumlet.com](https://www.gumlet.com/) - Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
+  * [hyperserve.io](https://hyperserve.io/) - Video backend API for developers: accept any format your users upload, transcode to MP4, and deliver globally via CDN. The free tier includes 50 videos, 1 GB per file, and 250 GB bandwidth per month.
   * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
   * [image-charts.com](https://www.image-charts.com/) - Unlimited image chart generation with a watermark
   * [ImageEngine](https://imageengine.io/) - ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).

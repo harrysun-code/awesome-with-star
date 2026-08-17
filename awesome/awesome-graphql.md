@@ -706,6 +706,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [gqt](https://github.com/eerimoq/gqt) [![GitHub stars](https://img.shields.io/github/stars/eerimoq/gqt?style=flat)](https://github.com/eerimoq/gqt/stargazers) - Build and execute GraphQL queries in the terminal.
 - [Hackolade](https://studio.hackolade.com/) - Visual GraphQL schema editor to generate Schema Definition Language files without any knowledge of the GraphQL syntax. Also visualize and document existing endpoints with introspection.  Additional info and instructions [here](https://hackolade.com/help/GraphQL.html)
 - [Smart Formatter - GraphQL Query Formatter](https://smartformatter.com/tools/graphql-query-formatter) - A client-side, browser-only tool to format, beautify, and validate GraphQL queries and schemas instantly.
+- [Mongrel](https://www.visorcraft.com/) - Desktop workbench with a GraphQL client, plus HTTP, WebSocket, and gRPC, inside a multi-database GUI.
 
 
 <a name="tool-testing" />

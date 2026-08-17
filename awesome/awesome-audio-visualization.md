@@ -54,6 +54,7 @@
 
 ## Experiments
 
+- [Master Pro Audio Analyzer Suite](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer) [![GitHub stars](https://img.shields.io/github/stars/varunmaurya-git/Master-Pro-Audio-Analyzer?style=flat)](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer/stargazers) - 100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.
 - [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral by Sonia Boller.
 - [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
 - [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
@@ -119,7 +120,9 @@
 - [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound) [![GitHub stars](https://img.shields.io/github/stars/processing/p5.js-sound?style=flat)](https://github.com/processing/p5.js-sound/stargazers), on an HTML5 Canvas by Amanda Yeh.
 - [Tap tempo and metronome with sound effects](https://tapbpmhub.com/) - A metronome with customizable sound effects, capable of calculating bpm with just a click, and also supports synchronization with your MIDI device.
 - [osci-render](https://github.com/jameshball/osci-render) [![GitHub stars](https://img.shields.io/github/stars/jameshball/osci-render?style=flat)](https://github.com/jameshball/osci-render/stargazers) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+- [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
 
+- [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
 
 ## Experiments on Codepen
 
@@ -192,6 +195,7 @@
 - [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser. 
 
 ## People to Follow
+- [Varun Maurya](https://www.linkedin.com/in/maurya-varun/) - Cloud & Media Systems Engineer, Solutions Architect, Hybrid AV/IT Infrastructure, Live Events & Studio Post-Production Audio Engineer
 - [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
 - [Joshua Davis](http://www.joshuadavis.com/) - An American designer, technologist, author and artist in new media.
 - [Robert Hodgin](http://roberthodgin.com/) - A creative coder living in Brooklyn. Co-creator of the Cinder C++.

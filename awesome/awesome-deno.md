@@ -56,7 +56,6 @@ This list is a collection of the best Deno modules and resources.
   - [Indonesian](#indonesian)
   - [Italian](#italian)
   - [Japanese](#japanese)
-  - [Korean](#korean)
   - [Russian](#russian)
   - [Spanish](#spanish)
   - [Darija (Arabe marocain)](#darija)
@@ -79,6 +78,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Automation
 - [swissknife](https://github.com/fakoua/SwissKnife) [![GitHub stars](https://img.shields.io/github/stars/fakoua/SwissKnife?style=flat)](https://github.com/fakoua/SwissKnife/stargazers) - SwissKnife - Deno Swiss Knife tools for Windows.
+- [zuke](https://github.com/zuke-build/zuke) [![GitHub stars](https://img.shields.io/github/stars/zuke-build/zuke?style=flat)](https://github.com/zuke-build/zuke/stargazers) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ### CLI utils
 - [cac](https://github.com/cacjs/cac) [![GitHub stars](https://img.shields.io/github/stars/cacjs/cac?style=flat)](https://github.com/cacjs/cac/stargazers) - Simple yet powerful framework for building command-line apps.
@@ -92,7 +92,6 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
-- [googleapis](https://googleapis.deno.dev/) - Auto-generated Google API clients for Deno.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
@@ -225,7 +224,6 @@ This list is a collection of the best Deno modules and resources.
 - [graphql-tag](https://github.com/deno-libs/graphql_tag) [![GitHub stars](https://img.shields.io/github/stars/deno-libs/graphql_tag?style=flat)](https://github.com/deno-libs/graphql_tag/stargazers) - GraphQL schema AST from template literal.
 - [nats](https://github.com/nats-io/nats.deno) [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats.deno?style=flat)](https://github.com/nats-io/nats.deno/stargazers) - A Deno client for the [NATS messaging system](https://nats.io/).
 - [obsidian](https://github.com/open-source-labs/obsidian) [![GitHub stars](https://img.shields.io/github/stars/open-source-labs/obsidian?style=flat)](https://github.com/open-source-labs/obsidian/stargazers) - A native GraphQL caching client and server module.
-- [react-icons](https://react-icons.deno.dev/) - React Icons converted to preact for deno fresh.
 - [router](https://github.com/zhmushan/router) [![GitHub stars](https://img.shields.io/github/stars/zhmushan/router?style=flat)](https://github.com/zhmushan/router/stargazers) - A high-performance basic router works anywhere.
 - [rpc](https://github.com/deno-libs/rpc) [![GitHub stars](https://img.shields.io/github/stars/deno-libs/rpc?style=flat)](https://github.com/deno-libs/rpc/stargazers) - JSONRPC server implementation for Deno.
 - [ts-prometheus](https://github.com/marcopacini/ts_prometheus) [![GitHub stars](https://img.shields.io/github/stars/marcopacini/ts_prometheus?style=flat)](https://github.com/marcopacini/ts_prometheus/stargazers) - A prometheus client.
@@ -238,13 +236,12 @@ This list is a collection of the best Deno modules and resources.
 
 ## Registries
 
-- [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
-- [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
 ## Showcases
 
+- [Chobble Tickets](https://github.com/chobbledotcom/tickets) [![GitHub stars](https://img.shields.io/github/stars/chobbledotcom/tickets?style=flat)](https://github.com/chobbledotcom/tickets/stargazers) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
 - [Deno Rest](https://github.com/Prolifode/deno_rest) [![GitHub stars](https://img.shields.io/github/stars/Prolifode/deno_rest?style=flat)](https://github.com/Prolifode/deno_rest/stargazers) - A Boilerplate for deno RESTful apis.
 - [Edrys](https://github.com/edrys-org/edrys) [![GitHub stars](https://img.shields.io/github/stars/edrys-org/edrys?style=flat)](https://github.com/edrys-org/edrys/stargazers) - Remote Teaching Software
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) [![GitHub stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy?style=flat)](https://github.com/ryo-ma/github-profile-trophy/stargazers) - 🏆 Add dynamically generated GitHub Trophy on your readme
@@ -289,7 +286,6 @@ This list is a collection of the best Deno modules and resources.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 
 ## Blogs/Newsletters
-- [Craig's Deno Diary](https://deno-blog.com) - A blog focussing on Deno tech & lib howtos.
 - [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
 - [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
 
@@ -366,15 +362,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Japanese
 
-- [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)
 - [mizchi/deno_code_reading.md](https://gist.github.com/mizchi/31e5628751330b624a0e8ada9e739b1e)
 - [Design Mistakes in Node & Deno #kng5 / deno](https://speakerdeck.com/masashi/deno)
 - [Dive into Deno：プロセス起動からTypeScriptが実行されるまで](https://blog.leko.jp/post/code-reading-of-deno-boot-process/)
-
-### Korean
-
-- [Deno Korea](https://deno.kr/) - Deno Korean User Group.
 
 ### Russian
 

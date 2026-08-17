@@ -49,6 +49,7 @@ This includes things typically not found in low-level game engines, app / game f
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
+    - [Swift](#swift)
     - [Zig](#zig)
 - [Open Source Games](#open-source-games)
     - [Awesome Collections](#awesome-collections-1)
@@ -934,7 +935,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [three-billboard-reflection](https://github.com/0beqz/three-billboard-reflection) [![GitHub stars](https://img.shields.io/github/stars/0beqz/three-billboard-reflection?style=flat)](https://github.com/0beqz/three-billboard-reflection/stargazers) - Performant plane reflections in Three.js.
     - 🎉 [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) [![GitHub stars](https://img.shields.io/github/stars/gkjohnson/three-mesh-bvh?style=flat)](https://github.com/gkjohnson/three-mesh-bvh/stargazers) - Speed up raycasting and enable spatial queries on Meshes.
     - 🎉 [three-mesh-ui](https://github.com/felixmariotto/three-mesh-ui) [![GitHub stars](https://img.shields.io/github/stars/felixmariotto/three-mesh-ui?style=flat)](https://github.com/felixmariotto/three-mesh-ui/stargazers) - VR user interfaces for Three.js.
-    - 🎉 [three-nebula](https://github.com/creativelifeform/three-nebula) [![GitHub stars](https://img.shields.io/github/stars/creativelifeform/three-nebula?style=flat)](https://github.com/creativelifeform/three-nebula/stargazers) - WebGL particle system for Three.js. [[Examples](https://three-nebula.org/examples/custom-renderer)]
+    - 🎉 [three-nebula](https://github.com/creativelifeform/three-nebula) [![GitHub stars](https://img.shields.io/github/stars/creativelifeform/three-nebula?style=flat)](https://github.com/creativelifeform/three-nebula/stargazers) - WebGL particle system for Three.js.
     - 🎉 [three-projected-material](https://github.com/marcofugaro/three-projected-material) [![GitHub stars](https://img.shields.io/github/stars/marcofugaro/three-projected-material?style=flat)](https://github.com/marcofugaro/three-projected-material/stargazers) - Texture projection in Three.js.
     - 🎉 [three.ik](https://github.com/jsantell/THREE.IK) [![GitHub stars](https://img.shields.io/github/stars/jsantell/THREE.IK?style=flat)](https://github.com/jsantell/THREE.IK/stargazers) - Inverse kinematics for Three.js.
     - 🎉 [Troika JS - Derived Material](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js) [![GitHub stars](https://img.shields.io/github/stars/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js?style=flat)](https://github.com/protectwise/troika/blob/master/packages/troika-three-utils/src/DerivedMaterial.js/stargazers) - Extend existing Three.js materials. [[Docs](https://protectwise.github.io/troika/troika-three-utils/createDerivedMaterial/)]
@@ -1074,8 +1075,12 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Tao](https://github.com/tauri-apps/tao) [![GitHub stars](https://img.shields.io/github/stars/tauri-apps/tao?style=flat)](https://github.com/tauri-apps/tao/stargazers) - Cross-platform windowing. [[Docs](https://docs.rs/tao/latest/tao/)]
 - Rust: Audio
     - 🎉 [Kira](https://github.com/tesselode/kira) [![GitHub stars](https://img.shields.io/github/stars/tesselode/kira?style=flat)](https://github.com/tesselode/kira/stargazers) - Create expressive audio for games.
+- Rust: Docking
+    - 🎉 [egui_dock](https://github.com/anhosh/egui_dock) [![GitHub stars](https://img.shields.io/github/stars/anhosh/egui_dock?style=flat)](https://github.com/anhosh/egui_dock/stargazers) - Docking support for _egui_.
+    - 🎉 [egui_tiles](https://github.com/rerun-io/egui_tiles) [![GitHub stars](https://img.shields.io/github/stars/rerun-io/egui_tiles?style=flat)](https://github.com/rerun-io/egui_tiles/stargazers) - Tiling layout engine for _egui_.
 - Rust: Game Engine w/Editor
     - 🎉 [Fyrox](https://github.com/FyroxEngine/Fyrox) [![GitHub stars](https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=flat)](https://github.com/FyroxEngine/Fyrox/stargazers) - 2D/3D game engine with editor. Formerly _Rg3d_. [[Website](https://fyrox.rs/)]
+    - 🎉 [Renzora Engine](https://github.com/renzora/engine) [![GitHub stars](https://img.shields.io/github/stars/renzora/engine?style=flat)](https://github.com/renzora/engine/stargazers) - 3D game engine and visual editor built on _Bevy_.
 - Rust: Game Framework
     - 🎉 [Ambient](https://github.com/AmbientRun/Ambient) [![GitHub stars](https://img.shields.io/github/stars/AmbientRun/Ambient?style=flat)](https://github.com/AmbientRun/Ambient/stargazers) - Multiplayer game engine.
     - 🎉 [Amethyst](https://github.com/amethyst/amethyst) [![GitHub stars](https://img.shields.io/github/stars/amethyst/amethyst?style=flat)](https://github.com/amethyst/amethyst/stargazers) - Data-driven 2D/3D game engine aiming to be fast and configurable.
@@ -1086,6 +1091,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Glium](https://github.com/glium/glium) [![GitHub stars](https://img.shields.io/github/stars/glium/glium?style=flat)](https://github.com/glium/glium/stargazers) - Safe wrapper arount the OpenGL API.
     - 🎉 [Kiss3D](https://github.com/sebcrozet/kiss3d) [![GitHub stars](https://img.shields.io/github/stars/sebcrozet/kiss3d?style=flat)](https://github.com/sebcrozet/kiss3d/stargazers) - Keep it simple, stupid 3D graphics engine.
     - 🎉 [Miniquad](https://github.com/not-fl3/miniquad) [![GitHub stars](https://img.shields.io/github/stars/not-fl3/miniquad?style=flat)](https://github.com/not-fl3/miniquad/stargazers) - Cross-platform rendering.
+    - 🎉 [three-d](https://github.com/asny/three-d) [![GitHub stars](https://img.shields.io/github/stars/asny/three-d?style=flat)](https://github.com/asny/three-d/stargazers) - 2D/3D renderer, makes it simple to draw stuff across platforms.
     - 🎉 [Vulkano](https://github.com/vulkano-rs/vulkano) [![GitHub stars](https://img.shields.io/github/stars/vulkano-rs/vulkano?style=flat)](https://github.com/vulkano-rs/vulkano/stargazers) - Safe and rich wrapper around the Vulkan API.
     - 🎉 [wgpu](https://github.com/gfx-rs/wgpu) [![GitHub stars](https://img.shields.io/github/stars/gfx-rs/wgpu?style=flat)](https://github.com/gfx-rs/wgpu/stargazers) - Cross-platform graphics API, powers WebGPU in _Firefox_.
 - Rust: Gui
@@ -1096,6 +1102,23 @@ _Language specific game engine development libraries / frameworks / code._
     - 🔒 [Slint](https://github.com/slint-ui/slint) [![GitHub stars](https://img.shields.io/github/stars/slint-ui/slint?style=flat)](https://github.com/slint-ui/slint/stargazers) - Gui toolkit for embedded / desktop. Formerly _SixtyFPS_. [[Website](https://slint-ui.com/)]
 - Rust: Physics
     - 🎉 [Rapier](https://github.com/dimforge/rapier) [![GitHub stars](https://img.shields.io/github/stars/dimforge/rapier?style=flat)](https://github.com/dimforge/rapier/stargazers) - 2D/3D physics engines focused on performance. [[Docs](https://rapier.rs)]
+
+### Swift
+- 📚 [Awesome Swift](https://github.com/matteocrippa/awesome-swift) [![GitHub stars](https://img.shields.io/github/stars/matteocrippa/awesome-swift?style=flat)](https://github.com/matteocrippa/awesome-swift/stargazers) - Collaborative list of awesome Swift libraries and resources.
+- 🌎 [Swift](https://developer.apple.com/documentation/swift) - Created by Apple to build apps for iOS, Mac, and other Apple devices.
+- Swift: Game Engine w/Editor
+    - 🔒 [UntoldEngine](https://github.com/untoldengine/UntoldEngine) [![GitHub stars](https://img.shields.io/github/stars/untoldengine/UntoldEngine?style=flat)](https://github.com/untoldengine/UntoldEngine/stargazers) - For high-performance spatial visualization apps.
+- Swift: Game Framework
+    - 🎉 [GateEngine](https://github.com/STREGAsGate/GateEngine) [![GitHub stars](https://img.shields.io/github/stars/STREGAsGate/GateEngine?style=flat)](https://github.com/STREGAsGate/GateEngine/stargazers) - Cross-platform game engine that allows you to build 2D and 3D games.
+    - 🎉 [Glide](https://github.com/cocoatoucher/Glide) [![GitHub stars](https://img.shields.io/github/stars/cocoatoucher/Glide?style=flat)](https://github.com/cocoatoucher/Glide/stargazers) - Engine for making 2D games with practical examples and tutorials.
+    - 🎉 [Imagine Engine](https://github.com/JohnSundell/ImagineEngine) [![GitHub stars](https://img.shields.io/github/stars/JohnSundell/ImagineEngine?style=flat)](https://github.com/JohnSundell/ImagineEngine/stargazers) - Fast 2D game engine for _Apple_'s platforms.
+    - 🎉 [Iris](https://github.com/Chandram-Dutta/Iris) [![GitHub stars](https://img.shields.io/github/stars/Chandram-Dutta/Iris?style=flat)](https://github.com/Chandram-Dutta/Iris/stargazers) - Minimal 2D game engine in Swift.
+    - 🎉 [OctopusKit](https://github.com/invadingoctopus/octopuskit) [![GitHub stars](https://img.shields.io/github/stars/invadingoctopus/octopuskit?style=flat)](https://github.com/invadingoctopus/octopuskit/stargazers) - 2D ECS game engine for iOS, macOS, tvOS.
+- Swift: Gui
+    - 🌎 [SwiftUI](https://developer.apple.com/swiftui/) - Apple's modern, flagship GUI framework used to build across all Apple platforms.
+- Swift: Physics
+    - 🎉 [JelloSwift](https://github.com/LuizZak/JelloSwift) [![GitHub stars](https://img.shields.io/github/stars/LuizZak/JelloSwift?style=flat)](https://github.com/LuizZak/JelloSwift/stargazers) - Swift soft body physics engine.
+    - 🌎 [SpriteKit Physics](https://developer.apple.com/documentation/spritekit/getting-started-with-physics) - Getting started with physics.
 
 ### Zig
 - 📚 [Awesome Zig](https://github.com/nrdmn/awesome-zig) [![GitHub stars](https://img.shields.io/github/stars/nrdmn/awesome-zig?style=flat)](https://github.com/nrdmn/awesome-zig/stargazers) - Curated list of Zig code and resources.
@@ -1210,7 +1233,6 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Symmetric Shadowcasting](https://www.albertford.com/shadowcasting/) - Common technique for calculating field of view.
 - Shadows 3D
     - 📚 [Efficient Soft-Edged Shadows](https://developer.nvidia.com/gpugems/gpugems2/part-ii-shading-lighting-and-shadows/chapter-17-efficient-soft-edged-shadows-using) - GPU Gems 2 Chapter 17.
-    - 📚 [Screen Space Shadows](https://panoskarabelas.com/posts/screen_space_shadows/) - Great exploration of screen space shadows.
     - 📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) - Shadow mapping and the techniques used to acheive it.
 - Volumetric
     - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) - Great example of volumetric lighting with Three.js. [[Source](https://github.com/jeromeetienne/threex.volumetricspotlight) [![GitHub stars](https://img.shields.io/github/stars/jeromeetienne/threex.volumetricspotlight?style=flat)](https://github.com/jeromeetienne/threex.volumetricspotlight/stargazers)]
@@ -1260,8 +1282,9 @@ _Exploring specialty game engine / game development topics and features._
 - 🎉 [CrossShader](https://github.com/alaingalvan/CrossShader) [![GitHub stars](https://img.shields.io/github/stars/alaingalvan/CrossShader?style=flat)](https://github.com/alaingalvan/CrossShader/stargazers) - Cross-compiling shaders between GLSL, HLSL, Metal, and more.
 - 🌎 [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - Postprocessing, lighting, utlities and many more.
 - 📚 [Review of Shader Languages](https://web.archive.org/web/20260201143258/https://alain.xyz/blog/a-review-of-shader-languages) - Differences between HLSL, GLSL, MSL, and WGSL.
-- 📚 [Ronja Tutorials](https://www.ronja-tutorials.com/) - Tutorials covering many shader techniques.
+- 📚 [Ronja Tutorials](https://github.com/ronja-tutorials/ShaderTutorials) [![GitHub stars](https://img.shields.io/github/stars/ronja-tutorials/ShaderTutorials?style=flat)](https://github.com/ronja-tutorials/ShaderTutorials/stargazers) - Tutorials covering many shader techniques.
 - 🌎 [Shader Park](https://github.com/shader-park/shader-park-core) [![GitHub stars](https://img.shields.io/github/stars/shader-park/shader-park-core?style=flat)](https://github.com/shader-park/shader-park-core/stargazers) - Shader programming in JavaScript.
+- 💰 [Shader Survival Guide](https://www.gameslave.dev/theshadersurvivalguide) - Intro to the world of shaders and VFX using Unity Shader Graph.
 - 🌎 [SHADERed](https://github.com/dfranx/SHADERed) [![GitHub stars](https://img.shields.io/github/stars/dfranx/SHADERed?style=flat)](https://github.com/dfranx/SHADERed/stargazers) - Shader IDE, written in C++.
 - 🌎 [Shadertoy](https://www.shadertoy.com) - Build and share shaders online.
 - Bloom
@@ -1304,7 +1327,6 @@ _Exploring specialty game engine / game development topics and features._
 - 📚 [2D SDFs](https://iquilezles.org/articles/distfunctions2d/) - Signed distance functions for basic 2D primitives.
 - 📚 [3D SDFs](https://iquilezles.org/articles/distfunctions/) - Signed distance functions for basic 3D primitives.
 - 📚 [CSG w/SDFs](https://jasmcole.com/2019/10/03/signed-distance-fields/) - Using circular SDFs to build 3D objects with CSG. [[Source](https://github.com/jasmcole/Blog/tree/master/CSG) [![GitHub stars](https://img.shields.io/github/stars/jasmcole/Blog/tree/master/CSG?style=flat)](https://github.com/jasmcole/Blog/tree/master/CSG/stargazers)]
-- 📚 [Basic 2D SDFs](https://www.ronja-tutorials.com/post/034-2d-sdf-basics/) - Basics of rendering 2D shapes with SDFs in shaders.
 - 📚 [Bezier Strokes](https://vladjuckov.github.io/beziers-sdf/) - Blog post on rendering bezier strokes with SDFs.
 - 📚 [Signed Distance Field Resources](https://github.com/CedricGuillemet/SDF) [![GitHub stars](https://img.shields.io/github/stars/CedricGuillemet/SDF?style=flat)](https://github.com/CedricGuillemet/SDF/stargazers) - Tutorials, papers, software, demos, discussions, etc.
 - 🎉 [SDF Mesh Generation](https://github.com/fogleman/sdf) [![GitHub stars](https://img.shields.io/github/stars/fogleman/sdf?style=flat)](https://github.com/fogleman/sdf/stargazers) - Python API to generate 3D meshes with SDFs.
@@ -1361,7 +1383,7 @@ _Software to help with game engine / video game development._
 - 🌎 [Coolors](https://coolors.co) - Fast color palette generator.
 - 🌎 [Huemint](https://huemint.com) - Uses machine learning to generate colors for graphic design.
 - 🌎 [Lospec](https://lospec.com/palette-list) - Database of palettes for pixel art.
-- 🎉 [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact palette from any sprite or image, export to GPL, ASE or hex. [[Source](https://github.com/pixelpixi/spritewright) [![GitHub stars](https://img.shields.io/github/stars/pixelpixi/spritewright?style=flat)](https://github.com/pixelpixi/spritewright/stargazers)]
+- 🎉 [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the palette from any sprite or image, export to GPL, ASE or hex. [[Source](https://github.com/pixelpixi/spritewright) [![GitHub stars](https://img.shields.io/github/stars/pixelpixi/spritewright?style=flat)](https://github.com/pixelpixi/spritewright/stargazers)]
 - 🌎 [Paletton](https://paletton.com) - Explore complementary colors on the color wheel.
 
 ### Debugging / Profiling

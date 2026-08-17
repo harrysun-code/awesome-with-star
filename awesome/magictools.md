@@ -95,6 +95,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) [![GitHub stars](https://img.shields.io/github/stars/z64me/EzSpriteSheet?style=flat)](https://github.com/z64me/EzSpriteSheet/stargazers) - Creates sprite sheets from animated GIFs and more
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) [![GitHub stars](https://img.shields.io/github/stars/libgdx/libgdx/wiki/Texture-packer?style=flat)](https://github.com/libgdx/libgdx/wiki/Texture-packer/stargazers) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
+- :free: [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Pack frames into a sheet with a JSON atlas, slice sheets back into PNGs, and convert between sheets and animated GIFs. Runs in the browser, no upload.
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
@@ -113,6 +114,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
+- :free: [PixelChart Normal Map Generator](https://pixelchart.app/tools/normal-map-generator/) - Turns an image into normal, height and ambient occlusion maps with a live WebGL lit preview. Exports PNG or ZIP, runs entirely in the browser.
 - :moneybag: [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 
 #### Character Generators
@@ -136,6 +138,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 - :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+- :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
 - 🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
 - :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 - :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) [![GitHub stars](https://img.shields.io/github/stars/Ttanasart-pt/Pixel-Composer?style=flat)](https://github.com/Ttanasart-pt/Pixel-Composer/stargazers) - Powerful node-based VFX editor for pixel art
@@ -175,6 +178,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
 - :money_with_wings: [Vector Magic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 - :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
+- :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 
 #### Modeling
 
@@ -239,6 +243,7 @@ _Set of game frameworks, engines and platforms_
 - :free: [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
 - :tada: [Cocos2D](https://github.com/los-cocos/cocos) [![GitHub stars](https://img.shields.io/github/stars/los-cocos/cocos?style=flat)](https://github.com/los-cocos/cocos/stargazers) - graphic library for games and multimedia, for python language
 - :tada: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
+- :tada: [Codename One](https://github.com/codenameone/CodenameOne) [![GitHub stars](https://img.shields.io/github/stars/codenameone/CodenameOne?style=flat)](https://github.com/codenameone/CodenameOne/stargazers) - Cross-platform Java framework with beta game APIs and a visual Game Builder for 2D and 3D games.
 - :moneybag: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 - :money_with_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 - :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.

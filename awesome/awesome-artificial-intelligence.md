@@ -21,6 +21,8 @@ This is not a comprehensive directory of AI products. Every entry must clear an 
 
 The list is reviewed weekly by an evidence-backed automation that independently reviews, validates, and merges small changes. See [how resources are evaluated](CURATION.md).
 
+For a guided starting point, get the [free AI Engineer starter pack](https://aiengineer.co/start), which includes agent skills, $1M+ in software discounts and tutorial code.
+
 ## Learn
 
 ### Books
@@ -41,6 +43,7 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 
 ### Courses
 
+- [AI Engineer](https://aiengineer.co/): A paid program for agentic coding and building, testing, and shipping production AI systems.
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1): Transformers, fine-tuning, datasets, and modern NLP tooling.
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/): The full lifecycle of building and shipping AI products.
 - [Fast.ai Practical Deep Learning](https://course.fast.ai/): A code-first introduction to deep learning.
@@ -70,6 +73,7 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents): Anthropic's practical patterns and tradeoffs for agentic systems.
 - [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): OpenAI's guide to models, tools, instructions, orchestration, and guardrails.
+- [Awesome DeepSeek Agent](https://github.com/deepseek-ai/awesome-deepseek-agent) [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-agent?style=flat)](https://github.com/deepseek-ai/awesome-deepseek-agent/stargazers): DeepSeek's official setup guides for integrating its models with coding agents including Claude Code, Codex, Cline, OpenCode, and Pi.
 
 ### LLM application engineering
 
@@ -118,16 +122,13 @@ The list is reviewed weekly by an evidence-backed automation that independently 
 - [vLLM](https://docs.vllm.ai/): An inference and serving engine for language models.
 - [LiteLLM](https://docs.litellm.ai/): A model gateway and unified interface for multiple model providers.
 
-### Speech and audio
-
-- [FunASR](https://github.com/modelscope/FunASR) [![GitHub stars](https://img.shields.io/github/stars/modelscope/FunASR?style=flat)](https://github.com/modelscope/FunASR/stargazers): Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.
-
 ## Agentic software engineering
 
 Coding agents help developers plan, implement, review, test, and debug software. For independent capability comparisons, see [SWE-bench](https://www.swebench.com/) and [Terminal-Bench](https://www.tbench.ai/leaderboard/terminal-bench/2.1).
 
 ### Coding agents
 
+- [Neo](https://github.com/owainlewis/neo) [![GitHub stars](https://img.shields.io/github/stars/owainlewis/neo?style=flat)](https://github.com/owainlewis/neo/stargazers): An open-source, workflow-first terminal coding agent with subagents, skills, sandboxed tools, and multiple model providers.
 - [Claude Code](https://code.claude.com/): A terminal agent with hooks, subagents, skills, and repository-level instructions.
 - [Codex CLI](https://github.com/openai/codex) [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat)](https://github.com/openai/codex/stargazers): An open-source terminal agent with sandbox and approval controls.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat)](https://github.com/google-gemini/gemini-cli/stargazers): An open-source terminal agent built around Gemini and extensible tools.
@@ -139,15 +140,23 @@ Coding agents help developers plan, implement, review, test, and debug software.
 - [Cline](https://github.com/cline/cline) [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat)](https://github.com/cline/cline/stargazers): An open-source coding agent available as an editor extension, CLI, and SDK.
 - [Continue](https://www.continue.dev/): Open-source coding agents for IDE and CI workflows with source-controlled configuration.
 
+For a worked implementation, watch [Build Your Own Coding Agent Like Pi](https://www.youtube.com/watch?v=QER-0DaC-Gk), which builds a minimal Go harness around the agent loop, tools, files, and terminal commands.
+
+### Agent skills and workflows
+
+- [Blueprint](https://github.com/owainlewis/blueprint/tree/main/skills) [![GitHub stars](https://img.shields.io/github/stars/owainlewis/blueprint/tree/main/skills?style=flat)](https://github.com/owainlewis/blueprint/tree/main/skills/stargazers): An open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.
+
 ### Software factories and agent orchestration
 
 - [Harness Engineering](https://openai.com/index/harness-engineering/): OpenAI's field report on building software with coding agents, repository constraints, automated checks, and human steering.
 - [Codex Orchestration with Symphony](https://openai.com/index/open-source-codex-orchestration-symphony/): A reference architecture that turns project work into isolated, observable coding-agent runs.
 - [How We Built Our Multi-Agent Research System](https://www.anthropic.com/engineering/multi-agent-research-system): Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability.
 
+[Factory](https://github.com/owainlewis/factory) [![GitHub stars](https://img.shields.io/github/stars/owainlewis/factory?style=flat)](https://github.com/owainlewis/factory/stargazers) is a developer-preview control plane for scheduling and coordinating Pi, Codex, and Claude Code workers across Git repositories.
+
 ## Contributing
 
-Suggestions are welcome, but this list is intentionally selective. Read [the curation policy](CURATION.md) before opening an issue or pull request.
+Suggestions are welcome, but this list is intentionally selective. Read [the contribution guide](CONTRIBUTING.md) and [the curation policy](CURATION.md) before opening an issue or pull request.
 
 A proposed resource should:
 
@@ -158,3 +167,5 @@ A proposed resource should:
 - use a factual description supported by a primary source.
 
 Explain which developer problem the resource solves and why it clears the rubric. If it overlaps an existing entry, explain why it is materially better. Disclose any affiliation with the resource.
+
+For ongoing practical tutorials about coding agents and AI engineering, visit the [AI Engineer YouTube channel](https://www.youtube.com/@owainlewis/videos).

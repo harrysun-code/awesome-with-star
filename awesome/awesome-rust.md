@@ -10,125 +10,122 @@ A curated list of Rust code and resources.
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
-## Table of contents
-
-<!-- toc -->
+<!-- BEGIN mktoc {"min_depth": 2} -->
 
 - [Applications](#applications)
-  * [Audio and Music](#audio-and-music)
-  * [Blockchain](#blockchain)
-  * [Database](#database)
-  * [Embedded](#embedded)
-  * [Emulators](#emulators)
-  * [File manager](#file-manager)
-  * [Finance](#finance)
-  * [Games](#games)
-  * [Graphics](#graphics)
-  * [Image processing](#image-processing)
-  * [Industrial automation](#industrial-automation)
-  * [Message Queue](#message-queue)
-  * [MLOps](#mlops)
-  * [Observability](#observability)
-  * [Operating systems](#operating-systems)
-  * [Package Managers](#package-managers)
-  * [Payments](#payments)
-  * [Productivity](#productivity)
-  * [Routing protocols](#routing-protocols)
-  * [Security tools](#security-tools)
-  * [Social networks](#social-networks)
-  * [System tools](#system-tools)
-  * [Task scheduling](#task-scheduling)
-  * [Text editors](#text-editors)
-  * [Text processing](#text-processing)
-  * [Utilities](#utilities)
-  * [Video](#video)
-  * [Virtualization](#virtualization)
-  * [Web](#web)
-  * [Web Servers](#web-servers)
-  * [Workflow Automation](#workflow-automation)
+  - [Audio and Music](#audio-and-music)
+  - [Blockchain](#blockchain)
+  - [Database](#database)
+  - [Embedded](#embedded)
+  - [Emulators](#emulators)
+  - [File manager](#file-manager)
+  - [Finance](#finance)
+  - [Games](#games)
+  - [Graphics](#graphics)
+  - [Image processing](#image-processing)
+  - [Industrial automation](#industrial-automation)
+  - [Message Queue](#message-queue)
+  - [MLOps](#mlops)
+  - [Observability](#observability)
+  - [Operating systems](#operating-systems)
+  - [Package Managers](#package-managers)
+  - [Payments](#payments)
+  - [Productivity](#productivity)
+  - [Routing protocols](#routing-protocols)
+  - [Security tools](#security-tools)
+  - [Social networks](#social-networks)
+  - [System tools](#system-tools)
+  - [Task scheduling](#task-scheduling)
+  - [Text editors](#text-editors)
+  - [Text processing](#text-processing)
+  - [Utilities](#utilities)
+  - [Video](#video)
+  - [Virtualization](#virtualization)
+  - [Web](#web)
+  - [Web Servers](#web-servers)
+  - [Workflow Automation](#workflow-automation)
 - [Development tools](#development-tools)
-  * [Build system](#build-system)
-  * [Debugging](#debugging)
-  * [Deployment](#deployment)
-  * [Embedded](#embedded-1)
-  * [FFI](#ffi)
-  * [Formatters](#formatters)
-  * [IDEs](#ides)
-  * [Profiling](#profiling)
-  * [Services](#services)
-  * [Static analysis](#static-analysis)
-  * [Testing](#testing)
-  * [Transpiling](#transpiling)
-  * [Tunnel](#tunnel)
+  - [Build system](#build-system)
+  - [Debugging](#debugging)
+  - [Deployment](#deployment)
+  - [Embedded](#embedded-1)
+  - [FFI](#ffi)
+  - [Formatters](#formatters)
+  - [IDEs](#ides)
+  - [Profiling](#profiling)
+  - [Services](#services)
+  - [Static analysis](#static-analysis)
+  - [Testing](#testing)
+  - [Transpiling](#transpiling)
+  - [Tunnel](#tunnel)
 - [Libraries](#libraries)
-  * [Artificial Intelligence](#artificial-intelligence)
-    + [Genetic algorithms](#genetic-algorithms)
-    + [Google Gemini](#google-gemini)
-    + [Machine learning](#machine-learning)
-    + [OpenAI](#openai)
-    + [Tooling](#tooling)
-  * [Astronomy](#astronomy)
-  * [Asynchronous](#asynchronous)
-  * [Audio and Music](#audio-and-music-1)
-  * [Authentication](#authentication)
-  * [Automotive](#automotive)
-  * [Bioinformatics](#bioinformatics)
-  * [Caching](#caching)
-  * [Cloud](#cloud)
-  * [Command-line](#command-line)
-  * [Compression](#compression)
-  * [Computation](#computation)
-  * [Concurrency](#concurrency)
-  * [Configuration](#configuration)
-  * [Cryptography](#cryptography)
-  * [Data processing](#data-processing)
-  * [Data streaming](#data-streaming)
-  * [Data structures](#data-structures)
-  * [Data visualization](#data-visualization)
-  * [Database](#database-1)
-  * [Date and time](#date-and-time)
-  * [Distributed systems](#distributed-systems)
-  * [Domain driven design](#domain-driven-design)
-  * [eBPF](#ebpf)
-  * [Email](#email)
-  * [Encoding](#encoding)
-  * [Filesystem](#filesystem)
-  * [Finance](#finance-1)
-  * [Functional Programming](#functional-programming)
-  * [Game development](#game-development)
-  * [Geospatial](#geospatial)
-  * [Graph algorithms](#graph-algorithms)
-  * [Graphics](#graphics-1)
-  * [GUI](#gui)
-  * [Image processing](#image-processing-1)
-  * [Language specification](#language-specification)
-  * [Licensing](#licensing)
-  * [Logging](#logging)
-  * [Macro](#macro)
-  * [Markup language](#markup-language)
-  * [Mobile](#mobile)
-  * [Network programming](#network-programming)
-  * [Parsing](#parsing)
-  * [Peripherals](#peripherals)
-  * [Platform specific](#platform-specific)
-  * [Reverse engineering](#reverse-engineering)
-  * [Scripting](#scripting)
-  * [Simulation](#simulation)
-  * [Social networks](#social-networks-1)
-  * [System](#system)
-  * [Task scheduling](#task-scheduling-1)
-  * [Template engine](#template-engine)
-  * [Text processing](#text-processing-1)
-  * [Text search](#text-search)
-  * [Unsafe](#unsafe)
-  * [Video](#video-1)
-  * [Virtualization](#virtualization-1)
-  * [Web programming](#web-programming)
+  - [Artificial Intelligence](#artificial-intelligence)
+    - [Genetic algorithms](#genetic-algorithms)
+    - [Google Gemini](#google-gemini)
+    - [Machine learning](#machine-learning)
+    - [OpenAI](#openai)
+    - [Tooling](#tooling)
+  - [Astronomy](#astronomy)
+  - [Asynchronous](#asynchronous)
+  - [Audio and Music](#audio-and-music-1)
+  - [Authentication](#authentication)
+  - [Automotive](#automotive)
+  - [Bioinformatics](#bioinformatics)
+  - [Caching](#caching)
+  - [Cloud](#cloud)
+  - [Command-line](#command-line)
+  - [Compression](#compression)
+  - [Computation](#computation)
+  - [Concurrency](#concurrency)
+  - [Configuration](#configuration)
+  - [Cryptography](#cryptography)
+  - [Data processing](#data-processing)
+  - [Data streaming](#data-streaming)
+  - [Data structures](#data-structures)
+  - [Data visualization](#data-visualization)
+  - [Database](#database-1)
+  - [Date and time](#date-and-time)
+  - [Distributed systems](#distributed-systems)
+  - [Domain driven design](#domain-driven-design)
+  - [eBPF](#ebpf)
+  - [Email](#email)
+  - [Encoding](#encoding)
+  - [Filesystem](#filesystem)
+  - [Finance](#finance-1)
+  - [Functional Programming](#functional-programming)
+  - [Game development](#game-development)
+  - [Geospatial](#geospatial)
+  - [Graph algorithms](#graph-algorithms)
+  - [Graphics](#graphics-1)
+  - [GUI](#gui)
+  - [Image processing](#image-processing-1)
+  - [Language specification](#language-specification)
+  - [Licensing](#licensing)
+  - [Logging](#logging)
+  - [Macro](#macro)
+  - [Markup language](#markup-language)
+  - [Mobile](#mobile)
+  - [Network programming](#network-programming)
+  - [Parsing](#parsing)
+  - [Peripherals](#peripherals)
+  - [Platform specific](#platform-specific)
+  - [Reverse engineering](#reverse-engineering)
+  - [Scripting](#scripting)
+  - [Simulation](#simulation)
+  - [Social networks](#social-networks-1)
+  - [System](#system)
+  - [Task scheduling](#task-scheduling-1)
+  - [Template engine](#template-engine)
+  - [Text processing](#text-processing-1)
+  - [Text search](#text-search)
+  - [Unsafe](#unsafe)
+  - [Video](#video-1)
+  - [Virtualization](#virtualization-1)
+  - [Web programming](#web-programming)
 - [Registries](#registries)
 - [Resources](#resources)
 - [License](#license)
-
-<!-- tocstop -->
+<!-- END mktoc -->
 
 ## Applications
 
@@ -315,7 +312,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) [![GitHub stars](https://img.shields.io/github/stars/PumpkinDB/PumpkinDB?style=flat)](https://github.com/PumpkinDB/PumpkinDB/stargazers) - an event sourcing database engine
 * [Qdrant](https://github.com/qdrant/qdrant) [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=flat)](https://github.com/qdrant/qdrant/stargazers) - An open source vector similarity search engine with extended filtering support [![Tests](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant/actions/workflows/rust.yml/badge.svg?style=flat)](https://github.com/qdrant/qdrant/actions/workflows/rust.yml/badge.svg/stargazers)](https://github.com/qdrant/qdrant/actions)
 * [Qrlew/qrlew](https://github.com/Qrlew/qrlew) [[qrlew](https://crates.io/crates/qrlew)] - The SQL-to-SQL Differential Privacy layer [![Qrlew](https://github.com/Qrlew/qrlew/actions/workflows/ci.yml/badge.svg)](https://github.com/Qrlew/qrlew/actions) ![Crates.io Version](https://img.shields.io/crates/v/qrlew?logo=Rust)
-* [QuillSQL](https://github.com/feichai0017/QuillSQL) [![GitHub stars](https://img.shields.io/github/stars/feichai0017/QuillSQL?style=flat)](https://github.com/feichai0017/QuillSQL/stargazers) - An educational Rust relational database (RDBMS) inspired by CMU 15445
 * [RisingWaveLabs/RisingWave](https://github.com/RisingWaveLabs/risingwave) [![GitHub stars](https://img.shields.io/github/stars/RisingWaveLabs/risingwave?style=flat)](https://github.com/RisingWaveLabs/risingwave/stargazers) - the next-generation streaming database in the cloud [![CI](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg?style=flat)](https://github.com/risingwavelabs/risingwave/actions/workflows/labeler.yml/badge.svg/stargazers)](https://github.com/risingwavelabs/risingwave/actions)
 * [RustFS](https://github.com/rustfs/rustfs) [![GitHub stars](https://img.shields.io/github/stars/rustfs/rustfs?style=flat)](https://github.com/rustfs/rustfs/stargazers) [[RustFS](https://crates.io/crates/rustfs)] - 🚀 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  [![status-badge](https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/rustfs/rustfs/actions/workflows/ci.yml/badge.svg?style=flat)](https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg/stargazers)](https://github.com/rustfs/rustfs)
 * [ruvnet/ruvector](https://github.com/ruvnet/ruvector) [![GitHub stars](https://img.shields.io/github/stars/ruvnet/ruvector?style=flat)](https://github.com/ruvnet/ruvector/stargazers) [[ruvector-core](https://crates.io/crates/ruvector-core)] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.
@@ -572,6 +568,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) [![GitHub stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=flat)](https://github.com/tinyhumansai/openhuman/stargazers) - Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.
 * [tover0314-w/opentypeless](https://github.com/tover0314-w/opentypeless) [![GitHub stars](https://img.shields.io/github/stars/tover0314-w/opentypeless?style=flat)](https://github.com/tover0314-w/opentypeless/stargazers) - Cross-platform AI voice typing app built with Tauri and Rust.
 * [tw93/Pake](https://github.com/tw93/Pake) [![GitHub stars](https://img.shields.io/github/stars/tw93/Pake?style=flat)](https://github.com/tw93/Pake/stargazers) - Turn any webpage into a desktop app with one command using Rust and Tauri. Lightweight, fast, and supports macOS, Windows, and Linux.
+* [VisiGrid/VisiGrid](https://github.com/VisiGrid/VisiGrid) [![GitHub stars](https://img.shields.io/github/stars/VisiGrid/VisiGrid?style=flat)](https://github.com/VisiGrid/VisiGrid/stargazers) - Native spreadsheet built like a code editor with GPUI, WASM, and a headless CLI engine.
 * [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) [![GitHub stars](https://img.shields.io/github/stars/xingkongliang/skills-manager?style=flat)](https://github.com/xingkongliang/skills-manager/stargazers) - Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.
 * [yashs662/rust_kanban](https://github.com/yashs662/rust_kanban) [![GitHub stars](https://img.shields.io/github/stars/yashs662/rust_kanban?style=flat)](https://github.com/yashs662/rust_kanban/stargazers) [[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg?style=flat)](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg/stargazers)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
 * [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) [![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=flat)](https://github.com/Zackriya-Solutions/meetily/stargazers) - Privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your local machine. Features real-time transcription with Whisper/Parakeet models, AI-powered summaries, and support for multiple AI providers (Ollama, Claude, Groq, OpenAI)
@@ -603,7 +600,6 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [entropic-security/xgadget](https://github.com/entropic-security/xgadget) [![GitHub stars](https://img.shields.io/github/stars/entropic-security/xgadget?style=flat)](https://github.com/entropic-security/xgadget/stargazers) [[xgadget](https://crates.io/crates/xgadget)] - Fast, parallel, cross-variant ROP/JOP gadget search [![GitHub Actions](https://github.com/entropic-security/xgadget/workflows/test/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/entropic-security/xgadget/workflows/test/badge.svg?style=flat)](https://github.com/entropic-security/xgadget/workflows/test/badge.svg/stargazers)](https://github.com/entropic-security/xgadget/actions)
 * [epi052/feroxbuster](https://github.com/epi052/feroxbuster) [![GitHub stars](https://img.shields.io/github/stars/epi052/feroxbuster?style=flat)](https://github.com/epi052/feroxbuster/stargazers) - A simple, fast, recursive content discovery tool.
 * [getprovenant/provenant](https://github.com/getprovenant/provenant) [![GitHub stars](https://img.shields.io/github/stars/getprovenant/provenant?style=flat)](https://github.com/getprovenant/provenant/stargazers) [[provenant-cli](https://crates.io/crates/provenant-cli)] - Fast license, copyright, package, and SBOM scanner that emits CycloneDX and SPDX with a complete, closed dependency inventory; static and offline. [![CI](https://github.com/getprovenant/provenant/actions/workflows/check.yml/badge.svg?branch=main) [![GitHub stars](https://img.shields.io/github/stars/getprovenant/provenant/actions/workflows/check.yml/badge.svg?branch=main?style=flat)](https://github.com/getprovenant/provenant/actions/workflows/check.yml/badge.svg?branch=main/stargazers)](https://github.com/getprovenant/provenant/actions/workflows/check.yml)
-* [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) [![GitHub stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=flat)](https://github.com/InnerWarden/innerwarden/stargazers) - Self-defending security agent for Linux and macOS with 22 eBPF kernel hooks, 39 detectors, and AI-driven incident response [![CI](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg?style=flat)](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg/stargazers)](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml)
 * [Inspektor](https://github.com/inspektor-dev/inspektor) [![GitHub stars](https://img.shields.io/github/stars/inspektor-dev/inspektor?style=flat)](https://github.com/inspektor-dev/inspektor/stargazers) - A database protocol-aware proxy that is used to enforce access policies 👮
 * [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) [![GitHub stars](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat)](https://github.com/kpcyrd/authoscope/stargazers) - A scriptable network authentication cracker
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) [![GitHub stars](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat)](https://github.com/kpcyrd/rshijack/stargazers) - A TCP connection hijacker; rewrite of shijack
@@ -622,7 +618,6 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [secluso](https://github.com/secluso/core) [![GitHub stars](https://img.shields.io/github/stars/secluso/core?style=flat)](https://github.com/secluso/core/stargazers) - A private Raspberry Pi home security camera that uses end-to-end encryption
 * [sherlock](https://github.com/jonaylor89/sherlock-rs) [![GitHub stars](https://img.shields.io/github/stars/jonaylor89/sherlock-rs?style=flat)](https://github.com/jonaylor89/sherlock-rs/stargazers) [[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg?style=flat)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg/stargazers)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml)
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) [![GitHub stars](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat)](https://github.com/ssh-vault/ssh-vault/stargazers) - A simple tool to manage secrets using ssh keys for encryption and decryption.
-* [SystemVll/TAuth](https://github.com/SystemVll/TAuth) [![GitHub stars](https://img.shields.io/github/stars/SystemVll/TAuth?style=flat)](https://github.com/SystemVll/TAuth/stargazers) - An easy and user friendly 2FA & Credentials manager, for your PC.
 * [timescale/rsigma](https://github.com/timescale/rsigma) [![GitHub stars](https://img.shields.io/github/stars/timescale/rsigma?style=flat)](https://github.com/timescale/rsigma/stargazers) [[rsigma](https://crates.io/crates/rsigma)] - A complete detection engineering toolkit for the Sigma detection standard, with a parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP [![CI](https://github.com/timescale/rsigma/actions/workflows/ci.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/timescale/rsigma/actions/workflows/ci.yml/badge.svg?style=flat)](https://github.com/timescale/rsigma/actions/workflows/ci.yml/badge.svg/stargazers)](https://github.com/timescale/rsigma/actions/workflows/ci.yml)
 
 ### Social networks
@@ -784,6 +779,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) [![GitHub stars](https://img.shields.io/github/stars/AchetaGames/Epic-Asset-Manager?style=flat)](https://github.com/AchetaGames/Epic-Asset-Manager/stargazers) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 * [evansmurithi/cloak](https://github.com/evansmurithi/cloak) [![GitHub stars](https://img.shields.io/github/stars/evansmurithi/cloak?style=flat)](https://github.com/evansmurithi/cloak/stargazers) - A Command Line OTP (One Time Password) Authenticator application. ![CI](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/evansmurithi/cloak/workflows/CI/badge.svg?style=flat)](https://github.com/evansmurithi/cloak/workflows/CI/badge.svg/stargazers) [![build badge](https://ci.appveyor.com/api/projects/status/9mlfpfru3ng4c689/branch/master?svg=true)](https://ci.appveyor.com/project/evansmurithi/cloak)
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) [![GitHub stars](https://img.shields.io/github/stars/fcsonline/tmux-thumbs?style=flat)](https://github.com/fcsonline/tmux-thumbs/stargazers) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+* [fosk/emplace](https://codeberg.org/fosk/emplace) [[emplace](https://crates.io/crates/emplace)] - Synchronize installed packages on multiple machines
 * [gitlogue](https://github.com/unhappychoice/gitlogue) [![GitHub stars](https://img.shields.io/github/stars/unhappychoice/gitlogue?style=flat)](https://github.com/unhappychoice/gitlogue/stargazers) - A TUI screensaver that visualizes Git commit history in your terminal
 * [guoxbin/dtool](https://github.com/guoxbin/dtool) [![GitHub stars](https://img.shields.io/github/stars/guoxbin/dtool?style=flat)](https://github.com/guoxbin/dtool/stargazers) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 * [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) [[pixtuoid](https://crates.io/crates/pixtuoid)] - Terminal pixel-art office that visualizes Claude Code sessions as animated coworkers in real time. [![CI](https://img.shields.io/github/actions/workflow/status/IvanWng97/pixtuoid/ci.yml?branch=main)](https://github.com/IvanWng97/pixtuoid/actions/workflows/ci.yml)
@@ -812,8 +808,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [tareqmy/gitwig](https://github.com/tareqmy/gitwig) [![GitHub stars](https://img.shields.io/github/stars/tareqmy/gitwig?style=flat)](https://github.com/tareqmy/gitwig/stargazers) [[CRATE](https://crates.io/crates/gitwig)] - A mouse-drivable git TUI and multi-repo dashboard.
 * [television](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
 * [Thoth](https://github.com/anitnilay20/thoth) [![GitHub stars](https://img.shields.io/github/stars/anitnilay20/thoth?style=flat)](https://github.com/anitnilay20/thoth/stargazers) - A high-performance, feature-rich desktop application for viewing and exploring JSON and NDJSON files, with WASM-based plugin support. [![CI](https://github.com/anitnilay20/thoth/workflows/CI/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/anitnilay20/thoth/workflows/CI/badge.svg?style=flat)](https://github.com/anitnilay20/thoth/workflows/CI/badge.svg/stargazers)](https://github.com/anitnilay20/thoth/actions/workflows/ci.yml)
-* [tversteeg/emplace](https://github.com/tversteeg/emplace) [![GitHub stars](https://img.shields.io/github/stars/tversteeg/emplace?style=flat)](https://github.com/tversteeg/emplace/stargazers) - Synchronize installed packages on multiple machines
-* [vamolessa/verco](https://github.com/vamolessa/verco) [![GitHub stars](https://img.shields.io/github/stars/vamolessa/verco?style=flat)](https://github.com/vamolessa/verco/stargazers) [[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
+* [vamolessa/verco](https://git.sr.ht/~lessa/verco) [[verco](https://crates.io/crates/verco)] - A simple Git/Hg tui client focused on keyboard shortcuts
 * [vaultwarden](https://github.com/dani-garcia/vaultwarden#readme) [![GitHub stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat)](https://github.com/dani-garcia/vaultwarden/stargazers) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg?style=flat)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg/stargazers)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
 * [veirt/weathr](https://github.com/Veirt/weathr) [![GitHub stars](https://img.shields.io/github/stars/Veirt/weathr?style=flat)](https://github.com/Veirt/weathr/stargazers) [[weathr](https://crates.io/crates/weathr)] - A terminal weather app with ASCII animation. [![Release](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/Veirt/weathr/actions/workflows/release.yml/badge.svg?style=flat)](https://github.com/Veirt/weathr/actions/workflows/release.yml/badge.svg/stargazers)](https://github.com/Veirt/weathr/actions/workflows/release.yml)
 * [Vibe](https://github.com/thewh1teagle/vibe) [![GitHub stars](https://img.shields.io/github/stars/thewh1teagle/vibe?style=flat)](https://github.com/thewh1teagle/vibe/stargazers) - Transcribe audio or video in every language on every platform.
@@ -901,7 +896,6 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [clippy](https://crates.io/crates/clippy) - Rust lints
 * [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) [![GitHub stars](https://img.shields.io/github/stars/clog-tool/clog-cli?style=flat)](https://github.com/clog-tool/clog-cli/stargazers) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 * [cloudflare/foundations](https://github.com/cloudflare/foundations) [![GitHub stars](https://img.shields.io/github/stars/cloudflare/foundations?style=flat)](https://github.com/cloudflare/foundations/stargazers) - Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.
-* [comtrya](https://github.com/comtrya/comtrya) [![GitHub stars](https://img.shields.io/github/stars/comtrya/comtrya?style=flat)](https://github.com/comtrya/comtrya/stargazers) - A configuration management tool for localhost / dotfiles [![build badge](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/comtrya/comtrya/actions/workflows/main.yaml/badge.svg?style=flat)](https://github.com/comtrya/comtrya/actions/workflows/main.yaml/badge.svg/stargazers)](https://github.com/comtrya/comtrya/actions)
 * [create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/create-rust-app)
 * [dan-t/rusty-tags](https://github.com/dan-t/rusty-tags) [![GitHub stars](https://img.shields.io/github/stars/dan-t/rusty-tags?style=flat)](https://github.com/dan-t/rusty-tags/stargazers) - create ctags/etags for a cargo project and all of its dependencies
 * [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) [![GitHub stars](https://img.shields.io/github/stars/datanymizer/datanymizer?style=flat)](https://github.com/datanymizer/datanymizer/stargazers) - Powerful database anonymizer with flexible rules [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main) [![GitHub stars](https://img.shields.io/github/stars/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main?style=flat)](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main/stargazers)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
@@ -1180,6 +1174,7 @@ See also [Rust Tools](https://rust-lang.org/tools/).
   * [d-e-s-o/test-log](https://github.com/d-e-s-o/test-log) [![GitHub stars](https://img.shields.io/github/stars/d-e-s-o/test-log?style=flat)](https://github.com/d-e-s-o/test-log/stargazers) [[test-log](https://crates.io/crates/test-log)] - A replacement of the `#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main) [![GitHub stars](https://img.shields.io/github/stars/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main?style=flat)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main/stargazers)](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml)
   * [demonstrate](https://crates.io/crates/demonstrate) - Declarative Testing Framework
   * [GoogleTest Rust](https://crates.io/crates/googletest) - Powerful test assertion framework based on the C++ test library GoogleTest [![Build Status](https://github.com/google/googletest-rust/workflows/CI/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/google/googletest-rust/workflows/CI/badge.svg?style=flat)](https://github.com/google/googletest-rust/workflows/CI/badge.svg/stargazers)](https://github.com/google/googletest-rust/actions?query=workflow%3ACI+branch%3Amain)
+  * [hovinen/test-that](https://github.com/hovinen/test-that) [![GitHub stars](https://img.shields.io/github/stars/hovinen/test-that?style=flat)](https://github.com/hovinen/test-that/stargazers) [[test-that](https://crates.io/crates/test-that)] - An assertion library for Rust, based on GoogleTest Rust and from its original author. [![Build Status](https://github.com/hovinen/test-that/actions/workflows/ci.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/hovinen/test-that/actions/workflows/ci.yml/badge.svg?style=flat)](https://github.com/hovinen/test-that/actions/workflows/ci.yml/badge.svg/stargazers)](https://github.com/hovinen/test-that/actions?query=workflow%3ACI+branch%3Amain)
   * [nextest-rs/nextest](https://github.com/nextest-rs/nextest) [[cargo-nextest](https://crates.io/crates/cargo-nextest)] - Next-generation test runner for Rust with parallel test execution, faster test runs, advanced filtering, and rich output. [![cargo-nextest on crates.io](https://img.shields.io/crates/v/cargo-nextest)](https://crates.io/crates/cargo-nextest)
   * [rlt](https://github.com/wfxr/rlt) [![GitHub stars](https://img.shields.io/github/stars/wfxr/rlt?style=flat)](https://github.com/wfxr/rlt/stargazers) - A universal load testing framework, with real-time tui support.
   * [rstest](https://crates.io/crates/rstest) - Fixture-based test framework [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master) [![GitHub stars](https://img.shields.io/github/stars/la10736/rstest/workflows/Test/badge.svg?branch=master?style=flat)](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master/stargazers)](https://github.com/la10736/rstest/actions)
@@ -1563,6 +1558,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) [![GitHub stars](https://img.shields.io/github/stars/ironcalc/IronCalc?style=flat)](https://github.com/ironcalc/IronCalc/stargazers) [[ironcalc](https://crates.io/crates/ironcalc)] - A new, modern, work-in-progress spreadsheet engine.
 * [kernelmachine/utah](https://github.com/kernelmachine/utah) [![GitHub stars](https://img.shields.io/github/stars/kernelmachine/utah?style=flat)](https://github.com/kernelmachine/utah/stargazers) - Dataframe structure and operations
 * [lakehq/sail](https://github.com/lakehq/sail) [![GitHub stars](https://img.shields.io/github/stars/lakehq/sail?style=flat)](https://github.com/lakehq/sail/stargazers) - Sail is a drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
+* [logisky/LogiSheets](https://github.com/logisky/LogiSheets) [![GitHub stars](https://img.shields.io/github/stars/logisky/LogiSheets?style=flat)](https://github.com/logisky/LogiSheets/stargazers) [[logisheets-rs](https://crates.io/crates/logisheets-rs)] - A new, modern spreadsheet engine that drives real products.
+* [openooxml/betteroffice](https://github.com/openooxml/betteroffice) [![GitHub stars](https://img.shields.io/github/stars/openooxml/betteroffice?style=flat)](https://github.com/openooxml/betteroffice/stargazers) - Native OOXML engines for DOCX, XLSX and PPTX: editing, layout, rendering, CRDT collaboration and agent editing, compiled to WebAssembly.
 * [pathwaycom/pathway](https://github.com/pathwaycom/pathway) [![GitHub stars](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat)](https://github.com/pathwaycom/pathway/stargazers) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 * [pg_analytics](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) [![GitHub stars](https://img.shields.io/github/stars/paradedb/paradedb/tree/dev/pg_analytics?style=flat)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics/stargazers) - PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 * [pg_lakehouse](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) [![GitHub stars](https://img.shields.io/github/stars/paradedb/paradedb/tree/dev/pg_lakehouse?style=flat)](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse/stargazers) - PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
@@ -1646,6 +1643,8 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     * [vhbit/lmdb-rs](https://github.com/vhbit/lmdb-rs) [![GitHub stars](https://img.shields.io/github/stars/vhbit/lmdb-rs?style=flat)](https://github.com/vhbit/lmdb-rs/stargazers) [[lmdb-rs](https://crates.io/crates/lmdb-rs)] - Rust bindings for LMDB
   * MongoDB [[mongodb](https://crates.io/keywords/mongodb)]
     * [mongodb/mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-rust-driver?style=flat)](https://github.com/mongodb/mongo-rust-driver/stargazers) [[mongodb](https://crates.io/crates/mongodb)] - [MongoDB](https://www.mongodb.com/) bindings
+  * [MongrelDB](https://www.mongreldb.com)
+    * [visorcraft/MongrelDB](https://github.com/visorcraft/MongrelDB) [![GitHub stars](https://img.shields.io/github/stars/visorcraft/MongrelDB?style=flat)](https://github.com/visorcraft/MongrelDB/stargazers) [[mongreldb-core](https://crates.io/crates/mongreldb-core)] - An embedded columnar database engine with SQL, vector search, full-text search, and AI-native retrieval [![build badge](https://github.com/visorcraft/MongrelDB/actions/workflows/ci.yml/badge.svg?branch=master) [![GitHub stars](https://img.shields.io/github/stars/visorcraft/MongrelDB/actions/workflows/ci.yml/badge.svg?branch=master?style=flat)](https://github.com/visorcraft/MongrelDB/actions/workflows/ci.yml/badge.svg?branch=master/stargazers)](https://github.com/visorcraft/MongrelDB/actions/workflows/ci.yml)
   * [PickleDB](https://pythonhosted.org/pickleDB/)
     * [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs) [![GitHub stars](https://img.shields.io/github/stars/seladb/pickledb-rs?style=flat)](https://github.com/seladb/pickledb-rs/stargazers) - a lightweight and simple key-value store, heavily inspired by Python's PickleDB.
   * [PoloDB](https://www.polodb.org/)
@@ -1975,6 +1974,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native) [![GitHub stars](https://img.shields.io/github/stars/ivanceras/sauron-native?style=flat)](https://github.com/ivanceras/sauron-native/stargazers) - A truly native and cross platform GUI library. One unified code can be run as native GUI, Html Web and TUI.
 * [libui](https://github.com/andlabs/libui) [![GitHub stars](https://img.shields.io/github/stars/andlabs/libui?style=flat)](https://github.com/andlabs/libui/stargazers)
   * [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) [![GitHub stars](https://img.shields.io/github/stars/rust-native-ui/libui-rs?style=flat)](https://github.com/rust-native-ui/libui-rs/stargazers) - libui bindings.
+* [linebender/xilem](https://github.com/linebender/xilem) [[xilem](https://crates.io/crates/xilem)] - Experimental reactive UI framework for Rust inspired by React, SwiftUI, and Elm. Built on Masonry, Vello/wgpu, Parley, and AccessKit with web and native backends. [![CI](https://img.shields.io/github/actions/workflow/status/linebender/xilem/ci.yml?logo=github&label=CI)](https://github.com/linebender/xilem/actions)
 * [longbridge/gpui-component](https://github.com/longbridge/gpui-component) [![GitHub stars](https://img.shields.io/github/stars/longbridge/gpui-component?style=flat)](https://github.com/longbridge/gpui-component/stargazers) [[gpui-component](https://crates.io/crates/gpui-component)] - UI components for building fantastic desktop applications using GPUI.
 * [makepad/makepad](https://github.com/makepad/makepad) [![GitHub stars](https://img.shields.io/github/stars/makepad/makepad?style=flat)](https://github.com/makepad/makepad/stargazers) [[makepad-widgets](https://crates.io/crates/makepad-widgets)] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) [![GitHub stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=flat)](https://github.com/Immediate-Mode-UI/Nuklear/stargazers)
@@ -2185,6 +2185,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 * [binlex](https://github.com/c3rb3ru5d3d53c/binlex) [![GitHub stars](https://img.shields.io/github/stars/c3rb3ru5d3d53c/binlex?style=flat)](https://github.com/c3rb3ru5d3d53c/binlex/stargazers) - Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.
 * [idalib](https://github.com/idalib-rs/idalib) [![GitHub stars](https://img.shields.io/github/stars/idalib-rs/idalib?style=flat)](https://github.com/idalib-rs/idalib/stargazers) [[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
 * [objdiff](https://github.com/encounter/objdiff) [![GitHub stars](https://img.shields.io/github/stars/encounter/objdiff?style=flat)](https://github.com/encounter/objdiff/stargazers) - A local diffing tool for decompilation projects
+* [wakaru](https://github.com/pionxzh/wakaru) [![GitHub stars](https://img.shields.io/github/stars/pionxzh/wakaru?style=flat)](https://github.com/pionxzh/wakaru/stargazers) [[wakaru](https://crates.io/crates/wakaru)] - JavaScript decompiler: unpacks webpack/esbuild/Metro/Browserify bundles into modules and reverses minifier and Babel/TypeScript output into readable code [![CI](https://github.com/pionxzh/wakaru/actions/workflows/rust-ci.yml/badge.svg?branch=main) [![GitHub stars](https://img.shields.io/github/stars/pionxzh/wakaru/actions/workflows/rust-ci.yml/badge.svg?branch=main?style=flat)](https://github.com/pionxzh/wakaru/actions/workflows/rust-ci.yml/badge.svg?branch=main/stargazers)](https://github.com/pionxzh/wakaru/actions/workflows/rust-ci.yml)
 
 ### Scripting
 
@@ -2303,6 +2304,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
   * [actix/actix-web](https://github.com/actix/actix-web) [![GitHub stars](https://img.shields.io/github/stars/actix/actix-web?style=flat)](https://github.com/actix/actix-web/stargazers) - A lightweight async web framework with websocket support
   * [Anansi](https://github.com/saru-tora/anansi) [![GitHub stars](https://img.shields.io/github/stars/saru-tora/anansi?style=flat)](https://github.com/saru-tora/anansi/stargazers) - A simple full-stack web framework
   * [Rocket](https://github.com/rwf2/Rocket) [![GitHub stars](https://img.shields.io/github/stars/rwf2/Rocket?style=flat)](https://github.com/rwf2/Rocket/stargazers) - Rocket is a web framework with a focus on ease-of-use, expressability, and speed
+  * [RustAPI](https://github.com/Tuntii/RustAPI) [![GitHub stars](https://img.shields.io/github/stars/Tuntii/RustAPI?style=flat)](https://github.com/Tuntii/RustAPI/stargazers) [[rustapi-rs](https://crates.io/crates/rustapi-rs)] - Ergonomic web framework with compile-time OpenAPI and native MCP
   * [summer-rs](https://github.com/summer-rs/summer-rs) [![GitHub stars](https://img.shields.io/github/stars/summer-rs/summer-rs?style=flat)](https://github.com/summer-rs/summer-rs/stargazers) - summer-rs is a application framework written in rust inspired by java's spring-boot.
   * [tako](https://github.com/rust-dd/tako) [![GitHub stars](https://img.shields.io/github/stars/rust-dd/tako?style=flat)](https://github.com/rust-dd/tako/stargazers) - Tako is an asynchronous web framework for Rust on Hyper & Tokio. [GitHub Workflow Status](https://github.com/rust-dd/tako/actions/workflows/ci.yml/badge.svg) [![GitHub stars](https://img.shields.io/github/stars/rust-dd/tako/actions/workflows/ci.yml/badge.svg?style=flat)](https://github.com/rust-dd/tako/actions/workflows/ci.yml/badge.svg/stargazers)
   * [tokio-rs/axum](https://github.com/tokio-rs/axum) [![GitHub stars](https://img.shields.io/github/stars/tokio-rs/axum?style=flat)](https://github.com/tokio-rs/axum/stargazers) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main) [![GitHub stars](https://img.shields.io/github/stars/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main?style=flat)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main/stargazers)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml)

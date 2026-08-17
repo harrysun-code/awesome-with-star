@@ -8,7 +8,7 @@
 
 <p align="center"><img src="media/awesome-v-logo.svg" width="400"/></p>
 
-# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord&logo=discord&logoColor=white)](https://discord.gg/dwFTsR7fK2)
+# Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Discord](https://img.shields.io/discord/1527933660764831825?label=Discord&logo=discord&logoColor=white)](https://discord.gg/vlang)
 
 > A curated list of awesome V frameworks, libraries, software and resources.
 
@@ -146,6 +146,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Games
 
 - [Boundstone](https://github.com/organization/boundstone) [![GitHub stars](https://img.shields.io/github/stars/organization/boundstone?style=flat)](https://github.com/organization/boundstone/stargazers) - High Performance / Fast Compilation / Lightweight Minecraft: Bedrock Edition Server.
+- [Dino](https://github.com/egevtech/dino) [![GitHub stars](https://img.shields.io/github/stars/egevtech/dino?style=flat)](https://github.com/egevtech/dino/stargazers) - A simple console arcade game written in V where you control a dino and avoid cactuses and birds.
 - [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) [![GitHub stars](https://img.shields.io/github/stars/vlang/v/tree/master/examples/flappylearning?style=flat)](https://github.com/vlang/v/tree/master/examples/flappylearning/stargazers) - A simple flappy learning demo in v.
 - [Kurarin](https://github.com/FireRedz/kurarin) [![GitHub stars](https://img.shields.io/github/stars/FireRedz/kurarin?style=flat)](https://github.com/FireRedz/kurarin/stargazers) - osu! beatmap visualizer made in V. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 - [minesweeper](https://github.com/ali-furkan/minesweeper-v) [![GitHub stars](https://img.shields.io/github/stars/ali-furkan/minesweeper-v?style=flat)](https://github.com/ali-furkan/minesweeper-v/stargazers) - A simple Minesweeper game written in vlang.
@@ -421,6 +422,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [pico.v](https://github.com/S-YOU/pico.v) [![GitHub stars](https://img.shields.io/github/stars/S-YOU/pico.v?style=flat)](https://github.com/S-YOU/pico.v/stargazers) - A web server in V based on picoev and picohttpparser.
 - [sessions](https://github.com/einar-hjortdal/sessions) [![GitHub stars](https://img.shields.io/github/stars/einar-hjortdal/sessions?style=flat)](https://github.com/einar-hjortdal/sessions/stargazers) - Web-framework-agnostic sessions library.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) [![GitHub stars](https://img.shields.io/github/stars/nedpals/v-jsonrpc?style=flat)](https://github.com/nedpals/v-jsonrpc/stargazers) - Basic JSON-RPC 2.0-compliant server written on V.
+- [v-jwt](https://github.com/deatil/v-jwt) [![GitHub stars](https://img.shields.io/github/stars/deatil/v-jwt?style=flat)](https://github.com/deatil/v-jwt/stargazers) - A JWT (JSON Web Token) library for vlang.
+- [v-sm3](https://github.com/deatil/v-sm3) [![GitHub stars](https://img.shields.io/github/stars/deatil/v-sm3?style=flat)](https://github.com/deatil/v-sm3/stargazers) - A SM3 hash function for vlang.
 - [validate](https://github.com/endeveit/v-validate) [![GitHub stars](https://img.shields.io/github/stars/endeveit/v-validate?style=flat)](https://github.com/endeveit/v-validate/stargazers) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) [![GitHub stars](https://img.shields.io/github/stars/taojy123/valval?style=flat)](https://github.com/taojy123/valval/stargazers) - Web framework written in V, improved by vweb.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) [![GitHub stars](https://img.shields.io/github/stars/mehtaarn000/vcurrency?style=flat)](https://github.com/mehtaarn000/vcurrency/stargazers) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
@@ -437,6 +440,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Articles
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
+- [How To Make A V Compiler Backend](https://l-m.dev/cs/how_to_make_a_v_backend) - Walkthrough of writing a new codegen backend for V.
+- [The V WebAssembly Compiler Backend, Rewritten](https://l-m.dev/cs/the_v_webassembly_compiler_backend_rewrite) - Rewriting V's WebAssembly backend with no external dependencies.
 
 ### Books
 
@@ -478,6 +483,9 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [v-vim](https://github.com/ollykel/v-vim) [![GitHub stars](https://img.shields.io/github/stars/ollykel/v-vim?style=flat)](https://github.com/ollykel/v-vim/stargazers) - Support for V syntax highlighting in Vim.
 - [vim-v](https://github.com/cheap-glitch/vim-v) [![GitHub stars](https://img.shields.io/github/stars/cheap-glitch/vim-v?style=flat)](https://github.com/cheap-glitch/vim-v/stargazers) - Quality syntax highlighting for the V programming language.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) [![GitHub stars](https://img.shields.io/github/stars/zakuro9715/vim-vtools?style=flat)](https://github.com/zakuro9715/vim-vtools/stargazers) - V tools for Vim, including auto formatting.
+
+#### Zed
+- [zed-v](https://github.com/lv37/zed-v) [![GitHub stars](https://img.shields.io/github/stars/lv37/zed-v?style=flat)](https://github.com/lv37/zed-v/stargazers) - Support for V syntax highlighting in Zed.
 
 ### Forums
 

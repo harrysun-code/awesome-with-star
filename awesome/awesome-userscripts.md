@@ -41,7 +41,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [DuckDuckGo](#-duckduckgo)
   - [GitHub](#-github)
   - [Google](#-google)
-  - [Just Eat (UK)](#-just-eat-uk)
+  - [Instagram](#-instagram)
   - [Links](#-links)
   - [Media](#-media)
   - [Navigation](#-navigation)
@@ -72,7 +72,7 @@ Userscripts can be used w/ the following browsers:
         <tr> <!-- CHROME/CHROMIUM desktop -->
             <td> <!-- Browser -->
                 <a href="https://www.chrome.com" title="Chrome">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/chrome/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/chrome/icon16.png"
                          width=16 alt="[Install]"></a>
                 Chrome, dev builds or Chromium-based browsers (Windows, macOS, Linux)
             </td>
@@ -83,6 +83,12 @@ Userscripts can be used w/ the following browsers:
                 <a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"
                    title="Install Tampermonkey for Chrome">
                         Tampermonkey</a><sup>1</sup>
+                <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag"
+                   title="Install Violentmonkey for Chrome">
+                        <img width=16 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/9cbcecc/assets/images/icons/userscript-managers/violentmonkey/icon25.png"></a>
+                <a href="https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag"
+                   title="Install Violentmonkey for Chrome">
+                        Violentmonkey</a><sup>2</sup>
                 <a href="https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf"
                    title="Install ScriptCat for Chrome">
                         <img width=16 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/9cbcecc/assets/images/icons/userscript-managers/scriptcat/icon16.png"></a>
@@ -99,44 +105,44 @@ Userscripts can be used w/ the following browsers:
             </td>
             <td> <!-- Install browser -->
                 <a href="https://www.chrome.com" title="Chrome">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/chrome/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/chrome/icon16.png"
                          width=16 alt="[Chrome]"></a>
                 <a href="https://www.google.com/chrome/beta/" title="Chrome Beta">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/chrome/beta/icon16.svg"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/chrome/beta/icon16.svg"
                          width=16 alt="[Chrome Beta]"></a>
                 <a href="https://www.google.com/chrome/dev/" title="Chrome Dev">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/chrome/dev/icon16.svg"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/chrome/dev/icon16.svg"
                          width=16 alt="[Chrome Dev]"></a>
                 <a href="https://www.google.com/chrome/canary/" title="Chrome Canary">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/chrome/canary/icon16.svg"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/chrome/canary/icon16.svg"
                          width=16 alt="[Chrome Canary]"></a>
                 <a href="https://www.opera.com" title="Opera">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/opera/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/opera/icon16.png"
                          width=16 alt="[Opera]"></a><sup>3</sup>
                 <a href="https://www.opera.com/gx" title="Opera GX">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/opera/gx/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/opera/gx/icon16.png"
                          width=16 alt="[Opera GX]"></a><sup>3</sup>
                 <a href="https://www.opera.com/air" title="Opera Air">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/opera/air/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/opera/air/icon16.png"
                          width=16 alt="[Opera Air]"></a><sup>3</sup>
                 <a href="https://brave.com" title="Brave">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/brave/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/brave/icon16.png"
                          width=16 alt="[Brave]"></a>
                 <a href="https://vivaldi.com" title="Vivaldi">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/vivaldi/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/vivaldi/icon16.png"
                          width=16 alt="[Vivaldi]"></a>
                 <a href="https://ghostbrowser.com" title="Ghost Browser">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/ghost/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/ghost/icon16.png"
                          width=16 alt="[Ghost Browser]"></a>
                 <a href="https://whale.naver.com" title="Whale">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/whale/tiled/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/whale/tiled/icon16.png"
                          width=16 alt="[Whale]"></a>
             </td>
         </tr>
         <tr> <!-- SAFARI -->
             <td> <!-- Browser -->
                 <a href="https://www.apple.com/safari/" title="Safari">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/safari/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/safari/icon16.png"
                          width=16 alt="[Install]"></a>
                 Safari (macOS, iOS, iPadOS, visionOS)
             </td>
@@ -157,14 +163,14 @@ Userscripts can be used w/ the following browsers:
             </td>
             <td> <!-- Install browser -->
                 <a href="https://www.apple.com/safari/" title="Safari">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/safari/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/safari/icon16.png"
                          width=16 alt="[Safari]"></a>
             </td>
         </tr>
         <tr> <!-- EDGE desktop -->
             <td> <!-- Browser -->
                 <a href="https://www.microsoft.com/edge" title="Edge">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/icon16.png"
                          width=16 alt="[Install]"></a>
                 Edge or dev builds (Windows, macOS, Linux)
             </td>
@@ -197,23 +203,23 @@ Userscripts can be used w/ the following browsers:
             </td>
             <td> <!-- Install browser -->
                 <a href="https://www.microsoft.com/edge/download" title="Edge">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/icon16.png"
                          width=16 alt="[Edge]"></a>
                 <a href="https://www.microsoft.com/edge/download/insider" title="Edge Beta">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/beta/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/beta/icon16.png"
                          width=16 alt="[Edge Beta]"></a>
                 <a href="https://www.microsoft.com/edge/download/insider" title="Edge Dev">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/dev/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/dev/icon16.png"
                          width=16 alt="[Edge Dev]"></a>
                 <a href="https://www.microsoft.com/edge/download/insider" title="Edge Canary">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/canary/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/canary/icon16.png"
                          width=16 alt="[Edge Canary]"></a>
             </td>
         </tr>
         <tr> <!-- EDGE Android -->
             <td> <!-- Browser -->
                 <a href="https://play.google.com/store/apps/details?id=com.microsoft.emmx" title="Edge for Android">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/icon16.png"
                          width=16 alt="[Install]"></a>
                 Edge or dev builds (Android)
             </td>
@@ -230,26 +236,26 @@ Userscripts can be used w/ the following browsers:
             <td> <!-- Install browser -->
                 <a href="https://play.google.com/store/apps/details?id=com.microsoft.emmx"
                    title="Edge for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/icon16.png"
                              width=16 alt="[Edge for Android]"></a>
                 <a href="https://play.google.com/store/apps/details?id=com.microsoft.emmx.beta"
                    title="Edge Beta for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/beta/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/beta/icon16.png"
                              width=16 alt="[Edge Beta for Android]"></a>
                 <a href="https://play.google.com/store/apps/details?id=com.microsoft.emmx.dev"
                    title="Edge Dev for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/dev/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/dev/icon16.png"
                              width=16 alt="[Edge Dev for Android]"></a>
                 <a href="https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary"
                    title="Edge Canary for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/edge/canary/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/edge/canary/icon16.png"
                              width=16 alt="[Edge Canary for Android]"></a>
             </td>
         </tr>
         <tr> <!-- FIREFOX/GECKO desktop -->
             <td> <!-- Browser -->
                 <a href="https://www.firefox.com" title="Firefox">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/icon16.png"
                          width=16 alt="[Install]"></a>
                 Firefox, dev builds or Gecko-based browsers (Windows, macOS, Linux)
             </td>
@@ -276,26 +282,26 @@ Userscripts can be used w/ the following browsers:
             </td>
             <td> <!-- Install browser -->
                 <a href="https://www.firefox.com" title="Firefox">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/icon16.png"
                          width=16 alt="[Firefox]"></a>
                 <a href="https://download.mozilla.org/?product=firefox-beta-stub" title="Firefox Beta">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/beta/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/beta/icon16.png"
                          width=16 alt="[Firefox Beta]"></a>
                 <a href="https://download.mozilla.org/?product=firefox-nightly-stub" title="Firefox Nightly">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/nightly/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/nightly/icon16.png"
                          width=16 alt="[Firefox Nightly]"></a>
                 <a href="https://www.waterfox.net" title="Waterfox">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/waterfox/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/waterfox/icon16.png"
                          width=16 alt="[Waterfox]"></a>
                 <a href="https://librewolf.net" title="LibreWolf">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/librewolf/icon16.svg"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/librewolf/icon16.svg"
                          width=16 alt="[LibreWolf]"></a>
             </td>
         </tr>
         <tr> <!-- FIREFOX/GECKO Android -->
             <td> <!-- Browser -->
                 <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox" title="Firefox for Android">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/icon16.png"
                          width=16 alt="[Install]"></a>
                 Firefox, dev builds or Gecko-based browsers (Android)
             </td>
@@ -323,38 +329,38 @@ Userscripts can be used w/ the following browsers:
             <td> <!-- Install browser -->
                 <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox"
                    title="Firefox for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/icon16.png"
                              width=16 alt="[Firefox for Android]"></a>
                 <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta"
                    title="Firefox Beta for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/beta/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/beta/icon16.png"
                              width=16 alt="[Firefox Beta for Android]"></a>
                 <a href="https://play.google.com/store/apps/details?id=org.mozilla.fenix"
                    title="Firefox Nightly for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/firefox/nightly/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/firefox/nightly/icon16.png"
                              width=16 alt="[Firefox Nightly for Android]"></a>
                 <a href="https://play.google.com/store/apps/details?id=net.waterfox.android.release"
                    title="Waterfox for Android">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/waterfox/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/waterfox/icon16.png"
                              width=16 alt="[Waterfox for Android]"></a>
                 <a href="https://f-droid.org/packages/org.mozilla.fennec_fdroid/"
                    title="Fennec">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/fennec/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/fennec/icon16.png"
                              width=16 alt="[Fennec]"></a>
                 <a href="https://github.com/fork-maintainers/iceraven-browser/releases"
                    title="Iceraven">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/iceraven/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/iceraven/icon16.png"
                              width=16 alt="[Iceraven]"></a>
                 <a href="https://gitlab.com/ironfox-oss/IronFox/-/releases"
                    title="IronFox">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/ironfox/icon16.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/ironfox/icon16.png"
                              width=16 alt="[IronFox]"></a>
             </td>
         </tr>
         <tr> <!-- QQ BROWSER desktop -->
             <td> <!-- Browser -->
                 <a href="https://browser.qq.com" title="QQ Browser">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/qq/gradient-bg/bluer/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/qq/gradient-bg/bluer/icon16.png"
                          width=16 alt="[Install]"></a>
                 QQ Browser (Windows, macOS)
             </td>
@@ -363,14 +369,14 @@ Userscripts can be used w/ the following browsers:
             </td>
             <td> <!-- Install browser -->
                 <a href="https://browser.qq.com" title="QQ Browser">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/qq/gradient-bg/bluer/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/qq/gradient-bg/bluer/icon16.png"
                          width=16 alt="[QQ Browser]"></a>
             </td>
         </tr>
         <tr> <!-- MISES mobile -->
             <td> <!-- Browser -->
                 <a href="https://www.mises.site" title="Mises">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/mises/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/mises/icon16.png"
                          width=16 alt="[Install]"></a>
                 Mises (Android, iOS, iPadOS)
             </td>
@@ -393,15 +399,15 @@ Userscripts can be used w/ the following browsers:
                 <details>
                     <summary>Show QR code</summary>
                     <a href="https://www.mises.site/download" title="Download Mises">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/qr-codes/browsers/mises/download-page/with-icon/purple.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/qr-codes/browsers/mises/download-page/with-icon/purple.png"
                              width=125 alt="[Download Mises]"></a>
-                </detail>
+                </details>
             </td>
         </tr>
         <tr> <!-- LEMUR Android/iOS -->
             <td> <!-- Browser -->
                 <a href="https://www.lemurbrowser.com" title="Lemur">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/lemur/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/lemur/icon16.png"
                          width=16 alt="[Install]"></a>
                 Lemur (Android, iOS)
             </td>
@@ -417,7 +423,7 @@ Userscripts can be used w/ the following browsers:
                 <details>
                     <summary>Show QR code</summary>
                     <a href="https://www.lemurbrowser.com" title="Lemur">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/qr-codes/browsers/lemur/homepage/with-icon/teal.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/qr-codes/browsers/lemur/homepage/with-icon/teal.png"
                              width=125 alt="[Lemur]"></a>
                 </details>
             </td>
@@ -425,7 +431,7 @@ Userscripts can be used w/ the following browsers:
         <tr> <!-- QUETTA mobile -->
             <td> <!-- Browser -->
                 <a href="https://www.quetta.net" title="Quetta">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/quetta/circled/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/quetta/circled/icon16.png"
                          width=16 alt="[Install]"></a>
                 Quetta (Android, iOS, iPadOS)
             </td>
@@ -441,15 +447,15 @@ Userscripts can be used w/ the following browsers:
                 <details>
                     <summary>Show QR code</summary>
                     <a href="https://www.quetta.net" title="Quetta">
-                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/qr-codes/browsers/quetta/homepage/with-icon/red.png"
+                        <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/qr-codes/browsers/quetta/homepage/with-icon/red.png"
                              width=125 alt="[Quetta]"></a>
-                </detail>
+                </details>
             </td>
         </tr>
         <tr> <!-- ORION iOS/iPadOS -->
             <td> <!-- Browser -->
                 <a href="https://apps.apple.com/app/orion-browser-by-kagi/id1484498200" title="Orion">
-                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/icons/browsers/orion/icon16.png"
+                    <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/icons/browsers/orion/icon16.png"
                          width=16 alt="[Install]"></a>
                 Orion (iOS, iPadOS)
             </td>
@@ -479,7 +485,7 @@ Userscripts can be used w/ the following browsers:
                     <summary>Show QR code</summary>
                     <a href="https://apps.apple.com/app/orion-browser-by-kagi/id1484498200"
                        title="Orion on Apple App Store">
-                            <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/main/assets/images/qr-codes/browsers/orion/apple-app-store/with-icon/purple.png"
+                            <img src="https://cdn.staticdelivr.com/gl/adamlui/ai-web-extensions/52d26ee3fb5b6f6bb92498f0e82c0d226b621fb0/assets/images/qr-codes/browsers/orion/apple-app-store/with-icon/purple.png"
                                  width=125 alt="[Orion on Apple App Store]"></a>
                 </details>
             </td>
@@ -542,37 +548,33 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Block Quora Poe -->
-    <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6906/block-quora-poe.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        📖 <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/userscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/userscripts/issues">
+        🐛 <a href="https://codeberg.org/adamlui/userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
 
 <details> <!-- ChatGPT Widescreen -->
-    <summary><a href="https://github.com/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-widescreen/0ba78c7/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -691,19 +693,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Autoclear ChatGPT History -->
-    <summary><a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/autoclear-chatgpt-history@4f5c5fa/assets/images/screenshots/demo.png"></a>
+        <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
+            <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/autoclear-chatgpt-history/30efed0/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/autoclear-chatgpt-history/refs/heads/main/greasemonkey/autoclear-chatgpt-history.user.js">
+        💾 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/raw/branch/main/greasemonkey/autoclear-chatgpt-history.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
+        📖 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+        🐛 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -727,57 +727,51 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Auto-Continue -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-continue/#readme">ChatGPT Auto-Continue</a> - Automatically continue generating answers when ChatGPT responses get cut-off.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">ChatGPT Auto-Continue</a> - Automatically continue generating answers when ChatGPT responses get cut-off.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-continue/#readme">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-continue@eb96a05/assets/images/tiles/marquee/tile625x250.png"></a>
+        <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">
+            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-continue/3d5b5b0/assets/images/tiles/marquee/tile625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/chatgpt-auto-continue/refs/heads/main/greasemonkey/chatgpt-auto-continue.user.js">
+        💾 <a href="https://codeberg.org/adamlui/ai-web-extensions/raw/branch/main/chatgpt-auto-continue/greasemonkey/chatgpt-auto-continue.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-continue/#readme">
+        📖 <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/docs/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-continue/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-continue/issues">
+        🐛 <a href="https://codeberg.org/adamlui/ai-web-extensions/issues">
             Report bug</a>
     </blockquote>
 </details>
 
 <details> <!-- ChatGPT Auto Refresh -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-refresh/#readme">ChatGPT Auto Refresh</a> - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">ChatGPT Auto Refresh</a> - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-refresh/#readme">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-refresh@1406eb7/assets/images/screenshots/gm-toggle%2Bnotification.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">
+            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-refresh/e624f14/assets/images/screenshots/gm-toggle%2Bnotification.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-refresh/#-installation">
+        💾 <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/raw/branch/main/greasemonkey/chatgpt-auto-refresh.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-refresh/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-refresh/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-refresh/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/issues">
             Report bug</a>
     </blockquote>
 </details>
 
 <details> <!-- ChatGPT Auto-Talk -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-on-notif.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-on-notif.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-talk/#-installation">
+        💾 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/raw/branch/main/greasemonkey/chatgpt-auto-talk.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -799,19 +793,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Infinity -->
-    <summary><a href="https://github.com/adamlui/chatgpt-infinity/#readme">ChatGPT Infinity</a> - Generate endless answers from all-knowing ChatGPT (on any topic!)</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-infinity/#readme">ChatGPT Infinity</a> - Generate endless answers from all-knowing ChatGPT (on any topic!)</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-infinity/#readme">
-            <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-infinity@4a7bac9/assets/images/tiles/marquee/tile-625x250.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-infinity/#readme">
+            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-infinity/34fb8e5/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6419/chatgpt-infinity.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-infinity/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-infinity/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-infinity/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-infinity/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-infinity/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -825,19 +817,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Widescreen -->
-    <summary><a href="https://github.com/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-widescreen/91656d3/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-widescreen/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1175,22 +1165,16 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/icon32.png"></picture> Just Eat (UK)
+### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@master/assets/images/icons/sites/instagram/icon32.png"> Instagram
 
-<details> <!-- Just Eat Userscript -->
-    <summary><a href="https://github.com/S4N-T0S/JustEat-userscript">Just Eat Userscript</a> - Adds dark mode and advanced filters to Just Eat UK.</summary><br>
+<details> <!-- Instagram Background Play -->
+    <summary><a href="https://github.com/Zingzy/instagram-background-play#readme">Instagram Background Play</a> - Keeps Instagram videos and reels playing when you switch tabs or windows, and keeps picture-in-picture live instead of frozen.</summary><br>
     <blockquote>
-        <a href="https://github.com/S4N-T0S/JustEat-userscript">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/S4N-T0S/JustEat-userscript@7905e8b/example.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://github.com/S4N-T0S/JustEat-userscript/raw/refs/heads/main/JustEat.user.js">
+        💾 <a href="https://raw.githubusercontent.com/Zingzy/instagram-background-play/main/instagram-background-play.user.js">
             Install</a> /
-        📖 <a href="https://github.com/S4N-T0S/JustEat-userscript/#readme">
+        📖 <a href="https://github.com/Zingzy/instagram-background-play#readme">
             Readme</a> /
-        📢 <a href="https://github.com/S4N-T0S/JustEat-userscript/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/S4N-T0S/JustEat-userscript/issues">
+        🐛 <a href="https://github.com/Zingzy/instagram-background-play/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1371,19 +1355,17 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/incognito/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/incognito/black/icon32.png"></picture> Privacy
 
 <details> <!-- Autoclear ChatGPT History -->
-    <summary><a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/autoclear-chatgpt-history@4f5c5fa/assets/images/screenshots/demo.png"></a>
+        <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
+            <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/autoclear-chatgpt-history/30efed0/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/autoclear-chatgpt-history/refs/heads/main/greasemonkey/autoclear-chatgpt-history.user.js">
+        💾 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/raw/branch/main/greasemonkey/autoclear-chatgpt-history.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/autoclear-chatgpt-history/#readme">
+        📖 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+        🐛 <a href="https://codeberg.org/adamlui/autoclear-chatgpt-history/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1427,19 +1409,17 @@ Userscripts can be used w/ the following browsers:
 ### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@4594000/assets/images/icons/sites/quora/icon32.png"> Quora
 
 <details> <!-- Block Quora Poe -->
-    <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             <img width=511 src="https://cdn.staticdelivr.com/gl/adamlui/userscripts/a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6906/block-quora-poe.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+        📖 <a href="https://codeberg.org/adamlui/userscripts/src/branch/master/block-quora-poe/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/userscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/userscripts/issues">
+        🐛 <a href="https://codeberg.org/adamlui/userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1485,7 +1465,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Letterboxd Link Badges -->
-    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Letterboxd Link Badges</a> Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Letterboxd Link Badges</a> - Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">
             <img src="https://github.com/user-attachments/assets/c389af0c-6dd7-41d6-8695-d1bbfc7c5004"></a>
@@ -1505,21 +1485,19 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/soundwaves/white/icon32.png"><img height=18 width=21 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/soundwaves/black/icon32.png"></picture> Text-to-speech
 
 <details> <!-- ChatGPT Auto-Talk -->
-    <summary><a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
+    <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
-        <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
-            <img width=300 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-auto-talk@4ff7545/assets/images/screenshots/auto-talk-on-notif.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-sidebar-toggle-enabled.png"></a>
+        <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
+            <img width=300 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-talk/165096f/assets/images/screenshots/auto-talk-on-notif.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/adamlui/ai-web-extensions/tree/main/chatgpt-auto-talk/#-installation">
+        💾 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/raw/branch/main/greasemonkey/chatgpt-auto-talk.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/chatgpt-auto-talk/#readme">
+        📖 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+        🐛 <a href="https://codeberg.org/adamlui/chatgpt-auto-talk/issues">
             Report bug</a>
     </blockquote>
 </details>

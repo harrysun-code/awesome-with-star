@@ -64,6 +64,7 @@ sellers who aren't evil for physical resources.
   - [ORMs](#orms)
   - [Persistent object databases](#persistent-object-databases)
   - [Graph databases](#graph-databases)
+  - [Key-value databases](#key-value-databases)
   - [Other DB wrappers](#other-db-wrappers)
   - [Migration tools](#migration-tools)
   - [To third parties](#to-third-parties)
@@ -457,17 +458,27 @@ and also:
 <!-- * [facts](https://github.com/cl-facts/facts) [![GitHub stars](https://img.shields.io/github/stars/cl-facts/facts?style=flat)](https://github.com/cl-facts/facts/stargazers) - an in-memory graph database with transactions and rollbacks, logging/replay and dumping/loading to/from disk. BSD-style license (ISC). -->
 
 
+Key-value databases
+------------------------
+
+* [scalaxy](https://github.com/scalaxy/scalaxy) [![GitHub stars](https://img.shields.io/github/stars/scalaxy/scalaxy?style=flat)](https://github.com/scalaxy/scalaxy/stargazers) - Multi-purpose cloud ready distributed database. MIT.
+  * https://scalaxy.org/
+
+Wrappers:
+
+* [lmdb](https://github.com/melisgl/lmdb) [![GitHub stars](https://img.shields.io/github/stars/melisgl/lmdb?style=flat)](https://github.com/melisgl/lmdb/stargazers) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+* [cl-redis](https://github.com/vseloved/cl-redis) [![GitHub stars](https://img.shields.io/github/stars/vseloved/cl-redis?style=flat)](https://github.com/vseloved/cl-redis/stargazers) - Redis client. [Expat][14].
+* [cl-ndbapi](https://github.com/datagraph/cl-ndbapi) [![GitHub stars](https://img.shields.io/github/stars/datagraph/cl-ndbapi?style=flat)](https://github.com/datagraph/cl-ndbapi/stargazers) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
+
+
 Other DB wrappers
 -----------------
 
 * [cl-memcached](https://github.com/quasi/cl-memcached) [![GitHub stars](https://img.shields.io/github/stars/quasi/cl-memcached?style=flat)](https://github.com/quasi/cl-memcached/stargazers) - Fast, thread-safe interface to the Memcached object caching system. [Expat][14].
-* [cl-redis](https://github.com/vseloved/cl-redis) [![GitHub stars](https://img.shields.io/github/stars/vseloved/cl-redis?style=flat)](https://github.com/vseloved/cl-redis/stargazers) - Redis client. [Expat][14].
 * [cl-disque](https://github.com/CodyReichert/cl-disque) [![GitHub stars](https://img.shields.io/github/stars/CodyReichert/cl-disque?style=flat)](https://github.com/CodyReichert/cl-disque/stargazers) - Disque client. [3-clause BSD][15].
 * [cl-rethinkdb](https://github.com/orthecreedence/cl-rethinkdb) [![GitHub stars](https://img.shields.io/github/stars/orthecreedence/cl-rethinkdb?style=flat)](https://github.com/orthecreedence/cl-rethinkdb/stargazers) - RethinkDB client. [Expat][14].
 * [cl-mango](https://github.com/cmoore/cl-mango/) [![GitHub stars](https://img.shields.io/github/stars/cmoore/cl-mango/?style=flat)](https://github.com/cmoore/cl-mango//stargazers) -  A minimalist CouchDB 2.x database client. BSD_3Clause.
   * See also [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
-* [lmdb](https://github.com/melisgl/lmdb) [![GitHub stars](https://img.shields.io/github/stars/melisgl/lmdb?style=flat)](https://github.com/melisgl/lmdb/stargazers) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
-* [cl-ndbapi](https://github.com/datagraph/cl-ndbapi) [![GitHub stars](https://img.shields.io/github/stars/datagraph/cl-ndbapi?style=flat)](https://github.com/datagraph/cl-ndbapi/stargazers) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 * [cl-duckdb](https://github.com/ak-coram/cl-duckdb) [![GitHub stars](https://img.shields.io/github/stars/ak-coram/cl-duckdb?style=flat)](https://github.com/ak-coram/cl-duckdb/stargazers) -  Common Lisp CFFI wrapper around the DuckDB C API. [MIT][200].
 * [cl-bunny](https://github.com/cl-rabbit/cl-bunny) [![GitHub stars](https://img.shields.io/github/stars/cl-rabbit/cl-bunny?style=flat)](https://github.com/cl-rabbit/cl-bunny/stargazers) -  Common Lisp RabbitMQ client based on IOLib. MIT.
 
@@ -1740,6 +1751,13 @@ Planning solvers:
 
 * [linear-programming](https://neil-lindquist.github.io/linear-programming/) – a library for solving linear programming problems. [MIT][200].
 * [shop3](https://github.com/shop-planner/shop3) [![GitHub stars](https://img.shields.io/github/stars/shop-planner/shop3?style=flat)](https://github.com/shop-planner/shop3/stargazers) - a Hierarchical Task Network (HTN) AI planner. Mozilla Public License.
+
+See also:
+
+* [cl-torch](https://gitlab.common-lisp.net/sburson/cl-torch) - "Like
+PyTorch, CL-Torch is mostly an FFI wrapper around C++ LibTorch, which
+handles all the numerics." MIT.
+    * [introductory blog post](https://scottlburson2.blogspot.com/2026/08/teaser-cl-torch.html) "It's nowhere near done" as of August, 2026.
 
 
 NEW! If you have precise needs, blurry needs or simply questions, the repository [Common Lisp numsci call for needs](https://github.com/digikar99/common-lisp-numsci-call-for-needs) [![GitHub stars](https://img.shields.io/github/stars/digikar99/common-lisp-numsci-call-for-needs?style=flat)](https://github.com/digikar99/common-lisp-numsci-call-for-needs/stargazers) is a new place to discuss them.

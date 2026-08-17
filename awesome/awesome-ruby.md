@@ -726,6 +726,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Exception Notification](https://github.com/smartinez87/exception_notification) [![GitHub stars](https://img.shields.io/github/stars/smartinez87/exception_notification?style=flat)](https://github.com/smartinez87/exception_notification/stargazers) - A set of notifiers for sending notifications when errors occur in a Rack/Rails application.
 * [Honeybadger](https://www.honeybadger.io/) - Exception, uptime, and performance monitoring for Ruby.
 * [Nesty](https://github.com/skorks/nesty) [![GitHub stars](https://img.shields.io/github/stars/skorks/nesty?style=flat)](https://github.com/skorks/nesty/stargazers) - Nested exceptions for Ruby.
+* [Rails Error Dashboard](https://github.com/AnjanJ/rails_error_dashboard) [![GitHub stars](https://img.shields.io/github/stars/AnjanJ/rails_error_dashboard?style=flat)](https://github.com/AnjanJ/rails_error_dashboard/stargazers) - Self-hosted error tracking for Rails, running inside your app with no external services.
 * [Sentry Ruby](https://github.com/getsentry/sentry-ruby) [![GitHub stars](https://img.shields.io/github/stars/getsentry/sentry-ruby?style=flat)](https://github.com/getsentry/sentry-ruby/stargazers) - The Ruby client for Sentry.
 * [Rollbar](https://github.com/rollbar/rollbar-gem) [![GitHub stars](https://img.shields.io/github/stars/rollbar/rollbar-gem?style=flat)](https://github.com/rollbar/rollbar-gem/stargazers) - Easy and powerful exception and error tracking for your applications.
 

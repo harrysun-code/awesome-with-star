@@ -9,6 +9,13 @@
   <br>
   <br>
 
+  <a href="https://getapps.cafe/">
+    <img alt="getapps.cafe" width="400" src="https://jaywcjlove.github.io/sponsor/getapps.cafe.png">
+  </a>
+  <br>
+  <a href="https://getapps.cafe/">getapps.cafe, 60+ native Mac apps across utilities, office, creative, and productivity categories, all running locally so your data never leaves your machine.</a>
+  <br><br>
+
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
@@ -344,6 +351,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [CHM Reader](https://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon]
 * [Chmox](https://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware][Freeware Icon]
+* [OffPDF](https://offpdf.com/) - Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally. [![Open-Source Software][OSS Icon]](https://github.com/McanKul/offpdf) ![Freeware][Freeware Icon]
 * [PDF Auditor](https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac) - PDF inspection tool for analyzing metadata, structure, and security risks. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id6738956506?pt=127483661&ct=GitHub&mt=8&platform=mac)
 * [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
 * [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
@@ -808,6 +816,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [AppleAi](https://www.theappleai.tech/) - Access multiple AI assistants from your menu bar with one shortcut. [![Open-Source Software][OSS Icon]](https://github.com/bunnysayzz/AppleAI)
 * [Apple On-Device OpenAI](https://github.com/gety-ai/apple-on-device-openai) [![GitHub stars](https://img.shields.io/github/stars/gety-ai/apple-on-device-openai?style=flat)](https://github.com/gety-ai/apple-on-device-openai/stargazers) - Runs Apple on-device models behind an OpenAI-compatible API. [![Open-Source Software][OSS Icon]](https://github.com/gety-ai/apple-on-device-openai) ![Freeware][Freeware Icon]
 * [AQBot](https://app.aqbot.top/) - Open-source desktop AI workspace for multi-provider chat, agent workflows, knowledge bases, MCP tools, and an OpenAI-compatible API gateway. [![Open-Source Software][OSS Icon]](https://github.com/AQBot-Desktop/AQBot) ![Freeware][Freeware Icon]
+* [Atomic Agent](https://atomicagent.io/) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine, with MCP support and 56 built-in tools. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/atomic-agent) ![Freeware][Freeware Icon]
 * [Atomic Chat](https://github.com/AtomicBot-ai/Atomic-Chat) [![GitHub stars](https://img.shields.io/github/stars/AtomicBot-ai/Atomic-Chat?style=flat)](https://github.com/AtomicBot-ai/Atomic-Chat/stargazers) - Open-source AI chat client for local and cloud models with MCP support. [![Open-Source Software][OSS Icon]](https://github.com/AtomicBot-ai/Atomic-Chat)
 * [BitFun](https://openbitfun.com/) - Open-source AI agent that gives each task its own interactive workspace with chat linked to live state. [![Open-Source Software][OSS Icon]](https://github.com/GCWing/BitFun) ![Freeware][Freeware Icon]
 * [BoltAI](https://boltai.com) - A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.
@@ -1061,6 +1070,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [OpenTypeless](https://github.com/tover0314-w/opentypeless) [![GitHub stars](https://img.shields.io/github/stars/tover0314-w/opentypeless?style=flat)](https://github.com/tover0314-w/opentypeless/stargazers) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
 * [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 * [Presspeech](https://github.com/rcourtman/presspeech) [![GitHub stars](https://img.shields.io/github/stars/rcourtman/presspeech?style=flat)](https://github.com/rcourtman/presspeech/stargazers) - Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE). [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/rcourtman/presspeech)
+* [ShengJi](https://github.com/maddylaneeee/ShengJi) [![GitHub stars](https://img.shields.io/github/stars/maddylaneeee/ShengJi?style=flat)](https://github.com/maddylaneeee/ShengJi/stargazers) - Open-source local transcription and subtitle editor for microphones, media files, and Mac audio. [![Open-Source Software][OSS Icon]](https://github.com/maddylaneeee/ShengJi) ![Freeware][Freeware Icon]
 * [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 * [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
 * [TypeWhisper](https://www.typewhisper.com) - Local Whisper-based speech-to-text with a global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
@@ -1136,6 +1146,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - Me: "Please alert me whenever anything is persistently installed." BlockBlock: "You got it" [![Open-Source Software][OSS Icon]](https://github.com/objective-see/BlockBlock)
 * [ClearanceKit](https://craigjbass.github.io/clearancekit/) - Policy-based file access control tool for protected paths. [![Open-Source Software][OSS Icon]](https://github.com/craigjbass/clearancekit) ![Native App][Native Icon]
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - Utility for scanning apps vulnerable to dylib hijacking. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/DylibHijackScanner) ![Freeware][Freeware Icon]
+* [fob](https://getfob.app) - Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID. [![Open-Source Software][OSS Icon]](https://github.com/olivierzol/fob) ![Freeware][Freeware Icon]
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - View all modules on that are loaded in the OS kernel. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/KextViewr)
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/objective-see/KnockKnock)
 * [LinkLiar](https://halo.github.io/LinkLiar) -  Link-Layer MAC spoofing GUI for macOS. [![Open-Source Software][OSS Icon]](https://github.com/halo/LinkLiar) ![Freeware][Freeware Icon]

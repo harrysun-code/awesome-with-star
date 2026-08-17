@@ -179,6 +179,7 @@ Custom timers, timelines, and task scheduling.
 - [Iota](https://github.com/JujuAdams/iota) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/iota?style=flat)](https://github.com/JujuAdams/iota/stargazers) - Lightweight timestep library.
 - [GMVex](https://github.com/erkan612/GMVex) [![GitHub stars](https://img.shields.io/github/stars/erkan612/GMVex?style=flat)](https://github.com/erkan612/GMVex/stargazers) - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
 - [RunGML](https://github.com/sdelaughter/RunGML) [![GitHub stars](https://img.shields.io/github/stars/sdelaughter/RunGML?style=flat)](https://github.com/sdelaughter/RunGML/stargazers) - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
+- [Tweeny](https://github.com/Kruger0/Tweeny) [![GitHub stars](https://img.shields.io/github/stars/Kruger0/Tweeny?style=flat)](https://github.com/Kruger0/Tweeny/stargazers) - A fire-and-forget tweening library with support for animation curves and ease functions
 
 ## Tools
 
@@ -267,7 +268,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [gms2-mofile](https://github.com/pmarincak/gms2-mofile) [![GitHub stars](https://img.shields.io/github/stars/pmarincak/gms2-mofile?style=flat)](https://github.com/pmarincak/gms2-mofile/stargazers) - Mofile reader used for localization.
 - [cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) - Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸
 - [MythLoco](https://mythloco.co.uk) - A localization system with a web-based strings editor.
-- [Krug's Localize System](https://krug-dev.itch.io/localize-system-for-gamemaker) - A localization system with real-time Google Sheets API synchronization.
+- [Krug's Localize System](https://github.com/Kruger0/Localize) [![GitHub stars](https://img.shields.io/github/stars/Kruger0/Localize?style=flat)](https://github.com/Kruger0/Localize/stargazers) - A localization system with real-time Google Sheets API synchronization.
 
 ## Physics
 

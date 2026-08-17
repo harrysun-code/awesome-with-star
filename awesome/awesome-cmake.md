@@ -104,6 +104,7 @@ There is another file [`NonModernCMake.md`](NonModernCMake.md) with other links 
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM) [![GitHub stars](https://img.shields.io/github/stars/AnotherFoxGuy/CMakeCM?style=flat)](https://github.com/AnotherFoxGuy/CMakeCM/stargazers) - CMake Community Modules. ```[NO LICENSE]```
 * [Metabench](https://github.com/ldionne/metabench) [![GitHub stars](https://img.shields.io/github/stars/ldionne/metabench?style=flat)](https://github.com/ldionne/metabench/stargazers) - CMake module for compile-time microbenchmarks. [```[BOOST]```][BOOST]
 * [Oranges](https://github.com/benthevining/Oranges) [![GitHub stars](https://img.shields.io/github/stars/benthevining/Oranges?style=flat)](https://github.com/benthevining/Oranges/stargazers) - [Ben Vining](https://github.com/benthevining) [![GitHub stars](https://img.shields.io/github/stars/benthevining?style=flat)](https://github.com/benthevining/stargazers)'s library of CMake modules and toolchains [```[GPL]```][GPL]
+* [better.cmake](https://gitlab.com/copr-projekte/better-cmake) - Collection of modern CMake extensions [```[APACHE2]```][APACHE-2.0]
 
 ## Utility Scripts
 
