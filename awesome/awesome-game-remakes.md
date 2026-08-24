@@ -60,6 +60,7 @@ If you are looking for not only remakes have a look at:
 - [ScummVM](https://github.com/scummvm/scummvm) [![GitHub stars](https://img.shields.io/github/stars/scummvm/scummvm?style=flat)](https://github.com/scummvm/scummvm/stargazers) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
 - [twin-e](https://github.com/LBALab/twin-e) [![GitHub stars](https://img.shields.io/github/stars/LBALab/twin-e?style=flat)](https://github.com/LBALab/twin-e/stargazers) - TwinEngine: a Little Big Adventure engine.
 - [timeco](https://github.com/LBALab/timeco) [![GitHub stars](https://img.shields.io/github/stars/LBALab/timeco?style=flat)](https://github.com/LBALab/timeco/stargazers) - Time Commando Reimplementation
+- [v64tng](https://github.com/mattseabrook/v64tng) [![GitHub stars](https://img.shields.io/github/stars/mattseabrook/v64tng?style=flat)](https://github.com/mattseabrook/v64tng/stargazers) - Game Engine re-creation of The 7th Guest
 
 ## Arcade
 - [AcidDrop](https://github.com/lostjared/AcidDrop) [![GitHub stars](https://img.shields.io/github/stars/lostjared/AcidDrop?style=flat)](https://github.com/lostjared/AcidDrop/stargazers) - Remake of classic Atari 2600 game "Acid Drop".
@@ -263,6 +264,7 @@ If you are looking for not only remakes have a look at:
 - [Open76](https://github.com/rob518183/Open76) [![GitHub stars](https://img.shields.io/github/stars/rob518183/Open76?style=flat)](https://github.com/rob518183/Open76/stargazers) - Interstate '76 engine reimplementation
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) [![GitHub stars](https://img.shields.io/github/stars/OpenNFS/OpenNFS?style=flat)](https://github.com/OpenNFS/OpenNFS/stargazers) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [OutRun](https://github.com/ZgzInfinity/OutRun) [![GitHub stars](https://img.shields.io/github/stars/ZgzInfinity/OutRun?style=flat)](https://github.com/ZgzInfinity/OutRun/stargazers) - A new version of the game Out Run of 1986 for PC using SFML and C++
+- [Quarantine](https://github.com/mattseabrook/Quarantine) [![GitHub stars](https://img.shields.io/github/stars/mattseabrook/Quarantine?style=flat)](https://github.com/mattseabrook/Quarantine/stargazers) - Game Engine re-creation of Quarantine by Imagexcel
 - [tube64](https://github.com/rep-stosw/tube64) [![GitHub stars](https://img.shields.io/github/stars/rep-stosw/tube64?style=flat)](https://github.com/rep-stosw/tube64/stargazers) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
 - [SpagettiKart](https://github.com/HarbourMasters/SpaghettiKart) [![GitHub stars](https://img.shields.io/github/stars/HarbourMasters/SpaghettiKart?style=flat)](https://github.com/HarbourMasters/SpaghettiKart/stargazers) - Reimplementation of Mario Kart 64 for PC.
 - [Vangers](https://github.com/KranX/Vangers) [![GitHub stars](https://img.shields.io/github/stars/KranX/Vangers?style=flat)](https://github.com/KranX/Vangers/stargazers) - Racing/RPG hybrid made open-source by its creators, written in C++.

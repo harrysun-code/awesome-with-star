@@ -158,6 +158,7 @@
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 - [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
+- [Quake](https://github.com/willeastcott/playcanvas-quake) [![GitHub stars](https://img.shields.io/github/stars/willeastcott/playcanvas-quake?style=flat)](https://github.com/willeastcott/playcanvas-quake/stargazers) - A port of id Software's Quake to PlayCanvas.
 - [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 - [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 - [Squid Dash](https://poki.com/en/g/squid-dash) - Help Squiddy get to the ocean.
@@ -257,6 +258,7 @@
 - [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
 - [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
 - [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
+- [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.
 - [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.

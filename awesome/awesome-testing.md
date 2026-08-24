@@ -126,10 +126,14 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Synth](https://github.com/getsynth/synth) [![GitHub stars](https://img.shields.io/github/stars/getsynth/synth?style=flat)](https://github.com/getsynth/synth/stargazers) - Open-source test data generator.
 - [Touca](https://github.com/trytouca/trytouca) [![GitHub stars](https://img.shields.io/github/stars/trytouca/trytouca?style=flat)](https://github.com/trytouca/trytouca/stargazers) - Continuous regression testing for behavioral and performance comparisons.
 - [test-each](https://github.com/ehmicky/test-each) [![GitHub stars](https://img.shields.io/github/stars/ehmicky/test-each?style=flat)](https://github.com/ehmicky/test-each/stargazers) - Data-driven testing framework.
+- [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
+- [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
+- [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
+- [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
 - [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
@@ -157,10 +161,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) [![GitHub stars](https://img.shields.io/github/stars/jg8481/Robot-Framework-Solidity-Testing-Toolkit?style=flat)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit/stargazers) - Robot Framework integration for Solidity testing.
 
 ### Test Automation Frameworks
+- [Bats](https://github.com/bats-core/bats-core) [![GitHub stars](https://img.shields.io/github/stars/bats-core/bats-core?style=flat)](https://github.com/bats-core/bats-core/stargazers) - Bash Automated Testing System.
 - [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) [![GitHub stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter?style=flat)](https://github.com/jumpstarter-dev/jumpstarter/stargazers) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 - [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) [![GitHub stars](https://img.shields.io/github/stars/aiqualitylab/ai-natural-language-tests?style=flat)](https://github.com/aiqualitylab/ai-natural-language-tests/stargazers) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
 - [OpenTester](https://github.com/kznr02/OpenTester) [![GitHub stars](https://img.shields.io/github/stars/kznr02/OpenTester?style=flat)](https://github.com/kznr02/OpenTester/stargazers) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
+- [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 
 ### Screen Recording & Session Replays
 - [Captura](https://github.com/MathewSachin/Captura) [![GitHub stars](https://img.shields.io/github/stars/MathewSachin/Captura?style=flat)](https://github.com/MathewSachin/Captura/stargazers) - Open-source video recording tool.

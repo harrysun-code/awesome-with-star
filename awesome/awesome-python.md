@@ -372,9 +372,9 @@ _Libraries for working with HTTP._
   - [httpx](https://github.com/encode/httpx) [![GitHub stars](https://img.shields.io/github/stars/encode/httpx?style=flat)](https://github.com/encode/httpx/stargazers) - A next generation HTTP client for Python.
   - [aiohttp](https://github.com/aio-libs/aiohttp) [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp?style=flat)](https://github.com/aio-libs/aiohttp/stargazers) - Asynchronous HTTP client/server framework for asyncio and Python.
   - [urllib3](https://github.com/urllib3/urllib3) [![GitHub stars](https://img.shields.io/github/stars/urllib3/urllib3?style=flat)](https://github.com/urllib3/urllib3/stargazers) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
+  - [httpx2](https://github.com/pydantic/httpx2) [![GitHub stars](https://img.shields.io/github/stars/pydantic/httpx2?style=flat)](https://github.com/pydantic/httpx2/stargazers) - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx](https://github.com/encode/httpx) [![GitHub stars](https://img.shields.io/github/stars/encode/httpx?style=flat)](https://github.com/encode/httpx/stargazers) fork).
 - URL Manipulation
   - [yarl](https://github.com/aio-libs/yarl) [![GitHub stars](https://img.shields.io/github/stars/aio-libs/yarl?style=flat)](https://github.com/aio-libs/yarl/stargazers) - Yet another URL library.
-  - [httpx.URL](https://www.python-httpx.org/api/) - The immutable URL class bundled with HTTPX.
 
 ### Web Scraping
 
@@ -404,7 +404,7 @@ _Libraries that implement Object-Relational Mapping or data mapping techniques._
 - Relational Databases
   - [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/sqlalchemy?style=flat)](https://github.com/sqlalchemy/sqlalchemy/stargazers) - The Python SQL Toolkit and Object Relational Mapper.
     - [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) [![GitHub stars](https://img.shields.io/github/stars/dahlia/awesome-sqlalchemy?style=flat)](https://github.com/dahlia/awesome-sqlalchemy/stargazers)
-  - [django.db.models](https://github.com/django/django) [![GitHub stars](https://img.shields.io/github/stars/django/django?style=flat)](https://github.com/django/django/stargazers) - The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
+  - [django.db.models](https://github.com/django/django) [![GitHub stars](https://img.shields.io/github/stars/django/django?style=flat)](https://github.com/django/django/stargazers) - (part of Django) The Django [ORM](https://docs.djangoproject.com/en/dev/topics/db/models/).
   - [peewee](https://github.com/coleifer/peewee) [![GitHub stars](https://img.shields.io/github/stars/coleifer/peewee?style=flat)](https://github.com/coleifer/peewee/stargazers) - A small, expressive ORM.
   - [sqlmodel](https://github.com/fastapi/sqlmodel) [![GitHub stars](https://img.shields.io/github/stars/fastapi/sqlmodel?style=flat)](https://github.com/fastapi/sqlmodel/stargazers) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
 - NoSQL Databases
@@ -458,6 +458,7 @@ _Libraries for caching data._
 
 - [cachetools](https://github.com/tkem/cachetools) [![GitHub stars](https://img.shields.io/github/stars/tkem/cachetools?style=flat)](https://github.com/tkem/cachetools/stargazers) - Extensible memoizing collections and decorators.
 - [diskcache](https://github.com/grantjenks/python-diskcache) [![GitHub stars](https://img.shields.io/github/stars/grantjenks/python-diskcache?style=flat)](https://github.com/grantjenks/python-diskcache/stargazers) - SQLite and file backed cache backend with faster lookups than memcached and redis.
+- [hishel](https://github.com/karpetrosyan/hishel) [![GitHub stars](https://img.shields.io/github/stars/karpetrosyan/hishel?style=flat)](https://github.com/karpetrosyan/hishel/stargazers) - RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.
 - [dogpile.cache](https://github.com/sqlalchemy/dogpile.cache) [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache?style=flat)](https://github.com/sqlalchemy/dogpile.cache/stargazers) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 - [django-cacheops](https://github.com/Suor/django-cacheops) [![GitHub stars](https://img.shields.io/github/stars/Suor/django-cacheops?style=flat)](https://github.com/Suor/django-cacheops/stargazers) - A slick ORM cache with automatic granular event-driven invalidation.
 
@@ -536,7 +537,7 @@ _Libraries for geocoding addresses and working with latitudes and longitudes._
 - [geopandas](https://github.com/geopandas/geopandas) [![GitHub stars](https://img.shields.io/github/stars/geopandas/geopandas?style=flat)](https://github.com/geopandas/geopandas/stargazers) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 - [geopy](https://github.com/geopy/geopy) [![GitHub stars](https://img.shields.io/github/stars/geopy/geopy?style=flat)](https://github.com/geopy/geopy/stargazers) - Python Geocoding Toolbox.
 - [geojson](https://github.com/jazzband/geojson) [![GitHub stars](https://img.shields.io/github/stars/jazzband/geojson?style=flat)](https://github.com/jazzband/geojson/stargazers) - Python bindings and utilities for GeoJSON.
-- [geodjango](https://github.com/django/django) [![GitHub stars](https://img.shields.io/github/stars/django/django?style=flat)](https://github.com/django/django/stargazers) - A world-class geographic web framework that is part of [Django](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
+- [geodjango](https://github.com/django/django) [![GitHub stars](https://img.shields.io/github/stars/django/django?style=flat)](https://github.com/django/django/stargazers) - (part of Django) A world-class [geographic web framework](https://docs.djangoproject.com/en/dev/ref/contrib/gis/).
 
 ### Science
 
@@ -554,6 +555,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists](https://gi
   - [biopython](https://github.com/biopython/biopython) [![GitHub stars](https://img.shields.io/github/stars/biopython/biopython?style=flat)](https://github.com/biopython/biopython/stargazers) - Biopython is a set of freely available tools for biological computation.
   - [rdkit](https://github.com/rdkit/rdkit) [![GitHub stars](https://img.shields.io/github/stars/rdkit/rdkit?style=flat)](https://github.com/rdkit/rdkit/stargazers) - Cheminformatics and Machine Learning Software.
 - Physics and Engineering
+  - [pint](https://github.com/hgrecco/pint) [![GitHub stars](https://img.shields.io/github/stars/hgrecco/pint?style=flat)](https://github.com/hgrecco/pint/stargazers) - Operate and manipulate physical quantities with units and dimensional analysis.
   - [astropy](https://github.com/astropy/astropy) [![GitHub stars](https://img.shields.io/github/stars/astropy/astropy?style=flat)](https://github.com/astropy/astropy/stargazers) - A community Python library for Astronomy.
   - [obspy](https://github.com/obspy/obspy) [![GitHub stars](https://img.shields.io/github/stars/obspy/obspy?style=flat)](https://github.com/obspy/obspy/stargazers) - A Python toolbox for seismology.
 - Simulation and Modeling
@@ -590,6 +592,7 @@ _Python implementation of data structures, algorithms and design patterns. Also 
 - Design Patterns
   - [transitions](https://github.com/pytransitions/transitions) [![GitHub stars](https://img.shields.io/github/stars/pytransitions/transitions?style=flat)](https://github.com/pytransitions/transitions/stargazers) - A lightweight, object-oriented finite state machine implementation.
   - [python-patterns](https://github.com/faif/python-patterns) [![GitHub stars](https://img.shields.io/github/stars/faif/python-patterns?style=flat)](https://github.com/faif/python-patterns/stargazers) - A collection of design patterns in Python.
+  - [python-statemachine](https://github.com/fgmacedo/python-statemachine) [![GitHub stars](https://img.shields.io/github/stars/fgmacedo/python-statemachine?style=flat)](https://github.com/fgmacedo/python-statemachine/stargazers) - Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.
 
 ### Interactive Interpreter
 
@@ -609,6 +612,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
   - [vulture](https://github.com/jendrikseipp/vulture) [![GitHub stars](https://img.shields.io/github/stars/jendrikseipp/vulture?style=flat)](https://github.com/jendrikseipp/vulture/stargazers) - A tool for finding and analyzing dead Python code.
   - [prospector](https://github.com/prospector-dev/prospector) [![GitHub stars](https://img.shields.io/github/stars/prospector-dev/prospector?style=flat)](https://github.com/prospector-dev/prospector/stargazers) - A tool to analyze Python code.
   - [repowise](https://github.com/repowise-dev/repowise) [![GitHub stars](https://img.shields.io/github/stars/repowise-dev/repowise?style=flat)](https://github.com/repowise-dev/repowise/stargazers) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
+  - [complexipy](https://github.com/rohaquinlop/complexipy) [![GitHub stars](https://img.shields.io/github/stars/rohaquinlop/complexipy?style=flat)](https://github.com/rohaquinlop/complexipy/stargazers) - Cognitive complexity analysis for Python code, written in Rust.
 - Git Hooks
   - [pre-commit](https://github.com/pre-commit/pre-commit) [![GitHub stars](https://img.shields.io/github/stars/pre-commit/pre-commit?style=flat)](https://github.com/pre-commit/pre-commit/stargazers) - A framework for managing and maintaining multi-language pre-commit hooks.
 - Linters and Formatters
@@ -698,9 +702,9 @@ _Libraries for generating project documentation._
 - [sphinx](https://github.com/sphinx-doc/sphinx/) [![GitHub stars](https://img.shields.io/github/stars/sphinx-doc/sphinx/?style=flat)](https://github.com/sphinx-doc/sphinx//stargazers) - Python Documentation generator.
   - [awesome-sphinxdoc](https://github.com/ygzgxyz/awesome-sphinxdoc) [![GitHub stars](https://img.shields.io/github/stars/ygzgxyz/awesome-sphinxdoc?style=flat)](https://github.com/ygzgxyz/awesome-sphinxdoc/stargazers)
 - [mkdocs-material](https://github.com/squidfunk/mkdocs-material) [![GitHub stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material?style=flat)](https://github.com/squidfunk/mkdocs-material/stargazers) - A documentation framework and Material Design theme built on MkDocs.
-- [mkdocs](https://github.com/mkdocs/mkdocs/) [![GitHub stars](https://img.shields.io/github/stars/mkdocs/mkdocs/?style=flat)](https://github.com/mkdocs/mkdocs//stargazers) - Markdown friendly documentation generator.
 - [diagrams](https://github.com/mingrammer/diagrams) [![GitHub stars](https://img.shields.io/github/stars/mingrammer/diagrams?style=flat)](https://github.com/mingrammer/diagrams/stargazers) - Diagram as Code.
 - [pdoc](https://github.com/mitmproxy/pdoc) [![GitHub stars](https://img.shields.io/github/stars/mitmproxy/pdoc?style=flat)](https://github.com/mitmproxy/pdoc/stargazers) - Epydoc replacement to auto generate API documentation for Python libraries.
+- [zensical](https://github.com/zensical/zensical) [![GitHub stars](https://img.shields.io/github/stars/zensical/zensical?style=flat)](https://github.com/zensical/zensical/stargazers) - A modern static site generator for technical documentation.
 
 **DevOps**
 
@@ -1120,7 +1124,7 @@ _Frameworks and tools for penetration testing._
 _Tools for auditing dependencies against known vulnerabilities._
 
 - [pip-audit](https://github.com/pypa/pip-audit) [![GitHub stars](https://img.shields.io/github/stars/pypa/pip-audit?style=flat)](https://github.com/pypa/pip-audit/stargazers) - Audits Python environments and dependency trees for known vulnerabilities, using the PyPI Advisory Database and OSV.
-- [uv audit](https://docs.astral.sh/uv/reference/cli/#uv-audit) - uv's built-in dependency vulnerability and malware scanning backed by OSV.
+- [uv-audit](https://github.com/astral-sh/uv) [![GitHub stars](https://img.shields.io/github/stars/astral-sh/uv?style=flat)](https://github.com/astral-sh/uv/stargazers) - (part of uv) uv's [dependency vulnerability and malware scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
 
 ### Web Security
 

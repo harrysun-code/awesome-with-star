@@ -11,15 +11,16 @@
 ## Contents
 
 * [Projects](#projects)
+* [Design Tools](#design-tools)
 * [Talks](#talks)
 * [Papers](#papers)
 * [Conferences](#conferences)
 * [Platforms](#platforms)
 * [Podcasts](#podcasts)
 * [Books](#books)
-* [Training programs](#training-programs)
+* [Training Programs](#training-programs)
 * [Further Readings](#further-readings)
-* [Related awesome](#related-awesome)
+* [Related Awesome](#related-awesome)
 
 ## Projects
 
@@ -66,6 +67,28 @@
 * [OpenSPIM](https://openspim.org/) - Open-access platform for three-dimensional (3D) microscopy.
 * [openUC2](https://github.com/openUC2/UC2-GIT) [![GitHub stars](https://img.shields.io/github/stars/openUC2/UC2-GIT?style=flat)](https://github.com/openUC2/UC2-GIT/stargazers) - Modular microscopy toolbox.
 * [SafeCast](https://safecast.org/) - Environmental measurements for the public domain.
+
+## Design Tools
+
+### Mechanical and Electrical
+
+* [Elmer](https://github.com/ElmerCSC/elmerfem) [![GitHub stars](https://img.shields.io/github/stars/ElmerCSC/elmerfem?style=flat)](https://github.com/ElmerCSC/elmerfem/stargazers) - A software suite for running finite element method simulations.
+* [FreeCAD](https://www.freecad.org/) - A mechanical computer-aided design program for designing 3D parametric parts.
+* [KiCad](https://www.kicad.org/) - An electronic design automation program for designing printed circuit boards.
+* [KiCad StepUp](https://github.com/easyw/kicadStepUpMod) [![GitHub stars](https://img.shields.io/github/stars/easyw/kicadStepUpMod?style=flat)](https://github.com/easyw/kicadStepUpMod/stargazers) - A mechanical collaboration tool for moving projects between KiCad and FreeCAD.
+* [Ngspice](https://ngspice.sourceforge.io/download.html) - A mixed-signal electronic circuit simulator.
+
+### Integrated Circuit
+
+* [KLayout](https://www.klayout.de/) - A tool for viewing and editing integrated circuit layouts.
+* [LibreLane](https://fossi-foundation.org/librelane/) - An infrastructure library for creating integrated circuit design flows.
+* [Magic](https://opencircuitdesign.com/magic/) - A VLSI layout tool, primarily used for analog layout.
+* [OpenRAM](https://openram.org/) - A framework for creating SRAM netlists, layouts, and more.
+* [OpenROAD](https://theopenroadproject.org/) - An application that implements an RTL-to-GDSII flow.
+* [SkyWater PDK](https://github.com/google/skywater-pdk) [![GitHub stars](https://img.shields.io/github/stars/google/skywater-pdk?style=flat)](https://github.com/google/skywater-pdk/stargazers) - A process design kit for SkyWater's 130 nm process node.
+* [Surfer](https://surfer-project.org/) - An extensible and snappy waveform viewer.
+* [Verilator](https://www.veripool.org/verilator/) - A program for simulating HDL code.
+* [Yosys](https://yosyshq.net/yosys/) - A framework for RTL synthesis.
 
 ## Talks
 
@@ -132,7 +155,7 @@
 * [The bridge](https://www.nae.edu/174695/Fall-Bridge-on-Open-Source-Hardware) - Issue of the national academy of engineering on open source hardware.
 * [The Hardware Hacker](https://books.google.com/books?id=qAYvDwAAQBAJ&printsec=frontcover&dq=Hardware+hacker+bunnie+huang&hl=nl&newbks=1&newbks_redir=1&sa=X&ved=2ahUKEwj_zsyX5dOTAxVDh_0HHUb5A1UQ6AF6BAgIEAM) - Book by Andrew "bunnie" Huang, how to design and manufacture open hardware products.
 
-## Training programs
+## Training Programs
 
 * [Open Hardware Makers](https://openhardware.space)
 * [Open Hardware Academy](https://openhardware.academy/)
@@ -146,7 +169,7 @@
 * [OSHWA Certification](https://certification.oshwa.org/) - Provides an easy and straightforward way for producers to indicate that their products meet a uniform and well-defined standard for open-source compliance.
 * [HardwareX Journal](https://www.journals.elsevier.com/hardwarex) - An open-access scientific hardware journal.
 
-## Related awesome
+## Related Awesome
 
 * [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) [![GitHub stars](https://img.shields.io/github/stars/ajaymnk/open-electronics?style=flat)](https://github.com/ajaymnk/open-electronics/stargazers) - List with resources for Electronics Enthusiasts.
 * [Awesome Open](https://github.com/paulhendricks/awesome-open) [![GitHub stars](https://img.shields.io/github/stars/paulhendricks/awesome-open?style=flat)](https://github.com/paulhendricks/awesome-open/stargazers) - A list of open companies and communities.

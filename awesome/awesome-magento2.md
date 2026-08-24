@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **65** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **62** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -261,7 +261,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Marketing
 
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-google-tag-manager?style=flat)](https://github.com/magepal/magento2-google-tag-manager/stargazers) 🔥 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-google-tag-manager?style=flat)](https://github.com/magepal/magento2-google-tag-manager/stargazers) 🔥 - Google Tag Manager (GTM) with Data Layer for Magento 2.
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-seo-extension?style=flat)](https://github.com/mageplaza/magento-2-seo-extension/stargazers) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) [![GitHub stars](https://img.shields.io/github/stars/Zwernemann/magento2-withdrawl?style=flat)](https://github.com/Zwernemann/magento2-withdrawl/stargazers) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog](https://github.com/mage-os-lab/module-blog) [![GitHub stars](https://img.shields.io/github/stars/mage-os-lab/module-blog?style=flat)](https://github.com/mage-os-lab/module-blog/stargazers) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
@@ -276,20 +276,20 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Adminhtml / Backend
 
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) [![GitHub stars](https://img.shields.io/github/stars/SnowdogApps/magento2-menu?style=flat)](https://github.com/SnowdogApps/magento2-menu/stargazers) 🔥 🫡 - Provides a powerful menu editor to replace category-based menus in Magento 2.
-- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-gmail-smtp-app?style=flat)](https://github.com/magepal/magento2-gmail-smtp-app/stargazers) 🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Sentry.io](https://github.com/justbetter/magento2-sentry) [![GitHub stars](https://img.shields.io/github/stars/justbetter/magento2-sentry?style=flat)](https://github.com/justbetter/magento2-sentry/stargazers) 🫡 - Application monitoring and error tracking software for Magento 2.
 - [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) [![GitHub stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin?style=flat)](https://github.com/hyva-themes/magento2-hyva-admin/stargazers) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) [![GitHub stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2?style=flat)](https://github.com/firegento/FireGento_FastSimpleImport2/stargazers) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
-- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-preview-checkout-success-page?style=flat)](https://github.com/magepal/magento2-preview-checkout-success-page/stargazers) 🫡 - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
-- [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-guest-to-customer?style=flat)](https://github.com/magepal/magento2-guest-to-customer/stargazers) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) [![GitHub stars](https://img.shields.io/github/stars/magenizr/Magenizr_ResetUiBookmarks?style=flat)](https://github.com/magenizr/Magenizr_ResetUiBookmarks/stargazers) 🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
+- [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) [![GitHub stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137?style=flat)](https://github.com/mage-os/theme-adminhtml-m137/stargazers) 🫡 - M137 Admin Theme for Magento/Mage-OS
+- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-gmail-smtp-app?style=flat)](https://github.com/magepal/magento2-gmail-smtp-app/stargazers) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) [![GitHub stars](https://img.shields.io/github/stars/AmpersandHQ/magento2-disable-stock-reservation?style=flat)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation/stargazers) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login?style=flat)](https://github.com/bitExpert/magento2-force-login/stargazers) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) [![GitHub stars](https://img.shields.io/github/stars/redchamps/clean-admin-menu?style=flat)](https://github.com/redchamps/clean-admin-menu/stargazers) - Merges 3rd-party extensions into a single menu.
 - [Magento 2 Import Framework](https://github.com/techdivision/import) [![GitHub stars](https://img.shields.io/github/stars/techdivision/import?style=flat)](https://github.com/techdivision/import/stargazers) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_CheckoutTester2?style=flat)](https://github.com/yireo/Yireo_CheckoutTester2/stargazers) - Extension to quickly test Checkout changes.
+- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-preview-checkout-success-page?style=flat)](https://github.com/magepal/magento2-preview-checkout-success-page/stargazers) - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
+- [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-guest-to-customer?style=flat)](https://github.com/magepal/magento2-guest-to-customer/stargazers) - Quickly and easily convert existing guest checkout customers to registered customers.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) [![GitHub stars](https://img.shields.io/github/stars/experius/Magento-2-Module-PageNotFound?style=flat)](https://github.com/experius/Magento-2-Module-PageNotFound/stargazers) - Saves upcoming 404s in your database with the possibility to create a redirect.
-- [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) [![GitHub stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137?style=flat)](https://github.com/mage-os/theme-adminhtml-m137/stargazers) - M137 Admin Theme for Magento/Mage-OS
 - [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) [![GitHub stars](https://img.shields.io/github/stars/elninotech/ElNino_ProductLinksNavigator?style=flat)](https://github.com/elninotech/ElNino_ProductLinksNavigator/stargazers) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
 
 <details>
@@ -366,9 +366,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Company Blogs
 
 - [Atwix](https://www.atwix.com/blog/) 🫡 - Magento development agency blog.
-- [Classy Llama](https://www.classyllama.com/blog) 🫡 - Magento agency blog.
+- [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
-- [FireBear Studio](https://firebearstudio.com/blog) - FireBear Studio's Magento development blog.
+- [Classy Llama](https://www.classyllama.com/blog) - Magento agency blog.
 - [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
 <details>

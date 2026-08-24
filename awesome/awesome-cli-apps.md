@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [termusic](https://github.com/tramhao/termusic) [![GitHub stars](https://img.shields.io/github/stars/tramhao/termusic?style=flat)](https://github.com/tramhao/termusic/stargazers) - Music player in rust with download capabilities.
 - [ytm-player](https://github.com/peternaame-boop/ytm-player) [![GitHub stars](https://img.shields.io/github/stars/peternaame-boop/ytm-player?style=flat)](https://github.com/peternaame-boop/ytm-player/stargazers) - YouTube Music player.
 - [tunein-cli](https://github.com/tsirysndr/tunein-cli) [![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli?style=flat)](https://github.com/tsirysndr/tunein-cli/stargazers) - TuneIn and Radio Browser client.
+- [cliamp](https://github.com/bjarneo/cliamp) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/cliamp?style=flat)](https://github.com/bjarneo/cliamp/stargazers) - Winamp-inspired local, streaming and radio player.
 
 ### Video
 
@@ -340,6 +341,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [mynav](https://github.com/GianlucaP106/mynav) [![GitHub stars](https://img.shields.io/github/stars/GianlucaP106/mynav?style=flat)](https://github.com/GianlucaP106/mynav/stargazers) - Workspace and session management TUI.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) [![GitHub stars](https://img.shields.io/github/stars/roeyazroel/linear-tui?style=flat)](https://github.com/roeyazroel/linear-tui/stargazers) - Linear TUI client.
 - [jiratui](https://github.com/whyisdifficult/jiratui) [![GitHub stars](https://img.shields.io/github/stars/whyisdifficult/jiratui?style=flat)](https://github.com/whyisdifficult/jiratui/stargazers) - TUI app for Jira.
+- [tiki](https://github.com/boolean-maybe/tiki) [![GitHub stars](https://img.shields.io/github/stars/boolean-maybe/tiki?style=flat)](https://github.com/boolean-maybe/tiki/stargazers) - Markdown-based workflow builder.
 
 ### Time Tracking
 
@@ -434,6 +436,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [dark-mode](https://github.com/sindresorhus/dark-mode) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/dark-mode?style=flat)](https://github.com/sindresorhus/dark-mode/stargazers) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) [![GitHub stars](https://img.shields.io/github/stars/neilberkman/clippy?style=flat)](https://github.com/neilberkman/clippy/stargazers) - Clipboard tool for interacting with GUI applications.
 - [anvil](https://github.com/0xjuanma/anvil) [![GitHub stars](https://img.shields.io/github/stars/0xjuanma/anvil?style=flat)](https://github.com/0xjuanma/anvil/stargazers) - Config management and app installations.
+- [Mole](https://github.com/tw93/Mole) [![GitHub stars](https://img.shields.io/github/stars/tw93/Mole?style=flat)](https://github.com/tw93/Mole/stargazers) - Clean your Mac and more.
+- [Raccoon](https://github.com/thousandflowers/Raccoon) [![GitHub stars](https://img.shields.io/github/stars/thousandflowers/Raccoon?style=flat)](https://github.com/thousandflowers/Raccoon/stargazers) - Security audits, system reports and SSH fleet management.
 
 ### Terminal Sharing Utilities
 
@@ -854,6 +858,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [faf-cli](https://github.com/Wolfe-Jam/faf-cli) [![GitHub stars](https://img.shields.io/github/stars/Wolfe-Jam/faf-cli?style=flat)](https://github.com/Wolfe-Jam/faf-cli/stargazers) - Authors AGENTS.md, CLAUDE.md and .cursorrules AI-Context files from your repo's real stack.
 - [agentty](https://github.com/1ay1/agentty) [![GitHub stars](https://img.shields.io/github/stars/1ay1/agentty?style=flat)](https://github.com/1ay1/agentty/stargazers) - C++ agent TUI.
 - [bosun](https://github.com/yetidevworks/bosun) [![GitHub stars](https://img.shields.io/github/stars/yetidevworks/bosun?style=flat)](https://github.com/yetidevworks/bosun/stargazers) - Agent session manager built on tmux.
+- [Keen Code](https://github.com/mochow13/keen-code) [![GitHub stars](https://img.shields.io/github/stars/mochow13/keen-code?style=flat)](https://github.com/mochow13/keen-code/stargazers) - Context-aware coding agent written in Go.
 
 ### LLM Interaction
 

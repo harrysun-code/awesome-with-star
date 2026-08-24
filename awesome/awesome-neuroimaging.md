@@ -52,9 +52,9 @@
 - [PACS](https://en.wikipedia.org/wiki/Picture_archiving_and_communication_system) - Picture Archiving and Communication System standard used to store and transfer DICOM images from medical equipment and likely implemented by scanner manufacture. See [Siemens Healthineers Syngo Carbon](https://www.siemens-healthineers.com/en-us/digital-health-solutions/syngo-carbon), [Phillips Vue PACS](https://www.documents.philips.com/assets/20240227/5a788a79bbdd4e1986f1b12300b0e534.pdf), [GE HealthCare True PACS](https://www.gehealthcare.com/products/healthcare-it/true-pacs).
 - [XNAT](https://www.xnat.org/) - An extensible open-source imaging informatics software platform dedicated to imaging-based research.
   - [DAX](https://github.com/VUIIS/dax) [![GitHub stars](https://img.shields.io/github/stars/VUIIS/dax?style=flat)](https://github.com/VUIIS/dax/stargazers) - Distributed Automation for XNAT: use containerization w/YAML defined input/output.
-- [LORIS](https://mcin.ca/technology/loris/) - LORIS (Longitudinal Online Research and Imaging System) is web-based data and project management software for neuroimaging research studies.
+- [LORIS](https://mcin.ca/technology/loris/) - Longitudinal Online Research and Imaging System is a web-based data and project management software for neuroimaging research studies.
 - [brainlife.io](https://brainlife.io) - Open-source, free and secure reproducible neuroscience analysis platform.
-- [cbrain](https://mcin.ca/technology/cbrain/) - CBRAIN is web-based software that allows neuroimaging researchers to perform computationally intensive analyses on data by connecting them to High-Performance Computing (HPC).
+- [cbrain](https://mcin.ca/technology/cbrain/) - Web-based software that allows neuroimaging researchers to perform computationally intensive analyses on data by connecting them to High-Performance Computing (HPC).
 - 💲[Flywheel](https://flywheel.io) - A cloud-based imaging research data platform for data capture, curating, automation, and machine learning.
 - 💲[QMENTA](https://qmenta.com) - The all in one imaging platform for your clinical trial.
 
@@ -124,7 +124,7 @@ Dealing with DICOM and k-space images
 ## Provenance and Automation
 
 - [make](https://www.frontiersin.org/articles/10.3389/fninf.2016.00002/full) - follow script recipes defined in `Makefile`.
-- [datalad](https://github.com/datalad/datalad) [![GitHub stars](https://img.shields.io/github/stars/datalad/datalad?style=flat)](https://github.com/datalad/datalad/stargazers) - Keep code, data, containers under control with git and git-annex. Esp `datalad run --input=... --output=...`.
+- [datalad](https://github.com/datalad/datalad) [![GitHub stars](https://img.shields.io/github/stars/datalad/datalad?style=flat)](https://github.com/datalad/datalad/stargazers) - Keep code, data, containers under control with `git` and `git-annex`. Esp `datalad run --input=... --output=...`.
 - [`3dNotes`](https://afni.nimh.nih.gov/pub/dist/doc/program_help/3dNotes.html) - A program to add, delete and show notes for AFNI datasets. 
 <!--lint ignore double-link-->
 - [`niinote`](https://github.com/lncd/lncdtools/blob/master/niinote) [![GitHub stars](https://img.shields.io/github/stars/lncd/lncdtools/blob/master/niinote?style=flat)](https://github.com/lncd/lncdtools/blob/master/niinote/stargazers) - Add AFNI nifti XML history to header to run and record any command. Part of [lncdtools](https://github.com/lncd/lncdtools/) [![GitHub stars](https://img.shields.io/github/stars/lncd/lncdtools/?style=flat)](https://github.com/lncd/lncdtools//stargazers).
@@ -235,5 +235,8 @@ Tools for doing math on matrix values
 - [ENIGMA](https://enigma.ini.usc.edu/) - The Enhancing Neuro Imaging Genetics through Meta Analysis Consortium contains 50 working group's imaging and genomics data.
 
 ## Contributing
-
+<!--lint ignore double-link-->
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+<!--lint ignore double-link-->
+2026-08 update: [`pull_request_template.md`](pull_request_template.md) now provides a criteria checklist (also linked in [`contributing.md`](contributing.md)).  

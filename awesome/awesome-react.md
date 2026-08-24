@@ -117,6 +117,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Routing
 
 - [react-router](https://github.com/remix-run/react-router) [![GitHub stars](https://img.shields.io/github/stars/remix-run/react-router?style=flat)](https://github.com/remix-run/react-router/stargazers) - Declarative routing for React
+- [speedy-router](https://github.com/anonrig/router) [![GitHub stars](https://img.shields.io/github/stars/anonrig/router?style=flat)](https://github.com/anonrig/router/stargazers) - TanStack Router API rebuilt for faster navigations and SSR
 - [tanstack-router](https://github.com/TanStack/router) [![GitHub stars](https://img.shields.io/github/stars/TanStack/router?style=flat)](https://github.com/TanStack/router/stargazers) - Type-safe router with built-in caching & URL state management
 
 #### React Development Tools

@@ -199,6 +199,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes one deployment server, one static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
+  * [Cloud Cost Analyzer](https://cca.dragonfractal.com/) - Scan AWS and Azure for cost waste with 92 automated checks including idle NAT gateways, gp2 volumes, and over-provisioned instances. Get savings estimates in a read-only, developer-first CLI. Free tier covers up to 5,000 resources per scan on one AWS account. Paid tiers add resource IDs and exact remediation steps.
   * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 10 job executions free per month with previews and auto-deploys included in the free tier.
   * [Parsivex](https://www.parsivex.com) - Parsivex scans your AWS account for idle EC2, unattached EBS, oversized RDS, stale snapshots, NAT gateway overuse etc. Free tier provides a monthly scan for one AWS account and returns total monthly waste plus a category breakdown. Paid plans give access to itemized findings and scheduled re-scans.
   * [Pulumi](https://www.pulumi.com/) - Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
@@ -273,6 +274,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Export SDK](https://exportsdk.com) - PDF generator API with drag-and-drop template editor that provides an SDK and no-code integrations. The free plan has 250 monthly pages, unlimited users, and three templates.
   * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
   * [Financial Data](https://financialdata.net/) - Stock market and financial data API. Free plan allows 300 requests per day.
+  * [finlight](https://finlight.me) - Real-time financial news API with entity resolution (tickers, ISIN) and sentiment tagging, available over REST, WebSocket, webhooks and an MCP server. Free tier: 5,000 requests/month on both REST and MCP, 12-hour delayed articles, no card required.
   * [Firecrawl](https://www.firecrawl.dev/) - API that crawls websites and converts them into clean, LLM-ready markdown or structured data, handling JavaScript rendering, proxies, and rate limits. The free plan includes 1,000 credits per month with no credit card required.
   * [FormatJSONOnline.com](https://formatjsononline.com) - A free, browser-based tool to format, validate,compare and minify JSON data instantly.
   * [FraudLabs Pro](https://www.fraudlabspro.com) - Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
@@ -327,7 +329,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
-  * [Pexafy](https://pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
+  * [Pexafy](https://docs.pexafy.com) - Semantic image search API across 9 free photo sources (Unsplash, Pexels, Pixabay, Kaboompics & more), 9M+ photos under one JSON schema instead of one integration per source. Plain-language queries, reverse image search, filters on color, orientation and license. CORS is open on read endpoints, so it runs from the browser. The free plan includes 5,000 API requests/month and 1 key, no app review.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Posthook](https://posthook.io) - Schedule webhooks to fire at a future time with automatic retries, delivery tracking, and failure alerting. Free plan includes 1,000 webhooks per month.
   * [Postman](https://postman.com) - Simplify workflows and create better APIs - faster - with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
@@ -405,7 +407,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Fizzy](https://www.fizzy.do/) - Kanban-based platform for project management and issue tracking. Create public boards, set up webhooks, use card stamping, and track unlimited users - free for up to 1000 items.
   * [flat.social](https://flat.social) - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.
   * [flock.com](https://flock.com) - A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
-  * [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, 30-day history, Gmail threading, canned responses and push notifications.
+  * [GhostChat](https://ghostchat.dev) - Privacy-first live chat widget for websites (~15KB, no cookies, no tracking). Free plan includes 1 site, unlimited messages, a built-in AI chatbot (25 replies/mo), 30-day history, Gmail threading, canned responses and push notifications. No credit card required.
   * [GitBook](https://www.gitbook.com/) - Platform for capturing and documenting technical knowledge - from product docs to internal knowledge bases and APIs. Free plan for individual developers.
   * [GitDailies](https://gitdailies.com) - Daily reports of your team's Commit and Pull Request activity on GitHub. Includes Push visualizer, peer recognition system, and custom alert builder. The free tier has unlimited users, three repos, and 3 alert configs.
   * [gitter.im](https://gitter.im/) - Chat, for GitHub. Unlimited public and private rooms, free for teams of up to 25
@@ -585,6 +587,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     Works for native apps, flutter, react-native, web, ionic, and many more app frameworks. The free plan is limited to 10 tests for iOS and 10 for Android, but includes most of the features of the paid plans, including unlimited test runs.
   * [Requestly](https://requestly.com/) - Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests.
     Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/).  Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.
+  * [Sample Files](https://mzeeshan.me/tools/sample-files) - Collection of free test files across video, audio, document and archive formats, useful for testing and QA.
   * [seotest.me](https://seotest.me/) - Free on-page SEO website tester. 10 free website crawls per day. Useful SEO learning resources and recommendations on how to improve the on-page SEO results for any website regardless of technology.
   * [Sherlo](https://sherlo.io) - Visual regression testing for React Native apps. Free plan: 1,000 snapshots/month, iOS & Android simulators.
   * [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen but for cross-browser testing. UI-licious lets you write tests like user stories and offers a free platform - UI-licious Snippets - that allows you to run unlimited tests on Chrome with no sign-up required for up to 3 minutes per test run. Found a bug? You can copy the unique URL to your test to show your devs exactly how to reproduce the bug.
@@ -781,6 +784,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [inspector.dev](https://www.inspector.dev) - A complete Real-Time monitoring dashboard in less than one minute with a free forever tier.
   * [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
   * [isitdownstatus.com](https://isitdownstatus.com) – Free public JSON API returning real-time status for 500+ popular services (GitHub, Stripe, AWS, etc.). No auth required, CORS enabled.
+  * [LastPing](https://lastping.dev) - Dead man's switch for AI agents, cron jobs and CI. Free for individuals with unlimited monitors and destinations. Let AI agents build monitoring for everything including themselves.
   * [linkok.com](https://linkok.com) - Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.
   * [loader.io](https://loader.io/) - Free load testing tools with limitations
   * [MarionetteOps.com](https://www.marionetteops.com/) - Server monitoring, public status pages, and service uptime monitoring.
@@ -1457,7 +1461,6 @@ Update Time, five active automations, webhooks.
 
 
   * [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on every type of Android device. Open Source IDE is free for everyone and the best Android app development. Available for Windows, Mac, Linux, and even ChromeOS!
-  * [AndroidIDE](https://m.androidide.com/) - An Open Source IDE to develop real, Gradle-based Android applications on Android devices.
   * [Apache Netbeans](https://netbeans.apache.org/) - Development Environment, Tooling Platform and Application Framework.
   * [apiary.io](https://apiary.io/) - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited users with one admin account and hosted documentation).
   * [BBEdit](https://www.barebones.com/) - BBEdit is a popular and extensible editor for macOS. Free Mode provides a [powerful core feature set](https://www.barebones.com/products/bbedit/comparison.html) and an upgrade path to advanced features.

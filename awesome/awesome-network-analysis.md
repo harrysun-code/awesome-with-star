@@ -672,6 +672,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) [![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/littleballoffur?style=flat)](https://github.com/benedekrozemberczki/littleballoffur/stargazers) - Python package for sampling from graph structured data with a scikit-learn like API.
 -   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
 -   [networkx](https://networkx.org/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+    -   [gdMetriX](https://github.com/livus/gdMetriX) [![GitHub stars](https://img.shields.io/github/stars/livus/gdMetriX?style=flat)](https://github.com/livus/gdMetriX/stargazers) - NetworkX extension for computing graph drawing quality metrics (crossings, symmetry, node distribution, edge directions, and more).
     -   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304), using networkx and numpy (2014).
     -   [nxviz](https://github.com/ericmjl/nxviz/) [![GitHub stars](https://img.shields.io/github/stars/ericmjl/nxviz/?style=flat)](https://github.com/ericmjl/nxviz//stargazers) - Visualization package for NetworkX.
 -   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
@@ -1039,8 +1040,9 @@ Alden S. Klovdahl,
 [Benjamin Smith](https://github.com/benyamindsmith) [![GitHub stars](https://img.shields.io/github/stars/benyamindsmith?style=flat)](https://github.com/benyamindsmith/stargazers), 
 [Beth Duckles](https://github.com/bduckles) [![GitHub stars](https://img.shields.io/github/stars/bduckles?style=flat)](https://github.com/bduckles/stargazers), 
 [Lei Cao](https://github.com/cllei12) [![GitHub stars](https://img.shields.io/github/stars/cllei12?style=flat)](https://github.com/cllei12/stargazers), 
-[Simon Delarue](https://www.simondelarue.com/) and 
-[Christian Schulz](https://schulzchristian.github.io/) - 
+[Simon Delarue](https://www.simondelarue.com/), 
+[Christian Schulz](https://schulzchristian.github.io/) and
+[Sebastian Röder](https://github.com/livus) [![GitHub stars](https://img.shields.io/github/stars/livus?style=flat)](https://github.com/livus/stargazers) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland) [![GitHub stars](https://img.shields.io/github/stars/rjackland?style=flat)](https://github.com/rjackland/stargazers), 

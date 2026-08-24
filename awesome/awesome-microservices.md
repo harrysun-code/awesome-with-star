@@ -35,6 +35,7 @@ A curated list of Microservice Architecture related principles and technologies.
   - [Workflow Orchestration](#workflow-orchestration)
   - [Elasticity](#elasticity)
   - [Job Schedulers / Workload Automation](#job-schedulers--workload-automation)
+  - [Local Development](#local-development)
   - [Logging](#logging)
   - [Messaging](#messaging)
   - [Monitoring & Debugging](#monitoring--debugging)
@@ -270,15 +271,14 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) [![GitHub stars](https://img.shields.io/github/stars/ChristianUlbrich/awesome-microfrontends?style=flat)](https://github.com/ChristianUlbrich/awesome-microfrontends/stargazers) :star: - A curated list of resources about Micro Frontends.
 - [Electrode](https://github.com/electrode-io) [![GitHub stars](https://img.shields.io/github/stars/electrode-io?style=flat)](https://github.com/electrode-io/stargazers) - Universal React/Node.js application platform.
 - [Micro Frontends](https://micro-frontends.org) - Extending the microservice idea to frontend development.
-- [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) - MiniApp standardization white paper.
+- [MiniApp White Paper](https://w3c.github.io/miniapp-white-paper/) - MiniApp standardization white paper.
 
 ## Capabilities
 
 ### API Gateways / Edge Services
 
-> Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
-
 - [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
+- [Apache APISIX](https://apisix.apache.org/) - High-performance, real-time API gateway and AI gateway built on NGINX and etcd, with hot-reloaded routing and 100+ plugins.
 - [APIcast](https://github.com/3scale/APIcast) [![GitHub stars](https://img.shields.io/github/stars/3scale/APIcast?style=flat)](https://github.com/3scale/APIcast/stargazers) - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
 - [Bunker Web](https://github.com/bunkerity/bunkerweb) [![GitHub stars](https://img.shields.io/github/stars/bunkerity/bunkerweb?style=flat)](https://github.com/bunkerity/bunkerweb/stargazers) - Web app hosting and reverse proxy secure by default.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
@@ -348,6 +348,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
 - [Schedulix](https://github.com/schedulix/schedulix) [![GitHub stars](https://img.shields.io/github/stars/schedulix/schedulix?style=flat)](https://github.com/schedulix/schedulix/stargazers) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
+### Local Development
+
+- [mirrord](https://metalbear.com/mirrord/) - Run local code as if it were a pod in a remote Kubernetes cluster.
+
 ### Logging
 
 - [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
@@ -394,6 +398,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Reactivity
 
+- [Arroyo](https://github.com/ArroyoSystems/arroyo) [![GitHub stars](https://img.shields.io/github/stars/ArroyoSystems/arroyo?style=flat)](https://github.com/ArroyoSystems/arroyo/stargazers) - Distributed stream processing engine to transform, filter, aggregate, and join data streams by writing SQL.
 - [Reactor.io](https://github.com/reactor) [![GitHub stars](https://img.shields.io/github/stars/reactor?style=flat)](https://github.com/reactor/stargazers) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
 - [Reactive Kafka](https://github.com/akka/alpakka-kafka) [![GitHub stars](https://img.shields.io/github/stars/akka/alpakka-kafka?style=flat)](https://github.com/akka/alpakka-kafka/stargazers) - Reactive Streams API for Apache Kafka.
 - [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
@@ -445,26 +450,21 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Storage
 
-- [Alluxio](https://github.com/Alluxio/alluxio) [![GitHub stars](https://img.shields.io/github/stars/Alluxio/alluxio?style=flat)](https://github.com/Alluxio/alluxio/stargazers) - Virtual distributed storage system.
 - [Apache Cassandra](http://cassandra.apache.org) - Column-oriented and providing high availability with no single point of failure.
 - [Aerospike (c)](http://www.aerospike.com/) - High performance NoSQL database delivering speed at scale.
 - [ArangoDB](https://www.arangodb.com/) - A distributed free and open source database with a flexible data model for documents, graphs, and key-values.
-- [AtlasDB](https://github.com/palantir/atlasdb) [![GitHub stars](https://img.shields.io/github/stars/palantir/atlasdb?style=flat)](https://github.com/palantir/atlasdb/stargazers) - Transactional layer on top of a key value store.
 - [Citus](https://github.com/citusdata/citus) [![GitHub stars](https://img.shields.io/github/stars/citusdata/citus?style=flat)](https://github.com/citusdata/citus/stargazers) - Distributed PostgreSQL as an extension.
 - [CockroachDB (c)](https://www.cockroachlabs.com/) - A cloud-native SQL database modelled after Google Spanner.
 - [Couchbase](https://github.com/couchbase) [![GitHub stars](https://img.shields.io/github/stars/couchbase?style=flat)](https://github.com/couchbase/stargazers) - A distributed database engineered for performance, scalability, and simplified administration.
 - [Crate (c)](https://crate.io/) - Scalable SQL database with the NoSQL goodies.
-- [Datomic](http://www.datomic.com/) - Fully transactional, cloud-ready, distributed database.
 - [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/elasticsearch) - Open source distributed, scalable, and highly available search server.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
 - [InfluxDB](https://github.com/influxdata/influxdb) [![GitHub stars](https://img.shields.io/github/stars/influxdata/influxdb?style=flat)](https://github.com/influxdata/influxdb/stargazers) - Scalable datastore for metrics, events, and real-time analytics.
-- [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.
-- [Pilosa](https://github.com/pilosa/pilosa) [![GitHub stars](https://img.shields.io/github/stars/pilosa/pilosa?style=flat)](https://github.com/pilosa/pilosa/stargazers) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 - [RethinkDB](http://rethinkdb.com/) - Open source, scalable database that makes building realtime apps easier.
-- [Secure Scuttlebutt](https://github.com/ssbc/docs) [![GitHub stars](https://img.shields.io/github/stars/ssbc/docs?style=flat)](https://github.com/ssbc/docs/stargazers) - P2P database of message-feeds.
 - [TiKV](https://github.com/tikv) [![GitHub stars](https://img.shields.io/github/stars/tikv?style=flat)](https://github.com/tikv/stargazers) - Distributed transactional key-value database.
+- [TimescaleDB](https://github.com/timescale/timescaledb) [![GitHub stars](https://img.shields.io/github/stars/timescale/timescaledb?style=flat)](https://github.com/timescale/timescaledb/stargazers) - A time-series database for high-performance real-time analytics packaged as a Postgres extension.
 - [Trino](https://trino.io/) - Fast distributed SQL query engine for big data analytics that helps you explore your data universe.
 
 ### Testing
@@ -472,11 +472,11 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Goreplay](https://github.com/buger/goreplay) [![GitHub stars](https://img.shields.io/github/stars/buger/goreplay?style=flat)](https://github.com/buger/goreplay/stargazers) - A tool for capturing and replaying live HTTP traffic into a test environment.
 - [Keploy](https://keploy.io) - Open-source tool for API testing and mocking by capturing real traffic and converting it into test cases and stubs, enabling reliable microservice testing.
 - [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+- [MockServer](https://www.mock-server.com) - Mocking, debugging proxy and chaos engineering for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock dependencies, record/replay traffic, verify requests, and inject faults for integration and resilience testing.
 - [Mountebank](http://www.mbtest.org/) - Cross-platform, multi-protocol test doubles over the wire.
 - [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [RestQA](https://github.com/restqa/restqa) [![GitHub stars](https://img.shields.io/github/stars/restqa/restqa?style=flat)](https://github.com/restqa/restqa/stargazers) - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.
 - [Specmatic](https://specmatic.io) - Converts API specifications (OpenAPI, AsyncAPI, GraphQL, gRPC etc) into executable contracts for automated testing, service virtualisation, and backward compatibility validation without writing code.
-- [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) - TDD to the level of software architecture.
 - [VCR](https://github.com/vcr/vcr) [![GitHub stars](https://img.shields.io/github/stars/vcr/vcr?style=flat)](https://github.com/vcr/vcr/stargazers) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
 - [Wilma](https://github.com/epam/Wilma) [![GitHub stars](https://img.shields.io/github/stars/epam/Wilma?style=flat)](https://github.com/epam/Wilma/stargazers) - Combined HTTP/HTTPS service stub and transparent proxy solution.
 - [WireMock](http://wiremock.org/) - Flexible library for stubbing and mocking web services. Unlike general purpose mocking tools it works by creating an actual HTTP server that your code under test can connect to as it would a real web service.

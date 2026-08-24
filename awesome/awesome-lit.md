@@ -78,6 +78,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [Vite Lit Element TS SASS](https://github.com/e111077/vite-lit-element-ts-sass) [![GitHub stars](https://img.shields.io/github/stars/e111077/vite-lit-element-ts-sass?style=flat)](https://github.com/e111077/vite-lit-element-ts-sass/stargazers) - Example Vite project using Lit 2, Typescript, and SASS.
 - [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite/tree/main/packages/create-vite/template-lit?style=flat)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit/stargazers) - Lit based template preset for Vite.
 - [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite/tree/main/packages/create-vite/template-lit-ts?style=flat)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts/stargazers) - Lit and TypeScript based template preset for Vite.
+- [Vite Lit + Intlayer](https://github.com/aymericzip/intlayer-vite-lit-template) [![GitHub stars](https://img.shields.io/github/stars/aymericzip/intlayer-vite-lit-template?style=flat)](https://github.com/aymericzip/intlayer-vite-lit-template/stargazers) - Per-component i18n solution for app and design-systems.
 - [Vite Lit + Tailwind](https://github.com/lloydrichards/base_lit-with-tailwind) [![GitHub stars](https://img.shields.io/github/stars/lloydrichards/base_lit-with-tailwind?style=flat)](https://github.com/lloydrichards/base_lit-with-tailwind/stargazers) - Modified Vite + Lit starter to use Tailwind v4.
 
 ## Codelabs
@@ -143,6 +144,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [`lit-composition`](https://www.npmjs.com/package/lit-composition) - Composition API for creating web components with Lit.
 - [`lit-element-effect`](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
 - [`lit-element-state-decoupler`](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
+- [`lit-intlayer`](https://intlayer.org/doc/environment/vite-and-lit) - Making a lit application multilingual using Intlayer.
 - [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
 - [`lit-svelte-stores`](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
 - [`ullr`](https://github.com/aggre/ullr) [![GitHub stars](https://img.shields.io/github/stars/aggre/ullr?style=flat)](https://github.com/aggre/ullr/stargazers) - Build Web Components with functional programming using Lit.
@@ -301,7 +303,7 @@ See [lit.dev documentation](https://lit.dev/docs/getting-started/#use-bundles) f
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-An episode with the lit-html creator Justin Fagnani.
+  An episode with the lit-html creator Justin Fagnani.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) - Another episode with Justin Fagnani as a guest.
 
 ## Archive

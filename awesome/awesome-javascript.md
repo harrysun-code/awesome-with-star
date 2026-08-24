@@ -593,6 +593,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [crossroads](https://github.com/millermedeiros/crossroads.js) [![GitHub stars](https://img.shields.io/github/stars/millermedeiros/crossroads.js?style=flat)](https://github.com/millermedeiros/crossroads.js/stargazers) - JavaScript Routes.
 * [davis.js](https://github.com/olivernn/davis.js) [![GitHub stars](https://img.shields.io/github/stars/olivernn/davis.js?style=flat)](https://github.com/olivernn/davis.js/stargazers) - RESTful degradable JavaScript routing using pushState.
 * [navaid](https://github.com/lukeed/navaid) [![GitHub stars](https://img.shields.io/github/stars/lukeed/navaid?style=flat)](https://github.com/lukeed/navaid/stargazers) - A navigation aid (aka, router) for the browser in 850 bytes~!
+* [speedy-router](https://github.com/anonrig/router) [![GitHub stars](https://img.shields.io/github/stars/anonrig/router?style=flat)](https://github.com/anonrig/router/stargazers) - The TanStack Router API rebuilt for faster navigations and SSR.
 
 ## Security
 
@@ -1102,6 +1103,7 @@ https://listjs.com
 * [lune](https://github.com/ryanseys/lune) [![GitHub stars](https://img.shields.io/github/stars/ryanseys/lune?style=flat)](https://github.com/ryanseys/lune/stargazers) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) [![GitHub stars](https://img.shields.io/github/stars/fcambus/jsemu?style=flat)](https://github.com/fcambus/jsemu/stargazers) - A list of emulators written in the JavaScript programming language.
 * [rrweb](https://github.com/rrweb-io/rrweb) [![GitHub stars](https://img.shields.io/github/stars/rrweb-io/rrweb?style=flat)](https://github.com/rrweb-io/rrweb/stargazers) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
+* [enum-plus](https://github.com/shijistar/enum-plus) [![GitHub stars](https://img.shields.io/github/stars/shijistar/enum-plus?style=flat)](https://github.com/shijistar/enum-plus/stargazers) - A drop-in enhancement for native TypeScript enums, adding display text, internationalization and full type safety.
 
 # Worth Reading
  

@@ -47,6 +47,8 @@ To enhance your WezTerm configuration experience:
 - [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) [![GitHub stars](https://img.shields.io/github/stars/selectnull/pinned-tabs.wezterm?style=flat)](https://github.com/selectnull/pinned-tabs.wezterm/stargazers) - Lets you assign a key binding to a specific tab.
 - [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) [![GitHub stars](https://img.shields.io/github/stars/abidibo/wezterm-cmdpicker?style=flat)](https://github.com/abidibo/wezterm-cmdpicker/stargazers) - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
 - [annie444/sync-panes.wez](https://github.com/annie444/sync-panes.wez) [![GitHub stars](https://img.shields.io/github/stars/annie444/sync-panes.wez?style=flat)](https://github.com/annie444/sync-panes.wez/stargazers) - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
+- [KawaiiSelbst/nu_utf8_hack.wez](https://github.com/KawaiiSelbst/nu_utf8_hack.wez) [![GitHub stars](https://img.shields.io/github/stars/KawaiiSelbst/nu_utf8_hack.wez?style=flat)](https://github.com/KawaiiSelbst/nu_utf8_hack.wez/stargazers) - Rough hack for correct handling utf8 symbols with `SHIFT` key with `kitty-keyboard-protocol` for users of nushell.
+- [KawaiiSelbst/keys_bypass.wez](https://github.com/KawaiiSelbst/keys_bypass.wez) [![GitHub stars](https://img.shields.io/github/stars/KawaiiSelbst/keys_bypass.wez?style=flat)](https://github.com/KawaiiSelbst/keys_bypass.wez/stargazers) - Bypasses WezTerm shortcuts to send keys to the foreground process (e.g., Zellij or tmux). 
 
 ## Media
 
