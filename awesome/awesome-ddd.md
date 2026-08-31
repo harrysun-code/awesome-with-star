@@ -128,7 +128,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Europe](https://dddeurope.com/videos) - Recordings of talks given at DDD Europe.
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - Searching DDD returns various talks given by Greg Young, Alberto Brandolini, and Dan North, etc.
 - [Alberto Brandolini: Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
-- [GlobalAppTesting TechTalks](https://vimeo.com/showcase/gatengineering) - A vimeo channel focused on DDD and CQRS.
+- [GlobalAppTesting TechTalks](https://drive.google.com/drive/folders/1D4LPXUnT9_r8j4Qd1t0qsJLXHh95DPMJ?usp=share_link) - Library of public tech talks focused on DDD and CQRS.
 - [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) - A YouTube collection of various talks given by Greg Young.
 - [Explore DDD videos](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag) - Recordings of the talks given at the Explore DDD conference.
 - [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) - A YouTube collection of talks given at KanDDDinsky.

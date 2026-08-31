@@ -202,6 +202,7 @@ A curated list of bitcoin services and tools for software developers
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) [![GitHub stars](https://img.shields.io/github/stars/mcdee/blockparser?style=flat)](https://github.com/mcdee/blockparser/stargazers) - Fast, quick and dirty bitcoin blockchain parser.
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) [![GitHub stars](https://img.shields.io/github/stars/bitcoin-abe/bitcoin-abe?style=flat)](https://github.com/bitcoin-abe/bitcoin-abe/stargazers) - Abe: block browser for Bitcoin and similar currencies.
 * [Chaingraph](https://github.com/bitauth/chaingraph/) [![GitHub stars](https://img.shields.io/github/stars/bitauth/chaingraph/?style=flat)](https://github.com/bitauth/chaingraph//stargazers) – A multi-node blockchain indexer and GraphQL API.
+* [nodsig](https://github.com/amenano/nodsig) [![GitHub stars](https://img.shields.io/github/stars/amenano/nodsig?style=flat)](https://github.com/amenano/nodsig/stargazers) - Turns your node's blocks into sealed local artifacts: chain questions become offline lookups, and every answer carries a fingerprint anyone can recompute. Python stdlib only.
 
 ## Full nodes
 * [btcd](https://github.com/btcsuite/btcd/) [![GitHub stars](https://img.shields.io/github/stars/btcsuite/btcd/?style=flat)](https://github.com/btcsuite/btcd//stargazers) - Go-based full node since 2013.

@@ -47,12 +47,16 @@
 * [PiKVM](https://pikvm.org/) - Inexpensive DIY IP-KVM based on Raspberry Pi.
 * [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) [![GitHub stars](https://img.shields.io/github/stars/GeiserX/PiSpot-Show?style=flat)](https://github.com/GeiserX/PiSpot-Show/stargazers) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) [![GitHub stars](https://img.shields.io/github/stars/GeiserX/PiSpot-Watch?style=flat)](https://github.com/GeiserX/PiSpot-Watch/stargazers) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
+* [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
 * [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
 * [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
 
 * [Arduino](https://www.arduino.cc/) - Arduino is an electronics platform.
+* [iCEBreaker](https://codeberg.org/icebreaker-fpga/icebreaker) - Low-cost FPGA development board based around the Lattice iCE40.
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) [![GitHub stars](https://img.shields.io/github/stars/cheyao/icepi-zero?style=flat)](https://github.com/cheyao/icepi-zero/stargazers) - A Lattice ECP5-based FPGA development board in the form factor of the Raspberry Pi Zero.
+* [nRF52840 ProMicro](https://github.com/sasodoma/nrf52840-promicro) [![GitHub stars](https://img.shields.io/github/stars/sasodoma/nrf52840-promicro?style=flat)](https://github.com/sasodoma/nrf52840-promicro/stargazers) - A Nordic nRF52840-based development board in the form factor of the Arduino Pro Micro.
 * [OpenMV](https://github.com/openmv/openmv) [![GitHub stars](https://img.shields.io/github/stars/openmv/openmv?style=flat)](https://github.com/openmv/openmv/stargazers) - Low-cost machine vision platform.
 * [pic0rick](https://github.com/kelu124/pic0rick/) [![GitHub stars](https://img.shields.io/github/stars/kelu124/pic0rick/?style=flat)](https://github.com/kelu124/pic0rick//stargazers) - A Raspberry Pi Pico platform for pulse-echo ultrasound imaging hardware.
 
@@ -60,6 +64,8 @@
 
 * [Biohack Academy](https://assets.waag.org/biohackacademy) - Biotechnological hardware such as an incubator, thermocycler, centrifuge, microscope, etc.
 * [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - Hardware projects for biology laboratories.
+* [HackRF Pro](https://github.com/greatscottgadgets/hackrf-pro) [![GitHub stars](https://img.shields.io/github/stars/greatscottgadgets/hackrf-pro?style=flat)](https://github.com/greatscottgadgets/hackrf-pro/stargazers) - Upgraded version of the [HackRF One](https://github.com/greatscottgadgets/hackrf) [![GitHub stars](https://img.shields.io/github/stars/greatscottgadgets/hackrf?style=flat)](https://github.com/greatscottgadgets/hackrf/stargazers), a low-cost software-defined radio.
+* [LibreVNA](https://github.com/jankae/LibreVNA) [![GitHub stars](https://img.shields.io/github/stars/jankae/LibreVNA?style=flat)](https://github.com/jankae/LibreVNA/stargazers) - A vector network analyzer capable of measurements up to 6 GHz.
 * [mesoSPIM](http://mesospim.org/) - Light-sheet microscopes for imaging in cleared tissue.
 * [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) [![GitHub stars](https://img.shields.io/github/stars/Open-Gamma-Project/Open-Gamma-Detector?style=flat)](https://github.com/Open-Gamma-Project/Open-Gamma-Detector/stargazers) - Hackable, low-cost gamma-ray spectrometer.
 * [OpenBCI](https://openbci.com/) - Brain-computer interface.
@@ -136,6 +142,7 @@
 * [Openlifescience](https://openlifesci.org/) - Program to make Open Science ambassadors in research.
 * [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 * [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects. 
+* [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
 
 ## Podcasts
 

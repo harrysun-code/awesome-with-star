@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **233** projects · **62** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **62** actively maintained · **11** 🔥 hot · **51** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -102,9 +102,9 @@ Also see:
 - [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
-- [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
+- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
@@ -278,18 +278,18 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) [![GitHub stars](https://img.shields.io/github/stars/SnowdogApps/magento2-menu?style=flat)](https://github.com/SnowdogApps/magento2-menu/stargazers) 🔥 🫡 - Provides a powerful menu editor to replace category-based menus in Magento 2.
 - [Sentry.io](https://github.com/justbetter/magento2-sentry) [![GitHub stars](https://img.shields.io/github/stars/justbetter/magento2-sentry?style=flat)](https://github.com/justbetter/magento2-sentry/stargazers) 🫡 - Application monitoring and error tracking software for Magento 2.
 - [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) [![GitHub stars](https://img.shields.io/github/stars/hyva-themes/magento2-hyva-admin?style=flat)](https://github.com/hyva-themes/magento2-hyva-admin/stargazers) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
+- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login?style=flat)](https://github.com/bitExpert/magento2-force-login/stargazers) 🫡 - Forces customers to log in before accessing certain pages.
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) [![GitHub stars](https://img.shields.io/github/stars/firegento/FireGento_FastSimpleImport2?style=flat)](https://github.com/firegento/FireGento_FastSimpleImport2/stargazers) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+- [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) [![GitHub stars](https://img.shields.io/github/stars/experius/Magento-2-Module-PageNotFound?style=flat)](https://github.com/experius/Magento-2-Module-PageNotFound/stargazers) 🫡 - Saves upcoming 404s in your database with the possibility to create a redirect.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) [![GitHub stars](https://img.shields.io/github/stars/magenizr/Magenizr_ResetUiBookmarks?style=flat)](https://github.com/magenizr/Magenizr_ResetUiBookmarks/stargazers) 🫡 - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
 - [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) [![GitHub stars](https://img.shields.io/github/stars/mage-os/theme-adminhtml-m137?style=flat)](https://github.com/mage-os/theme-adminhtml-m137/stargazers) 🫡 - M137 Admin Theme for Magento/Mage-OS
 - [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-gmail-smtp-app?style=flat)](https://github.com/magepal/magento2-gmail-smtp-app/stargazers) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) [![GitHub stars](https://img.shields.io/github/stars/AmpersandHQ/magento2-disable-stock-reservation?style=flat)](https://github.com/AmpersandHQ/magento2-disable-stock-reservation/stargazers) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
-- [Customer Force Login](https://github.com/bitExpert/magento2-force-login) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/magento2-force-login?style=flat)](https://github.com/bitExpert/magento2-force-login/stargazers) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) [![GitHub stars](https://img.shields.io/github/stars/redchamps/clean-admin-menu?style=flat)](https://github.com/redchamps/clean-admin-menu/stargazers) - Merges 3rd-party extensions into a single menu.
 - [Magento 2 Import Framework](https://github.com/techdivision/import) [![GitHub stars](https://img.shields.io/github/stars/techdivision/import?style=flat)](https://github.com/techdivision/import/stargazers) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_CheckoutTester2?style=flat)](https://github.com/yireo/Yireo_CheckoutTester2/stargazers) - Extension to quickly test Checkout changes.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-preview-checkout-success-page?style=flat)](https://github.com/magepal/magento2-preview-checkout-success-page/stargazers) - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-guest-to-customer?style=flat)](https://github.com/magepal/magento2-guest-to-customer/stargazers) - Quickly and easily convert existing guest checkout customers to registered customers.
-- [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) [![GitHub stars](https://img.shields.io/github/stars/experius/Magento-2-Module-PageNotFound?style=flat)](https://github.com/experius/Magento-2-Module-PageNotFound/stargazers) - Saves upcoming 404s in your database with the possibility to create a redirect.
 - [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) [![GitHub stars](https://img.shields.io/github/stars/elninotech/ElNino_ProductLinksNavigator?style=flat)](https://github.com/elninotech/ElNino_ProductLinksNavigator/stargazers) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
 
 <details>
@@ -320,7 +320,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Infrastructure
 
-- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) [![GitHub stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager?style=flat)](https://github.com/Ethan3600/magento2-CronjobManager/stargazers) 🔥 - Cron Job Manager for Magento 2.
+- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) [![GitHub stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager?style=flat)](https://github.com/Ethan3600/magento2-CronjobManager/stargazers) 🔥 🫡 - Cron Job Manager for Magento 2.
 - [magento-cache-clean](https://github.com/mage-os/magento-cache-clean) [![GitHub stars](https://img.shields.io/github/stars/mage-os/magento-cache-clean?style=flat)](https://github.com/mage-os/magento-cache-clean/stargazers) 🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [module-theme-optimization](https://github.com/mage-os/module-theme-optimization) [![GitHub stars](https://img.shields.io/github/stars/mage-os/module-theme-optimization?style=flat)](https://github.com/mage-os/module-theme-optimization/stargazers) 🫡 - bfcache, speculative loading, and view transitions for Magento
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) [![GitHub stars](https://img.shields.io/github/stars/fastly/fastly-magento2?style=flat)](https://github.com/fastly/fastly-magento2/stargazers) - Magento 2 Fastly integration.
@@ -396,13 +396,13 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## Podcasts
 
-- [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
 - [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
+- [Talk Commerce](https://talk-commerce.com/podcasts/) - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
 
 </details>
 
@@ -426,9 +426,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ## Learning
 
-- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) 🫡 - Max Pronko's YouTube channel for Magento 2 development.
 - [M.academy](https://m.academy/) - Video lessons and courses for Magento 2 and Adobe Commerce.
 - [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
+- [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) - Max Pronko's YouTube channel for Magento 2 development.
 - [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
 
 <details>
@@ -458,7 +458,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Official Resources
 
 - [Magento GitHub Repository](https://github.com/magento/magento2) [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=flat)](https://github.com/magento/magento2/stargazers) 🫡 - Magento 2 GitHub repository.
-- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) [![GitHub stars](https://img.shields.io/github/stars/magento/magento-coding-standard?style=flat)](https://github.com/magento/magento-coding-standard/stargazers) - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
+- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) [![GitHub stars](https://img.shields.io/github/stars/magento/magento-coding-standard?style=flat)](https://github.com/magento/magento-coding-standard/stargazers) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) [![GitHub stars](https://img.shields.io/github/stars/magento/data-migration-tool?style=flat)](https://github.com/magento/data-migration-tool/stargazers) - Official Magento 1 → Magento 2 migration tool.
 - [Magento 2 Architecture](https://github.com/magento/architecture) [![GitHub stars](https://img.shields.io/github/stars/magento/architecture?style=flat)](https://github.com/magento/architecture/stargazers) - Architectural discussions about Magento 2.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.

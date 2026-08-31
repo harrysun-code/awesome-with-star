@@ -187,8 +187,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 - [@farming-labs/docs](https://github.com/farming-labs/docs) [![GitHub stars](https://img.shields.io/github/stars/farming-labs/docs?style=flat)](https://github.com/farming-labs/docs/stargazers) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
-
+- [FileFlex](https://github.com/armor229-ux/File-Flex) [![GitHub stars](https://img.shields.io/github/stars/armor229-ux/File-Flex?style=flat)](https://github.com/armor229-ux/File-Flex/stargazers) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
+- [DevScratchpad](https://github.com/Saad-web-spec/DevScratchPad) [![GitHub stars](https://img.shields.io/github/stars/Saad-web-spec/DevScratchPad?style=flat)](https://github.com/Saad-web-spec/DevScratchPad/stargazers) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
 - [DevToolKit](https://github.com/a827681306/devtoolkit) [![GitHub stars](https://img.shields.io/github/stars/a827681306/devtoolkit?style=flat)](https://github.com/a827681306/devtoolkit/stargazers) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 - [CourseLit](https://github.com/codelit/courselit) [![GitHub stars](https://img.shields.io/github/stars/codelit/courselit?style=flat)](https://github.com/codelit/courselit/stargazers) - An open source alternative to Thinkific, Teachable etc.
 - [FIM Agent](https://github.com/fim-ai/fim-agent) [![GitHub stars](https://img.shields.io/github/stars/fim-ai/fim-agent?style=flat)](https://github.com/fim-ai/fim-agent/stargazers) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
@@ -230,6 +231,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 - [shadcn/ui](https://github.com/shadcn/ui) [![GitHub stars](https://img.shields.io/github/stars/shadcn/ui?style=flat)](https://github.com/shadcn/ui/stargazers) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) [![GitHub stars](https://img.shields.io/github/stars/AlandSleman/StorageBox?style=flat)](https://github.com/AlandSleman/StorageBox/stargazers) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
+- [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
 
 ## Books
 

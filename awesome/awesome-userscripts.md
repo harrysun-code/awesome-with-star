@@ -621,7 +621,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">Amazon Wishlist Search</a> - Adds a search input field to the wishlist dropdown (supports regex search).</summary><br>
     <blockquote>
         <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
-            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/refs/heads/main/assets/amazon-wishlist-search-demo-480.gif"></a>
+            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/615848b1f5977ce9245b4aea797e9bcfb9aaddc7/assets/amazon-wishlist-search-demo-480.Aug-25-2026.gif"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/releases/latest/download/amazon-wishlist-search.user.js">
@@ -1564,6 +1564,21 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
+
+<details> <!-- Disable YouTube Hotkeys with Modern Settings Page -->
+    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys with Modern Settings Page</a> - Blocks selected YouTube hotkeys with fine-grained control.</summary><br>
+    <blockquote>
+        <p>Blocking pauses while typing in search, comments, chat, and other text fields.</p>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/563265/Disable%20YouTube%20Hotkeys%20with%20Modern%20Settings%20Page.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- Simple Sponsor Skipper -->
     <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors & filler using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>

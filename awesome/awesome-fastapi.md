@@ -47,6 +47,7 @@
 
 ### Admin
 
+- [FastAdmin](https://github.com/vsdudakov/fastadmin) [![GitHub stars](https://img.shields.io/github/stars/vsdudakov/fastadmin?style=flat)](https://github.com/vsdudakov/fastadmin/stargazers) - Easy-to-use admin dashboard for FastAPI (also Flask and Django), inspired by Django Admin.
 - [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) [![GitHub stars](https://img.shields.io/github/stars/fastapi-admin/fastapi-admin?style=flat)](https://github.com/fastapi-admin/fastapi-admin/stargazers) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
 - [FastAPI Amis Admin](https://github.com/amisadmin/fastapi-amis-admin) [![GitHub stars](https://img.shields.io/github/stars/amisadmin/fastapi-amis-admin?style=flat)](https://github.com/amisadmin/fastapi-amis-admin/stargazers) - A high-performance, efficient and easily extensible FastAPI admin framework.
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) [![GitHub stars](https://img.shields.io/github/stars/piccolo-orm/piccolo_admin?style=flat)](https://github.com/piccolo-orm/piccolo_admin/stargazers) - A powerful and modern admin GUI, using the Piccolo ORM.
@@ -207,6 +208,7 @@
 - [Deploy Machine Learning Models with Keras, FastAPI, Redis and Docker](https://medium.com/analytics-vidhya/deploy-machine-learning-models-with-keras-fastapi-redis-and-docker-4940df614ece)
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - Develop and test an asynchronous API with FastAPI, Postgres, Pytest, and Docker using Test-Driven Development.
 - [FastAPI for Flask Users](https://amitness.com/posts/fastapi-vs-flask) - Learn FastAPI with a side-by-side code comparison to Flask.
+- [FastAPI Session Leak Detection](https://www.logiclooptech.dev/fastapi-session-leak-detection-sqlalchemy-long-running/) - Diagnose and fix long-running SQLAlchemy sessions and connection pool exhaustion in production.
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/coding/abstracting-fastapi-services) - FastAPI application and service structure for a more maintainable codebase.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://www.mongodb.com/docs/languages/python/pymongo-driver/current/integrations/fastapi-integration/) - Getting started with a complete FastAPI web application stack.
 - [Multitenancy with FastAPI, SQLAlchemy and PostgreSQL](https://mergeboard.com/blog/6-multitenancy-fastapi-sqlalchemy-postgresql/) - Learn how to make FastAPI applications multi-tenant ready.
@@ -301,6 +303,7 @@ Compute:
 - [fastapi-starter-project](https://github.com/mirzadelic/fastapi-starter-project) [![GitHub stars](https://img.shields.io/github/stars/mirzadelic/fastapi-starter-project?style=flat)](https://github.com/mirzadelic/fastapi-starter-project/stargazers) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 - [Full Stack FastAPI and MongoDB - Base Project Generator](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) [![GitHub stars](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=flat)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
 - [Uvicorn Poetry FastAPI Project Template](https://github.com/max-pfeiffer/uvicorn-poetry-fastapi-project-template) [![GitHub stars](https://img.shields.io/github/stars/max-pfeiffer/uvicorn-poetry-fastapi-project-template?style=flat)](https://github.com/max-pfeiffer/uvicorn-poetry-fastapi-project-template/stargazers) - Cookiecutter project template for starting a FastAPI application. Runs in a Docker container with Uvicorn ASGI server on Kubernetes. Supports AMD64 and ARM64 CPU architectures.
+- [FastAPI Agent Blueprint](https://github.com/Mr-DooSun/fastapi-agent-blueprint) [![GitHub stars](https://img.shields.io/github/stars/Mr-DooSun/fastapi-agent-blueprint?style=flat)](https://github.com/Mr-DooSun/fastapi-agent-blueprint/stargazers) - DDD layered template where generic base classes give async CRUD with no boilerplate, domains self-register on discovery, and pre-commit hooks block cross-layer imports at commit time.
 
 ### Docker Images
 

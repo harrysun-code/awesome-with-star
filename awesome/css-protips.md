@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/css-protips?style=flat)](https://github.com/AllThingsSmitty/css-protips/stargazers)
 
 <div align="center">
-  <img src="./assets/img/bulb.svg" width="200" alt="light bulb icon">
+  <img src=".github/assets/banner.png" style="width: 100%" alt="CSS Protips banner">
 </div>
 
 # CSS Protips [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -166,7 +166,9 @@ You can check if a font is installed locally before fetching it remotely, which 
 @font-face {
   font-family: "Dank Mono";
   src:
-    /* Full name */ local("Dank Mono"), /* Postscript name */ local("Dank Mono"),
+    /* Full name */
+    local("Dank Mono"),
+    /* Postscript name */ local("Dank Mono"),
     /* Otherwise, download it! */ url("//...a.server/fonts/DankMono.woff");
 }
 

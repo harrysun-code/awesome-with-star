@@ -77,6 +77,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 - [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator) [![GitHub stars](https://img.shields.io/github/stars/Satttoshi/github-wiki-generator?style=flat)](https://github.com/Satttoshi/github-wiki-generator/stargazers)
 - [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) [![GitHub stars](https://img.shields.io/github/stars/AIDotNet/OpenDeepWiki?style=flat)](https://github.com/AIDotNet/OpenDeepWiki/stargazers)
+- [Github Wiki Generator](https://github.com/Samyc2002/GithubWikiGenerator) [![GitHub stars](https://img.shields.io/github/stars/Samyc2002/GithubWikiGenerator?style=flat)](https://github.com/Samyc2002/GithubWikiGenerator/stargazers)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](contributing.md) first.

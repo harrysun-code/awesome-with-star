@@ -417,6 +417,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) [![GitHub stars](https://img.shields.io/github/stars/guofei9987/scikit-opt?style=flat)](https://github.com/guofei9987/scikit-opt/stargazers)
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) [![GitHub stars](https://img.shields.io/github/stars/maximtrp/scikit-posthocs?style=flat)](https://github.com/maximtrp/scikit-posthocs/stargazers)
 * [feature-engine](https://feature-engine.trainindata.com/)
+* [me_fasttext](https://github.com/initial-d/me_fasttext) [![GitHub stars](https://img.shields.io/github/stars/initial-d/me_fasttext?style=flat)](https://github.com/initial-d/me_fasttext/stargazers) - Memory-efficient FastText variant with exact trie n-gram IDs, structure-aware row sharing, and mmap serving for large-vocabulary NLP.
 * [pystruct](https://github.com/pystruct/pystruct) [![GitHub stars](https://img.shields.io/github/stars/pystruct/pystruct?style=flat)](https://github.com/pystruct/pystruct/stargazers)
 * [Shogun](https://www.shogun-toolbox.org/)
 * [xLearn](https://github.com/aksnzhy/xlearn) [![GitHub stars](https://img.shields.io/github/stars/aksnzhy/xlearn?style=flat)](https://github.com/aksnzhy/xlearn/stargazers)
@@ -540,6 +541,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Dash](https://plotly.com/dash/)
 - [MetaReview](https://metareview-8c1.pages.dev/) - Free online meta-analysis platform with 11 interactive D3.js statistical charts (forest plot, funnel plot, Galbraith, L'Abbé, Baujat, etc.), 5 effect size measures, AI literature screening, and publication-ready report export. [github.com](https://github.com/TerryFYL/metareview) [![GitHub stars](https://img.shields.io/github/stars/TerryFYL/metareview?style=flat)](https://github.com/TerryFYL/metareview/stargazers)
 - [torchvista](https://github.com/sachinhosmani/torchvista) [![GitHub stars](https://img.shields.io/github/stars/sachinhosmani/torchvista?style=flat)](https://github.com/sachinhosmani/torchvista/stargazers) - Interactive notebook-based tool to visualize the forward pass of any PyTorch model.
+- [FlexViz](https://github.com/flex-analytics/flexviz) [![GitHub stars](https://img.shields.io/github/stars/flex-analytics/flexviz?style=flat)](https://github.com/flex-analytics/flexviz/stargazers) - Python library for interactive, cross-filtered dashboards that stay responsive on 100M+ rows by aggregating with Polars on the server.
 
 ### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**

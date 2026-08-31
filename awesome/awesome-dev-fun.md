@@ -52,6 +52,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 ## Golang
 - [gomatrix](https://github.com/GeertJohan/gomatrix) [![GitHub stars](https://img.shields.io/github/stars/GeertJohan/gomatrix?style=flat)](https://github.com/GeertJohan/gomatrix/stargazers) - Connect to The Matrix and display it's data streams in your terminal.
 - [codeometer](https://github.com/rafael-santiago/codeometer) [![GitHub stars](https://img.shields.io/github/stars/rafael-santiago/codeometer?style=flat)](https://github.com/rafael-santiago/codeometer/stargazers) - It measures your code in real world units of measurement also comparing the evaluated distance to famous places and monuments. Codeometer supports plain code files, zipped files and remote git repos. Doing all stuff as a straightforward command line tool or as a web tool through its embedded httpd (tls supported).
+- [termagitchi](https://github.com/TevvvB/termagitchi) [![GitHub stars](https://img.shields.io/github/stars/TevvvB/termagitchi?style=flat)](https://github.com/TevvvB/termagitchi/stargazers) - A gacha machine bolted to `git status`: every coding-agent session hatches its own ASCII creature, and the creature gets visibly sadder the longer you leave things uncommitted.
 
 
 ## Haskell

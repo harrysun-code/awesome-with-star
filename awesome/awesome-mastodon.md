@@ -82,14 +82,14 @@ This list is a collection of the best Mastodon resources.
 - [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist web interface for Mastodon.
 - [phanpy](https://github.com/cheeaun/phanpy) [![GitHub stars](https://img.shields.io/github/stars/cheeaun/phanpy?style=flat)](https://github.com/cheeaun/phanpy/stargazers) - A minimalistic and opinionated Mastodon web client.
 - [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
-- [Official Client](https://github.com/mastodon/mastodon-android/) [![GitHub stars](https://img.shields.io/github/stars/mastodon/mastodon-android/?style=flat)](https://github.com/mastodon/mastodon-android//stargazers) - Official Android client.
-- [Whalebird](https://whalebird.social/en/desktop/contents/) - Electron-based Mastodon client.
+- [Whalebird](https://whalebird.social/) - Electron-based Mastodon client.
 - [toot](https://github.com/ihabunek/toot/) [![GitHub stars](https://img.shields.io/github/stars/ihabunek/toot/?style=flat)](https://github.com/ihabunek/toot//stargazers) - Mastodon CLI & TUI in Python.
 - [Tokodon](https://apps.kde.org/tokodon/) - Mastodon client made by KDE.
 - [hellclient](https://hell.limitedideas.org) - Mastodon CLI readline client written in Go.
 
 ## Mobile Clients
 
+- [Official Client](https://github.com/mastodon/mastodon-android/) [![GitHub stars](https://img.shields.io/github/stars/mastodon/mastodon-android/?style=flat)](https://github.com/mastodon/mastodon-android//stargazers) - Official Android client.
 - [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 - [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 - [Tusky](https://codeberg.org/tusky/Tusky) - Intuitive Android client.

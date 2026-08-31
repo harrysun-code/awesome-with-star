@@ -48,6 +48,8 @@ Agriculture
         
 * |OK_ICON| `Optimized Soil Adjusted Vegetation Index - The IDB is a tool for working with remote sensing [...] <https://www.indexdatabase.de/db/i-single.php?id=63>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Optimized Soil Adjusted Vegetation Index>`_]
         
+* |OK_ICON| `Turkish Olive Production Data - Olive and olive oil production in Turkiye at province, region [...] <https://github.com/yudumnet/zeytinnet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Turkish-Olive-Production.yml>`_]
+        
 * |OK_ICON| `USDA FoodData Central - The primary source for food composition data from the USDA, providing [...] <https://fdc.nal.usda.gov/download-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-Nutrient-Database.yml>`_]
         
 * |OK_ICON| `U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS Checklist is nearly 7 [...] <https://plants.usda.gov/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-PLANTS-Database.yml>`_]
@@ -82,8 +84,6 @@ Biology
         
 * |FIXME_ICON| `Cell Image Library <https://www.cellimagelibrary.org/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Cell-Image-Library.yml>`_]
         
-* |FIXME_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes are freely [...] <https://completegenomics.mgiamericas.com/demodata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Complete-Genomics-Public-Data.yml>`_]
-        
 * |OK_ICON| `CytoImageNet - A large-scale dataset of microscopy images. Contains 890,737 total grayscale [...] <https://www.kaggle.com/stanleyhua/cytoimagenet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/CytoImageNet.yml>`_]
         
 * |OK_ICON| `DNA Chip Coverage - Which SNP markers are present on consumer DNA genotyping arrays. 70 [...] <https://github.com/AndreySoloviev/dna-chip-coverage>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/DNA-Chip-Coverage.yml>`_]
@@ -106,9 +106,7 @@ Biology
         
 * |OK_ICON| `Harvard Medical School (HMS) LINCS Project - The Harvard Medical School (HMS) LINCS Center is [...] <http://lincs.hms.harvard.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Harvard-Medical-School-LINCS-Project.yml>`_]
         
-* |FIXME_ICON| `Human Genome Diversity Project - A group of scientists at Stanford University have [...] <http://www.hagsc.org/hgdp/files.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Genome-Diversity-Project.yml>`_]
-        
-* |OK_ICON| `Human Microbiome Project (HMP) - The HMP sequenced over 2000 reference genomes isolated from [...] <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Microbiome-Project-HMP.yml>`_]
+* |OK_ICON| `Human Genome Diversity Project - A group of scientists at Stanford University have [...] <https://www.internationalgenome.org/data-portal/data-collection/HGDP>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Genome-Diversity-Project.yml>`_]
         
 * |OK_ICON| `ICOS PSP Benchmark - The ICOS PSP benchmarks repository contains an adjustable real-world [...] <http://ico2s.org/datasets/psp_benchmark.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/ICOS-PSP-Benchmark.yml>`_]
         
@@ -134,7 +132,7 @@ Biology
         
 * |OK_ICON| `Protein Data Bank - This resource is powered by the Protein Data Bank archive-information [...] <http://www.rcsb.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Protein-Data-Bank.yml>`_]
         
-* |FIXME_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics Consortium (PGC) is [...] <https://www.med.unc.edu/pgc/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
+* |OK_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics Consortium (PGC) is [...] <https://www.med.unc.edu/pgc/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
         
 * |OK_ICON| `PubChem Project - PubChem is the world's largest collection of freely accessible chemical [...] <https://pubchem.ncbi.nlm.nih.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/PubChem-Project.yml>`_]
         
@@ -142,7 +140,7 @@ Biology
         
 * |OK_ICON| `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) - COSMIC, the Catalogue Of Somatic [...] <http://cancer.sanger.ac.uk/cosmic>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sanger-Catalogue-of-Somatic-Mutations-in-Cancer-COSMIC.yml>`_]
         
-* |FIXME_ICON| `Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC) <http://www.cancerrxgene.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sanger-Genomics-of-Drug-Sensitivity-in-Cancer-Project-GDSC.yml>`_]
+* |FIXME_ICON| `Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC) <https://www.cancerrxgene.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sanger-Genomics-of-Drug-Sensitivity-in-Cancer-Project-GDSC.yml>`_]
         
 * |OK_ICON| `Sequence Read Archive(SRA) - The Sequence Read Archive (SRA) stores raw sequence data from [...] <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sequence-Read-ArchiveSRA.yml>`_]
         
@@ -175,6 +173,8 @@ Chemistry
         
 * |OK_ICON| `Ionic Liquids Database - ILThermo <https://ilthermo.boulder.nist.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/ionicliquids.yml>`_]
         
+* |OK_ICON| `LibertyCES Industrial Chemical Equipment Data - Real, open industrial chemical equipment [...] <https://data.libertyces.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/libertyces-industrial-chemical-equipment-data.yml>`_]
+        
 * |OK_ICON| `State of Peptides 2026 - Open reference dataset of 156 peptide and peptide-adjacent [...] <https://peptahub.com/state-of-peptides-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/state-of-peptides-2026.yml>`_]
     
 Climate+Weather
@@ -204,11 +204,11 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |FIXME_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `Average city temperatures - Contains daily time series of average air temperatures in about [...] <https://www.fetchseries.com/climate/average-city-temperatures-fsr/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NEW_DATASET.yml>`_]
         
@@ -306,7 +306,13 @@ ComputerNetworks
         
 * |OK_ICON| `Dead Web Index: reachability census of the top 10M domains - A reachability census of the top [...] <https://crawlora.net/dead-web-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Dead-Web-Index.yml>`_]
         
+* |OK_ICON| `EOSL.ai Enterprise Hardware End-of-Life Dates - Enterprise datacenter hardware end-of-sale [...] <https://eosl.ai/dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/EOSL.ai-Enterprise-Hardware-End-of-Life-Dates.yml>`_]
+        
+* |OK_ICON| `GeoCables Internet Latency & Routing Observations - Daily aggregated round-trip latency [...] <https://geocables.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/GeoCables-Internet-Latency-Observations.yml>`_]
+        
 * |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
+        
+* |OK_ICON| `KI-Zugangsindex: robots.txt longitudinal panel of 600 German (.de) domains - A repeated [...] <https://peppe1337.github.io/ki-zugangsindex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/KI-Zugangsindex.yml>`_]
         
 * |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic analysis with [...] <http://traffic.comics.unina.it/mirage/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/MIRAGE-2019.yml>`_]
         
@@ -328,6 +334,8 @@ CyberSecurity
 -------------
         
 * |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware samples totalling to [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/CCCS-CIC-AndMal-2020.yml>`_]
+        
+* |OK_ICON| `Open Dependency Risk - Daily-updated dataset of 1,500 widely-used npm and PyPI packages [...] <https://github.com/ConorsCode/open-dependency-risk>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Open-Dependency-Risk.yml>`_]
         
 * |OK_ICON| `PDF Tampering & Modification Statistics - Anonymized aggregate statistics from real-world [...] <https://htpbe.tech/statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/PDF-Tampering-and-Modification-Statistics.yml>`_]
         
@@ -424,11 +432,13 @@ Economics
         
 * |OK_ICON| `Harvard Atlas of Economic Complexity - A database for people to explore global trade flows [...] <https://dataverse.harvard.edu/dataverse/atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Atlas Economic Complexity.yml>`_]
         
-* |OK_ICON| `BIS Financial Database - The files contain the same data as in the BIS Statistics Explorer [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/BIS Financial Database.yml>`_]
+* |FIXME_ICON| `BIS Financial Database - The files contain the same data as in the BIS Statistics Explorer [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/BIS Financial Database.yml>`_]
+        
+* |OK_ICON| `Bangkok Off-Plan Housing Pipeline - Aggregate data on residential construction underway in [...] <https://baanscope.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Bangkok-Off-Plan-Housing-Pipeline.yml>`_]
         
 * |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
-* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |OK_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -439,6 +449,14 @@ Economics
 * |OK_ICON| `EUKLEMS - EU KLEMS is an industry level, growth and productivity research project. EU KLEMS [...] <https://euklems.eu/query/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/EUKLEMS.yml>`_]
         
 * |FIXME_ICON| `Economic Freedom of the World Data <https://www.fraserinstitute.org/economic-freedom/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Economic-Freedom-of-the-World-Data.yml>`_]
+        
+* |OK_ICON| `Equipment Financing Rate Data - Aggregate commercial equipment financing rate and estimated [...] <https://github.com/bilaliftikhar2430-ux/equipment-financing-rate-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Equipment-Financing-Rate-Data.yml>`_]
+        
+* |OK_ICON| `FHA Mortgage Denial Data (US Federal Record) - Institution-level, metro-level, state-level [...] <https://financeratecalc.com/data-catalog.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/FHA-Mortgage-Denial-Data.yml>`_]
+        
+* |OK_ICON| `Gumroad Digital Product Demand - 8,311 products, 4,532 sellers, 316 with real unit sales - A [...] <https://github.com/sujeito-operator/gumroad-market-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Gumroad-Digital-Product-Demand.yml>`_]
+        
+* |OK_ICON| `HDD Price Index - An open dataset tracking the cheapest new internal 3.5" SATA hard-drive [...] <https://github.com/AdamDudley/hddhunt-price-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/HDD-Price-Index.yml>`_]
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
@@ -466,9 +484,13 @@ Economics
         
 * |OK_ICON| `Maddison Project Database - The Maddison Project Database provides information on comparative [...] <https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Maddison Project.yml>`_]
         
+* |OK_ICON| `Marbella Price Data - Open datasets of consumer prices on the Marbella (Spain) beachfront, [...] <https://github.com/shiftdylson1/marbella-price-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Marbella-Price-Data.yml>`_]
+        
 * |OK_ICON| `NAS Drive Data - An open dataset of 140+ NAS and enterprise hard drives covering full [...] <https://www.nasdisks.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/NAS-Drive-Data.yml>`_]
         
 * |OK_ICON| `National Transfer Accounts - The goal of the National Transfer Accounts (NTA) project is to [...] <https://ntaccounts.org/web/nta/show/Browse%20database#H-zfl0oo>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/NTA.yml>`_]
+        
+* |OK_ICON| `Open Jobs Data - Open job postings collected daily from the public APIs of nine applicant [...] <https://github.com/ConorsCode/open-jobs-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Open-Jobs-Data.yml>`_]
         
 * |FIXME_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/OpenCorporates-Database-of-Companies-in-the-World.yml>`_]
         
@@ -484,13 +506,21 @@ Economics
         
 * |OK_ICON| `Property Comps — Comparable Property Sales Across 11 Global Markets - Free API providing 44M+ [...] <https://api.nwc-advisory.com/docs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Property-Comps.yml>`_]
         
+* |OK_ICON| `SBA Loan Maturity Wall - An open dataset computing the maturity year of 66,307 SBA 7(a)/504 [...] <https://scouly.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SBA-Loan-Maturity-Wall.yml>`_]
+        
+* |OK_ICON| `Specialty Coffee Bag Price Index (The Specialty Bag Index) - Public specialty coffee retail- [...] <https://mycoffeeexplorer.com/reference/coffee-statistics-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SPECIALTY_BAG_INDEX.yml>`_]
+        
 * |OK_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SciencesPo-World-Trade-Gravity-Datasets.yml>`_]
         
 * |OK_ICON| `Shortlist Price Index - Monthly snapshots of entry-level list prices for software and [...] <https://github.com/ies86/shortlist-price-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Shortlist-Price-Index.yml>`_]
         
-* |OK_ICON| `State of ATS 2026 - Hand-verified open dataset of which Applicant Tracking System (ATS) each [...] <https://github.com/Kayvan-Zahiri/state-of-ats-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/State-of-ATS-2026.yml>`_]
+* |OK_ICON| `State of ATS 2026 — Verified Employer ATS Dataset - Which applicant tracking system (ATS) [...] <https://github.com/Kayvan-Zahiri/state-of-ats-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/State-of-ATS-2026.yml>`_]
         
 * |OK_ICON| `Statistics of the World — Global Economic Data for 218 Countries - 440+ economic, [...] <https://statisticsoftheworld.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Statistics-of-the-World.yml>`_]
+        
+* |OK_ICON| `Tariffs Tool - Free JSON API for current US import tariff and customs-duty rates by country [...] <https://www.tariffstool.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Tariffs-Tool.yml>`_]
+        
+* |FIXME_ICON| `TechRole Index Russian IT Labor Market Dataset - An updated 180-day transformed dataset of [...] <https://techrole.ru/open-data-daily>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/TechRole-Index-Russian-IT-Labor-Market.yml>`_]
         
 * |OK_ICON| `Thailand Housing Prices - Thailand and Bangkok residential property price indexes as clean, [...] <https://github.com/kesar/thailand-housing-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Thailand-Housing-Prices.yml>`_]
         
@@ -508,11 +538,19 @@ Economics
         
 * |OK_ICON| `US Coin Metal Content & Melt Values - Fine precious-metal and base-metal content of common US [...] <https://github.com/mixseomin/us-coin-melt-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Coin-Metal-Content-Melt-Values.yml>`_]
         
+* |OK_ICON| `US Enforcement Actions Against Crypto Trading-Signal Fraud - A structured, primary-source- [...] <https://realcryptosignals.com/research/enforcement-actions/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Enforcement-Actions-Crypto-Signal-Fraud.yml>`_]
+        
 * |OK_ICON| `US Franchise FDD Disclosure Statistics - Per-brand headline facts from 450+ officially [...] <https://franchisefactsreport.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Franchise-FDD-Disclosures.yml>`_]
+        
+* |OK_ICON| `US H-1B / LCA Open Data (Cleaned) - Cleaned aggregate tables derived from US Department of [...] <https://h1b.report/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-H-1B-LCA-Open-Data.yml>`_]
         
 * |OK_ICON| `US Wage Atlas - Pay Band Width and Price-Adjusted Pay by Occupation and Metro Area - Two [...] <https://voicedapp.co/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Wage-Atlas.yml>`_]
         
 * |OK_ICON| `Upwork Market Index - Weekly Freelance Job Market Statistics - Weekly aggregate statistics of [...] <https://github.com/snipeworkapp-oss/upwork-market-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Upwork-Market-Index.yml>`_]
+        
+* |OK_ICON| `Van to Vault DPA Survey - Down Payment Assistance in 83 U.S. Metros - A hand-checked 2026 [...] <https://vantovault.com/library/down-payment-assistance-duplex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/VanToVault-DPA-83-Metros.yml>`_]
+        
+* |OK_ICON| `Van to Vault Foothold - Rent-vs-Own Screening Data for 83 U.S. Metros - The dataset behind [...] <https://vantovault.com/library/foothold-score/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/VanToVault-Foothold-Metros.yml>`_]
         
 * |OK_ICON| `World Input-Output Database - World Input-Output Tables and underlying data, covering 43 [...] <https://www.rug.nl/ggdc/valuechain/wiod/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/World Input-Output Database.yml>`_]
         
@@ -522,7 +560,11 @@ Economics
         
 * |OK_ICON| `ZnajdzNajem Polish Rental Price Index - Open dataset of long-term residential rental market [...] <https://znajdznajem.pl/raporty>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ZnajdzNajem-Polish-Rental-Index.yml>`_]
         
+* |OK_ICON| `eSIM Price Index - Daily observed retail prices for travel eSIM data plans, covering roughly [...] <https://www.simsima.io/en/esim-price-index/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/eSIM-Price-Index.yml>`_]
+        
 * |OK_ICON| `Prop-Metrics — U.S. ZIP-Code-Level Real Estate Analytics Dataset - A comprehensive dataset [...] <https://www.prop-metrics.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/prop-metrics-real-estate-data.yml>`_]
+        
+* |OK_ICON| `RestoreRadar U.S. Emergency Restoration Provider Market Data (10-Metro Aggregates) - Metro- [...] <https://restoreradar.com/restoration-market-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/restoreradar-restoration-market-data.yml>`_]
     
 Education
 ---------
@@ -533,13 +575,19 @@ Education
         
 * |OK_ICON| `Childery ZIP-Level Daycare Quality Dataset - Aggregate quality and supply statistics for US [...] <https://childery.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Childery-ZIP-Level-Daycare-Quality-Dataset.yml>`_]
         
+* |OK_ICON| `College ROI Dataset - Lifetime return-on-investment estimates for ~30K US bachelor's-degree [...] <https://github.com/thomasthinks/college-roi-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-ROI-Dataset.yml>`_]
+        
 * |FIXME_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
+        
+* |OK_ICON| `Journal Submission Requirements - Author guidelines of 7,239 academic journals - Normalized [...] <https://github.com/scraiber/journal-submission-requirements>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Journal-Submission-Requirements.yml>`_]
         
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
 * |FIXME_ICON| `Program for International Student Assessement (PISA) - Contains 15-year-old students' [...] <https://www.oecd.org/pisa/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/PISA.yml>`_]
         
 * |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Student-Data-from-Free-Code-Camp.yml>`_]
+        
+* |OK_ICON| `TOEIC raw-to-scaled score approximation curve - A transparent raw-correct to scaled-score [...] <https://github.com/alice51849/lumi-open-data/tree/master/toeic-score-conversion>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/TOEIC-Raw-to-Scaled-Approximation.yml>`_]
     
 Energy
 ------
@@ -570,7 +618,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PEM1.yml>`_]
         
-* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
+* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy data easier to [...] <https://github.com/catalyst-cooperative/pudl>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PUDL.yml>`_]
         
@@ -599,6 +647,12 @@ Energy
 Entertainment
 -------------
         
+* |OK_ICON| `Tarot Card Meanings: A Complete 78-Card Semantic Dataset - A machine-readable dataset [...] <https://doi.org/10.5281/zenodo.19475329>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Deckaura-Tarot-Card-Meanings.yml>`_]
+        
+* |OK_ICON| `Pokemon Card Centering Measurements - 320 measured centering readings (front-border [...] <https://zenodo.org/records/21788534>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Pokemon-Card-Centering-Measurements.yml>`_]
+        
+* |OK_ICON| `Pokemon Card Sold-Price Reference by Grade - Median sold-price reference for 486 Pokemon [...] <https://zenodo.org/records/22124729>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Pokemon-Card-Sold-Price-Reference.yml>`_]
+        
 * |OK_ICON| `Rope Drop News Theme Park Data - First-party live wait times, ride reliability, crowd levels, [...] <https://ropedropnews.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/RopeDropNewsThemeParkData.yml>`_]
         
 * |OK_ICON| `Top Streamers on Twitch - This contains data of Top 1000 Streamers from past year. <https://www.kaggle.com/aayushmishra1512/twitchdata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/TwitchStreamersData.yml>`_]
@@ -606,13 +660,21 @@ Entertainment
 Finance
 -------
         
-* |OK_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central banks and other [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/BIS Statistics.yml>`_]
+* |OK_ICON| `SEC Form 4 Insider Trading (AlphaAI) - US corporate insider trades parsed from SEC EDGAR Form [...] <https://huggingface.co/datasets/mikhailmakeev/sec-form4-insider-trading>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/AlphaAI-SEC-Form4-Insider-Trading.yml>`_]
+        
+* |FIXME_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central banks and other [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/BIS Statistics.yml>`_]
         
 * |FIXME_ICON| `Blockmodo Coin Registry - A registry of JSON formatted information files that is primarily [...] <https://github.com/Blockmodo/coin_registry>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Blockmodo-Coin-Registry>`_]
+        
+* |OK_ICON| `ByKaranteli Crypto Derivatives Datasets - Funding, Open Interest, Liquidations, Options, ETF Flows and [...] <https://github.com/bykarantelicom/crypto-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ByKaranteli-Crypto-Derivatives.yml>`_]
         
 * |FIXME_ICON| `CBOE Futures Exchange <http://cfe.cboe.com/market-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/CBOE-Futures-Exchange.yml>`_]
         
 * |OK_ICON| `Card-Network Chargeback Reason Codes - Open reference dataset of all 64 active chargeback [...] <https://github.com/small-business-software-maker/chargeback-reason-codes>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Chargeback-Reason-Codes.yml>`_]
+        
+* |OK_ICON| `ClearTrace DEX Execution Quality - Longitudinal dataset of DEX aggregator execution quality [...] <https://github.com/RantumBits/cleartrace-dex-execution-quality>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ClearTrace-DEX-Execution-Quality.yml>`_]
+        
+* |OK_ICON| `Dealaka US Sign-Up Bonuses - Every US bank, credit card, brokerage, app, travel-loyalty and [...] <https://dealaka.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dealaka-Sign-Up-Bonuses.yml>`_]
         
 * |OK_ICON| `Complete FAANG Stock data - This data set contains all the stock data of FAANG companies from [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FAANG-StockData.yml>`_]
         
@@ -634,15 +696,25 @@ Finance
         
 * |FIXME_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OSU-Financial-data.yml>`_]
         
+* |OK_ICON| `OpenCard DB - Community-maintained open dataset of credit card product metadata covering 189 [...] <https://github.com/thedavidweng/opencard-db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OpenCard-DB.yml>`_]
+        
 * |OK_ICON| `OpenChainBench - Live, reproducible benchmarks for crypto infrastructure. Continuously [...] <https://openchainbench.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OpenChainBench.yml>`_]
+        
+* |OK_ICON| `PairBook US Stock & ETF Correlation Data - Correlation, covariance, beta, volatility and ETF [...] <https://www.pairbook.io/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PairBook.yml>`_]
         
 * |OK_ICON| `PredScope Prediction Markets API - Free public API providing 600+ live prediction market [...] <https://predscope.com/api/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PredScope-Prediction-Markets.yml>`_]
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`_]
         
+* |OK_ICON| `SBA 7(a) Loan Charge-Off Rates 1992-2026 - Charge-off rates computed from the complete public [...] <https://github.com/Chadhauser/sba-7a-chargeoff-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SBA-7a-Charge-Off-Rates.yml>`_]
+        
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
 * |OK_ICON| `St Louis Federal <https://research.stlouisfed.org/fred2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
+        
+* |OK_ICON| `StateCalc Rent-to-Price Ratio by US State (2026) - A 50-state open dataset computing the [...] <https://statecalc.com/data/rent-to-price-ratio-by-state/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/StateCalc-Rent-to-Price-Ratio-by-State-2026.yml>`_]
+        
+* |OK_ICON| `The 250 Most-Funded Startups of 2026 - An open dataset of the 250 private startups that [...] <https://indexed.vc/reports/top-funded-startups-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Top-Funded-Startups-2026.yml>`_]
         
 * |OK_ICON| `US State Income Tax 2026 (all 51 jurisdictions) - State individual income tax rules for tax [...] <https://github.com/mixseomin/us-state-income-tax>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-State-Income-Tax-2026.yml>`_]
         
@@ -679,7 +751,7 @@ GIS
         
 * |OK_ICON| `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Geo-Wiki-Project.yml>`_]
         
-* |OK_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
+* |FIXME_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
         
 * |OK_ICON| `GeoNames Worldwide <http://www.geonames.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoNames-Worldwide.yml>`_]
         
@@ -690,6 +762,8 @@ GIS
 * |OK_ICON| `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Landsat-8-on-AWS.yml>`_]
         
 * |OK_ICON| `List of all countries in all languages <https://github.com/umpirsky/country-list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/List-of-all-countries-in-all-languages.yml>`_]
+        
+* |OK_ICON| `MideaFind Germany DIY Store Locations - Versioned JSON dataset of 1,314 known DIY-store [...] <https://mideafind.com/marktabdeckung-karte.html#datenqualitaet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/MideaFind-Germany-DIY-Store-Locations.yml>`_]
         
 * |FIXME_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/National-Weather-Service-GIS-Data-Portal.yml>`_]
         
@@ -734,9 +808,9 @@ Government
         
 * |FIXME_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`_]
         
-* |FIXME_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
+* |OK_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
+* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`_]
         
@@ -754,7 +828,7 @@ Government
         
 * |FIXME_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Beersheba-Israel.yml>`_]
         
-* |FIXME_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
+* |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
 * |OK_ICON| `City of Berkeley Open Data <https://data.cityofberkeley.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Berkeley-CA-Open-Data.yml>`_]
         
@@ -767,6 +841,8 @@ Government
 * |OK_ICON| `EU Government Benefits — Structural Dataset - Catalogue of 106 government benefits across 27 [...] <https://github.com/Buronia-com/eu-benefits-schema>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Buronia-EU-Benefits.yml>`_]
         
 * |OK_ICON| `Calgary, AB, Canada <https://data.calgary.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Calgary-AB-Canada.yml>`_]
+        
+* |OK_ICON| `California Superior Court Financial-Disclosure Directory - An independently maintained 58-row [...] <https://communityproperty.ai/datasets/california-court-financial-disclosure-directory/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/California-Superior-Court-Financial-Disclosure-Directory.yml>`_]
         
 * |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Cambridge-MA-US.yml>`_]
         
@@ -808,7 +884,9 @@ Government
         
 * |OK_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
         
-* |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
+* |FIXME_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
+        
+* |OK_ICON| `Garage-Conversion and ADU Building Permit Timelines for Four U.S. Cities - 64,427 residential [...] <https://github.com/asafichaki/permittimelines>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Garage-Conversion-ADU-Permit-Timelines-2026.yml>`_]
         
 * |OK_ICON| `Gatineau, QC, Canada <http://www.gatineau.ca/donneesouvertes/default_fr.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Gatineau-QC-Canada.yml>`_]
         
@@ -818,6 +896,8 @@ Government
         
 * |OK_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Glasgow-Scotland-UK.yml>`_]
         
+* |OK_ICON| `Greece Public Procurement (Diavgis) - Greek public procurement records aggregated from [...] <https://diavgis.gr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Greece-Public-Procurement-OCDS.yml>`_]
+        
 * |FIXME_ICON| `Greece <http://www.data.gov.gr/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Greece.yml>`_]
         
 * |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Guardian-world-governments.yml>`_]
@@ -825,6 +905,8 @@ Government
 * |OK_ICON| `Halifax, NS, Canada <https://www.halifax.ca/home/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Halifax-NS-Canada.yml>`_]
         
 * |FIXME_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Helsinki-Region-Finland.yml>`_]
+        
+* |OK_ICON| `Common Spatial Data Infrastructure (CSDI), Hong Kong, China <https://portal.csdi.gov.hk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Hong-Kong-China-CSDI.yml>`_]
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Hong-Kong-China.yml>`_]
         
@@ -836,7 +918,7 @@ Government
         
 * |OK_ICON| `Iowa - Welcome to the State of Iowa's data portal. Please explore data about Iowa and your [...] <https://data.iowa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Iowa.yml>`_]
         
-* |FIXME_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Irelands-Open-Data-Portal.yml>`_]
+* |OK_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Irelands-Open-Data-Portal.yml>`_]
         
 * |FIXME_ICON| `Israel's Open Data Portal <https://data.gov.il>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Israel.yml>`_]
         
@@ -854,11 +936,15 @@ Government
         
 * |OK_ICON| `Lexington, KY <http://data.lexingtonky.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Lexington-KY.yml>`_]
         
+* |FIXME_ICON| `Lithuania Repeat-Sales House Price Index (PSBKI) - Monthly repeat-sales house price indices [...] <https://www.lb.lt/lt/pasikartojanciu-sandoriu-busto-kainu-indeksas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Lithuania-Repeat-Sales-House-Price-Index-PSBKI.yml>`_]
+        
 * |FIXME_ICON| `London Datastore, UK <http://data.london.gov.uk/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/London-Datastore-UK.yml>`_]
         
 * |FIXME_ICON| `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/London-ON-Canada.yml>`_]
         
 * |OK_ICON| `Los Angeles Open Data <https://data.lacity.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Los-Angeles-Open-Data.yml>`_]
+        
+* |OK_ICON| `LottoLens PH Public PCSO Historical Results - Independently compiled Philippine Charity [...] <https://remo65588-boop.github.io/lottolens-ph-public-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/LottoLens-PH-Public-PCSO-Historical-Results.yml>`_]
         
 * |OK_ICON| `Luxembourg - Luxembourgish Open Data Portal <https://data.public.lu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Luxembourg.yml>`_]
         
@@ -876,7 +962,7 @@ Government
         
 * |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moncton-NB-Canada.yml>`_]
         
-* |OK_ICON| `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Montreal-QC-Canada.yml>`_]
+* |FIXME_ICON| `Montreal, QC, Canada <https://donnees.montreal.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Montreal-QC-Canada.yml>`_]
         
 * |OK_ICON| `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mountain-View-California-US-GIS.yml>`_]
         
@@ -901,6 +987,8 @@ Government
 * |OK_ICON| `Open Data Hub - Open data platform for South Tyrol and EU providing tourism, mobility, [...] <https://www.opendatahub.com/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Data-Hub.yml>`_]
         
 * |FIXME_ICON| `Open Data for Africa <http://opendataforafrica.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Data-for-Africa.yml>`_]
+        
+* |OK_ICON| `Open Fedspend Data - Daily-updated rolling 7-day window of US federal contract awards from [...] <https://github.com/ConorsCode/open-fedspend-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Fedspend-Data.yml>`_]
         
 * |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Government-Data-OGD-Platform-India.yml>`_]
         
@@ -976,7 +1064,7 @@ Government
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
-* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
+* |FIXME_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
         
@@ -1014,6 +1102,8 @@ Government
         
 * |OK_ICON| `UNESCO Data Hub - UNESCO's official data catalog providing authoritative global statistics [...] <https://data.unesco.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UNESCO-Data-Hub.yml>`_]
         
+* |OK_ICON| `2026 U.S. Bathroom Remodel Permit and Planning Index - A reviewed open dataset covering [...] <https://www.remodelprojecthelp.com/bathroom-remodeling/us-bathroom-remodel-permit-planning-index/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Bathroom-Remodel-Permit-and-Planning-Index.yml>`_]
+        
 * |OK_ICON| `US Class-Action & Refund Settlements - Verified catalog of US class-action and government [...] <https://settlesignal.com/settlements/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Class-Action-Refund-Settlements.yml>`_]
         
 * |OK_ICON| `US Counties - This is a repository of various data, broken down by US county. While most of [...] <https://github.com/evangambit/JsonOfCounties>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Counties.yml>`_]
@@ -1021,6 +1111,8 @@ Government
 * |FIXME_ICON| `US Federal Contracts & Grants API - REST API providing access to millions of US federal [...] <https://government-data-api.onrender.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Federal-Contracts-Grants-API.yml>`_]
         
 * |OK_ICON| `US Military Pay & Allowances (BAH, Basic Pay, COLA) - Pay and allowance data for the US Armed [...] <https://github.com/mixseomin/military-pay-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Military-Pay-Allowances.yml>`_]
+        
+* |OK_ICON| `US National Park System (Park Atlas Open Data) - Cleaned, joined datasets for all 474 US [...] <https://github.com/kirkwood-justin/park-atlas-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-National-Park-System-Park-Atlas.yml>`_]
         
 * |FIXME_ICON| `US Robocall Complaints by Phone Number - US Federal Trade Commission Do Not Call complaint [...] <https://github.com/usacallerlookup/ftc-robocall-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Robocall-Complaints-by-Phone-Number.yml>`_]
         
@@ -1048,7 +1140,7 @@ Government
         
 * |FIXME_ICON| `Statistics from the General Statistics Office of Vietnam - Data in different categories are [...] <https://www.gso.gov.vn/Default_en.aspx?tabid=491>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vietnam.yml>`_]
         
-* |FIXME_ICON| `Warnely Travel Safety Dataset - Composite travel-safety risk score for 180 countries, [...] <https://warnely.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Warnely-Travel-Safety.yml>`_]
+* |OK_ICON| `Warnely Travel Safety Dataset - Composite travel-safety risk score for 180 countries, [...] <https://warnely.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Warnely-Travel-Safety.yml>`_]
         
 * |OK_ICON| `U.S. Congressional Research Service (CRS) Reports <https://www.everycrsreport.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/everycrsreport.yml>`_]
         
@@ -1087,6 +1179,8 @@ Healthcare
         
 * |OK_ICON| `Gapminder World demographic databases <http://www.gapminder.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Gapminder-World-demographic-databases.yml>`_]
         
+* |OK_ICON| `Loa U.S. Healthcare Price Transparency Dataset - Source-labeled U.S. healthcare pricing data, [...] <https://www.loacare.com/methodology>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Loa-U.S.-Healthcare-Price-Transparency.yml>`_]
+        
 * |OK_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed - Check under 'Obtain [...] <https://www.nlm.nih.gov/mesh/meshhome.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/MeSH-the-vocabulary-thesaurus-used-for-indexing-articles-for-PubMed.yml>`_]
         
 * |OK_ICON| `MeDAL - A large medical text dataset curated for abbreviation disambiguation - Medical [...] <https://github.com/BruceWen120/medal>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medal-medical-abbreviations.yml>`_]
@@ -1095,11 +1189,15 @@ Healthcare
         
 * |OK_ICON| `Medicare and Medicaid Data - This site gives you direct access to public data released by the [...] <https://data.cms.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-and-Medicaid-Data.yml>`_]
         
+* |OK_ICON| `Mental Health Startup Graveyard - 542 digital mental health organizations that left the [...] <https://zenodo.org/records/22125661>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Mental-Health-Startup-Graveyard.yml>`_]
+        
 * |OK_ICON| `Nightingale Open Science <https://docs.nightingalescience.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Nightingale.yml>`_]
         
 * |OK_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.humdata.org/dataset/ebola-cases-2014>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Number-of-Ebola-Cases-and-Deaths-in-Affected-Countries-2014.yml>`_]
         
 * |OK_ICON| `Open-ODS (structure of the UK NHS) <https://www.odsdatasearchandexport.nhs.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Open-ODS.yml>`_]
+        
+* |OK_ICON| `Open Trials Data - All currently-recruiting interventional studies registered on [...] <https://github.com/ConorsCode/open-trials-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Open-Trials-Data.yml>`_]
         
 * |OK_ICON| `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/OpenPaymentsData-Healthcare-financial-relationship-data.yml>`_]
         
@@ -1117,6 +1215,8 @@ Healthcare
         
 * |OK_ICON| `trove - Reference tools for two underused public-domain U.S. healthcare datasets. (1) FDA [...] <https://troveproject.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Trove.yml>`_]
         
+* |OK_ICON| `US Sauna & Cold Plunge Venue Data - Cold plunge, sauna and contrast-therapy venues across 23 [...] <https://github.com/findsaunaplunge/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/US-Sauna-Cold-Plunge-Venues.yml>`_]
+        
 * |OK_ICON| `US Water Quality Data by ZIP Code - Water quality violations, lead and copper levels, radon [...] <https://github.com/artakulov/us-water-quality-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/US-Water-Quality-Data-by-ZIP-Code.yml>`_]
         
 * |OK_ICON| `Verified Supplement Evidence Database - Clinical evidence, dosing, form-bioavailability [...] <https://huggingface.co/datasets/erinheit451/verified-supplement-evidence>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Verified-Supplement-Evidence-Database.yml>`_]
@@ -1124,8 +1224,6 @@ Healthcare
 * |OK_ICON| `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/World-Health-Organization-Global-Health-Observatory.yml>`_]
         
 * |OK_ICON| `Yahoo Knowledge Graph COVID-19 Datasets - The Yahoo Knowledge Graph team at Verizon Media is [...] <https://github.com/yahoo/covid-19-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Yahoo-COVID-19.yml>`_]
-        
-* |FIXME_ICON| `Informatics for Integrating Biology and the Bedside <https://www.i2b2.org/NLP/DataSets/Main.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/i2b2.yml>`_]
     
 ImageProcessing
 ---------------
@@ -1164,6 +1262,8 @@ ImageProcessing
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Face-Recognition-Benchmark.yml>`_]
         
+* |OK_ICON| `Photographic film stocks reference - 25 well-known photographic film stocks with their [...] <https://github.com/alice51849/lumi-open-data/tree/master/film-stocks>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Film-Stocks-Reference.yml>`_]
+        
 * |FIXME_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Flickr-32-Class-Brand-Logos.yml>`_]
         
 * |FIXME_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/GDXray.yml>`_]
@@ -1178,7 +1278,7 @@ ImageProcessing
         
 * |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
-* |FIXME_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
+* |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
         
 * |OK_ICON| `Long duration stitched and unstitched 8K/30 fps stereoscopic 360° videos - This 360° video [...] <https://dx.doi.org/10.21227/6htp-py25>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Long-duration-stitched-and-unstitched-8K-30-fps-stereoscopic-360deg-videos.yml>`_]
         
@@ -1239,15 +1339,13 @@ MachineLearning
         
 * |OK_ICON| `Iranis - A Large-scale Dataset of Farsi/Arabic License Plate Characters <https://alitourani.github.io/Iranis-dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Iranis.yml>`_]
         
-* |FIXME_ICON| `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Keel-Repository-for-classification-regression-and-time-series.yml>`_]
+* |OK_ICON| `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Keel-Repository-for-classification-regression-and-time-series.yml>`_]
         
 * |OK_ICON| `LLVIP - This dataset contains 30976 images, or 15488 pairs, most of which were taken at very [...] <https://bupt-ai-cz.github.io/LLVIP/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/LLVIP.yml>`_]
         
 * |FIXME_ICON| `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
         
 * |FIXME_ICON| `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Lending-Club-Loan-Data.yml>`_]
-        
-* |FIXME_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Million-Song-Dataset.yml>`_]
         
@@ -1305,15 +1403,11 @@ NaturalLanguage
         
 * |FIXME_ICON| `The Big Bad NLP Database <https://datasets.quantumstat.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/BigBadNLPDatabase.yml>`_]
         
-* |FIXME_ICON| `Blizzard Challenge Speech - The speech + text data comes from professional audiobooks [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blizzard-Speech.yml>`_]
+* |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from professional audiobooks [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blizzard-Speech.yml>`_]
         
 * |FIXME_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <https://zenodo.org/record/4639616>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/CLiPS-Stylometry-Investigation-Corpus.yml>`_]
-        
-* |FIXME_ICON| `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb09-FACC.yml>`_]
-        
-* |FIXME_ICON| `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb12-FACC.yml>`_]
         
 * |OK_ICON| `DBpedia - Structured data from Wikipedia <https://databus.dbpedia.org/dbpedia/collections/latest-core>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/DBpedia.yml>`_]
         
@@ -1333,7 +1427,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
         
-* |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
+* |FIXME_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a single speaker reading [...] <https://keithito.com/LJ-Speech-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/LJ-Speech.yml>`_]
         
@@ -1353,7 +1447,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |FIXME_ICON| `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1377,7 +1471,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1441,7 +1535,7 @@ Physics
         
 * |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
         
-* |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
+* |FIXME_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
         
 * |OK_ICON| `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NSSDC-NASA-data-of-550-space-spacecraft.yml>`_]
         
@@ -1556,9 +1650,9 @@ PublicDomains
         
 * |OK_ICON| `CCTV Camera Database - Open database of 1,000+ IP/CCTV camera specifications across 49 brands [...] <https://github.com/ch-bas/cctv-camera-database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CCTV-Camera-Database.yml>`_]
         
-* |OK_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-JASA-data-archive.yml>`_]
+* |FIXME_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-JASA-data-archive.yml>`_]
         
-* |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-StatLab-collections.yml>`_]
+* |FIXME_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-StatLab-collections.yml>`_]
         
 * |OK_ICON| `Data.World <https://data.world>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
@@ -1621,7 +1715,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |FIXME_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `National Technical Reports Library <https://ntrl.ntis.gov/NTRL/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/National-Technical-Reports-Library.yml>`_]
         
@@ -1651,8 +1745,6 @@ SocialNetworks
 * |OK_ICON| `A Twitter Dataset of 40+ million tweets related to COVID-19 - Due to the relevance of the [...] <https://zenodo.org/record/3723940>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Covid19-40-Million-Tweets.yml>`_]
         
 * |OK_ICON| `Donald Trump Truth Social Posts Archive - A source-linked archive of 35,882 public Truth [...] <https://huggingface.co/datasets/Cameronk199/donald-trump-truth-social-posts>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Donald-Trump-Truth-Social-Posts-Archive.yml>`_]
-        
-* |FIXME_ICON| `43k+ Donald Trump Twitter Screenshots - This archive contains screenshots of 43,475 Donald [...] <https://pikaso.me/blog/trump-twitter-archive>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Donald-Trump-Twitter-Screenshots.yml>`_]
         
 * |FIXME_ICON| `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/EDRM-Enron-EMail-of-151-users-hosted-on-S3.yml>`_]
         
@@ -1704,6 +1796,8 @@ SocialNetworks
         
 * |OK_ICON| `United States Congress Twitter Data - Daily datasets with tweets of 1100+ accounts associated [...] <https://github.com/alexlitel/congresstweets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/United-States-Congressional-Twitter-Data.yml>`_]
         
+* |OK_ICON| `WhatsApp Business Platform Open Data - A dated, sourced open dataset of the WhatsApp Business [...] <https://github.com/procom-dev/whatsapp-open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/WhatsApp-Business-Platform-Open-Data.yml>`_]
+        
 * |FIXME_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Yahoo-Graph-and-Social-Data.yml>`_]
         
 * |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
@@ -1717,7 +1811,7 @@ SocialSciences
         
 * |OK_ICON| `Authoritarian Ruling Elites Database - The Authoritarian Ruling Elites Database (ARED) is a [...] <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QZ9BSA>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Authoritarian-Ruling-Elites.yml>`_]
         
-* |OK_ICON| `Banned Books — Open Censorship Core - Open dataset documenting book bans and challenges [...] <https://www.banned-books.org/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Banned-Books-Open-Censorship-Core.yml>`_]
+* |FIXME_ICON| `Banned Books — Open Censorship Core - Open dataset documenting book bans and challenges [...] <https://www.banned-books.org/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Banned-Books-Open-Censorship-Core.yml>`_]
         
 * |OK_ICON| `Brightcast Global Hope Index - Daily 0-100 index measuring the volume and quality of verified [...] <https://www.brightcast.news/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Brightcast-Global-Hope-Index.yml>`_]
         
@@ -1725,9 +1819,11 @@ SocialSciences
         
 * |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
+* |OK_ICON| `Chinese zodiac sexagenary cycle, 1924-2044 - 121 consecutive years of the Chinese sexagenary [...] <https://github.com/alice51849/lumi-open-data/tree/master/chinese-zodiac>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Chinese-Zodiac-Sexagenary-Cycle.yml>`_]
+        
 * |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
         
-* |FIXME_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
+* |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
         
 * |FIXME_ICON| `Datacards <https://www.datacards.org/login/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml>`_]
         
@@ -1846,6 +1942,10 @@ Software
         
 * |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Libraries.io-Open-Source-Repository-and-Dependency-Metadata.yml>`_]
         
+* |OK_ICON| `AI Tools Mortality and Product Hunt Graveyard 2026 (RightAIChoice) - Survival study of 2,291 [...] <https://rightaichoice.com/state-of-ai-tools/graveyard>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/RightAIChoice-AI-Tools-Mortality-and-Product-Hunt-Graveyard-2026.yml>`_]
+        
+* |OK_ICON| `VS Code Marketplace Extension Installs - 64,490 extensions, 50,468 publishers, real install [...] <https://github.com/sujeito-operator/vscode-marketplace-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/VS-Code-Marketplace-Extension-Installs.yml>`_]
+        
 * |OK_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top-bookmarked Git [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-Public-Git-Archive.yml>`_]
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
@@ -1860,8 +1960,6 @@ Sports
 ------
         
 * |OK_ICON| `American Ninja Warrior Obstacles - Contains every obstacle in the history of American Ninja [...] <https://data.world/ninja/anw-obstacle-history>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/American-Ninja-Warrior-Obstacles.yml>`_]
-        
-* |FIXME_ICON| `Betfair Historical Exchange Data <http://data.betfair.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Betfair-Historical-Exchange-Data.yml>`_]
         
 * |OK_ICON| `Cricsheet Matches (cricket) <http://cricsheet.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Cricsheet-Matches-cricket.yml>`_]
         
@@ -1886,6 +1984,8 @@ Sports
 * |OK_ICON| `Powerlifting Strength Percentiles by Sex, Age and Bodyweight - Pre-aggregated strength [...] <https://github.com/arvidfcjarfalla-prog/liftgauge-strength-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Powerlifting-Strength-Percentiles.yml>`_]
         
 * |OK_ICON| `Pro Kabadi season 1 to 7 - Pro Kabadi League is a professional-level Kabaddi league in India. [...] <https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Pro_Kabadi_season1_7.yml>`_]
+        
+* |OK_ICON| `PunditBench 2026-27 Pre-Registered LLM Season-Table Predictions - Static snapshot of 204 pre- [...] <https://huggingface.co/datasets/skebbe/punditbench-2026-27-season-tables>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/PunditBench-2026-27-Season-Tables.yml>`_]
         
 * |OK_ICON| `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Retrosheet-Baseball-Statistics.yml>`_]
         
@@ -1916,6 +2016,8 @@ TimeSeries
     
 Transportation
 --------------
+        
+* |OK_ICON| `ADSBiq Daily Aircraft State Diffs - Free daily worldwide ADS-B aircraft state-diff exports [...] <https://adsbiq.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/ADSBiq-Daily-Aircraft-State-Diffs.yml>`_]
         
 * |OK_ICON| `Airlines OD Data 1987-2008 <https://doi.org/10.7910/DVN/HG7NV7>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Airlines-OD-Data-1987~2008.yml>`_]
         
@@ -1965,7 +2067,7 @@ Transportation
         
 * |OK_ICON| `Renfe (Spanish National Railway Network) dataset <https://data.renfe.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Spanish-train-system-by-Renfe.yml>`_]
         
-* |OK_ICON| `StateCalc US Vehicle Registration Costs 2026 - Versioned source-backed first-year vehicle [...] <https://github.com/Pixels512/statecalc-open-data/tree/main/data/vehicle-registration-costs/2026-08-16.1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/StateCalc-US-Vehicle-Registration-Costs-2026.yml>`_]
+* |FIXME_ICON| `StateCalc US Vehicle Registration Costs 2026 - Versioned source-backed first-year vehicle [...] <https://github.com/Pixels512/statecalc-open-data/tree/main/data/vehicle-registration-costs/2026-08-16.1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/StateCalc-US-Vehicle-Registration-Costs-2026.yml>`_]
         
 * |OK_ICON| `Toronto Bike Share Stations (JSON and GBFS files) <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Toronto-Bike-Share-Stations-XML-file.yml>`_]
         

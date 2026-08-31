@@ -96,8 +96,8 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) [![GitHub stars](https://img.shields.io/github/stars/libgdx/libgdx/wiki/Texture-packer?style=flat)](https://github.com/libgdx/libgdx/wiki/Texture-packer/stargazers) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 - :free: [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Pack frames into a sheet with a JSON atlas, slice sheets back into PNGs, and convert between sheets and animated GIFs. Runs in the browser, no upload.
-- :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
+- :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 - :tada: [Tilesplit](https://github.com/AlexPoulsen/tilesplit) [![GitHub stars](https://img.shields.io/github/stars/AlexPoulsen/tilesplit?style=flat)](https://github.com/AlexPoulsen/tilesplit/stargazers) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
@@ -136,10 +136,10 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :moneybag: [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit with live tweening, smart keys, motion trails, a pose library and Mixamo retargeting. An affordable animBot alternative.
 - :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
-- :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 - :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
-- 🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
+- :free: [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
+- :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 - :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
 - :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) [![GitHub stars](https://img.shields.io/github/stars/Ttanasart-pt/Pixel-Composer?style=flat)](https://github.com/Ttanasart-pt/Pixel-Composer/stargazers) - Powerful node-based VFX editor for pixel art
@@ -151,6 +151,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 - :moneybag: [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer
 - :money_with_wings: [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
+- :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :tada: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
@@ -163,23 +164,22 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 - :moneybag: [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+- :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :moneybag: [Pixen](https://github.com/Pixen/Pixen) [![GitHub stars](https://img.shields.io/github/stars/Pixen/Pixen?style=flat)](https://github.com/Pixen/Pixen/stargazers) - Pixel Art Editor for OSX
 - :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
 - :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 - :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 - :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
-- :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
-- :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
-- :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) [![GitHub stars](https://img.shields.io/github/stars/Hugo-Dz/spritefusion-pixel-snapper?style=flat)](https://github.com/Hugo-Dz/spritefusion-pixel-snapper/stargazers)
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 - :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser. 
 - :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
 - :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
+- :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
+- :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 - :money_with_wings: [Vector Magic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 - :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
-- :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 
 #### Modeling
 
@@ -205,6 +205,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 - :moneybag: [World Creator](https://www.world-creator.com/) - Procedural terrain and landscape generation on the GPU in real time, simulation of erosion and sediment, beautiful editor. much more
 - :moneybag: [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing
+- :free: [WorldLoop](https://github.com/Daniele-Cangi/worldloop-technical-showcase) [![GitHub stars](https://img.shields.io/github/stars/Daniele-Cangi/worldloop-technical-showcase?style=flat)](https://github.com/Daniele-Cangi/worldloop-technical-showcase/stargazers) - Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water, with direct export to Roblox Studio
 
 #### Voxel Editors
 
@@ -262,6 +263,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) [![GitHub stars](https://img.shields.io/github/stars/nidorx/ecs-lib?style=flat)](https://github.com/nidorx/ecs-lib/stargazers) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
 - :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 - :tada: [EnTT](https://github.com/skypjack/entt) [![GitHub stars](https://img.shields.io/github/stars/skypjack/entt?style=flat)](https://github.com/skypjack/entt/stargazers) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
+- :tada: [Excalibur.js](https://excaliburjs.com/) - Your friendly TypeScript 2D game engine for the web.
 - :tada: [FXGL](https://github.com/AlmasB/FXGL) [![GitHub stars](https://img.shields.io/github/stars/AlmasB/FXGL?style=flat)](https://github.com/AlmasB/FXGL/stargazers) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
 - :tada: [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) [![GitHub stars](https://img.shields.io/github/stars/VelcroPhysics/VelcroPhysics?style=flat)](https://github.com/VelcroPhysics/VelcroPhysics/stargazers) - a collision detection system with realistic physics responses.
 - :tada: [Flame](https://github.com/flame-engine/flame) [![GitHub stars](https://img.shields.io/github/stars/flame-engine/flame?style=flat)](https://github.com/flame-engine/flame/stargazers) - a minimalist game engine for Flutter
@@ -270,6 +272,7 @@ _Set of game frameworks, engines and platforms_
 - :free: :tada: [Folded Paper Engine](https://github.com/papercraftgames/folded-paper-engine) [![GitHub stars](https://img.shields.io/github/stars/papercraftgames/folded-paper-engine?style=flat)](https://github.com/papercraftgames/folded-paper-engine/stargazers) – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
 - :tada: [Forge](https://forgeleaf.com/forge) - Powerful and lightweight game framework for Go.
 - :tada: [Foster](https://github.com/FosterFramework/Foster) [![GitHub stars](https://img.shields.io/github/stars/FosterFramework/Foster?style=flat)](https://github.com/FosterFramework/Foster/stargazers) - A small cross-platform 2D game framework in C#.
+- :tada: [GameFrameX](https://github.com/GameFrameX/GameFrameX) [![GitHub stars](https://img.shields.io/github/stars/GameFrameX/GameFrameX?style=flat)](https://github.com/GameFrameX/GameFrameX/stargazers) - A cross-engine game framework: Unity and Godot clients on a single actor-model .NET server, sharing one Protobuf contract and LuBan config pipeline. AI-agent friendly: instruction docs in-repo, codegen'd protocol/config layers.
 - :money_with_wings: [GameMaker](https://gamemaker.io/) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 - :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 - :money_with_wings: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
