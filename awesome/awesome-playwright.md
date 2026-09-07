@@ -72,6 +72,7 @@
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - Plugin for measuring and analyzing performance of tested flows using Playwright.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) [![GitHub stars](https://img.shields.io/github/stars/Mattwmaster58/playwright-python-language-injection?style=flat)](https://github.com/Mattwmaster58/playwright-python-language-injection/stargazers) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
 - [playwright-skill](https://github.com/testdino-hq/playwright-skill) [![GitHub stars](https://img.shields.io/github/stars/testdino-hq/playwright-skill?style=flat)](https://github.com/testdino-hq/playwright-skill/stargazers) - 70+ production-tested Playwright skills for coding agents covering best practices, POM patterns, CI/CD, and migration paths.
+- [playwright-soak-test](https://github.com/denodell/playwright-soak-test) [![GitHub stars](https://img.shields.io/github/stars/denodell/playwright-soak-test?style=flat)](https://github.com/denodell/playwright-soak-test/stargazers) - Catches memory leaks by repeating a user flow in one browser session and tracking DOM node and listener counts.
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) [![GitHub stars](https://img.shields.io/github/stars/anishkny/playwright-test-coverage?style=flat)](https://github.com/anishkny/playwright-test-coverage/stargazers) - Plugin to collect code coverage from running Playwright tests.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) [![GitHub stars](https://img.shields.io/github/stars/detachhead/playwright-ui5?style=flat)](https://github.com/detachhead/playwright-ui5/stargazers) - Custom selector engine for sapui5.
@@ -83,6 +84,7 @@
 
 ## Scraping & Automation
 
+- [AntiBrow](https://github.com/antibrow/antibrow) [![GitHub stars](https://img.shields.io/github/stars/antibrow/antibrow?style=flat)](https://github.com/antibrow/antibrow/stargazers) - Patched Chromium that returns a standard Playwright BrowserContext over CDP, with fingerprints applied in the C++ layer instead of injected scripts. MIT SDKs for Python and JavaScript, plus an MCP server mode.
 - [Browserless](https://github.com/browserless/browserless) [![GitHub stars](https://img.shields.io/github/stars/browserless/browserless?style=flat)](https://github.com/browserless/browserless/stargazers) - Connects Playwright to remote managed browsers over WebSocket, with stealth and CAPTCHA handling.
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark) [![GitHub stars](https://img.shields.io/github/stars/techinz/browsers-benchmark?style=flat)](https://github.com/techinz/browsers-benchmark/stargazers) - Benchmark tool for testing browser automation engines against bot detection systems (Cloudflare, DataDome, reCAPTCHA, Akamai, PerimeterX, Kasada, ...).
 - [camofox-browser](https://github.com/jo-inc/camofox-browser) [![GitHub stars](https://img.shields.io/github/stars/jo-inc/camofox-browser?style=flat)](https://github.com/jo-inc/camofox-browser/stargazers) - Stealth headless browser server usable as a Playwright-compatible automation backend, with anti-detection built in.
@@ -96,6 +98,7 @@
 
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat)](https://github.com/microsoft/playwright-mcp/stargazers) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
+- [Webcmd](https://github.com/agentrhq/webcmd) [![GitHub stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=flat)](https://github.com/agentrhq/webcmd/stargazers) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
 
 ## Reporters
 

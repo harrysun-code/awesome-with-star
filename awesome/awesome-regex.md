@@ -73,16 +73,21 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 - [RegexBuddy](https://www.regexbuddy.com/) (Windows, $40) - **Best tester**.
   - Flavors: Emulates hundreds of flavors/versions, with deep knowledge of differences.
   - Includes regex debugger.
+- [RegexPilot](https://regexpilot.com/) (macOS, $21) - **Best Mac-native tester**.
+  - Flavors: JavaScript, Python (`re`, `regex`), Java, .NET, PCRE, Onigmo, RE2, Perl, Rust, ICU, Tcl, POSIX BRE/ERE.
+
+<details>
+  <summary>✳️ <b>Notable mentions</b></summary>
+  <br>
+
+**More bests**
+
 - [RegExr](https://regexr.com/) \[[*GitHub*](https://github.com/gskinner/regexr/) [![GitHub stars](https://img.shields.io/github/stars/gskinner/regexr/?style=flat)](https://github.com/gskinner/regexr//stargazers)] - **Best open source tester**.
   - Flavors: JavaScript, PCRE.
   - Languages: 🇺🇸, 🇨🇳 ([fork](https://regexr-cn.com/)).
 - [RegexLearn](https://regexlearn.com/playground) \[[*GitHub*](https://github.com/aykutkardas/regexlearn.com/blob/develop/src/pages/%5Blang%5D/playground.tsx) [![GitHub stars](https://img.shields.io/github/stars/aykutkardas/regexlearn.com/blob/develop/src/pages/%5Blang%5D/playground.tsx?style=flat)](https://github.com/aykutkardas/regexlearn.com/blob/develop/src/pages/%5Blang%5D/playground.tsx/stargazers)] - **Best multilingual tester** (JavaScript).
   - Languages: 🇺🇸, 🇹🇷, 🇷🇺, 🇪🇸, 🇨🇳, 🇩🇪, 🇺🇦, 🇫🇷, 🇵🇱, 🇰🇷, 🇧🇷, 🇨🇿, 🇬🇪.
 - [regexplained](https://regexplained.com/) \[[*GitHub*](https://github.com/LeaVerou/regexplained) [![GitHub stars](https://img.shields.io/github/stars/LeaVerou/regexplained?style=flat)](https://github.com/LeaVerou/regexplained/stargazers)] - **Best tester for presentations** (JavaScript).
-
-<details>
-  <summary>✳️ <b>Notable mentions</b></summary>
-  <br>
 
 **Command line**
 

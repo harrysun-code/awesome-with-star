@@ -95,6 +95,10 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Sweeper](https://apps.kde.org/sweeper/) - Sweeper helps to clean unwanted traces the user leaves on the system and to regain disk space removing unused temporary files 📌.
 - [Yakuake](https://apps.kde.org/yakuake/) - A drop-down terminal emulator based on KDE's Konsole technology 📌.
 
+### Accessibility
+
+- [Blitztext Linux](https://github.com/TimInTech/blitztext-linux) [![GitHub stars](https://img.shields.io/github/stars/TimInTech/blitztext-linux?style=flat)](https://github.com/TimInTech/blitztext-linux/stargazers) - Hotkey-driven voice dictation tray app for KDE Plasma/Wayland: hold a key, speak, and the local Whisper transcript is pasted into the active app. Optional LLM text workflows.
+
 ### Utilities & Tools
 
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
@@ -145,6 +149,11 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [KDoit](https://github.com/lubdhak7414/KDoit) [![GitHub stars](https://img.shields.io/github/stars/lubdhak7414/KDoit?style=flat)](https://github.com/lubdhak7414/KDoit/stargazers) - Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.
 - [Latte-Dock](https://invent.kde.org/plasma/latte-dock) - Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for **Plasma 5** 📌. ⚠️ Unmaintained.
 - [Latte Dock NG](https://github.com/ruizhi-lab/latte-dock-ng) [![GitHub stars](https://img.shields.io/github/stars/ruizhi-lab/latte-dock-ng?style=flat)](https://github.com/ruizhi-lab/latte-dock-ng/stargazers) is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.
+- [EZMonitor](https://github.com/Agundur-KDE/EZMonitor) [![GitHub stars](https://img.shields.io/github/stars/Agundur-KDE/EZMonitor?style=flat)](https://github.com/Agundur-KDE/EZMonitor/stargazers) - A Plasma 6 widget that shows the live power output of an APsystems EZ1 microinverter.
+- [KClaude](https://github.com/Agundur-KDE/KClaude) [![GitHub stars](https://img.shields.io/github/stars/Agundur-KDE/KClaude?style=flat)](https://github.com/Agundur-KDE/KClaude/stargazers) - A Plasma 6 widget to remember Claude Code sessions and resume them in the right directory with one click.
+- [kfritz](https://github.com/Agundur-KDE/kfritz) [![GitHub stars](https://img.shields.io/github/stars/Agundur-KDE/kfritz?style=flat)](https://github.com/Agundur-KDE/kfritz/stargazers) - A Plasma 6 callmonitor widget for the AVM FRITZ!Box.
+- [KPictureFrame](https://github.com/Agundur-KDE/KPictureFrame) [![GitHub stars](https://img.shields.io/github/stars/Agundur-KDE/KPictureFrame?style=flat)](https://github.com/Agundur-KDE/KPictureFrame/stargazers) - A Plasma 6 widget that turns your desktop into a picture frame.
+- [OSBMonitor](https://github.com/Agundur-KDE/OSBMonitor) [![GitHub stars](https://img.shields.io/github/stars/Agundur-KDE/OSBMonitor?style=flat)](https://github.com/Agundur-KDE/OSBMonitor/stargazers) - A Plasma 6 widget that monitors the build status of your Open Build Service projects and packages.
   
 #### KCM Modules and Systems
 

@@ -74,6 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
   - [Internet Speedtest](#internet-speedtest)
   - [Science](#science)
   - [Professional: Resume](#professional-resume)
+  - [Backup](#backup)
 - [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
   - [Processors](#processors)
@@ -272,7 +273,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) [![GitHub stars](https://img.shields.io/github/stars/christian-korneck/docker-pushrm?style=flat)](https://github.com/christian-korneck/docker-pushrm/stargazers) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) [![GitHub stars](https://img.shields.io/github/stars/bcicen/ctop?style=flat)](https://github.com/bcicen/ctop/stargazers) - Top like interface for container metrics.
 - [decompose](https://github.com/s0rg/decompose) [![GitHub stars](https://img.shields.io/github/stars/s0rg/decompose?style=flat)](https://github.com/s0rg/decompose/stargazers) - Create connections graph for running docker containers.
-- [kool](https://github.com/kool-dev/kool) [![GitHub stars](https://img.shields.io/github/stars/kool-dev/kool?style=flat)](https://github.com/kool-dev/kool/stargazers) - Web development with containers made easy. 
+- [kool](https://github.com/kool-dev/kool) [![GitHub stars](https://img.shields.io/github/stars/kool-dev/kool?style=flat)](https://github.com/kool-dev/kool/stargazers) - Web development with containers made easy.
 
 ### Release
 
@@ -314,7 +315,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [ain](https://github.com/jonaslu/ain) [![GitHub stars](https://img.shields.io/github/stars/jonaslu/ain?style=flat)](https://github.com/jonaslu/ain/stargazers) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) [![GitHub stars](https://img.shields.io/github/stars/rs/curlie?style=flat)](https://github.com/rs/curlie/stargazers) - A curl frontend with the ease of use of HTTPie.
 - [ATAC](https://github.com/Julien-cpsn/ATAC) [![GitHub stars](https://img.shields.io/github/stars/Julien-cpsn/ATAC?style=flat)](https://github.com/Julien-cpsn/ATAC/stargazers) - A feature-full TUI API client made in Rust.
-- [httptap](https://github.com/ozeranskii/httptap) [![GitHub stars](https://img.shields.io/github/stars/ozeranskii/httptap?style=flat)](https://github.com/ozeranskii/httptap/stargazers) - Breakdown and visualize HTTP requests. 
+- [httptap](https://github.com/ozeranskii/httptap) [![GitHub stars](https://img.shields.io/github/stars/ozeranskii/httptap?style=flat)](https://github.com/ozeranskii/httptap/stargazers) - Breakdown and visualize HTTP requests.
 
 ### Testing
 
@@ -509,6 +510,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [gtree](https://github.com/ddddddO/gtree) [![GitHub stars](https://img.shields.io/github/stars/ddddddO/gtree?style=flat)](https://github.com/ddddddO/gtree/stargazers) - Use markdown to generate directory trees and the directories itself.
 - [Jimmy](https://github.com/marph91/jimmy) [![GitHub stars](https://img.shields.io/github/stars/marph91/jimmy?style=flat)](https://github.com/marph91/jimmy/stargazers) - Convert various note formats to markdown.
 - [mq](https://github.com/harehare/mq) [![GitHub stars](https://img.shields.io/github/stars/harehare/mq?style=flat)](https://github.com/harehare/mq/stargazers) - Jq-like markdown processor.
+- [mcat](https://github.com/Skardyy/mcat) [![GitHub stars](https://img.shields.io/github/stars/Skardyy/mcat?style=flat)](https://github.com/Skardyy/mcat/stargazers) - Markdown, images, video, and document viewer.
 
 ### Security
 
@@ -537,6 +539,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wego](https://github.com/schachmat/wego) [![GitHub stars](https://img.shields.io/github/stars/schachmat/wego?style=flat)](https://github.com/schachmat/wego/stargazers)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) [![GitHub stars](https://img.shields.io/github/stars/riyadhalnur/weather-cli?style=flat)](https://github.com/riyadhalnur/weather-cli/stargazers)
 - [weathr](https://github.com/veirt/weathr) [![GitHub stars](https://img.shields.io/github/stars/veirt/weathr?style=flat)](https://github.com/veirt/weathr/stargazers) - ASCII animations.
+- [linecast](https://github.com/ashuttl/linecast) [![GitHub stars](https://img.shields.io/github/stars/ashuttl/linecast?style=flat)](https://github.com/ashuttl/linecast/stargazers) - Weather, tides, sun, moon, and maps.
 
 ### Browser Replacement
 
@@ -565,6 +568,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 
 - [resumx](https://github.com/resumx/resumx) [![GitHub stars](https://img.shields.io/github/stars/resumx/resumx?style=flat)](https://github.com/resumx/resumx/stargazers) - Markdown resume renderer with auto page-fitting.
 - [YAMLResume](https://github.com/yamlresume/yamlresume) [![GitHub stars](https://img.shields.io/github/stars/yamlresume/yamlresume?style=flat)](https://github.com/yamlresume/yamlresume/stargazers) - Resumes as code.
+
+### Backup
+
+- [shallow-backup](https://github.com/alichtman/shallow-backup) [![GitHub stars](https://img.shields.io/github/stars/alichtman/shallow-backup?style=flat)](https://github.com/alichtman/shallow-backup/stargazers) - Git integrated backup tool.
+- [Plakar](https://github.com/PlakarKorp/plakar) [![GitHub stars](https://img.shields.io/github/stars/PlakarKorp/plakar?style=flat)](https://github.com/PlakarKorp/plakar/stargazers) - An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 
 ## Command Line Learning
 
@@ -753,7 +761,6 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) [![GitHub stars](https://img.shields.io/github/stars/abhijithvijayan/import-github-labels-cli?style=flat)](https://github.com/abhijithvijayan/import-github-labels-cli/stargazers) - Sync labels between Github repos.
 - [git-all-branches](https://github.com/zacanger/git-all-branches) [![GitHub stars](https://img.shields.io/github/stars/zacanger/git-all-branches?style=flat)](https://github.com/zacanger/git-all-branches/stargazers) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) [![GitHub stars](https://img.shields.io/github/stars/Zhengqbbb/cz-git/tree/main/packages/cli?style=flat)](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli/stargazers) - Interactively generate standardized commit messages.
-- [shallow-backup](https://github.com/alichtman/shallow-backup) [![GitHub stars](https://img.shields.io/github/stars/alichtman/shallow-backup?style=flat)](https://github.com/alichtman/shallow-backup/stargazers) - Git integrated backup tool.
 - [lazygit](https://github.com/jesseduffield/lazygit) [![GitHub stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=flat)](https://github.com/jesseduffield/lazygit/stargazers) - Simple TUI for git commands.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) [![GitHub stars](https://img.shields.io/github/stars/magicmonty/bash-git-prompt?style=flat)](https://github.com/magicmonty/bash-git-prompt/stargazers) - Informative and fancy bash prompt for Git users.
 - [gitui](https://github.com/extrawurst/gitui) [![GitHub stars](https://img.shields.io/github/stars/extrawurst/gitui?style=flat)](https://github.com/extrawurst/gitui/stargazers) - Blazing fast terminal-ui for git written in Rust.
@@ -859,6 +866,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agentty](https://github.com/1ay1/agentty) [![GitHub stars](https://img.shields.io/github/stars/1ay1/agentty?style=flat)](https://github.com/1ay1/agentty/stargazers) - C++ agent TUI.
 - [bosun](https://github.com/yetidevworks/bosun) [![GitHub stars](https://img.shields.io/github/stars/yetidevworks/bosun?style=flat)](https://github.com/yetidevworks/bosun/stargazers) - Agent session manager built on tmux.
 - [Keen Code](https://github.com/mochow13/keen-code) [![GitHub stars](https://img.shields.io/github/stars/mochow13/keen-code?style=flat)](https://github.com/mochow13/keen-code/stargazers) - Context-aware coding agent written in Go.
+- [AgentBridge](https://github.com/raysonmeng/agent-bridge) [![GitHub stars](https://img.shields.io/github/stars/raysonmeng/agent-bridge?style=flat)](https://github.com/raysonmeng/agent-bridge/stargazers) - Local bridge for bidirectional communication between Claude Code and Codex.
 
 ### LLM Interaction
 

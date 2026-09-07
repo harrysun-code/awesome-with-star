@@ -266,6 +266,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [RunThisLLM](https://runthisllm.com) - See which LLMs you can run on your hardware.
 - [Harbor](https://github.com/av/harbor) [![GitHub stars](https://img.shields.io/github/stars/av/harbor?style=flat)](https://github.com/av/harbor/stargazers) - A containerized toolkit for running local LLM backends, UIs, and supporting services with one command. #opensource
 - [off-grid-mobile](https://github.com/alichherawalla/off-grid-mobile-ai) [![GitHub stars](https://img.shields.io/github/stars/alichherawalla/off-grid-mobile-ai?style=flat)](https://github.com/alichherawalla/off-grid-mobile-ai/stargazers) - React Native app for running LLMs, vision models, and Stable Diffusion on-device on iOS and Android without internet access. #opensource
+- [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) [![GitHub stars](https://img.shields.io/github/stars/raullenchai/Rapid-MLX?style=flat)](https://github.com/raullenchai/Rapid-MLX/stargazers) - OpenAI-compatible local LLM inference server optimized for Apple Silicon, with tool calling, reasoning, vision, and structured output support. #opensource
 
 ## Agents
 

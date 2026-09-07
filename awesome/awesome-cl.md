@@ -47,6 +47,7 @@ sellers who aren't evil for physical resources.
 **Table of Contents**
 
 - [Artificial Intelligence (AI, LLMs)](#artificial-intelligence-ai-llms)
+  - [Agents](#agents)
   - [Around the OpenAI API](#around-the-openai-api)
   - [MCP servers](#mcp-servers)
   - [Machine Learning](#machine-learning)
@@ -222,6 +223,10 @@ sellers who aren't evil for physical resources.
 Artificial Intelligence (AI, LLMs)
 ==================================
 
+## Agents
+
+* [Autolith](https://github.com/lambda-symbolics/autolith) [![GitHub stars](https://img.shields.io/github/stars/lambda-symbolics/autolith?style=flat)](https://github.com/lambda-symbolics/autolith/stargazers) - a live, self-modifying Common Lisp agent.
+
 ## Around the OpenAI API
 
 * [openai-openapi-client](https://codeberg.org/kilianmh/openai-openapi-client) - semi-automatically generated Openapi client updated frequently from the [official Openapi specification](https://github.com/openai/openai-openapi/blob/master/openapi.yaml) [![GitHub stars](https://img.shields.io/github/stars/openai/openai-openapi/blob/master/openapi.yaml?style=flat)](https://github.com/openai/openai-openapi/blob/master/openapi.yaml/stargazers). AGPL-3.
@@ -368,7 +373,7 @@ C, C++
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD_2Clause][17].
 * [Software-Evolution-Library](https://github.com/GrammaTech/sel) [![GitHub stars](https://img.shields.io/github/stars/GrammaTech/sel?style=flat)](https://github.com/GrammaTech/sel/stargazers) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3][2].
 * [vacietis](https://github.com/vsedach/Vacietis) [![GitHub stars](https://img.shields.io/github/stars/vsedach/Vacietis?style=flat)](https://github.com/vsedach/Vacietis/stargazers) -  C to Common Lisp compiler. [LGPL3][9].
-* NEW as of 2025 [Cicili](https://github.com/saman-pasha/cicili/) [![GitHub stars](https://img.shields.io/github/stars/saman-pasha/cicili/?style=flat)](https://github.com/saman-pasha/cicili//stargazers) - C generator macro-driven language. GPL3.0.
+* [Cicili](https://github.com/saman-pasha/cicili/) [![GitHub stars](https://img.shields.io/github/stars/saman-pasha/cicili/?style=flat)](https://github.com/saman-pasha/cicili//stargazers) - C generator macro-driven language. GPL3.0.
   * "can use lisp libraries to produce compile time content like html, json, sql, ... for inside C generated code".
 
 Cryptography
@@ -856,7 +861,6 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
 * 🆕 [Barium](https://tomscii.sig7.se/barium/) - an X widget toolkit, directly accessing the X client library and other platform libraries (OpenGL, Cairo). [MIT][200].
   * with menus, panes, tabs, dialogs, a file chooser, a flexible event loop…
   * not a wrapper of another toolkit. Allows incremental GUI development.
-  * new as of April, 2025.
 
 But that's not all.
 
@@ -1030,7 +1034,7 @@ For strings:
 Experimental:
 
 * [Moonli](https://gitlab.com/digikar/moonli) - a Julia/Python-ish syntax layer that transpiles to Common Lisp.
-  * *experimental*. New as of 2025.
+  * *experimental*. 
 
 CLOS extensions
 ---------------
@@ -1216,6 +1220,7 @@ Web Development
 Reference
 ---------
 
+* NEW! [Metaspec](https://metaspec.dev/) - another rendition of the dpANS3R CL specification, but to an s-expression based document format, and then to HTML.  All divergences from the specification are documented, all revisions are versioned and dated.  Math is rendered via MathML.  Also includes an info render and an emacs integration package.  Free to copy, modify, and distribute.
 * NEW! [CL CommunitySpec](https://cl-community-spec.github.io/pages/index.html) - a rendition of the Common Lisp ANSI Specification draft.
   * with an interactive search, syntax highlighting! And open-source.
 * NEW! [novaspec](https://novaspec.org/) - a modern rendition of the CL ANSI draft.
@@ -1431,6 +1436,9 @@ See OpenAPI, OData and other libraries below.
   - example code bases: [Ultralisp](https://github.com/ultralisp/ultralisp/) [![GitHub stars](https://img.shields.io/github/stars/ultralisp/ultralisp/?style=flat)](https://github.com/ultralisp/ultralisp//stargazers), [krasnodar](https://github.com/lct23/krasnodar) [![GitHub stars](https://img.shields.io/github/stars/lct23/krasnodar?style=flat)](https://github.com/lct23/krasnodar/stargazers), a dashboard made for a hackaton (2024) ([demo video](https://diode.zone/videos/watch/9e379a86-c530-4e9d-b8be-7437b1f7200b)).
 * [Interactive SSR](https://github.com/interactive-ssr/client/blob/master/main.org/) [![GitHub stars](https://img.shields.io/github/stars/interactive-ssr/client/blob/master/main.org/?style=flat)](https://github.com/interactive-ssr/client/blob/master/main.org//stargazers) - ISSR allows you to make interactive web pages without writing client scripting. No knowledge about Javascript or DOM is necessary.
   - it is not unlike Phoenix LiveView or Hotwire.
+- 🔥 [Fluxion](https://github.com/parenworks/Fluxion) [![GitHub stars](https://img.shields.io/github/stars/parenworks/Fluxion?style=flat)](https://github.com/parenworks/Fluxion/stargazers) - Live, server-rendered reactive web UI framework. MIT.
+  - NEW as of 2026
+  - blog post: ["Fluxion: Building a Propagator-Based Reactive Web UI Framework in Common Lisp"](https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html)
 
 CLOG-based frameworks:
 
@@ -2089,7 +2097,6 @@ Tools:
 
 * 🚀 [Rooms: Lem on the cloud](https://www.youtube.com/watch?v=IMN7feOQOak) (video presentation)
   * "Rooms is a product that runs Lem, a text editor created in Common Lisp, in the Cloud and can be used by multiple users."
-  * NEW as of April, 2024.
 
 ## LispWorks
 
@@ -2150,6 +2157,7 @@ Tools:
   * [ngl widget](https://github.com/yitzchak/ngl-clj) [![GitHub stars](https://img.shields.io/github/stars/yitzchak/ngl-clj?style=flat)](https://github.com/yitzchak/ngl-clj/stargazers) -  A ngl widget (protein viewer) for common-lisp-jupyter.
   * [sheet widget](https://github.com/yitzchak/sheet-clj) [![GitHub stars](https://img.shields.io/github/stars/yitzchak/sheet-clj?style=flat)](https://github.com/yitzchak/sheet-clj/stargazers) -  Data grid widget for common-lisp-jupyter.
 * [cl-jupyter](https://github.com/fredokun/cl-jupyter) [![GitHub stars](https://img.shields.io/github/stars/fredokun/cl-jupyter?style=flat)](https://github.com/fredokun/cl-jupyter/stargazers) - A Common Lisp kernel for Jupyter notebooks [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/fredokun/cl-jupyter/blob/master/LICENSE?style=flat)](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE/stargazers).
+* [icl](https://github.com/atgreeen/icl) [![GitHub stars](https://img.shields.io/github/stars/atgreeen/icl?style=flat)](https://github.com/atgreeen/icl/stargazers) - the enhanced REPL (see below) includes a very capable notebook feature with advanced charting capabilities.
 
 ## REPLs ##
 

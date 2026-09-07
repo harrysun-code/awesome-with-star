@@ -185,6 +185,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [proxyquire](https://github.com/thlorenz/proxyquire) [![GitHub stars](https://img.shields.io/github/stars/thlorenz/proxyquire?style=flat)](https://github.com/thlorenz/proxyquire/stargazers) - Stub nodejs's require.
 * [Supertest](https://github.com/visionmedia/supertest) [![GitHub stars](https://img.shields.io/github/stars/visionmedia/supertest?style=flat)](https://github.com/visionmedia/supertest/stargazers) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
 * [Pocket Mocker](https://github.com/tianchangNorth/pocket-mocker) [![GitHub stars](https://img.shields.io/github/stars/tianchangNorth/pocket-mocker?style=flat)](https://github.com/tianchangNorth/pocket-mocker/stargazers) - In-browser visual network mocking tool, supports fetch/XHR interception.
+* [interface-forge](https://github.com/Goldziher/interface-forge) [![GitHub stars](https://img.shields.io/github/stars/Goldziher/interface-forge?style=flat)](https://github.com/Goldziher/interface-forge/stargazers) - Graceful, type-safe mock-data generation for TypeScript, with factories and Faker integration.
 
 ### Coverage
 
@@ -1073,6 +1074,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) [![GitHub stars](https://img.shields.io/github/stars/kaiban-ai/KaibanJS?style=flat)](https://github.com/kaiban-ai/KaibanJS/stargazers) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
+* [liter-llm](https://github.com/xberg-io/liter-llm) [![GitHub stars](https://img.shields.io/github/stars/xberg-io/liter-llm?style=flat)](https://github.com/xberg-io/liter-llm/stargazers) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
 
 ## Misc
 

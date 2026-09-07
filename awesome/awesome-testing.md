@@ -34,7 +34,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### API Testing
 - [Bruno](https://github.com/usebruno/bruno) [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=flat)](https://github.com/usebruno/bruno/stargazers) - Open-source API client for exploring and testing APIs.
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard for 188+ third-party APIs (OpenAI, Stripe, AWS, GitHub, etc.) with response time tracking and free alert tiers.
-- [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relavent tests are conducted with our long running agent setup.
+- [Polarity](https://www.polarity.so) - The First AI QA Engineer that does full E2E, API, UI testing. Understands your entire codebase and ensures all relevant tests are conducted with our long running agent setup.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
 - [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
@@ -48,13 +48,13 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for testing callback payloads, headers, and delivery behavior.
 - [KushoAI](https://kusho.ai/) - AI-native platform for API contract testing, end-to-end testing, UI testing, and continuous security scanning, with self-healing tests that automatically adapt to code changes in CI/CD.
 - [postman2pytest](https://github.com/golikovichev/postman2pytest) [![GitHub stars](https://img.shields.io/github/stars/golikovichev/postman2pytest?style=flat)](https://github.com/golikovichev/postman2pytest/stargazers) - Convert a Postman Collection v2.1 JSON file into a ready-to-run pytest test suite.
-- [funapi] (https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
+- [funapi](https://funapi.dev) - A free mock REST API service designed for practicing API testing, automation, and integration with realistic scenarios and endpoints.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) [![GitHub stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=flat)](https://github.com/zaproxy/zaproxy/stargazers) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 - [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
-- [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat)](https://github.com/projectdiscovery/nuclei/stargazers) - nuclie is automated scanner for common vulnerbilty finding on site.
+- [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat)](https://github.com/projectdiscovery/nuclei/stargazers) - nuclei is automated scanner for common vulnerability finding on site.
 
 ### AI & LLM Testing
 - [promptfoo](https://github.com/promptfoo/promptfoo) [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat)](https://github.com/promptfoo/promptfoo/stargazers) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -89,10 +89,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### UI & End-to-End Testing
-- [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testsing for all UI/UX features. Generated you Playwrite, Cypress, and other code for you as the test runs.
+- [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
 - [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 - [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
-- [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to Github Actions to test only the flows that have changed in a PR.
+- [DevAssure](https://app.devassure.io) - Agentic testing for E2E web UI on real browsers. Agent can be added to GitHub Actions to test only the flows that have changed in a PR.
 - [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 - [Ferrum](https://github.com/rubycdp/ferrum) [![GitHub stars](https://img.shields.io/github/stars/rubycdp/ferrum?style=flat)](https://github.com/rubycdp/ferrum/stargazers) - Chrome automation via CDP with a high-level Ruby API.
 - [flutter-skill](https://github.com/ai-dashboad/flutter-skill) [![GitHub stars](https://img.shields.io/github/stars/ai-dashboad/flutter-skill?style=flat)](https://github.com/ai-dashboad/flutter-skill/stargazers) - AI-powered E2E testing via MCP for Flutter, React Native, iOS, Android, Electron, Tauri, KMP, and .NET MAUI. Zero test code.
@@ -105,6 +105,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Octomind](https://github.com/OctoMind-dev) [![GitHub stars](https://img.shields.io/github/stars/OctoMind-dev?style=flat)](https://github.com/OctoMind-dev/stargazers) - AI-powered test case discovery and maintenance.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) [![GitHub stars](https://img.shields.io/github/stars/vitalets/playwright-bdd?style=flat)](https://github.com/vitalets/playwright-bdd/stargazers) - BDD-style Playwright testing.
 - [QA Wolf](https://github.com/qawolf/qawolf) [![GitHub stars](https://img.shields.io/github/stars/qawolf/qawolf?style=flat)](https://github.com/qawolf/qawolf/stargazers) - Node.js library for creating browser tests faster.
+- [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) [![GitHub stars](https://img.shields.io/github/stars/Quality-Max/qmax-mcp?style=flat)](https://github.com/Quality-Max/qmax-mcp/stargazers) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
 - [tapflow](https://github.com/jo-duchan/tapflow) [![GitHub stars](https://img.shields.io/github/stars/jo-duchan/tapflow?style=flat)](https://github.com/jo-duchan/tapflow/stargazers) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) [![GitHub stars](https://img.shields.io/github/stars/Nikita-Filonov/ui-coverage-scenario-tool?style=flat)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool/stargazers) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 - [Waterfall AI Test](https://github.com/jiongfeng/waterfall-ai-test-platform) [![GitHub stars](https://img.shields.io/github/stars/jiongfeng/waterfall-ai-test-platform?style=flat)](https://github.com/jiongfeng/waterfall-ai-test-platform/stargazers) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
@@ -118,8 +119,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
+- [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
 - [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
 - [DATAMIMIC CE](https://github.com/rapiddweller/datamimic) [![GitHub stars](https://img.shields.io/github/stars/rapiddweller/datamimic?style=flat)](https://github.com/rapiddweller/datamimic/stargazers) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
+- [dbmask](https://github.com/sealandseacat/dbmask) [![GitHub stars](https://img.shields.io/github/stars/sealandseacat/dbmask?style=flat)](https://github.com/sealandseacat/dbmask/stargazers) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 - [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
 - [JSON Validation Test Cases](https://github.com/UtilHatch/json-validation-test-cases) [![GitHub stars](https://img.shields.io/github/stars/UtilHatch/json-validation-test-cases?style=flat)](https://github.com/UtilHatch/json-validation-test-cases/stargazers) - Reusable valid, invalid, and edge-case JSON fixtures for testing parsers, validators, APIs, editors, and error handling.
 - [MockJutsu](https://github.com/altansayan/mock-jutsu-api) [![GitHub stars](https://img.shields.io/github/stars/altansayan/mock-jutsu-api?style=flat)](https://github.com/altansayan/mock-jutsu-api/stargazers) - Algorithmic open-source mock data engine generating 390+ format-valid types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more). CLI + REST API + Python package + JMeter
@@ -131,6 +134,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Fake Data Generator](https://singhajit.com/tools/fake-data-generator/) - Browser-based generator for realistic mock/test data. Custom schema or presets, export as JSON, CSV, or SQL INSERT.
 - [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
 - [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
+- [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
@@ -168,7 +172,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) [![GitHub stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter?style=flat)](https://github.com/jumpstarter-dev/jumpstarter/stargazers) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 - [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) [![GitHub stars](https://img.shields.io/github/stars/aiqualitylab/ai-natural-language-tests?style=flat)](https://github.com/aiqualitylab/ai-natural-language-tests/stargazers) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
-- [OpenTester](https://github.com/kznr02/OpenTester) [![GitHub stars](https://img.shields.io/github/stars/kznr02/OpenTester?style=flat)](https://github.com/kznr02/OpenTester/stargazers) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
+- [OpenTester](https://github.com/kznr02/OpenTester) [![GitHub stars](https://img.shields.io/github/stars/kznr02/OpenTester?style=flat)](https://github.com/kznr02/OpenTester/stargazers) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
 - [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 - [optics-framework](https://github.com/mozarkai/optics-framework) [![GitHub stars](https://img.shields.io/github/stars/mozarkai/optics-framework?style=flat)](https://github.com/mozarkai/optics-framework/stargazers) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 

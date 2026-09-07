@@ -387,6 +387,7 @@ Above all, enjoy using Emacs. The community, more than anything, makes Emacs a g
     - [[https://www.emacswiki.org/emacs/WhiteSpace][whitespace]] - =[built-in]= Visualize blanks (tab/space/newline).
     - [[https://github.com/purcell/whitespace-cleanup-mode][whitespace-cleanup-mode]] - Intelligently call whitespace-cleanup on save.
     - [[https://github.com/lewang/ws-butler][ws-butler]] - Unobtrusively trim extraneous white-space *ONLY* in lines edited.
+    - [[https://github.com/saulotoledo/trailing-newline-indicator][trailing-newline-indicator]] - Displays a small indicator at the end of the buffer to highlight trailing newlines.
 
 *** Delete Enhancement
 
@@ -723,6 +724,7 @@ Above all, enjoy using Emacs. The community, more than anything, makes Emacs a g
 
     - [[https://github.com/emacs-eclim/emacs-eclim][emacs-eclim]] - An Eclipse plugin which exposes Eclipse features through a server interface.
     - [[https://github.com/emacs-lsp/lsp-java][lsp-java]] - Eclipse JDT Language Server integration for Emacs.
+    - [[https://github.com/saulotoledo/java-agent-loader][jal]] - Java Agent Loader: automatic configures Java agents (like Lombok or JaCoCo) for Java projects on `lsp-java' or `eglot-java'.
 
 *** Go
 
@@ -1279,6 +1281,7 @@ For additional git-related emacs packages to use or to get inspiration from, tak
 
 ** Fun
 
+   - [[https://github.com/Boruch-Baum/emacs-crossword][crossword]] - Download and play crossword puzzles.
    - [[https://github.com/TeMPOraL/nyan-mode][Nyan-mode]] - Let Nyan Cat show you your buffer position in mode line.
    - [[https://www.emacswiki.org/emacs/ZoneMode][Zone Mode]] - =[built-in]= A buffer obfuscator, or a screensaver.
    - [[https://hg.sr.ht/~zck/minesweeper][minesweeper.el]] - An implementation of minesweeper in emacs.

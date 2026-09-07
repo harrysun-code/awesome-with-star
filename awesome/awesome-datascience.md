@@ -141,6 +141,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 - [DeepAlpha](https://github.com/stefanoviana/deepalpha) [![GitHub stars](https://img.shields.io/github/stars/stefanoviana/deepalpha?style=flat)](https://github.com/stefanoviana/deepalpha/stargazers) - AI crypto trading framework using LightGBM + XGBoost ensemble with 72 ML features. 70.9% walk-forward validated accuracy on out-of-sample data. Supports Bybit and Binance. MIT licensed, available on [PyPI](https://pypi.org/project/deepalpha-bot/).
 - [CAJAL](https://github.com/Agnuxo1/CAJAL) [![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/CAJAL?style=flat)](https://github.com/Agnuxo1/CAJAL/stargazers) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) [![GitHub stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat)](https://github.com/future-agi/ai-evaluation/stargazers) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
+- [Kitaru](https://github.com/zenml-io/kitaru) [![GitHub stars](https://img.shields.io/github/stars/zenml-io/kitaru?style=flat)](https://github.com/zenml-io/kitaru/stargazers) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
 
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp) [![GitHub stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat)](https://github.com/connerlambden/bgpt-mcp/stargazers)
@@ -441,6 +442,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [CatBoost](https://github.com/catboost/catboost) [![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=flat)](https://github.com/catboost/catboost/stargazers)
 * [PerpetualBooster](https://github.com/perpetual-ml/perpetual) [![GitHub stars](https://img.shields.io/github/stars/perpetual-ml/perpetual?style=flat)](https://github.com/perpetual-ml/perpetual/stargazers)
 * [JAX](https://github.com/google/jax) [![GitHub stars](https://img.shields.io/github/stars/google/jax?style=flat)](https://github.com/google/jax/stargazers)
+* [PhilanthroPy](https://github.com/PhilanthroPy-Project/PhilanthroPy) [![GitHub stars](https://img.shields.io/github/stars/PhilanthroPy-Project/PhilanthroPy?style=flat)](https://github.com/PhilanthroPy-Project/PhilanthroPy/stargazers) - Scikit-learn native toolkit for nonprofit fundraising analytics: leakage-safe donor propensity, lapse, planned-giving, wealth-screening and revenue-forecasting estimators.
 
 
 
@@ -983,6 +985,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Serrano.Academy](https://www.youtube.com/@SerranoAcademy)
 - [End to End Data Science Playlist](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 - [Introduction to Data Science - Linkedin](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916)
+- [AI Talks](https://aietalks.com/) - Searchable summaries and topic index for practical AI engineering talks and conference videos.
 
 ## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1158,6 +1161,9 @@ Some data mining competition platforms
 - [College ROI Dataset](https://github.com/thomasthinks/college-roi-data) [![GitHub stars](https://img.shields.io/github/stars/thomasthinks/college-roi-data?style=flat)](https://github.com/thomasthinks/college-roi-data/stargazers) - Lifetime return-on-investment estimates for ~30K US bachelor's programs across 1,775 institutions, built from FREOPP, IPEDS, and BEA regional price data. 5 CSVs with data dictionary, CC BY 4.0, Zenodo DOI.
 - [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) [![GitHub stars](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat)](https://github.com/noahaust2/ai-displacement-tracker/stargazers) - Structured dataset tracking 92 AI-attributed workforce reduction events affecting 453,748 workers across 12 countries and 11 sectors. JSON and CSV formats. CC-BY-4.0 licensed.
 - [Packrift Packaging Optimization Benchmark Corpus](https://packrift.github.io/packaging-optimization-benchmark-corpus/) - Public packaging product dataset generated from 1,000 exact-spec SKU records, with downloadable CSV and JSON files for ecommerce fulfillment and warehouse analysis.
+- [Pokemon Card Centering Measurements](https://github.com/rrh1441/pokemon-card-centering-measurements) [![GitHub stars](https://img.shields.io/github/stars/rrh1441/pokemon-card-centering-measurements?style=flat)](https://github.com/rrh1441/pokemon-card-centering-measurements/stargazers) - 320 measured PSA-style centering annotations (left/right and top/bottom border percentages, tilt) across 302 real eBay-listed Pokemon cards. CSV, CC BY 4.0, Zenodo DOI.
+- [Pokemon Card Sold-Price Reference by Grade](https://github.com/rrh1441/pokemon-card-sold-price-reference) [![GitHub stars](https://img.shields.io/github/stars/rrh1441/pokemon-card-sold-price-reference?style=flat)](https://github.com/rrh1441/pokemon-card-sold-price-reference/stargazers) - Median sold price by grade (raw, PSA 9, PSA 10) for 486 Pokemon cards, with sample size and confidence flag per card. CSV, CC BY 4.0, Zenodo DOI.
+- [Evidaxis Momentum Snapshots](https://evidaxis.org) - Weekly snapshots of public development and citation activity for open-source and research-native AI systems, content-addressed and byte-reproducible from public inputs. JSON and CSV per snapshot date, CC0, DOI 10.5281/zenodo.21076011.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 - [United States Census Bureau](https://www.census.gov/)

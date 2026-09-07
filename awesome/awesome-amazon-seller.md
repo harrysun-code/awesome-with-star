@@ -49,6 +49,7 @@
 - [Keyword Tool](https://keywordtool.io/amazon) - Finds great keywords using Amazon autocomplete.
 - [MerchantWords](https://www.merchantwords.com/) - Finds highly specific keyword phrases that help buyers find what you are selling.
 - [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Free packaging fit tool for comparing item dimensions against carton and mailer options before FBA or merchant-fulfilled shipping.
+- [Pangolinfo](https://www.pangolinfo.com/amazon-data-mcp/) - MCP server and REST API exposing 19 read-only Amazon data tools: product details, reviews, keyword search, category and niche analysis, Best Sellers, New Releases, and seller storefronts, plus WIPO trademark and US PACER patent litigation lookups. Connects over Streamable HTTP; Python client available via `pip install pangolinfo-mcp`.
 - [Prestozon](https://prestozon.com/) - Automation and analytics for Amazon HSA & sponsored products ads.
 - [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
 - [Scrappie](https://scrappie.app) - E-commerce data monitoring and analysis platform with API integration, WebHooks & ETL processes.
@@ -96,7 +97,7 @@
 
 ## Other
 
-- [Awesome China Sourcing](https://github.com/assassinationss/awesome-china-sourcing) [![GitHub stars](https://img.shields.io/github/stars/assassinationss/awesome-china-sourcing?style=flat)](https://github.com/assassinationss/awesome-china-sourcing/stargazers) - Open-source China sourcing toolkit: a six-step supplier verification system (license check, factory video call, reference check), quality inspection checklists, Incoterms cheat sheet, and negotiation templates.
+- [Awesome China Sourcing](https://github.com/assassinationss/awesome-china-sourcing) [![GitHub stars](https://img.shields.io/github/stars/assassinationss/awesome-china-sourcing?style=flat)](https://github.com/assassinationss/awesome-china-sourcing/stargazers) - Open-source China sourcing toolkit: six-step supplier verification system, 10-point red-flag checker, landed-cost calculator, quality inspection checklists, Incoterms cheat sheet, negotiation email templates, and deep guides on reading Chinese business licenses and Alibaba vs 1688.
 - [chdh-tools-dataset](https://github.com/launotice-lang/chdh-tools-dataset) [![GitHub stars](https://img.shields.io/github/stars/launotice-lang/chdh-tools-dataset?style=flat)](https://github.com/launotice-lang/chdh-tools-dataset/stargazers) - Open dataset (CC BY 4.0) of 1,210 cross-border e-commerce tools, including major Amazon seller tools (Helium 10, Jungle Scout, Keepa, FastMoss). JSON/CSV format with categories, pricing, and editorial ratings.
 - [FBA Catalog](https://fbacatalog.com) - Software catalog for Amazon Sellers. Find tools that fit your business in no time!
 - [FBA Monthly](https://fbamonthly.com) - FBA Monthly newsletter is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.

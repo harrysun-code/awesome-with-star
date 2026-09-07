@@ -75,15 +75,18 @@
 * [pg-backups-to-s3](https://github.com/Saicheg/pg-backups-to-s3) [![GitHub stars](https://img.shields.io/github/stars/Saicheg/pg-backups-to-s3?style=flat)](https://github.com/Saicheg/pg-backups-to-s3/stargazers) - Docker-first solution on top of pg_dump with support for environment-based configuration for scheduled PostgreSQL backups with optional compression, GPG encryption, webhooks, automatic upload to Amazon S3.
 
 ### GUI
+* [1bench](https://1bench.dev/postgresql) - Native cross-platform GUI with first-class Postgres support alongside Redis, Elasticsearch, ClickHouse, Qdrant, and more (Commercial Software).
 * [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
+* [AI for Database](https://aifordatabase.com) - Chat with your PostgreSQL database in natural language. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. (Commercial Software).
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 * [Bytebase](https://www.bytebase.com) - Database DevSecOps solution for Developer, Security, DBA, and Platform Engineering teams.
 * [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
 * [Count](https://count.co/) - Web-based analytics platform with a notebook interface which connects to PostgreSQL (Commercial Software).
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
+* [Dekart](https://github.com/dekart-xyz/dekart) [![GitHub stars](https://img.shields.io/github/stars/dekart-xyz/dekart?style=flat)](https://github.com/dekart-xyz/dekart/stargazers) - Open-source platform to turn PostGIS queries into shareable interactive maps.
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 * [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
-* [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+* [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE with migration, federated SQL, and CDC replication for PostgreSQL, MySQL, files, and S3-compatible storage. (Commercial Software).
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbForge Edge](https://www.devart.com/dbforge/edge/) - All-in-one multidatabase solution supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and a wide range of related cloud services (Commercial Software). 
 * [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
@@ -93,10 +96,12 @@
 * [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
+* [OrcaQ](https://github.com/cin12211/orca-q) [![GitHub stars](https://img.shields.io/github/stars/cin12211/orca-q?style=flat)](https://github.com/cin12211/orca-q/stargazers) - A modern, open-source database editor for PostgreSQL, MySQL, Redis, and more. Features an AI assistant, ERD visualizer, schema diff, and visual role management.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 * [PgManage](https://github.com/commandprompt/pgmanage) [![GitHub stars](https://img.shields.io/github/stars/commandprompt/pgmanage?style=flat)](https://github.com/commandprompt/pgmanage/stargazers) - A modern multi-platform Postgres-centric database client/administration tool.
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
+* [PgStudio](https://github.com/dev-asterix/PgStudio) [![GitHub stars](https://img.shields.io/github/stars/dev-asterix/PgStudio?style=flat)](https://github.com/dev-asterix/PgStudio/stargazers) - Open-source VS Code / Open VSX extension for PostgreSQL management with SQL notebooks, AI assistant, Easy to use code snippets and Full-fledged DBMS with real-time monitoring dashboard.
 * [pgweb](https://github.com/sosedoff/pgweb) [![GitHub stars](https://img.shields.io/github/stars/sosedoff/pgweb?style=flat)](https://github.com/sosedoff/pgweb/stargazers) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) [![GitHub stars](https://img.shields.io/github/stars/phppgadmin/phppgadmin?style=flat)](https://github.com/phppgadmin/phppgadmin/stargazers) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird](https://github.com/Paxa/postbird) [![GitHub stars](https://img.shields.io/github/stars/Paxa/postbird?style=flat)](https://github.com/Paxa/postbird/stargazers) - PostgreSQL Client for macOS.
@@ -110,6 +115,7 @@
 * [temBoard](https://github.com/dalibo/temboard) [![GitHub stars](https://img.shields.io/github/stars/dalibo/temboard?style=flat)](https://github.com/dalibo/temboard/stargazers) - Web-based PostgreSQL GUI and monitoring.
 * [Teable](https://github.com/teableio/teable) [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=flat)](https://github.com/teableio/teable/stargazers) - A Super fast, Real-time, Professional, Developer friendly, No code database.
 * [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
+* [TablePro](https://tablepro.app/) - Native macOS PostgreSQL client with explain visualization, ER diagrams, and AI assistant. Free, open-source.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 * [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
 * [WebDB](https://webdb.app) – Efficient Database IDE.
@@ -121,6 +127,8 @@
 ### CLI
 * [atlas](https://github.com/ariga/atlas) [![GitHub stars](https://img.shields.io/github/stars/ariga/atlas?style=flat)](https://github.com/ariga/atlas/stargazers) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 * [pgcli](https://github.com/dbcli/pgcli) [![GitHub stars](https://img.shields.io/github/stars/dbcli/pgcli?style=flat)](https://github.com/dbcli/pgcli/stargazers) - Postgres CLI with autocompletion and syntax highlighting
+* [pgfence](https://pgfence.com) - Lints Postgres SQL migrations for lock modes and risky DDL, with safe expand/contract rewrites. CLI plus LSP. Extractors for Prisma, TypeORM, and Knex.
+* [pgxcli](https://github.com/Balaji01-4D/pgxcli) [![GitHub stars](https://img.shields.io/github/stars/Balaji01-4D/pgxcli?style=flat)](https://github.com/Balaji01-4D/pgxcli/stargazers) - Postgres CLI with autocompletion and syntax highlighting written in Go.
 * [pgplan](https://github.com/JacobArthurs/pgplan) [![GitHub stars](https://img.shields.io/github/stars/JacobArthurs/pgplan?style=flat)](https://github.com/JacobArthurs/pgplan/stargazers) - compare and analyze PostgreSQL EXPLAIN plans from the CLI
 * [pgschema](https://www.pgschema.com) - Terraform-style declarative schema migration for Postgres
 * [pg-schema-diff](https://github.com/stripe/pg-schema-diff) [![GitHub stars](https://img.shields.io/github/stars/stripe/pg-schema-diff?style=flat)](https://github.com/stripe/pg-schema-diff/stargazers) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
@@ -142,6 +150,7 @@
 
 ### Security
 * [Acra](https://github.com/cossacklabs/acra) [![GitHub stars](https://img.shields.io/github/stars/cossacklabs/acra?style=flat)](https://github.com/cossacklabs/acra/stargazers) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+* [pgrls](https://github.com/pgrls/pgrls) [![GitHub stars](https://img.shields.io/github/stars/pgrls/pgrls?style=flat)](https://github.com/pgrls/pgrls/stargazers) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
 
 ### Monitoring
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) [![GitHub stars](https://img.shields.io/github/stars/OPMDG/check_pgactivity?style=flat)](https://github.com/OPMDG/check_pgactivity/stargazers) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
@@ -156,6 +165,7 @@
 * [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
 * [pg\_view](https://github.com/zalando/pg_view) [![GitHub stars](https://img.shields.io/github/stars/zalando/pg_view?style=flat)](https://github.com/zalando/pg_view/stargazers) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
 * [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) [![GitHub stars](https://img.shields.io/github/stars/cybertec-postgresql/pgwatch2?style=flat)](https://github.com/cybertec-postgresql/pgwatch2/stargazers) - Flexible and easy to get started PostgreSQL metrics monitor focusing on Grafana dashboards.
+* [pgwd](https://github.com/hrodrig/pgwd) [![GitHub stars](https://img.shields.io/github/stars/hrodrig/pgwd?style=flat)](https://github.com/hrodrig/pgwd/stargazers) - monitors PostgreSQL connection usage and stale sessions, with threshold alerts, Prometheus metrics, and multiple notification backends.
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
 * [opm.io](http://opm.io) -  Open PostgreSQL Monitoring is a free software suite designed to help you manage your PostgreSQL servers. It can gather stats, display dashboards and send warnings when something goes wrong.
 * [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
@@ -164,6 +174,7 @@
 * [pg_exporter](https://github.com/Vonng/pg_exporter) [![GitHub stars](https://img.shields.io/github/stars/Vonng/pg_exporter?style=flat)](https://github.com/Vonng/pg_exporter/stargazers) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 * [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) [![GitHub stars](https://img.shields.io/github/stars/wrouesnel/postgres_exporter?style=flat)](https://github.com/wrouesnel/postgres_exporter/stargazers) - Prometheus exporter for PostgreSQL server metrics.
 * [StatsMgr](https://codeberg.org/data-bene/statsmgr) - An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.
+* [pgvitals](https://github.com/pgvitals/pgvitals) [![GitHub stars](https://img.shields.io/github/stars/pgvitals/pgvitals?style=flat)](https://github.com/pgvitals/pgvitals/stargazers) - collection of 40 read-only diagnostic queries for spotting common performance problems (slow queries, bloat, vacuum lag, lock contention, replication lag, wraparound risk) using only the standard system catalog with no extensions required, plus an optional CLI that aggregates them into a 0-100 health score.
 
 ### Extensions
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions.
@@ -175,6 +186,7 @@
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) [![GitHub stars](https://img.shields.io/github/stars/citusdata/cstore_fdw?style=flat)](https://github.com/citusdata/cstore_fdw/stargazers) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
 * [pg_search](https://github.com/paradedb/paradedb) [![GitHub stars](https://img.shields.io/github/stars/paradedb/paradedb?style=flat)](https://github.com/paradedb/paradedb/stargazers) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
+* [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) [![GitHub stars](https://img.shields.io/github/stars/Intelligent-Internet/psql_bm25s?style=flat)](https://github.com/Intelligent-Internet/psql_bm25s/stargazers) - PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL top-k query APIs.
 * [pg_cron](https://github.com/citusdata/pg_cron) [![GitHub stars](https://img.shields.io/github/stars/citusdata/pg_cron?style=flat)](https://github.com/citusdata/pg_cron/stargazers) - Run periodic jobs in PostgreSQL.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) [![GitHub stars](https://img.shields.io/github/stars/2ndQuadrant/pglogical?style=flat)](https://github.com/2ndQuadrant/pglogical/stargazers) - Extension that provides logical streaming replication.
 * [pgcat](https://github.com/kingluo/pgcat) [![GitHub stars](https://img.shields.io/github/stars/kingluo/pgcat?style=flat)](https://github.com/kingluo/pgcat/stargazers) - Enhanced PostgreSQL logical replication
@@ -203,6 +215,7 @@
 
 ### Platforms
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) [![GitHub stars](https://img.shields.io/github/stars/crisbez/atlas4d-base?style=flat)](https://github.com/crisbez/atlas4d-base/stargazers) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
+* [neond](https://github.com/matisiekpl/neond) [![GitHub stars](https://img.shields.io/github/stars/matisiekpl/neond?style=flat)](https://github.com/matisiekpl/neond/stargazers) - DX-focused control plane for Postgres with branching, PITR, and S3 durability. Ships as a single Docker container with a web dashboard; positions itself as a `postgres:latest` replacement for non-critical workloads.
 
 ### Work Queues
 * [BeanQueue](https://github.com/LaunchPlatform/bq) [![GitHub stars](https://img.shields.io/github/stars/LaunchPlatform/bq?style=flat)](https://github.com/LaunchPlatform/bq/stargazers) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
@@ -254,6 +267,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) [![GitHub stars](https://img.shields.io/github/stars/lukasmartinelli/pgclimb?style=flat)](https://github.com/lukasmartinelli/pgclimb/stargazers) - Export data from PostgreSQL into different data formats.
 * [pg_docs_bot](https://github.com/mchristofides/pg_docs_bot/) [![GitHub stars](https://img.shields.io/github/stars/mchristofides/pg_docs_bot/?style=flat)](https://github.com/mchristofides/pg_docs_bot//stargazers) - Browser extension to redirect PostgreSQL docs links to the current version.
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) [![GitHub stars](https://img.shields.io/github/stars/lukasmartinelli/pgfutter?style=flat)](https://github.com/lukasmartinelli/pgfutter/stargazers) - Import CSV and JSON into PostgreSQL the easy way.
+* [pgFirstAid](https://github.com/randoneering/pgFirstAid) [![GitHub stars](https://img.shields.io/github/stars/randoneering/pgFirstAid?style=flat)](https://github.com/randoneering/pgFirstAid/stargazers) - Easy-to-deploy, open source PostgreSQL function that provides a prioritized list of actions to improve database stability and performance. Directly inspired by Brent Ozar's FirstResponderKit for SQL Server.
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
 * [pg_insights](https://github.com/lob/pg_insights) [![GitHub stars](https://img.shields.io/github/stars/lob/pg_insights?style=flat)](https://github.com/lob/pg_insights/stargazers) - Convenient SQL for monitoring Postgres database health.
 * [pgloader](https://github.com/dimitri/pgloader) [![GitHub stars](https://img.shields.io/github/stars/dimitri/pgloader?style=flat)](https://github.com/dimitri/pgloader/stargazers) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
@@ -317,6 +331,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 * [OVHcloud Cloud Databases](https://www.ovhcloud.com/en/public-cloud/databases/) - Highly available, scalable, and secured PostgreSQL. Daily backups with point-in-time recovery, no lock-in, free incoming and outgoing traffic.
 * [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
+* [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector pre-installed and HNSW-tuned for vector search. Free tier (2 GB, no credit card), flat-priced dedicated instances from $15/month, EU and US regions.
 * [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
@@ -330,6 +345,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
 * [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
 * [paradedb/paradedb](https://hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the official Postgres container with pg_search extension.
+* [pglayers](https://github.com/pglayers/pglayers) [![GitHub stars](https://img.shields.io/github/stars/pglayers/pglayers?style=flat)](https://github.com/pglayers/pglayers/stargazers) - Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
 
 ### Kubernetes
@@ -350,6 +366,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Operations cheat sheet](https://wiki.postgresql.org/wiki/Operations_cheat_sheet) - Operations cheat sheet from PostgreSQL Wiki.
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket.
 * [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
+* [PostgreSQL Access Control](https://andersnasell.gumroad.com/l/postgresql-access-control) - The complete mental model: roles, grants, ownership, membership, policies, and default privileges as an integrated system. PDF + video, ~60 min.
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) [![GitHub stars](https://img.shields.io/github/stars/morenoh149/postgresDBSamples?style=flat)](https://github.com/morenoh149/postgresDBSamples/stargazers) - A collection of sample postgres schemas

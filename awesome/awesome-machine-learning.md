@@ -1512,7 +1512,10 @@ be
 * [sequitur](https://github.com/shobrook/sequitur) [![GitHub stars](https://img.shields.io/github/stars/shobrook/sequitur?style=flat)](https://github.com/shobrook/sequitur/stargazers) PyTorch library for creating and training sequence autoencoders in just two lines of code
 * [ANEE](https://github.com/abkmystery/ANEE) [![GitHub stars](https://img.shields.io/github/stars/abkmystery/ANEE?style=flat)](https://github.com/abkmystery/ANEE/stargazers) - Adaptive Neural Execution Engine for transformers. Per-token sparse inference with dynamic layer skipping, profiler-based gating, and KV-cache-safe compute reduction.
 * [zij](https://github.com/junaidaliop/zij) [![GitHub stars](https://img.shields.io/github/stars/junaidaliop/zij?style=flat)](https://github.com/junaidaliop/zij/stargazers) - A canon of deep learning optimization algorithms.
-
+* [HypercubeESN](https://github.com/dliptak001/HypercubeESN) [![GitHub stars](https://img.shields.io/github/stars/dliptak001/HypercubeESN?style=flat)](https://github.com/dliptak001/HypercubeESN/stargazers) - Echo State Network on a Boolean hypercube reservoir: XOR Hamming-1 connectivity, no stored adjacency, C++23 + Python (`pip install hypercube-esn`).
+* [HypercubeWTF](https://github.com/dliptak001/HypercubeWTF) [![GitHub stars](https://img.shields.io/github/stars/dliptak001/HypercubeWTF?style=flat)](https://github.com/dliptak001/HypercubeWTF/stargazers) - Frozen hypercube reservoir for static fields (synthetic-time orbit + thin CNN readout). Sibling of HypercubeESN.
+* [HypercubeCascade](https://github.com/dliptak001/HypercubeCascade) [![GitHub stars](https://img.shields.io/github/stars/dliptak001/HypercubeCascade?style=flat)](https://github.com/dliptak001/HypercubeCascade/stargazers) - Etalon transit then WTF orbit on one cube, then a thin HypercubeCNN readout.
+* [HypercubeHopfield](https://github.com/dliptak001/HypercubeHopfield) [![GitHub stars](https://img.shields.io/github/stars/dliptak001/HypercubeHopfield?style=flat)](https://github.com/dliptak001/HypercubeHopfield/stargazers) - Modern Hopfield associative memory on a hypercube graph with sparse local-attention retrieval (C++23 + Python).
 
 
 <a name="python-spiking-neural-networks"></a>

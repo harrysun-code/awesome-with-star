@@ -68,6 +68,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
       - [Drug Target Interaction](#drug-target-interaction)
       - [Compound-Protein Interaction](#compound-protein-interaction)
       - [Molecular Generation](#molecular-generation)
+    - [Protein Property Prediction](#protein-property-prediction)
     - [LLM for Biology](#llm-for-biology)
     - [Foundation Models](#foundation-models)
       - [Single-cell Foundation Models](#single-cell-foundation-models)
@@ -310,7 +311,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [CellCharter](https://github.com/CSOgroup/cellcharter) [![GitHub stars](https://img.shields.io/github/stars/CSOgroup/cellcharter?style=flat)](https://github.com/CSOgroup/cellcharter/stargazers) — Identification and characterization of spatial cell niches from spatial transcriptomics using VAEs and Gaussian mixture models.
 - [STAGATE](https://github.com/RucDongLab/STAGATE) [![GitHub stars](https://img.shields.io/github/stars/RucDongLab/STAGATE?style=flat)](https://github.com/RucDongLab/STAGATE/stargazers) — Adaptive graph attention auto-encoder for spatial domain identification in spatial transcriptomics.
 - [NCEM](https://github.com/theislab/ncem) [![GitHub stars](https://img.shields.io/github/stars/theislab/ncem?style=flat)](https://github.com/theislab/ncem/stargazers) — GNN-based model for learning intercellular communication from spatial graphs of cells.
-- [DeepTalk](https://github.com/JiangBioLab/DeepTalk) [![GitHub stars](https://img.shields.io/github/stars/JiangBioLab/DeepTalk?style=flat)](https://github.com/JiangBioLab/DeepTalk/stargazers) — Graph attention network for deciphering cell-cell communication from spatial transcriptomics data.
+- [DeepTalk](https://github.com/JiangBioLab/DeepTalk) [![GitHub stars](https://img.shields.io/github/stars/JiangBioLab/DeepTalk?style=flat)](https://github.com/JiangBioLab/DeepTalk/stargazers) — Graph attention network for deciphering cell-cell communication from spatial transcriptomics.
 - [COMMOT](https://github.com/zcang/COMMOT) [![GitHub stars](https://img.shields.io/github/stars/zcang/COMMOT?style=flat)](https://github.com/zcang/COMMOT/stargazers) — Optimal transport-based framework for screening cell-cell communication in spatial transcriptomics.
 - [TIGON](https://github.com/yutongo/TIGON) [![GitHub stars](https://img.shields.io/github/stars/yutongo/TIGON?style=flat)](https://github.com/yutongo/TIGON/stargazers) — Neural optimal transport method for reconstructing growth and dynamic trajectories from single-cell transcriptomics.
 - [LINGER](https://github.com/Durenlab/LINGER) [![GitHub stars](https://img.shields.io/github/stars/Durenlab/LINGER?style=flat)](https://github.com/Durenlab/LINGER/stargazers) — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
@@ -377,6 +378,10 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [ReLeaSE](https://github.com/isayev/ReLeaSE) [![GitHub stars](https://img.shields.io/github/stars/isayev/ReLeaSE?style=flat)](https://github.com/isayev/ReLeaSE/stargazers) — Deep reinforcement learning framework for de novo drug design combining a generative and predictive model.
 - [PaccMannRL](https://github.com/PaccMann/paccmann_generator) [![GitHub stars](https://img.shields.io/github/stars/PaccMann/paccmann_generator?style=flat)](https://github.com/PaccMann/paccmann_generator/stargazers) — Reinforcement learning-based generative model for de novo hit-like anticancer molecule design from transcriptomic data.
 
+### Protein Property Prediction
+
+- [NbBayesLM](https://github.com/FairuzShadmaniShishir/NbBayesLM) [![GitHub stars](https://img.shields.io/github/stars/FairuzShadmaniShishir/NbBayesLM?style=flat)](https://github.com/FairuzShadmaniShishir/NbBayesLM/stargazers) — Bayesian neural network integrating protein language model embeddings and physicochemical features to predict nanobody thermostability with uncertainty estimates. [Paper](https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2026.1832968/full)
+
 ### LLM for Biology
 
 - [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) — LLM for chemical & molecular science.
@@ -433,7 +438,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [GeneCompass](https://github.com/xCompass-AI/GeneCompass) [![GitHub stars](https://img.shields.io/github/stars/xCompass-AI/GeneCompass?style=flat)](https://github.com/xCompass-AI/GeneCompass/stargazers) — Large-scale foundation model integrating DNA regulatory sequences and single-cell transcriptomics from 120M+ cells across multiple species for gene regulation prediction.
 - [UnitedNet](https://github.com/LiuLab-Bioelectronics-Harvard/UnitedNet) [![GitHub stars](https://img.shields.io/github/stars/LiuLab-Bioelectronics-Harvard/UnitedNet?style=flat)](https://github.com/LiuLab-Bioelectronics-Harvard/UnitedNet/stargazers) — Interpretable multi-task deep neural network for single-cell multi-omics integration spanning transcriptomics, chromatin accessibility, and proteomics.
 - [SpatialGlue](https://github.com/zhanglabtools/SpatialGlue) [![GitHub stars](https://img.shields.io/github/stars/zhanglabtools/SpatialGlue?style=flat)](https://github.com/zhanglabtools/SpatialGlue/stargazers) — Graph attention network for spatial multi-omics integration jointly embedding spatial transcriptomics with chromatin accessibility or proteomics.
-- [MIDAS](https://github.com/labomics/midas) [![GitHub stars](https://img.shields.io/github/stars/labomics/midas?style=flat)](https://github.com/labomics/midas/stargazers) — Mosaic integration and differential accessibility model for single-cell multi-omics data that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.
+- [MIDAS](https://github.com/labomics/midas) [![GitHub stars](https://img.shields.io/github/stars/labomics/midas?style=flat)](https://github.com/labomics/midas/stargazers) — Mosaic integration and differential accessibility model for single-cell multi-omics that handles arbitrary missing-modality combinations across transcriptomics, chromatin accessibility, and proteomics.
 - [Concerto](https://github.com/melobio/Concerto-reproducibility) [![GitHub stars](https://img.shields.io/github/stars/melobio/Concerto-reproducibility?style=flat)](https://github.com/melobio/Concerto-reproducibility/stargazers) — Contrastive self-supervised learning framework for single-cell multimodal data integration, batch correction, and reference-query mapping.
 - [scButterfly](https://github.com/BioX-NKU/scButterfly) [![GitHub stars](https://img.shields.io/github/stars/BioX-NKU/scButterfly?style=flat)](https://github.com/BioX-NKU/scButterfly/stargazers) — Dual-aligned variational autoencoder for single-cell cross-modality translation between paired and unpaired multiomics data.
 - [JAMIE](https://github.com/Oafish1/JAMIE) [![GitHub stars](https://img.shields.io/github/stars/Oafish1/JAMIE?style=flat)](https://github.com/Oafish1/JAMIE/stargazers) — Joint variational autoencoder for multimodal single-cell data imputation and embedding.
@@ -515,6 +520,7 @@ If you use this list in papers, slides, or documentation, please cite this repos
 To keep quality high, additions should meet all of the following:
 
 - The resource is trustworthy and relevant to computational biology.
+- The resource has clear value to the scope and audience of this collection; highly specialized resources with limited relevance beyond a narrow application context may be declined even when technically sound.
 - The primary link points to an official source (official docs, organization site, maintained repository, or official dataset page).
 - The resource has evidence of technical substance: ideally a peer-reviewed paper; at minimum a preprint or official technical documentation.
 - The description is factual and concise (no marketing copy).

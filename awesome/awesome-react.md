@@ -8,7 +8,6 @@
 
 A collection of awesome things regarding the React ecosystem.
 
-
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Tutorials](#react-tutorials)
@@ -84,6 +83,7 @@ A collection of awesome things regarding the React ecosystem.
 - [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) [![GitHub stars](https://img.shields.io/github/stars/TheOrcDev/8bitcn-ui?style=flat)](https://github.com/TheOrcDev/8bitcn-ui/stargazers) - A retro 8-bit themed React component library built on top of shadcn
 - [headlessui](https://github.com/tailwindlabs/headlessui) [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=flat)](https://github.com/tailwindlabs/headlessui/stargazers) - Completely unstyled, accessible UI components for React
 - [ruixen-ui](https://github.com/ruixenui/ruixen.com) [![GitHub stars](https://img.shields.io/github/stars/ruixenui/ruixen.com?style=flat)](https://github.com/ruixenui/ruixen.com/stargazers) - Modern, lightweight React component library with elegant design
+- [billingsdk](https://github.com/dodopayments/billingsdk) [![GitHub stars](https://img.shields.io/github/stars/dodopayments/billingsdk?style=flat)](https://github.com/dodopayments/billingsdk/stargazers) - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
 
 #### React State Management and Data Fetching
 
@@ -138,6 +138,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-uploady](https://github.com/rpldy/react-uploady) [![GitHub stars](https://img.shields.io/github/stars/rpldy/react-uploady?style=flat)](https://github.com/rpldy/react-uploady/stargazers) - Modern file-upload components & hooks for React
 - [downshift](https://github.com/downshift-js/downshift) [![GitHub stars](https://img.shields.io/github/stars/downshift-js/downshift?style=flat)](https://github.com/downshift-js/downshift/stargazers) - React autocomplete, combobox or select dropdown components
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) [![GitHub stars](https://img.shields.io/github/stars/bvaughn/react-error-boundary?style=flat)](https://github.com/bvaughn/react-error-boundary/stargazers) - A React error boundary component that lets you catch errors
+- [reactuse](https://github.com/childrentime/reactuse) [![GitHub stars](https://img.shields.io/github/stars/childrentime/reactuse?style=flat)](https://github.com/childrentime/reactuse/stargazers) - Collection of 110+ tree-shakable, SSR-safe, TypeScript-first React Hooks
 
 #### React Testing
 
@@ -177,6 +178,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) [![GitHub stars](https://img.shields.io/github/stars/rjsf-team/react-jsonschema-form?style=flat)](https://github.com/rjsf-team/react-jsonschema-form/stargazers) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) [![GitHub stars](https://img.shields.io/github/stars/alibaba/formily?style=flat)](https://github.com/alibaba/formily/stargazers) - Alibaba Group Unified Form Solution
 - [tanstack-form](https://github.com/TanStack/form) [![GitHub stars](https://img.shields.io/github/stars/TanStack/form?style=flat)](https://github.com/TanStack/form/stargazers) - Headless, performant, and type-safe form state management
+- [formisch](https://github.com/open-circle/formisch) [![GitHub stars](https://img.shields.io/github/stars/open-circle/formisch?style=flat)](https://github.com/open-circle/formisch/stargazers) - The schema-based, headless form library for React
 
 #### React Tables and Grids
 
@@ -206,6 +208,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-pdf](https://github.com/diegomura/react-pdf) [![GitHub stars](https://img.shields.io/github/stars/diegomura/react-pdf?style=flat)](https://github.com/diegomura/react-pdf/stargazers) - Create PDF files using React
 - [react-figma](https://github.com/react-figma/react-figma) [![GitHub stars](https://img.shields.io/github/stars/react-figma/react-figma?style=flat)](https://github.com/react-figma/react-figma/stargazers) - A React renderer for Figma
 - [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) [![GitHub stars](https://img.shields.io/github/stars/quantizor/markdown-to-jsx?style=flat)](https://github.com/quantizor/markdown-to-jsx/stargazers) - A very fast and versatile markdown toolchain
+- [markstream](https://github.com/Simon-He95/markstream-vue) [![GitHub stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat)](https://github.com/Simon-He95/markstream-vue/stargazers) - Streaming Markdown renderer for React and AI chat interfaces
 
 #### React Internationalization
 
@@ -229,6 +232,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Real Apps
 
+- [excalidraw](https://github.com/excalidraw/excalidraw) [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=flat)](https://github.com/excalidraw/excalidraw/stargazers) - An open source virtual hand-drawn style whiteboard.
 - [mattermost-server](https://github.com/mattermost/mattermost) [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=flat)](https://github.com/mattermost/mattermost/stargazers) - An open source platform for secure collaboration
 - [kibana](https://github.com/elastic/kibana) [![GitHub stars](https://img.shields.io/github/stars/elastic/kibana?style=flat)](https://github.com/elastic/kibana/stargazers) - Your window into the Elastic Stack
 - [webamp](https://github.com/captbaritone/webamp) [![GitHub stars](https://img.shields.io/github/stars/captbaritone/webamp?style=flat)](https://github.com/captbaritone/webamp/stargazers) - Winamp 2 reimplemented for the browser
@@ -237,6 +241,7 @@ A collection of awesome things regarding the React ecosystem.
 - [readest](https://github.com/readest/readest) [![GitHub stars](https://img.shields.io/github/stars/readest/readest?style=flat)](https://github.com/readest/readest/stargazers) - A minimalistic, feature-rich and cross-platform eBook reader
 - [bookcars](https://github.com/aelassas/bookcars) [![GitHub stars](https://img.shields.io/github/stars/aelassas/bookcars?style=flat)](https://github.com/aelassas/bookcars/stargazers) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) [![GitHub stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=flat)](https://github.com/Notifuse/notifuse/stargazers) - Modern self-hosted emailing platform to send newsletters & transactional emails
+- [cate](https://github.com/0-AI-UG/cate) [![GitHub stars](https://img.shields.io/github/stars/0-AI-UG/cate?style=flat)](https://github.com/0-AI-UG/cate/stargazers) - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
 
 ### React Native
 
@@ -261,6 +266,7 @@ A collection of awesome things regarding the React ecosystem.
 - [realm-js](https://github.com/realm/realm-js) [![GitHub stars](https://img.shields.io/github/stars/realm/realm-js?style=flat)](https://github.com/realm/realm-js/stargazers) - A mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) [![GitHub stars](https://img.shields.io/github/stars/react-native-device-info/react-native-device-info?style=flat)](https://github.com/react-native-device-info/react-native-device-info/stargazers) - Device Information for React Native iOS and Android
 - [react-native-maps](https://github.com/react-native-maps/react-native-maps) [![GitHub stars](https://img.shields.io/github/stars/react-native-maps/react-native-maps?style=flat)](https://github.com/react-native-maps/react-native-maps/stargazers) - React Native Mapview component
+- [xprem](https://github.com/mercuretechnologies/xprem) [![GitHub stars](https://img.shields.io/github/stars/mercuretechnologies/xprem?style=flat)](https://github.com/mercuretechnologies/xprem/stargazers) - Self-hosted OTA updates for Expo and React Native apps
 
 ### Contribution
 

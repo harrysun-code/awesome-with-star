@@ -151,6 +151,7 @@
 
 ### Python
 
+- [Authlib](https://github.com/authlib/authlib) [![GitHub stars](https://img.shields.io/github/stars/authlib/authlib?style=flat)](https://github.com/authlib/authlib/stargazers) - Python library in building OAuth and OpenID Connect servers and clients.
 - [mozilla-django-oidc](https://github.com/mozilla/mozilla-django-oidc/) [![GitHub stars](https://img.shields.io/github/stars/mozilla/mozilla-django-oidc/?style=flat)](https://github.com/mozilla/mozilla-django-oidc//stargazers) - A Django OpenID Connect relying party library maintained by Mozilla.
 
 ### Ruby
@@ -253,6 +254,7 @@ Where to discover learning resources about OpenID Connect.
 - [OpenID Shared Signals Framework Specification 1.0](https://openid.net/specs/openid-sharedsignals-framework-1_0-ID3.html) - Shared Signals Framework (SSF) enables sharing of signals and events between cooperating peers that enables multiple applications such as Risk Incident Sharing and Coordination (RISC) and the Continuous Access Evaluation Profile (CAEP).
 - [Cross-App Access (XAA), formally known as the "Identity Assertion Authorization Grant"](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant-03.html) - Enables AI agents and apps to securely access and act across multiple services with user consent using standardized and fine-grained OAuth permissions.
 - [OAuth Identity and Authorization Chaining Across Domains](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-11) - Preserves user identity, authorization context, and call-chain history across multiple services and trust domains using OAuth token exchange and JWT-based assertions.
+- [OAuth 2.0 for First-Party Applications](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps-04.html) - Defines the Authorization Challenge Endpoint to enable native applications to obtain user authorization through native user interfaces.
 - [OpenID Connect for Agents (OIDC-A) 1.0](https://arxiv.org/html/2509.25974v1) - A research proposal (not a standard or IETF draft) extending OpenID Connect to support AI agent identity, attestation, delegation chains, and fine-grained authorization within the OAuth ecosystem.
 
 ### Websites

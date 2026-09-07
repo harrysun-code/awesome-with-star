@@ -135,6 +135,7 @@ _UI frameworks for mobile._
 - [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
+- [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 ## State Libraries
 
@@ -171,6 +172,7 @@ _UI frameworks for mobile._
 - [retroui-svelte](https://retroui-svelte.netlify.app) - A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.
 - [svelte-audio-ui](https://svelte-audio-ui.vercel.app) - A set of accessible and composable Audio UI components. Built on top of shadcn-svelte, inspired by audio-ui, it's designed for you to copy, paste, and own.
 - [AgentsKit](https://github.com/AgentsKit-io/agentskit) [![GitHub stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit?style=flat)](https://github.com/AgentsKit-io/agentskit/stargazers) - Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.
+- [human-kit](https://ui.human-kit.com) - Headless, accessible UI primitives for Svelte 5 - ARIA semantics, keyboard interaction and focus management included, styling left entirely to you.
 
 ## UI Components
 
@@ -261,9 +263,11 @@ _Display non-editable events in a calendar._
 - [svelte-speedometer](https://github.com/palerdot/svelte-speedometer) [![GitHub stars](https://img.shields.io/github/stars/palerdot/svelte-speedometer?style=flat)](https://github.com/palerdot/svelte-speedometer/stargazers) - Svelte component for showing speedometer like gauge using d3.
 - [embedz](https://github.com/embedz/embedz) [![GitHub stars](https://img.shields.io/github/stars/embedz/embedz?style=flat)](https://github.com/embedz/embedz/stargazers) - Easy, dependency free embeds for Svelte and Vue.
 - [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
+- [File Viewer](https://github.com/flyfish-dev/file-viewer/tree/main/packages/components/svelte) [![GitHub stars](https://img.shields.io/github/stars/flyfish-dev/file-viewer/tree/main/packages/components/svelte?style=flat)](https://github.com/flyfish-dev/file-viewer/tree/main/packages/components/svelte/stargazers) - An offline-first Svelte component that previews 206 file extensions with lazy renderer presets and no server-side conversion.
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) [![GitHub stars](https://img.shields.io/github/stars/beynar/svelte-streamdown?style=flat)](https://github.com/beynar/svelte-streamdown/stargazers) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
 - [svelte-bash](https://github.com/YusufCeng1z/svelte-bash) [![GitHub stars](https://img.shields.io/github/stars/YusufCeng1z/svelte-bash?style=flat)](https://github.com/YusufCeng1z/svelte-bash/stargazers) - A customizable terminal-style component for Svelte 5.
+- [crd-ui](https://github.com/JuandaGarcia/crd-ui) [![GitHub stars](https://img.shields.io/github/stars/JuandaGarcia/crd-ui?style=flat)](https://github.com/JuandaGarcia/crd-ui/stargazers) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip.
 
 ## Scaffold
 
@@ -272,11 +276,13 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) [![GitHub stars](https://img.shields.io/github/stars/vitejs/vite/tree/main/packages/create-vite?style=flat)](https://github.com/vitejs/vite/tree/main/packages/create-vite/stargazers) - Generates scaffold for a vite + svelte app.
 - [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) [![GitHub stars](https://img.shields.io/github/stars/sveltejs/kit/tree/master/packages/create-svelte?style=flat)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte/stargazers) - A CLI for creating a new SvelteKit project.
 - [saasstarter](https://github.com/CriticalMoments/CMSaasStarter) [![GitHub stars](https://img.shields.io/github/stars/CriticalMoments/CMSaasStarter?style=flat)](https://github.com/CriticalMoments/CMSaasStarter/stargazers) - A open source, fast, and free to host Svelte SaaS template.
+- [Product Plate](https://github.com/rodrgds/productplate) [![GitHub stars](https://img.shields.io/github/stars/rodrgds/productplate?style=flat)](https://github.com/rodrgds/productplate/stargazers) - An open-source SvelteKit + Convex starter for building SaaS products.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) [![GitHub stars](https://img.shields.io/github/stars/tretapey/svelte-pwa?style=flat)](https://github.com/tretapey/svelte-pwa/stargazers) - A starter template for PWAs based in the official Template. _(pre-v5)_
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) [![GitHub stars](https://img.shields.io/github/stars/bavragor/vite-svelte-docker-template?style=flat)](https://github.com/bavragor/vite-svelte-docker-template/stargazers) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) [![GitHub stars](https://img.shields.io/github/stars/code-gio/svelte-docs-starter?style=flat)](https://github.com/code-gio/svelte-docs-starter/stargazers) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte](https://github.com/phaserjs/template-svelte) [![GitHub stars](https://img.shields.io/github/stars/phaserjs/template-svelte?style=flat)](https://github.com/phaserjs/template-svelte/stargazers) - An official quickstart template with Phaser.
 - [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) [![GitHub stars](https://img.shields.io/github/stars/GantonL/templates/tree/main/sveltekit-shadcn-v5?style=flat)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5/stargazers) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
+- [microfolio](https://github.com/aker-dev/microfolio) [![GitHub stars](https://img.shields.io/github/stars/aker-dev/microfolio?style=flat)](https://github.com/aker-dev/microfolio/stargazers) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
 
 ## Utilities
 
@@ -315,6 +321,7 @@ _Individual form components._
 - [sswr](https://github.com/ConsoleTVs/sswr) [![GitHub stars](https://img.shields.io/github/stars/ConsoleTVs/sswr?style=flat)](https://github.com/ConsoleTVs/sswr/stargazers) - Svelte stale while revalidate (SWR) data fetching strategy.
 - [svelte-query](https://sveltequery.vercel.app/) - Fetch, cache and update data in your Svelte applications all without touching any "global state".
 - [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
+- [@stitchapi/svelte](https://github.com/rejifald/StitchAPI/tree/main/packages/svelte) [![GitHub stars](https://img.shields.io/github/stars/rejifald/StitchAPI/tree/main/packages/svelte?style=flat)](https://github.com/rejifald/StitchAPI/tree/main/packages/svelte/stargazers) - Streaming-first StitchAPI bindings: typed, validated `stitchStore` / `stitchStreamStore` Svelte stores that re-render as response deltas arrive.
 
 ### Sound & Video
 
@@ -364,6 +371,7 @@ _For Single Page Applications (SPAs) and more._
 - [svelte5-router](https://github.com/mateothegreat/svelte5-router) [![GitHub stars](https://img.shields.io/github/stars/mateothegreat/svelte5-router?style=flat)](https://github.com/mateothegreat/svelte5-router/stargazers) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 - [@wjfe/n-savant](https://github.com/WJSoftware/wjfe-n-savant) [![GitHub stars](https://img.shields.io/github/stars/WJSoftware/wjfe-n-savant?style=flat)](https://github.com/WJSoftware/wjfe-n-savant/stargazers) - Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.
 - [sv-router](https://github.com/colinlienard/sv-router) [![GitHub stars](https://img.shields.io/github/stars/colinlienard/sv-router?style=flat)](https://github.com/colinlienard/sv-router/stargazers) - Type-safe SPA router with file-based or code-based routing.
+- [ufbr](https://github.com/zakarialaoui10/ufbr) [![GitHub stars](https://img.shields.io/github/stars/zakarialaoui10/ufbr?style=flat)](https://github.com/zakarialaoui10/ufbr/stargazers) - An Universal File Based Router with Svelte support.
 
 ## Frameworks
 
@@ -423,3 +431,4 @@ _Text editor plugins._
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) [![GitHub stars](https://img.shields.io/github/stars/FerrisMind/oxide-lab?style=flat)](https://github.com/FerrisMind/oxide-lab/stargazers) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr](https://github.com/Prismo-Studio/Zephyr) [![GitHub stars](https://img.shields.io/github/stars/Prismo-Studio/Zephyr?style=flat)](https://github.com/Prismo-Studio/Zephyr/stargazers) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
+- [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) [![GitHub stars](https://img.shields.io/github/stars/theolundqvist/pr-cockpit?style=flat)](https://github.com/theolundqvist/pr-cockpit/stargazers) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.

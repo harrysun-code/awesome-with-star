@@ -57,6 +57,7 @@ GeoJSON utilities that will make your life easier.
 * [point_ed](https://zverik.github.io/point_ed/): click on map to add points, download those as GeoJSON file
 * [geojson.io-for-vscode](https://marketplace.visualstudio.com/items?itemName=swallow.geojson-io-for-vscode): create, edit, and preview GeoJSON data in VSCode, just like [geojson.io](http://geojson.io/)
 * [Vector Tile Lab](https://github.com/spider-hand/vector-tile-lab) [![GitHub stars](https://img.shields.io/github/stars/spider-hand/vector-tile-lab?style=flat)](https://github.com/spider-hand/vector-tile-lab/stargazers): An interactive sandbox to tune vector tiles
+* [MapDraw](https://www.mapdraw.net/): web-based editor, imports & exports GeoJSON, GPX & KML, routing & elevation profiles, sharing via URL
 
 ### validation
 
@@ -67,6 +68,7 @@ GeoJSON utilities that will make your life easier.
 * [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson) [![GitHub stars](https://img.shields.io/github/stars/M-Scott-Lassiter/jest-geojson?style=flat)](https://github.com/M-Scott-Lassiter/jest-geojson/stargazers): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 * [antimeridian](https://github.com/gadomski/antimeridian) [![GitHub stars](https://img.shields.io/github/stars/gadomski/antimeridian?style=flat)](https://github.com/gadomski/antimeridian/stargazers): Fix GeoJSON polygons that cross the antimeridian (Python package)
 * [geojson-pydantic](https://github.com/developmentseed/geojson-pydantic) [![GitHub stars](https://img.shields.io/github/stars/developmentseed/geojson-pydantic?style=flat)](https://github.com/developmentseed/geojson-pydantic/stargazers): [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
+* [eudr-geojson-fixtures](https://github.com/vancebw/eudr-geojson-fixtures) [![GitHub stars](https://img.shields.io/github/stars/vancebw/eudr-geojson-fixtures?style=flat)](https://github.com/vancebw/eudr-geojson-fixtures/stargazers): test fixtures for EUDR geolocation data: valid plot examples plus common failure modes like axis swaps and self-intersecting rings
 
 ### services
 
