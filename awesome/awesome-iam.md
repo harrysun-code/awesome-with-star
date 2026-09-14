@@ -128,7 +128,7 @@ Security is one of the most central pillar of IAM foundations. Here are some bro
 
 - [Mitigating Cloud Vulnerabilities](https://web.archive.org/web/20250529050934/https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.
 
-- [Cartography](https://github.com/lyft/cartography) [![GitHub stars](https://img.shields.io/github/stars/lyft/cartography?style=flat)](https://github.com/lyft/cartography/stargazers) - 🆓 A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
+- [Cartography](https://github.com/cartography-cncf/cartography) [![GitHub stars](https://img.shields.io/github/stars/cartography-cncf/cartography?style=flat)](https://github.com/cartography-cncf/cartography/stargazers) - 🆓 A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
 
 - [Open guide to AWS Security and IAM](https://github.com/open-guides/og-aws#security-and-iam) [![GitHub stars](https://img.shields.io/github/stars/open-guides/og-aws?style=flat)](https://github.com/open-guides/og-aws/stargazers)
 
@@ -220,11 +220,11 @@ The oldest scheme for auth.
 
 - [Banks, Arbitrary Password Restrictions and Why They Don't Matter](https://www.troyhunt.com/banks-arbitrary-password-restrictions-and-why-they-dont-matter/) - “Arbitrary low limits on length and character composition are bad. They look bad, they lead to negative speculation about security posture and they break tools like password managers.”
 
-- [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) [![GitHub stars](https://img.shields.io/github/stars/dumb-password-rules/dumb-password-rules?style=flat)](https://github.com/dumb-password-rules/dumb-password-rules/stargazers) - 🆓 Shaming sites with dumb password rules.
+- [Dumb Password Rules](https://github.com/duffn/dumb-password-rules) [![GitHub stars](https://img.shields.io/github/stars/duffn/dumb-password-rules?style=flat)](https://github.com/duffn/dumb-password-rules/stargazers) - 🆓 Shaming sites with dumb password rules.
 
 - [Password Manager Resources](https://github.com/apple/password-manager-resources) [![GitHub stars](https://img.shields.io/github/stars/apple/password-manager-resources?style=flat)](https://github.com/apple/password-manager-resources/stargazers) - 🆓 A collection of password rules, change URLs and quirks by sites.
 
-- [A Well-Known URL for Changing Passwords](https://github.com/WICG/change-password-url) [![GitHub stars](https://img.shields.io/github/stars/WICG/change-password-url?style=flat)](https://github.com/WICG/change-password-url/stargazers) - 🆓 Specification defining site resource for password updates.
+- [A Well-Known URL for Changing Passwords](https://github.com/w3c/webappsec-change-password-url) [![GitHub stars](https://img.shields.io/github/stars/w3c/webappsec-change-password-url?style=flat)](https://github.com/w3c/webappsec-change-password-url/stargazers) - 🆓 Specification defining site resource for password updates.
 
 - [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360) - Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm.
 
@@ -362,7 +362,7 @@ As a concept, access control policies can be designed to follow very different a
 
 [Role-Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) is the classical model to map users to permissions by the way of roles.
 
-- [Athenz](https://github.com/yahoo/athenz) [![GitHub stars](https://img.shields.io/github/stars/yahoo/athenz?style=flat)](https://github.com/yahoo/athenz/stargazers) - 🆓 Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
+- [Athenz](https://github.com/AthenZ/athenz) [![GitHub stars](https://img.shields.io/github/stars/AthenZ/athenz?style=flat)](https://github.com/AthenZ/athenz/stargazers) - 🆓 Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
 
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Merges concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
 
@@ -378,7 +378,7 @@ As a concept, access control policies can be designed to follow very different a
 
 - [Ladon](https://github.com/ory/ladon) [![GitHub stars](https://img.shields.io/github/stars/ory/ladon?style=flat)](https://github.com/ory/ladon/stargazers) - 💸 Access control library, inspired by AWS.
 
-- [Casbin](https://github.com/casbin/casbin) [![GitHub stars](https://img.shields.io/github/stars/casbin/casbin?style=flat)](https://github.com/casbin/casbin/stargazers) - 🆓 Open-source access control library for Golang projects.
+- [Casbin](https://github.com/apache/casbin) [![GitHub stars](https://img.shields.io/github/stars/apache/casbin?style=flat)](https://github.com/apache/casbin/stargazers) - 🆓 Open-source access control library for Golang projects.
 
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=flat)](https://github.com/open-policy-agent/opa/stargazers) - 🆓 An open-source general-purpose decision engine to create and enforce ABAC policies.
 
@@ -458,7 +458,7 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 - [Keycloak](https://github.com/keycloak/keycloak) [![GitHub stars](https://img.shields.io/github/stars/keycloak/keycloak?style=flat)](https://github.com/keycloak/keycloak/stargazers) - 🆓 Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
 
-- [Casdoor](https://github.com/casbin/casdoor) [![GitHub stars](https://img.shields.io/github/stars/casbin/casdoor?style=flat)](https://github.com/casbin/casdoor/stargazers) - 🆓 A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+- [Casdoor](https://github.com/casdoor/casdoor) [![GitHub stars](https://img.shields.io/github/stars/casdoor/casdoor?style=flat)](https://github.com/casdoor/casdoor/stargazers) - 🆓 A UI-first centralized authentication / Single-Sign-On (SSO) platform. Supports OAuth 2, OIDC, SAML 2, CAS, LDAP and SCIM, social logins, user management, WebAuthn and TOTP/MFA.
 
 - [authentik](https://github.com/goauthentik/authentik) [![GitHub stars](https://img.shields.io/github/stars/goauthentik/authentik?style=flat)](https://github.com/goauthentik/authentik/stargazers) - 💸 Open-source Identity Provider similar to Keycloak.
 
@@ -498,9 +498,9 @@ Architectures, software and hardware allowing the storage and usage of secrets t
 
 - [Infisical](https://github.com/Infisical/infisical) [![GitHub stars](https://img.shields.io/github/stars/Infisical/infisical?style=flat)](https://github.com/Infisical/infisical/stargazers) - 💸 An alternative to HashiCorp Vault.
 
-- [`sops`](https://github.com/mozilla/sops) [![GitHub stars](https://img.shields.io/github/stars/mozilla/sops?style=flat)](https://github.com/mozilla/sops/stargazers) - 🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
+- [`sops`](https://github.com/getsops/sops) [![GitHub stars](https://img.shields.io/github/stars/getsops/sops?style=flat)](https://github.com/getsops/sops/stargazers) - 🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 
-- [`gitleaks`](https://github.com/zricethezav/gitleaks) [![GitHub stars](https://img.shields.io/github/stars/zricethezav/gitleaks?style=flat)](https://github.com/zricethezav/gitleaks/stargazers) - 🆓 Audit Git repos for secrets.
+- [`gitleaks`](https://github.com/gitleaks/gitleaks) [![GitHub stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=flat)](https://github.com/gitleaks/gitleaks/stargazers) - 🆓 Audit Git repos for secrets.
 
 - [`trufflehog`](https://github.com/trufflesecurity/trufflehog) [![GitHub stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=flat)](https://github.com/trufflesecurity/trufflehog/stargazers) - 💸 Searches through Git repositories for high entropy strings and secrets, digging deep into commit history.
 
@@ -560,7 +560,7 @@ As an online service provider, you're exposed to fraud, crime and abuses. You'll
 
 - [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
 
-- [MIDAS: Detecting Microcluster Anomalies in Edge Streams](https://github.com/bhatiasiddharth/MIDAS) [![GitHub stars](https://img.shields.io/github/stars/bhatiasiddharth/MIDAS?style=flat)](https://github.com/bhatiasiddharth/MIDAS/stargazers) - 🆓 A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+- [MIDAS: Detecting Microcluster Anomalies in Edge Streams](https://github.com/Stream-AD/MIDAS) [![GitHub stars](https://img.shields.io/github/stars/Stream-AD/MIDAS?style=flat)](https://github.com/Stream-AD/MIDAS/stargazers) - 🆓 A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
 
 - [Gephi](https://github.com/gephi/gephi) [![GitHub stars](https://img.shields.io/github/stars/gephi/gephi?style=flat)](https://github.com/gephi/gephi/stargazers) - 🆓 Open-source platform for visualizing and manipulating large graphs.
 
@@ -648,7 +648,7 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 
 ### Emails
 
-- [Burner email providers](https://github.com/wesbos/burner-email-providers) [![GitHub stars](https://img.shields.io/github/stars/wesbos/burner-email-providers?style=flat)](https://github.com/wesbos/burner-email-providers/stargazers) - 🆓 A list of temporary email providers. And its [derivative Python module](https://github.com/martenson/disposable-email-domains) [![GitHub stars](https://img.shields.io/github/stars/martenson/disposable-email-domains?style=flat)](https://github.com/martenson/disposable-email-domains/stargazers).
+- [Burner email providers](https://github.com/wesbos/burner-email-providers) [![GitHub stars](https://img.shields.io/github/stars/wesbos/burner-email-providers?style=flat)](https://github.com/wesbos/burner-email-providers/stargazers) - 🆓 A list of temporary email providers. And its [derivative Python module](https://github.com/disposable-email-domains/disposable-email-domains) [![GitHub stars](https://img.shields.io/github/stars/disposable-email-domains/disposable-email-domains?style=flat)](https://github.com/disposable-email-domains/disposable-email-domains/stargazers).
 
 - [MailChecker](https://github.com/FGRibreau/mailchecker) [![GitHub stars](https://img.shields.io/github/stars/FGRibreau/mailchecker?style=flat)](https://github.com/FGRibreau/mailchecker/stargazers) - 💸 Cross-language temporary (disposable/throwaway) email detection library.
 
@@ -692,7 +692,7 @@ As a central repository of user data, the IAM stack stakeholders have to prevent
 
 - [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - Explain the intuition behind [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy), a theoretical framework which allow sharing of aggregated data without compromising confidentiality. See follow-up articles with [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) and [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
 
-- [Presidio](https://github.com/microsoft/presidio) [![GitHub stars](https://img.shields.io/github/stars/microsoft/presidio?style=flat)](https://github.com/microsoft/presidio/stargazers) - 🆓 Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
+- [Presidio](https://github.com/data-privacy-stack/presidio) [![GitHub stars](https://img.shields.io/github/stars/data-privacy-stack/presidio?style=flat)](https://github.com/data-privacy-stack/presidio/stargazers) - 🆓 Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
 
 ### GDPR
 
@@ -748,7 +748,7 @@ Keep track on the activity of open-source projects and companies operating in th
 
 - [163 AWS services explained in one line each](https://web.archive.org/web/20260301070017/https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws) - Help makes sense of their huge service catalog. In the same spirit: [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
-- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) [![GitHub stars](https://img.shields.io/github/stars/gregsramblings/google-cloud-4-words?style=flat)](https://github.com/gregsramblings/google-cloud-4-words/stargazers) - Describe all GCP products in 4 words or less.
+- [Google Cloud Developer's Cheat Sheet](https://github.com/priyankavergadia/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) [![GitHub stars](https://img.shields.io/github/stars/priyankavergadia/google-cloud-4-words?style=flat)](https://github.com/priyankavergadia/google-cloud-4-words/stargazers) - Describe all GCP products in 4 words or less.
 
 ## History
 

@@ -134,7 +134,6 @@ This can also be a dedicated section of your README.md files.
 
 ## Articles
 
-- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/hackergrrl/art-of-readme#readme) [![GitHub stars](https://img.shields.io/github/stars/hackergrrl/art-of-readme?style=flat)](https://github.com/hackergrrl/art-of-readme/stargazers) - *Stephen Whitmore*
 - ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
@@ -151,10 +150,9 @@ This can also be a dedicated section of your README.md files.
 ## Tools
 
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) [![GitHub stars](https://img.shields.io/github/stars/dec0dOS/amazing-github-template?style=flat)](https://github.com/dec0dOS/amazing-github-template/stargazers) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
-- [Common Readme](https://github.com/hackergrrl/common-readme#readme) [![GitHub stars](https://img.shields.io/github/stars/hackergrrl/common-readme?style=flat)](https://github.com/hackergrrl/common-readme/stargazers) - A common readme style for Node. Includes a guide and a readme generator.
 - [Github Licenses Stats](https://github.com/lheintzmann1/github-licenses-stats#readme) [![GitHub stars](https://img.shields.io/github/stars/lheintzmann1/github-licenses-stats?style=flat)](https://github.com/lheintzmann1/github-licenses-stats/stargazers) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) [![GitHub stars](https://img.shields.io/github/stars/f14XuanLv/github-pr-stats?style=flat)](https://github.com/f14XuanLv/github-pr-stats/stargazers) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) [![GitHub stars](https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=flat)](https://github.com/anuraghazra/github-readme-stats/stargazers) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+- [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended#readme) [![GitHub stars](https://img.shields.io/github/stars/stats-organization/github-stats-extended?style=flat)](https://github.com/stats-organization/github-stats-extended/stargazers) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 - [GPRM](https://github.com/VishwaGauravIn/github-profile-readme-maker#readme) [![GitHub stars](https://img.shields.io/github/stars/VishwaGauravIn/github-profile-readme-maker?style=flat)](https://github.com/VishwaGauravIn/github-profile-readme-maker/stargazers) - A tool to generate a customized GitHub Profile README with a modern UI.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) [![GitHub stars](https://img.shields.io/github/stars/sourcerer-io/hall-of-fame?style=flat)](https://github.com/sourcerer-io/hall-of-fame/stargazers) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.

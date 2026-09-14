@@ -19,7 +19,6 @@ Your favorite tool or your own paper is not listed? Fork and create a Pull Reque
 - [Talks](#talks)
 - [Papers](#papers)
 - [Tools](#tools)
-- [Contribute](#contribute)
 
 
 ## Books
@@ -39,12 +38,30 @@ Your favorite tool or your own paper is not listed? Fork and create a Pull Reque
 - [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo) - NDC Conferences 2018.
 
 ## Papers
-To achieve a well-defined scope, I have chosen to include publications on fuzzing from 4 top major security conferences (2008–2025): (i) Network and Distributed System Security Symposium (NDSS), (ii) IEEE Symposium on Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM Conference on Computer and Communications Security (CCS).
+To achieve a well-defined scope, I have chosen to include publications on fuzzing from 4 top major security conferences (2008–2026): (i) Network and Distributed System Security Symposium (NDSS), (ii) IEEE Symposium on Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM Conference on Computer and Communications Security (CCS).
 
 > **Note:** Papers are selected based on whether the title contains the keyword "fuzz." If a paper is related to fuzzing but does not include "fuzz" in its title, it may have been missed. In that case, please open a [Pull Request](https://github.com/cpuu/awesome-fuzzing/pulls) and it will be reviewed for inclusion.
 
 
 ### The Network and Distributed System Security Symposium (NDSS)
+
+<details><summary>2026 (13 papers)</summary>
+
+- [ADGFUZZ: Assignment Dependency-Guided Fuzzing for Robotic Vehicles, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1014-paper.pdf)
+- [An LLM-Driven Fuzzing Framework for Detecting Logic Instruction Bugs in PLCs, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f1081-paper.pdf)
+- [BSFuzzer: Context-Aware Semantic Fuzzing for BLE Logic Flaw Detection, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f94-paper.pdf)
+- [DOM-XSS Detection via Webpage Interaction Fuzzing and URL Component Synthesis, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1467-paper.pdf)
+- [FirmAgent: Leveraging Fuzzing to Assist LLM Agents with IoT Firmware Vulnerability Discovery, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1943-paper.pdf)
+- [Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1486-paper.pdf)
+- [GoldenFuzz: Generative Golden Reference Hardware Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1663-paper.pdf)
+- [HyperMirage: Direct State Manipulation in Hybrid Virtual CPU Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s1763-paper.pdf)
+- [MUTATO: Enhancing Fuzz Drivers with Adaptive API Option Mutation, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-s820-paper.pdf)
+- [PhyFuzz: Detecting Sensor Vulnerabilities with Physical Signal Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f29-paper.pdf)
+- [PortRush: Detect Write Port Contention Side-Channel Vulnerabilities via Hardware Fuzzing, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f587-paper.pdf)
+- [ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f118-paper.pdf)
+- [RTCON: Context-Adaptive Function-Level Fuzzing for RTOS Kernels, 2026](https://www.ndss-symposium.org/wp-content/uploads/2026-f1600-paper.pdf)
+
+</details>
 
 <details><summary>2025 (10 papers)</summary>
 
@@ -149,6 +166,25 @@ To achieve a well-defined scope, I have chosen to include publications on fuzzin
 
 
 ### IEEE Symposium on Security and Privacy (IEEE S&P)
+
+<details><summary>2026 (14 papers)</summary>
+
+- [Batch Me If You Can: Coverage-guided RPKI Fuzzing at Scale, 2026](https://doi.org/10.1109/sp63933.2026.00188)
+- [Camveil: Unveiling Security Camera Vulnerabilities through Multi-Protocol Coordinated Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00002)
+- [deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses, 2026](https://doi.org/10.1109/sp63933.2026.00060)
+- [Fizzle: A Framework for Deterministic and Reproducible Network Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00091)
+- [Fuzzing the Physical Space: Physics-Aware Testing of Black-Box Industrial Control Systems, 2026](https://doi.org/10.1109/sp63933.2026.00178)
+- [Jazzer: Coverage-Guided Fuzzing for Semantic Vulnerabilities in the Java Ecosystem, 2026](https://doi.org/10.1109/sp63933.2026.00134)
+- [PILOT: Command-line Interface Fuzzing via Path-Guided, Iterative Large Language Model Prompting, 2026](https://doi.org/10.1109/sp63933.2026.00211)
+- [SmuFuzz: Enable Deep System Management Mode Fuzzing in Fully Featured UEFI Runtime Environment, 2026](https://doi.org/10.1109/sp63933.2026.00011)
+- [Specializing Language Models for Textual Fuzzing via Reinforcement Learning, 2026](https://doi.org/10.1109/sp63933.2026.00184)
+- [StepStone: LLM-Based GPU Kernel Driver Fuzzing via User-Space Libraries, 2026](https://doi.org/10.1109/sp63933.2026.00124)
+- [Stop Starving or Stuffing Me: Boosting Firmware Fuzzing Efficiency with On-demand Input Delivery, 2026](https://doi.org/10.1109/sp63933.2026.00155)
+- [TrigFuzz: Triggering Conditions Guided Directed Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00156)
+- [Web Application Vulnerability Repair via Context-Aware Fault Localization and Directed Differential Fuzzing, 2026](https://doi.org/10.1109/sp63933.2026.00237)
+- [zkFuzz: Foundation and Framework for Effective Fuzzing of Zero-Knowledge Circuits, 2026](https://doi.org/10.1109/sp63933.2026.00049)
+
+</details>
 
 <details><summary>2025 (7 papers)</summary>
 
@@ -605,7 +641,6 @@ A curated collection of open-source fuzzing tools, organized by target category 
 - [kAFL](https://github.com/rub-syssec/kafl) [![GitHub stars](https://img.shields.io/github/stars/rub-syssec/kafl?style=flat)](https://github.com/rub-syssec/kafl/stargazers) (2017) - A hardware-assisted x86-64 VM kernel fuzzing framework with performant VM reloads for finding OS kernel vulnerabilities.
 - [syzkaller](https://github.com/google/syzkaller) [![GitHub stars](https://img.shields.io/github/stars/google/syzkaller?style=flat)](https://github.com/google/syzkaller/stargazers) (2015) - An unsupervised coverage-guided kernel fuzzer supporting FreeBSD, Fuchsia, gVisor, Linux, NetBSD, OpenBSD, and Windows. 
 - [Trinity](https://github.com/kernelslacker/trinity) [![GitHub stars](https://img.shields.io/github/stars/kernelslacker/trinity?style=flat)](https://github.com/kernelslacker/trinity/stargazers) (2012) - A Linux system call fuzzer that generates semi-intelligent random arguments to syscalls, including valid file descriptors, flags, and range-biased values.
-### Network
 ### API
 - [WuppieFuzz](https://github.com/TNO-S3/WuppieFuzz) [![GitHub stars](https://img.shields.io/github/stars/TNO-S3/WuppieFuzz?style=flat)](https://github.com/TNO-S3/WuppieFuzz/stargazers) - A coverage-guided REST API fuzzer developed on top of LibAFL.
 - [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - A fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
@@ -614,21 +649,15 @@ A curated collection of open-source fuzzing tools, organized by target category 
 - [GraphFuzz](https://github.com/ForAllSecure/GraphFuzz) [![GitHub stars](https://img.shields.io/github/stars/ForAllSecure/GraphFuzz?style=flat)](https://github.com/ForAllSecure/GraphFuzz/stargazers) - An experimental framework for building structure-aware, library API fuzzers.
 - [Minerva](https://github.com/ChijinZ/Minerva) [![GitHub stars](https://img.shields.io/github/stars/ChijinZ/Minerva?style=flat)](https://github.com/ChijinZ/Minerva/stargazers) - A browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
 - [FANS](https://github.com/iromise/fans) [![GitHub stars](https://img.shields.io/github/stars/iromise/fans?style=flat)](https://github.com/iromise/fans/stargazers) - A fuzzing tool for Android native system services with four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
-### JavaScript
-### Firmware
-### Hypervisor
 ### CPU
 - [DifuzzRTL](https://github.com/compsec-snu/difuzz-rtl) [![GitHub stars](https://img.shields.io/github/stars/compsec-snu/difuzz-rtl?style=flat)](https://github.com/compsec-snu/difuzz-rtl/stargazers) - A differential fuzz testing approach for CPU verification.
 - [MorFuzz](https://github.com/sycuricon/MorFuzz) [![GitHub stars](https://img.shields.io/github/stars/sycuricon/MorFuzz?style=flat)](https://github.com/sycuricon/MorFuzz/stargazers) - A generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
 - [SpecFuzz](https://github.com/tudinfse/SpecFuzz) [![GitHub stars](https://img.shields.io/github/stars/tudinfse/SpecFuzz?style=flat)](https://github.com/tudinfse/SpecFuzz/stargazers) - A tool to enable fuzzing for Spectre vulnerabilities.
 - [Transynther](https://github.com/vernamlab/Medusa) [![GitHub stars](https://img.shields.io/github/stars/vernamlab/Medusa?style=flat)](https://github.com/vernamlab/Medusa/stargazers) - Automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
-### Lib
 ### Web
 - [TEFuzz](https://github.com/seclab-fudan/TEFuzz/) [![GitHub stars](https://img.shields.io/github/stars/seclab-fudan/TEFuzz/?style=flat)](https://github.com/seclab-fudan/TEFuzz//stargazers) - A tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
 - [Witcher](https://github.com/sefcom/Witcher) [![GitHub stars](https://img.shields.io/github/stars/sefcom/Witcher?style=flat)](https://github.com/sefcom/Witcher/stargazers) - A web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
 - [CorbFuzz](https://github.com/shouc/corbfuzz) [![GitHub stars](https://img.shields.io/github/stars/shouc/corbfuzz?style=flat)](https://github.com/shouc/corbfuzz/stargazers) - A state-aware fuzzer for generating as many responses from a web application as possible without need of setting up a database.
-### DOM
-### Argument
 ### Blockchain
 - [Fluffy](https://github.com/snuspl/fluffy) [![GitHub stars](https://img.shields.io/github/stars/snuspl/fluffy?style=flat)](https://github.com/snuspl/fluffy/stargazers) - A multi-transaction differential fuzzer for finding consensus bugs in Ethereum.
 - [LOKI](https://github.com/ConsensusFuzz/LOKI) [![GitHub stars](https://img.shields.io/github/stars/ConsensusFuzz/LOKI?style=flat)](https://github.com/ConsensusFuzz/LOKI/stargazers) - A Blockchain consensus protocol fuzzing framework that detects consensus memory related and logic bugs.
@@ -636,8 +665,7 @@ A curated collection of open-source fuzzing tools, organized by target category 
 - [Squirrel](https://github.com/s3team/Squirrel) [![GitHub stars](https://img.shields.io/github/stars/s3team/Squirrel?style=flat)](https://github.com/s3team/Squirrel/stargazers) - A fuzzer for database management systems (DBMSs).
 
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 

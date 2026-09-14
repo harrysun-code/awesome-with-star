@@ -282,6 +282,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [np](https://github.com/sindresorhus/np) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/np?style=flat)](https://github.com/sindresorhus/np/stargazers) - A better `npm publish`.
 - [release](https://github.com/vercel/release) [![GitHub stars](https://img.shields.io/github/stars/vercel/release?style=flat)](https://github.com/vercel/release/stargazers) - Generate changelogs with a single command.
 - [semantic-release](https://github.com/semantic-release/semantic-release) [![GitHub stars](https://img.shields.io/github/stars/semantic-release/semantic-release?style=flat)](https://github.com/semantic-release/semantic-release/stargazers) - Fully automated version management and package publishing.
+- [vmn](https://github.com/progovoy/vmn) [![GitHub stars](https://img.shields.io/github/stars/progovoy/vmn?style=flat)](https://github.com/progovoy/vmn/stargazers) - Stamp semantic versions into git tags and restore any release across repos.
 
 ### Npm
 

@@ -18,9 +18,9 @@
     <a href="https://t.me/opensourcemacosapps"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-Channel-blue.svg" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Apps-703-blue" alt="Total Apps"/>
+    <img src="https://img.shields.io/badge/Total%20Apps-710-blue" alt="Total Apps"/>
     <img src="https://img.shields.io/badge/Categories-49-green" alt="Categories"/>
-    <img src="https://img.shields.io/badge/Last%20Updated-September%205,%202026-orange" alt="Last Updated"/>
+    <img src="https://img.shields.io/badge/Last%20Updated-September%209,%202026-orange" alt="Last Updated"/>
   </p>
 </div>
 
@@ -50,9 +50,9 @@ Hey friend! Help me out for a couple of :beers:!  <span class="badge-patreon"><a
 
 | Metric | Count |
 |--------|-------|
-| 📱 Total Applications | 703 |
+| 📱 Total Applications | 710 |
 | 📂 Categories | 49 |
-| 🔝 Top Languages | Swift: 313 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 43 |
+| 🔝 Top Languages | Swift: 320 • Objective-C: 137 • Javascript: 114 • C++: 59 • Typescript: 43 |
 
 ## Languages
 
@@ -1341,7 +1341,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 👨‍💻 Development (18)
+### 👨‍💻 Development (19)
 - [Apache Netbeans](https://github.com/apache/netbeans) [![GitHub stars](https://img.shields.io/github/stars/apache/netbeans?style=flat)](https://github.com/apache/netbeans/stargazers) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java 
@@ -1542,6 +1542,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Mocker](https://github.com/us/mocker) [![GitHub stars](https://img.shields.io/github/stars/us/mocker?style=flat)](https://github.com/us/mocker/stargazers) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/us/mocker](https://github.com/us/mocker) [![GitHub stars](https://img.shields.io/github/stars/us/mocker?style=flat)](https://github.com/us/mocker/stargazers)
 
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/Pasteboard-Viewer?style=flat)](https://github.com/sindresorhus/Pasteboard-Viewer/stargazers) - Inspect the system pasteboards.
 
@@ -2843,7 +2849,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-#### 📝 Markdown (12)
+#### 📝 Markdown (13)
 - [Gingko](https://github.com/gingko/client) [![GitHub stars](https://img.shields.io/github/stars/gingko/client?style=flat)](https://github.com/gingko/client/stargazers) - Tree-structured markdown editor for macOS, Windows, and Linux. 
 
   **Languages:** <img src='./icons/elm-64.png' alt='Elm icon' title='Elm' height='16'/> Elm 
@@ -2881,6 +2887,12 @@ You can see in which language an app is written. Currently there are following l
 - [Mark Text](https://github.com/marktext/marktext/) [![GitHub stars](https://img.shields.io/github/stars/marktext/marktext/?style=flat)](https://github.com/marktext/marktext//stargazers) - Realtime preview markdown editor for macOS Windows and Linux. 
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript 
+
+- [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) [![GitHub stars](https://img.shields.io/github/stars/ruspg/markdown-quicklook?style=flat)](https://github.com/ruspg/markdown-quicklook/stargazers) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/ruspg/markdown-quicklook](https://github.com/ruspg/markdown-quicklook) [![GitHub stars](https://img.shields.io/github/stars/ruspg/markdown-quicklook?style=flat)](https://github.com/ruspg/markdown-quicklook/stargazers)
 
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) [![GitHub stars](https://img.shields.io/github/stars/MarkEdit-app/MarkEdit?style=flat)](https://github.com/MarkEdit-app/MarkEdit/stargazers) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
 
@@ -4458,7 +4470,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 📊 Menubar (57)
+### 📊 Menubar (59)
 - [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) [![GitHub stars](https://img.shields.io/github/stars/yagcioglutoprak/AIQuotaBar?style=flat)](https://github.com/yagcioglutoprak/AIQuotaBar/stargazers) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python 
@@ -4558,6 +4570,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) [![GitHub stars](https://img.shields.io/github/stars/theDanButuc/Claude-Usage-Monitor?style=flat)](https://github.com/theDanButuc/Claude-Usage-Monitor/stargazers) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/theDanButuc/Claude-Usage-Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) [![GitHub stars](https://img.shields.io/github/stars/theDanButuc/Claude-Usage-Monitor?style=flat)](https://github.com/theDanButuc/Claude-Usage-Monitor/stargazers)
 
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) [![GitHub stars](https://img.shields.io/github/stars/yagcioglutoprak/ClaudeUsageBar?style=flat)](https://github.com/yagcioglutoprak/ClaudeUsageBar/stargazers) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
@@ -4828,6 +4846,12 @@ You can see in which language an app is written. Currently there are following l
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) [![GitHub stars](https://img.shields.io/github/stars/insidegui/NoiseBuddy?style=flat)](https://github.com/insidegui/NoiseBuddy/stargazers) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) [![GitHub stars](https://img.shields.io/github/stars/deepshal99/notch-so-good?style=flat)](https://github.com/deepshal99/notch-so-good/stargazers) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/deepshal99/notch-so-good](https://github.com/deepshal99/notch-so-good) [![GitHub stars](https://img.shields.io/github/stars/deepshal99/notch-so-good?style=flat)](https://github.com/deepshal99/notch-so-good/stargazers)
 
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) [![GitHub stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=flat)](https://github.com/jacklandrin/OnlySwitch/stargazers) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
@@ -5975,7 +5999,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### ⏱️ Productivity (80)
+### ⏱️ Productivity (81)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) [![GitHub stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=flat)](https://github.com/ActivityWatch/activitywatch/stargazers) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -6510,6 +6534,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/readest/readest/main/data/screenshots/wikipedia_vertical.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   *(2 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+- [Repose](https://github.com/fikrikarim/repose) [![GitHub stars](https://img.shields.io/github/stars/fikrikarim/repose?style=flat)](https://github.com/fikrikarim/repose/stargazers) - Break reminder for macOS that automatically pauses during meetings.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/fikrikarim/repose](https://github.com/fikrikarim/repose) [![GitHub stars](https://img.shields.io/github/stars/fikrikarim/repose?style=flat)](https://github.com/fikrikarim/repose/stargazers)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/fikrikarim/repose/main/assets/break-overlay.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/fikrikarim/repose/main/assets/menu.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7072,7 +7113,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🔒 Security (12)
+### 🔒 Security (13)
 - [Cloaker](https://github.com/spieglt/cloaker) [![GitHub stars](https://img.shields.io/github/stars/spieglt/cloaker?style=flat)](https://github.com/spieglt/cloaker/stargazers) - simple drag-and-drop, password-based file encryption.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
@@ -7199,6 +7240,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [UnTouchID](https://github.com/HMAKT99/UnTouchID) [![GitHub stars](https://img.shields.io/github/stars/HMAKT99/UnTouchID?style=flat)](https://github.com/HMAKT99/UnTouchID/stargazers) - Use your phone's fingerprint to authenticate on any Mac.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
+  **Website:** [https://github.com/HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) [![GitHub stars](https://img.shields.io/github/stars/HMAKT99/UnTouchID?style=flat)](https://github.com/HMAKT99/UnTouchID/stargazers)
 
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) [![GitHub stars](https://img.shields.io/github/stars/veracrypt/VeraCrypt?style=flat)](https://github.com/veracrypt/VeraCrypt/stargazers) - Disk encryption with strong security based on TrueCrypt. 
 
@@ -7884,7 +7931,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-### 🛠️ Utilities (120)
+### 🛠️ Utilities (126)
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) [![GitHub stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=flat)](https://github.com/ActivityWatch/activitywatch/stargazers) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript 
@@ -8084,6 +8131,12 @@ You can see in which language an app is written. Currently there are following l
 - [Catch](https://github.com/mipstian/catch/) [![GitHub stars](https://img.shields.io/github/stars/mipstian/catch/?style=flat)](https://github.com/mipstian/catch//stargazers) - Catch: Broadcatching made easy. 
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Claude Usage Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) [![GitHub stars](https://img.shields.io/github/stars/theDanButuc/Claude-Usage-Monitor?style=flat)](https://github.com/theDanButuc/Claude-Usage-Monitor/stargazers) - Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/theDanButuc/Claude-Usage-Monitor](https://github.com/theDanButuc/Claude-Usage-Monitor) [![GitHub stars](https://img.shields.io/github/stars/theDanButuc/Claude-Usage-Monitor?style=flat)](https://github.com/theDanButuc/Claude-Usage-Monitor/stargazers)
 
 - [ClaudeUsageBar](https://github.com/yagcioglutoprak/ClaudeUsageBar) [![GitHub stars](https://img.shields.io/github/stars/yagcioglutoprak/ClaudeUsageBar?style=flat)](https://github.com/yagcioglutoprak/ClaudeUsageBar/stargazers) - See your Claude.ai and ChatGPT usage limits live in your macOS menu bar.
 
@@ -8532,6 +8585,12 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
+- [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) [![GitHub stars](https://img.shields.io/github/stars/ruspg/markdown-quicklook?style=flat)](https://github.com/ruspg/markdown-quicklook/stargazers) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/ruspg/markdown-quicklook](https://github.com/ruspg/markdown-quicklook) [![GitHub stars](https://img.shields.io/github/stars/ruspg/markdown-quicklook?style=flat)](https://github.com/ruspg/markdown-quicklook/stargazers)
+
 - [MeetingBar](https://github.com/leits/MeetingBar) [![GitHub stars](https://img.shields.io/github/stars/leits/MeetingBar?style=flat)](https://github.com/leits/MeetingBar/stargazers) - Menu bar app for your calendar meetings
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
@@ -8574,6 +8633,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Mocker](https://github.com/us/mocker) [![GitHub stars](https://img.shields.io/github/stars/us/mocker?style=flat)](https://github.com/us/mocker/stargazers) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/us/mocker](https://github.com/us/mocker) [![GitHub stars](https://img.shields.io/github/stars/us/mocker?style=flat)](https://github.com/us/mocker/stargazers)
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) [![GitHub stars](https://img.shields.io/github/stars/MonitorControl/MonitorControl?style=flat)](https://github.com/MonitorControl/MonitorControl/stargazers) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
@@ -8648,6 +8713,12 @@ You can see in which language an app is written. Currently there are following l
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) [![GitHub stars](https://img.shields.io/github/stars/insidegui/NoiseBuddy?style=flat)](https://github.com/insidegui/NoiseBuddy/stargazers) - Control the listening mode on your AirPods Pro in the Touch Bar or Menu Bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+- [Notch So Good](https://github.com/deepshal99/notch-so-good) [![GitHub stars](https://img.shields.io/github/stars/deepshal99/notch-so-good?style=flat)](https://github.com/deepshal99/notch-so-good/stargazers) - A pixel-art crab lives in your MacBook notch and monitors Claude Code sessions with 13 animations, smart notifications, and multi-session support.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/deepshal99/notch-so-good](https://github.com/deepshal99/notch-so-good) [![GitHub stars](https://img.shields.io/github/stars/deepshal99/notch-so-good?style=flat)](https://github.com/deepshal99/notch-so-good/stargazers)
 
 - [Noti](https://github.com/jariz/Noti/) [![GitHub stars](https://img.shields.io/github/stars/jariz/Noti/?style=flat)](https://github.com/jariz/Noti//stargazers) - Receive Android notifications on your mac (with PushBullet). 
 
@@ -8794,6 +8865,23 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust 
 
   **Website:** [https://r2drop.com](https://r2drop.com)
+
+- [Repose](https://github.com/fikrikarim/repose) [![GitHub stars](https://img.shields.io/github/stars/fikrikarim/repose?style=flat)](https://github.com/fikrikarim/repose/stargazers) - Break reminder for macOS that automatically pauses during meetings.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://github.com/fikrikarim/repose](https://github.com/fikrikarim/repose) [![GitHub stars](https://img.shields.io/github/stars/fikrikarim/repose?style=flat)](https://github.com/fikrikarim/repose/stargazers)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/fikrikarim/repose/main/assets/break-overlay.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/fikrikarim/repose/main/assets/menu.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 - [Rugby](https://github.com/swiftyfinch/Rugby) [![GitHub stars](https://img.shields.io/github/stars/swiftyfinch/Rugby?style=flat)](https://github.com/swiftyfinch/Rugby/stargazers) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project.
 
@@ -9112,6 +9200,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [UnTouchID](https://github.com/HMAKT99/UnTouchID) [![GitHub stars](https://img.shields.io/github/stars/HMAKT99/UnTouchID?style=flat)](https://github.com/HMAKT99/UnTouchID/stargazers) - Use your phone's fingerprint to authenticate on any Mac.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C 
+
+  **Website:** [https://github.com/HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) [![GitHub stars](https://img.shields.io/github/stars/HMAKT99/UnTouchID?style=flat)](https://github.com/HMAKT99/UnTouchID/stargazers)
 
 - [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) [![GitHub stars](https://img.shields.io/github/stars/GeiserX/VPN-Bypass?style=flat)](https://github.com/GeiserX/VPN-Bypass/stargazers) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
 
@@ -9517,7 +9611,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby 
 
-### 🪟 Window Management (16)
+### 🪟 Window Management (17)
 - [AltTab](https://github.com/lwouis/alt-tab-macos) [![GitHub stars](https://img.shields.io/github/stars/lwouis/alt-tab-macos?style=flat)](https://github.com/lwouis/alt-tab-macos/stargazers) - AltTab brings the power of Windows alt-tab to macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell 
@@ -9647,6 +9741,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+- [Nudge](https://github.com/mikusnuz/nudge) [![GitHub stars](https://img.shields.io/github/stars/mikusnuz/nudge?style=flat)](https://github.com/mikusnuz/nudge/stargazers) - Free, open-source window manager with keyboard shortcuts and drag-to-edge snapping.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
+
+  **Website:** [https://nudge.run](https://nudge.run)
 
 - [Phoenix](https://github.com/kasper/phoenix) [![GitHub stars](https://img.shields.io/github/stars/kasper/phoenix?style=flat)](https://github.com/kasper/phoenix/stargazers) - Lightweight macOS window and app manager scriptable with JavaScript. 
 

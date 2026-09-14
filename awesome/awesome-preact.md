@@ -191,6 +191,7 @@
 - [Trellith](https://trellith.sakih.net/) - Tiny Trello Clone PWA ([GitHub Project](https://github.com/sakihet/trellith) [![GitHub stars](https://img.shields.io/github/stars/sakihet/trellith?style=flat)](https://github.com/sakihet/trellith/stargazers)).
 - [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant _([GitHub Project](https://github.com/GladysAssistant/Gladys) [![GitHub stars](https://img.shields.io/github/stars/GladysAssistant/Gladys?style=flat)](https://github.com/GladysAssistant/Gladys/stargazers))_.
 - [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
+- [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project](https://github.com/authier-pm/authier) [![GitHub stars](https://img.shields.io/github/stars/authier-pm/authier?style=flat)](https://github.com/authier-pm/authier/stargazers))*.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) [![GitHub stars](https://img.shields.io/github/stars/facebook/react?style=flat)](https://github.com/facebook/react/stargazers) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

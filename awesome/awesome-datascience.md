@@ -27,8 +27,10 @@ $ brew install academic
 
 ## Sponsors
 
+[![Creavit Studio: recording, editing, and motion in one app](https://raw.githubusercontent.com/creavit-studio/files/refs/heads/main/static/crvt-banner.png)](https://creavit.studio/?utm_source=github&utm_medium=sponsorship&utm_campaign=creavit_founding_alpha&utm_content=crvt_banner)
 
 [![Graphyn: visualize specialized agent workflows](https://raw.githubusercontent.com/fuego-wtf/graphyn-code/main/assets/graphyn-agent-workflows.png)](https://graphyn.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=graphyn_founding_alpha&utm_content=awesome_datascience_banner)
+
 
 
 Become a sponsor! `github@academic.io`
@@ -263,7 +265,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
-
+- [Great Learning Data Science Programs](https://www.mygreatlearning.com/data-science/courses) - A collection of online data science and analytics certificate, postgraduate, and degree programs.
 - [S2DS](https://www.s2ds.org/)
 - [WorldQuant University Applied Data Science Lab](https://www.wqu.edu/adsl)
 
@@ -450,6 +452,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 #### PyTorch Ecosystem
 * [PyTorch](https://github.com/pytorch/pytorch) [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch?style=flat)](https://github.com/pytorch/pytorch/stargazers)
+* [TorchDR](https://github.com/TorchDR/TorchDR) [![GitHub stars](https://img.shields.io/github/stars/TorchDR/TorchDR?style=flat)](https://github.com/TorchDR/TorchDR/stargazers) - GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API.
 * [torchvision](https://github.com/pytorch/vision) [![GitHub stars](https://img.shields.io/github/stars/pytorch/vision?style=flat)](https://github.com/pytorch/vision/stargazers)
 * [torchtext](https://github.com/pytorch/text) [![GitHub stars](https://img.shields.io/github/stars/pytorch/text?style=flat)](https://github.com/pytorch/text/stargazers)
 * [torchaudio](https://github.com/pytorch/audio) [![GitHub stars](https://img.shields.io/github/stars/pytorch/audio?style=flat)](https://github.com/pytorch/audio/stargazers)

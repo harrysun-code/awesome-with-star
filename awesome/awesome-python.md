@@ -173,6 +173,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
 - Image and Video Generation
   - [diffusers](https://github.com/huggingface/diffusers) [![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=flat)](https://github.com/huggingface/diffusers/stargazers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
 - Fine-tuning
+  - [peft](https://github.com/huggingface/peft) [![GitHub stars](https://img.shields.io/github/stars/huggingface/peft?style=flat)](https://github.com/huggingface/peft/stargazers) - A library for parameter-efficient fine-tuning of large pretrained models.
   - [unsloth](https://github.com/unslothai/unsloth) [![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat)](https://github.com/unslothai/unsloth/stargazers) - A library for faster LLM fine-tuning and training with reduced memory usage.
   - [axolotl](https://github.com/axolotl-ai-cloud/axolotl) [![GitHub stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=flat)](https://github.com/axolotl-ai-cloud/axolotl/stargazers) - A framework for fine-tuning and post-training large language models.
 - Speech

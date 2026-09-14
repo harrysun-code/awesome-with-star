@@ -241,6 +241,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [EME](https://github.com/egoist/eme) [![GitHub stars](https://img.shields.io/github/stars/egoist/eme?style=flat)](https://github.com/egoist/eme/stargazers) - Open-source Markdown editor with an interface like Chrome. ![Open-Source Software][OSS Icon]
 * [iA Writer](https://ia.net/writer/) - Writing app with an emphasis on simplicity and design.
 * [Imark](https://github.com/migsilva89/imark) [![GitHub stars](https://img.shields.io/github/stars/migsilva89/imark?style=flat)](https://github.com/migsilva89/imark/stargazers) - Open-source Markdown reader that stores your comments inside the document itself as HTML comments. [![Open-Source Software][OSS Icon]](https://github.com/migsilva89/imark) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [JustMD](https://justmd.nuta.life/) - Open-source Markdown editor for local files that hides syntax outside the line being edited. [![Open-Source Software][OSS Icon]](https://github.com/yuraist/just-md) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6779422717)
 * [MacDown](https://macdown.uranusjr.com/) - Open source Markdown editor for macOS with live preview and HTML/PDF export. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 * [Marked 2](https://marked2app.com/) - This is the Markdown preview with an elegant and powerful set of tools for all writers.
 * [MarkText](https://github.com/marktext/marktext) [![GitHub stars](https://img.shields.io/github/stars/marktext/marktext?style=flat)](https://github.com/marktext/marktext/stargazers) - Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
@@ -861,6 +862,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Witsy](https://github.com/nbonamy/witsy) [![GitHub stars](https://img.shields.io/github/stars/nbonamy/witsy?style=flat)](https://github.com/nbonamy/witsy/stargazers) - desktop AI assistant / universal MCP client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nbonamy/witsy)
 * [remio](https://www.remio.ai/?utm_source=github_list) - Local-first AI chat client that answers from your knowledge base.  [![Freeware][Freeware Icon]](https://www.remio.ai/?utm_source=github_list)
 * [Warden](https://karatsidhu.gumroad.com/l/warden) - A Native Swift macOS app that lets you run multiple LLM models using your own API keys. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/SidhuK/WardenApp)
+* [Wayfinder](https://wayfinder-ai.pages.dev/) - Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes. [![Open-Source Software][OSS Icon]](https://github.com/StayCurious-Xuan/wayfinder) ![Freeware][Freeware Icon]
 
 
 ## Communication
@@ -993,7 +995,6 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) [![GitHub stars](https://img.shields.io/github/stars/YashvardhanATRgithub/Sangeet?style=flat)](https://github.com/YashvardhanATRgithub/Sangeet/stargazers) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 * [ScreenFlow](https://www.telestream.net/screenflow/) - Screencasting and video editing software.
 * [Shotcut](https://www.shotcut.org) - Free open-source video editor. [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) ![Freeware][Freeware Icon]
-* [Sonora](https://github.com/sonoramac/Sonora) [![GitHub stars](https://img.shields.io/github/stars/sonoramac/Sonora?style=flat)](https://github.com/sonoramac/Sonora/stargazers) -  Minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sonoramac/Sonora)
 * [Spotifly](https://github.com/ralph/Spotifly) [![GitHub stars](https://img.shields.io/github/stars/ralph/Spotifly?style=flat)](https://github.com/ralph/Spotifly/stargazers) - Lightweight Spotify player focused on fast playback control. [![Open-Source Software][OSS Icon]](https://github.com/ralph/Spotifly) ![Freeware][Freeware Icon]
 * [SpotMenu](https://github.com/kmikiy/SpotMenu) [![GitHub stars](https://img.shields.io/github/stars/kmikiy/SpotMenu?style=flat)](https://github.com/kmikiy/SpotMenu/stargazers) - Spotify and iTunes in your menu bar. [![Open-Source Software][OSS Icon]](https://github.com/kmikiy/SpotMenu) ![Freeware][Freeware Icon]
 * [Stremio](https://www.stremio.com/) - Media center for movies, TV, live channels, and streaming sources. ![Freeware][Freeware Icon]
@@ -1012,7 +1013,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [YouTube Music](https://th-ch.github.io/youtube-music/) - Desktop player for YouTube Music with plugin support. [![Open-Source Software][OSS Icon]](https://github.com/th-ch/youtube-music/) ![Freeware][Freeware Icon]
 * [YouTube Music Desktop](https://ytmdesktop.app/) -  Free cross platform Desktop Player for YouTube Music. [![Open-Source Software][OSS Icon]](https://github.com/ytmdesktop/ytmdesktop) ![Freeware][Freeware Icon]
 * [YPlayer](https://www.engineerdraft.com/en/yplayer/) - A multifunctional app for live captions, audio/video transcription, and subtitle translation.
-* [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - A lightweight local music player that supports multiple formats for enjoying music anytime.
+* [Musicer](https://apps.apple.com/app/musicer/6745227444?platform=mac) - A retro local music player that supports multiple formats and AI control.
 * [Fmusic](https://github.com/wandercn/fmusic) [![GitHub stars](https://img.shields.io/github/stars/wandercn/fmusic?style=flat)](https://github.com/wandercn/fmusic/stargazers) - A fmusic is a open source music player on SwiftUI.[![Open-Source Software][OSS Icon]](https://github.com/wandercn/fmusic)
 
 ### Audio Record and Process
@@ -1137,10 +1138,12 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ## Finance
 
+* [Posnic](https://www.posnic.com/) - Offline-first open-source POS and billing software for retail shops and restaurants. [![Open-Source Software][OSS Icon]](https://github.com/Posnic/POS)
 * [Pulse](https://www.pulseticker.app/) - Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&L. [![Open-Source Software][OSS Icon]](https://github.com/fatwang2/Pulse) ![Freeware][Freeware Icon]
 * [SubManager](https://submanager.app) - Subscription tracker with renewal reminders. [![App Store][app-store Icon]](https://apps.apple.com/app/submanager-subscription-list/id1632853914?platform=mac)
 * [SubList](https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac) - Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.
 * [StockDock](https://github.com/simonsruggi/StockDock) [![GitHub stars](https://img.shields.io/github/stars/simonsruggi/StockDock?style=flat)](https://github.com/simonsruggi/StockDock/stargazers) - Menu bar app for real-time stocks, ETFs, crypto and portfolio P&L. Privacy-first, no account, multi-currency. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/StockDock) ![Freeware][Freeware Icon]
+* [MRRDock](https://mrrdock.simoneruggiero.com) - Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account. [![Open-Source Software][OSS Icon]](https://github.com/simonsruggi/MRRDock) ![Freeware][Freeware Icon]
 
 ## Encryption
 
@@ -1247,6 +1250,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Anvil](https://anvilformac.com/) - Tool for serving local static sites and Rack apps with simple URLs. ![Freeware][Freeware Icon]
 * [Atoll](https://github.com/Ebullioscopic/Atoll) [![GitHub stars](https://img.shields.io/github/stars/Ebullioscopic/Atoll?style=flat)](https://github.com/Ebullioscopic/Atoll/stargazers) - Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities. [![Open-Source Software][OSS Icon]](https://github.com/Ebullioscopic/Atoll)
 * [Bartender](https://www.macbartender.com) - Organize or hide menu bar icons on your Mac.
+* [Candela](https://candela.fyi) - Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls. [![Open-Source Software][OSS Icon]](https://github.com/Rydersel/Candela) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [cctop](https://cctop.app) - Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window. [![Open-Source Software][OSS Icon]](https://github.com/st0012/cctop) ![Freeware][Freeware Icon]
 * [ChargeMonitor](https://github.com/CrashSystemZ/ChargeMonitor) [![GitHub stars](https://img.shields.io/github/stars/CrashSystemZ/ChargeMonitor?style=flat)](https://github.com/CrashSystemZ/ChargeMonitor/stargazers) - Menu bar battery monitor with real-time charging stats and energy impact insights. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/CrashSystemZ/ChargeMonitor)
 * [CodexIsland](https://github.com/ericjypark/codex-island) [![GitHub stars](https://img.shields.io/github/stars/ericjypark/codex-island?style=flat)](https://github.com/ericjypark/codex-island/stargazers) - Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry. [![Open-Source Software][OSS Icon]](https://github.com/ericjypark/codex-island) ![Freeware][Freeware Icon]
@@ -1270,6 +1274,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Itsycal](https://www.mowglii.com/itsycal/) - Tiny calendar for your Mac's menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/sfsam/itsycal)
 * [Itsyhome](https://itsyhome.app) - Control your HomeKit and Home Assistant smart home from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsyhome-macos) [![App Store][app-store Icon]](https://apps.apple.com/app/itsyhome/id6758070650?platform=mac)
 * [Itsytv](https://itsytv.app/) - Control your Apple TV from the menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nickustinov/itsytv-macos)
+* [Keelhaven](https://keelhaven.app) - Menu bar app that runs scheduled, encrypted restic backups to a local disk, S3, SFTP, or a REST server. [![Open-Source Software][OSS Icon]](https://github.com/shenxianpeng/keelhaven) ![Freeware][Freeware Icon]
 * [KeyStats](https://keystats.vercel.app) - Menu bar tracker for daily keystrokes, clicks, movement, and scrolling. [![Open-Source Software][OSS Icon]](https://github.com/debugtheworldbot/keyStats) ![Freeware][Freeware Icon]
 * [Later](https://getlater.app/) - Save all your Mac apps for later with one click. [![Open-Source Software][OSS Icon]](https://github.com/alyssaxuu/later/) ![Freeware][Freeware Icon]
 * [LuxShot](https://github.com/lukebuild/LuxShot) [![GitHub stars](https://img.shields.io/github/stars/lukebuild/LuxShot?style=flat)](https://github.com/lukebuild/LuxShot/stargazers) - Native and privacy-first menu bar OCR tool. [![Open-Source Software][OSS Icon]](https://github.com/lukebuild/LuxShot) ![Freeware][Freeware Icon]
@@ -1292,6 +1297,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [One Switch](https://fireball.studio/oneswitch) - Mac menu bar app that adds various switches to the Mac's menu bar.
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) [![GitHub stars](https://img.shields.io/github/stars/jacklandrin/OnlySwitch?style=flat)](https://github.com/jacklandrin/OnlySwitch/stargazers) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts[![Open-Source Software][OSS Icon]](https://github.com/jacklandrin/OnlySwitch) ![Freeware][Freeware Icon]
 * [Pandan](https://sindresorhus.com/pandan) - Time awareness in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264?platform=mac)
+* [Pelmet](https://pelmet.fif7y.com) - Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do. [![Open-Source Software][OSS Icon]](https://github.com/fif7y/pelmet) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [Peninsula](https://github.com/Celve/Peninsula) [![GitHub stars](https://img.shields.io/github/stars/Celve/Peninsula?style=flat)](https://github.com/Celve/Peninsula/stargazers) - Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. [![Open-Source Software][OSS Icon]](https://github.com/Celve/Peninsula) ![Freeware][Freeware Icon]
 * [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 * [Profisor](https://github.com/yefga/Profisor) [![GitHub stars](https://img.shields.io/github/stars/yefga/Profisor?style=flat)](https://github.com/yefga/Profisor/stargazers) - Switch Xcode provisioning profiles for the current project from the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/yefga/Profisor) ![Freeware][Freeware Icon]
@@ -1420,6 +1426,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Better Launchpad](https://github.com/rewhex/better-launchpad) [![GitHub stars](https://img.shields.io/github/stars/rewhex/better-launchpad?style=flat)](https://github.com/rewhex/better-launchpad/stargazers) - Customizable app launcher with fast search.
 * [BetterMouse](https://better-mouse.com) - Customize scrolling, acceleration, buttons, and gestures for third-party mice.
 * [BetterTouchTool](https://folivora.ai/) - Customize gestures, shortcuts, and input actions across trackpads, mice, and keyboards.
+* [CalmMouse](https://calmmouse.malikzhang.com/) - Stop the Magic Mouse scrolling the page every time you click. [![Open-Source Software][OSS Icon]](https://github.com/Malik1942/CalmMouse) ![Freeware][Freeware Icon]
 * [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![Open-Source Software][OSS Icon]](https://github.com/cerebroapp/cerebro) ![Freeware][Freeware Icon]
 * [Choosy](https://www.choosyosx.com) - UI, URL API and a browser extension set for managing rules where and how to open links.
 * [CurrentKey](https://currentkey.com) - Add custom names and icons to Spaces and track app usage time. [![App Store][app-store Icon]](https://apps.apple.com/us/app/currentkey/id1456226992?mt=12)
@@ -1542,6 +1549,8 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Keeweb](https://keeweb.info/) - Free, cross-platform password manager compatible with KeePass. [![Open-Source Software][OSS Icon]](https://github.com/keeweb/keeweb) ![Freeware][Freeware Icon]
 * [KeepassXC](https://keepassxc.org/) - Free, open source, cross-platform password manager. [![Open-Source Software][OSS Icon]](https://github.com/keepassxreboot/keepassxc) ![Freeware][Freeware Icon]
 * [MacPass](https://macpass.github.io/) - Open-source KeePass Mac OS client. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mstarke/MacPass)
+* [Mactokio](https://github.com/dalirnet/mactokio) [![GitHub stars](https://img.shields.io/github/stars/dalirnet/mactokio?style=flat)](https://github.com/dalirnet/mactokio/stargazers) - Native TOTP/HOTP authenticator that imports accounts by webcam QR scan and keeps secrets AES-256 encrypted on device. [![Open-Source Software][OSS Icon]](https://github.com/dalirnet/mactokio) ![Freeware][Freeware Icon] ![Native App][Native Icon]
+* [NotchOTP](https://github.com/Photon94/NotchOTP) [![GitHub stars](https://img.shields.io/github/stars/Photon94/NotchOTP?style=flat)](https://github.com/Photon94/NotchOTP/stargazers) - Native TOTP authenticator with a notch-sized panel, keyboard shortcuts, and local Keychain storage. ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [SafeInCloud](https://safe-in-cloud.com/en/) - Cross Platform password management, low cost app! [![App Store][app-store Icon]](https://apps.apple.com/app/safeincloud-password-manager/id883070818?platform=mac)
 * [Strongbox](https://strongboxsafe.com/) - KeePass-compatible password manager with Password Safe support. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store Icon]](https://apps.apple.com/us/app/strongbox/id1270075435?platform=mac)
 * [Swifty](https://getswifty.pro/) - Free Offline-first Password Manager for MacOS, Windows and Linux. [![Open-Source Software][OSS Icon]](https://github.com/swiftyapp/swifty) ![Freeware][Freeware Icon]
@@ -1630,6 +1639,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 ## Gaming Software
 
 * [ChessCafe](https://getapps.cafe/app/chesscafe) - Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer. ![Freeware][Freeware Icon]
+* [Highball](https://gethighball.com) - Run Windows games on Apple Silicon through Wine, with the graphics layer (DXMT, DXVK or D3DMetal) chosen per game from an open compatibility database. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gauthierpiarrette/highball)
 * [OpenEmu](https://openemu.org/) - Retro game emulator frontend for multiple console systems. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/OpenEmu/OpenEmu)
 * [PlayCover](https://github.com/PlayCover/PlayCover) [![GitHub stars](https://img.shields.io/github/stars/PlayCover/PlayCover?style=flat)](https://github.com/PlayCover/PlayCover/stargazers) - Run iOS apps and games on Apple Silicon Macs with mouse, keyboard and controller support. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PlayCover/PlayCover)
 * [Porting Kit](https://portingkit.com/) - Install Windows® Games inside your Mac. ![Freeware][Freeware Icon]

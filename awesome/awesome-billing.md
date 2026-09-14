@@ -277,6 +277,8 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 - [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - A bit of vocabulary: “In a casino, the term *rake* refers to the commission that the house earns for operating a poker game. (…) While casinos use the term *rake*, a plethora of interesting word choices exist which all describe the same thing – keeping a little bit of the revenue for the company that is running the service.”
 
+- “If we only paid in $0.07 intervals, their commission algorithm would round down to the nearest whole cent (…) on the unit transaction level, not the monthly invoice level.” ([source](https://news.ycombinator.com/item?id=49457878)) - Mechanical Turk's rake was [“20% (…) on the reward and bonus amount”](https://web.archive.org/web/20260828220059/https://requester.mturk.com/pricing), with a minimum fee of $0.01 per bonus payment, so a 7-cent bonus is billed one cent instead of 1.4: an effective 14.3% instead of 20%. The requester's [`round_payment()`](https://git.generalresearch.com/panels/amt-jb/tree/jb/flow/assignment_tasks.py#n528) snaps every payout onto the 5-cent grid where that truncation always applies, and holds anything below 7 cents in the worker's wallet: “~$50 a day” saved. Rounding per transaction rather than per invoice hands the remainder to whoever picks the transaction amounts.
+
 ### Cloud Resources
 
 This sub-section focus on bid/ask mechanism matching resource producer with consumers. Most of the time these are one-sided markets with the big platform trying to amortized under-utilized inventory.
@@ -349,7 +351,7 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 - [Luca](https://github.com/brandon-rhodes/luca) [![GitHub stars](https://img.shields.io/github/stars/brandon-rhodes/luca?style=flat)](https://github.com/brandon-rhodes/luca/stargazers) - 🆓 YAML accounting and JSON tax forms, solo-maintained.
 
-- [Go DB Ledger](https://github.com/darcys22/godbledger) [![GitHub stars](https://img.shields.io/github/stars/darcys22/godbledger?style=flat)](https://github.com/darcys22/godbledger/stargazers) - 🆓 Open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+- [Blnk](https://github.com/blnkfinance/blnk) [![GitHub stars](https://img.shields.io/github/stars/blnkfinance/blnk?style=flat)](https://github.com/blnkfinance/blnk/stargazers) - 💸 Apache-2.0 double-entry ledger exposed as a REST API, with Go, TypeScript, Python and Java SDKs. Inflight transactions hold a pending leg until it is committed or voided, and the reconciliation engine matches external statements against custom rules. Blnk Finance sells a managed cloud adding back-office reports, audit logs and team permissions on top, but the core ledger, reconciliation and identity features are fully functional in OSS.
 
 - [Formance Ledger](https://github.com/formancehq/ledger) [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=flat)](https://github.com/formancehq/ledger/stargazers) - 💸 MIT-licensed programmable double-entry ledger with the Numscript DSL, multi-currency, REST API, and Docker deployment usable standalone. Formance sells Enterprise add-ons (Wallets, Flows, Reconciliation, pre-built connectors, SSO, RBAC, audit logs) on top, but the core ledger is fully functional in OSS.
 
@@ -776,6 +778,8 @@ A bunch of resources to keep track of the current status and progress of all com
 Billing is not funny.
 
 - [Detax](https://detax.framer.website) - A site mockup of an tax avoidance product for small businesses.
+
+- [Superman III](https://en.wikipedia.org/wiki/Superman_III) - The 1983 film in which Gus Gorman, a laid-off clerk who retrains as a programmer, embezzles from his employer's payroll by skimming the fractions of a cent it rounds down.
 
 ## Contributing
 

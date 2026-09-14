@@ -35,6 +35,7 @@
 - [ambethia/recaptcha](https://github.com/ambethia/recaptcha) [![GitHub stars](https://img.shields.io/github/stars/ambethia/recaptcha?style=flat)](https://github.com/ambethia/recaptcha/stargazers) - ReCaptcha helpers for ruby apps.
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) [![GitHub stars](https://img.shields.io/github/stars/anhskohbo/no-captcha?style=flat)](https://github.com/anhskohbo/no-captcha/stargazers) - No CAPTCHA reCAPTCHA For Laravel.
 - [lorien/captcha_solver](https://github.com/lorien/captcha_solver) [![GitHub stars](https://img.shields.io/github/stars/lorien/captcha_solver?style=flat)](https://github.com/lorien/captcha_solver/stargazers) - Universal python API to different captcha solving services.
+- [WebDecoy/FCaptcha](https://github.com/WebDecoy/FCaptcha) [![GitHub stars](https://img.shields.io/github/stars/WebDecoy/FCaptcha?style=flat)](https://github.com/WebDecoy/FCaptcha/stargazers) - Self-hosted, invisible CAPTCHA that detects bots and AI agents via behavioral analysis, TLS fingerprinting, and SHA-256 proof of work. Checkbox or invisible mode; Go, Python, and Node.js servers.
 
 
 ## Generation
@@ -52,6 +53,7 @@
 - [Securimage](https://www.phpcaptcha.org) - Open-source free PHP Captcha script.
 - [Lokno/click-captcha](https://github.com/Lokno/click-captcha) [![GitHub stars](https://img.shields.io/github/stars/Lokno/click-captcha?style=flat)](https://github.com/Lokno/click-captcha/stargazers) - A visual, click-based CAPTCHA for human authentication.
 - [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) [![GitHub stars](https://img.shields.io/github/stars/ArgoZhang/SliderCaptcha?style=flat)](https://github.com/ArgoZhang/SliderCaptcha/stargazers) - Slider captcha supporting mobile.
+- [PrivateCaptcha](https://github.com/PrivateCaptcha/PrivateCaptcha) [![GitHub stars](https://img.shields.io/github/stars/PrivateCaptcha/PrivateCaptcha?style=flat)](https://github.com/PrivateCaptcha/PrivateCaptcha/stargazers) - Proof-of-Work captcha, written in Go.
 
 
 ## Crack

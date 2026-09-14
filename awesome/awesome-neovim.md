@@ -93,7 +93,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Plugin Manager
 
-- [alyxshang/nuwa.nvim](https://source.alyxshang.boo/alyxshang/nuwa.nvim) - A light package manager.
+- [alyxshang/nuwa.nvim](https://github.com/alyxshang/nuwa.nvim) [![GitHub stars](https://img.shields.io/github/stars/alyxshang/nuwa.nvim?style=flat)](https://github.com/alyxshang/nuwa.nvim/stargazers) - A light package manager.
 - [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) [![GitHub stars](https://img.shields.io/github/stars/lewis6991/pckr.nvim?style=flat)](https://github.com/lewis6991/pckr.nvim/stargazers) - Spiritual successor of `wbthomason/packer.nvim`.
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) [![GitHub stars](https://img.shields.io/github/stars/savq/paq-nvim?style=flat)](https://github.com/savq/paq-nvim/stargazers) - Package manager written in Lua.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) [![GitHub stars](https://img.shields.io/github/stars/folke/lazy.nvim?style=flat)](https://github.com/folke/lazy.nvim/stargazers) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
@@ -241,6 +241,10 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## AI
 
+<!--lint disable double-link-->
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) [![GitHub stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=flat)](https://github.com/coder/claudecode.nvim/stargazers) - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+  - [hebercosfer/floating-claude.nvim](https://github.com/hebercosfer/floating-claude.nvim) [![GitHub stars](https://img.shields.io/github/stars/hebercosfer/floating-claude.nvim?style=flat)](https://github.com/hebercosfer/floating-claude.nvim/stargazers) - Floating terminal provider for [claudecode.nvim](https://github.com/coder/claudecode.nvim) [![GitHub stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=flat)](https://github.com/coder/claudecode.nvim/stargazers) that collapses into a corner notification while Claude edits and returns once idle.
+<!--lint enable double-link-->
 - [raymondware/herdr.nvim](https://github.com/raymondware/herdr.nvim) [![GitHub stars](https://img.shields.io/github/stars/raymondware/herdr.nvim?style=flat)](https://github.com/raymondware/herdr.nvim/stargazers) - Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling.
 - [saya-ashen/agent-workbench.nvim](https://github.com/saya-ashen/agent-workbench.nvim) [![GitHub stars](https://img.shields.io/github/stars/saya-ashen/agent-workbench.nvim?style=flat)](https://github.com/saya-ashen/agent-workbench.nvim/stargazers) - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
 - [nwiizo/signalbox.nvim](https://github.com/nwiizo/signalbox.nvim) [![GitHub stars](https://img.shields.io/github/stars/nwiizo/signalbox.nvim?style=flat)](https://github.com/nwiizo/signalbox.nvim/stargazers) - Attention-first control surface for monitoring and routing persistent Herdr coding agents.
@@ -689,6 +693,7 @@ then it is not supported:
 - **_`[Fnl]`_** - Is written in Fennel.
 <!--lint enable awesome-list-item-->
 
+- [rezniqov/soviet.nvim](https://github.com/rezniqov/soviet.nvim) [![GitHub stars](https://img.shields.io/github/stars/rezniqov/soviet.nvim?style=flat)](https://github.com/rezniqov/soviet.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture.
 - [ThorstenRhau/token](https://github.com/ThorstenRhau/token) [![GitHub stars](https://img.shields.io/github/stars/ThorstenRhau/token?style=flat)](https://github.com/ThorstenRhau/token/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 - [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) [![GitHub stars](https://img.shields.io/github/stars/oskarnurm/koda.nvim?style=flat)](https://github.com/oskarnurm/koda.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
 - [yonatan-perel/lake-dweller.nvim](https://github.com/yonatan-perel/lake-dweller.nvim) [![GitHub stars](https://img.shields.io/github/stars/yonatan-perel/lake-dweller.nvim?style=flat)](https://github.com/yonatan-perel/lake-dweller.nvim/stargazers) - **_`[TS][LSP][Lua]`_** Dark and opinionated with selective highlighting aiming to be readable at a glance.
@@ -894,6 +899,7 @@ then it is not supported:
 - [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) [![GitHub stars](https://img.shields.io/github/stars/OXY2DEV/bars.nvim?style=flat)](https://github.com/OXY2DEV/bars.nvim/stargazers) - A starting point/guide for creating custom statusline, statuscolumn, tabline and winbar.
 - [zaakiy/line-justice.nvim](https://github.com/zaakiy/line-justice.nvim) [![GitHub stars](https://img.shields.io/github/stars/zaakiy/line-justice.nvim?style=flat)](https://github.com/zaakiy/line-justice.nvim/stargazers) - Shows both absolute and relative line numbers simultaneously.
 - [nvim-mini/mini.nvim#mini.statuscolumn](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md/stargazers) - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
+- [olivgr/winbarbuf.nvim](https://github.com/olivgr/winbarbuf.nvim) [![GitHub stars](https://img.shields.io/github/stars/olivgr/winbarbuf.nvim?style=flat)](https://github.com/olivgr/winbarbuf.nvim/stargazers) - Clickable buffer list in the winbar.
 
 ### Statusline
 
@@ -1049,6 +1055,7 @@ then it is not supported:
 - [cxwx/lazyUrlUpdate.nvim](https://github.com/cxwx/lazyUrlUpdate.nvim) [![GitHub stars](https://img.shields.io/github/stars/cxwx/lazyUrlUpdate.nvim?style=flat)](https://github.com/cxwx/lazyUrlUpdate.nvim/stargazers) - Update plugin under cursor by `lazy.nvim`.
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) [![GitHub stars](https://img.shields.io/github/stars/sontungexpt/url-open?style=flat)](https://github.com/sontungexpt/url-open/stargazers) - Open URLs under the cursor and create highlight effects for them.
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) [![GitHub stars](https://img.shields.io/github/stars/crusj/bookmarks.nvim?style=flat)](https://github.com/crusj/bookmarks.nvim/stargazers) - Remember file locations and sort by time and frequency.
+- [Doehnert/laravel-log-watcher.nvim](https://github.com/Doehnert/laravel-log-watcher.nvim) [![GitHub stars](https://img.shields.io/github/stars/Doehnert/laravel-log-watcher.nvim?style=flat)](https://github.com/Doehnert/laravel-log-watcher.nvim/stargazers) - Watch a Laravel app's log (`storage/logs/laravel.log`) and get notified of new entries as they get written.
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) [![GitHub stars](https://img.shields.io/github/stars/jbyuki/instant.nvim?style=flat)](https://github.com/jbyuki/instant.nvim/stargazers) - A collaborative editing plugin written in Lua with no dependencies.
 - [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) [![GitHub stars](https://img.shields.io/github/stars/chrisgrieser/nvim-genghis?style=flat)](https://github.com/chrisgrieser/nvim-genghis/stargazers) - Convenience file operations, written in Lua.
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) [![GitHub stars](https://img.shields.io/github/stars/figsoda/nix-develop.nvim?style=flat)](https://github.com/figsoda/nix-develop.nvim/stargazers) - Run `nix develop` without restarting.
@@ -1097,6 +1104,7 @@ then it is not supported:
 - [ChuYanLon/telegram.nvim](https://github.com/ChuYanLon/telegram.nvim) [![GitHub stars](https://img.shields.io/github/stars/ChuYanLon/telegram.nvim?style=flat)](https://github.com/ChuYanLon/telegram.nvim/stargazers) - A Telegram chat client powered by TDLib supporting real-time messaging, group management, and media preview.
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) [![GitHub stars](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp?style=flat)](https://github.com/paulburgess1357/nvim-mcp/stargazers) - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
 - [dpezto/chezmoi-template.nvim](https://github.com/dpezto/chezmoi-template.nvim) [![GitHub stars](https://img.shields.io/github/stars/dpezto/chezmoi-template.nvim?style=flat)](https://github.com/dpezto/chezmoi-template.nvim/stargazers) - Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.
+- [7KiLL/copybara.nvim](https://github.com/7KiLL/copybara.nvim) [![GitHub stars](https://img.shields.io/github/stars/7KiLL/copybara.nvim?style=flat)](https://github.com/7KiLL/copybara.nvim/stargazers) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 
 ### CSV Files
 
@@ -1211,6 +1219,7 @@ then it is not supported:
 
 ## Code Runner
 
+- [wurli/jet.nvim](https://github.com/wurli/jet.nvim) [![GitHub stars](https://img.shields.io/github/stars/wurli/jet.nvim?style=flat)](https://github.com/wurli/jet.nvim/stargazers) - A LSP-enabled, extensible Jupyter client that just works.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) [![GitHub stars](https://img.shields.io/github/stars/rafcamlet/nvim-luapad?style=flat)](https://github.com/rafcamlet/nvim-luapad/stargazers) - Interactive scratchpad for running Lua code.
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) [![GitHub stars](https://img.shields.io/github/stars/michaelb/sniprun?style=flat)](https://github.com/michaelb/sniprun/stargazers) - Run parts of code of any language directly from your editor.
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) [![GitHub stars](https://img.shields.io/github/stars/CRAG666/code_runner.nvim?style=flat)](https://github.com/CRAG666/code_runner.nvim/stargazers) - The best code runner you could have, with super powers.
@@ -1361,6 +1370,7 @@ then it is not supported:
 - [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) [![GitHub stars](https://img.shields.io/github/stars/jceb/jiejie.nvim?style=flat)](https://github.com/jceb/jiejie.nvim/stargazers) - Frontend for Jujutsu in the style of `fugitive`.
 - [chojs23/ec](https://github.com/chojs23/ec) [![GitHub stars](https://img.shields.io/github/stars/chojs23/ec?style=flat)](https://github.com/chojs23/ec/stargazers) - A TUI native Git mergetool with 3 panes.
 - [harrisoncramer/GitLab.nvim](https://github.com/harrisoncramer/GitLab.nvim) [![GitHub stars](https://img.shields.io/github/stars/harrisoncramer/GitLab.nvim?style=flat)](https://github.com/harrisoncramer/GitLab.nvim/stargazers) - Review pull requests and manage other GitLab resources.
+- [mm4cN/nvim-gitlab](https://github.com/mm4cN/nvim-gitlab) [![GitHub stars](https://img.shields.io/github/stars/mm4cN/nvim-gitlab?style=flat)](https://github.com/mm4cN/nvim-gitlab/stargazers) - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
 
 ### GitHub
 
@@ -1518,6 +1528,7 @@ then it is not supported:
 - [nvim-mini/mini.nvim#mini.operators](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md/stargazers) - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) [![GitHub stars](https://img.shields.io/github/stars/gbprod/yanky.nvim?style=flat)](https://github.com/gbprod/yanky.nvim/stargazers) - Improved Yank and Put functionalities.
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) [![GitHub stars](https://img.shields.io/github/stars/sQVe/sort.nvim?style=flat)](https://github.com/sQVe/sort.nvim/stargazers) - Sorting plugin that intelligently supports line-wise and delimiter sorting.
+- [Nagato-Yuzuru/bang.nvim](https://github.com/Nagato-Yuzuru/bang.nvim) [![GitHub stars](https://img.shields.io/github/stars/Nagato-Yuzuru/bang.nvim?style=flat)](https://github.com/Nagato-Yuzuru/bang.nvim/stargazers) - `g!` operator that filters a motion, text object or Visual selection through a shell command, like `!` without the whole-line limit.
 - [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove) [![GitHub stars](https://img.shields.io/github/stars/booperlv/nvim-gomove?style=flat)](https://github.com/booperlv/nvim-gomove/stargazers) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 - [hinell/duplicate.nvim](https://github.com/hinell/duplicate.nvim) [![GitHub stars](https://img.shields.io/github/stars/hinell/duplicate.nvim?style=flat)](https://github.com/hinell/duplicate.nvim/stargazers) - Duplicate lines and blocks of lines easily; undo and unfolding support; full OOP.
 - [hinell/move.nvim](https://github.com/hinell/move.nvim) [![GitHub stars](https://img.shields.io/github/stars/hinell/move.nvim?style=flat)](https://github.com/hinell/move.nvim/stargazers) - Move chunks of text around; fork of [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) [![GitHub stars](https://img.shields.io/github/stars/fedepujol/move.nvim?style=flat)](https://github.com/fedepujol/move.nvim/stargazers).
@@ -1797,6 +1808,7 @@ then it is not supported:
 
 - [zongben/dbout.nvim](https://github.com/zongben/dbout.nvim) [![GitHub stars](https://img.shields.io/github/stars/zongben/dbout.nvim?style=flat)](https://github.com/zongben/dbout.nvim/stargazers) - Manage database connections and run SQL queries directly with JSON results.
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) [![GitHub stars](https://img.shields.io/github/stars/kndndrj/nvim-dbee?style=flat)](https://github.com/kndndrj/nvim-dbee/stargazers) - Interactive database client.
+- [caskstrength/nvim-dbeer](https://codeberg.org/caskstrength/nvim-dbeer) - Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.
 - [tashikomaaa/neomongo.nvim](https://github.com/tashikomaaa/neomongo.nvim) [![GitHub stars](https://img.shields.io/github/stars/tashikomaaa/neomongo.nvim?style=flat)](https://github.com/tashikomaaa/neomongo.nvim/stargazers) - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
 - [joryeugene/dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim) [![GitHub stars](https://img.shields.io/github/stars/joryeugene/dadbod-grip.nvim?style=flat)](https://github.com/joryeugene/dadbod-grip.nvim/stargazers) - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 - [clang-engineer/dadbod-vertica.nvim](https://github.com/clang-engineer/dadbod-vertica.nvim) [![GitHub stars](https://img.shields.io/github/stars/clang-engineer/dadbod-vertica.nvim?style=flat)](https://github.com/clang-engineer/dadbod-vertica.nvim/stargazers) - Vertica adapter for [vim-dadbod](https://github.com/tpope/vim-dadbod) [![GitHub stars](https://img.shields.io/github/stars/tpope/vim-dadbod?style=flat)](https://github.com/tpope/vim-dadbod/stargazers) via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
@@ -1866,6 +1878,7 @@ These tools are used externally to Neovim to enhance the experience.
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) [![GitHub stars](https://img.shields.io/github/stars/ellisonleao/nvim-plugin-template?style=flat)](https://github.com/ellisonleao/nvim-plugin-template/stargazers) - Another plugin template, using GitHub's template feature.
 - [2KAbhishek/template.nvim](https://github.com/2KAbhishek/template.nvim) [![GitHub stars](https://img.shields.io/github/stars/2KAbhishek/template.nvim?style=flat)](https://github.com/2KAbhishek/template.nvim/stargazers) - Opinionated template for starting plugin dev quickly.
 - [jkeresman01/spring-initializr.nvim](https://github.com/jkeresman01/spring-initializr.nvim) [![GitHub stars](https://img.shields.io/github/stars/jkeresman01/spring-initializr.nvim?style=flat)](https://github.com/jkeresman01/spring-initializr.nvim/stargazers) - Scaffold Spring Boot projects with a Telescope-powered UI.
+- [caskstrength/nvim-springtime](https://codeberg.org/caskstrength/nvim-springtime) - A scaffold builder based on Spring Initializr.
 - [DrKJeff16/nvim-plugin-boilerplate](https://github.com/DrKJeff16/nvim-plugin-boilerplate) [![GitHub stars](https://img.shields.io/github/stars/DrKJeff16/nvim-plugin-boilerplate?style=flat)](https://github.com/DrKJeff16/nvim-plugin-boilerplate/stargazers) - A documented template for new plugins generated by a script. Includes tests, CI utilities, etc.
 - [chrisgrieser/nvim-pseudometa-plugin-template](https://github.com/chrisgrieser/nvim-pseudometa-plugin-template) [![GitHub stars](https://img.shields.io/github/stars/chrisgrieser/nvim-pseudometa-plugin-template?style=flat)](https://github.com/chrisgrieser/nvim-pseudometa-plugin-template/stargazers) - Template for new plugins.
 

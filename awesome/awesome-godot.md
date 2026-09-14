@@ -47,6 +47,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support) 
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://codeberg.org/antimundo/poder-solar) - Simple resource management game.
 - [Unknown Horizons](https://github.com/unknown-horizons/godot-port) [![GitHub stars](https://img.shields.io/github/stars/unknown-horizons/godot-port?style=flat)](https://github.com/unknown-horizons/godot-port/stargazers) - Official work-in-progress reimplementation of Unknown Horizons.
+- [Worlds Upon The Wind](https://github.com/max99x/wutw-public) [![GitHub stars](https://img.shields.io/github/stars/max99x/wutw-public?style=flat)](https://github.com/max99x/wutw-public/stargazers) - A commercial roguelite deckbuilder released as public domain.
 
 #### Godot 3
 

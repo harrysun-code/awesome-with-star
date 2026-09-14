@@ -1644,7 +1644,7 @@ Others
 * [css-lite](https://github.com/paddymul/css-lite) [![GitHub stars](https://img.shields.io/github/stars/paddymul/css-lite?style=flat)](https://github.com/paddymul/css-lite/stargazers) - A CSS grammar. [Expat][14].
 * [find-port](https://github.com/lisp-maintainers/find-port) [![GitHub stars](https://img.shields.io/github/stars/lisp-maintainers/find-port?style=flat)](https://github.com/lisp-maintainers/find-port/stargazers) -  Programmatically find open ports. [MIT][200].
 * [cl-wget](https://github.com/cl-wget/cl-wget) [![GitHub stars](https://img.shields.io/github/stars/cl-wget/cl-wget?style=flat)](https://github.com/cl-wget/cl-wget/stargazers) - Makes retrieving large files or mirroring entire websites easy. [AGPL-3.0][51].
-* [trivial-download](https://github.com/eudoxia0/trivial-download) [![GitHub stars](https://img.shields.io/github/stars/eudoxia0/trivial-download?style=flat)](https://github.com/eudoxia0/trivial-download/stargazers) - Download files.
+* [trivial-download](https://github.com/sharplispers/trivial-download) [![GitHub stars](https://img.shields.io/github/stars/sharplispers/trivial-download?style=flat)](https://github.com/sharplispers/trivial-download/stargazers) - Download files.
   * currently archived and unmaintained. [MIT][200].
 * [cl-cookie](https://github.com/fukamachi/cl-cookie) [![GitHub stars](https://img.shields.io/github/stars/fukamachi/cl-cookie?style=flat)](https://github.com/fukamachi/cl-cookie/stargazers) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 * [dns-client](https://codeberg.org/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
@@ -2303,7 +2303,7 @@ Caching (memoization)
 Compression / decompression
 ---------------------------
 
-* [chipz](https://github.com/froydnj/chipz) [![GitHub stars](https://img.shields.io/github/stars/froydnj/chipz?style=flat)](https://github.com/froydnj/chipz/stargazers) - A decompression library. [3-clause BSD][15].
+* [chipz](https://github.com/sharplispers/chipz) [![GitHub stars](https://img.shields.io/github/stars/sharplispers/chipz?style=flat)](https://github.com/sharplispers/chipz/stargazers) - A decompression library. [3-clause BSD][15].
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [zippy](https://codeberg.org/shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib][33].
 * [archive](https://github.com/froydnj/archive) [![GitHub stars](https://img.shields.io/github/stars/froydnj/archive?style=flat)](https://github.com/froydnj/archive/stargazers) - a library for reading and creating archive (tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the `tar` program.
@@ -2322,7 +2322,7 @@ Configuration
 Date and time
 -------------
 
-* ⭐ [local-time](https://codeberg.org/dlowe/local-time) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
+* ⭐ [local-time](https://github.com/sharplispers/local-time) [![GitHub stars](https://img.shields.io/github/stars/sharplispers/local-time?style=flat)](https://github.com/sharplispers/local-time/stargazers) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
   * [local-time documentation](https://local-time.common-lisp.dev/), [github mirror](https://github.com/dlowe-net/local-time) [![GitHub stars](https://img.shields.io/github/stars/dlowe-net/local-time?style=flat)](https://github.com/dlowe-net/local-time/stargazers).
 * [fuzzy-dates](https://codeberg.org/shinmera/fuzzy-dates) -  A library to fuzzily parse date and time strings. Zlib.
 * [cl-date-time-parser](https://github.com/tkych/cl-date-time-parser) [![GitHub stars](https://img.shields.io/github/stars/tkych/cl-date-time-parser?style=flat)](https://github.com/tkych/cl-date-time-parser/stargazers) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT][200].

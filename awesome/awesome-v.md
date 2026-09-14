@@ -254,6 +254,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Database clients
 <!-- lint disable awesome-spell-check -->
 - [firebird](https://github.com/einar-hjortdal/firebird) [![GitHub stars](https://img.shields.io/github/stars/einar-hjortdal/firebird?style=flat)](https://github.com/einar-hjortdal/firebird/stargazers) - Client for Firebird SQL.
+- [leveldb](https://github.com/vlang/leveldb) [![GitHub stars](https://img.shields.io/github/stars/vlang/leveldb?style=flat)](https://github.com/vlang/leveldb/stargazers) - LevelDB implementation in pure V.
 - [mongodb](https://github.com/vlang/mongo) [![GitHub stars](https://img.shields.io/github/stars/vlang/mongo?style=flat)](https://github.com/vlang/mongo/stargazers) - A MongoDB driver for V.
 - [redict](https://github.com/einar-hjortdal/redict) [![GitHub stars](https://img.shields.io/github/stars/einar-hjortdal/redict?style=flat)](https://github.com/einar-hjortdal/redict/stargazers) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis](https://github.com/patrickpissurno/vredis) [![GitHub stars](https://img.shields.io/github/stars/patrickpissurno/vredis?style=flat)](https://github.com/patrickpissurno/vredis/stargazers) - A Redis client for V, written in V.

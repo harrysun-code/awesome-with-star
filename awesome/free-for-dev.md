@@ -583,6 +583,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Lastest](https://lastest.cloud) - Ship fast. Don't break things. AI-supported visual verification and tests you can actually trust. Free forever plan: 1 project, 500 runner-minutes/mo, 1 concurrent run, no credit card.
   * [loadmill.com](https://www.loadmill.com/) - Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free monthly.
   * [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
+  * [OpenWebhook](https://openwebhook.co) - Temporary webhook URL and live inspector. No signup. Event history stays in the browser. Custom slugs and remote forwarding are paid.
   * [pagegym.com](https://pagegym.com) - Load behaviour and page speed analysis and optimization tool. The free plan provides 10 tests per day, 5 experiments per week, and 15 GB of maximum ingested data per month.
   * [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  Unlimited team members, Demo app, and unlimited projects, 5,000 snapshots/month.
   * [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.
@@ -600,6 +601,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [tesults.com](https://www.tesults.com) - Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
   * [UseWebhook.com](https://usewebhook.com) - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.
   * [Vaadin](https://vaadin.com) - Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
+  * [VibeView](https://vibeview.io) - Browser-based iOS, Android, Apple TV and Android TV simulators with AI-powered test automation from a recorded flow or plain-language instructions. Free tier includes two concurrent sessions and 30 minutes of streaming per month. Bringing your own API key bypasses the included AI usage credit.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
   * [websitepulse.com](https://www.websitepulse.com/tools/) - Various free network and server tools.
   * [kogiQA](https://kogiqa.com) - A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
@@ -676,6 +678,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Stack Auth](https://stack-auth.com) - Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
   * [Stytch](https://www.stytch.com/) - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.
   * [SuperTokens](https://supertokens.com/) - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.
+  * [Unkey](https://www.unkey.com/) - Open-source API key management and rate-limiting platform. Free for up to 100,000 requests per month and 100 active API keys, with full access to key creation, revocation, and rate-limiting capabilities.
   * [WorkOS](https://workos.com/) - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.
   * [ZITADEL Cloud](https://zitadel.com) - A turnkey user and access management that works for you and supports multi-tenant (B2B) use cases. Free for up to 25,000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies, and so on).
 

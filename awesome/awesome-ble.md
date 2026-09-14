@@ -119,6 +119,7 @@ _Development and testing tools for Bluetooth Low Energy (BLE) applications, incl
 _Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies._
 
 - [Web Bluetooth Samples](https://github.com/WebBluetoothCG/demos) [![GitHub stars](https://img.shields.io/github/stars/WebBluetoothCG/demos?style=flat)](https://github.com/WebBluetoothCG/demos/stargazers) - A collection of Web Bluetooth API usage examples.
+- [niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth) [![GitHub stars](https://img.shields.io/github/stars/iscarelli/niimbot-web-bluetooth?style=flat)](https://github.com/iscarelli/niimbot-web-bluetooth/stargazers) - Zero-dependency Web Bluetooth driver for NIIMBOT thermal label printers, with reverse-engineered protocol documentation.
 
 ## Security
 

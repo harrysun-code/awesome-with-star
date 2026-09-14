@@ -90,7 +90,6 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Sass MQ](https://github.com/sass-mq/sass-mq) [![GitHub stars](https://img.shields.io/github/stars/sass-mq/sass-mq?style=flat)](https://github.com/sass-mq/sass-mq/stargazers) - Sass mixin that helps you compose media queries in an elegant way.
 
 ### Color
-- [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [Open color](https://github.com/yeun/open-color) [![GitHub stars](https://img.shields.io/github/stars/yeun/open-color?style=flat)](https://github.com/yeun/open-color/stargazers) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 - [sass-planifolia](https://github.com/xi/sass-planifolia) [![GitHub stars](https://img.shields.io/github/stars/xi/sass-planifolia?style=flat)](https://github.com/xi/sass-planifolia/stargazers) - Advanced color manipulation and contrast calculation in vanilla Sass.
 - [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) [![GitHub stars](https://img.shields.io/github/stars/heygrady/scss-blend-modes?style=flat)](https://github.com/heygrady/scss-blend-modes/stargazers) - Using standard color blending functions in Sass.

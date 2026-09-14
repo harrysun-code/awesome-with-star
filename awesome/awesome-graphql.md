@@ -721,6 +721,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [mockd](https://github.com/getmockd/mockd) [![GitHub stars](https://img.shields.io/github/stars/getmockd/mockd?style=flat)](https://github.com/getmockd/mockd/stargazers) - Multi-protocol mock server with GraphQL schema mocking, resolver configuration, and query validation. Also supports HTTP, gRPC, WebSocket, MQTT, and SOAP.
 - [Keploy](https://keploy.io/) - Open-source AI Powered API testing tool that generates test cases and **data mocks automatically by recording real API traffic**. Supports GraphQL, REST, and gRPC.
 - [Step CI](https://stepci.com) - Open-Source API **Testing and Monitoring** with GraphQL support
+- [MockBase](https://mockbase.org) - Hosted mock server for REST, GraphQL, and SOAP with fault injection, stateful mocks, and OpenAPI import.
 
 <a name="tool-security" />
 
@@ -737,6 +738,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Cop](https://github.com/dolevf/graphql-cop) [![GitHub stars](https://img.shields.io/github/stars/dolevf/graphql-cop?style=flat)](https://github.com/dolevf/graphql-cop/stargazers) - Security Audit Utility for GraphQL
 - [GraphQLer](https://github.com/omar2535/GraphQLer) [![GitHub stars](https://img.shields.io/github/stars/omar2535/GraphQLer?style=flat)](https://github.com/omar2535/GraphQLer/stargazers) - Dependency-aware dynamic GraphQL testing tool
 - [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
+- [hasura-security](https://github.com/Perufitlife/hasura-security) [![GitHub stars](https://img.shields.io/github/stars/Perufitlife/hasura-security?style=flat)](https://github.com/Perufitlife/hasura-security/stargazers) - Active-probe security auditor for self-hosted Hasura GraphQL Engine: detects open introspection, public-role data leaks and unauthenticated endpoints
 
 ### Tools - Browser Extensions
 

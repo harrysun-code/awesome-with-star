@@ -272,6 +272,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Million](https://github.com/aidenybai/million) [![GitHub stars](https://img.shields.io/github/stars/aidenybai/million?style=flat)](https://github.com/aidenybai/million/stargazers) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) [![GitHub stars](https://img.shields.io/github/stars/whatsup/whatsup?style=flat)](https://github.com/whatsup/whatsup/stargazers) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 * [Remult](https://github.com/remult/remult) [![GitHub stars](https://img.shields.io/github/stars/remult/remult?style=flat)](https://github.com/remult/remult/stargazers) - A CRUD framework for full-stack TypeScript.
+* [sprae](https://github.com/dy/sprae) [![GitHub stars](https://img.shields.io/github/stars/dy/sprae?style=flat)](https://github.com/dy/sprae/stargazers) - Reactive HTML attributes with no build step, signals-based, with a CSP-safe build.
 
 ## Node-Powered CMS Frameworks
 
