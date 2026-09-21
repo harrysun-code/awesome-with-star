@@ -453,6 +453,7 @@ _In-process databases usable directly from Python._
   - [chromadb](https://github.com/chroma-core/chroma) [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat)](https://github.com/chroma-core/chroma/stargazers) - An open-source embedding database for building AI applications with embeddings and semantic search.
   - [lancedb](https://github.com/lancedb/lancedb) [![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=flat)](https://github.com/lancedb/lancedb/stargazers) - A developer-friendly embedded retrieval database for multimodal AI.
   - [zvec](https://github.com/alibaba/zvec) [![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=flat)](https://github.com/alibaba/zvec/stargazers) - An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.
+  - [pixeltable](https://github.com/pixeltable/pixeltable) [![GitHub stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=flat)](https://github.com/pixeltable/pixeltable/stargazers) - Declarative multimodal AI data engine for tables, computed columns, and embedding search.
 - Key-Value & Document
   - [tinydb](https://github.com/msiemens/tinydb) [![GitHub stars](https://img.shields.io/github/stars/msiemens/tinydb?style=flat)](https://github.com/msiemens/tinydb/stargazers) - A tiny, document-oriented database.
 
@@ -613,10 +614,11 @@ _Interactive Python interpreters (REPL)._
 _Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis) [![GitHub stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis?style=flat)](https://github.com/analysis-tools-dev/static-analysis/stargazers)._
 
 - Code Analysis
+  - [import-linter](https://github.com/seddonym/import-linter) [![GitHub stars](https://img.shields.io/github/stars/seddonym/import-linter?style=flat)](https://github.com/seddonym/import-linter/stargazers) - A linter that enforces architectural constraints on imports between Python modules.
   - [vulture](https://github.com/jendrikseipp/vulture) [![GitHub stars](https://img.shields.io/github/stars/jendrikseipp/vulture?style=flat)](https://github.com/jendrikseipp/vulture/stargazers) - A tool for finding and analyzing dead Python code.
+  - [complexipy](https://github.com/rohaquinlop/complexipy) [![GitHub stars](https://img.shields.io/github/stars/rohaquinlop/complexipy?style=flat)](https://github.com/rohaquinlop/complexipy/stargazers) - Cognitive complexity analysis for Python code, written in Rust.
   - [prospector](https://github.com/prospector-dev/prospector) [![GitHub stars](https://img.shields.io/github/stars/prospector-dev/prospector?style=flat)](https://github.com/prospector-dev/prospector/stargazers) - A tool to analyze Python code.
   - [repowise](https://github.com/repowise-dev/repowise) [![GitHub stars](https://img.shields.io/github/stars/repowise-dev/repowise?style=flat)](https://github.com/repowise-dev/repowise/stargazers) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
-  - [complexipy](https://github.com/rohaquinlop/complexipy) [![GitHub stars](https://img.shields.io/github/stars/rohaquinlop/complexipy?style=flat)](https://github.com/rohaquinlop/complexipy/stargazers) - Cognitive complexity analysis for Python code, written in Rust.
 - Git Hooks
   - [pre-commit](https://github.com/pre-commit/pre-commit) [![GitHub stars](https://img.shields.io/github/stars/pre-commit/pre-commit?style=flat)](https://github.com/pre-commit/pre-commit/stargazers) - A framework for managing and maintaining multi-language pre-commit hooks.
 - Linters and Formatters

@@ -35,6 +35,9 @@ This list contains the most useful tools and data for creating web animations.
 - [Walkway](https://github.com/ConnorAtherton/walkway) [![GitHub stars](https://img.shields.io/github/stars/ConnorAtherton/walkway?style=flat)](https://github.com/ConnorAtherton/walkway/stargazers) - An easy way to animate SVG elements.
 - [Raphael](https://github.com/DmitryBaranovskiy/raphael) [![GitHub stars](https://img.shields.io/github/stars/DmitryBaranovskiy/raphael?style=flat)](https://github.com/DmitryBaranovskiy/raphael/stargazers) - JavaScript Vector Library.
 - [Bonsai](https://github.com/uxebu/bonsai) [![GitHub stars](https://img.shields.io/github/stars/uxebu/bonsai?style=flat)](https://github.com/uxebu/bonsai/stargazers) - BonsaiJS is a graphics library and renderer.
+- [Lazy Line Painter](https://github.com/merri-ment/lazy-line-painter) [![GitHub stars](https://img.shields.io/github/stars/merri-ment/lazy-line-painter?style=flat)](https://github.com/merri-ment/lazy-line-painter/stargazers) - A modern JavaScript library for SVG path animation.
+- [Flubber](https://github.com/veltman/flubber) [![GitHub stars](https://img.shields.io/github/stars/veltman/flubber?style=flat)](https://github.com/veltman/flubber/stargazers) - Tools for smoother SVG shape morphing and interpolation.
+- [Lottie](https://github.com/airbnb/lottie-web) [![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-web?style=flat)](https://github.com/airbnb/lottie-web/stargazers) - Render After Effects animations natively on the web as SVG or Canvas.
 
 ## Common
 
@@ -55,6 +58,11 @@ This list contains the most useful tools and data for creating web animations.
 - [Glsl easings](https://github.com/glslify/glsl-easings) [![GitHub stars](https://img.shields.io/github/stars/glslify/glsl-easings?style=flat)](https://github.com/glslify/glsl-easings/stargazers) - Easing functions in GLSL.
 - [ES6-tween](https://github.com/tweenjs/es6-tween) [![GitHub stars](https://img.shields.io/github/stars/tweenjs/es6-tween?style=flat)](https://github.com/tweenjs/es6-tween/stargazers) - ES6 version of tween.js.
 - [Weeee.js](https://github.com/sfi0zy/weeee) [![GitHub stars](https://img.shields.io/github/stars/sfi0zy/weeee?style=flat)](https://github.com/sfi0zy/weeee/stargazers) - Tiny Javascript tweening engine.
+- [Theatre.js](https://github.com/theatre-js/theatre) [![GitHub stars](https://img.shields.io/github/stars/theatre-js/theatre?style=flat)](https://github.com/theatre-js/theatre/stargazers) - Motion design editor for the web.
+- [Popmotion](https://github.com/Popmotion/popmotion) [![GitHub stars](https://img.shields.io/github/stars/Popmotion/popmotion?style=flat)](https://github.com/Popmotion/popmotion/stargazers) - Simple animation libraries for delightful user interfaces.
+- [AutoAnimate](https://github.com/formkit/auto-animate) [![GitHub stars](https://img.shields.io/github/stars/formkit/auto-animate?style=flat)](https://github.com/formkit/auto-animate/stargazers) - Zero-config, drop-in animation utility for smooth DOM transitions.
+- [KUTE.js](https://github.com/thednp/kute.js) [![GitHub stars](https://img.shields.io/github/stars/thednp/kute.js?style=flat)](https://github.com/thednp/kute.js/stargazers) - JavaScript animation engine for modern browsers.
+- [Rive](https://github.com/rive-app/rive-wasm) [![GitHub stars](https://img.shields.io/github/stars/rive-app/rive-wasm?style=flat)](https://github.com/rive-app/rive-wasm/stargazers) - Web runtime for interactive Rive animations.
 
 ## CSS
 
@@ -64,6 +72,11 @@ This list contains the most useful tools and data for creating web animations.
 - [Css-loaders](https://github.com/lukehaas/css-loaders) [![GitHub stars](https://img.shields.io/github/stars/lukehaas/css-loaders?style=flat)](https://github.com/lukehaas/css-loaders/stargazers) - A collection of loading spinners animated with CSS.
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) [![GitHub stars](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=flat)](https://github.com/tobiasahlin/SpinKit/stargazers) - A collection of loading indicators animated with CSS.
 - [Bounce.js](https://github.com/tictail/bounce.js) [![GitHub stars](https://img.shields.io/github/stars/tictail/bounce.js?style=flat)](https://github.com/tictail/bounce.js/stargazers) - Create beautiful CSS3 powered animations in no time.
+- [AnimXYZ](https://github.com/ingram-projects/animxyz) [![GitHub stars](https://img.shields.io/github/stars/ingram-projects/animxyz?style=flat)](https://github.com/ingram-projects/animxyz/stargazers) - Composable CSS animation toolkit powered by CSS variables.
+- [Hover.css](https://github.com/IanLunn/Hover) [![GitHub stars](https://img.shields.io/github/stars/IanLunn/Hover?style=flat)](https://github.com/IanLunn/Hover/stargazers) - A collection of CSS3 powered hover effects.
+- [CSShake](https://github.com/elrumordelaluz/csshake) [![GitHub stars](https://img.shields.io/github/stars/elrumordelaluz/csshake?style=flat)](https://github.com/elrumordelaluz/csshake/stargazers) - CSS classes to shake your DOM.
+- [Whirl](https://github.com/jh3y/whirl) [![GitHub stars](https://img.shields.io/github/stars/jh3y/whirl?style=flat)](https://github.com/jh3y/whirl/stargazers) - CSS loading animations with minimal effort.
+- [CSS Doodle](https://github.com/css-doodle/css-doodle) [![GitHub stars](https://img.shields.io/github/stars/css-doodle/css-doodle?style=flat)](https://github.com/css-doodle/css-doodle/stargazers) - A web component for drawing patterns with CSS.
 
 ## Canvas
 
@@ -77,6 +90,13 @@ This list contains the most useful tools and data for creating web animations.
 - [Hover-effect](https://github.com/robin-dela/hover-effect) [![GitHub stars](https://img.shields.io/github/stars/robin-dela/hover-effect?style=flat)](https://github.com/robin-dela/hover-effect/stargazers) - JavaScript library to draw and animate images on hover.
 - [Pts.js](https://github.com/williamngan/pts) [![GitHub stars](https://img.shields.io/github/stars/williamngan/pts?style=flat)](https://github.com/williamngan/pts/stargazers) - Pts is a typescript/javascript library for visualization and creative-coding.
 - [tsParticles](https://github.com/matteobruni/tsparticles/) [![GitHub stars](https://img.shields.io/github/stars/matteobruni/tsparticles/?style=flat)](https://github.com/matteobruni/tsparticles//stargazers) - tsParticles is a lightweight typescript/javascript library for creating easily particles animations.
+- [PixiJS](https://github.com/pixijs/pixijs) [![GitHub stars](https://img.shields.io/github/stars/pixijs/pixijs?style=flat)](https://github.com/pixijs/pixijs/stargazers) - Fast 2D WebGL renderer for interactive graphics and animation.
+- [p5.js](https://github.com/processing/p5.js) [![GitHub stars](https://img.shields.io/github/stars/processing/p5.js?style=flat)](https://github.com/processing/p5.js/stargazers) - Creative coding library for drawing and animation on canvas.
+- [Zdog](https://github.com/metafizzy/zdog) [![GitHub stars](https://img.shields.io/github/stars/metafizzy/zdog?style=flat)](https://github.com/metafizzy/zdog/stargazers) - Round, flat, designer-friendly pseudo-3D engine for canvas and SVG.
+- [canvas-confetti](https://github.com/catdad/canvas-confetti) [![GitHub stars](https://img.shields.io/github/stars/catdad/canvas-confetti?style=flat)](https://github.com/catdad/canvas-confetti/stargazers) - Performant confetti animation in the browser.
+- [Vanta.js](https://github.com/tengbao/vanta) [![GitHub stars](https://img.shields.io/github/stars/tengbao/vanta?style=flat)](https://github.com/tengbao/vanta/stargazers) - Animated 3D backgrounds for your website.
+- [Three.js](https://github.com/mrdoob/three.js) [![GitHub stars](https://img.shields.io/github/stars/mrdoob/three.js?style=flat)](https://github.com/mrdoob/three.js/stargazers) - JavaScript 3D library.
+- [Matter.js](https://github.com/liabru/matter-js) [![GitHub stars](https://img.shields.io/github/stars/liabru/matter-js?style=flat)](https://github.com/liabru/matter-js/stargazers) - A 2D rigid body physics engine for the web.
 
 ## Animate on scroll
 
@@ -87,6 +107,11 @@ This list contains the most useful tools and data for creating web animations.
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic) [![GitHub stars](https://img.shields.io/github/stars/janpaepke/ScrollMagic?style=flat)](https://github.com/janpaepke/ScrollMagic/stargazers) - The JavaScript library for magical scroll interactions.
 - [Motus](https://github.com/alexcambose/motus) [![GitHub stars](https://img.shields.io/github/stars/alexcambose/motus?style=flat)](https://github.com/alexcambose/motus/stargazers) - Animation library that mimics CSS keyframes when scrolling.
 - [Sal](https://github.com/mciastek/sal) [![GitHub stars](https://img.shields.io/github/stars/mciastek/sal?style=flat)](https://github.com/mciastek/sal/stargazers) - Performance focused, lightweight scroll animation library.
+- [Lenis](https://github.com/darkroomengineering/lenis) [![GitHub stars](https://img.shields.io/github/stars/darkroomengineering/lenis?style=flat)](https://github.com/darkroomengineering/lenis/stargazers) - Lightweight, accessible smooth scroll library.
+- [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll) [![GitHub stars](https://img.shields.io/github/stars/locomotivemtl/locomotive-scroll?style=flat)](https://github.com/locomotivemtl/locomotive-scroll/stargazers) - Detection of elements in viewport and smooth scrolling with parallax.
+- [Rellax](https://github.com/dixonandmoe/rellax) [![GitHub stars](https://img.shields.io/github/stars/dixonandmoe/rellax?style=flat)](https://github.com/dixonandmoe/rellax/stargazers) - Lightweight vanilla JavaScript parallax library.
+- [ScrollOut](https://github.com/scroll-out/scroll-out) [![GitHub stars](https://img.shields.io/github/stars/scroll-out/scroll-out?style=flat)](https://github.com/scroll-out/scroll-out/stargazers) - Scroll effects for reveal, parallax, and CSS variables.
+- [Atropos](https://github.com/nolimits4web/atropos) [![GitHub stars](https://img.shields.io/github/stars/nolimits4web/atropos?style=flat)](https://github.com/nolimits4web/atropos/stargazers) - Touch-friendly 3D parallax hover effects.
 
 ## Text
 
@@ -95,6 +120,10 @@ This list contains the most useful tools and data for creating web animations.
 - [Shuffle-text](https://github.com/ics-ikeda/shuffle-text) [![GitHub stars](https://img.shields.io/github/stars/ics-ikeda/shuffle-text?style=flat)](https://github.com/ics-ikeda/shuffle-text/stargazers) - Shuffle-text is JavaScript text effect library such as cool legacy of Flash.
 - [Typebot](https://github.com/akzhy/typebot) [![GitHub stars](https://img.shields.io/github/stars/akzhy/typebot?style=flat)](https://github.com/akzhy/typebot/stargazers) - JavaScript library for typing animation.
 - [Blotter](https://github.com/bradley/Blotter) [![GitHub stars](https://img.shields.io/github/stars/bradley/Blotter?style=flat)](https://github.com/bradley/Blotter/stargazers) - A JavaScript API for drawing unconventional text effects on the web.
+- [Splitting](https://github.com/shshaw/Splitting) [![GitHub stars](https://img.shields.io/github/stars/shshaw/Splitting?style=flat)](https://github.com/shshaw/Splitting/stargazers) - Microlibrary to split text into words and characters for CSS animation.
+- [TypeIt](https://github.com/alexmacarthur/typeit) [![GitHub stars](https://img.shields.io/github/stars/alexmacarthur/typeit?style=flat)](https://github.com/alexmacarthur/typeit/stargazers) - The most versatile JavaScript typewriter effect library.
+- [TypewriterJS](https://github.com/tameemsafi/typewriterjs) [![GitHub stars](https://img.shields.io/github/stars/tameemsafi/typewriterjs?style=flat)](https://github.com/tameemsafi/typewriterjs/stargazers) - Native JavaScript plugin for typewriter text effects.
+- [NumberFlow](https://github.com/barvian/number-flow) [![GitHub stars](https://img.shields.io/github/stars/barvian/number-flow?style=flat)](https://github.com/barvian/number-flow/stargazers) - Animated number component for React, Vue, Svelte, and vanilla JS.
 
 ## React
 
@@ -102,6 +131,12 @@ This list contains the most useful tools and data for creating web animations.
 - [SVGR](https://github.com/gregberge/svgr) [![GitHub stars](https://img.shields.io/github/stars/gregberge/svgr?style=flat)](https://github.com/gregberge/svgr/stargazers) - Transform SVGs into React components.
 - [React tsParticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) [![GitHub stars](https://img.shields.io/github/stars/matteobruni/tsparticles/blob/master/components/react/README.md?style=flat)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md/stargazers) - ReactJS wrapper for *tsParticles*
 - [React spring](https://www.react-spring.io/) - Open source, spring-physics based animation library for React that supports interpolations. Fast and easy to use.
+- [Lottie React](https://github.com/Gamote/lottie-react) [![GitHub stars](https://img.shields.io/github/stars/Gamote/lottie-react?style=flat)](https://github.com/Gamote/lottie-react/stargazers) - React component for rendering Lottie animations.
+- [Rive React](https://github.com/rive-app/rive-react) [![GitHub stars](https://img.shields.io/github/stars/rive-app/rive-react?style=flat)](https://github.com/rive-app/rive-react/stargazers) - React runtime for interactive Rive animations.
+- [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) [![GitHub stars](https://img.shields.io/github/stars/aholachek/react-flip-toolkit?style=flat)](https://github.com/aholachek/react-flip-toolkit/stargazers) - Lightweight magic-move library for configurable layout transitions.
+- [Remotion](https://github.com/remotion-dev/remotion) [![GitHub stars](https://img.shields.io/github/stars/remotion-dev/remotion?style=flat)](https://github.com/remotion-dev/remotion/stargazers) - Create videos programmatically with React.
+- [React Three Fiber](https://github.com/pmndrs/react-three-fiber) [![GitHub stars](https://img.shields.io/github/stars/pmndrs/react-three-fiber?style=flat)](https://github.com/pmndrs/react-three-fiber/stargazers) - A React renderer for Three.js.
+- [React Transition Group](https://github.com/reactjs/react-transition-group) [![GitHub stars](https://img.shields.io/github/stars/reactjs/react-transition-group?style=flat)](https://github.com/reactjs/react-transition-group/stargazers) - Perform animations when a React component enters or leaves the DOM.
 
 ## GUI tools
 
@@ -113,8 +148,22 @@ This list contains the most useful tools and data for creating web animations.
 - [Cubic Bezier](https://cubic-bezier.com/) - A great utility for creating Bezier curves. You can import and export curves to/from your library to share them with others.
 - [Keyframer](http://alexberg.in/keyframer/) - Tool that help visualize animation components and output the code required.
 - [CSS Animation Kit](http://angrytools.com/css/animation/) - Select any predefined samples from top panel. Below samples there is a timeline of @keyframes. Timeline has 101 keyframes ( 0% to 100%) direction from left to right. Highlighted keyframe indicate that some style is assigned to that point. You can add new style at selected point.
+- [Rive](https://rive.app/) - Real-time interactive animation tool for websites, apps, and games. Design vector graphics and state machines in the editor, then ship them with open-source runtimes for the web.
+- [LottieFiles](https://lottiefiles.com/) - Platform for creating, editing, and shipping Lottie and dotLottie animations. Browse a huge motion library or use Lottie Creator in the browser.
+- [SVGator](https://www.svgator.com/) - Browser-based SVG animation tool with a visual timeline. Animate stroke, fill, morph, and motion along a path, then export CSS, JavaScript, or Lottie.
+- [Spline](https://spline.design/) - Real-time 3D design tool that runs in the browser. Build interactive 3D scenes and export them to websites with the Spline runtime.
+- [Cables](https://cables.gl/) - Visual programming tool for interactive WebGL content. Connect operators into patches and export real-time visuals to your website.
+- [Easings.net](https://easings.net/) - Visual cheat sheet of easing functions. Compare curves, preview motion, and copy CSS or JavaScript snippets.
 
 ## Books
+
+### [Animation at Work](https://abookapart.com/products/animation-at-work.html)
+
+<img src="data/covers/animation-at-work.jpg" width="200"/>
+
+&nbsp;
+
+Animation isn’t merely decorative—it’s an invaluable tool for creating a better web. Start with science: by understanding the human visual processing system, you can design delightful animation that works to ease cognitive load. Rachel Nabors guides you through the anatomy of web animations, patterns, and communication decisions across teams. This book will prepare you to identify and prioritize opportunities to integrate animation into design systems for building better experiences.
 
 ### [SVG animation](https://www.amazon.com/SVG-Animations-Implementations-Responsive-Animation/dp/1491939702)
 
@@ -171,6 +220,10 @@ Foundation HTML5 Animation with JavaScript covers everything that you need to kn
 ## Videos
 
 - [Yuri Artyukh youtube channel](https://www.youtube.com/user/flintyara) - This man creates amazing web animations using various technologies for this, and recording it all in steam format.
+- [GSAP Learning](https://www.youtube.com/@GreenSockLearning) - Official GreenSock channel with GSAP tutorials, scroll demos, and plugin walkthroughs.
+- [Hyperplexed](https://www.youtube.com/@Hyperplexed) - Creative front-end motion breakdowns: hover effects, text animation, and award-style interactions.
+- [The Coding Train](https://www.youtube.com/@TheCodingTrain) - Daniel Shiffman teaches creative coding, canvas animation, and p5.js in an approachable format.
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) - Practical CSS animation, transitions, and modern layout techniques.
 
 <h3 align="center">✨<a href="https://awesome-web-animation.netlify.com"> See also web page version of this list </a>✨</h3>
 

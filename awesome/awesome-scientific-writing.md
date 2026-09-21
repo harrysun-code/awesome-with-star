@@ -57,6 +57,7 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
 - [Citation Style Language (CSL) styles](https://editor.citationstyles.org/) - Crowdsourced
   repository with over 9000 free CSL citation styles and an online
   editor to create new ones.
+- [citecheck](https://github.com/tobiasosDev/citecheck) [![GitHub stars](https://img.shields.io/github/stars/tobiasosDev/citecheck?style=flat)](https://github.com/tobiasosDev/citecheck/stargazers) - Command-line tool that matches BibTeX, RIS, and CSL-JSON references against Crossref and OpenAlex and flags retractions reported by Crossref.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [ScholarRef](https://github.com/brodie-neuro/ScholarRef) [![GitHub stars](https://img.shields.io/github/stars/brodie-neuro/ScholarRef?style=flat)](https://github.com/brodie-neuro/ScholarRef/stargazers) - Convert citation styles
   (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
@@ -120,9 +121,11 @@ Supplementary files and tools.
  spell Checker.
 - [LanguageCheck](https://github.com/JohannesBuchner/languagecheck) [![GitHub stars](https://img.shields.io/github/stars/JohannesBuchner/languagecheck?style=flat)](https://github.com/JohannesBuchner/languagecheck/stargazers) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 - [Markdown lint tool](https://github.com/markdownlint/markdownlint) [![GitHub stars](https://img.shields.io/github/stars/markdownlint/markdownlint?style=flat)](https://github.com/markdownlint/markdownlint/stargazers) - Markdown linter.
+- [mdformat](https://mdformat.readthedocs.io/en/stable/) - Opinionated CommonMark-compliant Markdown formatter. Enforces consistent style (indentation, ATX headings, link references at bottom). Supports CommonMark by default, with plugins for GFM, tables, footnotes, admonitions, MyST, MkDocs, and more.
 - [proselint](https://github.com/amperser/proselint) [![GitHub stars](https://img.shields.io/github/stars/amperser/proselint?style=flat)](https://github.com/amperser/proselint/stargazers) - Linter for prose.
 - [remarklint](https://github.com/remarkjs/remark-lint) [![GitHub stars](https://img.shields.io/github/stars/remarkjs/remark-lint?style=flat)](https://github.com/remarkjs/remark-lint/stargazers) - Markdown linter.
 - [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) [![GitHub stars](https://img.shields.io/github/stars/twolfson/restructuredtext-lint?style=flat)](https://github.com/twolfson/restructuredtext-lint/stargazers) - reStructuredText linter.
+- [rumdl](https://github.com/rvben/rumdl) [![GitHub stars](https://img.shields.io/github/stars/rvben/rumdl?style=flat)](https://github.com/rvben/rumdl/stargazers) - Fast Markdown linter and formatter written in Rust, with built-in support for several "flavors" such as GFM, MkDocs, MyST, Quarto etc.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text
  and Markdown.
 - [textidote](https://sylvainhalle.github.io/textidote/) - Spelling, grammar and

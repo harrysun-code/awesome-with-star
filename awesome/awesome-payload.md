@@ -19,6 +19,7 @@ Payload is natively integrated with Next.js and is installed directly into your 
 
 - [Official](#official)
 - [Education](#education)
+- [Components](#components)
 - [Templates](#templates)
 - [Plugins](#plugins)
 
@@ -65,6 +66,12 @@ Learning resources in various formats.
 - [The Listener Pattern in Payload](https://thelastcode.substack.com/p/the-listener-pattern-in-payloadcms) - Using React principles to create useful behavior for your Payload admin panel.
 - [Payload: 2FA Implementation](https://zarif.dev/blogs/payload-cms-2fa-implementation) - Two-factor authentication (2FA) for Payload.
 - [Creating a Color Picker](https://medium.com/@mleg1234/creating-a-color-picker-for-payload-cmss-rich-text-editor-lexical-a2ec3528669c) - How to create a custom color picker for Payload's rich-text editor (Lexical).
+
+## Components
+
+Reusable component and block resources for Payload projects.
+
+- [Payload Components](https://github.com/Ducksss/payload-components) [![GitHub stars](https://img.shields.io/github/stars/Ducksss/payload-components?style=flat)](https://github.com/Ducksss/payload-components/stargazers) - MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 
 ## Templates
 

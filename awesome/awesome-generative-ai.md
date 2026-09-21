@@ -166,6 +166,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview) [![GitHub stars](https://img.shields.io/github/stars/asreview/asreview?style=flat)](https://github.com/asreview/asreview/stargazers)
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) [![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat)](https://github.com/LearningCircuit/local-deep-research/stargazers) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research) [![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat)](https://github.com/LearningCircuit/local-deep-research/stargazers)
 - [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
+- [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent) [![GitHub stars](https://img.shields.io/github/stars/jmiao24/Paper2Agent?style=flat)](https://github.com/jmiao24/Paper2Agent/stargazers)
 
 ### Leaderboards
 
@@ -247,6 +248,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools and data sources. [MCP Registry](https://registry.modelcontextprotocol.io/) [#opensource](https://github.com/modelcontextprotocol/modelcontextprotocol) [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/modelcontextprotocol?style=flat)](https://github.com/modelcontextprotocol/modelcontextprotocol/stargazers)
 - [Steel Browser](https://github.com/steel-dev/steel-browser) [![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat)](https://github.com/steel-dev/steel-browser/stargazers) - An open-source browser sandbox and automation infrastructure for AI agents, with session management, screenshots, PDFs, proxies, and anti-bot tooling. #opensource
 - [Bifrost](https://github.com/maximhq/bifrost) [![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=flat)](https://github.com/maximhq/bifrost/stargazers) - An open-source LLM gateway with routing, load balancing, guardrails, and observability for 1000+ models. #opensource
+- [fal](https://fal.ai/) - A developer platform for accessing and deploying image, video, audio, and 3D generation models.
 
 ### Playgrounds
 

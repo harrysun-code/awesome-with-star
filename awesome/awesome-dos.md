@@ -133,7 +133,7 @@ platform.
 #### PC Speaker
 
 - [Making some noise with the PC speaker! - by Mark Feldman](https://web.archive.org/web/20150302161648/http://heim.ifi.uio.no/~inf3150/grupper/1/pcspeaker.html) - Very short tutorial on using the PIT for generating PC speaker frequency.
-- [Frequencies of Musical Notes](https://web.archive.org/web/20201129091353/https://pages.mtu.edu/~suits/notefreqs.html) - Freqency table usable to parameterize the PC speaker.
+- [Frequencies of Musical Notes](https://web.archive.org/web/20201129091353/https://pages.mtu.edu/~suits/notefreqs.html) - Frequency table usable to parameterize the PC speaker.
 - [Sound Programming with PC Speaker - Chapter 23 of A to Z of C](https://web.archive.org/web/20171115162742/http://guideme.itgo.com/atozofc/ch23.pdf) - PC speaker programming chapter of the "A to Z of C" book with source code.
 
 #### AdLib/OPL2
@@ -156,8 +156,8 @@ platform.
 
 ### Free
 
-- [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://web.archive.org/web/20221226120420/https://fabiensanglard.net/b/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero.
-- [Game Engine Black Book: Doom - by Fabien Sanglard](https://web.archive.org/web/20221225164613/https://fabiensanglard.net/b/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero.
+- [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://web.archive.org/web/20221226120420/https://fabiensanglard.net/b/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carmack, Tom Hall and John Romero.
+- [Game Engine Black Book: Doom - by Fabien Sanglard](https://web.archive.org/web/20221225164613/https://fabiensanglard.net/b/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carmack, Dave Taylor and John Romero.
 - [A to Z of C - a book on C/DOS programming by K. Joseph Wesley and R. Rajesh Jeba Anbiah](https://web.archive.org/web/20201109033646/http://guideme.itgo.com/atozofc/) - Non-profit book on programming in C on DOS. DOS system programming starts from Part II.
 - [Michael Abrash's Graphics Programming Black Book Special Edition](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919) - Collection of Michael Abrash's Dr. Dobb's Journal graphics programming articles and his work on the graphics subsystem of Quake ([mirror](https://web.archive.org/web/20201112020812/http://www.phatcode.net/res/224/files/html/index.html)).
 
@@ -186,7 +186,7 @@ platform.
 ### Open source DOS operating systems
 
 - [MS-DOS](https://github.com/microsoft/MS-DOS) [![GitHub stars](https://img.shields.io/github/stars/microsoft/MS-DOS?style=flat)](https://github.com/microsoft/MS-DOS/stargazers) - GitHub repository of the original source code for MS-DOS v1.25, v2.0 and v4.0, open-sourced by Microsoft.
-- [FreeDOS](https://www.freedos.org/) - FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
+- [FreeDOS](https://www.freedos.org/) - An open source DOS-compatible operating system for playing classic DOS games, running legacy business software, or developing embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
 
 ### Open source DOS libraries
 
@@ -202,7 +202,7 @@ platform.
 
 List of all homebrew DOS games: http://www.doshaven.eu
 
-- [DOS Defender](https://github.com/skeeto/dosdefender-ld31) [![GitHub stars](https://img.shields.io/github/stars/skeeto/dosdefender-ld31?style=flat)](https://github.com/skeeto/dosdefender-ld31/stargazers) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Lundum Dare #31.
+- [DOS Defender](https://github.com/skeeto/dosdefender-ld31) [![GitHub stars](https://img.shields.io/github/stars/skeeto/dosdefender-ld31?style=flat)](https://github.com/skeeto/dosdefender-ld31/stargazers) - Christopher Wellons's x86 real mode DOS Asteroids clone created as an entry for Ludum Dare #31.
 - [Dungeons of Noudar](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar) [![GitHub stars](https://img.shields.io/github/stars/TheFakeMontyOnTheRun/dungeons-of-noudar?style=flat)](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar/stargazers) - First-person 2.5D dungeon-crawler on protected mode. Written in C++, includes software rendering, fixed point math, test coverage and sound (PC speaker, Adlib, OPL2LPT).
 - [Emeritus Pong](https://sourceforge.net/projects/empong/) - Pong clone for DOS, Windows and Linux. Uses PC speaker for sound on DOS.
 - [Floppy Bird](https://github.com/icebreaker/floppybird) [![GitHub stars](https://img.shields.io/github/stars/icebreaker/floppybird?style=flat)](https://github.com/icebreaker/floppybird/stargazers) - Flappy Bird clone written in 16 bit assembly. Not a DOS program, but a PC-Booter application instead (although it's also possible to build a COM executable for DOS).
@@ -210,16 +210,16 @@ List of all homebrew DOS games: http://www.doshaven.eu
 - [Gold Mine Run!](https://www.usebox.net/jjm/gold-mine-run/) - Platformer written in C using DJGPP.
 - [Gridfighter 3D](https://porta2note.itch.io/gridfighter-3d) - '80s style arcade shooter written in Quickbasic. Also the very first known DOS game that supports Oculus Rift VR headset.
   - [GitHub repository](https://github.com/porta2note/gridfighter3d) [![GitHub stars](https://img.shields.io/github/stars/porta2note/gridfighter3d?style=flat)](https://github.com/porta2note/gridfighter3d/stargazers)
-- [Hangman](https://sourceforge.net/projects/hangman-dos/) - Hangman clone written in Basic. Runs on at least 80286 processors and uses EGA graphics.
+- [Hangman](https://sourceforge.net/projects/hangman-dos/) - A Hangman clone written in Basic. Runs on at least 80286 processors and uses EGA graphics.
 - [Magenta's Maze](https://archive.org/details/MAGSMAZE) - 3D maze game using CGA graphics with algebra as theme.
   - [Source code download link](http://www.doshaven.eu/downloads/537)
 - [Mario](http://www.wieringsoftware.nl/mario/index.html) - Super Mario Bros clone written in Turbo Pascal.
-- [NetHack](https://github.com/NetHack/NetHack) [![GitHub stars](https://img.shields.io/github/stars/NetHack/NetHack?style=flat)](https://github.com/NetHack/NetHack/stargazers) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
+- [NetHack](https://github.com/NetHack/NetHack) [![GitHub stars](https://img.shields.io/github/stars/NetHack/NetHack?style=flat)](https://github.com/NetHack/NetHack/stargazers) - Descendant of the original [NetHack](https://en.wikipedia.org/wiki/NetHack) roguelike game first released in 1987 available on multiple platforms.
 - [Piskworks](https://github.com/berk76/piskworks) [![GitHub stars](https://img.shields.io/github/stars/berk76/piskworks?style=flat)](https://github.com/berk76/piskworks/stargazers) - Gomoku clone written in C. Works on DOS, ZX Spectrum, ZX81, ZX80, APPLE1, AS400 and Windows.
 - [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) [![GitHub stars](https://img.shields.io/github/stars/jani-nykanen/plutonium-caverns?style=flat)](https://github.com/jani-nykanen/plutonium-caverns/stargazers) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) [![GitHub stars](https://img.shields.io/github/stars/dreamlayers/em-dosbox?style=flat)](https://github.com/dreamlayers/em-dosbox/stargazers) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
 - [Ptakovina](https://github.com/berk76/tetris) [![GitHub stars](https://img.shields.io/github/stars/berk76/tetris?style=flat)](https://github.com/berk76/tetris/stargazers) - Tetris clone written in C. Runs on DOS, Unix/Linux, ZX Spectrum and Windows.
 - [sudoku86](https://sourceforge.net/projects/sudoku86/) - Sudoku clone written in C. Runs on 8086/8088 CPU, uses CGA, MCGA or VGA graphics and uses a mouse.
-- [Tetris](http://www.doshaven.eu/game/tetris/) - Tetris clone written in assembly.
+- [Tetris](http://www.doshaven.eu/game/tetris/) - A Tetris clone written in assembly.
   - [Source code download link](http://www.doshaven.eu/downloads/373)
 - [Towers of Hanoi](https://github.com/sblendorio/hanoi-dos) [![GitHub stars](https://img.shields.io/github/stars/sblendorio/hanoi-dos?style=flat)](https://github.com/sblendorio/hanoi-dos/stargazers) - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) puzzle game written in Turbo Pascal. Originally released in 1996.
 - [x86 pong](https://github.com/spacerace/x86-pong) [![GitHub stars](https://img.shields.io/github/stars/spacerace/x86-pong?style=flat)](https://github.com/spacerace/x86-pong/stargazers) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
@@ -248,7 +248,7 @@ List of all homebrew DOS games: http://www.doshaven.eu
 - [Heretic](https://github.com/OpenSourcedGames/Heretic) [![GitHub stars](https://img.shields.io/github/stars/OpenSourcedGames/Heretic?style=flat)](https://github.com/OpenSourcedGames/Heretic/stargazers) - Dark fantasy FPS running on id Software's Doom engine.
 - [Hexen: Beyond Heretic](https://github.com/OpenSourcedGames/Hexen) [![GitHub stars](https://img.shields.io/github/stars/OpenSourcedGames/Hexen?style=flat)](https://github.com/OpenSourcedGames/Hexen/stargazers) - Indirect sequel to Heretic.
   - Original [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
-- [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D) [![GitHub stars](https://img.shields.io/github/stars/FlatRockSoft/Hovertank3D?style=flat)](https://github.com/FlatRockSoft/Hovertank3D/stargazers) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfeinstein 3D. Written in C and assembly.
+- [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D) [![GitHub stars](https://img.shields.io/github/stars/FlatRockSoft/Hovertank3D?style=flat)](https://github.com/FlatRockSoft/Hovertank3D/stargazers) - FPS developed by id Software. Features pseudo-3D graphics with raycasting technique, before Catacomb 3D and Wolfenstein 3D. Written in C and assembly.
 - [Quake](https://github.com/id-Software/Quake) [![GitHub stars](https://img.shields.io/github/stars/id-Software/Quake?style=flat)](https://github.com/id-Software/Quake/stargazers) - FPS developed by id Software set in a fully 3D world. Written in C. Compiled with DJGPP for DOS.
   - [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Code analysis by Fabien Sanglard.
 - [Rise of the Triad: Dark War](https://github.com/videogamepreservation/rott) [![GitHub stars](https://img.shields.io/github/stars/videogamepreservation/rott?style=flat)](https://github.com/videogamepreservation/rott/stargazers) - FPS developed by Apogee. It was developed as a follow-up to Wolfenstein 3D, but was altered and became a standalone game instead. Uses a heavily modified Wolfenstein 3D engine. Written in C.

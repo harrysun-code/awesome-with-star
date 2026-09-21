@@ -80,7 +80,7 @@
 - [VoiceInk](https://github.com/Beingpax/VoiceInk) [![GitHub stars](https://img.shields.io/github/stars/Beingpax/VoiceInk?style=flat)](https://github.com/Beingpax/VoiceInk/stargazers) - Dictation and transcription macOS app. (FOSS)
 - [Ito AI](https://github.com/heyito/ito) [![GitHub stars](https://img.shields.io/github/stars/heyito/ito?style=flat)](https://github.com/heyito/ito/stargazers) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) [![GitHub stars](https://img.shields.io/github/stars/Starmel/OpenSuperWhisper?style=flat)](https://github.com/Starmel/OpenSuperWhisper/stargazers) - Dictation app for macOS. (FOSS)
-- [Screenpipe](https://screenpi.pe) - 24/7 local screen and audio recording with AI search. (FOSS)
+- [Screenpipe](https://screenpipe.com) - Local screen and audio recording with Whisper transcription. (Source-available)
 
 ## Web apps
 

@@ -190,7 +190,6 @@ Things that work with project files or GameMaker itself rather than being someth
 - [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
 - [Rubber](https://github.com/GameMakerDiscord/Rubber) [![GitHub stars](https://img.shields.io/github/stars/GameMakerDiscord/Rubber?style=flat)](https://github.com/GameMakerDiscord/Rubber/stargazers) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 - [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
-- [vim-GML](https://github.com/JafarDakhan/vim-gml) [![GitHub stars](https://img.shields.io/github/stars/JafarDakhan/vim-gml?style=flat)](https://github.com/JafarDakhan/vim-gml/stargazers) - High quality Vim syntax highlighting for GameMaker.
 - [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) - Generate GML code from strongly-typed Haxe.
 - [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) - Makes games made in new GM versions run on Windows 7.
 - [RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) - Organizes audio files compiled games into subdirectories. 💸
@@ -286,7 +285,6 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [AESnips](https://github.com/angelwire/AESnips) [![GitHub stars](https://img.shields.io/github/stars/angelwire/AESnips?style=flat)](https://github.com/angelwire/AESnips/stargazers) - A sprite playback system.
 - [phgen](https://github.com/squircledev/phgen) [![GitHub stars](https://img.shields.io/github/stars/squircledev/phgen?style=flat)](https://github.com/squircledev/phgen/stargazers) - Placeholder asset generation.
-- [Disarm](https://github.com/NuxiiGit/disarm) [![GitHub stars](https://img.shields.io/github/stars/NuxiiGit/disarm?style=flat)](https://github.com/NuxiiGit/disarm/stargazers) - A spriter skeletal animation at runtime.
 - [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) [![GitHub stars](https://img.shields.io/github/stars/bscotch/stitch/tree/develop/packages/sprite-source?style=flat)](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source/stargazers) - Utilities for creating art asset pipelines.
 - [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/Pixel-Art-Upscaling?style=flat)](https://github.com/JujuAdams/Pixel-Art-Upscaling/stargazers) - Pixel art upscaling shader for awkward resolutions for GameMaker.
 - [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aseprite files in GameMaker.
@@ -498,7 +496,6 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
 - [Tony Str](https://tonystr.net/) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
-- [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 - [Thoughts On GameMaker](https://github.com/JujuAdams/ThoughtsOnGameMaker) [![GitHub stars](https://img.shields.io/github/stars/JujuAdams/ThoughtsOnGameMaker?style=flat)](https://github.com/JujuAdams/ThoughtsOnGameMaker/stargazers) - Not a traditional blog but has great info on different GML techniques.
 - [YellowAfterlife](https://yal.cc/category/gm/) - Tutorials on intermediate/advanced topics.

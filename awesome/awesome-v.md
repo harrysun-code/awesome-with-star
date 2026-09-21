@@ -184,6 +184,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Project management
 
+- [create-vlang-app](https://github.com/Create-Vlang-App/create-vlang-app) [![GitHub stars](https://img.shields.io/github/stars/Create-Vlang-App/create-vlang-app?style=flat)](https://github.com/Create-Vlang-App/create-vlang-app/stargazers) - A V-native scaffolding CLI to generate production-ready V projects from composable templates and extensions.
 - [Lenra template](https://github.com/lenra-io/template-v) [![GitHub stars](https://img.shields.io/github/stars/lenra-io/template-v?style=flat)](https://github.com/lenra-io/template-v/stargazers) - The Lenra template to write V app for Lenra platform.
 - [vset](https://github.com/mulh8377/vset) [![GitHub stars](https://img.shields.io/github/stars/mulh8377/vset?style=flat)](https://github.com/mulh8377/vset/stargazers) - A project setup and configuration tool for V projects.
 
@@ -254,7 +255,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 ### Database clients
 <!-- lint disable awesome-spell-check -->
 - [firebird](https://github.com/einar-hjortdal/firebird) [![GitHub stars](https://img.shields.io/github/stars/einar-hjortdal/firebird?style=flat)](https://github.com/einar-hjortdal/firebird/stargazers) - Client for Firebird SQL.
-- [leveldb](https://github.com/vlang/leveldb) [![GitHub stars](https://img.shields.io/github/stars/vlang/leveldb?style=flat)](https://github.com/vlang/leveldb/stargazers) - LevelDB implementation in pure V.
+- [leveldb](https://github.com/vlang/leveldb) [![GitHub stars](https://img.shields.io/github/stars/vlang/leveldb?style=flat)](https://github.com/vlang/leveldb/stargazers) - Pure V implementation of LevelDB.
 - [mongodb](https://github.com/vlang/mongo) [![GitHub stars](https://img.shields.io/github/stars/vlang/mongo?style=flat)](https://github.com/vlang/mongo/stargazers) - A MongoDB driver for V.
 - [redict](https://github.com/einar-hjortdal/redict) [![GitHub stars](https://img.shields.io/github/stars/einar-hjortdal/redict?style=flat)](https://github.com/einar-hjortdal/redict/stargazers) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis](https://github.com/patrickpissurno/vredis) [![GitHub stars](https://img.shields.io/github/stars/patrickpissurno/vredis?style=flat)](https://github.com/patrickpissurno/vredis/stargazers) - A Redis client for V, written in V.
@@ -327,6 +328,8 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [netr](https://github.com/tailsmails/netr) [![GitHub stars](https://img.shields.io/github/stars/tailsmails/netr?style=flat)](https://github.com/tailsmails/netr/stargazers) - A modular, zero-dependency raw socket and network packet crafting library written in V.
 - [vibe](https://github.com/tobealive/vibe) [![GitHub stars](https://img.shields.io/github/stars/tobealive/vibe?style=flat)](https://github.com/tobealive/vibe/stargazers) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) [![GitHub stars](https://img.shields.io/github/stars/jordan-bonecutter/vmq?style=flat)](https://github.com/jordan-bonecutter/vmq/stargazers) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
+- [webrtc-v](https://github.com/bedrock-v/webrtc-v) [![GitHub stars](https://img.shields.io/github/stars/bedrock-v/webrtc-v?style=flat)](https://github.com/bedrock-v/webrtc-v/stargazers) - A pure V implementation of the WebRTC protocol stack.
+- [raknet](https://github.com/bedrock-v/raknet) [![GitHub stars](https://img.shields.io/github/stars/bedrock-v/raknet?style=flat)](https://github.com/bedrock-v/raknet/stargazers) - A V implementation of the classic RakNet protocol used by Minecraft: Bedrock Edition.
 
 ### Operating system
 

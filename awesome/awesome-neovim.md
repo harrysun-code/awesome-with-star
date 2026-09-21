@@ -338,6 +338,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [sachinsenal0x64/hot.nvim](https://github.com/sachinsenal0x64/hot.nvim) [![GitHub stars](https://img.shields.io/github/stars/sachinsenal0x64/hot.nvim?style=flat)](https://github.com/sachinsenal0x64/hot.nvim/stargazers) - A hot reloader that works with any programming language.
 - [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) [![GitHub stars](https://img.shields.io/github/stars/simonwinther/cppman.nvim?style=flat)](https://github.com/simonwinther/cppman.nvim/stargazers) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 - [redpierrot/ballerina.nvim](https://github.com/redpierrot/ballerina.nvim) [![GitHub stars](https://img.shields.io/github/stars/redpierrot/ballerina.nvim?style=flat)](https://github.com/redpierrot/ballerina.nvim/stargazers) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
+- [jgonmor16/hdlsnip.nvim](https://github.com/jgonmor16/hdlsnip.nvim) [![GitHub stars](https://img.shields.io/github/stars/jgonmor16/hdlsnip.nvim?style=flat)](https://github.com/jgonmor16/hdlsnip.nvim/stargazers) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 
 ### Golang
 
@@ -378,6 +379,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ### Markdown and LaTeX
 
+- [the-mayankjha/fk_markdown.nvim](https://github.com/the-mayankjha/fk_markdown.nvim) [![GitHub stars](https://img.shields.io/github/stars/the-mayankjha/fk_markdown.nvim?style=flat)](https://github.com/the-mayankjha/fk_markdown.nvim/stargazers) - Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.nvim?style=flat)](https://github.com/iamcco/markdown-preview.nvim/stargazers) - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) [![GitHub stars](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview?style=flat)](https://github.com/davidgranstrom/nvim-markdown-preview/stargazers) - Markdown preview in the browser using pandoc and live-server through the job-control API.
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) [![GitHub stars](https://img.shields.io/github/stars/jghauser/auto-pandoc.nvim?style=flat)](https://github.com/jghauser/auto-pandoc.nvim/stargazers) - Easy pandoc conversion leveraging YAML blocks.
@@ -1089,6 +1091,7 @@ then it is not supported:
 - [mahyarmirrashed/famous-quotes.nvim](https://github.com/mahyarmirrashed/famous-quotes.nvim) [![GitHub stars](https://img.shields.io/github/stars/mahyarmirrashed/famous-quotes.nvim?style=flat)](https://github.com/mahyarmirrashed/famous-quotes.nvim/stargazers) - Get famous quotes from history to display on startup.
 - [iquzart/toggleword.nvim](https://github.com/iquzart/toggleword.nvim) [![GitHub stars](https://img.shields.io/github/stars/iquzart/toggleword.nvim?style=flat)](https://github.com/iquzart/toggleword.nvim/stargazers) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 - [leblocks/toggle.nvim](https://github.com/leblocks/toggle.nvim) [![GitHub stars](https://img.shields.io/github/stars/leblocks/toggle.nvim?style=flat)](https://github.com/leblocks/toggle.nvim/stargazers) - Toggle between common words under the cursor such as _public_ ⇄ _private_ ⇄ _protected_. Easy to add and overwrite built-in toggles.
+- [javanoo6/persist-toggle.nvim](https://github.com/javanoo6/persist-toggle.nvim) [![GitHub stars](https://img.shields.io/github/stars/javanoo6/persist-toggle.nvim?style=flat)](https://github.com/javanoo6/persist-toggle.nvim/stargazers) - Persistent registry for runtime toggle states and preferences.
 - [piersolenski/brewfile.nvim](https://github.com/piersolenski/brewfile.nvim) [![GitHub stars](https://img.shields.io/github/stars/piersolenski/brewfile.nvim?style=flat)](https://github.com/piersolenski/brewfile.nvim/stargazers) - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 - [gpanders/nvim-moonwalk](https://github.com/gpanders/nvim-moonwalk) [![GitHub stars](https://img.shields.io/github/stars/gpanders/nvim-moonwalk?style=flat)](https://github.com/gpanders/nvim-moonwalk/stargazers) - Use any language that compiles to Lua anywhere in your configuration.
 - [johannww/tts.nvim](https://github.com/johannww/tts.nvim) [![GitHub stars](https://img.shields.io/github/stars/johannww/tts.nvim?style=flat)](https://github.com/johannww/tts.nvim/stargazers) - Text to speech tool based on the Microsoft Edge online services.
@@ -1118,13 +1121,14 @@ then it is not supported:
 
 ## Animation
 
-- [LuxVim/nvim-luxmotion](https://github.com/LuxVim/nvim-luxmotion) [![GitHub stars](https://img.shields.io/github/stars/LuxVim/nvim-luxmotion?style=flat)](https://github.com/LuxVim/nvim-luxmotion/stargazers) - Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
+- [josstei/whisk.nvim](https://github.com/josstei/whisk.nvim) [![GitHub stars](https://img.shields.io/github/stars/josstei/whisk.nvim?style=flat)](https://github.com/josstei/whisk.nvim/stargazers) - Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) [![GitHub stars](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim?style=flat)](https://github.com/sphamba/smear-cursor.nvim/stargazers) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 - [nvim-mini/mini.nvim#mini.animate](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md/stargazers) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
 - [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim/) [![GitHub stars](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim/?style=flat)](https://github.com/rachartier/tiny-glimmer.nvim//stargazers) - Adds subtle animations to various operations.
 - [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim/) [![GitHub stars](https://img.shields.io/github/stars/y3owk1n/undo-glow.nvim/?style=flat)](https://github.com/y3owk1n/undo-glow.nvim//stargazers) - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 - [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) [![GitHub stars](https://img.shields.io/github/stars/gen740/SmoothCursor.nvim?style=flat)](https://github.com/gen740/SmoothCursor.nvim/stargazers) - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 - [indium114/smudge.nvim](https://github.com/indium114/smudge.nvim) [![GitHub stars](https://img.shields.io/github/stars/indium114/smudge.nvim?style=flat)](https://github.com/indium114/smudge.nvim/stargazers) - Performant cursor animations.
+- [RedEye-Developers/starfall.nvim](https://github.com/RedEye-Developers/starfall.nvim) [![GitHub stars](https://img.shields.io/github/stars/RedEye-Developers/starfall.nvim?style=flat)](https://github.com/RedEye-Developers/starfall.nvim/stargazers) - Star twinkling, falling and shooting star crossing animation in background.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1256,6 +1260,7 @@ then it is not supported:
 - [lewistg/pesto.nvim](https://github.com/lewistg/pesto.nvim) [![GitHub stars](https://img.shields.io/github/stars/lewistg/pesto.nvim?style=flat)](https://github.com/lewistg/pesto.nvim/stargazers) - - Bazel integration through its _Build Event Protocol_ to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 - [wsdjeg/tasks.nvim](https://github.com/wsdjeg/tasks.nvim) [![GitHub stars](https://img.shields.io/github/stars/wsdjeg/tasks.nvim?style=flat)](https://github.com/wsdjeg/tasks.nvim/stargazers) - A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.
 - [JulOuellet/bzl.nvim](https://github.com/JulOuellet/bzl.nvim) [![GitHub stars](https://img.shields.io/github/stars/JulOuellet/bzl.nvim?style=flat)](https://github.com/JulOuellet/bzl.nvim/stargazers) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
+- [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1655,6 +1660,7 @@ then it is not supported:
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) [![GitHub stars](https://img.shields.io/github/stars/gelguy/wilder.nvim?style=flat)](https://github.com/gelguy/wilder.nvim/stargazers) - A plugin for fuzzy command line autocompletion.
 - [vzze/cmdline.nvim](https://github.com/vzze/cmdline.nvim) [![GitHub stars](https://img.shields.io/github/stars/vzze/cmdline.nvim?style=flat)](https://github.com/vzze/cmdline.nvim/stargazers) - Helix-like command line with fuzzy autocompletion.
 - [nvim-mini/mini.nvim#mini.cmdline](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md/stargazers) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
+- [juniorsundar/cling.nvim](https://github.com/juniorsundar/cling.nvim) [![GitHub stars](https://img.shields.io/github/stars/juniorsundar/cling.nvim?style=flat)](https://github.com/juniorsundar/cling.nvim/stargazers) - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

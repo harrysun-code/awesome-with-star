@@ -146,6 +146,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Footprint Collection](https://github.com/kitspace/kicad_footprints) [![GitHub stars](https://img.shields.io/github/stars/kitspace/kicad_footprints?style=flat)](https://github.com/kitspace/kicad_footprints/stargazers) - Collection of all the KiCad footprints available online and some scripts to manage them.
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) [![GitHub stars](https://img.shields.io/github/stars/openscopeproject/InteractiveHtmlBom?style=flat)](https://github.com/openscopeproject/InteractiveHtmlBom/stargazers) - A html BOM generation tool for manual pick and place.
 - [KiBot](https://github.com/INTI-CMNB/KiBot) [![GitHub stars](https://img.shields.io/github/stars/INTI-CMNB/KiBot?style=flat)](https://github.com/INTI-CMNB/KiBot/stargazers) - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+- [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) [![GitHub stars](https://img.shields.io/github/stars/way2pramil/awesome-kicad-projects?style=flat)](https://github.com/way2pramil/awesome-kicad-projects/stargazers) - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)

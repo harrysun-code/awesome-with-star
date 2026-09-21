@@ -203,6 +203,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 - [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) [![GitHub stars](https://img.shields.io/github/stars/sudheerj/vuejs-interview-questions?style=flat)](https://github.com/sudheerj/vuejs-interview-questions/stargazers) - A List of 300 VueJS Interview Questions and Answers
+- [Jobs in JS](https://jobsinjs.com/vue-developer-jobs/) - Vue.js developer jobs in the US, Canada and UK. Updated daily.
 
 ### Community
 
@@ -580,6 +581,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [JARVIS](https://github.com/hyhmrright/JARVIS) [![GitHub stars](https://img.shields.io/github/stars/hyhmrright/JARVIS?style=flat)](https://github.com/hyhmrright/JARVIS/stargazers) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 - [Simple IoT](https://github.com/dingdaoyi/simple-iot) [![GitHub stars](https://img.shields.io/github/stars/dingdaoyi/simple-iot?style=flat)](https://github.com/dingdaoyi/simple-iot/stargazers) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
 - [MarkerOn](https://github.com/ifer47/markeron) [![GitHub stars](https://img.shields.io/github/stars/ifer47/markeron?style=flat)](https://github.com/ifer47/markeron/stargazers) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+- [AI Gist](https://github.com/yarin-zhang/AI-Gist) [![GitHub stars](https://img.shields.io/github/stars/yarin-zhang/AI-Gist?style=flat)](https://github.com/yarin-zhang/AI-Gist/stargazers) - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
+- [DentalPin](https://github.com/martinezsalmeron/dentalpin) [![GitHub stars](https://img.shields.io/github/stars/martinezsalmeron/dentalpin?style=flat)](https://github.com/martinezsalmeron/dentalpin/stargazers) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
 
 ### Commercial Products
 
@@ -754,6 +757,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
+- [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
 
 ### Interactive Experiences
 
@@ -866,6 +870,7 @@ _UI frameworks for mobile_
 - [Ionic](https://github.com/ionic-team/ionic-framework) [![GitHub stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=flat)](https://github.com/ionic-team/ionic-framework/stargazers) - Mobile app development framework
 - [Native script](https://github.com/nativescript-vue/nativescript-vue) [![GitHub stars](https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=flat)](https://github.com/nativescript-vue/nativescript-vue/stargazers) - Native mobile applications using NativeScript
 - [uni-app](https://github.com/dcloudio/uni-app) [![GitHub stars](https://img.shields.io/github/stars/dcloudio/uni-app?style=flat)](https://github.com/dcloudio/uni-app/stargazers) - A cross-platform framework using Vue.js
+- [Vue Lynx](https://vue.lynxjs.org) - A Vue 3 custom renderer for [Lynx](https://lynxjs.org), rendering to native iOS and Android views and compiling to web from one codebase.
 
 _Set of components for mobile_
 
@@ -873,6 +878,7 @@ _Set of components for mobile_
 - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
 - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
 - [NutUI](https://github.com/jdf2e/nutui/) [![GitHub stars](https://img.shields.io/github/stars/jdf2e/nutui/?style=flat)](https://github.com/jdf2e/nutui//stargazers) - A Vue.js 2.0 UI Toolkit for Mobile Web
+- [Vy UI](https://vyui.dev) - Headless primitives and styled components for Vue Lynx, with a shadcn-style CLI for copying component source into your project.
 
 #### Component Collections
 
@@ -920,6 +926,7 @@ _Set of admin template_
 - [VuePress](https://github.com/vuejs/vuepress) [![GitHub stars](https://img.shields.io/github/stars/vuejs/vuepress?style=flat)](https://github.com/vuejs/vuepress/stargazers) - Minimalistic Vue-powered static site generator.
 - [îles](https://github.com/ElMassimo/iles) [![GitHub stars](https://img.shields.io/github/stars/ElMassimo/iles?style=flat)](https://github.com/ElMassimo/iles/stargazers) - Islands of interactivity, the joyful site generator
 - [VitePress](https://github.com/vuejs/vitepress) [![GitHub stars](https://img.shields.io/github/stars/vuejs/vitepress?style=flat)](https://github.com/vuejs/vitepress/stargazers) - Vite & Vue powered static site generator.
+- [Bloggrify](https://github.com/bloggrify/bloggrify) [![GitHub stars](https://img.shields.io/github/stars/bloggrify/bloggrify?style=flat)](https://github.com/bloggrify/bloggrify/stargazers) - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
 
 #### Other
 
@@ -1074,6 +1081,7 @@ _Display time / date / age_
 
 - [v-idle](https://github.com/malekim/v-idle) [![GitHub stars](https://img.shields.io/github/stars/malekim/v-idle?style=flat)](https://github.com/malekim/v-idle/stargazers) - A Vue.js plugin to detect idle/non-active users.
 - [vue-timer-hook](https://github.com/riderx/vue-timer-hook) [![GitHub stars](https://img.shields.io/github/stars/riderx/vue-timer-hook?style=flat)](https://github.com/riderx/vue-timer-hook/stargazers) - Vue 3 Timer module inspired by react-timer-hook
+- [Clock UI](https://github.com/clock-ui/clock-ui) [![GitHub stars](https://img.shields.io/github/stars/clock-ui/clock-ui?style=flat)](https://github.com/clock-ui/clock-ui/stargazers) - Accurate analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
 
 #### Calendar
 
@@ -1097,12 +1105,14 @@ _Display non-editable events in a Calendar_
 - [@vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) [![GitHub stars](https://img.shields.io/github/stars/vue-leaflet/vue-leaflet?style=flat)](https://github.com/vue-leaflet/vue-leaflet/stargazers) - Vue 3 components for Leaflet (1.x) maps.
 - [@maxel01/vue-leaflet](https://github.com/maxel01/vue-leaflet) [![GitHub stars](https://img.shields.io/github/stars/maxel01/vue-leaflet?style=flat)](https://github.com/maxel01/vue-leaflet/stargazers) - Vue 3 components for Leaflet (2.x) maps.
 - [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) [![GitHub stars](https://img.shields.io/github/stars/MapMetrics/mapmetrics-gl?style=flat)](https://github.com/MapMetrics/mapmetrics-gl/stargazers) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
-- [vue3-map-chart](https://github.com/noeGnh/vue3-map-chart) [![GitHub stars](https://img.shields.io/github/stars/noeGnh/vue3-map-chart?style=flat)](https://github.com/noeGnh/vue3-map-chart/stargazers) - Vue 3 components for displaying dynamic data on a world, continents, countries and custom maps.
+- [map-chart](https://github.com/noeGnh/map-chart) [![GitHub stars](https://img.shields.io/github/stars/noeGnh/map-chart?style=flat)](https://github.com/noeGnh/map-chart/stargazers) - Vue 3 and React components for displaying dynamic data on a world, continents, countries and custom maps.
 
 #### Audio / Video
 
+- [vue-aliplay-player](https://github.com/Jabo2017/vue-aliplay-player) [![GitHub stars](https://img.shields.io/github/stars/Jabo2017/vue-aliplay-player?style=flat)](https://github.com/Jabo2017/vue-aliplay-player/stargazers) - Vue 3 wrapper for Aliplayer (Alibaba Cloud video player) with TypeScript support.
 - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) [![GitHub stars](https://img.shields.io/github/stars/staskobzar/vue-audio-visual?style=flat)](https://github.com/staskobzar/vue-audio-visual/stargazers) - Vue HTML5 audio visualization components.
 - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) [![GitHub stars](https://img.shields.io/github/stars/cycjimmy/vue-h5-audio-controls?style=flat)](https://github.com/cycjimmy/vue-h5-audio-controls/stargazers) - A simple h5 music controller for Vue.
+- [vue-super-player](https://github.com/Jabo2017/vue-super-player) [![GitHub stars](https://img.shields.io/github/stars/Jabo2017/vue-super-player?style=flat)](https://github.com/Jabo2017/vue-super-player/stargazers) - Multi-kernel video player component for Vue 3 (native / HLS / FLV / Aliplayer).
 - [vue-use-sound](https://github.com/vueuse/sound) [![GitHub stars](https://img.shields.io/github/stars/vueuse/sound?style=flat)](https://github.com/vueuse/sound/stargazers) - A Vue Hook for playing sound effects.
 - [Vue-Player](https://github.com/display-design-studio/vue-player) [![GitHub stars](https://img.shields.io/github/stars/display-design-studio/vue-player?style=flat)](https://github.com/display-design-studio/vue-player/stargazers) - Lightweight, customizable, and easy-to-implement vue video player.
 
@@ -1176,7 +1186,7 @@ _Display non-editable events in a Calendar_
 - [vue-progress-circle](https://github.com/keiwen/vue-progress-circle) [![GitHub stars](https://img.shields.io/github/stars/keiwen/vue-progress-circle?style=flat)](https://github.com/keiwen/vue-progress-circle/stargazers) - Circle progress bar component for vue3
 - [vue-awesome-button](https://github.com/rcaferati/vue-awesome-button) [![GitHub stars](https://img.shields.io/github/stars/rcaferati/vue-awesome-button?style=flat)](https://github.com/rcaferati/vue-awesome-button/stargazers) - Vue 3D button components with progress states, social sharing, themes, and animated transitions.
 - [vuehex](https://github.com/vvollers/vuehex) [![GitHub stars](https://img.shields.io/github/stars/vvollers/vuehex?style=flat)](https://github.com/vvollers/vuehex/stargazers) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
-- [vue3-icon-picker](https://github.com/noeGnh/vue3-icon-picker) [![GitHub stars](https://img.shields.io/github/stars/noeGnh/vue3-icon-picker?style=flat)](https://github.com/noeGnh/vue3-icon-picker/stargazers) Icon picker component for Vue 3.
+- [icon-picker](https://github.com/noeGnh/icon-picker) [![GitHub stars](https://img.shields.io/github/stars/noeGnh/icon-picker?style=flat)](https://github.com/noeGnh/icon-picker/stargazers) component libraries for Vue 3 and React, both searching icons live from Iconify (150+ icon sets, 200,000+ icons).
 - [custom-highlight](https://github.com/roydukkey/custom-highlight) [![GitHub stars](https://img.shields.io/github/stars/roydukkey/custom-highlight?style=flat)](https://github.com/roydukkey/custom-highlight/stargazers) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
 
 #### Tabs
@@ -1213,6 +1223,7 @@ _Date / datetime / time Picker_
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) [![GitHub stars](https://img.shields.io/github/stars/mathieustan/vue-datepicker?style=flat)](https://github.com/mathieustan/vue-datepicker/stargazers) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [vue-timepicker](https://github.com/manos02/vue3-time-picker) [![GitHub stars](https://img.shields.io/github/stars/manos02/vue3-time-picker?style=flat)](https://github.com/manos02/vue3-time-picker/stargazers) - A lightweight, customizable timepicker component for Vue 3 with TypeScript support. Supports single/range selection, multiple formats, easy styling, validation and more.
 - [vue-month-spinner-picker](https://github.com/jlc488/vue-month-spinner-picker) [![GitHub stars](https://img.shields.io/github/stars/jlc488/vue-month-spinner-picker?style=flat)](https://github.com/jlc488/vue-month-spinner-picker/stargazers) - iOS-style drum-roll month picker for Vue 3. Inertia scrolling, bottom sheet modal, min/max constraints, i18n and theming via CSS variables. Zero dependencies.
+- [vue-date-rail](https://github.com/devslab-kr/vue-date-rail) [![GitHub stars](https://img.shields.io/github/stars/devslab-kr/vue-date-rail?style=flat)](https://github.com/devslab-kr/vue-date-rail/stargazers) - Horizontal infinite-scroll date rail (day/month strip) picker for Vue 3. Headless composable core, Intl-based i18n, min/max & disabled dates, event marker slot, desktop wheel/drag scrolling, Tailwind-ready unstyled mode. Zero dependencies.
 
 ##### Select
 
@@ -1260,6 +1271,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-r-mask](https://github.com/raidan00/vue-r-mask) [![GitHub stars](https://img.shields.io/github/stars/raidan00/vue-r-mask?style=flat)](https://github.com/raidan00/vue-r-mask/stargazers) - Directive with template similar to javascript regular expression.
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) [![GitHub stars](https://img.shields.io/github/stars/dm4t2/vue-currency-input?style=flat)](https://github.com/dm4t2/vue-currency-input/stargazers) - Easy input of currency formatted numbers for Vue.js.
 - [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) [![GitHub stars](https://img.shields.io/github/stars/RonaldJerez/vue-input-facade?style=flat)](https://github.com/RonaldJerez/vue-input-facade/stargazers) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous _vue-text-mask_ but actively maintained and with lots of improvements after there.
+- [numkey](https://github.com/devslab-kr/numkey) [![GitHub stars](https://img.shields.io/github/stars/devslab-kr/numkey?style=flat)](https://github.com/devslab-kr/numkey/stargazers) - Numeric input formatting for Vue 3 — live thousands grouping with a stable caret, string-first canonical v-model (money-safe), leading-zero cleanup, opt-in locale separators and Korean amount reading. [Demo](https://devslab-kr.github.io/numkey/)
 
 ##### Rich Text Editing
 
@@ -1268,6 +1280,7 @@ _Switch / on/off toggle / checkbox_
 - [tiptap](https://github.com/heyscrumpy/tiptap) [![GitHub stars](https://img.shields.io/github/stars/heyscrumpy/tiptap?style=flat)](https://github.com/heyscrumpy/tiptap/stargazers) - A renderless and extendable rich-text editor for Vue.js
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) [![GitHub stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-vue?style=flat)](https://github.com/ckeditor/ckeditor5-vue/stargazers) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-quilly](https://github.com/alekswebnet/vue-quilly) [![GitHub stars](https://img.shields.io/github/stars/alekswebnet/vue-quilly?style=flat)](https://github.com/alekswebnet/vue-quilly/stargazers) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
+- [blok](https://github.com/JackUait/blok) [![GitHub stars](https://img.shields.io/github/stars/JackUait/blok?style=flat)](https://github.com/JackUait/blok/stargazers) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
 
 ##### Image Manipulation
 
@@ -1300,6 +1313,7 @@ _Display images_
 - [v-use-places-autocomplete](https://github.com/wobsoriano/v-use-places-autocomplete) [![GitHub stars](https://img.shields.io/github/stars/wobsoriano/v-use-places-autocomplete?style=flat)](https://github.com/wobsoriano/v-use-places-autocomplete/stargazers) - 📍 Vue composable for Google Maps Places Autocomplete.
 - [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) [![GitHub stars](https://img.shields.io/github/stars/webdevnerdstuff/vuetify-inline-fields?style=flat)](https://github.com/webdevnerdstuff/vuetify-inline-fields/stargazers) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 - [vue-integer-plusminus](https://github.com/keiwen/vue-integer-plusminus) [![GitHub stars](https://img.shields.io/github/stars/keiwen/vue-integer-plusminus?style=flat)](https://github.com/keiwen/vue-integer-plusminus/stargazers) - Integer input component for vue3 with increment and decrement buttons, fitting as spinbutton, allowing keyboard functionalities
+- [kokey](https://github.com/devslab-kr/kokey) [![GitHub stars](https://img.shields.io/github/stars/devslab-kr/kokey?style=flat)](https://github.com/devslab-kr/kokey/stargazers) - Wrong-keyboard-layout input fixer — v-kokey directive and KokeyInput component restore text typed with the wrong layout (Korean Dubeolsik IME built in; Russian, Hebrew, Thai and more as subpath imports), composition-safe with caret preserved. [Demo](https://devslab-kr.github.io/kokey/)
 
 ##### Wizard
 
@@ -1338,6 +1352,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [Form Builder](https://github.com/laravel-enso/formbuilder) [![GitHub stars](https://img.shields.io/github/stars/laravel-enso/formbuilder?style=flat)](https://github.com/laravel-enso/formbuilder/stargazers) - Json template based form builder, based on Vue and Laravel.
 - [vue-autofocus-directive](https://github.com/Botre/vue-autofocus-directive) [![GitHub stars](https://img.shields.io/github/stars/Botre/vue-autofocus-directive?style=flat)](https://github.com/Botre/vue-autofocus-directive/stargazers) - Vue autofocus directive.
 - [FormKit](https://github.com/formkit/formkit) [![GitHub stars](https://img.shields.io/github/stars/formkit/formkit?style=flat)](https://github.com/formkit/formkit/stargazers) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
+- [jsonschema-editor](https://github.com/eumicro/jsonschema-editor) [![GitHub stars](https://img.shields.io/github/stars/eumicro/jsonschema-editor?style=flat)](https://github.com/eumicro/jsonschema-editor/stargazers) - JSON Schema and UI Schema form editor for Vue 3, with fillable forms, nested structures, and oneOf type selection.
 - [vrf](https://github.com/dimailn/vrf) [![GitHub stars](https://img.shields.io/github/stars/dimailn/vrf?style=flat)](https://github.com/dimailn/vrf/stargazers) - Declarative scalable ui-agnostic markup-based Vue forms.
 - [tracked-instance](https://github.com/rudnik275/tracked-instance) [![GitHub stars](https://img.shields.io/github/stars/rudnik275/tracked-instance?style=flat)](https://github.com/rudnik275/tracked-instance/stargazers) - Build large forms and track all changes.
 - [Vorm](https://github.com/Flo0806/vorm) [![GitHub stars](https://img.shields.io/github/stars/Flo0806/vorm?style=flat)](https://github.com/Flo0806/vorm/stargazers) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
@@ -1383,6 +1398,7 @@ _Detect when components enter viewport_
 - [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) [![GitHub stars](https://img.shields.io/github/stars/posva/unplugin-vue-router?style=flat)](https://github.com/posva/unplugin-vue-router/stargazers) - Next Generation file based typed routing for Vue Router.
 - [vite-plugin-vue-middleware](https://github.com/awdr74100/vite-plugin-vue-middleware) [![GitHub stars](https://img.shields.io/github/stars/awdr74100/vite-plugin-vue-middleware?style=flat)](https://github.com/awdr74100/vite-plugin-vue-middleware/stargazers) - File-based navigation guards for Vue Router
 - [vue-router-citadel](https://github.com/Kassaila/vue-router-citadel) [![GitHub stars](https://img.shields.io/github/stars/Kassaila/vue-router-citadel?style=flat)](https://github.com/Kassaila/vue-router-citadel/stargazers) - A middleware-driven navigation control system for Vue Router.
+- [ufbr] - An Universal File Based Router with Vuejs support.
 
 #### Lazy Load
 
@@ -1493,6 +1509,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-intlayer](https://github.com/aymericzip/intlayer) [![GitHub stars](https://img.shields.io/github/stars/aymericzip/intlayer?style=flat)](https://github.com/aymericzip/intlayer/stargazers) - Intlayer i18n solution for vue 3.
 - [vue-tiny-translation](https://github.com/makio64/vue-tiny-translation) [![GitHub stars](https://img.shields.io/github/stars/makio64/vue-tiny-translation?style=flat)](https://github.com/makio64/vue-tiny-translation/stargazers) - Super lightweight (0.32KB) reactive translation plugin for Vue 3. [Demo](https://vue-tiny-translation.netlify.app/)
 - [Loccy](https://loccy.dev) - Effortless Vue-i18n management in VS Code-based editors, featuring smart AI translations and key suggestions.
+- [@i18n-micro/vue](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue) [![GitHub stars](https://img.shields.io/github/stars/s00d/nuxt-i18n-micro/tree/main/packages/vue?style=flat)](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue/stargazers) - Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.
 
 #### Custom Events
 
@@ -1576,6 +1593,8 @@ _Utilities for building / compiling / bundling / loading assets_
 
 Payment utilities.
 
+- [crd-ui](https://github.com/JuandaGarcia/crd-ui) [![GitHub stars](https://img.shields.io/github/stars/JuandaGarcia/crd-ui?style=flat)](https://github.com/JuandaGarcia/crd-ui/stargazers) - Credit and debit card visualization for payment forms and saved-card views, with live brand detection and a 3D flip. Zero dependencies.
+
 ##### Stripe
 
 - [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) [![GitHub stars](https://img.shields.io/github/stars/jofftiquez/vue-stripe-checkout?style=flat)](https://github.com/jofftiquez/vue-stripe-checkout/stargazers) - A simple vue plugin for Stripe checkout.
@@ -1592,6 +1611,7 @@ _Integrate with services or other frameworks_
 - [vue-tg](https://github.com/deptyped/vue-telegram) [![GitHub stars](https://img.shields.io/github/stars/deptyped/vue-telegram?style=flat)](https://github.com/deptyped/vue-telegram/stargazers) - Telegram Web Apps integration for Vue 3.
 - [@rollgate/sdk-vue](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) [![GitHub stars](https://img.shields.io/github/stars/rollgate/sdks/tree/main/packages/sdk-vue?style=flat)](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue/stargazers) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 - [@agentskit/vue](https://github.com/AgentsKit-io/agentskit) [![GitHub stars](https://img.shields.io/github/stars/AgentsKit-io/agentskit?style=flat)](https://github.com/AgentsKit-io/agentskit/stargazers) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
+- [recaptcha-vue](https://github.com/Souhailmakni/recaptcha-vue) [![GitHub stars](https://img.shields.io/github/stars/Souhailmakni/recaptcha-vue?style=flat)](https://github.com/Souhailmakni/recaptcha-vue/stargazers) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
 
 #### Vue CLI Plugins
 
@@ -1610,6 +1630,7 @@ _Integrate with services or other frameworks_
 - [Vue Mess Detector](https://github.com/rrd108/vue-mess-detector) [![GitHub stars](https://img.shields.io/github/stars/rrd108/vue-mess-detector?style=flat)](https://github.com/rrd108/vue-mess-detector/stargazers) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 - [Vue Log Arsenal](https://github.com/MvdZon/Vue3-log-arsenal) [![GitHub stars](https://img.shields.io/github/stars/MvdZon/Vue3-log-arsenal?style=flat)](https://github.com/MvdZon/Vue3-log-arsenal/stargazers) - Lightweight Vue 3 plugin providing logging directives for easier debugging
 - [PocketMocker](https://github.com/tianchangNorth/pocket-mocker) [![GitHub stars](https://img.shields.io/github/stars/tianchangNorth/pocket-mocker?style=flat)](https://github.com/tianchangNorth/pocket-mocker/stargazers) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
+- [Poveste](https://github.com/poveste-dev/poveste) [![GitHub stars](https://img.shields.io/github/stars/poveste-dev/poveste?style=flat)](https://github.com/poveste-dev/poveste/stargazers) - Interactive component playgrounds powered by Vite. A drop-in fork of histoire, with Vue 3 and Nuxt support.
 
 #### Inspect
 
@@ -1675,6 +1696,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-x-platforms](https://github.com/NativeScript/vue-x-platforms) [![GitHub stars](https://img.shields.io/github/stars/NativeScript/vue-x-platforms?style=flat)](https://github.com/NativeScript/vue-x-platforms/stargazers) - Vue running on Web, iOS, Android and Vision Pro.
 - [mevn-boilerplate](https://github.com/mustafacagri/mevn-boilerplate) [![GitHub stars](https://img.shields.io/github/stars/mustafacagri/mevn-boilerplate?style=flat)](https://github.com/mustafacagri/mevn-boilerplate/stargazers) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 - [monorepo-template](https://github.com/Nagell/monorepo_template) [![GitHub stars](https://img.shields.io/github/stars/Nagell/monorepo_template?style=flat)](https://github.com/Nagell/monorepo_template/stargazers) - 🗂️ Vue 3 monorepo template with pnpm, Nx, Vite, Tailwind CSS, Storybook, TypeScript, and ready-to-use shared libraries.
+- [Extension.js](https://github.com/extension-js/extension.js) [![GitHub stars](https://img.shields.io/github/stars/extension-js/extension.js?style=flat)](https://github.com/extension-js/extension.js/stargazers) - Build cross-browser extensions with Vue, no config, one manifest for Chrome, Edge, Firefox and Safari.
 
 #### Universal
 
@@ -1689,6 +1711,7 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) [![GitHub stars](https://img.shields.io/github/stars/electron-vite/electron-vite-vue?style=flat)](https://github.com/electron-vite/electron-vite-vue/stargazers) - Really simple Electron + Vite + Vue boilerplate.
 - [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps with web technologies. Templates and plumbing for Vite + Vue + Quasar are included.
 - [sketch-to-vue](https://github.com/chenboxun87/sketch-to-vue) [![GitHub stars](https://img.shields.io/github/stars/chenboxun87/sketch-to-vue?style=flat)](https://github.com/chenboxun87/sketch-to-vue/stargazers) - AI Skill for Claude Code & Cursor that converts Sketch MeaXure / MasterGo design exports into pixel-perfect Vue 2/3 components. Specialized for dashboard/cockpit/big-screen pages: deterministic asset resolution, ECharts auto-detection, Scene Graph analysis, and full consumption audit.
+- [OxideDock](https://github.com/fridzema/oxide-dock) [![GitHub stars](https://img.shields.io/github/stars/fridzema/oxide-dock?style=flat)](https://github.com/fridzema/oxide-dock/stargazers) - Vue 3 desktop app starter built on Tauri v2, with Tailwind CSS, Pinia, Vitest, Playwright, and automated cross-platform releases.
 
 ### Prerendering
 

@@ -13,14 +13,17 @@ A curated list of bitcoin services and tools for software developers
 
 - [Utilities](#utilities)
 - [Blockchain API and Web services](#blockchain-api-and-web-services)
+- [Market Data API](#market-data-api)
 - [Wallets API](#wallets-api)
 - [Open Source wallets](#open-source-wallets)
+- [Privacy projects](#privacy-projects)
 - [Blockchain Explorers](#blockchain-explorers)
 - [C Libraries](#c-libraries)
 - [C++ Libraries](#c-libraries-1)
 - [JavaScript Libraries](#javascript-libraries)
 - [PHP Libraries](#php-libraries)
 - [Ruby Libraries](#ruby-libraries)
+- [Rust Libraries](#rust-libraries)
 - [Python Libraries](#python-libraries)
 - [Java Libraries](#java-libraries)
 - [Scala Libraries](#scala-libraries)
@@ -42,7 +45,6 @@ A curated list of bitcoin services and tools for software developers
 * [PaperVault](https://github.com/boazeb/papervault) [![GitHub stars](https://img.shields.io/github/stars/boazeb/papervault?style=flat)](https://github.com/boazeb/papervault/stargazers) - Offline paper-based secret storage using AES-256-GCM and Shamir's Secret Sharing. Create printable encrypted backups of seed phrases with threshold key splitting.
 * [Pycoin](https://github.com/richardkiss/pycoin) [![GitHub stars](https://img.shields.io/github/stars/richardkiss/pycoin?style=flat)](https://github.com/richardkiss/pycoin/stargazers) - Python-based Bitcoin and alt-coin utility library.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) [![GitHub stars](https://img.shields.io/github/stars/libbitcoin/libbitcoin-explorer?style=flat)](https://github.com/libbitcoin/libbitcoin-explorer/stargazers) - Bitcoin Command Line Tool.
-* [Deadhand Protocol](https://deadhandprotocol.com) - Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.
 * [txwatcher](https://github.com/tsileo/txwatcher) [![GitHub stars](https://img.shields.io/github/stars/tsileo/txwatcher?style=flat)](https://github.com/tsileo/txwatcher/stargazers) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) [![GitHub stars](https://img.shields.io/github/stars/prettymuchbryce/hellobitcoin?style=flat)](https://github.com/prettymuchbryce/hellobitcoin/stargazers) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](https://yogh.io/landing/)
@@ -58,6 +60,7 @@ A curated list of bitcoin services and tools for software developers
 * [CryptoCalk](https://cryptocalk.com) - Bitcoin profitability and on-chain calculators: ASIC/GPU mining ROI, hash rate converter, halving countdown, Mayer Multiple, Stock-to-Flow (S2F), Rainbow chart, profit/loss, DCA simulator, tax estimator, liquidation price. Client-side, no signup, available in 6 languages.
 * [Freedom Clock](https://freedomclock.io) - Bitcoin-aware FIRE calculator with sell, borrow, and borrow-then-sell spend models. Converts savings and BTC holdings into years of financial freedom. Fully local, no account, MIT. Also an open-source e-ink desk device (~$30).
 * [dont-trust-verify](https://dont-trust-verify.com) - Bitcoin-only client-side tools and self-custody education: 22 calculators, validators and decoders (BIP-39 validator, tx-stuck checker, fee estimator, wallet installer SHA-256 verifier, self-custody score quiz), plus primary-sourced guides and hardware wallet reviews. No signup, no tracking, EN + TH.
+* [BackPoW](https://backpow.com/Bitcoin) - Solo block odds, cost of production and break-even electricity per rig, from live difficulty.
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -66,13 +69,13 @@ A curated list of bitcoin services and tools for software developers
 * [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 * [BlockCypher](https://www.blockcypher.com)
 * [Esplora](https://github.com/Blockstream/esplora) [![GitHub stars](https://img.shields.io/github/stars/Blockstream/esplora?style=flat)](https://github.com/Blockstream/esplora/stargazers) - Self-hosted blockchain explorer.
-* [Insight](https://insight.is)
+* [Insight](https://github.com/bitpay/insight) [![GitHub stars](https://img.shields.io/github/stars/bitpay/insight?style=flat)](https://github.com/bitpay/insight/stargazers)
 * [Chain.com](https://chain.com)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) [![GitHub stars](https://img.shields.io/github/stars/yasaricli/chainradar-api?style=flat)](https://github.com/yasaricli/chainradar-api/stargazers) - Blockchain Explorer API for Chainradar.
-* [One-Time Address](https://github.com/alexk111/One-Time-Address) [![GitHub stars](https://img.shields.io/github/stars/alexk111/One-Time-Address?style=flat)](https://github.com/alexk111/One-Time-Address/stargazers) A better way to share your Bitcoin address.
+* [One-Time Address](https://github.com/alexk111/One-Time-Address) [![GitHub stars](https://img.shields.io/github/stars/alexk111/One-Time-Address?style=flat)](https://github.com/alexk111/One-Time-Address/stargazers) - A better way to share your Bitcoin address.
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
-* [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
+* [BTC Connect](https://particlenetwork.readme.io/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 * [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 * [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
@@ -91,7 +94,6 @@ A curated list of bitcoin services and tools for software developers
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.com](https://www.blockchain.com/api)
 * [BIP32](http://bip32.org)
-* [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## Open Source Wallets
 * [Blue Wallet](https://bluewallet.io/)
@@ -140,6 +142,7 @@ A curated list of bitcoin services and tools for software developers
 * [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) [![GitHub stars](https://img.shields.io/github/stars/paulmillr/scure-btc-signer?style=flat)](https://github.com/paulmillr/scure-btc-signer/stargazers) — audited & minimal library for creating, signing & decoding Bitcoin transactions. With Schnorr, Taproot, UTXO & PSBT.
 * [bitcoin-sdk-js](https://github.com/ChrisCho-H/bitcoin-sdk-js) [![GitHub stars](https://img.shields.io/github/stars/ChrisCho-H/bitcoin-sdk-js?style=flat)](https://github.com/ChrisCho-H/bitcoin-sdk-js/stargazers) — Bitcoin TypeScript/JavaScript Library for NodeJS, Browser and Mobile. Segwit & Taproot support.
 * [toll-booth](https://github.com/forgesworn/toll-booth) [![GitHub stars](https://img.shields.io/github/stars/forgesworn/toll-booth?style=flat)](https://github.com/forgesworn/toll-booth/stargazers) - HTTP 402 payment middleware for Node.js; gates any API behind Lightning, Cashu, or stablecoin payments with five backend options.
+
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN) [![GitHub stars](https://img.shields.io/github/stars/coinspark/php-OP_RETURN?style=flat)](https://github.com/coinspark/php-OP_RETURN/stargazers)
 * [BlockTrail PHP SDK](https://github.com/blocktrail/blocktrail-sdk-php) [![GitHub stars](https://img.shields.io/github/stars/blocktrail/blocktrail-sdk-php?style=flat)](https://github.com/blocktrail/blocktrail-sdk-php/stargazers)
@@ -189,7 +192,7 @@ A curated list of bitcoin services and tools for software developers
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) [![GitHub stars](https://img.shields.io/github/stars/siminchen/bitcoinIDE?style=flat)](https://github.com/siminchen/bitcoinIDE/stargazers) - Bitcoin Script for dummies.
 * [Script Debugger](https://github.com/kallewoof/btcdeb) [![GitHub stars](https://img.shields.io/github/stars/kallewoof/btcdeb?style=flat)](https://github.com/kallewoof/btcdeb/stargazers)
-* [Bitcore Playground](https://bitcore.io/playground/)
+* [Bitcore Playground](https://bitpay.github.io/bitcore-playground/app/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
 * [blockchain-demo](https://github.com/anders94/blockchain-demo/) [![GitHub stars](https://img.shields.io/github/stars/anders94/blockchain-demo/?style=flat)](https://github.com/anders94/blockchain-demo//stargazers) - A web-based demonstration of blockchain concepts.
 * [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) [![GitHub stars](https://img.shields.io/github/stars/liuhongchao/bitcoin4s?style=flat)](https://github.com/liuhongchao/bitcoin4s/stargazers) - Visualize Bitcoin script execution for real transactions.
@@ -242,6 +245,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 * [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
 * [Bitcoin.diy](https://bitcoin.diy) - Bitcoin-only education and hardware wallet reviews, focused on self-custody for beginners and intermediate users.
+* [LearnBitcoin.com](https://www.learnbitcoin.com/) - Bitcoin-only education: a guided six-chapter journey, 17 long-form rabbit holes, and a ~470-entry glossary, CC-BY-SA with no ads or affiliates.
 * [Bitcoin Institute](https://bitcoin-institute.pages.dev) - Bilingual (EN/JP) archive of Satoshi Nakamoto primary sources: forum posts, emails, and mailing-list messages, each linked to its original source.
 ---
 

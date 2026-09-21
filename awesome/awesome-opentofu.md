@@ -157,6 +157,7 @@
 - [zed Extension](https://github.com/ashpool37/zed-extension-opentofu) [![GitHub stars](https://img.shields.io/github/stars/ashpool37/zed-extension-opentofu?style=flat)](https://github.com/ashpool37/zed-extension-opentofu/stargazers) - Extension for the Zed Editor.
 - [terratag](https://github.com/env0/terratag) [![GitHub stars](https://img.shields.io/github/stars/env0/terratag?style=flat)](https://github.com/env0/terratag/stargazers) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) [![GitHub stars](https://img.shields.io/github/stars/minamijoyo/tfupdate?style=flat)](https://github.com/minamijoyo/tfupdate/stargazers) - Update version constraints in your Terraform / OpenTofu configurations.
+- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/templates/tree/main/src/opentofu?style=flat)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu/stargazers) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/images/tree/main/opentofu?style=flat)](https://github.com/bare-devcontainer/images/tree/main/opentofu/stargazers).
 
 ## Learning
 
@@ -186,6 +187,5 @@
 - [Ned in the Cloud - IaC Live Stream](https://www.youtube.com/watch?v=p0vDydkUWB4)
 - [Arrested DevOps - What's Up With Open Terraform?](https://www.arresteddevops.com/open-tofu/)
 - [OpenObservability - Terraform is no longer open source. Is OpenTF the successor?](https://www.youtube.com/watch?v=5QdUs9VKq5g)
-- [TheCloudGambit - The Future of OpenTF](https://www.thecloudgambit.com/2236725/13576531-the-future-of-opentf-with-ohad-maislish)
 - [Oxide and Friends - Fork in the road for Terraform?](https://www.youtube.com/watch?v=QaU94LY891M)
 - [Changelog -  OpenTF for an open Terraform](https://changelog.com/podcast/556)

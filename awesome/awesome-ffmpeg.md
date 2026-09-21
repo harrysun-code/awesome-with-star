@@ -50,6 +50,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) [![GitHub stars](https://img.shields.io/github/stars/eugeneware/ffmpeg-static?style=flat)](https://github.com/eugeneware/ffmpeg-static/stargazers) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 - [tangerine](https://github.com/niftylettuce/tangerine) [![GitHub stars](https://img.shields.io/github/stars/niftylettuce/tangerine?style=flat)](https://github.com/niftylettuce/tangerine/stargazers) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) [![GitHub stars](https://img.shields.io/github/stars/NiKlimenko/FFParser?style=flat)](https://github.com/NiKlimenko/FFParser/stargazers) - Parse input stream by frames directly into your code as a buffer.
+- [lottie-render](https://github.com/steven-panxd/lottie-render) [![GitHub stars](https://img.shields.io/github/stars/steven-panxd/lottie-render?style=flat)](https://github.com/steven-panxd/lottie-render/stargazers) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
 
 
 ## Native

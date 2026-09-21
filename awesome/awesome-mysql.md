@@ -121,6 +121,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL deployment tools*
 
+- [dbdeployer](https://github.com/ProxySQL/dbdeployer) [![GitHub stars](https://img.shields.io/github/stars/ProxySQL/dbdeployer?style=flat)](https://github.com/ProxySQL/dbdeployer/stargazers) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 - [MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) [![GitHub stars](https://img.shields.io/github/stars/MariaDB4j/MariaDB4j?style=flat)](https://github.com/MariaDB4j/MariaDB4j/stargazers) - A Java launcher to run MariaDB without installation or external dependencies.
 
 
@@ -167,7 +168,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Galera Cluster](https://github.com/codership/galera) [![GitHub stars](https://img.shields.io/github/stars/codership/galera?style=flat)](https://github.com/codership/galera/stargazers) - a true Multimaster Cluster based on synchronous replication.
 - [mha4mysql-node](https://github.com/yoshinorim/mha4mysql-node) [![GitHub stars](https://img.shields.io/github/stars/yoshinorim/mha4mysql-node?style=flat)](https://github.com/yoshinorim/mha4mysql-node/stargazers) and [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) [![GitHub stars](https://img.shields.io/github/stars/yoshinorim/mha4mysql-manager?style=flat)](https://github.com/yoshinorim/mha4mysql-manager/stargazers) (both unmaintained) - Master High Availability Manager and tools for MySQL.
-- [Orchestrator](https://github.com/openark/orchestrator) [![GitHub stars](https://img.shields.io/github/stars/openark/orchestrator?style=flat)](https://github.com/openark/orchestrator/stargazers) (archived) - MySQL replication topology management and High Availability solution.
+- [Orchestrator](https://github.com/ProxySQL/orchestrator) [![GitHub stars](https://img.shields.io/github/stars/ProxySQL/orchestrator?style=flat)](https://github.com/ProxySQL/orchestrator/stargazers) - MySQL replication topology management and High Availability solution.
 - [Percona Replication Manager](https://github.com/percona/replication-manager) [![GitHub stars](https://img.shields.io/github/stars/percona/replication-manager?style=flat)](https://github.com/percona/replication-manager/stargazers) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 - [replication-manager](https://github.com/signal18/replication-manager) [![GitHub stars](https://img.shields.io/github/stars/signal18/replication-manager?style=flat)](https://github.com/signal18/replication-manager/stargazers) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 

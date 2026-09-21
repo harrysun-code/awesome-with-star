@@ -896,6 +896,7 @@ Then ask any web-security question and the skill activates on topics like XSS, S
 - [How I got my first big bounty payout with Tesla](https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d) - Written by [@cj.fairhead](https://medium.com/@cj.fairhead).
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Hands-on introduction to web application security fundamentals by Malcolm McDonald (Manning).
 - [htb-writeups](https://github.com/momenbasel/htb-writeups) [![GitHub stars](https://img.shields.io/github/stars/momenbasel/htb-writeups?style=flat)](https://github.com/momenbasel/htb-writeups/stargazers) - Comprehensive Hack The Box writeup collection covering 75+ web challenges including XSS, SQLi, SSTI, SSRF, and deserialization, by [@momenbasel](https://github.com/momenbasel) [![GitHub stars](https://img.shields.io/github/stars/momenbasel?style=flat)](https://github.com/momenbasel/stargazers).
+- [From DNS Evidence to a Finding: DNS and Mail Security Methodology](https://admintoolkit.io/guides/dns-mail-security-methodology/) - How DNSSEC, DANE, SPF/DKIM/DMARC and SMTP transport evidence becomes a finding, with the decision logic for each, the `dig` invocations to reproduce it independently, and the false positives to expect.
 
 ## Code of Conduct
 

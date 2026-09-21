@@ -356,7 +356,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 
 ### Monitoring
 
-- [mqttwarn](https://mqttwarn.readthedocs.io/en/latest/) - Route and transform MQTT notifications, with 70+ built-in adapters for databases, messaging and other notification sinks.
+- [mqttwarn](https://mqttwarn.readthedocs.io/) - Route and transform MQTT notifications, with 70+ built-in adapters for databases, messaging and other notification sinks.
 - [snmp2mqtt](https://c0d3.sh/andre/snmp2mqtt) - Python based SNMP v2 and v3 bridge to MQTT, active project in late 2025.
 - [ccusage-mqtt](https://github.com/george-vice/ccusage-mqtt) [![GitHub stars](https://img.shields.io/github/stars/george-vice/ccusage-mqtt?style=flat)](https://github.com/george-vice/ccusage-mqtt/stargazers) - Publishes Claude Code (Anthropic's AI coding agent) usage telemetry to MQTT with Home Assistant auto-discovery. 15 sensors, mood classifier.
 - [check-mqtt](https://github.com/jpmens/check-mqtt) [![GitHub stars](https://img.shields.io/github/stars/jpmens/check-mqtt?style=flat)](https://github.com/jpmens/check-mqtt/stargazers) - A Nagios/Icinga plugin for checking connectivity to an MQTT broker.
@@ -376,7 +376,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/influx4mqtt?style=flat)](https://github.com/hobbyquaker/influx4mqtt/stargazers) - Subscribe to MQTT topics and insert into InfluxDB.
 - [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/mqtt2elasticsearch?style=flat)](https://github.com/hobbyquaker/mqtt2elasticsearch/stargazers) - Send MQTT messages to Elasticsearch.
 <!--lint disable double-link-->
-- [mqttwarn](https://github.com/jpmens/mqttwarn) [![GitHub stars](https://img.shields.io/github/stars/jpmens/mqttwarn?style=flat)](https://github.com/jpmens/mqttwarn/stargazers) - Use with [carbon](https://mqttwarn.readthedocs.io/en/latest/notifier-catalog.html#carbon) plugin.
+- [mqttwarn](https://github.com/jpmens/mqttwarn) [![GitHub stars](https://img.shields.io/github/stars/jpmens/mqttwarn?style=flat)](https://github.com/jpmens/mqttwarn/stargazers) - Use with [carbon](https://mqttwarn.readthedocs.io/notifier-catalog.html#carbon) plugin.
 <!--lint enable double-link-->
 - [mqttcollect](https://github.com/jpmens/mqttcollect) [![GitHub stars](https://img.shields.io/github/stars/jpmens/mqttcollect?style=flat)](https://github.com/jpmens/mqttcollect/stargazers) - A collectd "Exec" plugin for MQTT.
 - [mqtthandler](https://github.com/changyuheng/MQTTHandler) [![GitHub stars](https://img.shields.io/github/stars/changyuheng/MQTTHandler?style=flat)](https://github.com/changyuheng/MQTTHandler/stargazers) - A Python logging handler module for MQTT.

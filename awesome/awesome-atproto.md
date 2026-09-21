@@ -82,6 +82,8 @@ For more Bluesky tools, check [Awesome Bluesky](https://github.com/notjuliet/awe
 ## Tools
 
 * [ATFile](https://github.com/ziodotsh/atfile) [![GitHub stars](https://img.shields.io/github/stars/ziodotsh/atfile?style=flat)](https://github.com/ziodotsh/atfile/stargazers) - Store and retrieve files on the ATmosphere.
+* [OpenPost](https://github.com/rodrgds/openpost) [![GitHub stars](https://img.shields.io/github/stars/rodrgds/openpost?style=flat)](https://github.com/rodrgds/openpost/stargazers) - Self-hosted social publishing tool that schedules posts to Bluesky through AT Protocol alongside other networks.
+* [ONYX](https://onyxhq.us) - Bluesky-native, AT-Protocol post scheduler with AI-assisted drafting, analytics, and free Bluesky tools. $7/mo flat, free tier.
 * [ShopSavvy for Bluesky](https://github.com/shopsavvy/bluesky-shopsavvy) [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/bluesky-shopsavvy?style=flat)](https://github.com/shopsavvy/bluesky-shopsavvy/stargazers) - AT Protocol suite: reactive mention bot for real-time price lookups, a custom deals feed generator, and a daily deal poster.
 
 ## Lexicons

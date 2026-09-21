@@ -69,7 +69,7 @@ Apps that help you manage your extensions.
 - [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader) [![GitHub stars](https://img.shields.io/github/stars/jsmnbom/webextension-manifest-loader?style=flat)](https://github.com/jsmnbom/webextension-manifest-loader/stargazers) - Webpack loader that loads browser tailored manifest.json. It also imports all importable properties, allowing you to have 'manifest.json' as your only webpack entry point.
 - [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) [![GitHub stars](https://img.shields.io/github/stars/rubenspgcavalcante/webpack-extension-reloader?style=flat)](https://github.com/rubenspgcavalcante/webpack-extension-reloader/stargazers) - A Webpack plugin to automatically reload browser extensions during development.
 - [webpack-target-webextension](https://github.com/awesome-webextension/webpack-target-webextension) [![GitHub stars](https://img.shields.io/github/stars/awesome-webextension/webpack-target-webextension?style=flat)](https://github.com/awesome-webextension/webpack-target-webextension/stargazers) - Adds code-splitting support to WebExtensions build with Webpack.
-- [Extension.js](https://github.com/cezaraugusto/extension.js) [![GitHub stars](https://img.shields.io/github/stars/cezaraugusto/extension.js?style=flat)](https://github.com/cezaraugusto/extension.js/stargazers) - Plug-and-play, zero-config, cross-browser extension development tool.
+- [Extension.js](https://github.com/extension-js/extension.js) [![GitHub stars](https://img.shields.io/github/stars/extension-js/extension.js?style=flat)](https://github.com/extension-js/extension.js/stargazers) - Zero-config CLI to develop, build and package extensions for Chrome, Edge, Firefox and Safari.
 
 ## Testing
 
@@ -85,7 +85,7 @@ Apps that help you manage your extensions.
 - [browser-extension-template](https://github.com/fregante/browser-extension-template) [![GitHub stars](https://img.shields.io/github/stars/fregante/browser-extension-template?style=flat)](https://github.com/fregante/browser-extension-template/stargazers) - Barebones boilerplate with parcel, options handler and auto-publishing.
 - [create-webextension](https://github.com/rpl/create-webextension) [![GitHub stars](https://img.shields.io/github/stars/rpl/create-webextension?style=flat)](https://github.com/rpl/create-webextension/stargazers) - Yarn WebExtension generator.
 - [generator-web-extension](https://github.com/webextension-toolbox/generator-web-extension) [![GitHub stars](https://img.shields.io/github/stars/webextension-toolbox/generator-web-extension?style=flat)](https://github.com/webextension-toolbox/generator-web-extension/stargazers) - WebExtension generator that creates everything you need to get started with cross-browser web-extension development.
-- [WXT](https://github.com/wxt-dev/wxt) [![GitHub stars](https://img.shields.io/github/stars/wxt-dev/wxt?style=flat)](https://github.com/wxt-dev/wxt/stargazers) - Next-gen framework for developing web extensions
+- [WXT](https://github.com/wxt-dev/wxt) [![GitHub stars](https://img.shields.io/github/stars/wxt-dev/wxt?style=flat)](https://github.com/wxt-dev/wxt/stargazers) - Next-gen framework for developing web extensions.
 
 ## Sample Extensions
 
