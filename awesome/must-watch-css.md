@@ -5,15 +5,15 @@
 [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/must-watch-css?style=flat)](https://github.com/AllThingsSmitty/must-watch-css/stargazers)
 
 <p align="center">
-  <img src="./assets/img/tv.svg" width="200" alt="TV icon with play button">
+  <img src=".github/assets/tv.svg" width="200" alt="TV icon with play button">
 </p>
 
 # Must-Watch CSS [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This is a collection of well-received talks about CSS covering topics such as CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tooling, and more.
+This is a collection of well-received talks about CSS covering topics such as CSS Grid, flexbox, custom variables, performance, frameworks, tooling, and more.
 
 > [!TIP]
-> **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/must-watch-javascript?style=flat)](https://github.com/AllThingsSmitty/must-watch-javascript/stargazers)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/?style=flat)](https://github.com/sindresorhus//stargazers)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/?style=flat)](https://github.com/sindresorhus/awesome//stargazers).
+> **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript) [![GitHub stars](https://img.shields.io/github/stars/AllThingsSmitty/must-watch-javascript?style=flat)](https://github.com/AllThingsSmitty/must-watch-javascript/stargazers)!**
 
 - [Contribution Guidelines](CONTRIBUTING.md)
 

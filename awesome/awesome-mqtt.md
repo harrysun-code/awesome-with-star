@@ -129,6 +129,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 
 ## Tools
+- [Cortex](https://github.com/cortex-docs/cortex) [![GitHub stars](https://img.shields.io/github/stars/cortex-docs/cortex?style=flat)](https://github.com/cortex-docs/cortex/stargazers) - Generates interactive documentation, typed SDKs, and MCP servers from AsyncAPI definitions, including MQTT APIs.
 - [dsh-mqtt](https://github.com/UllrAI/dsh-mqtt) [![GitHub stars](https://img.shields.io/github/stars/UllrAI/dsh-mqtt?style=flat)](https://github.com/UllrAI/dsh-mqtt/stargazers) - MQTT protocol driver and long-running agent worker gateway for DeepSeek Harness, enabling remote clients to submit, steer, cancel, and observe agent work.
 - [hivemq-mqtt-web-client](https://github.com/hivemq/hivemq-mqtt-web-client) [![GitHub stars](https://img.shields.io/github/stars/hivemq/hivemq-mqtt-web-client?style=flat)](https://github.com/hivemq/hivemq-mqtt-web-client/stargazers) - Browser-based MQTT client that utilizes MQTT over websockets. [Direct Link](https://www.hivemq.com/demos/websocket-client/)
 - [homie-home-assistant-discovery](https://github.com/labodj/homie-home-assistant-discovery) [![GitHub stars](https://img.shields.io/github/stars/labodj/homie-home-assistant-discovery?style=flat)](https://github.com/labodj/homie-home-assistant-discovery/stargazers) - Node.js CLI and library that maps Homie MQTT metadata to Home Assistant MQTT discovery payloads.

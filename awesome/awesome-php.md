@@ -655,6 +655,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Markup and CSS
 *Libraries for working with markup and CSS formats.*
 
+* [Carve](https://github.com/markup-carve/carve-php) [![GitHub stars](https://img.shields.io/github/stars/markup-carve/carve-php?style=flat)](https://github.com/markup-carve/carve-php/stargazers) - A PHP parser for [Carve](https://markup-carve.github.io/carve/), a lightweight markup language derived from Markdown and Djot.
 * [Cebe Markdown](https://github.com/cebe/markdown) [![GitHub stars](https://img.shields.io/github/stars/cebe/markdown?style=flat)](https://github.com/cebe/markdown/stargazers) - A fast and extensible Markdown parser.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) [![GitHub stars](https://img.shields.io/github/stars/thephpleague/commonmark?style=flat)](https://github.com/thephpleague/commonmark/stargazers) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) [![GitHub stars](https://img.shields.io/github/stars/milesj/decoda?style=flat)](https://github.com/milesj/decoda/stargazers) - A lightweight markup parser library.

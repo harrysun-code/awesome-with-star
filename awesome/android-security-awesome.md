@@ -254,6 +254,7 @@ A collection of Android security-related resources.
 1. [Insecureshop](https://github.com/optiv/insecureshop) [![GitHub stars](https://img.shields.io/github/stars/optiv/insecureshop?style=flat)](https://github.com/optiv/insecureshop/stargazers)
 1. [Oversecured Vulnerable Android App (OVAA)](https://github.com/oversecured/ovaa) [![GitHub stars](https://img.shields.io/github/stars/oversecured/ovaa?style=flat)](https://github.com/oversecured/ovaa/stargazers)
 1. [Injured Android - CTF](https://github.com/B3nac/InjuredAndroid) [![GitHub stars](https://img.shields.io/github/stars/B3nac/InjuredAndroid?style=flat)](https://github.com/B3nac/InjuredAndroid/stargazers)
+1. [Damn Vulnerable Mobile App (DVMA)](https://github.com/cpeoples/dvma) [![GitHub stars](https://img.shields.io/github/stars/cpeoples/dvma?style=flat)](https://github.com/cpeoples/dvma/stargazers)
 
 ## Academic/Research/Publications/Books
 

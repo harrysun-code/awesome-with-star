@@ -733,6 +733,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [WebDNN](https://github.com/mil-tokyo/webdnn) [![GitHub stars](https://img.shields.io/github/stars/mil-tokyo/webdnn?style=flat)](https://github.com/mil-tokyo/webdnn/stargazers) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 * [WebNN](https://webnn.dev) - A new web standard that allows web apps and frameworks to accelerate deep neural networks with on-device hardware such as GPUs, CPUs, or purpose-built AI accelerators.
 * [Kandle](https://github.com/final-kk/kandle) [![GitHub stars](https://img.shields.io/github/stars/final-kk/kandle?style=flat)](https://github.com/final-kk/kandle/stargazers) - A JavaScript Native PyTorch-aligned Machine Learning Framework, built from scratch on WebGPU.
+* [AI on Browser](https://github.com/ai-on-browser/ai-on-browser.github.io) [![GitHub stars](https://img.shields.io/github/stars/ai-on-browser/ai-on-browser.github.io?style=flat)](https://github.com/ai-on-browser/ai-on-browser.github.io/stargazers) - An educational, pure JavaScript library designed to help developers and students understand the inner workings of ML algorithms without the magic of external libraries.
 
 <a name="javascript-speech-recognition"></a>
 #### Speech Recognition
@@ -1191,6 +1192,7 @@ be
 * [Transformers](https://github.com/huggingface/transformers) [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=flat)](https://github.com/huggingface/transformers/stargazers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
 * [TextCL](https://github.com/alinapetukhova/textcl) [![GitHub stars](https://img.shields.io/github/stars/alinapetukhova/textcl?style=flat)](https://github.com/alinapetukhova/textcl/stargazers) - Text preprocessing package for use in NLP tasks.
 * [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) [![GitHub stars](https://img.shields.io/github/stars/bibinprathap/VeritasGraph?style=flat)](https://github.com/bibinprathap/VeritasGraph/stargazers) - Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution.
+* [yasbd-lib](https://github.com/speedyk-005/yasbd-lib) [![GitHub stars](https://img.shields.io/github/stars/speedyk-005/yasbd-lib?style=flat)](https://github.com/speedyk-005/yasbd-lib/stargazers) - High-accuracy, rule-based sentence boundary detector (SBD) with drop-in pysbd adapter, streaming APIs, CLI, and a spaCy component across 39+ languages.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning

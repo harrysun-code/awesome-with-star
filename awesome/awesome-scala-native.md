@@ -116,6 +116,7 @@
 ## Concurrency
 * [scala-native-loop](https://github.com/scala-native/scala-native-loop) [![GitHub stars](https://img.shields.io/github/stars/scala-native/scala-native-loop?style=flat)](https://github.com/scala-native/scala-native-loop/stargazers) - Event loop and async-oriented IO for Scala Native
 * [castor](https://github.com/com-lihaoyi/castor) [![GitHub stars](https://img.shields.io/github/stars/com-lihaoyi/castor?style=flat)](https://github.com/com-lihaoyi/castor/stargazers) - Lightweight, typed Actor library for Scala.
+* [Leucine](https://github.com/devlaam/Leucine) [![GitHub stars](https://img.shields.io/github/stars/devlaam/Leucine?style=flat)](https://github.com/devlaam/Leucine/stargazers) - Small cross-platform actor framework
 
 ## Logging
 * [scribe](https://github.com/outr/scribe) [![GitHub stars](https://img.shields.io/github/stars/outr/scribe?style=flat)](https://github.com/outr/scribe/stargazers) - Fast and simple logging library.

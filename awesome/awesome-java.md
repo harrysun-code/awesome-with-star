@@ -10,7 +10,7 @@
 
 A curated list of noteworthy Java frameworks, libraries, tools and resources.
 
-<sub>838 projects · 81 categories · 85 resources</sub>
+<sub>839 projects · 81 categories · 85 resources</sub>
 
 <sub>Activity: 🟢 pushed within 3 months · 🟠 pushed 3–12 months ago · 🔴 no push for over 12 months</sub>
 
@@ -389,7 +389,7 @@ _Tools that provide metrics and quality measurements._
 </details>
 
 <details id="code-coverage">
-<summary><strong>Code Coverage</strong> <kbd>3 projects</kbd></summary>
+<summary><strong>Code Coverage</strong> <kbd>4 projects</kbd></summary>
 
 _Frameworks and tools that enable code coverage metrics collection for test suites._
 
@@ -398,6 +398,8 @@ _Frameworks and tools that enable code coverage metrics collection for test suit
 > **[JaCoCo](https://github.com/jacoco/jacoco) [![GitHub stars](https://img.shields.io/github/stars/jacoco/jacoco?style=flat)](https://github.com/jacoco/jacoco/stargazers)** <kbd>★ 4.6k</kbd> 🟢<br>Framework that enables collection of code coverage metrics, using both offline and runtime bytecode instrumentation.
 
 > **[OpenClover](https://github.com/openclover/clover) [![GitHub stars](https://img.shields.io/github/stars/openclover/clover?style=flat)](https://github.com/openclover/clover/stargazers)** <kbd>★ 70</kbd> 🟢<br>Measures Java code coverage through source-code instrumentation, with build-tool and IDE integrations.
+
+> **[Supercov](https://github.com/supercorp-ai/supercov) [![GitHub stars](https://img.shields.io/github/stars/supercorp-ai/supercov?style=flat)](https://github.com/supercorp-ai/supercov/stargazers)** <kbd>★ 107</kbd> <kbd>MIT</kbd> 🟢<br>Measures line, branch, and MC/DC coverage of Java and Kotlin test runs and scores source files for code quality.
 
 </details>
 
@@ -1597,7 +1599,7 @@ _APIs that handle the persistence of objects._
 
 > **[Permazen](https://github.com/permazen/permazen) [![GitHub stars](https://img.shields.io/github/stars/permazen/permazen?style=flat)](https://github.com/permazen/permazen/stargazers)** <kbd>★ 425</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Language-natural persistence layer.
 
-> **[SimpleFlatMapper](https://github.com/arnaudroger/SimpleFlatMapper) [![GitHub stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper?style=flat)](https://github.com/arnaudroger/SimpleFlatMapper/stargazers)** <kbd>★ 460</kbd> <kbd>MIT</kbd> 🟠<br>Simple database and CSV mapper.
+> **[SimpleFlatMapper](https://github.com/arnaudroger/SimpleFlatMapper) [![GitHub stars](https://img.shields.io/github/stars/arnaudroger/SimpleFlatMapper?style=flat)](https://github.com/arnaudroger/SimpleFlatMapper/stargazers)** <kbd>★ 460</kbd> <kbd>MIT</kbd> 🔴<br>Simple database and CSV mapper.
 
 > **[Ujorm](https://github.com/pponec/ujorm) [![GitHub stars](https://img.shields.io/github/stars/pponec/ujorm?style=flat)](https://github.com/pponec/ujorm/stargazers)** <kbd>★ 12</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Maps rows to JavaBeans or Java records with no third-party runtime dependencies, deliberately omitting lazy loading, 1:M collections and transaction management.
 
@@ -1917,7 +1919,7 @@ _Libraries for scientific computing, analysis and visualization._
 
 > **[JGraphT](https://github.com/jgrapht/jgrapht) [![GitHub stars](https://img.shields.io/github/stars/jgrapht/jgrapht?style=flat)](https://github.com/jgrapht/jgrapht/stargazers)** <kbd>★ 2.8k</kbd> <kbd>EPL-2.0</kbd> 🟢<br>Graph library that provides mathematical graph-theory objects and algorithms.
 
-> **[jSciPy](https://github.com/hissain/jscipy) [![GitHub stars](https://img.shields.io/github/stars/hissain/jscipy?style=flat)](https://github.com/hissain/jscipy/stargazers)** <kbd>★ 23</kbd> <kbd>MIT</kbd> 🟢<br>jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.
+> **[jSciPy](https://github.com/hissain/jscipy) [![GitHub stars](https://img.shields.io/github/stars/hissain/jscipy?style=flat)](https://github.com/hissain/jscipy/stargazers)** <kbd>★ 23</kbd> <kbd>MIT</kbd> 🟠<br>jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.
 
 > **[LogicNG](https://github.com/logic-ng/LogicNG) [![GitHub stars](https://img.shields.io/github/stars/logic-ng/LogicNG?style=flat)](https://github.com/logic-ng/LogicNG/stargazers)** <kbd>★ 157</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 
@@ -2112,7 +2114,7 @@ _Tools that substitute expressions in a template._
 
 > **[StringTemplate](https://github.com/antlr/stringtemplate4) [![GitHub stars](https://img.shields.io/github/stars/antlr/stringtemplate4?style=flat)](https://github.com/antlr/stringtemplate4/stargazers)** <kbd>★ 1.0k</kbd> 🔴<br>Template engine for generating source code, web pages, emails, or any other formatted text output.
 
-> **[Thymeleaf](https://github.com/thymeleaf/thymeleaf) [![GitHub stars](https://img.shields.io/github/stars/thymeleaf/thymeleaf?style=flat)](https://github.com/thymeleaf/thymeleaf/stargazers)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟢<br>Aims to be a substitute for JSP and works for XML files.
+> **[Thymeleaf](https://github.com/thymeleaf/thymeleaf) [![GitHub stars](https://img.shields.io/github/stars/thymeleaf/thymeleaf?style=flat)](https://github.com/thymeleaf/thymeleaf/stargazers)** <kbd>★ 3.0k</kbd> <kbd>Apache-2.0</kbd> 🟠<br>Aims to be a substitute for JSP and works for XML files.
 
 </details>
 

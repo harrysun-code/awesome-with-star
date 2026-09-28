@@ -42,6 +42,7 @@ Become a sponsor! `github@academic.io`
 - [What is Data Science?](#what-is-data-science)
 - [Where do I Start?](#where-do-i-start)
 - [Agents](#agents)
+- [Projects](#projects)
 - [Training Resources](#training-resources)
   - [Tutorials](#tutorials)
   - [Free Courses](#free-courses)
@@ -58,8 +59,6 @@ Become a sponsor! `github@academic.io`
     - [Data Mining Algorithms](#data-mining-algorithms)
     - [Deep Learning Architectures](#deep-learning-architectures)
   - [General Machine Learning Packages](#general-machine-learning-packages)
-  - [Model Evaluation & Monitoring](#model-evaluation--monitoring)
-    - [Evidently AI](#evidently-ai)
   - [Deep Learning Packages](#deep-learning-packages)
     - [PyTorch Ecosystem](#pytorch-ecosystem)
     - [TensorFlow Ecosystem](#tensorflow-ecosystem)
@@ -144,6 +143,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 - [CAJAL](https://github.com/Agnuxo1/CAJAL) [![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/CAJAL?style=flat)](https://github.com/Agnuxo1/CAJAL/stargazers) - Local AI agent for generating publication-ready scientific papers with real arXiv citations, IMRaD structure, and tribunal scoring. Runs 100% offline via Ollama with 4B-9B models. MIT licensed. [HuggingFace](https://huggingface.co/Agnuxo/CAJAL-9B-P2PCLAW)
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation) [![GitHub stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=flat)](https://github.com/future-agi/ai-evaluation/stargazers) - Open-source LLM and agent evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection). Useful for scoring RAG outputs, agent trajectories, and function-calling behavior in data-science workflows.
 - [Kitaru](https://github.com/zenml-io/kitaru) [![GitHub stars](https://img.shields.io/github/stars/zenml-io/kitaru?style=flat)](https://github.com/zenml-io/kitaru/stargazers) - Open-source platform that records real AI agent runs, replays them against changes, and evaluates outcomes before deployment.
+- [Jev Social](https://github.com/socai-io/jev-social) [![GitHub stars](https://img.shields.io/github/stars/socai-io/jev-social?style=flat)](https://github.com/socai-io/jev-social/stargazers) - Read-only social research agent that lets Jev choose bounded Instagram, TikTok, and LinkedIn operations, runs them through the local socai CLI in Chrome, and preserves source-linked evidence beside a cited report.
 
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp) [![GitHub stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat)](https://github.com/connerlambden/bgpt-mcp/stargazers)
@@ -157,6 +157,10 @@ This section contains agent frameworks and tools that are useful for data scienc
 **[`^        back to top        ^`](#awesome-data-science)**
 - [sim](https://sim.ai) - Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
+## Projects
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [Synthetic Hospital](https://github.com/sparkcpark/synthetic_hospital) [![GitHub stars](https://img.shields.io/github/stars/sparkcpark/synthetic_hospital?style=flat)](https://github.com/sparkcpark/synthetic_hospital/stargazers) - A Medical Benchmark & EHR Simulation Platform
 
 ## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -262,6 +266,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
 - [Maschinelle Sprachgebrauchsanalyse - Grundlagen der Korpuslinguistik](https://www.twillo.de/edu-sharing/components/collections?id=e6ce03ae-4660-49b0-be10-dcc92e71e796) - course material on text-mining / corpus-linguistics *in German* funded by the federal state of North Rhine-Westphalia
 - [Programmieren für Germanist*innen](https://www.twillo.de/edu-sharing/components/collections?id=16bac749-f10e-483f-9020-5d6365b4e092) - course material: programming in python *in German* for digital humanities - funded by the federal state of North Rhine-Westphalia
+- [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-datascience) - Short lessons with hands-on coding exercises and spaced repetition, covering Python, PyTorch, math for ML, ML foundations, NLP, and computer vision.
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -469,6 +474,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [Yolov3](https://github.com/ultralytics/yolov3) [![GitHub stars](https://img.shields.io/github/stars/ultralytics/yolov3?style=flat)](https://github.com/ultralytics/yolov3/stargazers)
 * [Yolov5](https://github.com/ultralytics/yolov5) [![GitHub stars](https://img.shields.io/github/stars/ultralytics/yolov5?style=flat)](https://github.com/ultralytics/yolov5/stargazers)
 * [Yolov8](https://github.com/ultralytics/ultralytics) [![GitHub stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat)](https://github.com/ultralytics/ultralytics/stargazers)
+* [OpenLanguageModel](https://github.com/openlanguagemodel/openlanguagemodel) [![GitHub stars](https://img.shields.io/github/stars/openlanguagemodel/openlanguagemodel?style=flat)](https://github.com/openlanguagemodel/openlanguagemodel/stargazers) - PyTorch-native library for building, training and teaching transformer language models, with architectures written as ordinary nn.Modules.
 
 #### TensorFlow Ecosystem
 * [TensorFlow](https://github.com/tensorflow/tensorflow) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat)](https://github.com/tensorflow/tensorflow/stargazers)
@@ -644,6 +650,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [PyStan](https://pypi.org/project/pystan/) | Python interface to Stan (Bayesian inference and modeling) |
 | [hmmlearn](https://pypi.org/project/hmmlearn/) | Unsupervised learning and inference of Hidden Markov Models |
 | [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) [![GitHub stars](https://img.shields.io/github/stars/chaos-genius/chaos_genius/?style=flat)](https://github.com/chaos-genius/chaos_genius//stargazers) | ML powered analytics engine for outlier/anomaly detection and root cause analysis |
+| [PySAD](https://github.com/selimfirat/pysad) [![GitHub stars](https://img.shields.io/github/stars/selimfirat/pysad?style=flat)](https://github.com/selimfirat/pysad/stargazers) | Python library for anomaly detection on streaming data |
 | [Nimblebox](https://nimblebox.ai/) | A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser. |
 | [Towhee](https://github.com/towhee-io/towhee) [![GitHub stars](https://img.shields.io/github/stars/towhee-io/towhee?style=flat)](https://github.com/towhee-io/towhee/stargazers) | A Python library that helps you encode your unstructured data into embeddings. |
 | [LineaPy](https://github.com/LineaLabs/lineapy) [![GitHub stars](https://img.shields.io/github/stars/LineaLabs/lineapy?style=flat)](https://github.com/LineaLabs/lineapy/stargazers) | Ever been frustrated with cleaning up long, messy Jupyter notebooks? With LineaPy, an open source Python library, it takes as little as two lines of code to transform messy development code into production pipelines. |
@@ -678,6 +685,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [dbt](https://github.com/dbt-labs/dbt-core) [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=flat)](https://github.com/dbt-labs/dbt-core/stargazers) | Data build tool |
 | [zasper](https://github.com/zasper-io/zasper) [![GitHub stars](https://img.shields.io/github/stars/zasper-io/zasper?style=flat)](https://github.com/zasper-io/zasper/stargazers) | Supercharged IDE for Data Science |
 | [skrub](https://github.com/skrub-data/skrub/) [![GitHub stars](https://img.shields.io/github/stars/skrub-data/skrub/?style=flat)](https://github.com/skrub-data/skrub//stargazers) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
+| [Glyph](https://github.com/Koda-OSS/Glyph) [![GitHub stars](https://img.shields.io/github/stars/Koda-OSS/Glyph?style=flat)](https://github.com/Koda-OSS/Glyph/stargazers) | Framework-agnostic TypeScript library for generating, searching, and comparing MinHash fingerprints for fast text similarity, deduplication, and retrieval. |
 | [Codeflash](https://www.codeflash.ai/) | Ship Blazing-Fast Python Code — Every Time |
 | [Hugging Face](https://huggingface.co/) | Popular open platform for sharing ML models, datasets, and collaborating on NLP and generative AI projects. |
 | [Chinese-Elite](https://github.com/anonym-g/Chinese-Elite) [![GitHub stars](https://img.shields.io/github/stars/anonym-g/Chinese-Elite?style=flat)](https://github.com/anonym-g/Chinese-Elite/stargazers) | An open-source project that automatically maps relationship networks by parsing public data using LLMs and visualizes it as an interactive graph. |
@@ -1242,6 +1250,7 @@ Some data mining competition platforms
 - [ZipCheckup](https://github.com/artakulov/us-water-quality-data) [![GitHub stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data?style=flat)](https://github.com/artakulov/us-water-quality-data/stargazers) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 - [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
 - [Verified Supplement Evidence](https://github.com/erinheit451/verified-supplement-evidence) [![GitHub stars](https://img.shields.io/github/stars/erinheit451/verified-supplement-evidence?style=flat)](https://github.com/erinheit451/verified-supplement-evidence/stargazers) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
+- [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) [![GitHub stars](https://img.shields.io/github/stars/whatfontis/WhatFontIs-Bench?style=flat)](https://github.com/whatfontis/WhatFontIs-Bench/stargazers) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
 
 
 ### Comics

@@ -47,6 +47,7 @@ Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [typeguard](https://github.com/agronholm/typeguard) [![GitHub stars](https://img.shields.io/github/stars/agronholm/typeguard?style=flat)](https://github.com/agronholm/typeguard/stargazers) - Another one runtime type checker.
 - [typical](https://github.com/seandstewart/typical/) [![GitHub stars](https://img.shields.io/github/stars/seandstewart/typical/?style=flat)](https://github.com/seandstewart/typical//stargazers) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 - [trycast](https://github.com/davidfstr/trycast) [![GitHub stars](https://img.shields.io/github/stars/davidfstr/trycast?style=flat)](https://github.com/davidfstr/trycast/stargazers) - Parse JSON-like values whose shape is defined by typed dictionaries (TypedDicts) and other standard Python type hints.
+- [type_enforced](https://github.com/connor-makowski/type_enforced) [![GitHub stars](https://img.shields.io/github/stars/connor-makowski/type_enforced?style=flat)](https://github.com/connor-makowski/type_enforced/stargazers) - Fast runtime type enforcement for annotations with no dependencies. Includes fast O(1) and full O(n) operations.
 
 ## Stub packages
 

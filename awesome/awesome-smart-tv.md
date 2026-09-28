@@ -57,6 +57,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [TizenBrew] (https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * [TizenTube] (https://github.com/reisxd/TizenTube) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
 * [Beam-TV](https://github.com/TAGISWILD/beam-tv) [![GitHub stars](https://img.shields.io/github/stars/TAGISWILD/beam-tv?style=flat)](https://github.com/TAGISWILD/beam-tv/stargazers) - Open-source, no-account media player for Samsung Tizen TVs. Plays USB and local-network (DLNA) video/audio/subtitles directly on the TV (JavaScript).
+* [Invidious Tizen](https://github.com/lennartschoch/invidious-tizen) [![GitHub stars](https://img.shields.io/github/stars/lennartschoch/invidious-tizen?style=flat)](https://github.com/lennartschoch/invidious-tizen/stargazers) - An Invidious client for Samsung Tizen TVs via TizenBrew, with D-pad navigation and full remote-control support (TypeScript).
 
 ### LG webOS
 #### Official resources

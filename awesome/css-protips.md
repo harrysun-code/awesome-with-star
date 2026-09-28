@@ -12,9 +12,6 @@
 
 A collection of tips to help take your CSS skills pro.
 
-> [!TIP]
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/?style=flat)](https://github.com/sindresorhus//stargazers)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/?style=flat)](https://github.com/sindresorhus/awesome//stargazers).
-
 ## Contents
 
 - [Protips](#protips)

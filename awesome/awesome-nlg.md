@@ -29,7 +29,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) [![GitHub stars](https://img.shields.io/github/stars/UFAL-DSG/alex_context_nlg_dataset?style=flat)](https://github.com/UFAL-DSG/alex_context_nlg_dataset/stargazers) - A dataset for NLG in dialogue systems in the public transport information domain.
 - [Box-score data](https://github.com/harvardnlp/boxscore-data/) [![GitHub stars](https://img.shields.io/github/stars/harvardnlp/boxscore-data/?style=flat)](https://github.com/harvardnlp/boxscore-data//stargazers) - This dataset consists of (human-written) NBA basketball game summaries aligned with their corresponding box- and line-scores.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
+- [E2E](https://github.com/tuetschek/e2e-dataset) [![GitHub stars](https://img.shields.io/github/stars/tuetschek/e2e-dataset?style=flat)](https://github.com/tuetschek/e2e-dataset/stargazers) - This shared task focuses on recent end-to-end (E2E), data-driven NLG methods, which jointly learn sentence planning and surface realisation from non-aligned data.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) [![GitHub stars](https://img.shields.io/github/stars/pvougiou/Neural-Wikipedian?style=flat)](https://github.com/pvougiou/Neural-Wikipedian/stargazers) - The repository contains the code along with the required corpora that were used in order to build a system that "learns" how to generate English biographies for Semantic Web triples.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) - Computer-generated weather forecasts from weather.gov (US public forecast), along with corresponding weather data.
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) [![GitHub stars](https://img.shields.io/github/stars/ThiagoCF05/webnlg?style=flat)](https://github.com/ThiagoCF05/webnlg/stargazers) - The enriched version of the WebNLG - a resource for evaluating common NLG tasks, including Discourse Ordering, Lexicalization and Referring Expression Generation.
@@ -110,7 +110,7 @@ Natural Language Generation is a broad domain with applications in chat-bots, st
 ## Products 
 
 - [Accelerated Text](https://github.com/tokenmill/accelerated-text) [![GitHub stars](https://img.shields.io/github/stars/tokenmill/accelerated-text?style=flat)](https://github.com/tokenmill/accelerated-text/stargazers) - Automatically generate multiple natural language descriptions of your data varying in wording and structure.
-- [RosaeNLG](https://rosaenlg.org) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
+- [RosaeNLG](https://github.com/RosaeNLG/rosaenlg) [![GitHub stars](https://img.shields.io/github/stars/RosaeNLG/rosaenlg?style=flat)](https://github.com/RosaeNLG/rosaenlg/stargazers) - An open-source library for node.js or client side (browser) execution, based on the Pug template engine, to generate texts in English, French, German and Italian.
 - [Twine](http://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 
 ## Realizers

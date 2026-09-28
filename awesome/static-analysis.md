@@ -838,6 +838,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [JSLint](https://github.com/douglascrockford/JSLint) [![GitHub stars](https://img.shields.io/github/stars/douglascrockford/JSLint?style=flat)](https://github.com/douglascrockford/JSLint/stargazers) [:information_source:](<https://github.com/analysis-tools-dev/static-analysis/issues/223>) — The JavaScript Code Quality Tool.
 
+- [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+
 - [Polymer-analyzer](https://github.com/Polymer/tools/tree/master/packages/analyzer) [![GitHub stars](https://img.shields.io/github/stars/Polymer/tools/tree/master/packages/analyzer?style=flat)](https://github.com/Polymer/tools/tree/master/packages/analyzer/stargazers) — A static analysis framework for Web Components.
 
 - [retire.js](https://retirejs.github.io/retire.js) — Scanner detecting the use of JavaScript libraries with known vulnerabilities.
@@ -886,10 +888,6 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 
 - **JSPrime** :warning: — Static security analysis tool.
-
-
-
-- **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
 
 
@@ -3047,14 +3045,12 @@ but with the following improvements:
 
 - [njsscan](https://opensecurity.in) — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 
+- [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+
 
 
 <details>
 <summary>Show Deprecated</summary>
-
-- **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
-
-
 
 - **standard** :warning: — An npm module that checks for Javascript Styleguide issues.
 
@@ -3190,6 +3186,8 @@ Kani verifies:
 
 - [njsscan](https://opensecurity.in) — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 
+- [NodeJSScan](https://opensecurity.in) — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+
 - [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
 - [Oversecured](https://oversecured.com) :copyright: — Enterprise vulnerability scanner for Android and iOS apps. It allows app owners and developers to secure each new version of a mobile app by integrating Oversecured into the development process.
@@ -3255,10 +3253,6 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 
 - **LunaSec** :warning: — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
-
-
-
-- **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
 
 
 
@@ -3397,8 +3391,6 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [languagetool](https://languagetool.org) — Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 
-- [misspell-fixer](https://github.com/vlajos/misspell-fixer) [![GitHub stars](https://img.shields.io/github/stars/vlajos/misspell-fixer?style=flat)](https://github.com/vlajos/misspell-fixer/stargazers) — Quick tool for fixing common misspellings, typos in source code.
-
 - [Misspelled Words In Context](https://jwilk.net/software/mwic) — A spell-checker that groups possible misspellings and shows them in their contexts.
 
 - [proselint](https://github.com/amperser/proselint) [![GitHub stars](https://img.shields.io/github/stars/amperser/proselint?style=flat)](https://github.com/amperser/proselint/stargazers) — A linter for English prose with a focus on writing style instead of grammar.
@@ -3415,6 +3407,10 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 
 - **alex** :warning: — Catch insensitive, inconsiderate writing
+
+
+
+- **misspell-fixer** :warning: — Quick tool for fixing common misspellings, typos in source code.
 
 
 

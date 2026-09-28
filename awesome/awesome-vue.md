@@ -984,6 +984,7 @@ _Tables / data grids_
 - [Jordium Gantt Vue3](https://github.com/nelson820125/jordium-gantt-vue3) [![GitHub stars](https://img.shields.io/github/stars/nelson820125/jordium-gantt-vue3?style=flat)](https://github.com/nelson820125/jordium-gantt-vue3/stargazers) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
 - [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
 - [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
+- [vtable-guild](https://github.com/parade0393/vtable-guild) [![GitHub stars](https://img.shields.io/github/stars/parade0393/vtable-guild?style=flat)](https://github.com/parade0393/vtable-guild/stargazers) - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
 
 #### Notification
 

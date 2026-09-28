@@ -98,6 +98,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Pack frames into a sheet with a JSON atlas, slice sheets back into PNGs, and convert between sheets and animated GIFs. Runs in the browser, no upload.
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
+- :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 - :tada: [Tilesplit](https://github.com/AlexPoulsen/tilesplit) [![GitHub stars](https://img.shields.io/github/stars/AlexPoulsen/tilesplit?style=flat)](https://github.com/AlexPoulsen/tilesplit/stargazers) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
@@ -334,6 +335,7 @@ _Set of game frameworks, engines and platforms_
 - :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 - :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 - :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
+- :tada: [Parlour](https://github.com/braedonsaunders/parlour) [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/parlour?style=flat)](https://github.com/braedonsaunders/parlour/stargazers) - Deterministic TypeScript card-game engine with a cozy playable browser table (Blitz, Wild, P2P rooms, no backend).
 - :tada: [Phaser](http://phaser.io/) - free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - :tada: [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) [![GitHub stars](https://img.shields.io/github/stars/PixelVision8/PixelVision8?style=flat)](https://github.com/PixelVision8/PixelVision8/stargazers) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
@@ -397,6 +399,7 @@ _Audio editors, sounds collections and more._
 
 ### Collections
 
+- :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 - :free: [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 - :free: [Freesound](http://www.freesound.org/) - collaborative database of Creative Commons Licensed sounds.
 - :free: [Musopen](https://musopen.org/) - Royalty free music.

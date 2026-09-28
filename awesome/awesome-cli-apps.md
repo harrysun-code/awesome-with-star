@@ -264,6 +264,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [cronboard](https://github.com/antoniorodr/Cronboard) [![GitHub stars](https://img.shields.io/github/stars/antoniorodr/Cronboard?style=flat)](https://github.com/antoniorodr/Cronboard/stargazers) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) [![GitHub stars](https://img.shields.io/github/stars/s3m/s3m?style=flat)](https://github.com/s3m/s3m/stargazers) - Stream of data into S3 buckets.
 - [bencher](https://github.com/bencherdev/bencher) [![GitHub stars](https://img.shields.io/github/stars/bencherdev/bencher?style=flat)](https://github.com/bencherdev/bencher/stargazers) - A continuous benchmarking tool.
+- [RunWisp](https://github.com/runwisp/runwisp) [![GitHub stars](https://img.shields.io/github/stars/runwisp/runwisp?style=flat)](https://github.com/runwisp/runwisp/stargazers) - Featureful cron and supervisord replacement.
 
 ### Docker
 

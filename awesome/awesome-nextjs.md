@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/unicodeveloper/awesome-nextjs?style=flat)](https://github.com/unicodeveloper/awesome-nextjs/stargazers)
 
-# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+﻿# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js) [![GitHub stars](https://img.shields.io/github/stars/vercel/next.js?style=flat)](https://github.com/vercel/next.js/stargazers)
 
@@ -187,13 +187,11 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 - [@farming-labs/docs](https://github.com/farming-labs/docs) [![GitHub stars](https://img.shields.io/github/stars/farming-labs/docs?style=flat)](https://github.com/farming-labs/docs/stargazers) - A modern documentation framework that works. One config file, zero boilerplate.
 
 ## Apps
-- [AI Video Prompt Cheatsheet](https://github.com/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet) [![GitHub stars](https://img.shields.io/github/stars/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet?style=flat)](https://github.com/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet/stargazers) - Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. [Demo](https://videoprompts.cdqyfdbymn.me)
-- [Reely](https://github.com/Vette1123/movies-streaming-platform) [![GitHub stars](https://img.shields.io/github/stars/Vette1123/movies-streaming-platform?style=flat)](https://github.com/Vette1123/movies-streaming-platform/stargazers) - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. [Demo](https://www.reely.space)
-- [FileFlex](https://github.com/armor229-ux/File-Flex) [![GitHub stars](https://img.shields.io/github/stars/armor229-ux/File-Flex?style=flat)](https://github.com/armor229-ux/File-Flex/stargazers) - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.
+
 - [API Status Check](https://apistatuscheck.com) - Real-time status monitoring dashboard tracking 2,500+ APIs and cloud services. Built with Next.js and deployed on Vercel.
-- [DevScratchpad](https://github.com/Saad-web-spec/DevScratchPad) [![GitHub stars](https://img.shields.io/github/stars/Saad-web-spec/DevScratchPad?style=flat)](https://github.com/Saad-web-spec/DevScratchPad/stargazers) - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. [Demo](https://tools.saadengineer.works)
-- [DevToolKit](https://github.com/a827681306/devtoolkit) [![GitHub stars](https://img.shields.io/github/stars/a827681306/devtoolkit?style=flat)](https://github.com/a827681306/devtoolkit/stargazers) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
+- [Calculora](https://calculora.net) - 300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.
 - [CourseLit](https://github.com/codelit/courselit) [![GitHub stars](https://img.shields.io/github/stars/codelit/courselit?style=flat)](https://github.com/codelit/courselit/stargazers) - An open source alternative to Thinkific, Teachable etc.
+- [DevToolKit](https://github.com/a827681306/devtoolkit) [![GitHub stars](https://img.shields.io/github/stars/a827681306/devtoolkit?style=flat)](https://github.com/a827681306/devtoolkit/stargazers) - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.
 - [FIM Agent](https://github.com/fim-ai/fim-agent) [![GitHub stars](https://img.shields.io/github/stars/fim-ai/fim-agent?style=flat)](https://github.com/fim-ai/fim-agent/stargazers) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 - [FastUtil](https://fastutil.app) - 71+ free browser-based developer utilities with client-side processing, 20 language translations, and no sign-up required. Built with Next.js App Router and shadcn/ui.
 - [Feednext](https://github.com/feednext/feednext) [![GitHub stars](https://img.shields.io/github/stars/feednext/feednext?style=flat)](https://github.com/feednext/feednext/stargazers) - An open source social media application.
@@ -233,7 +231,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 - [shadcn/ui](https://github.com/shadcn/ui) [![GitHub stars](https://img.shields.io/github/stars/shadcn/ui?style=flat)](https://github.com/shadcn/ui/stargazers) - Beautifully designed components that you can copy and paste into your apps.
 - [StorageBox](https://github.com/AlandSleman/StorageBox) [![GitHub stars](https://img.shields.io/github/stars/AlandSleman/StorageBox?style=flat)](https://github.com/AlandSleman/StorageBox/stargazers) - A Simple File Storage Service Built with Go and Next.js.
 - [Taskade](https://taskade.com/) - AI-powered workspace for teams with real-time collaboration, AI agents, project management, and workflow automation.
-- [Lunidex](https://lunidex.app) - Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.
 
 ## Books
 
@@ -243,7 +240,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 - [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - Use Next.js serverless features to access databases and authenticate users in your React applications
 - [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - Build a full-stack software-as-a-service application using Next.js, Prisma ORM, Cloudinary API, Chakra-UI and React Hook Form.
 - [Real World Next.js](https://www.amazon.com/Real-World-Next-js-high-performance-applications-production-ebook/dp/B08XY1MCV1?Adv-Srch-Books-Submit.x=0&Adv-Srch-Books-Submit.y=0&qid=1652828645&refinements=p_66:9781801079877&s=books&sr=1-1&unfiltered=1&linkCode=sl1&tag=misko0a-20&linkId=1039970a67ec37bfcaa25cf6c77a5591&language=en_US&ref_=as_li_ss_tl) - Build scalable, high-performance, and modern web applications using Next.js, the React framework for production
-- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) [![GitHub stars](https://img.shields.io/github/stars/gibbok/typescript-book?style=flat)](https://github.com/gibbok/typescript-book/stargazers) - A free and open-source reference guide for TypeScript fundamentals and practical patterns, designed for use with Next.js and React.
 
 ## Videos
 
@@ -301,3 +297,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+

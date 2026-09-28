@@ -36,6 +36,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Resources](#resources)
     - [E-Books](#e-books)
 
+- [Incubating](#incubating)
 
 ## Analysis
 
