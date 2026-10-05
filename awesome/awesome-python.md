@@ -147,19 +147,23 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
 - Orchestration
   - [langchain](https://github.com/langchain-ai/langchain) [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat)](https://github.com/langchain-ai/langchain/stargazers) - A framework for building agents and LLM-powered applications.
   - [langgraph](https://github.com/langchain-ai/langgraph) [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat)](https://github.com/langchain-ai/langgraph/stargazers) - Low-level orchestration framework for building stateful, long-running LLM agents.
-  - [crewai](https://github.com/crewAIInc/crewAI) [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat)](https://github.com/crewAIInc/crewAI/stargazers) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
   - [pydantic-ai](https://github.com/pydantic/pydantic-ai) [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat)](https://github.com/pydantic/pydantic-ai/stargazers) - A Python agent framework for building generative AI applications with structured schemas.
+  - [crewai](https://github.com/crewAIInc/crewAI) [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat)](https://github.com/crewAIInc/crewAI/stargazers) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
 - Vendor Agent SDKs
-  - [openai-agents](https://github.com/openai/openai-agents-python) [![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat)](https://github.com/openai/openai-agents-python/stargazers) - OpenAI's framework for building and managing AI agents.
   - [claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk-python) [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-agent-sdk-python?style=flat)](https://github.com/anthropics/claude-agent-sdk-python/stargazers) - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
+  - [openai-agents](https://github.com/openai/openai-agents-python) [![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat)](https://github.com/openai/openai-agents-python/stargazers) - OpenAI's framework for building and managing AI agents.
+  - [google-adk](https://github.com/google/adk-python) [![GitHub stars](https://img.shields.io/github/stars/google/adk-python?style=flat)](https://github.com/google/adk-python/stargazers) - Google's code-first toolkit for building, evaluating, and deploying AI agents.
+- Model Context Protocol
+  - [mcp](https://github.com/modelcontextprotocol/python-sdk) [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat)](https://github.com/modelcontextprotocol/python-sdk/stargazers) - The official Python SDK for building Model Context Protocol servers and clients.
+  - [fastmcp](https://github.com/PrefectHQ/fastmcp) [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=flat)](https://github.com/PrefectHQ/fastmcp/stargazers) - A high-level, Pythonic framework for building MCP servers and clients.
 - Personal Assistants
-  - [hermes-agent](https://github.com/nousresearch/hermes-agent) [![GitHub stars](https://img.shields.io/github/stars/nousresearch/hermes-agent?style=flat)](https://github.com/nousresearch/hermes-agent/stargazers) - An adaptive personal AI assistant that grows with you.
+  - [hermes-agent](https://github.com/NousResearch/hermes-agent) [![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat)](https://github.com/NousResearch/hermes-agent/stargazers) - An adaptive personal AI assistant that grows with you.
   - [AstrBot](https://github.com/AstrBotDevs/AstrBot) [![GitHub stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=flat)](https://github.com/AstrBotDevs/AstrBot/stargazers) - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
 - Prompt Optimization
   - [dspy](https://github.com/stanfordnlp/dspy) [![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat)](https://github.com/stanfordnlp/dspy/stargazers) - A framework for programming, not prompting, language models.
 - Data Layer
   - [instructor](https://github.com/567-labs/instructor) [![GitHub stars](https://img.shields.io/github/stars/567-labs/instructor?style=flat)](https://github.com/567-labs/instructor/stargazers) - A library for extracting structured data from LLMs, powered by Pydantic.
-  - [llama-index](https://github.com/run-llama/llama_index) [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat)](https://github.com/run-llama/llama_index/stargazers) - A data framework for your LLM application.
+  - [llama-index](https://github.com/run-llama/llama_index) [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat)](https://github.com/run-llama/llama_index/stargazers) - A toolkit for building RAG pipelines and agents over your data.
   - [mem0](https://github.com/mem0ai/mem0) [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat)](https://github.com/mem0ai/mem0/stargazers) - An intelligent memory layer for AI agents enabling personalized interactions.
   - [openviking](https://github.com/volcengine/OpenViking) [![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat)](https://github.com/volcengine/OpenViking/stargazers) - A context database for AI agents that unifies memory, resources, and skills.
   - [semantica](https://github.com/semantica-agi/semantica) [![GitHub stars](https://img.shields.io/github/stars/semantica-agi/semantica?style=flat)](https://github.com/semantica-agi/semantica/stargazers) - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
@@ -170,19 +174,19 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [vllm](https://github.com/vllm-project/vllm) [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat)](https://github.com/vllm-project/vllm/stargazers) - A high-throughput and memory-efficient inference and serving engine for LLMs.
   - [mlx-lm](https://github.com/ml-explore/mlx-lm) [![GitHub stars](https://img.shields.io/github/stars/ml-explore/mlx-lm?style=flat)](https://github.com/ml-explore/mlx-lm/stargazers) - Run and fine-tune large language models on Apple Silicon with MLX.
 - LLM Gateways
-  - [LiteLLM](https://github.com/BerriAI/litellm) [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat)](https://github.com/BerriAI/litellm/stargazers) - Call 100+ LLMs using OpenAI format.
+  - [litellm](https://github.com/BerriAI/litellm) [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat)](https://github.com/BerriAI/litellm/stargazers) - Call 100+ LLMs using OpenAI format.
 - Image and Video Generation
   - [diffusers](https://github.com/huggingface/diffusers) [![GitHub stars](https://img.shields.io/github/stars/huggingface/diffusers?style=flat)](https://github.com/huggingface/diffusers/stargazers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
 - Fine-tuning
   - [peft](https://github.com/huggingface/peft) [![GitHub stars](https://img.shields.io/github/stars/huggingface/peft?style=flat)](https://github.com/huggingface/peft/stargazers) - A library for parameter-efficient fine-tuning of large pretrained models.
-  - [unsloth](https://github.com/unslothai/unsloth) [![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat)](https://github.com/unslothai/unsloth/stargazers) - A library for faster LLM fine-tuning and training with reduced memory usage.
+  - [trl](https://github.com/huggingface/trl) [![GitHub stars](https://img.shields.io/github/stars/huggingface/trl?style=flat)](https://github.com/huggingface/trl/stargazers) - A library for post-training transformer language models with SFT, DPO, GRPO, and other trainers.
+  - [unsloth](https://github.com/unslothai/unsloth) [![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat)](https://github.com/unslothai/unsloth/stargazers) - Faster, lower-memory LLM fine-tuning, as a Python library or a desktop app.
   - [axolotl](https://github.com/axolotl-ai-cloud/axolotl) [![GitHub stars](https://img.shields.io/github/stars/axolotl-ai-cloud/axolotl?style=flat)](https://github.com/axolotl-ai-cloud/axolotl/stargazers) - A framework for fine-tuning and post-training large language models.
 - Speech
+  - [faster-whisper](https://github.com/SYSTRAN/faster-whisper) [![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=flat)](https://github.com/SYSTRAN/faster-whisper/stargazers) - A Whisper reimplementation on CTranslate2, up to 4 times faster than openai-whisper with less memory.
   - [openai-whisper](https://github.com/openai/whisper) [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=flat)](https://github.com/openai/whisper/stargazers) - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
-  - [funasr](https://github.com/modelscope/FunASR) [![GitHub stars](https://img.shields.io/github/stars/modelscope/FunASR?style=flat)](https://github.com/modelscope/FunASR/stargazers) - Industrial-grade speech recognition toolkit with speaker diarization and emotion detection.
-  - [vibevoice](https://github.com/microsoft/VibeVoice) [![GitHub stars](https://img.shields.io/github/stars/microsoft/VibeVoice?style=flat)](https://github.com/microsoft/VibeVoice/stargazers) - A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.
   - [gTTS](https://github.com/pndurette/gTTS) [![GitHub stars](https://img.shields.io/github/stars/pndurette/gTTS?style=flat)](https://github.com/pndurette/gTTS/stargazers) - Python library and CLI tool for converting text to speech using Google Translate TTS.
-  - [kittentts](https://github.com/KittenML/KittenTTS) [![GitHub stars](https://img.shields.io/github/stars/KittenML/KittenTTS?style=flat)](https://github.com/KittenML/KittenTTS/stargazers) - Lightweight ONNX text-to-speech library with small CPU-friendly models.
+  - [funasr](https://github.com/modelscope/FunASR) [![GitHub stars](https://img.shields.io/github/stars/modelscope/FunASR?style=flat)](https://github.com/modelscope/FunASR/stargazers) - Industrial-grade speech recognition toolkit with speaker diarization and emotion detection.
 
 ### Deep Learning
 
@@ -190,10 +194,10 @@ _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learni
 
 - Frameworks
   - [pytorch](https://github.com/pytorch/pytorch) [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch?style=flat)](https://github.com/pytorch/pytorch/stargazers) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
-  - [tensorflow](https://github.com/tensorflow/tensorflow) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat)](https://github.com/tensorflow/tensorflow/stargazers) - The most popular Deep Learning framework created by Google.
-  - [keras](https://github.com/keras-team/keras) [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras?style=flat)](https://github.com/keras-team/keras/stargazers) - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
-  - [jax](https://github.com/jax-ml/jax) [![GitHub stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat)](https://github.com/jax-ml/jax/stargazers) - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
   - [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) [![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=flat)](https://github.com/Lightning-AI/pytorch-lightning/stargazers) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
+  - [jax](https://github.com/jax-ml/jax) [![GitHub stars](https://img.shields.io/github/stars/jax-ml/jax?style=flat)](https://github.com/jax-ml/jax/stargazers) - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
+  - [keras](https://github.com/keras-team/keras) [![GitHub stars](https://img.shields.io/github/stars/keras-team/keras?style=flat)](https://github.com/keras-team/keras/stargazers) - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
+  - [tensorflow](https://github.com/tensorflow/tensorflow) [![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat)](https://github.com/tensorflow/tensorflow/stargazers) - An end-to-end machine learning platform from Google.
 - Reinforcement Learning
   - [gymnasium](https://github.com/Farama-Foundation/Gymnasium) [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=flat)](https://github.com/Farama-Foundation/Gymnasium/stargazers) - A standard API for reinforcement learning environments with popular reference environments ([gym](https://github.com/openai/gym) [![GitHub stars](https://img.shields.io/github/stars/openai/gym?style=flat)](https://github.com/openai/gym/stargazers) successor).
   - [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) [![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=flat)](https://github.com/DLR-RM/stable-baselines3/stargazers) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
@@ -211,6 +215,9 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning](https://git
   - [lightgbm](https://github.com/lightgbm-org/LightGBM) [![GitHub stars](https://img.shields.io/github/stars/lightgbm-org/LightGBM?style=flat)](https://github.com/lightgbm-org/LightGBM/stargazers) - A fast, distributed, high performance gradient boosting framework.
   - [catboost](https://github.com/catboost/catboost) [![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=flat)](https://github.com/catboost/catboost/stargazers) - A fast, scalable, high performance gradient boosting on decision trees library.
 - Time Series Forecasting
+  - [prophet](https://github.com/facebook/prophet) [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet?style=flat)](https://github.com/facebook/prophet/stargazers) - A tool for producing forecasts for time series with multiple seasonality and trend changes.
+  - [statsforecast](https://github.com/Nixtla/statsforecast) [![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=flat)](https://github.com/Nixtla/statsforecast/stargazers) - Fast statistical forecasting models such as ARIMA, ETS, and Theta, compiled with numba.
+  - [sktime](https://github.com/sktime/sktime) [![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=flat)](https://github.com/sktime/sktime/stargazers) - A unified scikit-learn-style framework for forecasting and other time-series learning tasks.
   - [timesfm](https://github.com/google-research/timesfm) [![GitHub stars](https://img.shields.io/github/stars/google-research/timesfm?style=flat)](https://github.com/google-research/timesfm/stargazers) - A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.
 
 ### Natural Language Processing
@@ -234,11 +241,12 @@ _Libraries for image and video analysis, object detection, and OCR._
 - General
   - [opencv-python](https://github.com/opencv/opencv-python) [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv-python?style=flat)](https://github.com/opencv/opencv-python/stargazers) - Open Source Computer Vision Library.
   - [ultralytics](https://github.com/ultralytics/ultralytics) [![GitHub stars](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat)](https://github.com/ultralytics/ultralytics/stargazers) - Ultralytics YOLO for object detection, segmentation, pose estimation, classification, and tracking.
-  - [kornia](https://github.com/kornia/kornia/) [![GitHub stars](https://img.shields.io/github/stars/kornia/kornia/?style=flat)](https://github.com/kornia/kornia//stargazers) - Open Source Differentiable Computer Vision Library for PyTorch.
+  - [kornia](https://github.com/kornia/kornia) [![GitHub stars](https://img.shields.io/github/stars/kornia/kornia?style=flat)](https://github.com/kornia/kornia/stargazers) - Open Source Differentiable Computer Vision Library for PyTorch.
   - [fiftyone](https://github.com/voxel51/fiftyone) [![GitHub stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=flat)](https://github.com/voxel51/fiftyone/stargazers) - The open-source tool for building high-quality datasets and computer vision models.
 - OCR
-  - [pytesseract](https://github.com/madmaze/pytesseract) [![GitHub stars](https://img.shields.io/github/stars/madmaze/pytesseract?style=flat)](https://github.com/madmaze/pytesseract/stargazers) - A wrapper for the [Tesseract OCR](https://github.com/tesseract-ocr) [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr?style=flat)](https://github.com/tesseract-ocr/stargazers) engine.
+  - [pytesseract](https://github.com/madmaze/pytesseract) [![GitHub stars](https://img.shields.io/github/stars/madmaze/pytesseract?style=flat)](https://github.com/madmaze/pytesseract/stargazers) - A wrapper for the [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=flat)](https://github.com/tesseract-ocr/tesseract/stargazers) engine.
   - [easyocr](https://github.com/JaidedAI/EasyOCR) [![GitHub stars](https://img.shields.io/github/stars/JaidedAI/EasyOCR?style=flat)](https://github.com/JaidedAI/EasyOCR/stargazers) - Ready-to-use OCR with 80+ languages supported.
+  - [paddleocr](https://github.com/PaddlePaddle/PaddleOCR) [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=flat)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) - Multilingual OCR and document parsing toolkit based on PaddlePaddle.
 
 ### Recommender Systems
 
@@ -278,11 +286,13 @@ _Libraries for building RESTful, GraphQL, and RPC APIs._
   - [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) [![GitHub stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry-django?style=flat)](https://github.com/strawberry-graphql/strawberry-django/stargazers) - Strawberry GraphQL integration with Django.
   - [django-modern-rest](https://github.com/wemake-services/django-modern-rest) [![GitHub stars](https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat)](https://github.com/wemake-services/django-modern-rest/stargazers) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
 - Flask
+  - [flask-restx](https://github.com/python-restx/flask-restx) [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx?style=flat)](https://github.com/python-restx/flask-restx/stargazers) - Fully featured framework for fast, easy and documented API development with Flask.
+  - [flask-smorest](https://github.com/marshmallow-code/flask-smorest) [![GitHub stars](https://img.shields.io/github/stars/marshmallow-code/flask-smorest?style=flat)](https://github.com/marshmallow-code/flask-smorest/stargazers) - A Flask/Marshmallow-based REST API framework with automatic OpenAPI documentation.
   - [apiflask](https://github.com/apiflask/apiflask) [![GitHub stars](https://img.shields.io/github/stars/apiflask/apiflask?style=flat)](https://github.com/apiflask/apiflask/stargazers) - A lightweight Python web API framework based on Flask, supporting marshmallow schemas and Pydantic models.
 - Framework Agnostic
   - [fastapi](https://github.com/fastapi/fastapi) [![GitHub stars](https://img.shields.io/github/stars/fastapi/fastapi?style=flat)](https://github.com/fastapi/fastapi/stargazers) - A modern, fast, web framework for building APIs with standard Python type hints.
-  - [connexion](https://github.com/spec-first/connexion) [![GitHub stars](https://img.shields.io/github/stars/spec-first/connexion?style=flat)](https://github.com/spec-first/connexion/stargazers) - A spec-first framework that automatically handles requests based on your OpenAPI specification.
   - [strawberry](https://github.com/strawberry-graphql/strawberry) [![GitHub stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry?style=flat)](https://github.com/strawberry-graphql/strawberry/stargazers) - A GraphQL library that leverages Python type annotations for schema definition.
+  - [connexion](https://github.com/spec-first/connexion) [![GitHub stars](https://img.shields.io/github/stars/spec-first/connexion?style=flat)](https://github.com/spec-first/connexion/stargazers) - A spec-first framework that automatically handles requests based on your OpenAPI specification.
 - RPC
   - [grpcio](https://github.com/grpc/grpc) [![GitHub stars](https://img.shields.io/github/stars/grpc/grpc?style=flat)](https://github.com/grpc/grpc/stargazers) - HTTP/2-based RPC framework with Python bindings, built by Google.
 
@@ -295,7 +305,7 @@ _ASGI and WSGI compatible web servers._
   - [granian](https://github.com/emmett-framework/granian) [![GitHub stars](https://img.shields.io/github/stars/emmett-framework/granian?style=flat)](https://github.com/emmett-framework/granian/stargazers) - A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.
   - [hypercorn](https://github.com/pgjones/hypercorn) [![GitHub stars](https://img.shields.io/github/stars/pgjones/hypercorn?style=flat)](https://github.com/pgjones/hypercorn/stargazers) - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 - WSGI
-  - [gunicorn](https://github.com/benoitc/gunicorn) [![GitHub stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=flat)](https://github.com/benoitc/gunicorn/stargazers) - Pre-forked, ported from Ruby's Unicorn project.
+  - [gunicorn](https://github.com/benoitc/gunicorn) [![GitHub stars](https://img.shields.io/github/stars/benoitc/gunicorn?style=flat)](https://github.com/benoitc/gunicorn/stargazers) - A pre-fork WSGI server with a native ASGI worker, ported from Ruby's Unicorn project.
   - [waitress](https://github.com/Pylons/waitress) [![GitHub stars](https://img.shields.io/github/stars/Pylons/waitress?style=flat)](https://github.com/Pylons/waitress/stargazers) - Multi-threaded, powers Pyramid.
 
 ### WebSocket
@@ -318,6 +328,7 @@ _Libraries for rendering text and HTML from templates._
 
 _Tools for managing, storing, compressing and minifying website assets._
 
+- [whitenoise](https://github.com/evansd/whitenoise) [![GitHub stars](https://img.shields.io/github/stars/evansd/whitenoise?style=flat)](https://github.com/evansd/whitenoise/stargazers) - Radically simplified static file serving for WSGI applications, with compression and caching headers.
 - [django-storages](https://github.com/jschneier/django-storages) [![GitHub stars](https://img.shields.io/github/stars/jschneier/django-storages?style=flat)](https://github.com/jschneier/django-storages/stargazers) - A collection of custom storage back ends for Django.
 - [django-compressor](https://github.com/django-compressor/django-compressor) [![GitHub stars](https://img.shields.io/github/stars/django-compressor/django-compressor?style=flat)](https://github.com/django-compressor/django-compressor/stargazers) - Compresses linked and inline JavaScript or CSS into a single cached file.
 
@@ -342,6 +353,7 @@ _Libraries for administrative interfaces._
 
 - [flask-admin](https://github.com/pallets-eco/flask-admin) [![GitHub stars](https://img.shields.io/github/stars/pallets-eco/flask-admin?style=flat)](https://github.com/pallets-eco/flask-admin/stargazers) - Simple and extensible administrative interface framework for Flask.
 - [django-unfold](https://github.com/unfoldadmin/django-unfold) [![GitHub stars](https://img.shields.io/github/stars/unfoldadmin/django-unfold?style=flat)](https://github.com/unfoldadmin/django-unfold/stargazers) - A modern Django admin theme for building dashboards, internal tools, and business applications.
+- [sqladmin](https://github.com/smithyhq/sqladmin) [![GitHub stars](https://img.shields.io/github/stars/smithyhq/sqladmin?style=flat)](https://github.com/smithyhq/sqladmin/stargazers) - An admin interface for SQLAlchemy models in FastAPI and Starlette.
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) [![GitHub stars](https://img.shields.io/github/stars/sehmaschine/django-grappelli?style=flat)](https://github.com/sehmaschine/django-grappelli/stargazers) - A jazzy skin for the Django Admin-Interface.
 
 ### CMS
@@ -370,12 +382,12 @@ _Static site generator is a software that takes some text + templates as input a
 
 _Libraries for working with HTTP._
 
-- Clients
+- General
   - [requests](https://github.com/psf/requests) [![GitHub stars](https://img.shields.io/github/stars/psf/requests?style=flat)](https://github.com/psf/requests/stargazers) - HTTP Requests for Humans.
-  - [httpx](https://github.com/encode/httpx) [![GitHub stars](https://img.shields.io/github/stars/encode/httpx?style=flat)](https://github.com/encode/httpx/stargazers) - A next generation HTTP client for Python.
   - [aiohttp](https://github.com/aio-libs/aiohttp) [![GitHub stars](https://img.shields.io/github/stars/aio-libs/aiohttp?style=flat)](https://github.com/aio-libs/aiohttp/stargazers) - Asynchronous HTTP client/server framework for asyncio and Python.
-  - [urllib3](https://github.com/urllib3/urllib3) [![GitHub stars](https://img.shields.io/github/stars/urllib3/urllib3?style=flat)](https://github.com/urllib3/urllib3/stargazers) - An HTTP library with thread-safe connection pooling, file post, and more.
   - [httpx2](https://github.com/pydantic/httpx2) [![GitHub stars](https://img.shields.io/github/stars/pydantic/httpx2?style=flat)](https://github.com/pydantic/httpx2/stargazers) - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx](https://github.com/encode/httpx) [![GitHub stars](https://img.shields.io/github/stars/encode/httpx?style=flat)](https://github.com/encode/httpx/stargazers) fork).
+  - [urllib3](https://github.com/urllib3/urllib3) [![GitHub stars](https://img.shields.io/github/stars/urllib3/urllib3?style=flat)](https://github.com/urllib3/urllib3/stargazers) - An HTTP library with thread-safe connection pooling, file post, and more.
+  - [httpx](https://github.com/encode/httpx) [![GitHub stars](https://img.shields.io/github/stars/encode/httpx?style=flat)](https://github.com/encode/httpx/stargazers) - A next generation HTTP client for Python.
 - URL Manipulation
   - [yarl](https://github.com/aio-libs/yarl) [![GitHub stars](https://img.shields.io/github/stars/aio-libs/yarl?style=flat)](https://github.com/aio-libs/yarl/stargazers) - Yet another URL library.
 
@@ -385,19 +397,21 @@ _Libraries to automate web scraping and extract web content._
 
 - Frameworks
   - [browser-use](https://github.com/browser-use/browser-use) [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat)](https://github.com/browser-use/browser-use/stargazers) - Make websites accessible for AI agents with easy browser automation.
-  - [scrapy](https://github.com/scrapy/scrapy) [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=flat)](https://github.com/scrapy/scrapy/stargazers) - A fast high-level screen scraping and web crawling framework.
+  - [scrapy](https://github.com/scrapy/scrapy) [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=flat)](https://github.com/scrapy/scrapy/stargazers) - A fast high-level web crawling and scraping framework.
   - [crawl4ai](https://github.com/unclecode/crawl4ai) [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat)](https://github.com/unclecode/crawl4ai/stargazers) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
   - [stagehand](https://github.com/browserbase/stagehand) [![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat)](https://github.com/browserbase/stagehand/stargazers) - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
-  - [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) [![GitHub stars](https://img.shields.io/github/stars/browser-use/jev-ultrafast?style=flat)](https://github.com/browser-use/jev-ultrafast/stargazers) - A fast browser agent that picks actions from an indexed table of page elements, using a small LLM only to type text.
+  - [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) [![GitHub stars](https://img.shields.io/github/stars/browser-use/jev-ultrafast?style=flat)](https://github.com/browser-use/jev-ultrafast/stargazers) - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
 - Content Extraction
+  - [markdownify](https://github.com/matthewwithanm/python-markdownify) [![GitHub stars](https://img.shields.io/github/stars/matthewwithanm/python-markdownify?style=flat)](https://github.com/matthewwithanm/python-markdownify/stargazers) - Convert HTML to Markdown, with customizable tag handling.
   - [feedparser](https://github.com/kurtmckee/feedparser) [![GitHub stars](https://img.shields.io/github/stars/kurtmckee/feedparser?style=flat)](https://github.com/kurtmckee/feedparser/stargazers) - Universal feed parser.
-  - [html2text](https://github.com/Alir3z4/html2text) [![GitHub stars](https://img.shields.io/github/stars/Alir3z4/html2text?style=flat)](https://github.com/Alir3z4/html2text/stargazers) - Convert HTML to Markdown-formatted text.
   - [trafilatura](https://github.com/adbar/trafilatura) [![GitHub stars](https://img.shields.io/github/stars/adbar/trafilatura?style=flat)](https://github.com/adbar/trafilatura/stargazers) - A tool for gathering text and metadata from the web, with built-in content filtering.
 
 ### Email
 
 _Libraries for sending email._
 
+- [aiosmtplib](https://github.com/cole/aiosmtplib) [![GitHub stars](https://img.shields.io/github/stars/cole/aiosmtplib?style=flat)](https://github.com/cole/aiosmtplib/stargazers) - An asyncio SMTP client.
+- [django-anymail](https://github.com/anymail/django-anymail) [![GitHub stars](https://img.shields.io/github/stars/anymail/django-anymail?style=flat)](https://github.com/anymail/django-anymail/stargazers) - Django email backends and webhooks for transactional email services such as Amazon SES, Brevo, Mailgun, Postmark, and Resend.
 - [yagmail](https://github.com/kootenpv/yagmail) [![GitHub stars](https://img.shields.io/github/stars/kootenpv/yagmail?style=flat)](https://github.com/kootenpv/yagmail/stargazers) - Yet another Gmail/SMTP client.
 
 **Database & Storage**
@@ -416,6 +430,7 @@ _Libraries that implement Object-Relational Mapping or data mapping techniques._
   - [pynamodb](https://github.com/pynamodb/PynamoDB) [![GitHub stars](https://img.shields.io/github/stars/pynamodb/PynamoDB?style=flat)](https://github.com/pynamodb/PynamoDB/stargazers) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
   - [mongoengine](https://github.com/MongoEngine/mongoengine) [![GitHub stars](https://img.shields.io/github/stars/MongoEngine/mongoengine?style=flat)](https://github.com/MongoEngine/mongoengine/stargazers) - A Python Object-Document-Mapper for working with MongoDB.
   - [beanie](https://github.com/BeanieODM/beanie) [![GitHub stars](https://img.shields.io/github/stars/BeanieODM/beanie?style=flat)](https://github.com/BeanieODM/beanie/stargazers) - An asynchronous Python object-document mapper (ODM) for MongoDB.
+  - [django-mongodb-backend](https://github.com/mongodb/django-mongodb-backend) [![GitHub stars](https://img.shields.io/github/stars/mongodb/django-mongodb-backend?style=flat)](https://github.com/mongodb/django-mongodb-backend/stargazers) - Official MongoDB database backend for Django.
 
 ### Database Drivers
 
@@ -425,7 +440,7 @@ _Libraries for connecting and operating databases._
   - [pymysql](https://github.com/PyMySQL/PyMySQL) [![GitHub stars](https://img.shields.io/github/stars/PyMySQL/PyMySQL?style=flat)](https://github.com/PyMySQL/PyMySQL/stargazers) - A pure-Python MySQL and MariaDB client library, based on PEP 249.
   - [mysqlclient](https://github.com/PyMySQL/mysqlclient) [![GitHub stars](https://img.shields.io/github/stars/PyMySQL/mysqlclient?style=flat)](https://github.com/PyMySQL/mysqlclient/stargazers) - MySQL and MariaDB connector ([MySQLdb1](https://github.com/farcepest/MySQLdb1) [![GitHub stars](https://img.shields.io/github/stars/farcepest/MySQLdb1?style=flat)](https://github.com/farcepest/MySQLdb1/stargazers) fork).
 - PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) [![GitHub stars](https://img.shields.io/github/stars/dhamaniasad/awesome-postgres?style=flat)](https://github.com/dhamaniasad/awesome-postgres/stargazers)
-  - [psycopg](https://github.com/psycopg/psycopg) [![GitHub stars](https://img.shields.io/github/stars/psycopg/psycopg?style=flat)](https://github.com/psycopg/psycopg/stargazers) - The most popular PostgreSQL adapter for Python.
+  - [psycopg](https://github.com/psycopg/psycopg) [![GitHub stars](https://img.shields.io/github/stars/psycopg/psycopg?style=flat)](https://github.com/psycopg/psycopg/stargazers) - A PostgreSQL adapter for Python, the successor to psycopg2.
   - [asyncpg](https://github.com/MagicStack/asyncpg) [![GitHub stars](https://img.shields.io/github/stars/MagicStack/asyncpg?style=flat)](https://github.com/MagicStack/asyncpg/stargazers) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - SQLite - [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite) [![GitHub stars](https://img.shields.io/github/stars/planetopendata/awesome-sqlite?style=flat)](https://github.com/planetopendata/awesome-sqlite/stargazers)
   - [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQLite interface compliant with DB-API 2.0.
@@ -441,7 +456,6 @@ _Libraries for connecting and operating databases._
   - [redis](https://github.com/redis/redis-py) [![GitHub stars](https://img.shields.io/github/stars/redis/redis-py?style=flat)](https://github.com/redis/redis-py/stargazers) - The Python client for Redis.
   - [pymongo](https://github.com/mongodb/mongo-python-driver) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-python-driver?style=flat)](https://github.com/mongodb/mongo-python-driver/stargazers) - The official Python client for MongoDB.
   - [cassandra-driver](https://github.com/apache/cassandra-python-driver) [![GitHub stars](https://img.shields.io/github/stars/apache/cassandra-python-driver?style=flat)](https://github.com/apache/cassandra-python-driver/stargazers) - The Python Driver for Apache Cassandra.
-  - [django-mongodb-backend](https://github.com/mongodb/django-mongodb-backend) [![GitHub stars](https://img.shields.io/github/stars/mongodb/django-mongodb-backend?style=flat)](https://github.com/mongodb/django-mongodb-backend/stargazers) - Official MongoDB database backend for Django.
 
 ### Database
 
@@ -451,10 +465,9 @@ _In-process databases usable directly from Python._
   - [duckdb](https://github.com/duckdb/duckdb) [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=flat)](https://github.com/duckdb/duckdb/stargazers) - An in-process SQL OLAP database management system; optimized for analytics and fast queries, similar to SQLite but for analytical workloads.
   - [chdb](https://github.com/chdb-io/chdb) [![GitHub stars](https://img.shields.io/github/stars/chdb-io/chdb?style=flat)](https://github.com/chdb-io/chdb/stargazers) - In-process OLAP SQL engine with the full ClickHouse dialect, zero-copy pandas/Arrow interop, and federation to remote ClickHouse clusters via `remoteSecure()`.
 - Vector
-  - [chromadb](https://github.com/chroma-core/chroma) [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat)](https://github.com/chroma-core/chroma/stargazers) - An open-source embedding database for building AI applications with embeddings and semantic search.
   - [lancedb](https://github.com/lancedb/lancedb) [![GitHub stars](https://img.shields.io/github/stars/lancedb/lancedb?style=flat)](https://github.com/lancedb/lancedb/stargazers) - A developer-friendly embedded retrieval database for multimodal AI.
+  - [chromadb](https://github.com/chroma-core/chroma) [![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat)](https://github.com/chroma-core/chroma/stargazers) - An open-source embedding database for building AI applications with embeddings and semantic search.
   - [zvec](https://github.com/alibaba/zvec) [![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=flat)](https://github.com/alibaba/zvec/stargazers) - A lightweight, in-process vector database that embeds directly into applications.
-  - [pixeltable](https://github.com/pixeltable/pixeltable) [![GitHub stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=flat)](https://github.com/pixeltable/pixeltable/stargazers) - Declarative multimodal AI data engine for tables, computed columns, and embedding search.
 - Key-Value & Document
   - [tinydb](https://github.com/msiemens/tinydb) [![GitHub stars](https://img.shields.io/github/stars/msiemens/tinydb?style=flat)](https://github.com/msiemens/tinydb/stargazers) - A tiny, document-oriented database.
 
@@ -465,15 +478,15 @@ _Libraries for caching data._
 - [cachetools](https://github.com/tkem/cachetools) [![GitHub stars](https://img.shields.io/github/stars/tkem/cachetools?style=flat)](https://github.com/tkem/cachetools/stargazers) - Extensible memoizing collections and decorators.
 - [diskcache](https://github.com/grantjenks/python-diskcache) [![GitHub stars](https://img.shields.io/github/stars/grantjenks/python-diskcache?style=flat)](https://github.com/grantjenks/python-diskcache/stargazers) - SQLite and file backed cache backend, compatible with Django.
 - [hishel](https://github.com/karpetrosyan/hishel) [![GitHub stars](https://img.shields.io/github/stars/karpetrosyan/hishel?style=flat)](https://github.com/karpetrosyan/hishel/stargazers) - RFC 9111 compliant HTTP caching for clients like httpx and requests and servers like FastAPI, with sync and async support.
-- [dogpile.cache](https://github.com/sqlalchemy/dogpile.cache) [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache?style=flat)](https://github.com/sqlalchemy/dogpile.cache/stargazers) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 - [django-cacheops](https://github.com/Suor/django-cacheops) [![GitHub stars](https://img.shields.io/github/stars/Suor/django-cacheops?style=flat)](https://github.com/Suor/django-cacheops/stargazers) - A slick ORM cache with automatic granular event-driven invalidation.
+- [dogpile.cache](https://github.com/sqlalchemy/dogpile.cache) [![GitHub stars](https://img.shields.io/github/stars/sqlalchemy/dogpile.cache?style=flat)](https://github.com/sqlalchemy/dogpile.cache/stargazers) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 
 ### Search
 
 _Libraries and software for indexing and performing search queries on data._
 
-- [elasticsearch](https://github.com/elastic/elasticsearch-py) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch-py?style=flat)](https://github.com/elastic/elasticsearch-py/stargazers) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/elasticsearch).
 - [opensearch-py](https://github.com/opensearch-project/opensearch-py) [![GitHub stars](https://img.shields.io/github/stars/opensearch-project/opensearch-py?style=flat)](https://github.com/opensearch-project/opensearch-py/stargazers) - The official low-level Python client for [OpenSearch](https://opensearch.org/).
+- [elasticsearch](https://github.com/elastic/elasticsearch-py) [![GitHub stars](https://img.shields.io/github/stars/elastic/elasticsearch-py?style=flat)](https://github.com/elastic/elasticsearch-py/stargazers) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/elasticsearch).
 - [meilisearch](https://github.com/meilisearch/meilisearch-python) [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch-python?style=flat)](https://github.com/meilisearch/meilisearch-python/stargazers) - The official Python client for the [Meilisearch](https://www.meilisearch.com/) search engine.
 - [django-haystack](https://github.com/django-haystack/django-haystack) [![GitHub stars](https://img.shields.io/github/stars/django-haystack/django-haystack?style=flat)](https://github.com/django-haystack/django-haystack/stargazers) - Modular search for Django.
 
@@ -503,19 +516,19 @@ _Libraries for data extraction, transformation, and loading pipelines across mul
 - General
   - [awswrangler](https://github.com/aws/aws-sdk-pandas) [![GitHub stars](https://img.shields.io/github/stars/aws/aws-sdk-pandas?style=flat)](https://github.com/aws/aws-sdk-pandas/stargazers) - Pandas integration with AWS services like Athena, Glue, Redshift, S3, and DynamoDB.
   - [dlt](https://github.com/dlt-hub/dlt) [![GitHub stars](https://img.shields.io/github/stars/dlt-hub/dlt?style=flat)](https://github.com/dlt-hub/dlt/stargazers) - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
-  - [pathway](https://github.com/pathwaycom/pathway) [![GitHub stars](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat)](https://github.com/pathwaycom/pathway/stargazers) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 - Financial Data
   - [yfinance](https://github.com/ranaroussi/yfinance) [![GitHub stars](https://img.shields.io/github/stars/ranaroussi/yfinance?style=flat)](https://github.com/ranaroussi/yfinance/stargazers) - Easy Pythonic way to download market and financial data from Yahoo Finance.
   - [akshare](https://github.com/akfamily/akshare) [![GitHub stars](https://img.shields.io/github/stars/akfamily/akshare?style=flat)](https://github.com/akfamily/akshare/stargazers) - A financial data interface library, with data provided for academic research only.
   - [edgartools](https://github.com/dgunning/edgartools) [![GitHub stars](https://img.shields.io/github/stars/dgunning/edgartools?style=flat)](https://github.com/dgunning/edgartools/stargazers) - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
-  - [openbb](https://github.com/OpenBB-finance/OpenBB) [![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat)](https://github.com/OpenBB-finance/OpenBB/stargazers) - A financial data platform for analysts, quants and AI agents.
+  - [openbb](https://github.com/openbq-org/OpenBB) [![GitHub stars](https://img.shields.io/github/stars/openbq-org/OpenBB?style=flat)](https://github.com/openbq-org/OpenBB/stargazers) - A financial data platform for analysts, quants and AI agents.
 
 ### Data Validation
 
-_Libraries for validating data. Used for forms in many cases._
+_Libraries for validating data._
 
 - [pydantic](https://github.com/pydantic/pydantic) [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic?style=flat)](https://github.com/pydantic/pydantic/stargazers) - Data validation using Python type hints.
 - [jsonschema](https://github.com/python-jsonschema/jsonschema) [![GitHub stars](https://img.shields.io/github/stars/python-jsonschema/jsonschema?style=flat)](https://github.com/python-jsonschema/jsonschema/stargazers) - An implementation of [JSON Schema](https://json-schema.org/) for Python.
+- [great-expectations](https://github.com/fivetran/great_expectations) [![GitHub stars](https://img.shields.io/github/stars/fivetran/great_expectations?style=flat)](https://github.com/fivetran/great_expectations/stargazers) - A data quality framework for validating, documenting, and profiling data with declarative expectations.
 - [pandera](https://github.com/unionai-oss/pandera) [![GitHub stars](https://img.shields.io/github/stars/unionai-oss/pandera?style=flat)](https://github.com/unionai-oss/pandera/stargazers) - A data validation library for dataframes, with support for pandas, polars, PySpark, and more.
 
 ### Data Visualization
@@ -529,11 +542,12 @@ _Libraries for visualizing data. Also see [awesome-javascript](https://github.co
   - [altair](https://github.com/vega/altair) [![GitHub stars](https://img.shields.io/github/stars/vega/altair?style=flat)](https://github.com/vega/altair/stargazers) - Declarative statistical visualization library for Python.
   - [bokeh](https://github.com/bokeh/bokeh) [![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh?style=flat)](https://github.com/bokeh/bokeh/stargazers) - Interactive Web Plotting for Python.
 - Specialized
+  - [graphviz](https://github.com/xflr6/graphviz) [![GitHub stars](https://img.shields.io/github/stars/xflr6/graphviz?style=flat)](https://github.com/xflr6/graphviz/stargazers) - Simple Python interface for creating and rendering Graphviz graphs.
   - [cartopy](https://github.com/SciTools/cartopy) [![GitHub stars](https://img.shields.io/github/stars/SciTools/cartopy?style=flat)](https://github.com/SciTools/cartopy/stargazers) - A cartographic python library with matplotlib support.
-  - [pygraphviz](https://github.com/pygraphviz/pygraphviz/) [![GitHub stars](https://img.shields.io/github/stars/pygraphviz/pygraphviz/?style=flat)](https://github.com/pygraphviz/pygraphviz//stargazers) - Python interface to [Graphviz](https://www.graphviz.org/).
   - [graphify](https://github.com/Graphify-Labs/graphify) [![GitHub stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat)](https://github.com/Graphify-Labs/graphify/stargazers) - Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.
 - Dashboards and Apps
   - [streamlit](https://github.com/streamlit/streamlit) [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=flat)](https://github.com/streamlit/streamlit/stargazers) - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+  - [dash](https://github.com/plotly/dash) [![GitHub stars](https://img.shields.io/github/stars/plotly/dash?style=flat)](https://github.com/plotly/dash/stargazers) - A framework for building data apps and dashboards in pure Python, built on Plotly.
   - [gradio](https://github.com/gradio-app/gradio) [![GitHub stars](https://img.shields.io/github/stars/gradio-app/gradio?style=flat)](https://github.com/gradio-app/gradio/stargazers) - Build and share machine learning apps, all in Python.
 
 ### Geolocation
@@ -558,8 +572,8 @@ _Libraries for scientific computing. Also see [Python-for-Scientists](https://gi
 - Statistics
   - [statsmodels](https://github.com/statsmodels/statsmodels) [![GitHub stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=flat)](https://github.com/statsmodels/statsmodels/stargazers) - Statistical modeling and econometrics in Python.
 - Biology and Chemistry
-  - [biopython](https://github.com/biopython/biopython) [![GitHub stars](https://img.shields.io/github/stars/biopython/biopython?style=flat)](https://github.com/biopython/biopython/stargazers) - Biopython is a set of freely available tools for biological computation.
   - [rdkit](https://github.com/rdkit/rdkit) [![GitHub stars](https://img.shields.io/github/stars/rdkit/rdkit?style=flat)](https://github.com/rdkit/rdkit/stargazers) - Cheminformatics and Machine Learning Software.
+  - [biopython](https://github.com/biopython/biopython) [![GitHub stars](https://img.shields.io/github/stars/biopython/biopython?style=flat)](https://github.com/biopython/biopython/stargazers) - Biopython is a set of freely available tools for biological computation.
 - Physics and Engineering
   - [pint](https://github.com/hgrecco/pint) [![GitHub stars](https://img.shields.io/github/stars/hgrecco/pint?style=flat)](https://github.com/hgrecco/pint/stargazers) - Operate and manipulate physical quantities with units and dimensional analysis.
   - [astropy](https://github.com/astropy/astropy) [![GitHub stars](https://img.shields.io/github/stars/astropy/astropy?style=flat)](https://github.com/astropy/astropy/stargazers) - A community Python library for Astronomy.
@@ -596,8 +610,7 @@ _Python implementation of data structures, algorithms and design patterns. Also 
   - [algorithms](https://github.com/keon/algorithms) [![GitHub stars](https://img.shields.io/github/stars/keon/algorithms?style=flat)](https://github.com/keon/algorithms/stargazers) - Minimal examples of data structures and algorithms.
   - [thealgorithms](https://github.com/TheAlgorithms/Python) [![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Python?style=flat)](https://github.com/TheAlgorithms/Python/stargazers) - All Algorithms implemented in Python.
 - Design Patterns
-  - [transitions](https://github.com/pytransitions/transitions) [![GitHub stars](https://img.shields.io/github/stars/pytransitions/transitions?style=flat)](https://github.com/pytransitions/transitions/stargazers) - A lightweight, object-oriented finite state machine implementation.
-  - [python-patterns](https://github.com/faif/python-patterns) [![GitHub stars](https://img.shields.io/github/stars/faif/python-patterns?style=flat)](https://github.com/faif/python-patterns/stargazers) - A collection of design patterns in Python.
+  - [python-patterns](https://github.com/faif/python-patterns) [![GitHub stars](https://img.shields.io/github/stars/faif/python-patterns?style=flat)](https://github.com/faif/python-patterns/stargazers) - A collection of design patterns and idioms in Python.
   - [python-statemachine](https://github.com/fgmacedo/python-statemachine) [![GitHub stars](https://img.shields.io/github/stars/fgmacedo/python-statemachine?style=flat)](https://github.com/fgmacedo/python-statemachine/stargazers) - Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.
 
 ### Interactive Interpreter
@@ -605,21 +618,20 @@ _Python implementation of data structures, algorithms and design patterns. Also 
 _Interactive Python interpreters (REPL)._
 
 - [ipython](https://github.com/ipython/ipython) [![GitHub stars](https://img.shields.io/github/stars/ipython/ipython?style=flat)](https://github.com/ipython/ipython/stargazers) - A powerful interactive Python shell, and the kernel behind Jupyter notebooks.
-- [jupyter](https://github.com/jupyter/notebook) [![GitHub stars](https://img.shields.io/github/stars/jupyter/notebook?style=flat)](https://github.com/jupyter/notebook/stargazers) - A web-based notebook environment for interactive computing.
+- [notebook](https://github.com/jupyter/notebook) [![GitHub stars](https://img.shields.io/github/stars/jupyter/notebook?style=flat)](https://github.com/jupyter/notebook/stargazers) - A web-based notebook environment for interactive computing.
   - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) [![GitHub stars](https://img.shields.io/github/stars/markusschanta/awesome-jupyter?style=flat)](https://github.com/markusschanta/awesome-jupyter/stargazers)
-- [marimo](https://github.com/marimo-team/marimo) [![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=flat)](https://github.com/marimo-team/marimo/stargazers) - Transform data and train models, feels like a next-gen notebook, stored as Git-friendly Python.
+- [marimo](https://github.com/marimo-team/marimo) [![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=flat)](https://github.com/marimo-team/marimo/stargazers) - A reactive notebook for Python, stored as pure Python and runnable as a script or app.
 - [ptpython](https://github.com/prompt-toolkit/ptpython) [![GitHub stars](https://img.shields.io/github/stars/prompt-toolkit/ptpython?style=flat)](https://github.com/prompt-toolkit/ptpython/stargazers) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) [![GitHub stars](https://img.shields.io/github/stars/prompt-toolkit/python-prompt-toolkit?style=flat)](https://github.com/prompt-toolkit/python-prompt-toolkit/stargazers).
 
 ### Code Analysis
 
 _Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis](https://github.com/analysis-tools-dev/static-analysis) [![GitHub stars](https://img.shields.io/github/stars/analysis-tools-dev/static-analysis?style=flat)](https://github.com/analysis-tools-dev/static-analysis/stargazers)._
 
-- Code Analysis
+- General
   - [import-linter](https://github.com/seddonym/import-linter) [![GitHub stars](https://img.shields.io/github/stars/seddonym/import-linter?style=flat)](https://github.com/seddonym/import-linter/stargazers) - A linter that enforces architectural constraints on imports between Python modules.
   - [vulture](https://github.com/jendrikseipp/vulture) [![GitHub stars](https://img.shields.io/github/stars/jendrikseipp/vulture?style=flat)](https://github.com/jendrikseipp/vulture/stargazers) - A tool for finding and analyzing dead Python code.
   - [complexipy](https://github.com/rohaquinlop/complexipy) [![GitHub stars](https://img.shields.io/github/stars/rohaquinlop/complexipy?style=flat)](https://github.com/rohaquinlop/complexipy/stargazers) - Cognitive complexity analysis for Python code, written in Rust.
   - [prospector](https://github.com/prospector-dev/prospector) [![GitHub stars](https://img.shields.io/github/stars/prospector-dev/prospector?style=flat)](https://github.com/prospector-dev/prospector/stargazers) - A tool to analyze Python code.
-  - [repowise](https://github.com/repowise-dev/repowise) [![GitHub stars](https://img.shields.io/github/stars/repowise-dev/repowise?style=flat)](https://github.com/repowise-dev/repowise/stargazers) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
 - Git Hooks
   - [pre-commit](https://github.com/pre-commit/pre-commit) [![GitHub stars](https://img.shields.io/github/stars/pre-commit/pre-commit?style=flat)](https://github.com/pre-commit/pre-commit/stargazers) - A framework for managing and maintaining multi-language pre-commit hooks.
 - Linters and Formatters
@@ -637,8 +649,6 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
   - [ty](https://github.com/astral-sh/ty) [![GitHub stars](https://img.shields.io/github/stars/astral-sh/ty?style=flat)](https://github.com/astral-sh/ty/stargazers) - An extremely fast Python type checker and language server.
   - [pyright](https://github.com/microsoft/pyright) [![GitHub stars](https://img.shields.io/github/stars/microsoft/pyright?style=flat)](https://github.com/microsoft/pyright/stargazers) - Full-featured static type checker for Python from Microsoft, the engine behind Pylance.
   - [pyrefly](https://github.com/facebook/pyrefly) [![GitHub stars](https://img.shields.io/github/stars/facebook/pyrefly?style=flat)](https://github.com/facebook/pyrefly/stargazers) - A fast type checker and language server for Python.
-- Type Annotations Generators
-  - [monkeytype](https://github.com/Instagram/MonkeyType) [![GitHub stars](https://img.shields.io/github/stars/Instagram/MonkeyType?style=flat)](https://github.com/Instagram/MonkeyType/stargazers) - A system for Python that generates static type annotations by collecting runtime types.
 
 ### Testing
 
@@ -661,13 +671,13 @@ _Libraries for testing codebases and generating test data. Also see [awesome-pyt
 - API Testing
   - [schemathesis](https://github.com/schemathesis/schemathesis) [![GitHub stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=flat)](https://github.com/schemathesis/schemathesis/stargazers) - A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
 - Mock
-  - [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
+  - [unittest.mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
   - [responses](https://github.com/getsentry/responses) [![GitHub stars](https://img.shields.io/github/stars/getsentry/responses?style=flat)](https://github.com/getsentry/responses/stargazers) - A utility library for mocking out the requests Python library.
-  - [freezegun](https://github.com/spulec/freezegun) [![GitHub stars](https://img.shields.io/github/stars/spulec/freezegun?style=flat)](https://github.com/spulec/freezegun/stargazers) - Travel through time by mocking the datetime module.
   - [vcrpy](https://github.com/kevin1024/vcrpy) [![GitHub stars](https://img.shields.io/github/stars/kevin1024/vcrpy?style=flat)](https://github.com/kevin1024/vcrpy/stargazers) - Record and replay HTTP interactions on your tests.
   - [respx](https://github.com/lundberg/respx) [![GitHub stars](https://img.shields.io/github/stars/lundberg/respx?style=flat)](https://github.com/lundberg/respx/stargazers) - Mock HTTPX with awesome request patterns and response side effects.
+  - [time-machine](https://github.com/adamchainz/time-machine) [![GitHub stars](https://img.shields.io/github/stars/adamchainz/time-machine?style=flat)](https://github.com/adamchainz/time-machine/stargazers) - Travel through time in your tests by mocking the current time at the C level.
 - Object Factories
-  - [factory_boy](https://github.com/FactoryBoy/factory_boy) [![GitHub stars](https://img.shields.io/github/stars/FactoryBoy/factory_boy?style=flat)](https://github.com/FactoryBoy/factory_boy/stargazers) - A test fixtures replacement for Python.
+  - [factory-boy](https://github.com/FactoryBoy/factory_boy) [![GitHub stars](https://img.shields.io/github/stars/FactoryBoy/factory_boy?style=flat)](https://github.com/FactoryBoy/factory_boy/stargazers) - A test fixtures replacement for Python.
   - [polyfactory](https://github.com/litestar-org/polyfactory) [![GitHub stars](https://img.shields.io/github/stars/litestar-org/polyfactory?style=flat)](https://github.com/litestar-org/polyfactory/stargazers) - A mock data generation library based on type hints (continuation of `pydantic-factories`).
 - Code Coverage
   - [coverage](https://github.com/coveragepy/coveragepy) [![GitHub stars](https://img.shields.io/github/stars/coveragepy/coveragepy?style=flat)](https://github.com/coveragepy/coveragepy/stargazers) - Code coverage measurement.
@@ -683,7 +693,7 @@ _Libraries for debugging code._
   - [ipdb](https://github.com/gotcha/ipdb) [![GitHub stars](https://img.shields.io/github/stars/gotcha/ipdb?style=flat)](https://github.com/gotcha/ipdb/stargazers) - IPython-enabled [pdb](https://docs.python.org/3/library/pdb.html).
   - [pudb](https://github.com/inducer/pudb) [![GitHub stars](https://img.shields.io/github/stars/inducer/pudb?style=flat)](https://github.com/inducer/pudb/stargazers) - A full-screen, console-based Python debugger.
 - Tracing
-  - [hunter](https://github.com/ionelmc/python-hunter) [![GitHub stars](https://img.shields.io/github/stars/ionelmc/python-hunter?style=flat)](https://github.com/ionelmc/python-hunter/stargazers) - A flexible code tracing toolkit.
+  - [viztracer](https://github.com/gaogaotiantian/viztracer) [![GitHub stars](https://img.shields.io/github/stars/gaogaotiantian/viztracer?style=flat)](https://github.com/gaogaotiantian/viztracer/stargazers) - A low-overhead tool that traces and visualizes Python code execution.
 - Profiler
   - [py-spy](https://github.com/benfred/py-spy) [![GitHub stars](https://img.shields.io/github/stars/benfred/py-spy?style=flat)](https://github.com/benfred/py-spy/stargazers) - A sampling profiler for Python programs. Written in Rust.
   - [memray](https://github.com/bloomberg/memray) [![GitHub stars](https://img.shields.io/github/stars/bloomberg/memray?style=flat)](https://github.com/bloomberg/memray/stargazers) - A memory profiler that tracks allocations in Python code, native extensions, and the interpreter itself.
@@ -699,6 +709,7 @@ _Libraries for debugging code._
 _Task runners and software build tools. If you're looking for Python packaging/build tools, see [Package Management](#package-management)._
 
 - [invoke](https://github.com/pyinvoke/invoke) [![GitHub stars](https://img.shields.io/github/stars/pyinvoke/invoke?style=flat)](https://github.com/pyinvoke/invoke/stargazers) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
+- [poethepoet](https://github.com/nat-n/poethepoet) [![GitHub stars](https://img.shields.io/github/stars/nat-n/poethepoet?style=flat)](https://github.com/nat-n/poethepoet/stargazers) - A task runner that defines tasks in pyproject.toml and works with poetry or uv.
 - [scons](https://github.com/SCons/scons) [![GitHub stars](https://img.shields.io/github/stars/SCons/scons?style=flat)](https://github.com/SCons/scons/stargazers) - A software construction tool.
 - [doit](https://github.com/pydoit/doit) [![GitHub stars](https://img.shields.io/github/stars/pydoit/doit?style=flat)](https://github.com/pydoit/doit/stargazers) - A task runner and build tool.
 
@@ -721,7 +732,7 @@ _Software and libraries for DevOps._
 
 - Cloud Providers
   - [boto3](https://github.com/boto/boto3) [![GitHub stars](https://img.shields.io/github/stars/boto/boto3?style=flat)](https://github.com/boto/boto3/stargazers) - Python interface to Amazon Web Services.
-  - [awscli](https://github.com/aws/aws-cli) [![GitHub stars](https://img.shields.io/github/stars/aws/aws-cli?style=flat)](https://github.com/aws/aws-cli/stargazers) - Universal Command Line Interface for Amazon Web Services.
+  - [awscli](https://github.com/aws/aws-cli) [![GitHub stars](https://img.shields.io/github/stars/aws/aws-cli?style=flat)](https://github.com/aws/aws-cli/stargazers) - Universal Command Line Interface for Amazon Web Services; the PyPI package is v1, in maintenance mode, while v2 ships as AWS's bundled installer.
   - [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) [![GitHub stars](https://img.shields.io/github/stars/Azure/azure-sdk-for-python?style=flat)](https://github.com/Azure/azure-sdk-for-python/stargazers) - Microsoft Azure SDK for Python, published as per-service packages.
   - [google-cloud-python](https://github.com/googleapis/google-cloud-python) [![GitHub stars](https://img.shields.io/github/stars/googleapis/google-cloud-python?style=flat)](https://github.com/googleapis/google-cloud-python/stargazers) - Google Cloud client libraries for Python, published as per-service packages.
 - Configuration Management
@@ -740,15 +751,14 @@ _Software and libraries for DevOps._
   - [sh](https://github.com/amoffat/sh) [![GitHub stars](https://img.shields.io/github/stars/amoffat/sh?style=flat)](https://github.com/amoffat/sh/stargazers) - A full-fledged subprocess replacement for Python.
 - Other
   - [borgbackup](https://github.com/borgbackup/borg) [![GitHub stars](https://img.shields.io/github/stars/borgbackup/borg?style=flat)](https://github.com/borgbackup/borg/stargazers) - A deduplicating archiver with compression and encryption.
-  - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) [![GitHub stars](https://img.shields.io/github/stars/chaostoolkit/chaostoolkit?style=flat)](https://github.com/chaostoolkit/chaostoolkit/stargazers) - A Chaos Engineering toolkit & Orchestration for Developers.
 
 ### Distributed Computing
 
 _Frameworks and libraries for Distributed Computing._
 
-- [ray](https://github.com/ray-project/ray/) [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray/?style=flat)](https://github.com/ray-project/ray//stargazers) - A unified framework for scaling AI and Python applications.
 - [pyspark](https://github.com/apache/spark) [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=flat)](https://github.com/apache/spark/stargazers) - [Apache Spark](https://spark.apache.org/) Python API.
 - [dask](https://github.com/dask/dask) [![GitHub stars](https://img.shields.io/github/stars/dask/dask?style=flat)](https://github.com/dask/dask/stargazers) - A flexible parallel computing library for analytic computing.
+- [ray](https://github.com/ray-project/ray/) [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray/?style=flat)](https://github.com/ray-project/ray//stargazers) - A unified framework for scaling AI and Python applications.
 - [joblib](https://github.com/joblib/joblib) [![GitHub stars](https://img.shields.io/github/stars/joblib/joblib?style=flat)](https://github.com/joblib/joblib/stargazers) - Parallel computing and disk-based caching for Python functions.
 - [mpi4py](https://github.com/mpi4py/mpi4py) [![GitHub stars](https://img.shields.io/github/stars/mpi4py/mpi4py?style=flat)](https://github.com/mpi4py/mpi4py/stargazers) - Python bindings for MPI.
 
@@ -779,9 +789,9 @@ _Libraries for scheduling jobs._
   - [apscheduler](https://github.com/agronholm/apscheduler) [![GitHub stars](https://img.shields.io/github/stars/agronholm/apscheduler?style=flat)](https://github.com/agronholm/apscheduler/stargazers) - A light but powerful in-process task scheduler that lets you schedule functions.
   - [schedule](https://github.com/dbader/schedule) [![GitHub stars](https://img.shields.io/github/stars/dbader/schedule?style=flat)](https://github.com/dbader/schedule/stargazers) - Python job scheduling for humans.
 - Workflow Orchestration
+  - [dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=flat)](https://github.com/dagster-io/dagster/stargazers) - An orchestration platform for the development, production, and observation of data assets.
   - [apache-airflow](https://github.com/apache/airflow) [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=flat)](https://github.com/apache/airflow/stargazers) - Airflow is a platform to programmatically author, schedule and monitor workflows.
   - [prefect](https://github.com/PrefectHQ/prefect) [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=flat)](https://github.com/PrefectHQ/prefect/stargazers) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
-  - [dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=flat)](https://github.com/dagster-io/dagster/stargazers) - An orchestration platform for the development, production, and observation of data assets.
 
 ### Logging
 
@@ -790,12 +800,14 @@ _Libraries for generating and working with logs._
 - [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 - [structlog](https://github.com/hynek/structlog) [![GitHub stars](https://img.shields.io/github/stars/hynek/structlog?style=flat)](https://github.com/hynek/structlog/stargazers) - Structured logging made easy.
 - [loguru](https://github.com/Delgan/loguru) [![GitHub stars](https://img.shields.io/github/stars/Delgan/loguru?style=flat)](https://github.com/Delgan/loguru/stargazers) - Library which aims to bring enjoyable logging in Python.
+- [logfire](https://github.com/pydantic/logfire) [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire?style=flat)](https://github.com/pydantic/logfire/stargazers) - The observability platform for Python, from the makers of Pydantic.
 
 ### Network Virtualization
 
-_Tools and libraries for Virtual Networking and SDN (Software Defined Networking)._
+_Tools and libraries for packet manipulation and network device automation._
 
 - [scapy](https://github.com/secdev/scapy) [![GitHub stars](https://img.shields.io/github/stars/secdev/scapy?style=flat)](https://github.com/secdev/scapy/stargazers) - A brilliant packet manipulation library.
+- [netmiko](https://github.com/ktbyers/netmiko) [![GitHub stars](https://img.shields.io/github/stars/ktbyers/netmiko?style=flat)](https://github.com/ktbyers/netmiko/stargazers) - Multi-vendor library to simplify CLI connections to network devices.
 - [napalm](https://github.com/napalm-automation/napalm) [![GitHub stars](https://img.shields.io/github/stars/napalm-automation/napalm?style=flat)](https://github.com/napalm-automation/napalm/stargazers) - Cross-vendor API to manipulate network devices.
 
 **CLI & GUI**
@@ -804,15 +816,15 @@ _Tools and libraries for Virtual Networking and SDN (Software Defined Networking
 
 _Libraries for building command-line applications._
 
-- CLI Development
+- General
   - [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
   - [click](https://github.com/pallets/click/) [![GitHub stars](https://img.shields.io/github/stars/pallets/click/?style=flat)](https://github.com/pallets/click//stargazers) - A package for creating beautiful command line interfaces in a composable way.
   - [typer](https://github.com/fastapi/typer) [![GitHub stars](https://img.shields.io/github/stars/fastapi/typer?style=flat)](https://github.com/fastapi/typer/stargazers) - Modern CLI framework that uses Python type hints. Built on Click.
   - [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) [![GitHub stars](https://img.shields.io/github/stars/prompt-toolkit/python-prompt-toolkit?style=flat)](https://github.com/prompt-toolkit/python-prompt-toolkit/stargazers) - A library for building powerful interactive command lines.
   - [fire](https://github.com/google/python-fire) [![GitHub stars](https://img.shields.io/github/stars/google/python-fire?style=flat)](https://github.com/google/python-fire/stargazers) - A library for creating command line interfaces from absolutely any Python object.
 - Terminal Rendering
-  - [tqdm](https://github.com/tqdm/tqdm) [![GitHub stars](https://img.shields.io/github/stars/tqdm/tqdm?style=flat)](https://github.com/tqdm/tqdm/stargazers) - Fast, extensible progress bar for loops and CLI.
   - [rich](https://github.com/Textualize/rich) [![GitHub stars](https://img.shields.io/github/stars/Textualize/rich?style=flat)](https://github.com/Textualize/rich/stargazers) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
+  - [tqdm](https://github.com/tqdm/tqdm) [![GitHub stars](https://img.shields.io/github/stars/tqdm/tqdm?style=flat)](https://github.com/tqdm/tqdm/stargazers) - Fast, extensible progress bar for loops and CLI.
   - [colorama](https://github.com/tartley/colorama) [![GitHub stars](https://img.shields.io/github/stars/tartley/colorama?style=flat)](https://github.com/tartley/colorama/stargazers) - Cross-platform colored terminal text.
   - [alive-progress](https://github.com/rsalmei/alive-progress) [![GitHub stars](https://img.shields.io/github/stars/rsalmei/alive-progress?style=flat)](https://github.com/rsalmei/alive-progress/stargazers) - A new kind of Progress Bar, with real-time throughput, eta and very cool animations.
 - TUI Frameworks
@@ -846,10 +858,10 @@ _Useful CLI-based tools._
 _Libraries for working with graphical user interface applications._
 
 - Desktop
-  - [pygobject](https://github.com/GNOME/pygobject) [![GitHub stars](https://img.shields.io/github/stars/GNOME/pygobject?style=flat)](https://github.com/GNOME/pygobject/stargazers) - Python Bindings for GLib/GObject/GIO/GTK.
-  - [wxPython](https://github.com/wxWidgets/Phoenix) [![GitHub stars](https://img.shields.io/github/stars/wxWidgets/Phoenix?style=flat)](https://github.com/wxWidgets/Phoenix/stargazers) - A cross-platform GUI toolkit that wraps the wxWidgets C++ library.
-  - [kivy](https://github.com/kivy/kivy) [![GitHub stars](https://img.shields.io/github/stars/kivy/kivy?style=flat)](https://github.com/kivy/kivy/stargazers) - An open-source framework for cross-platform GUI apps on desktop, mobile, and embedded platforms.
+  - [PyGObject](https://github.com/GNOME/pygobject) [![GitHub stars](https://img.shields.io/github/stars/GNOME/pygobject?style=flat)](https://github.com/GNOME/pygobject/stargazers) - Python Bindings for GLib/GObject/GIO/GTK.
   - [dearpygui](https://github.com/hoffstadt/DearPyGui) [![GitHub stars](https://img.shields.io/github/stars/hoffstadt/DearPyGui?style=flat)](https://github.com/hoffstadt/DearPyGui/stargazers) - A simple GPU-accelerated Python GUI framework.
+  - [Kivy](https://github.com/kivy/kivy) [![GitHub stars](https://img.shields.io/github/stars/kivy/kivy?style=flat)](https://github.com/kivy/kivy/stargazers) - An open-source framework for cross-platform GUI apps on desktop, mobile, and embedded platforms.
+  - [wxPython](https://github.com/wxWidgets/Phoenix) [![GitHub stars](https://img.shields.io/github/stars/wxWidgets/Phoenix?style=flat)](https://github.com/wxWidgets/Phoenix/stargazers) - A cross-platform GUI toolkit that wraps the wxWidgets C++ library.
   - [toga](https://github.com/beeware/toga) [![GitHub stars](https://img.shields.io/github/stars/beeware/toga?style=flat)](https://github.com/beeware/toga/stargazers) - A Python native, OS native GUI toolkit.
 - Qt
   - [PySide6](https://github.com/pyside/pyside-setup) [![GitHub stars](https://img.shields.io/github/stars/pyside/pyside-setup?style=flat)](https://github.com/pyside/pyside-setup/stargazers) - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), largely API-compatible with PyQt6 but with different licensing.
@@ -857,13 +869,10 @@ _Libraries for working with graphical user interface applications._
 - Tkinter
   - [tkinter](https://docs.python.org/3/library/tkinter.html) - (Python standard library) The standard Python interface to the Tcl/Tk GUI toolkit.
   - [customtkinter](https://github.com/tomschimansky/customtkinter) [![GitHub stars](https://img.shields.io/github/stars/tomschimansky/customtkinter?style=flat)](https://github.com/tomschimansky/customtkinter/stargazers) - A modern and customizable python UI-library based on Tkinter.
-  - [tkdesigner](https://github.com/ParthJadhav/Tkinter-Designer) [![GitHub stars](https://img.shields.io/github/stars/ParthJadhav/Tkinter-Designer?style=flat)](https://github.com/ParthJadhav/Tkinter-Designer/stargazers) - Generates Tkinter interfaces from Figma designs using the Figma API.
 - Web-based
   - [pywebview](https://github.com/r0x0r/pywebview/) [![GitHub stars](https://img.shields.io/github/stars/r0x0r/pywebview/?style=flat)](https://github.com/r0x0r/pywebview//stargazers) - A lightweight cross-platform native wrapper around a webview component.
   - [nicegui](https://github.com/zauberzeug/nicegui) [![GitHub stars](https://img.shields.io/github/stars/zauberzeug/nicegui?style=flat)](https://github.com/zauberzeug/nicegui/stargazers) - An easy-to-use, Python-based UI framework, which shows up in your web browser.
   - [flet](https://github.com/flet-dev/flet) [![GitHub stars](https://img.shields.io/github/stars/flet-dev/flet?style=flat)](https://github.com/flet-dev/flet/stargazers) - Cross-platform GUI framework for building modern apps in pure Python.
-- Wrappers
-  - [gooey](https://github.com/chriskiehl/Gooey) [![GitHub stars](https://img.shields.io/github/stars/chriskiehl/Gooey?style=flat)](https://github.com/chriskiehl/Gooey/stargazers) - Turn command line programs into a full GUI application with one line.
 
 **Text & Documents**
 
@@ -893,14 +902,13 @@ _Libraries for parsing and manipulating plain texts._
   - [unidecode](https://github.com/avian2/unidecode) [![GitHub stars](https://img.shields.io/github/stars/avian2/unidecode?style=flat)](https://github.com/avian2/unidecode/stargazers) - ASCII transliterations of Unicode text.
 - Unique identifiers
   - [shortuuid](https://github.com/skorokithakis/shortuuid) [![GitHub stars](https://img.shields.io/github/stars/skorokithakis/shortuuid?style=flat)](https://github.com/skorokithakis/shortuuid/stargazers) - A generator library for concise, unambiguous and URL-safe UUIDs.
-  - [sqids](https://github.com/sqids/sqids-python) [![GitHub stars](https://img.shields.io/github/stars/sqids/sqids-python?style=flat)](https://github.com/sqids/sqids-python/stargazers) - A library for generating short unique IDs from numbers.
 
 ### HTML Manipulation
 
 _Libraries for working with HTML and XML._
 
-- [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
 - [lxml](https://github.com/lxml/lxml) [![GitHub stars](https://img.shields.io/github/stars/lxml/lxml?style=flat)](https://github.com/lxml/lxml/stargazers) - A very fast, easy-to-use and versatile library for handling HTML and XML.
+- [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
 - [xmltodict](https://github.com/martinblech/xmltodict) [![GitHub stars](https://img.shields.io/github/stars/martinblech/xmltodict?style=flat)](https://github.com/martinblech/xmltodict/stargazers) - Working with XML feel like you are working with JSON.
 - [markupsafe](https://github.com/pallets/markupsafe) [![GitHub stars](https://img.shields.io/github/stars/pallets/markupsafe?style=flat)](https://github.com/pallets/markupsafe/stargazers) - Safely adds untrusted strings to HTML/XML markup.
 - [justhtml](https://github.com/EmilStenstrom/justhtml/) [![GitHub stars](https://img.shields.io/github/stars/EmilStenstrom/justhtml/?style=flat)](https://github.com/EmilStenstrom/justhtml//stargazers) - A pure Python HTML5 parser that sanitizes untrusted HTML by default.
@@ -924,7 +932,8 @@ _Libraries for parsing and manipulating specific file formats._
   - [python-pptx](https://github.com/scanny/python-pptx) [![GitHub stars](https://img.shields.io/github/stars/scanny/python-pptx?style=flat)](https://github.com/scanny/python-pptx/stargazers) - Python library for creating and updating PowerPoint (.pptx) files.
 - PDF
   - [pypdf](https://github.com/py-pdf/pypdf) [![GitHub stars](https://img.shields.io/github/stars/py-pdf/pypdf?style=flat)](https://github.com/py-pdf/pypdf/stargazers) - A library capable of splitting, merging, cropping, and transforming PDF pages.
-  - [reportlab](https://www.reportlab.com/opensource/) - Allowing Rapid creation of rich PDF documents.
+  - [pymupdf](https://github.com/pymupdf/PyMuPDF) [![GitHub stars](https://img.shields.io/github/stars/pymupdf/PyMuPDF?style=flat)](https://github.com/pymupdf/PyMuPDF/stargazers) - A fast library for extracting, rendering, and editing PDF and other document formats, built on MuPDF.
+  - [reportlab](https://docs.reportlab.com/) - An open-source library for generating PDFs and graphics.
   - [pdfminer.six](https://github.com/pdfminer/pdfminer.six) [![GitHub stars](https://img.shields.io/github/stars/pdfminer/pdfminer.six?style=flat)](https://github.com/pdfminer/pdfminer.six/stargazers) - A community-maintained fork of PDFMiner for extracting information from PDF documents.
 - HTML-to-PDF
   - [weasyprint](https://github.com/Kozea/WeasyPrint) [![GitHub stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=flat)](https://github.com/Kozea/WeasyPrint/stargazers) - A visual rendering engine for HTML and CSS that can export to PDF.
@@ -969,11 +978,12 @@ _Libraries for manipulating images._
 _Libraries for manipulating audio, video, and their metadata._
 
 - Audio
-  - [pydub](https://github.com/jiaaro/pydub) [![GitHub stars](https://img.shields.io/github/stars/jiaaro/pydub?style=flat)](https://github.com/jiaaro/pydub/stargazers) - Manipulate audio with a simple and easy high level interface.
+  - [soundfile](https://github.com/bastibe/python-soundfile) [![GitHub stars](https://img.shields.io/github/stars/bastibe/python-soundfile?style=flat)](https://github.com/bastibe/python-soundfile/stargazers) - An audio library for reading and writing sound files, based on libsndfile, CFFI, and NumPy.
   - [librosa](https://github.com/librosa/librosa) [![GitHub stars](https://img.shields.io/github/stars/librosa/librosa?style=flat)](https://github.com/librosa/librosa/stargazers) - Python library for audio and music analysis.
+  - [pydub](https://github.com/jiaaro/pydub) [![GitHub stars](https://img.shields.io/github/stars/jiaaro/pydub?style=flat)](https://github.com/jiaaro/pydub/stargazers) - Manipulate audio with a simple and easy high level interface.
 - Video
+  - [av](https://github.com/PyAV-Org/PyAV) [![GitHub stars](https://img.shields.io/github/stars/PyAV-Org/PyAV?style=flat)](https://github.com/PyAV-Org/PyAV/stargazers) - Pythonic bindings for FFmpeg's libraries.
   - [moviepy](https://github.com/Zulko/moviepy) [![GitHub stars](https://img.shields.io/github/stars/Zulko/moviepy?style=flat)](https://github.com/Zulko/moviepy/stargazers) - A module for script-based movie editing with many formats, including animated GIFs.
-  - [vidgear](https://github.com/abhiTronix/vidgear) [![GitHub stars](https://img.shields.io/github/stars/abhiTronix/vidgear?style=flat)](https://github.com/abhiTronix/vidgear/stargazers) - A high-performance, cross-platform, multi-threaded video processing framework.
 - Metadata
   - [mutagen](https://github.com/quodlibet/mutagen) [![GitHub stars](https://img.shields.io/github/stars/quodlibet/mutagen?style=flat)](https://github.com/quodlibet/mutagen/stargazers) - A Python module to handle audio metadata.
   - [tinytag](https://github.com/tinytag/tinytag) [![GitHub stars](https://img.shields.io/github/stars/tinytag/tinytag?style=flat)](https://github.com/tinytag/tinytag/stargazers) - A library for reading audio file metadata of MP3, MP4, WAV, OGG, FLAC, WMA, and AIFF files.
@@ -986,10 +996,10 @@ _Awesome game development libraries._
 - 3D Engines
   - [panda3d](https://github.com/panda3d/panda3d) [![GitHub stars](https://img.shields.io/github/stars/panda3d/panda3d?style=flat)](https://github.com/panda3d/panda3d/stargazers) - 3D game engine developed jointly by Disney and contributors from around the world.
 - Game Frameworks
-  - [pygame](https://github.com/pygame/pygame) [![GitHub stars](https://img.shields.io/github/stars/pygame/pygame?style=flat)](https://github.com/pygame/pygame/stargazers) - Pygame is a set of Python modules designed for writing games.
   - [pyglet](https://github.com/pyglet/pyglet) [![GitHub stars](https://img.shields.io/github/stars/pyglet/pyglet?style=flat)](https://github.com/pyglet/pyglet/stargazers) - A cross-platform windowing and multimedia library for Python.
   - [pygame-ce](https://github.com/pygame-community/pygame-ce) [![GitHub stars](https://img.shields.io/github/stars/pygame-community/pygame-ce?style=flat)](https://github.com/pygame-community/pygame-ce/stargazers) - An actively developed drop-in replacement with new features and performance improvements ([pygame](https://github.com/pygame/pygame) [![GitHub stars](https://img.shields.io/github/stars/pygame/pygame?style=flat)](https://github.com/pygame/pygame/stargazers) fork).
-  - [arcade](https://github.com/pythonarcade/arcade) [![GitHub stars](https://img.shields.io/github/stars/pythonarcade/arcade?style=flat)](https://github.com/pythonarcade/arcade/stargazers) - Arcade is a modern Python framework for crafting games with compelling graphics and sound.
+  - [pygame](https://github.com/pygame/pygame) [![GitHub stars](https://img.shields.io/github/stars/pygame/pygame?style=flat)](https://github.com/pygame/pygame/stargazers) - Pygame is a set of Python modules designed for writing games.
+  - [arcade](https://github.com/pythonarcade/arcade) [![GitHub stars](https://img.shields.io/github/stars/pythonarcade/arcade?style=flat)](https://github.com/pythonarcade/arcade/stargazers) - An easy-to-use library for creating 2D arcade games.
 - Visual Novels
   - [renpy](https://github.com/renpy/renpy) [![GitHub stars](https://img.shields.io/github/stars/renpy/renpy?style=flat)](https://github.com/renpy/renpy/stargazers) - A Visual Novel engine.
 
@@ -1011,7 +1021,7 @@ _Libraries for enhancing Python built-in classes._
 
 - [attrs](https://github.com/python-attrs/attrs) [![GitHub stars](https://img.shields.io/github/stars/python-attrs/attrs?style=flat)](https://github.com/python-attrs/attrs/stargazers) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 - [bidict](https://github.com/jab/bidict) [![GitHub stars](https://img.shields.io/github/stars/jab/bidict?style=flat)](https://github.com/jab/bidict/stargazers) - Efficient, Pythonic bidirectional map data structures and related functionality.
-- [uuid-utils](https://github.com/aminalaee/uuid-utils) [![GitHub stars](https://img.shields.io/github/stars/aminalaee/uuid-utils?style=flat)](https://github.com/aminalaee/uuid-utils/stargazers) - A fast, Rust-backed drop-in replacement for Python's built-in `uuid` module, supporting RFC 9562 (UUIDv6, UUIDv7, and UUIDv8).
+- [uuid-utils](https://github.com/aminalaee/uuid-utils) [![GitHub stars](https://img.shields.io/github/stars/aminalaee/uuid-utils?style=flat)](https://github.com/aminalaee/uuid-utils/stargazers) - A fast, Rust-backed drop-in replacement for Python's built-in `uuid` module.
 - [python-box](https://github.com/cdgriffith/Box) [![GitHub stars](https://img.shields.io/github/stars/cdgriffith/Box?style=flat)](https://github.com/cdgriffith/Box/stargazers) - Python dictionaries with advanced dot notation access.
 
 ### Functional Programming
@@ -1074,15 +1084,16 @@ _Libraries for package and dependency management._
 - Build Backends
   - [setuptools](https://github.com/pypa/setuptools) [![GitHub stars](https://img.shields.io/github/stars/pypa/setuptools?style=flat)](https://github.com/pypa/setuptools/stargazers) - The historical and still most widely used pyproject build backend.
   - [hatchling](https://github.com/pypa/hatch) [![GitHub stars](https://img.shields.io/github/stars/pypa/hatch?style=flat)](https://github.com/pypa/hatch/stargazers) - Modern, extensible build backend from the hatch project.
+  - [poetry-core](https://github.com/python-poetry/poetry-core) [![GitHub stars](https://img.shields.io/github/stars/python-poetry/poetry-core?style=flat)](https://github.com/python-poetry/poetry-core/stargazers) - Poetry's PEP 517 build backend, usable without Poetry itself.
   - [uv-build](https://github.com/astral-sh/uv) [![GitHub stars](https://img.shields.io/github/stars/astral-sh/uv?style=flat)](https://github.com/astral-sh/uv/stargazers) - uv's fast, minimal build backend for pure-Python projects.
 
 ### Package Repositories
 
 _Local PyPI repository servers, proxies, and mirrors._
 
-- [bandersnatch](https://github.com/pypa/bandersnatch/) [![GitHub stars](https://img.shields.io/github/stars/pypa/bandersnatch/?style=flat)](https://github.com/pypa/bandersnatch//stargazers) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+- [pypiserver](https://github.com/pypiserver/pypiserver) [![GitHub stars](https://img.shields.io/github/stars/pypiserver/pypiserver?style=flat)](https://github.com/pypiserver/pypiserver/stargazers) - A minimal PyPI server for uploading and installing packages with pip.
 - [devpi](https://github.com/devpi/devpi) [![GitHub stars](https://img.shields.io/github/stars/devpi/devpi?style=flat)](https://github.com/devpi/devpi/stargazers) - PyPI server and packaging/testing/release tool.
-- [warehouse](https://github.com/pypi/warehouse) [![GitHub stars](https://img.shields.io/github/stars/pypi/warehouse?style=flat)](https://github.com/pypi/warehouse/stargazers) - The software that powers PyPI.
+- [bandersnatch](https://github.com/pypa/bandersnatch/) [![GitHub stars](https://img.shields.io/github/stars/pypa/bandersnatch/?style=flat)](https://github.com/pypa/bandersnatch//stargazers) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ### Distribution
 
@@ -1091,7 +1102,7 @@ _Libraries to create packaged executables for release distribution._
 - Executables
   - [pyinstaller](https://github.com/pyinstaller/pyinstaller) [![GitHub stars](https://img.shields.io/github/stars/pyinstaller/pyinstaller?style=flat)](https://github.com/pyinstaller/pyinstaller/stargazers) - Converts Python programs into stand-alone executables (cross-platform).
   - [Nuitka](https://github.com/Nuitka/Nuitka) [![GitHub stars](https://img.shields.io/github/stars/Nuitka/Nuitka?style=flat)](https://github.com/Nuitka/Nuitka/stargazers) - Compiles Python programs into high-performance standalone executables (cross-platform).
-  - [shiv](https://github.com/linkedin/shiv) [![GitHub stars](https://img.shields.io/github/stars/linkedin/shiv?style=flat)](https://github.com/linkedin/shiv/stargazers) - A command line utility for building fully self-contained zipapps (PEP 441), but with all their dependencies included.
+  - [pex](https://github.com/pex-tool/pex) [![GitHub stars](https://img.shields.io/github/stars/pex-tool/pex?style=flat)](https://github.com/pex-tool/pex/stargazers) - A tool for building self-contained Python executable environments (PEP 441 zipapps).
   - [cx-Freeze](https://github.com/marcelotduarte/cx_Freeze) [![GitHub stars](https://img.shields.io/github/stars/marcelotduarte/cx_Freeze?style=flat)](https://github.com/marcelotduarte/cx_Freeze/stargazers) - Converts Python scripts into standalone executables and installers for Windows, macOS, and Linux.
 - Obfuscation
   - [pyarmor](https://github.com/dashingsoft/pyarmor) [![GitHub stars](https://img.shields.io/github/stars/dashingsoft/pyarmor?style=flat)](https://github.com/dashingsoft/pyarmor/stargazers) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
@@ -1103,7 +1114,7 @@ _Libraries for storing and parsing configuration options._
 - [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
 - [python-dotenv](https://github.com/theskumar/python-dotenv) [![GitHub stars](https://img.shields.io/github/stars/theskumar/python-dotenv?style=flat)](https://github.com/theskumar/python-dotenv/stargazers) - Reads key-value pairs from a `.env` file and sets them as environment variables.
 - [pydantic-settings](https://github.com/pydantic/pydantic-settings) [![GitHub stars](https://img.shields.io/github/stars/pydantic/pydantic-settings?style=flat)](https://github.com/pydantic/pydantic-settings/stargazers) - Settings management using Pydantic models with validation, loading from environment variables and secrets files.
-- [hydra-core](https://github.com/facebookresearch/hydra) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/hydra?style=flat)](https://github.com/facebookresearch/hydra/stargazers) - Hydra is a framework for elegantly configuring complex applications.
+- [hydra-core](https://github.com/hydra-ecosystem/hydra) [![GitHub stars](https://img.shields.io/github/stars/hydra-ecosystem/hydra?style=flat)](https://github.com/hydra-ecosystem/hydra/stargazers) - Hydra is a framework for elegantly configuring complex applications.
 - [dynaconf](https://github.com/dynaconf/dynaconf) [![GitHub stars](https://img.shields.io/github/stars/dynaconf/dynaconf?style=flat)](https://github.com/dynaconf/dynaconf/stargazers) - Dynaconf is a configuration manager with plugins for Django and Flask.
 
 **Security**
@@ -1122,9 +1133,10 @@ _Libraries for cryptographic primitives and secure protocols._
 _Frameworks and tools for penetration testing._
 
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) [![GitHub stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=flat)](https://github.com/mitmproxy/mitmproxy/stargazers) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [impacket](https://github.com/fortra/impacket) [![GitHub stars](https://img.shields.io/github/stars/fortra/impacket?style=flat)](https://github.com/fortra/impacket/stargazers) - A collection of Python classes for working with network protocols, widely used for Windows and Active Directory testing.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) [![GitHub stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat)](https://github.com/sqlmapproject/sqlmap/stargazers) - Automatic SQL injection and database takeover tool.
+- [pwntools](https://github.com/Gallopsled/pwntools) [![GitHub stars](https://img.shields.io/github/stars/Gallopsled/pwntools?style=flat)](https://github.com/Gallopsled/pwntools/stargazers) - A CTF framework and exploit development library.
 - [sherlock-project](https://github.com/sherlock-project/sherlock) [![GitHub stars](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat)](https://github.com/sherlock-project/sherlock/stargazers) - Hunt down social media accounts by username across social networks.
-- [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) [![GitHub stars](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat)](https://github.com/trustedsec/social-engineer-toolkit/stargazers) - A toolkit for social engineering.
 
 ### Supply Chain Security
 
@@ -1137,6 +1149,7 @@ _Tools for auditing dependencies against known vulnerabilities._
 
 _Libraries for application-layer web security._
 
+- [nh3](https://github.com/messense/nh3) [![GitHub stars](https://img.shields.io/github/stars/messense/nh3?style=flat)](https://github.com/messense/nh3/stargazers) - Python binding to the ammonia HTML sanitizer, a fast replacement for bleach.
 - [secure](https://github.com/TypeError/secure) [![GitHub stars](https://img.shields.io/github/stars/TypeError/secure?style=flat)](https://github.com/TypeError/secure/stargazers) - HTTP security headers for Python web applications with ASGI and WSGI middleware.
 
 **Other**
@@ -1145,16 +1158,17 @@ _Libraries for application-layer web security._
 
 _Libraries for programming with hardware._
 
-- [bleak](https://github.com/hbldh/bleak) [![GitHub stars](https://img.shields.io/github/stars/hbldh/bleak?style=flat)](https://github.com/hbldh/bleak/stargazers) - A cross platform Bluetooth Low Energy Client for Python using asyncio.
+- [pyserial](https://github.com/pyserial/pyserial) [![GitHub stars](https://img.shields.io/github/stars/pyserial/pyserial?style=flat)](https://github.com/pyserial/pyserial/stargazers) - Python serial port access library for Windows, macOS, Linux, and BSD.
 - [pynput](https://github.com/moses-palmer/pynput) [![GitHub stars](https://img.shields.io/github/stars/moses-palmer/pynput?style=flat)](https://github.com/moses-palmer/pynput/stargazers) - A library to control and monitor input devices.
+- [bleak](https://github.com/hbldh/bleak) [![GitHub stars](https://img.shields.io/github/stars/hbldh/bleak?style=flat)](https://github.com/hbldh/bleak/stargazers) - A cross platform Bluetooth Low Energy Client for Python using asyncio.
 - [jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) [![GitHub stars](https://img.shields.io/github/stars/jumpstarter-dev/jumpstarter?style=flat)](https://github.com/jumpstarter-dev/jumpstarter/stargazers) - A hardware-in-the-loop testing framework with a Python client library for automated testing on real and virtual hardware.
 
 ### Microsoft Windows
 
 _Python programming on Microsoft Windows._
 
-- [pythonnet](https://github.com/pythonnet/pythonnet) [![GitHub stars](https://img.shields.io/github/stars/pythonnet/pythonnet?style=flat)](https://github.com/pythonnet/pythonnet/stargazers) - Python Integration with the .NET Common Language Runtime (CLR).
 - [pywin32](https://github.com/mhammond/pywin32) [![GitHub stars](https://img.shields.io/github/stars/mhammond/pywin32?style=flat)](https://github.com/mhammond/pywin32/stargazers) - Python Extensions for Windows.
+- [pythonnet](https://github.com/pythonnet/pythonnet) [![GitHub stars](https://img.shields.io/github/stars/pythonnet/pythonnet?style=flat)](https://github.com/pythonnet/pythonnet/stargazers) - Python Integration with the .NET Common Language Runtime (CLR).
 - [pyenv-win](https://github.com/pyenv-win/pyenv-win) [![GitHub stars](https://img.shields.io/github/stars/pyenv-win/pyenv-win?style=flat)](https://github.com/pyenv-win/pyenv-win/stargazers) - A Python version manager for Windows ([rbenv-win](https://github.com/nak1114/rbenv-win) [![GitHub stars](https://img.shields.io/github/stars/nak1114/rbenv-win?style=flat)](https://github.com/nak1114/rbenv-win/stargazers) fork).
 - [winpython](https://github.com/winpython/winpython) [![GitHub stars](https://img.shields.io/github/stars/winpython/winpython?style=flat)](https://github.com/winpython/winpython/stargazers) - Portable Python distribution for Windows.
 

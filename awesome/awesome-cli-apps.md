@@ -140,6 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [ytm-player](https://github.com/peternaame-boop/ytm-player) [![GitHub stars](https://img.shields.io/github/stars/peternaame-boop/ytm-player?style=flat)](https://github.com/peternaame-boop/ytm-player/stargazers) - YouTube Music player.
 - [tunein-cli](https://github.com/tsirysndr/tunein-cli) [![GitHub stars](https://img.shields.io/github/stars/tsirysndr/tunein-cli?style=flat)](https://github.com/tsirysndr/tunein-cli/stargazers) - TuneIn and Radio Browser client.
 - [cliamp](https://github.com/bjarneo/cliamp) [![GitHub stars](https://img.shields.io/github/stars/bjarneo/cliamp?style=flat)](https://github.com/bjarneo/cliamp/stargazers) - Winamp-inspired local, streaming and radio player.
+- [mpv-music](https://github.com/FurqanHun/mpv-music) [![GitHub stars](https://img.shields.io/github/stars/FurqanHun/mpv-music?style=flat)](https://github.com/FurqanHun/mpv-music/stargazers) - Daemonless music player.
 
 ### Video
 
@@ -178,6 +179,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [irssi](https://github.com/irssi/irssi) [![GitHub stars](https://img.shields.io/github/stars/irssi/irssi?style=flat)](https://github.com/irssi/irssi/stargazers) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) [![GitHub stars](https://img.shields.io/github/stars/mcpcpc/kirc?style=flat)](https://github.com/mcpcpc/kirc/stargazers) - Tiny IRC client.
 - [concord](https://github.com/chojs23/concord) [![GitHub stars](https://img.shields.io/github/stars/chojs23/concord?style=flat)](https://github.com/chojs23/concord/stargazers) - Discord client.
+- [signal-cli](https://github.com/AsamK/signal-cli) [![GitHub stars](https://img.shields.io/github/stars/AsamK/signal-cli?style=flat)](https://github.com/AsamK/signal-cli/stargazers) - Signal client.
+- [tlgr](https://github.com/tlgrcli/tlgr) [![GitHub stars](https://img.shields.io/github/stars/tlgrcli/tlgr?style=flat)](https://github.com/tlgrcli/tlgr/stargazers) - Telegram client.
 
 ## Development
 
@@ -198,6 +201,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [mk](https://github.com/pycontribs/mk) [![GitHub stars](https://img.shields.io/github/stars/pycontribs/mk?style=flat)](https://github.com/pycontribs/mk/stargazers) - Exposes most common actions you can run in unfamiliar repos.
 - [dotenv-diff](https://github.com/Chrilleweb/dotenv-diff) [![GitHub stars](https://img.shields.io/github/stars/Chrilleweb/dotenv-diff?style=flat)](https://github.com/Chrilleweb/dotenv-diff/stargazers) - Validate environment variable usage in a codebase.
 - [ota](https://github.com/ota-run/ota) [![GitHub stars](https://img.shields.io/github/stars/ota-run/ota?style=flat)](https://github.com/ota-run/ota/stargazers) - Unified diagnosable repo setup across stacks (local, deploy, CI, agents).
+- [herdr-reviewr](https://github.com/persiyanov/herdr-reviewr) [![GitHub stars](https://img.shields.io/github/stars/persiyanov/herdr-reviewr?style=flat)](https://github.com/persiyanov/herdr-reviewr/stargazers) - Review a coding agent's diff and send line comments back to it.
 
 ### Text Editors
 
@@ -345,6 +349,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [linear-tui](https://github.com/roeyazroel/linear-tui) [![GitHub stars](https://img.shields.io/github/stars/roeyazroel/linear-tui?style=flat)](https://github.com/roeyazroel/linear-tui/stargazers) - Linear TUI client.
 - [jiratui](https://github.com/whyisdifficult/jiratui) [![GitHub stars](https://img.shields.io/github/stars/whyisdifficult/jiratui?style=flat)](https://github.com/whyisdifficult/jiratui/stargazers) - TUI app for Jira.
 - [tiki](https://github.com/boolean-maybe/tiki) [![GitHub stars](https://img.shields.io/github/stars/boolean-maybe/tiki?style=flat)](https://github.com/boolean-maybe/tiki/stargazers) - Markdown-based workflow builder.
+- [yapsnap](https://github.com/kouhxp/yapsnap) [![GitHub stars](https://img.shields.io/github/stars/kouhxp/yapsnap?style=flat)](https://github.com/kouhxp/yapsnap/stargazers) - Transcribe video URLs, audio files or meetings on your machine.
 
 ### Time Tracking
 
@@ -428,6 +433,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clevercli](https://github.com/clevercli/clevercli) [![GitHub stars](https://img.shields.io/github/stars/clevercli/clevercli?style=flat)](https://github.com/clevercli/clevercli/stargazers) - Collection of ChatGPT powered utilities.
 - [OctoType](https://github.com/mahlquistj/octotype) [![GitHub stars](https://img.shields.io/github/stars/mahlquistj/octotype?style=flat)](https://github.com/mahlquistj/octotype/stargazers) - A customizable typing trainer.
 - [gittype](https://github.com/unhappychoice/gittype) [![GitHub stars](https://img.shields.io/github/stars/unhappychoice/gittype?style=flat)](https://github.com/unhappychoice/gittype/stargazers) - Turn your source code into typing challenges.
+- [gravitype](https://github.com/kanakOS01/gravitype) [![GitHub stars](https://img.shields.io/github/stars/kanakOS01/gravitype?style=flat)](https://github.com/kanakOS01/gravitype/stargazers) - Typing game where words fall from the sky.
 - [amazon-orders](https://github.com/alexdlaird/amazon-orders) [![GitHub stars](https://img.shields.io/github/stars/alexdlaird/amazon-orders?style=flat)](https://github.com/alexdlaird/amazon-orders/stargazers) - Retrieve Amazon order history.
 
 ### macOS
@@ -464,6 +470,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [rustnet](https://github.com/domcyrus/rustnet) [![GitHub stars](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat)](https://github.com/domcyrus/rustnet/stargazers) - Network monitoring with process identification and deep packet inspection.
 - [sshuttle](https://github.com/sshuttle/sshuttle) [![GitHub stars](https://img.shields.io/github/stars/sshuttle/sshuttle?style=flat)](https://github.com/sshuttle/sshuttle/stargazers) - Transparent proxy server that works as a poor man's VPN.
 - [tldx](https://github.com/brandonyoungdev/tldx) [![GitHub stars](https://img.shields.io/github/stars/brandonyoungdev/tldx?style=flat)](https://github.com/brandonyoungdev/tldx/stargazers) - Bulk domain availability checker.
+- [vortix](https://github.com/Harry-kp/vortix) [![GitHub stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=flat)](https://github.com/Harry-kp/vortix/stargazers) - Featureful VPN UI (WireGuard and OpenVPN.)
 
 ### Theming and Customization
 
@@ -820,6 +827,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) [![GitHub stars](https://img.shields.io/github/stars/dolsup/cli-fireplace?style=flat)](https://github.com/dolsup/cli-fireplace/stargazers) - Digital fireplace.
 - [gitlogue](https://github.com/unhappychoice/gitlogue) [![GitHub stars](https://img.shields.io/github/stars/unhappychoice/gitlogue?style=flat)](https://github.com/unhappychoice/gitlogue/stargazers) - Cinematic git commit replay.
 - [drift](https://github.com/phlx0/drift) [![GitHub stars](https://img.shields.io/github/stars/phlx0/drift?style=flat)](https://github.com/phlx0/drift/stargazers) - Multiple animated scenes.
+- [cbirds](https://github.com/clainstone/cbirds) [![GitHub stars](https://img.shields.io/github/stars/clainstone/cbirds?style=flat)](https://github.com/clainstone/cbirds/stargazers) - A flock of birds simulation.
 
 ## Graphics
 

@@ -232,7 +232,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Apify](https://www.apify.com/) - Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
   * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
   * [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month. (Possibly taken down, 2025-06-25)
-  * [Arize AI](https://arize.com/) - AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.
   * [Beeceptor](https://beeceptor.com) - No-code, cloud-based platform for mocking and debugging multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers with rules-based logic, CRUD & stateful mocking, proxying, and CORS management for faster integration and testing. The free plan includes 50 requests per day and provides a public dashboard/endpoint where anyone with the dashboard URL can view submitted requests and responses.
   * [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
   * [Brave Search API](https://brave.com/search/api/) - Independent web, news, image, video search and AI/LLM context API, suitable for RAG pipelines and AI agents. Free tier includes $5 in monthly credits (credit card required for verification).
@@ -430,6 +429,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ruttl.com](https://ruttl.com/) - The best all-in-one feedback tool to collect digital feedback and review websites, PDFs, and images.
   * [Screen Sharing via Browser](https://screensharing.net) - Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.
   * [seafile.com](https://www.seafile.com/) - Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB
+  * [Sharry](https://sharry.live/) - Screen sharing via the browser, no downloads, no installs. Useful for pair programming, presentations or remote support. Free tier: no account, 5-minute sessions, 1 viewer.
   * [SiteDots](https://sitedots.com/) - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.
   * [Slab](https://slab.com/) - A modern knowledge management service for teams. Free for up to 10 users.
   * [slack.com](https://slack.com/) - Free for unlimited users with some feature limitations
@@ -440,6 +440,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Teamcamp](https://www.teamcamp.app) - All-in-one project management application for software development companies.
   * [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
   * [Teamplify](https://teamplify.com) - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small groups of up to 5 users.
+  * [TeamSort](https://teamsort.world) - Free tool to vote on a shared list and rank items together. Create a ranked-choice poll in seconds - no signup.
   * [Telegram](https://telegram.org/) - Telegram is for everyone who wants fast, reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps, and powerful file-sharing options.
   * [Tencent RTC](https://trtc.io/) - Tencent Real-Time Communication (TRTC) offers solutions for group audio/video calls.10,000 free minutes/month for the first year.
   * [TimeCamp](https://www.timecamp.com/) - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.
@@ -517,7 +518,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [semanticdiff.com](https://app.semanticdiff.com/) - Programming language aware diff for GitHub pull requests and commits, free for public repositories
   * [shields.io](https://shields.io) - Quality metadata badges for open source projects
   * [sonarcloud.io](https://sonarcloud.io) - Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
-
+* [tomosu.ai](https://tomosu.ai/) - Scores a repository or pull request with a 0-100 Production Reliability Index, plus fix suggestions and a merge verdict. Free for one repository (public or private) through the VS Code/Cursor plugin, web scan, and GitHub App PR comments.
+  
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Search and Browsing
@@ -549,7 +551,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [RunMyJob](https://runmyjob.io) - Run GitHub Actions and GitLab CI pipelines smarter with real-time scaling Spike Instances. Free tier includes 400 vCPU-minutes, 800 GB-minutes, and 10 concurrent jobs with high-performance runners (12 vCPU and 32 GB RAM per job).
   * [Shipfox](https://www.shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
   * [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
-  * [Squash Labs](https://www.squash.io/) - creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
   * [Terramate](https://terramate.io/) - Terramate is an orchestration and management platform for Infrastructure as Code (IaC) tools such as Terraform, OpenTofu, and Terragrunt. Free up to 2 users including all features.
   * [Terrateam](https://terrateam.io) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
   * [Trigger.dev](https://trigger.dev) - Open-source background jobs and AI agent platform with durable tasks, no timeouts, and realtime. Free plan includes $5 monthly compute credits, 20 concurrent runs, unlimited tasks, 5 team members, 10 schedules, and 1-day log retention.
@@ -586,6 +587,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Sherlo](https://sherlo.io) - Visual regression testing for React Native apps. Free plan: 1,000 snapshots/month, iOS & Android simulators.
   * [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen but for cross-browser testing. UI-licious lets you write tests like user stories and offers a free platform - UI-licious Snippets - that allows you to run unlimited tests on Chrome with no sign-up required for up to 3 minutes per test run. Found a bug? You can copy the unique URL to your test to show your devs exactly how to reproduce the bug.
   * [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
+  * [stateofpixel](https://stateofpixel.com) - Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable. Free up to 10 GB.
   * [testingbot.com](https://testingbot.com/) - Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
   * [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) [![GitHub stars](https://img.shields.io/github/stars/marketplace/testspace-com?style=flat)](https://github.com/marketplace/testspace-com/stargazers) and accounts for 450 monthly results.
   * [tesults.com](https://www.tesults.com) - Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
@@ -707,7 +709,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [courier.com](https://www.courier.com/) - Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. The free plan includes 10,000 messages/mo.
   * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
   * [Engage](https://engage.so/) - All-in-one Customer Engagement and Automation Tool (email, push, SMS, product tours, banners and more) for SaaS. Free for up to 1,000 active users per month.
-  * [engagespot.co](https://engagespot.co/) - Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor. Free plan includes 10,000 messages/mo.
   * [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required) forever.
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
   * [knock.app](https://knock.app) - Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. The free plan includes 10,000 messages/mo.
@@ -832,6 +833,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [CatchJS.com](https://catchjs.com/) - JavaScript error tracking with screenshots and click trails. Free for open-source projects.
   * [elmah.io](https://elmah.io/) - Error logging and uptime monitoring for web developers. Free Small Business subscription for open-source projects.
   * [Embrace](https://embrace.io/) - Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.
+  * [Everframe](https://everframe.dev/) - Everframe is bug tracking, crash collection tool with AI triage, reporter conversations and boards all in one platform - for mobile, web, TV and Roku apps. Free tier includes 1000 monthly active installs with unlimited bug and crash reports, unlimited apps and seats, every SDK and AI triage on 50 reports per month.  
   * [exceptionless](https://exceptionless.com) - Real-time error, feature, log reporting, and more. Free for 3k events per month/1 user. Open source and easy to self-host for unlimited use.
   * [GlitchTip](https://glitchtip.com/) - Simple, open-source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits
   * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).
@@ -840,6 +842,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [rollbar.com](https://rollbar.com/) - Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
   * [Semaphr](https://semaphr.com) - Free all-in-one kill switch for your mobile apps.
   * [sentry.io](https://sentry.io/) - Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
+  * [Vinktar](https://vinktar.com/) - Error tracking and product analytics in one tool, set up and queried by your coding agent over MCP. Free for 1M events and 50k errors per month, no card required.
   * [Whitespace](https://whitespace.dev) - One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -899,6 +902,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
   * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
   * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
+  * [DomainCanary](https://domaincanary.com) - DMARC enforcement service that protects your domain from email spoofing. First domain is free with 90 days of report detail and step-by-step policies you publish yourself.
   * [Email Spam Tester](https://email-spam-tester.com/) - Tests the technical part, content, link authority and overall score of your email. Also tests where your email will land: inbox, spam or promotions. Inbox tests on Gmail, GMX, Yahoo, AOL and other email providers. Free to use, no card or registration required. Also works via API and MCP.
   * [EmailGuard](https://emailguard.lazrek.com/) - Block disposable emails, catch typos, and validate MX records via a simple API. 100 free requests/month.
   * [EmailJS](https://www.emailjs.com/) - This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
@@ -931,6 +935,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
   * [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
   * [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)
+  * [Pharos](https://pharos.email) - Transactional email API and SMTP relay service for developers. 3,000 emails a month free.
   * [Plunk](https://useplunk.com) - 3K emails/month for free
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
@@ -1031,7 +1036,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Generative AI
 
-  * [Arize AX](https://arize.com) - AI engineering platform that helps AI engineerings and PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product includes unlimited users and evals, 25k spans, 10 free Signals per month (always-on SRE agent that finds and fixes issues in production), 1GB ingestion per month. Self-hosting option with open-source Arize Phoenix.
+  * [Arize AX](https://arize.com/) - AI observability and evaluation platform that helps teams understand, evaluate, and continuously improve AI agents and applications. Free plan includes unlimited users and evals, 25k spans and 1GB ingestion per month, 15-day retention, and Signal (10 issues per month). No credit card required. Self-hosting open-source option with Arize Phoenix.
   * [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) - AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
   * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
   * [Clair](https://askclair.ai/) - Clinical AI Reference. Students have free access to the professional tool suite, which includes Open Search, Clinical Summary, Med Review, Drug Interactions, ICD-10 Codes, and Stewardship. Additionally, a free trial for the professional suite is available.
@@ -1045,6 +1050,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Lumenfall.ai](https://lumenfall.ai/) - AI media gateway providing unified access to leading image generation models via an OpenAI-compatible API. The platform itself is free to use with zero markup and no subscription fee. Inference costs for most models are billed at provider price, but FLUX.1 [schnell] FP8 is offered free forever with unlimited usage for registered users. Built-in failover and provider resilience included.
   * [Maxim](https://www.getmaxim.ai) - An LLM evaluation and observability platform with agent simulation and prompt playground. Free tier offers 10k monthly logs, access to prompt playground, simulations and evaluations via BYOK.
   * [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
+  * [onomeo](https://onomeo.com/) - Onomeo gives you one key for dozens of AI models. Plug it right into tools like Cline, SillyTavern, or Open WebUI using standard OpenAI format. 35 models are completely free (60 requests / 5 hrs per user, pooled at 450 / 5 hrs across all users). Daily check-in credits let you use big models like Claude and GPT, up to a daily limit. Extra credits start at $5/month. We’re in open beta, so expect occasional instability. It’s great for casual use, but not ready to be a daily driver. Feedback is always welcome.
   * [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
   * [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations) [![GitHub stars](https://img.shields.io/github/stars/pollinations/pollinations?style=flat)](https://github.com/pollinations/pollinations/stargazers)
   * [Portkey](https://portkey.ai/) - Control panel for Gen AI apps featuring an observability suite & an AI gateway. Send & log up to 10,000 requests for free every month.
@@ -1103,6 +1109,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Runsite](https://runsite.app/) - European PaaS with automated deployments from GitHub for web services or static sites (1 web 0.1 vCPU/256 MB free), managed PostgreSQL and Valkey(Redis) (30 days for free), Transactional Email (3,000 emails/month free), S3 compatible storage (5 GB/free), all what you need for start your web site. Servers located in Germany.
   * [SnapDeploy](https://snapdeploy.dev/) - Docker containers or GitHub repos, hosted on AWS. Free tier: up to 4 containers, 100 running hours a month, 10 deploys a day. Sleeps after 15 minutes idle and wakes on the next request. No credit card.
   * [Val Town](https://www.val.town) - Collaborative TypeScript/JavaScript serverless platform for scripts, HTTP endpoints, and cron jobs. Free plan includes unlimited public vals, 15-minute cron intervals, 1-minute wall-clock time per run, and 3-day log retention. No custom domains on free.
+  * [velixir](https://velixir.net/) - EU-hosted PaaS that builds web apps from source in any language (Node.js, Python, Go, Ruby, PHP, Java, Elixir, Rust, .NET and more), no Dockerfile needed. The free tier includes one app (0.25 vCPU, 256 MB RAM) that sleeps when idle, custom domains with TLS, and no credit card.
   * [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
 
@@ -1243,7 +1250,7 @@ Update Time, five active automations, webhooks.
   * [MemCachier](https://www.memcachier.com/) - Managed Memcache service. Free for up to 25MB, 1 Proxy Server, and basic analytics
   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - free tier gives 512 MB
   * [Neo4j Aura](https://neo4j.com/cloud/aura/) - Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (200k nodes, 400k relationships).
-  * [Neon](https://neon.tech/) - Managed PostgreSQL, 0.5 GB of storage per project, 100 Projects ,10 branches per project, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
+  * [Neon](https://neon.com) - Managed Postgres, 0.5 GB of storage per project, 100 projects, 10 branches per project, 100 CU-hours of compute per project per month, autoscaling up to 2 CU, scales to zero after 5 minutes. Includes S3-compatible Object Storage with 5 GB per project that branches with the database. 5 GB of network transfer per project, shared across all products.
   * [Nile](https://www.thenile.dev/) - A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total), 50 million query tokens, autoscaling, unlimited vector embeddings
   * [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 500MB total storage, 5 databases, integrated with Prisma ORM.
   * [Qdrant](https://qdrant.tech/) - Vector Database for embedding data, single node cluster with 0.5 vCPU, 1GB RAM, and 4GB disk.
@@ -1528,6 +1535,7 @@ Update Time, five active automations, webhooks.
   * [Aptabase](https://aptabase.com) - Open Source, Privacy-Friendly, and Simple Analytics for Mobile and Desktop Apps. SDKs for Swift, Kotlin, React Native, Flutter, Electron, and many others. Free for up to 20,000 events per month.
   * [Avo](https://avo.app/) - Simplified analytics release workflow. Single-source-of-truth tracking plan, type-safe analytics tracking library, in-app debuggers, and data observability to catch all data issues before you release. Free for two workspace members and 1 hour data observability lookback.
   * [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
+  * [Cabin](https://withcabin.com) - Privacy-first, cookie-free web analytics with per-page carbon estimates and an MCP server for AI assistants. Free plan: 1 site, 10k pageviews/month.
   * [Census](https://www.getcensus.com/) - Reverse ETL & Operational Analytics Platform. Sync 10 fields from your data warehouse to 60+ SaaS like Salesforce, Zendesk, or Amplitude.
   * [Clicky](https://clicky.com) - Website Analytics Platform. Free Plan for one website with 3000 views analytics.
   * [counter.dev](https://counter.dev) - Web analytics made simple and therefore privacy friendly. Free or pay what you want by donation.
@@ -1640,7 +1648,7 @@ Update Time, five active automations, webhooks.
   * [ApiFlash](https://apiflash.com) - A screenshot API based on Aws Lambda and Chrome. Handles full page, captures timing, and viewport dimensions.
   * [microlink.io](https://microlink.io/) - It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 50 requests/day every day free.
   * [PhantomJsCloud](https://PhantomJsCloud.com) - Browser automation and page rendering.  Free Tier offers up to 500 pages/day.  Free Tier since 2017.
-  * [Ironfang Render](https://ironfang.uk/render) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
+  * [Ironfang Render](https://ironfang.com/render) - UK-based screenshot, PDF, image, QR code and clip rendering API with reusable templates and signed URLs. 250 free renders a month with no payment details needed to get started.
   * [screenshotbase.com](https://screenshotbase.com) - 300 free screenshots / month. Take screenshots from any url. Fast, free & scalable.
   * [screenshotlayer.com](https://screenshotlayer.com/) - Capture highly customizable snapshots of any website. Free 100 snapshots/month
   * [screenshotmachine.com](https://www.screenshotmachine.com/) - Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
@@ -1722,5 +1730,6 @@ Update Time, five active automations, webhooks.
   * [SimpleBackups.com](https://simplebackups.com/) - Backup automation service for servers and databases (MySQL, PostgreSQL, MongoDB) stored directly into cloud storage providers (AWS, DigitalOcean, and Backblaze). Provides a free plan for 1 backup.
   * [SimpleRestore](https://simplerestore.io) - Hassle-free MySQL backup restoration. Restore MySQL backups to any remote database without code or a server.
   * [SnapShooter](https://snapshooter.com/) - Backup solution for DigitalOcean, AWS, LightSail, Hetzner, and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
+  * [VPS Snaps](https://vpssnaps.com) - Automated server backups and snapshots across 8 cloud providers, stored in your own bucket or Google Drive. Free plan: 1 server, daily backups, no credit card.
 
 **[⬆️ Back to Top](#table-of-contents)**

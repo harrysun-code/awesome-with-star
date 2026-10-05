@@ -147,6 +147,7 @@ sellers who aren't evil for physical resources.
     - [Browser tests](#browser-tests)
     - [Form handling](#form-handling)
     - [User login and password management](#user-login-and-password-management)
+    - [Testing HTTP requests](#testing-http-requests)
     - [Web project skeletons and generators](#web-project-skeletons-and-generators)
   - [Others](#others)
     - [Email](#email)
@@ -1535,6 +1536,7 @@ SDK for **[Datastar](https://data-star.dev/)**:
 
 - [datastar-cl](https://github.com/fsmunoz/datastar-cl) [![GitHub stars](https://img.shields.io/github/stars/fsmunoz/datastar-cl?style=flat)](https://github.com/fsmunoz/datastar-cl/stargazers) - Datastar Common Lisp SDK.
   - online demo: https://dataspice.interlaye.red/
+  - current dependency (not in Quicklisp, as of Sept. 2026): [lc-sse](https://codeberg.org/fsm/lc-sse)
 
 
 See also:
@@ -1628,6 +1630,12 @@ Web development utilities
   * [cas-demo](https://github.com/fferrere/cas-demo) [![GitHub stars](https://img.shields.io/github/stars/fferrere/cas-demo?style=flat)](https://github.com/fferrere/cas-demo/stargazers) - a demo project.
 
 See also mito-auth and the Hunchentoot and Clack plugins above.
+
+### Testing HTTP requests
+
+* [the-great-rouclere](https://github.com/phoe/the-great-rouclere) [![GitHub stars](https://img.shields.io/github/stars/phoe/the-great-rouclere?style=flat)](https://github.com/phoe/the-great-rouclere/stargazers) - Programmable HTTP mocking library in Common Lisp. MIT.
+  * "allows the programmer to set "if-then" expectations for incoming HTTP requests, letting the programmer specify responses in a declarative way".
+
 
 ### Web project skeletons and generators
 
@@ -1825,7 +1833,10 @@ See also the chart facilities of IUP and ltk-plotchart (GUI section).
 Utils
 -----
 
-* [cmu-infix](https://github.com/rigetti/cmu-infix) [![GitHub stars](https://img.shields.io/github/stars/rigetti/cmu-infix?style=flat)](https://github.com/rigetti/cmu-infix/stargazers) - A library for writing infix mathematical notation in Common Lisp. See also [polisher](https://github.com/mrcdr/polisher) [![GitHub stars](https://img.shields.io/github/stars/mrcdr/polisher?style=flat)](https://github.com/mrcdr/polisher/stargazers).
+* [infix-math](https://github.com/ruricolist/infix-math) [![GitHub stars](https://img.shields.io/github/stars/ruricolist/infix-math?style=flat)](https://github.com/ruricolist/infix-math/stargazers) - An extensible infix syntax for math. MIT.
+  - can also turn the REPL into a calculator.
+* [cmu-infix](https://github.com/rigetti/cmu-infix) [![GitHub stars](https://img.shields.io/github/stars/rigetti/cmu-infix?style=flat)](https://github.com/rigetti/cmu-infix/stargazers) - A library for writing infix mathematical notation in Common Lisp.
+  - see also [polisher](https://github.com/mrcdr/polisher) [![GitHub stars](https://img.shields.io/github/stars/mrcdr/polisher?style=flat)](https://github.com/mrcdr/polisher/stargazers).
 
 
 Parallelism and Concurrency
@@ -2234,6 +2245,8 @@ These are applications or bits of code that make development in Common Lisp easi
 
 Unit Testing
 ============
+
+See also the "testing HTTP requests" subsection.
 
 * ⭐ [FiveAM](https://github.com/sionescu/fiveam) [![GitHub stars](https://img.shields.io/github/stars/sionescu/fiveam?style=flat)](https://github.com/sionescu/fiveam/stargazers) - Simple regression testing framework. [FreeBSD][39].
   * [FiveAM documentation](https://fiveam.common-lisp.dev/docs/index.html)

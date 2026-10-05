@@ -242,6 +242,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
 - [iOS Dev Tools Newsletter](https://iosdev.tools/). The best tools for iOS developers, updated weekly.
 - [Indie Watch](https://indie.watch/). Weekly interviews with successful iOS & macOS developers about strategies and tips you can use to create profitable indie apps.
+- [The iOS Weekly Brief](https://iosweeklybrief.com/). A weekly, hand-curated filter of the best iOS and Swift links for experienced engineers, each with the author's own comment on why it matters.
 
 ### Go
 
@@ -345,6 +346,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [NixOS Weekly](https://weekly.nixos.org). Latest News for [NixOS](https://nixos.org)
 - [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
 - [FOSS Weekly](https://fossweekly.beehiiv.com/). The easiest way to keep up with Open Source Software.
+- [Nossletter](https://nossletter.tech/). A free daily newsletter breaking down the best merged PRs in open source.
 
 ## Git
 
@@ -437,6 +439,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Augmented Coding Weekly](https://augmentedcoding.dev/). A weekly newsletter that takes a hype-free look at the latest news about AI-augmented software development and vibe coding, with a focus on how it is changing the software industry
 - [Adapt or Die](https://adaptordie.io). Independent analysis of AI's impact on commerce — covering agentic commerce, AI infrastructure spending, and digital transformation with long-form, zero-hype takes.
 - [AI Dev Jobs Weekly](https://aidevboard.com). A weekly digest of the latest AI and machine learning developer jobs from 280+ companies including Anthropic, OpenAI, and DeepMind.
+- [Siteefy Newsletter](https://newsletter.siteefy.com/). AI and technology updates for people who build things.
 
 ## Blockchain / Cryptocurrencies
 
@@ -577,6 +580,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [News Minimalist](https://www.newsminimalist.com/). A curated newsletter utilizing AI (ChatGPT-4) to deliver only the most significant news. By analyzing 1000 top articles daily, it ensures subscribers stay informed without wasting time on unimportant updates.
 - [Obsidian Rocks](https://obsidian.rocks/). Obsidian (the private and flexible writing app that adapts to the way you think) tips and tricks.
 - [Word of the Day](https://tally.so/r/mRQ1L4). Daily vocabulary email with definitions, examples, and practical usage tips.
+- [Mr. Jay's Language Learning Tips](https://mrjkorea.github.io/wait-for-languages/). A free weekly newsletter with one practical language-learning tip for learners, teachers, and parents, written by an English teacher in Korea.
 
 ## License
 

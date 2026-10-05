@@ -25,6 +25,22 @@ A curated collection of databases, software, and papers related to computational
 
 Browse and search the resources via the [GitHub Pages UI](https://inoue0426.github.io/awesome-computational-biology/).
 
+For treatment-response work, the [Dataset Explorer](https://inoue0426.github.io/awesome-computational-biology/dataset-explorer.html) compares curated cell-line, patient, and PDX datasets by year, sample type, perturbation metadata, matched pre/post availability, SMILES coverage, and clinical outcomes.
+
+The [Method Explorer](https://inoue0426.github.io/awesome-computational-biology/method-explorer.html) compares drug-response and perturbation methods by task, molecular/context representation, unseen-drug support, dose/time conditioning, and patient transfer.
+
+The [Foundation Model Explorer](https://inoue0426.github.io/awesome-computational-biology/foundation-explorer.html) compares foundation models by fine-grained modality, parameter count, pretraining scale, species, zero-shot support, weights/code availability, perturbation support, and spatial support.
+
+The [Agent Explorer](https://inoue0426.github.io/awesome-computational-biology/agent-explorer.html) compares agentic AI systems by scientific domain, single- vs multi-agent architecture, tool/code execution, literature and web retrieval, omics and wet-lab support, autonomy, and human-in-the-loop design. The Agent Explorer table is sortable and supports domain, architecture, omics, code-execution, and year filters.
+
+All explorer tables support sortable columns and focused filters for quick comparison, including a Recent (≥2025) toggle.
+
+The Pages home screen also summarizes total resources, profiled datasets, methods, foundation models, agents, and the most common foundation-model modalities.
+
+Chemical and genetic perturbation datasets can be filtered separately in the Dataset Explorer. Genetic screens can also be filtered by CRISPRi, CRISPRa, knockout, enhancer-targeting, combinatorial, or mixed perturbation modes, including mixed-resource collections.
+
+The explorer also includes the eight perturbation datasets used in the Bison unseen-compound benchmark.
+
 - Search matches `name`, `description`, `tasks`, `modalities`, and `tags`.
 - The **Task**, **Modality**, and **Type** filters map directly to `tasks`, `modalities`, and `type` in `docs/data/resources.json`.
 - Clicking badges on cards applies the corresponding filter.
@@ -229,43 +245,81 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 ## Benchmarks & Datasets
 
-- [1000 Genomes Project](https://www.internationalgenome.org/) — Reference panel of human genetic variation from 2,504 individuals across 26 populations.
-- [BACE](https://www.kaggle.com/datasets/gokturkkoch/bace) — Binary classification and regression dataset for β-secretase 1 (BACE-1) inhibitor binding affinity.
+### Drug Response & Perturbation
+
 - [BEAT AML](https://biodev.github.io/BeatAML2/) — Functional ex vivo drug sensitivity measurements paired with genomics for acute myeloid leukemia.
+- [Cancer Therapeutics Response Portal (CTRP)](https://portals.broadinstitute.org/ctrp/) — Drug sensitivity profiles across ~900 cancer cell lines for >400 compounds.
+- [Chem-PerturBridge](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Harmonized compendium and processing pipelines for small-molecule perturbation transcriptomics across heterogeneous assays and gene panels.
+- [GSE191127 Breast Cancer Pre/Post Chemotherapy](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE191127) — Bulk RNA-seq and genomics from matched pre- and post-neoadjuvant chemotherapy breast tumors with treatment outcomes.
+- [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) — Drug sensitivity for ~1000 human cancer cell lines and hundreds of compounds.
+- [JUMP Cell Painting Datasets](https://github.com/jump-cellpainting/datasets) [![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/datasets?style=flat)](https://github.com/jump-cellpainting/datasets/stargazers) — Consortium-scale cell imaging perturbation datasets (chemical and genetic) for phenotypic profiling and drug discovery research.
+- [LINCS L1000](https://lincsproject.org/LINCS/tools/workflows/find-the-best-place-to-obtain-the-lincs-l1000-data) — Gene expression profiles (978 landmark genes) for >20,000 chemical and genetic perturbations across cell lines.
+- [LINCS L1000 Phase 1](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Phase-1 L1000 benchmark view used by Bison with 692,787 profiles, 9,233 molecules, 70 contexts, and 978 landmark genes.
+- [LINCS L1000 Phase 2](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Phase-2 L1000 benchmark view used by Bison with 333,263 profiles, 1,760 molecules, 30 contexts, and 978 landmark genes.
+- [MIX-Seq](https://www.nature.com/articles/s41467-020-17440-w) — Multiplexed single-cell transcriptional profiling of chemical and genetic perturbation responses across pools of cancer cell lines.
+- [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) — Drug sensitivity benchmark across 60 diverse human cancer cell lines.
+- [Novartis Perturbation Dataset](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Large chemical perturbation transcriptomic screen used in Chem-PerturBridge; the Bison benchmark view contains 46,748 profiles and 3,770 molecules.
+- [OP3](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Chemical perturbation dataset used by Chem-PerturBridge and the Bison unseen-compound benchmark; the Bison benchmark view contains 1,813 profiles, 138 molecules, and 4 cellular contexts.
+- [PDX-Atlas](https://muralportal.pdxatlas.org/) — Portal integrating clinical, genomic, transcriptomic, and drug-response data from patient-derived xenograft models.
+- [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
+- [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
+- [sci-Plex](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE139944) — Single-cell chemical perturbation screen of ~650,000 transcriptomes across three cancer cell lines, 188 compounds, and four doses.
+- [scPerturb](https://github.com/sanderlab/scPerturb) [![GitHub stars](https://img.shields.io/github/stars/sanderlab/scPerturb?style=flat)](https://github.com/sanderlab/scPerturb/stargazers) — Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
+- [Tahoe-100M](https://huggingface.co/datasets/tahoebio/Tahoe-100M) — Giga-scale single-cell perturbation atlas with >100 million profiles from 50 cancer cell lines exposed to ~1,100 small molecules.
+- [VCPI-0001](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Bulk chemical perturbation dataset used in Chem-PerturBridge; the Bison benchmark view contains 27,517 profiles and 2,272 molecules in one cellular context.
+- [VCPI-0002](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Bulk chemical perturbation dataset used in Chem-PerturBridge; the Bison benchmark view contains 18,139 profiles and 1,488 molecules in one cellular context.
+
+### Genetic Perturbation & Perturb-seq
+
+- [Dixit et al. 2016 Perturb-seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90063) — Pooled CRISPR knockout with single-cell RNA-seq across K562 and dendritic-cell screens, including stimulated conditions and combinatorial perturbations.
+- [Adamson et al. 2016 Perturb-seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90546) — CRISPRi Perturb-seq in K562 cells for systematic dissection of the unfolded protein response.
+- [Datlinger et al. 2017 CROP-seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92872) — Pooled CRISPR knockout screen with single-cell transcriptomic readout in Jurkat cells under T-cell receptor stimulation.
+- [Norman et al. 2019 CRISPRa Perturb-seq](https://figshare.com/articles/dataset/Norman_et_al_2019_Perturb-seq/27766323) — Large-scale CRISPR activation Perturb-seq in K562 cells spanning single-gene and combinatorial perturbations.
+- [Gasperini et al. 2019 CRISPRi enhancer screen](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120861) — High-MOI single-cell CRISPRi screen in K562 cells targeting thousands of candidate enhancers to map enhancer-gene regulation.
+- [Replogle et al. 2022 K562 Genome-wide Perturb-seq](https://plus.figshare.com/articles/dataset/_Mapping_information-rich_genotype-phenotype_landscapes_with_genome-scale_Perturb-seq_Replogle_et_al_2022_processed_Perturb-seq_datasets/20029387) — Genome-scale CRISPRi Perturb-seq targeting nearly all expressed genes in K562 cells.
+- [Replogle et al. 2022 K562 Essential Perturb-seq](https://plus.figshare.com/articles/dataset/_Mapping_information-rich_genotype-phenotype_landscapes_with_genome-scale_Perturb-seq_Replogle_et_al_2022_processed_Perturb-seq_datasets/20029387) — CRISPRi Perturb-seq focused on essential genes in K562 cells.
+- [Replogle et al. 2022 RPE1 Essential Perturb-seq](https://plus.figshare.com/articles/dataset/_Mapping_information-rich_genotype-phenotype_landscapes_with_genome-scale_Perturb-seq_Replogle_et_al_2022_processed_Perturb-seq_datasets/20029387) — CRISPRi Perturb-seq focused on essential genes in RPE1 cells.
+- [Frangieh et al. 2021 Perturb-CITE-seq](https://singlecell.broadinstitute.org/single_cell/study/SCP1064/multi-modal-pooled-perturb-cite-seq-screens-in-patient-models-define-novel-mechanisms-of-cancer-immune-evasion) — Multimodal CRISPR knockout screen with RNA and surface-protein readouts in patient-derived melanoma models under immune-related conditions.
+
+### Single-Cell & Spatial
+
+- [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) — DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k 10x Xenium samples (~13.3M cells) (gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
+- [scIB (Single-cell Integration Benchmarks)](https://github.com/theislab/scib) [![GitHub stars](https://img.shields.io/github/stars/theislab/scib?style=flat)](https://github.com/theislab/scib/stargazers) — Comprehensive benchmarking framework for single-cell data integration methods.
+- [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) — Comprehensive single-cell atlas of 20 mouse organs and tissues, enabling cross-tissue and cross-species comparisons.
+- [Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) — Comprehensive human single-cell atlas of ~500K cells from 24 organs and tissues across multiple donors.
+- [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) — DeepSpot-M predicted transcriptome-wide ST for TCGA H&E (FF + FFPE; 28,664 slides / 32 cancer types; gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
+
+### Molecular, Protein & Drug Discovery
+
+- [BACE](https://www.kaggle.com/datasets/gokturkkoch/bace) — Binary classification and regression dataset for β-secretase 1 (BACE-1) inhibitor binding affinity.
 - [Bento](https://github.com/LigandPro/Bento) [![GitHub stars](https://img.shields.io/github/stars/LigandPro/Bento?style=flat)](https://github.com/LigandPro/Bento/stargazers) — Protein-ligand docking benchmark covering rigid, flexible, de novo, blind, induced-fit, and covalent docking tasks.
 - [BindingDB Curated Sets](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes) — Curated binding affinity datasets for protein–ligand interaction benchmarking.
-- [Cancer Therapeutics Response Portal (CTRP)](https://portals.broadinstitute.org/ctrp/) — Drug sensitivity profiles across ~900 cancer cell lines for >400 compounds.
 - [ClinTox](https://tdcommons.ai/single_pred_tasks/tox/#clintox) — Clinical toxicity dataset contrasting FDA-approved drugs with those that failed clinical trials due to toxicity.
-- [CPTAC (Clinical Proteomic Tumor Analysis Consortium)](https://proteomics.cancer.gov/programs/cptac) — Multi-omic proteogenomic datasets for multiple cancer types linking proteomics with genomics.
 - [CrossDocked2020](https://arxiv.org/abs/2001.01037) — Large-scale dataset for structure-based virtual screening.
 - [DUD-E (Directory of Useful Decoys, Enhanced)](http://dude.docking.org/) — Structure-based virtual screening benchmark with active ligands and challenging decoy sets across diverse protein targets.
 - [FLIP (Fitness Landscape Inference for Proteins)](https://github.com/J-SNACKKB/FLIP) [![GitHub stars](https://img.shields.io/github/stars/J-SNACKKB/FLIP?style=flat)](https://github.com/J-SNACKKB/FLIP/stargazers) — Benchmark collection of protein fitness landscape datasets for evaluating protein ML models.
-- [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) — Drug sensitivity for ~1000 human cancer cell lines and hundreds of compounds.
 - [GuacaMol](https://github.com/BenevolentAI/guacamol) [![GitHub stars](https://img.shields.io/github/stars/BenevolentAI/guacamol?style=flat)](https://github.com/BenevolentAI/guacamol/stargazers) — Benchmark suite for generative molecular design models.
-- [JUMP Cell Painting Datasets](https://github.com/jump-cellpainting/datasets) [![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/datasets?style=flat)](https://github.com/jump-cellpainting/datasets/stargazers) — Consortium-scale cell imaging perturbation datasets (chemical and genetic) for phenotypic profiling and drug discovery research.
-- [LINCS L1000](https://lincsproject.org/LINCS/tools/workflows/find-the-best-place-to-obtain-the-lincs-l1000-data) — Gene expression profiles (978 landmark genes) for >20,000 chemical and genetic perturbations across cell lines.
 - [MoleculeNet](http://moleculenet.ai/) — Benchmark datasets for molecular machine learning.
 - [MOSES](https://github.com/molecularsets/moses) [![GitHub stars](https://img.shields.io/github/stars/molecularsets/moses?style=flat)](https://github.com/molecularsets/moses/stargazers) — Benchmarking platform for molecular generation models.
-- [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) — Drug sensitivity benchmark across 60 diverse human cancer cell lines.
-- [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
-- [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink) [![GitHub stars](https://img.shields.io/github/stars/OpenBioLink/OpenBioLink?style=flat)](https://github.com/OpenBioLink/OpenBioLink/stargazers) — Benchmark datasets for biological knowledge graph completion.
-- [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
 - [PK-DB](https://pk-db.com/) — Open database of experimental pharmacokinetics (PK) and ADME data from clinical and preclinical studies.
-- [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
 - [ProteinGym](https://github.com/OATML-Markslab/ProteinGym) [![GitHub stars](https://img.shields.io/github/stars/OATML-Markslab/ProteinGym?style=flat)](https://github.com/OATML-Markslab/ProteinGym/stargazers) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
 - [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.
-- [scIB (Single-cell Integration Benchmarks)](https://github.com/theislab/scib) [![GitHub stars](https://img.shields.io/github/stars/theislab/scib?style=flat)](https://github.com/theislab/scib/stargazers) — Comprehensive benchmarking framework for single-cell data integration methods.
-- [scPerturb](https://github.com/sanderlab/scPerturb) [![GitHub stars](https://img.shields.io/github/stars/sanderlab/scPerturb?style=flat)](https://github.com/sanderlab/scPerturb/stargazers) — Curated and continuously updated single-cell perturbation data resource spanning CRISPR and drug perturbation studies.
 - [SIDER (Side Effect Resource)](http://sideeffects.embl.de/) — Database of 1,430 approved drugs with their recorded adverse drug reactions across 27 system-organ classes.
-- [Tabula Muris](https://tabula-muris.ds.czbiohub.org/) — Comprehensive single-cell atlas of 20 mouse organs and tissues, enabling cross-tissue and cross-species comparisons.
-- [Tabula Sapiens](https://tabula-sapiens-portal.ds.czbiohub.org/) — Comprehensive human single-cell atlas of ~500K cells from 24 organs and tissues across multiple donors.
 - [TAPE (Tasks Assessing Protein Embeddings)](https://github.com/songlab-cal/tape) [![GitHub stars](https://img.shields.io/github/stars/songlab-cal/tape?style=flat)](https://github.com/songlab-cal/tape/stargazers) — Benchmark suite of five biologically meaningful semi-supervised learning tasks for evaluating protein representations.
-- [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) — Comprehensive multi-omics (genomics, transcriptomics, proteomics, methylation) dataset for 33 cancer types across ~11,000 patients.
-- [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) — DeepSpot-M predicted transcriptome-wide ST for TCGA H&E (FF + FFPE; 28,664 slides / 32 cancer types; gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
-- [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) — DeepSpot-M predicted transcriptome-wide ST for 59 HEST-1k 10x Xenium samples (~13.3M cells) (gated). Paper: [DeepSpot-M](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1).
 - [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) — Unified benchmark suite covering ADMET, drug-target interaction, drug response, and more.
 - [Tox21](https://tripod.nih.gov/tox21/challenge/) — 12,707 compounds tested in 12 nuclear receptor and stress-response pathway biochemical assays for toxicity prediction.
+
+### Genomics, Cancer & Biomedical Cohorts
+
+- [1000 Genomes Project](https://www.internationalgenome.org/) — Reference panel of human genetic variation from 2,504 individuals across 26 populations.
+- [CPTAC (Clinical Proteomic Tumor Analysis Consortium)](https://proteomics.cancer.gov/programs/cptac) — Multi-omic proteogenomic datasets for multiple cancer types linking proteomics with genomics.
+- [The Cancer Genome Atlas (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) — Comprehensive multi-omics (genomics, transcriptomics, proteomics, methylation) dataset for 33 cancer types across ~11,000 patients.
 - [UK Biobank](https://www.ukbiobank.ac.uk/) — Large-scale biomedical database of ~500K participants with genetic, imaging, and health data for population genetics and disease studies.
+
+### General Biological ML & Knowledge Graph Benchmarks
+
+- [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
+- [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink) [![GitHub stars](https://img.shields.io/github/stars/OpenBioLink/OpenBioLink?style=flat)](https://github.com/OpenBioLink/OpenBioLink/stargazers) — Benchmark datasets for biological knowledge graph completion.
 
 ---
 
@@ -337,6 +391,11 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [TGSA](https://github.com/violet-sto/TGSA) [![GitHub stars](https://img.shields.io/github/stars/violet-sto/TGSA?style=flat)](https://github.com/violet-sto/TGSA/stargazers) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
 - [HiDRA](https://github.com/bsml320/HiDRA) [![GitHub stars](https://img.shields.io/github/stars/bsml320/HiDRA?style=flat)](https://github.com/bsml320/HiDRA/stargazers) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
 - [DRUML](https://github.com/CutillasLab/DRUMLR) [![GitHub stars](https://img.shields.io/github/stars/CutillasLab/DRUMLR?style=flat)](https://github.com/CutillasLab/DRUMLR/stargazers) — Ensemble machine learning framework combining standard ML with deep learning to systematically rank anti-cancer drugs from proteomics and RNA-seq data.
+- [PASO](https://github.com/queryang/PASO) [![GitHub stars](https://img.shields.io/github/stars/queryang/PASO?style=flat)](https://github.com/queryang/PASO/stargazers) — Pathway-aware multi-omics drug response model combining pathway-difference features, multi-scale convolutions, Transformer encoding, and drug SMILES.
+- [DTLCDR](https://doi.org/10.1016/j.jpha.2025.101315) — Target-based multimodal framework for preclinical cancer drug response prediction and transfer to clinical response, with explicit unseen-drug generalization.
+- [THERAPI](https://github.com/Sunginyoung/THERAPI) [![GitHub stars](https://img.shields.io/github/stars/Sunginyoung/THERAPI?style=flat)](https://github.com/Sunginyoung/THERAPI/stargazers) — Cell-line-to-patient transfer framework that aligns tumor transcriptomes with cancer cell lines and integrates perturbation and gene-level representations for patient drug response prediction.
+- [EXPRESSO](https://doi.org/10.1158/0008-5472.CAN-25-5220) — Supervised treatment-response framework using pretreatment tumor transcriptomics, drug targets, and context-specific biomarkers across multiple cancer types and therapies.
+- [PerturbRx](https://arxiv.org/abs/2608.21349) — Treatment-conditioned representation learning framework that transfers drug-induced latent transitions learned from single-cell perturbation data to patient-level cancer treatment-response prediction.
 
 #### Drug Perturbation
 
@@ -345,6 +404,16 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [chemCPA](https://github.com/theislab/chemCPA) [![GitHub stars](https://img.shields.io/github/stars/theislab/chemCPA?style=flat)](https://github.com/theislab/chemCPA/stargazers) — Compositional perturbation autoencoder for predicting single-cell transcriptional responses to unseen drug perturbations and dose combinations.
 - [cycleCDR](https://github.com/hliulab/cycleCDR) [![GitHub stars](https://img.shields.io/github/stars/hliulab/cycleCDR?style=flat)](https://github.com/hliulab/cycleCDR/stargazers) — Interpretable cycle-consistency framework for modeling cellular responses to drug perturbations.
 - [PRNet](https://github.com/Perturbation-Response-Prediction/PRnet) [![GitHub stars](https://img.shields.io/github/stars/Perturbation-Response-Prediction/PRnet?style=flat)](https://github.com/Perturbation-Response-Prediction/PRnet/stargazers) — Deep generative model for predicting transcriptional responses to novel chemical perturbations for drug discovery.
+- [Bison](https://arxiv.org/abs/2609.32467) — Cross-dataset model for globally unseen-compound response prediction using a shared gene representation, discrete diffusion models, and matched drug-contrast supervision.
+- [biolord](https://github.com/nitzanlab/biolord) [![GitHub stars](https://img.shields.io/github/stars/nitzanlab/biolord?style=flat)](https://github.com/nitzanlab/biolord/stargazers) — Deep generative model that disentangles known and unknown attributes for conditional generation of single-cell states.
+- [PerturbNet](https://github.com/welch-lab/PerturbNet) [![GitHub stars](https://img.shields.io/github/stars/welch-lab/PerturbNet?style=flat)](https://github.com/welch-lab/PerturbNet/stargazers) — Conditional generative model for predicting distributions of single-cell states under unseen chemical and genetic perturbations.
+- [CellFlow](https://github.com/theislab/CellFlow) [![GitHub stars](https://img.shields.io/github/stars/theislab/CellFlow?style=flat)](https://github.com/theislab/CellFlow/stargazers) — Conditional flow-matching framework for modeling and predicting cellular phenotypes under chemical, genetic, and other perturbations.
+- [Prophet](https://github.com/theislab/prophet) [![GitHub stars](https://img.shields.io/github/stars/theislab/prophet?style=flat)](https://github.com/theislab/prophet/stargazers) — Transformer model for predicting cellular phenotypes under unseen chemical or genetic perturbations across heterogeneous assays and contexts.
+- [PrePR-CT](https://github.com/reem12345/Cell-Type-Specific-Graphs) [![GitHub stars](https://img.shields.io/github/stars/reem12345/Cell-Type-Specific-Graphs?style=flat)](https://github.com/reem12345/Cell-Type-Specific-Graphs/stargazers) — Graph-based model using cell-type-specific co-expression networks as inductive priors for small-data chemical perturbation response prediction.
+- [XPert](https://github.com/GSanShui/XPert) [![GitHub stars](https://img.shields.io/github/stars/GSanShui/XPert?style=flat)](https://github.com/GSanShui/XPert/stargazers) — Knowledge-informed dual-branch Transformer for drug-induced transcriptional perturbation prediction across dose, time, and cellular context.
+- [State](https://github.com/ArcInstitute/state) [![GitHub stars](https://img.shields.io/github/stars/ArcInstitute/state?style=flat)](https://github.com/ArcInstitute/state/stargazers) — Transition model for predicting cellular perturbation responses across diverse contexts and sets of cells.
+- [TxPert](https://github.com/valence-labs/TxPert) [![GitHub stars](https://img.shields.io/github/stars/valence-labs/TxPert?style=flat)](https://github.com/valence-labs/TxPert/stargazers) — Knowledge-graph-informed latent-transfer model for transcriptomic perturbation prediction across unseen single perturbations, combinations, and cross-context settings.
+- [LPM](https://github.com/perturblib/perturblib) [![GitHub stars](https://img.shields.io/github/stars/perturblib/perturblib?style=flat)](https://github.com/perturblib/perturblib/stargazers) — Large perturbation model that jointly learns heterogeneous perturbation experiments by disentangling perturbation, readout, and context representations.
 
 #### Drug Repurposing
 
@@ -389,11 +458,45 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [GeneGPT](https://github.com/ncbi/GeneGPT) [![GitHub stars](https://img.shields.io/github/stars/ncbi/GeneGPT?style=flat)](https://github.com/ncbi/GeneGPT/stargazers) — LLM for biomedical information, integrated with various APIs.
 - [GenePT](https://github.com/yiqunchen/GenePT) [![GitHub stars](https://img.shields.io/github/stars/yiqunchen/GenePT?style=flat)](https://github.com/yiqunchen/GenePT/stargazers) — Foundation LLM for single-cell data.
 - [scPRINT](https://github.com/cantinilab/scPRINT) [![GitHub stars](https://img.shields.io/github/stars/cantinilab/scPRINT?style=flat)](https://github.com/cantinilab/scPRINT/stargazers) — Pretrained on 50M cells for scRNA-seq denoising & zero imputation.
-- [ClawBio](https://github.com/ClawBio/ClawBio) [![GitHub stars](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat)](https://github.com/ClawBio/ClawBio/stargazers) — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
 - [BioMedLM](https://huggingface.co/stanford-crfm/BioMedLM) — 2.7B parameter GPT-2-style language model trained exclusively on biomedical literature from PubMed for biomedical question answering and text generation.
 - [MolT5](https://github.com/blender-nlp/MolT5) [![GitHub stars](https://img.shields.io/github/stars/blender-nlp/MolT5?style=flat)](https://github.com/blender-nlp/MolT5/stargazers) — Language model for molecular tasks bridging text and SMILES, enabling molecule captioning and text-driven molecule generation.
 - [ChatDrug](https://github.com/chao1224/ChatDrug) [![GitHub stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=flat)](https://github.com/chao1224/ChatDrug/stargazers) — LLM-based conversational pipeline for drug discovery, using natural language prompts for iterative drug editing and optimization.
-- [CASSIA](https://github.com/ElliotXie/CASSIA) [![GitHub stars](https://img.shields.io/github/stars/ElliotXie/CASSIA?style=flat)](https://github.com/ElliotXie/CASSIA/stargazers) — Multi-agent LLM for reference-free, interpretable cell-type annotation of single-cell RNA-seq data, with dedicated annotation, validation, scoring, and reporting agents.
+
+### Agentic AI for Biology
+
+#### General Biomedical Agents
+
+- [Biomni](https://github.com/snap-stanford/Biomni) [![GitHub stars](https://img.shields.io/github/stars/snap-stanford/Biomni?style=flat)](https://github.com/snap-stanford/Biomni/stargazers) — General-purpose biomedical AI agent integrating planning, code execution, specialized tools, databases, and software across diverse biomedical research tasks.
+- [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) [![GitHub stars](https://img.shields.io/github/stars/mims-harvard/ToolUniverse?style=flat)](https://github.com/mims-harvard/ToolUniverse/stargazers) — Unified scientific tool ecosystem for building AI scientists that can discover, select, and execute biomedical tools and databases.
+- [ClawBio](https://github.com/ClawBio/ClawBio) [![GitHub stars](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat)](https://github.com/ClawBio/ClawBio/stargazers) — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
+- [BioMedAgent](https://github.com/BOBQWERA/BioMedAgent) [![GitHub stars](https://img.shields.io/github/stars/BOBQWERA/BioMedAgent?style=flat)](https://github.com/BOBQWERA/BioMedAgent/stargazers) — Self-evolving multi-agent framework for autonomous biomedical data analysis with tool discovery, workflow planning, code generation, execution, correction, and cross-omics analysis.
+- [BioMaster](https://github.com/ai4nucleome/BioMaster) [![GitHub stars](https://img.shields.io/github/stars/ai4nucleome/BioMaster?style=flat)](https://github.com/ai4nucleome/BioMaster/stargazers) — Multi-agent system for automated and auditable bioinformatics workflows spanning RNA-seq, ChIP-seq, single-cell, spatial omics, Hi-C, long reads, metagenomics, and proteomics.
+- [BRAD](https://github.com/Jpickard1/BRAD) [![GitHub stars](https://img.shields.io/github/stars/Jpickard1/BRAD?style=flat)](https://github.com/Jpickard1/BRAD/stargazers) — Retrieval-augmented bioinformatics assistant integrating scientific literature, databases, external tools, and executable workflows.
+
+#### Therapeutics & Drug Discovery Agents
+
+- [TxAgent](https://github.com/mims-harvard/TxAgent) [![GitHub stars](https://img.shields.io/github/stars/mims-harvard/TxAgent?style=flat)](https://github.com/mims-harvard/TxAgent/stargazers) — Therapeutic reasoning agent using multi-step reasoning and a large scientific tool universe for drug interactions, contraindications, and personalized treatment analysis.
+- [Medea](https://github.com/mims-harvard/Medea) [![GitHub stars](https://img.shields.io/github/stars/mims-harvard/Medea?style=flat)](https://github.com/mims-harvard/Medea/stargazers) — Multi-agent therapeutic discovery system combining research planning, biological data analysis, literature reasoning, and multi-LLM deliberation across single-cell, cell-line, and patient contexts.
+- [DrugAgent](https://github.com/inoue0426/DrugAgent) [![GitHub stars](https://img.shields.io/github/stars/inoue0426/DrugAgent?style=flat)](https://github.com/inoue0426/DrugAgent/stargazers) — Multi-agent biomedical evidence synthesis framework for computational drug discovery with reliability-aware aggregation.
+
+#### Bioinformatics & Omics Agents
+
+- [CASSIA](https://github.com/ElliotXie/CASSIA) [![GitHub stars](https://img.shields.io/github/stars/ElliotXie/CASSIA?style=flat)](https://github.com/ElliotXie/CASSIA/stargazers) — Multi-agent LLM framework for reference-free and interpretable single-cell cell-type annotation with dedicated annotation, validation, scoring, and reporting agents.
+- [STELLA](https://github.com/zaixizhang/STELLA) [![GitHub stars](https://img.shields.io/github/stars/zaixizhang/STELLA?style=flat)](https://github.com/zaixizhang/STELLA/stargazers) — Self-evolving biomedical research agent that expands its tool repertoire and supports literature reasoning, computational analysis, and laboratory-oriented scientific workflows.
+- [AutoBA](https://github.com/JoshuaChou2018/AutoBA) [![GitHub stars](https://img.shields.io/github/stars/JoshuaChou2018/AutoBA?style=flat)](https://github.com/JoshuaChou2018/AutoBA/stargazers) — Automated multi-omics analysis agent that plans, executes, and repairs bioinformatics workflows from natural-language objectives.
+- [GenoMAS](https://github.com/Liu-Hy/GenoMAS) [![GitHub stars](https://img.shields.io/github/stars/Liu-Hy/GenoMAS?style=flat)](https://github.com/Liu-Hy/GenoMAS/stargazers) — Multi-agent framework for code-driven gene-expression analysis with planning, execution, debugging, backtracking, and GEO/TCGA-based scientific discovery.
+- [BIA](https://github.com/biagent-dev/bia) [![GitHub stars](https://img.shields.io/github/stars/biagent-dev/bia?style=flat)](https://github.com/biagent-dev/bia/stargazers) — Bioinformatics agent for GEO search, sample metadata extraction, count-matrix processing, and pipeline extraction from papers.
+- [BioAgents](https://github.com/microsoft/bioinformagus) [![GitHub stars](https://img.shields.io/github/stars/microsoft/bioinformagus?style=flat)](https://github.com/microsoft/bioinformagus/stargazers) — Multi-agent bioinformatics assistant using specialized language models and retrieval for genomics workflow development and troubleshooting.
+- [Genomi](https://github.com/exon-research/genomi) [![GitHub stars](https://img.shields.io/github/stars/exon-research/genomi?style=flat)](https://github.com/exon-research/genomi/stargazers) — Local-first genomics agent runtime that indexes personal variants, queries evidence, and generates evidence-grounded reports while keeping raw genome data on-device.
+
+#### Multi-Agent Scientific Labs
+
+- [Virtual Lab](https://github.com/zou-group/virtual-lab) [![GitHub stars](https://img.shields.io/github/stars/zou-group/virtual-lab?style=flat)](https://github.com/zou-group/virtual-lab/stargazers) — Human–AI collaborative research environment in which an LLM principal investigator coordinates specialized scientist agents for scientific discovery.
+- [Agent Laboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) [![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=flat)](https://github.com/SamuelSchmidgall/AgentLaboratory/stargazers) — End-to-end multi-agent research workflow for literature review, experimentation, implementation, analysis, and report generation.
+
+#### Paper & Workflow Agents
+
+- [Paper2Agent](https://github.com/jmiao24/Paper2Agent) [![GitHub stars](https://img.shields.io/github/stars/jmiao24/Paper2Agent?style=flat)](https://github.com/jmiao24/Paper2Agent/stargazers) — Multi-agent system that transforms research papers and associated code into interactive, testable scientific agents and MCP tools.
 
 ### Foundation Models
 
@@ -411,6 +514,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [GEARS](https://github.com/snap-stanford/GEARS) [![GitHub stars](https://img.shields.io/github/stars/snap-stanford/GEARS?style=flat)](https://github.com/snap-stanford/GEARS/stargazers) — Graph-based model for predicting transcriptional responses to single and combinatorial genetic perturbations using biological priors.
 - [SATURN](https://github.com/snap-stanford/SATURN) [![GitHub stars](https://img.shields.io/github/stars/snap-stanford/SATURN?style=flat)](https://github.com/snap-stanford/SATURN/stargazers) — Transformer-based model integrating gene expression and protein sequences via a protein language model to learn unified multi-species cell embeddings.
 - [CancerFoundation](https://github.com/BoevaLab/CancerFoundation) [![GitHub stars](https://img.shields.io/github/stars/BoevaLab/CancerFoundation?style=flat)](https://github.com/BoevaLab/CancerFoundation/stargazers) — Single-cell RNA-seq foundation model trained exclusively on a curated dataset of malignant cells to learn cancer-specific embeddings.
+- [CellFM](https://github.com/biomed-AI/CellFM) [![GitHub stars](https://img.shields.io/github/stars/biomed-AI/CellFM?style=flat)](https://github.com/biomed-AI/CellFM/stargazers) — 800M-parameter single-cell foundation model pretrained on transcriptomics from 100 million human cells for annotation, integration, gene-function, and perturbation tasks.
+- [scPRINT-2](https://github.com/cantinilab/scPRINT-2) [![GitHub stars](https://img.shields.io/github/stars/cantinilab/scPRINT-2?style=flat)](https://github.com/cantinilab/scPRINT-2/stargazers) — Next-generation single-cell foundation model pretrained on 350M+ cells across 22K+ datasets and 16 species for embeddings, denoising, annotation, gene-network inference, and cross-species transfer.
 
 ##### Spatial Foundation Models
 
@@ -424,6 +529,16 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DeepSpot2Cell](https://github.com/ratschlab/DeepSpot2Cell) [![GitHub stars](https://img.shields.io/github/stars/ratschlab/DeepSpot2Cell?style=flat)](https://github.com/ratschlab/DeepSpot2Cell/stargazers) — Predicts virtual single-cell spatial transcriptomics from H&E using spot-level supervision (NeurIPS 2025 Imageomics).
 - [DeepSpot-M](https://github.com/ratschlab/DeepSpotM) [![GitHub stars](https://img.shields.io/github/stars/ratschlab/DeepSpotM?style=flat)](https://github.com/ratschlab/DeepSpotM/stargazers) — Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.
 - [AESTETIK](https://github.com/ratschlab/aestetik) [![GitHub stars](https://img.shields.io/github/stars/ratschlab/aestetik?style=flat)](https://github.com/ratschlab/aestetik/stargazers) — Autoencoder for spatial transcriptomics representation learning using topology and histology image knowledge.
+
+##### Pathology Foundation Models
+
+- [TITAN](https://github.com/mahmoodlab/TITAN) [![GitHub stars](https://img.shields.io/github/stars/mahmoodlab/TITAN?style=flat)](https://github.com/mahmoodlab/TITAN/stargazers) — Multimodal whole-slide pathology foundation model that combines image and language supervision for slide-level representation and zero-shot analysis.
+- [Virchow2](https://huggingface.co/paige-ai/Virchow2) — 632M-parameter pathology vision transformer pretrained on 3.1M whole-slide images with mixed-magnification self-supervision.
+- [H-Optimus-0](https://huggingface.co/bioptimus/H-optimus-0) — 1.1B-parameter histopathology foundation model trained with self-supervised learning on a large multi-center slide corpus.
+- [H-Optimus-1](https://huggingface.co/bioptimus/H-optimus-1) — 1.1B-parameter pathology foundation model trained on billions of histology images from more than one million slides and 800K+ patients.
+- [UNI2-h](https://huggingface.co/MahmoodLab/UNI2-h) — Billion-parameter histopathology vision foundation model for tile-level feature extraction and downstream computational pathology tasks.
+- [Phikon-v2](https://huggingface.co/owkin/phikon-v2) — Updated pathology foundation model for general-purpose histology feature extraction and transfer learning.
+- [GenBio-PathFM](https://github.com/genbio-ai/genbio-pathfm) [![GitHub stars](https://img.shields.io/github/stars/genbio-ai/genbio-pathfm?style=flat)](https://github.com/genbio-ai/genbio-pathfm/stargazers) — 1.1B-parameter histopathology foundation model trained on public data using morphology-aware curation and dual-stage JEPA+DINO learning.
 
 ##### Multi-Omics Foundation Models
 
@@ -458,6 +573,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Mol2Vec](https://github.com/samoturk/mol2vec) [![GitHub stars](https://img.shields.io/github/stars/samoturk/mol2vec?style=flat)](https://github.com/samoturk/mol2vec/stargazers) — Unsupervised molecular embedding method inspired by Word2Vec for learning vector representations of chemical substructures.
 - [MolFormer](https://github.com/IBM/molformer) [![GitHub stars](https://img.shields.io/github/stars/IBM/molformer?style=flat)](https://github.com/IBM/molformer/stargazers) — Linear attention transformer pretrained on millions of SMILES strings for efficient molecular embeddings.
 - [Uni-Mol](https://github.com/deepmodeling/Uni-Mol) [![GitHub stars](https://img.shields.io/github/stars/deepmodeling/Uni-Mol?style=flat)](https://github.com/deepmodeling/Uni-Mol/stargazers) — 3D molecular pretraining framework for universal representation learning on molecules and protein pockets.
+- [Uni-Mol2](https://github.com/deepmodeling/Uni-Mol/tree/main/unimol2) [![GitHub stars](https://img.shields.io/github/stars/deepmodeling/Uni-Mol/tree/main/unimol2?style=flat)](https://github.com/deepmodeling/Uni-Mol/tree/main/unimol2/stargazers) — Scaled molecular pretraining model using atomic, graph, and 3D geometry features, with models up to 1.1B parameters pretrained on 800M conformations.
+- [ChemFM](https://github.com/TheLuoFengLab/ChemFM) [![GitHub stars](https://img.shields.io/github/stars/TheLuoFengLab/ChemFM?style=flat)](https://github.com/TheLuoFengLab/ChemFM/stargazers) — 1B/3B-parameter chemical language model pretrained on 178M molecules for molecular representation, property prediction, generation, and synthesis tasks.
 
 #### Protein Foundation Models
 
@@ -467,11 +584,14 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [ProtTrans](https://github.com/agemagician/ProtTrans) [![GitHub stars](https://img.shields.io/github/stars/agemagician/ProtTrans?style=flat)](https://github.com/agemagician/ProtTrans/stargazers) — Suite of protein language models (ProtBERT, ProtT5, ProtXLNet) trained on billions of protein sequences from UniRef and BFD.
 - [ProGen2](https://github.com/salesforce/progen) [![GitHub stars](https://img.shields.io/github/stars/salesforce/progen?style=flat)](https://github.com/salesforce/progen/stargazers) — Protein language model trained on diverse protein families for sequence generation and fitness prediction.
 - [Ankh](https://github.com/agemagician/Ankh) [![GitHub stars](https://img.shields.io/github/stars/agemagician/Ankh?style=flat)](https://github.com/agemagician/Ankh/stargazers) — Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.
+- [ESM Cambrian (ESM C)](https://github.com/Biohub/esm) [![GitHub stars](https://img.shields.io/github/stars/Biohub/esm?style=flat)](https://github.com/Biohub/esm/stargazers) — Protein representation foundation-model family designed as an efficient next-generation successor to ESM2, spanning 300M to multi-billion-parameter models.
 
 ##### Protein Structure Prediction and Design
 
 - [AlphaFold3](https://github.com/google-deepmind/alphafold3) [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphafold3?style=flat)](https://github.com/google-deepmind/alphafold3/stargazers) — Predicts structures of proteins, nucleic acids, small molecules, and their complexes.
 - [Boltz-1](https://github.com/jwohlwend/boltz) [![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=flat)](https://github.com/jwohlwend/boltz/stargazers) — Open-source all-atom biomolecular structure prediction model for proteins, nucleic acids, small molecules, and their complexes achieving AlphaFold3-level accuracy.
+- [Boltz-2](https://github.com/jwohlwend/boltz) [![GitHub stars](https://img.shields.io/github/stars/jwohlwend/boltz?style=flat)](https://github.com/jwohlwend/boltz/stargazers) — Biomolecular foundation model jointly predicting complex structures and binding affinities for protein–ligand interaction modeling and virtual screening.
+- [Protenix](https://github.com/bytedance/Protenix) [![GitHub stars](https://img.shields.io/github/stars/bytedance/Protenix?style=flat)](https://github.com/bytedance/Protenix/stargazers) — Trainable biomolecular structure-prediction framework for proteins, nucleic acids, ligands, and complexes with open training and inference pipelines.
 - [Chai-1](https://github.com/chaidiscovery/chai-lab) [![GitHub stars](https://img.shields.io/github/stars/chaidiscovery/chai-lab?style=flat)](https://github.com/chaidiscovery/chai-lab/stargazers) — Unified molecular structure prediction model covering proteins, nucleic acids, small molecules, and complexes.
 - [ESM3](https://github.com/evolutionaryscale/esm) [![GitHub stars](https://img.shields.io/github/stars/evolutionaryscale/esm?style=flat)](https://github.com/evolutionaryscale/esm/stargazers) — Multimodal protein language model that jointly reasons over sequence, structure, and function for generative protein design and engineering.
 - [ESMFold](https://github.com/facebookresearch/esm) [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/esm?style=flat)](https://github.com/facebookresearch/esm/stargazers) — Fast protein structure prediction using language model embeddings.
@@ -494,6 +614,36 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [PLIP](https://github.com/PathologyFoundation/plip) [![GitHub stars](https://img.shields.io/github/stars/PathologyFoundation/plip?style=flat)](https://github.com/PathologyFoundation/plip/stargazers) — Vision-language foundation model for pathology trained with contrastive learning on pathology image–text pairs for image classification and text-to-image retrieval.
 - [MUSK](https://github.com/lilab-stanford/MUSK) [![GitHub stars](https://img.shields.io/github/stars/lilab-stanford/MUSK?style=flat)](https://github.com/lilab-stanford/MUSK/stargazers) — Vision-language foundation model for precision oncology analyzing multimodal paired text and pathology image data for biomarker prediction and retrieval.
 
+#### Cancer Genome Foundation Models
+
+- [TESSERA](https://github.com/JW-Sidhom-Lab/tessera) [![GitHub stars](https://img.shields.io/github/stars/JW-Sidhom-Lab/tessera?style=flat)](https://github.com/JW-Sidhom-Lab/tessera/stargazers) — Cancer-genome foundation model jointly pretrained on somatic SNVs and copy-number alterations from TCGA using masked reconstruction and cross-modal contrastive learning.
+- [MutationProjector](https://doi.org/10.1101/2025.09.08.674723) — Pan-cancer genotype foundation model trained on mutations and copy-number alterations from >30K tumors for clinical representation learning.
+
+#### Single-Cell Epigenomics Foundation Models
+
+- [EpiAgent](https://github.com/xy-chen16/EpiAgent) [![GitHub stars](https://img.shields.io/github/stars/xy-chen16/EpiAgent?style=flat)](https://github.com/xy-chen16/EpiAgent/stargazers) — scATAC-seq foundation model pretrained on ~5M cells and >35B tokens for representation learning, annotation, imputation, perturbation prediction, and in-silico cCRE knockout.
+- [SCARF](https://doi.org/10.1101/2025.04.07.647689) — Single-cell RNA+ATAC foundation model pretrained on >2.7M cells for multimodal representation, matching, cross-omics translation, and few-shot annotation.
+- [scDNAm-GPT](https://github.com/ChaoqiLiang/scDNAm-GPM) [![GitHub stars](https://img.shields.io/github/stars/ChaoqiLiang/scDNAm-GPM?style=flat)](https://github.com/ChaoqiLiang/scDNAm-GPM/stargazers) — Foundation model for single-cell whole-genome bisulfite sequencing with whole-genome context modeling at single-CpG resolution.
+- [EpiFoundation](https://doi.org/10.1101/2025.02.05.636688) — Foundation model for scATAC-seq using peak-to-gene aligned pretraining for cell representation, annotation, batch correction, and gene-expression prediction.
+- [ChromFound](https://github.com/SAIS-LifeScience/ChromFound) [![GitHub stars](https://img.shields.io/github/stars/SAIS-LifeScience/ChromFound?style=flat)](https://github.com/SAIS-LifeScience/ChromFound/stargazers) — Genome-aware scATAC-seq foundation model pretrained on 1.97M cells across tissues and disease contexts for zero-shot cell representations, annotation, and cross-omics prediction.
+- [Atacformer](https://doi.org/10.1101/2025.11.03.685753) — Transformer foundation model for scATAC-seq that learns embeddings of cis-regulatory elements for clustering, annotation, and reference mapping.
+- [CLM-X](https://doi.org/10.64898/2026.02.17.704943) — Multi-way Transformer foundation model jointly handling RNA-only, ATAC-only, and paired RNA–ATAC single-cell inputs for integration, translation, annotation, and perturbation prediction.
+
+#### Other Omics Foundation Models
+
+- [CAPTAIN](https://doi.org/10.1038/s41467-026-72882-y) — Multimodal foundation model pretrained on co-assayed single-cell RNA and protein for joint representation learning and cross-modal downstream tasks.
+- [HiCFoundation](https://doi.org/10.1038/s41592-026-03097-8) — Hi-C foundation model pretrained on large-scale chromatin-contact maps for 3D-genome analysis, epigenomic prediction, and single-cell Hi-C adaptation.
+- [OmicsFM](https://github.com/CompOmics/OmicsFM) [![GitHub stars](https://img.shields.io/github/stars/CompOmics/OmicsFM?style=flat)](https://github.com/CompOmics/OmicsFM/stargazers) — Modality-agnostic molecular-expression foundation model with matched proteomics, bulk-transcriptomics, and single-cell-transcriptomics checkpoints.
+- [VirTues](https://github.com/bunnelab/virtues) [![GitHub stars](https://img.shields.io/github/stars/bunnelab/virtues?style=flat)](https://github.com/bunnelab/virtues/stargazers) — Spatial-proteomics foundation model learning marker-aware representations across proteins, cells, niches, and tissues from multiplexed imaging.
+- [MethylGPT](https://github.com/albert-ying/MethylGPT) [![GitHub stars](https://img.shields.io/github/stars/albert-ying/MethylGPT?style=flat)](https://github.com/albert-ying/MethylGPT/stargazers) — Transformer foundation model for DNA methylation pretrained on >150K human methylomes across thousands of datasets, with 3M/7M/15M parameter variants.
+- [CpGPT](https://github.com/lucascamillomd/CpGPT) [![GitHub stars](https://img.shields.io/github/stars/lucascamillomd/CpGPT?style=flat)](https://github.com/lucascamillomd/CpGPT/stargazers) — DNA methylation foundation model pretrained on >150K samples for zero-shot imputation, array conversion, reference mapping, and downstream phenotype prediction.
+- [Casanovo Foundation](https://github.com/Noble-Lab/casanovo-tl) [![GitHub stars](https://img.shields.io/github/stars/Noble-Lab/casanovo-tl?style=flat)](https://github.com/Noble-Lab/casanovo-tl/stargazers) — Tandem mass-spectrometry proteomics foundation model that reuses a pretrained Casanovo spectrum encoder for spectrum quality, chimericity, and post-translational-modification prediction.
+
+#### RNA Foundation Models
+
+- [RNA-FM](https://github.com/ml4bio/RNA-FM) [![GitHub stars](https://img.shields.io/github/stars/ml4bio/RNA-FM?style=flat)](https://github.com/ml4bio/RNA-FM/stargazers) — General-purpose RNA foundation model pretrained on large-scale RNA sequences for structural and functional representation learning.
+- [RiNALMo](https://github.com/lbcb-sci/RiNALMo) [![GitHub stars](https://img.shields.io/github/stars/lbcb-sci/RiNALMo?style=flat)](https://github.com/lbcb-sci/RiNALMo/stargazers) — RNA language-model family pretrained on tens of millions of RNA sequences for secondary-structure and functional prediction tasks.
+
 #### Genomics Foundation Models
 
 - [Nucleotide Transformer](https://github.com/instadeepai/nucleotide-transformer) [![GitHub stars](https://img.shields.io/github/stars/instadeepai/nucleotide-transformer?style=flat)](https://github.com/instadeepai/nucleotide-transformer/stargazers) — Foundation model for genomic sequences across multiple species.
@@ -503,6 +653,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Basenji](https://github.com/calico/basenji) [![GitHub stars](https://img.shields.io/github/stars/calico/basenji?style=flat)](https://github.com/calico/basenji/stargazers) — Sequential regulatory activity prediction from DNA sequences.
 - [Caduceus](https://github.com/kuleshov-group/caduceus) [![GitHub stars](https://img.shields.io/github/stars/kuleshov-group/caduceus?style=flat)](https://github.com/kuleshov-group/caduceus/stargazers) — Bidirectional equivariant long-range DNA sequence model based on Mamba.
 - [Evo](https://github.com/evo-design/evo) [![GitHub stars](https://img.shields.io/github/stars/evo-design/evo?style=flat)](https://github.com/evo-design/evo/stargazers) — Long-context genomic foundation model (up to 1M tokens).
+- [Evo 2](https://github.com/arcinstitute/evo2) [![GitHub stars](https://img.shields.io/github/stars/arcinstitute/evo2?style=flat)](https://github.com/arcinstitute/evo2/stargazers) — Genome foundation model trained on 9 trillion DNA base pairs across all domains of life with a 1M-token context window and single-nucleotide resolution.
+- [AlphaGenome](https://github.com/google-deepmind/alphagenome) [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/alphagenome?style=flat)](https://github.com/google-deepmind/alphagenome/stargazers) — Long-context DNA model predicting multimodal regulatory outputs including expression, splicing, chromatin features, and contact maps at near base-pair resolution.
+- [modernGENA](https://github.com/AIRI-Institute/GENA_LM) [![GitHub stars](https://img.shields.io/github/stars/AIRI-Institute/GENA_LM?style=flat)](https://github.com/AIRI-Institute/GENA_LM/stargazers) — ModernBERT-style DNA foundation-model family pretrained on hundreds of vertebrate genome assemblies for efficient long-sequence regulatory modeling.
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna) [![GitHub stars](https://img.shields.io/github/stars/HazyResearch/hyena-dna?style=flat)](https://github.com/HazyResearch/hyena-dna/stargazers) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 - [Borzoi](https://github.com/calico/borzoi) [![GitHub stars](https://img.shields.io/github/stars/calico/borzoi?style=flat)](https://github.com/calico/borzoi/stargazers) — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
 - [DeepSEA](http://deepsea.princeton.edu/) — Deep learning framework for predicting chromatin effects of sequence alterations with single-nucleotide sensitivity across thousands of chromatin features.

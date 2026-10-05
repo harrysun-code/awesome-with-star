@@ -253,11 +253,13 @@ A compilation of interesting web maps:
 - [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
 - [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
 - [Castlemap](https://thecastlemap.com/) - The world's 7,044 great castles, fortresses and palaces on one night map, built from Wikidata.
+- [China Culture Literati Journeys](https://history.walkingchina.com/) - Interactive historical GIS and spatio-temporal storytelling map tracing the lifetime journeys and exile routes of classical Chinese thinkers.
 - [Europe Beach Map](https://europebeachmap.com/) - Every notable European beach on one map, with sea temperature, sand and best season for each.
 - [Detourmap](https://detourmap.com/) - Waterfalls, caves, volcanoes and lonely coasts, plus the ruins, tombs, ghost towns and shipwrecks people left behind, on one world map, built from Wikidata.
 - [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.
 - [FilmMap](https://thefilmmap.com/) - Where films and television were actually shot: 15,272 filming locations across 161 countries, each one traced to a Wikidata statement.
 - [Forest Fires Map](https://forest-fires-map.vercel.app/) - Interactive web map of forest fires.
+- [VivaMap](https://vivamap.ch/) - Where to live in Switzerland: all 2,134 communes plus an H3 hex grid down to 0.1 km², scored across nine dimensions (noise, air, sunlight, transit, schools, healthcare, restaurants, nature, taxes) from open government data and OpenStreetMap. Built with MapLibre GL, deck.gl and PMTiles, trilingual FR/DE/EN.
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:
@@ -276,6 +278,7 @@ Plug-and-play geospatial web apps:
 - [mapus](https://github.com/alyssaxuu/mapus) - Tool for collaboratively exploring and annotating maps. ![GitHub stars](https://img.shields.io/github/stars/alyssaxuu/mapus?style=social)
 - [Peak Map](https://github.com/anvaka/peak-map) - Visualizes elevation of any area on the map with filled area charts. ![GitHub stars](https://img.shields.io/github/stars/anvaka/peak-map?style=social)
 - [Plasio](https://github.com/verma/plasio) - Drag-n-drop in-browser LAS/LAZ point cloud viewer. ![GitHub stars](https://img.shields.io/github/stars/verma/plasio?style=social)
+- [Shapefile Viewer & GeoJSON Converter](https://9revolution9.com/tools/geo/shp-geojson) - Open a zipped shapefile on a map and convert it to RFC 7946 GeoJSON without uploading anything.
 - [StoryMap JS](https://storymap.knightlab.com/) - Open-source alternative to ESRI's Story Map application.
 - [TopoExport](https://topoexport.com) - Export 2D contour lines and 3D topography using open-source datasets.
 - [uMap](https://github.com/umap-project/umap) - Create maps with OpenStreetMap layers and embed them in your site. ![GitHub stars](https://img.shields.io/github/stars/umap-project/umap?style=social)

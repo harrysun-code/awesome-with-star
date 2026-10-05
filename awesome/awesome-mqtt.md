@@ -159,6 +159,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [mqtt-wall](https://github.com/bastlirna/mqtt-wall) [![GitHub stars](https://img.shields.io/github/stars/bastlirna/mqtt-wall?style=flat)](https://github.com/bastlirna/mqtt-wall/stargazers) - Subscription only web-based client – like Twitter wall for MQTT.
 - [mqtt-wildcard](https://github.com/hobbyquaker/mqtt-wildcard) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/mqtt-wildcard?style=flat)](https://github.com/hobbyquaker/mqtt-wildcard/stargazers) - Node.js Module to match a MQTT Topic against wildcards.
 - [MQTT.fx](https://mqttfx.jensd.de/) - MQTT Client written in Java based on Eclipse Paho. Supports scripting.
+- [Mqttable](https://mqttable.com/) - A desktop MQTT workbench for traffic inspection, replay, load testing, fault injection, and PCAP analysis.
 - [mqttcli](https://github.com/shirou/mqttcli) [![GitHub stars](https://img.shields.io/github/stars/shirou/mqttcli?style=flat)](https://github.com/shirou/mqttcli/stargazers) - MQTT Client for shell scripting.
 - [MQTTForge](https://github.com/ibrahimilkhan/mqtt-forge) [![GitHub stars](https://img.shields.io/github/stars/ibrahimilkhan/mqtt-forge?style=flat)](https://github.com/ibrahimilkhan/mqtt-forge/stargazers) - Test console that builds a broker's topics into a live tree, shows every frame on the wire, and publishes by hand. Desktop app for macOS, Windows and Linux, or a single Docker image.
 - [MQTTInspector](https://github.com/ckrey/MQTTInspector) [![GitHub stars](https://img.shields.io/github/stars/ckrey/MQTTInspector?style=flat)](https://github.com/ckrey/MQTTInspector/stargazers) - A general MQTT testing app for iOS (iPhone and iPad).
@@ -546,7 +547,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/) - MQTT dashboard application.
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red-dashboard?style=flat)](https://github.com/node-red/node-red-dashboard/stargazers) - A dashboard UI for Node-RED.
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) [![GitHub stars](https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=flat)](https://github.com/facontidavide/PlotJuggler/stargazers) - Visualize time series (from sources such as: MQTT, Websockets, ZeroMQ, UDP, etc., supports data formats such as JSON, CBOR, BSON, Message Pack, etc.). It is a fast, powerful and intuitive cross-platform tool.
-- [ZigDash](https://gitlab.com/tamamg/zigdash) - Free, open-source Material 3 MQTT dashboard for Android, built for Zigbee2MQTT with automatic device discovery.
+- [ZigDash](https://gitlab.com/tamamg/zigdash) - Free, open-source Material 3 MQTT dashboard for Android, built for Zigbee2MQTT with automatic device discovery. Also on [Google Play](https://play.google.com/store/apps/details?id=com.giladtamam.zigdash).
 
 <!--lint disable double-link-->
 Other tools that can be used to create Visualization/Dashboards can be found under [Platforms](#platforms) and [Smart Home Integration Software](#smart-home-integration-software).

@@ -104,6 +104,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) [![GitHub stars](https://img.shields.io/github/stars/wsdjeg/nvim-plug?style=flat)](https://github.com/wsdjeg/nvim-plug/stargazers) - Asynchronous plugin manager written in Lua.
 - [piersolenski/plugin-addict.nvim](https://github.com/piersolenski/plugin-addict.nvim) [![GitHub stars](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim?style=flat)](https://github.com/piersolenski/plugin-addict.nvim/stargazers) - A stupidly simple way to quickly install plugins.
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) [![GitHub stars](https://img.shields.io/github/stars/zuqini/zpack.nvim?style=flat)](https://github.com/zuqini/zpack.nvim/stargazers) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
+- [okram78/vahti.nvim](https://github.com/okram78/vahti.nvim) [![GitHub stars](https://img.shields.io/github/stars/okram78/vahti.nvim?style=flat)](https://github.com/okram78/vahti.nvim/stargazers) - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -112,7 +113,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 **(requires Neovim 0.5)**
 
-- [nvim-pio](https://github.com/batoaqaa/nvim-pio) [![GitHub stars](https://img.shields.io/github/stars/batoaqaa/nvim-pio?style=flat)](https://github.com/batoaqaa/nvim-pio/stargazers) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+- [batoaqaa/nvim-pio](https://github.com/batoaqaa/nvim-pio) [![GitHub stars](https://img.shields.io/github/stars/batoaqaa/nvim-pio?style=flat)](https://github.com/batoaqaa/nvim-pio/stargazers) - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 - [romus204/referencer.nvim](https://github.com/romus204/referencer.nvim) [![GitHub stars](https://img.shields.io/github/stars/romus204/referencer.nvim?style=flat)](https://github.com/romus204/referencer.nvim/stargazers) - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
 - [Dan7h3x/signup.nvim](https://github.com/Dan7h3x/signup.nvim) [![GitHub stars](https://img.shields.io/github/stars/Dan7h3x/signup.nvim?style=flat)](https://github.com/Dan7h3x/signup.nvim/stargazers) - a little smart `lsp_signature` helper with awesome features.
 <!--lint disable awesome-spell-check-->
@@ -851,6 +852,7 @@ then it is not supported:
 - [mitander/flume.nvim](https://github.com/mitander/flume.nvim) [![GitHub stars](https://img.shields.io/github/stars/mitander/flume.nvim?style=flat)](https://github.com/mitander/flume.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.
 - [aadielpr/bono.nvim](https://github.com/aadielpr/bono.nvim) [![GitHub stars](https://img.shields.io/github/stars/aadielpr/bono.nvim?style=flat)](https://github.com/aadielpr/bono.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** A warm muted colorscheme with cream (light) and espresso (dark) variants.
 - [art220/dancheong.nvim](https://github.com/art220/dancheong.nvim) [![GitHub stars](https://img.shields.io/github/stars/art220/dancheong.nvim?style=flat)](https://github.com/art220/dancheong.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.
+- [jonestristand/dune.nvim](https://github.com/jonestristand/dune.nvim) [![GitHub stars](https://img.shields.io/github/stars/jonestristand/dune.nvim?style=flat)](https://github.com/jonestristand/dune.nvim/stargazers) - **_`[TS][LSP][Lua]`_** Four (plus one) variants inspired by Frank Herbert's Dune.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1114,6 +1116,7 @@ then it is not supported:
 - [7KiLL/copybara.nvim](https://github.com/7KiLL/copybara.nvim) [![GitHub stars](https://img.shields.io/github/stars/7KiLL/copybara.nvim?style=flat)](https://github.com/7KiLL/copybara.nvim/stargazers) - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 - [justinhj/battery.nvim](https://github.com/justinhj/battery.nvim) [![GitHub stars](https://img.shields.io/github/stars/justinhj/battery.nvim?style=flat)](https://github.com/justinhj/battery.nvim/stargazers) - Cross-platform battery status detection with a Lua API for statusline integration.
 - [rifen/timescope](https://github.com/rifen/timescope) [![GitHub stars](https://img.shields.io/github/stars/rifen/timescope?style=flat)](https://github.com/rifen/timescope/stargazers) - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
+- [ChrisGVE/docshelf.nvim](https://github.com/ChrisGVE/docshelf.nvim) [![GitHub stars](https://img.shields.io/github/stars/ChrisGVE/docshelf.nvim?style=flat)](https://github.com/ChrisGVE/docshelf.nvim/stargazers) - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 
 ### CSV Files
 
@@ -1200,6 +1203,7 @@ then it is not supported:
 - [fschaal/azfunc.nvim](https://github.com/fschaal/azfunc.nvim) [![GitHub stars](https://img.shields.io/github/stars/fschaal/azfunc.nvim?style=flat)](https://github.com/fschaal/azfunc.nvim/stargazers) - Seamlessly debug Azure Functions with automatic DAP integration.
 - [evanmcpheron/rocketlog.nvim](https://github.com/evanmcpheron/rocketlog.nvim) [![GitHub stars](https://img.shields.io/github/stars/evanmcpheron/rocketlog.nvim?style=flat)](https://github.com/evanmcpheron/rocketlog.nvim/stargazers) - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
 - [NickTsaizer/splitasm.nvim](https://github.com/NickTsaizer/splitasm.nvim) [![GitHub stars](https://img.shields.io/github/stars/NickTsaizer/splitasm.nvim?style=flat)](https://github.com/NickTsaizer/splitasm.nvim/stargazers) - View compiled assembly output side by side with source code, with synchronized cursor movement.
+- [JarnDev/autodap.nvim](https://github.com/JarnDev/autodap.nvim) [![GitHub stars](https://img.shields.io/github/stars/JarnDev/autodap.nvim?style=flat)](https://github.com/JarnDev/autodap.nvim/stargazers) - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 
 ### Quickfix
 
@@ -1229,6 +1233,7 @@ then it is not supported:
 
 ## Code Runner
 
+- [nghiant03/jove.nvim](https://github.com/nghiant03/jove.nvim) [![GitHub stars](https://img.shields.io/github/stars/nghiant03/jove.nvim?style=flat)](https://github.com/nghiant03/jove.nvim/stargazers) - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 - [wurli/jet.nvim](https://github.com/wurli/jet.nvim) [![GitHub stars](https://img.shields.io/github/stars/wurli/jet.nvim?style=flat)](https://github.com/wurli/jet.nvim/stargazers) - A LSP-enabled, extensible Jupyter client that just works.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) [![GitHub stars](https://img.shields.io/github/stars/rafcamlet/nvim-luapad?style=flat)](https://github.com/rafcamlet/nvim-luapad/stargazers) - Interactive scratchpad for running Lua code.
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) [![GitHub stars](https://img.shields.io/github/stars/michaelb/sniprun?style=flat)](https://github.com/michaelb/sniprun/stargazers) - Run parts of code of any language directly from your editor.
@@ -1490,6 +1495,7 @@ then it is not supported:
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) [![GitHub stars](https://img.shields.io/github/stars/gorbit99/codewindow.nvim?style=flat)](https://github.com/gorbit99/codewindow.nvim/stargazers) - Minimap plugin, that is closely integrated with Tree-sitter and the built-in LSP to display more information to the user.
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) [![GitHub stars](https://img.shields.io/github/stars/lewis6991/satellite.nvim?style=flat)](https://github.com/lewis6991/satellite.nvim/stargazers) - Decorate scrollbar.
 - [wsdjeg/scrollbar.nvim](https://github.com/wsdjeg/scrollbar.nvim) [![GitHub stars](https://img.shields.io/github/stars/wsdjeg/scrollbar.nvim?style=flat)](https://github.com/wsdjeg/scrollbar.nvim/stargazers) - Floating scrollbar.
+- [mihovilrak/scroll.nvim](https://github.com/mihovilrak/scroll.nvim) [![GitHub stars](https://img.shields.io/github/stars/mihovilrak/scroll.nvim?style=flat)](https://github.com/mihovilrak/scroll.nvim/stargazers) - Draggable scrollbars with support for diagnostics, Git changes and search matches and minimap.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1619,7 +1625,7 @@ then it is not supported:
 - [malbertzard/inline-fold.nvim](https://github.com/malbertzard/inline-fold.nvim) [![GitHub stars](https://img.shields.io/github/stars/malbertzard/inline-fold.nvim?style=flat)](https://github.com/malbertzard/inline-fold.nvim/stargazers) - Hide certain elements inline like long CSS classes or `href` content.
 - [netmute/foldchanged.nvim](https://github.com/netmute/foldchanged.nvim) [![GitHub stars](https://img.shields.io/github/stars/netmute/foldchanged.nvim?style=flat)](https://github.com/netmute/foldchanged.nvim/stargazers) - Adds a `FoldChanged` User event.
 - [netmute/foldsigns.nvim](https://github.com/netmute/foldsigns.nvim) [![GitHub stars](https://img.shields.io/github/stars/netmute/foldsigns.nvim?style=flat)](https://github.com/netmute/foldsigns.nvim/stargazers) - Adds fold markers to sign column to make folds more visible while editing.
-- [fold-logging.nvim](https://github.com/markosnarinian/fold-logging.nvim) [![GitHub stars](https://img.shields.io/github/stars/markosnarinian/fold-logging.nvim?style=flat)](https://github.com/markosnarinian/fold-logging.nvim/stargazers) - Fold logging/debug prints without changing normal folds.
+- [markosnarinian/distill.nvim](https://github.com/markosnarinian/distill.nvim) [![GitHub stars](https://img.shields.io/github/stars/markosnarinian/distill.nvim?style=flat)](https://github.com/markosnarinian/distill.nvim/stargazers) - Fold logging and debug calls while preserving your function, class, and block folds.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1674,6 +1680,7 @@ then it is not supported:
 
 ## Session
 
+- [wurli/servery.nvim](https://github.com/wurli/servery.nvim) [![GitHub stars](https://img.shields.io/github/stars/wurli/servery.nvim?style=flat)](https://github.com/wurli/servery.nvim/stargazers) - Jump between sessions using your favourite fuzzy finder.
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) [![GitHub stars](https://img.shields.io/github/stars/rmagatti/auto-session?style=flat)](https://github.com/rmagatti/auto-session/stargazers) - A small automated session manager.
 - [nvim-mini/mini.nvim#mini.sessions](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md/stargazers) - Module of `mini.nvim` for session management (read, write, delete).
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) [![GitHub stars](https://img.shields.io/github/stars/gennaro-tedesco/nvim-possession?style=flat)](https://github.com/gennaro-tedesco/nvim-possession/stargazers) - The no-nonsense session manager.
@@ -1837,9 +1844,6 @@ then it is not supported:
 - [pgosar/CyberNvim](https://github.com/pgosar/CyberNvim) [![GitHub stars](https://img.shields.io/github/stars/pgosar/CyberNvim?style=flat)](https://github.com/pgosar/CyberNvim/stargazers) - The world's simplest and most extensible Neovim distribution.
 - [sontungexpt/stinvim](https://github.com/sontungexpt/stinvim) [![GitHub stars](https://img.shields.io/github/stars/sontungexpt/stinvim?style=flat)](https://github.com/sontungexpt/stinvim/stargazers) - Configuration for Full-Stack developers.
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) [![GitHub stars](https://img.shields.io/github/stars/Abstract-IDE/Abstract?style=flat)](https://github.com/Abstract-IDE/Abstract/stargazers) - Configuration to achieve the power of Modern IDE.
-<!--lint disable double-link -->
-- [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular distribution, inspired by [spacemacs](https://github.com/syl20bnr/spacemacs) [![GitHub stars](https://img.shields.io/github/stars/syl20bnr/spacemacs?style=flat)](https://github.com/syl20bnr/spacemacs/stargazers).
-<!--lint enable double-link -->
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) [![GitHub stars](https://img.shields.io/github/stars/CosmicNvim/CosmicNvim?style=flat)](https://github.com/CosmicNvim/CosmicNvim/stargazers) - CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience.
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) [![GitHub stars](https://img.shields.io/github/stars/artart222/CodeArt?style=flat)](https://github.com/artart222/CodeArt/stargazers) - A fast general-purpose IDE written entirely in Lua with an installer for Linux/Windows/macOS and built-in `:CodeArtUpdate` command for updating it.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) [![GitHub stars](https://img.shields.io/github/stars/LazyVim/LazyVim?style=flat)](https://github.com/LazyVim/LazyVim/stargazers) - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.
@@ -1870,6 +1874,7 @@ then it is not supported:
 - [nvim-mini/MiniMax](https://github.com/nvim-mini/MiniMax) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/MiniMax?style=flat)](https://github.com/nvim-mini/MiniMax/stargazers) - A collection of self-contained and extensively commented configurations which mostly use MINI tools.
 - [TheItcor/MoaiVim](https://github.com/TheItcor/MoaiVim) [![GitHub stars](https://img.shields.io/github/stars/TheItcor/MoaiVim?style=flat)](https://github.com/TheItcor/MoaiVim/stargazers) - A minimalist config that emulates a lightweight IDE.
 - [plutowang/nvim.pack](https://github.com/plutowang/nvim.pack) [![GitHub stars](https://img.shields.io/github/stars/plutowang/nvim.pack?style=flat)](https://github.com/plutowang/nvim.pack/stargazers) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
+- [JimmyPla6z/FireVim](https://gitlab.com/JimmyPla6z/Firevim) - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1932,8 +1937,8 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist](https://git
 - [markgandolfo/lightswitch.nvim](https://github.com/markgandolfo/lightswitch.nvim) [![GitHub stars](https://img.shields.io/github/stars/markgandolfo/lightswitch.nvim?style=flat)](https://github.com/markgandolfo/lightswitch.nvim/stargazers) - Toggle various options using the `nui.nvim` library.
 - [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) [![GitHub stars](https://img.shields.io/github/stars/wsdjeg/calendar.nvim?style=flat)](https://github.com/wsdjeg/calendar.nvim/stargazers) - A simple floating calendar with extensions support.
 - [xieyonn/spinner.nvim](https://github.com/xieyonn/spinner.nvim) [![GitHub stars](https://img.shields.io/github/stars/xieyonn/spinner.nvim?style=flat)](https://github.com/xieyonn/spinner.nvim/stargazers) - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
-- [quickui.nvim](https://github.com/mjmjm0101/quickui.nvim) [![GitHub stars](https://img.shields.io/github/stars/mjmjm0101/quickui.nvim?style=flat)](https://github.com/mjmjm0101/quickui.nvim/stargazers) - Structured, keyboard-driven menus and context menus with nested navigation.
-- [ln.nvim](https://github.com/markosnarinian/ln.nvim) [![GitHub stars](https://img.shields.io/github/stars/markosnarinian/ln.nvim?style=flat)](https://github.com/markosnarinian/ln.nvim/stargazers) - Relative numbers on the active window, absolute everywhere else.
+- [mjmjm0101/quickui.nvim](https://github.com/mjmjm0101/quickui.nvim) [![GitHub stars](https://img.shields.io/github/stars/mjmjm0101/quickui.nvim?style=flat)](https://github.com/mjmjm0101/quickui.nvim/stargazers) - Structured, keyboard-driven menus and context menus with nested navigation.
+- [markosnarinian/ln.nvim](https://github.com/markosnarinian/ln.nvim) [![GitHub stars](https://img.shields.io/github/stars/markosnarinian/ln.nvim?style=flat)](https://github.com/markosnarinian/ln.nvim/stargazers) - Relative numbers on the active window, absolute everywhere else.
 - [nvim-mini/mini.nvim#mini.input](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md/stargazers) - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) [![GitHub stars](https://img.shields.io/github/stars/simifalaye/minibuffer.nvim?style=flat)](https://github.com/simifalaye/minibuffer.nvim/stargazers) - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
 <!--lint disable double-link -->

@@ -55,6 +55,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) [![GitHub stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=flat)](https://github.com/zaproxy/zaproxy/stargazers) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 - [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
 - [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat)](https://github.com/projectdiscovery/nuclei/stargazers) - nuclei is automated scanner for common vulnerability finding on site.
+ - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) [![GitHub stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=flat)](https://github.com/ASCIT31/Dark-Moon/stargazers) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
 ### AI & LLM Testing
 - [promptfoo](https://github.com/promptfoo/promptfoo) [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat)](https://github.com/promptfoo/promptfoo/stargazers) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -68,6 +69,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [aiexpect](https://github.com/dmsehgal/aiexpect) [![GitHub stars](https://img.shields.io/github/stars/dmsehgal/aiexpect?style=flat)](https://github.com/dmsehgal/aiexpect/stargazers) - Python assertions for non-deterministic AI text that drop into pytest. Semantic and rule checks work offline; optional LLM judge with your own model; produces a Trust Score and a single-file HTML report.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) [![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=flat)](https://github.com/Continuum-AI-Corp/OrcaReplay/stargazers) - Records a coding-agent session below the harness, keeping the verbatim request and response bytes, then replays the same run offline with the network off or forks it from a checkpoint onto other models with a verify command deciding the verdict.
 - [flight-recorder](https://github.com/xag/flight-recorder) [![GitHub stars](https://img.shields.io/github/stars/xag/flight-recorder?style=flat)](https://github.com/xag/flight-recorder/stargazers) - Record every nondeterministic input your code reads (LLM answers, HTTP, database, clock, randomness) as one JSONL tape per request, then replay the tape against the real code offline, bit for bit, with the first divergence named. Open format with Python, Node, .NET, Go, Java and PHP implementations.
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) [![GitHub stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaPromptVault?style=flat)](https://github.com/Continuum-AI-Corp/OrcaPromptVault/stargazers) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 
 ### Service Virtualization
 - [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
@@ -77,6 +79,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [MockServer](https://github.com/mock-server/mockserver-monorepo) [![GitHub stars](https://img.shields.io/github/stars/mock-server/mockserver-monorepo?style=flat)](https://github.com/mock-server/mockserver-monorepo/stargazers) - Mocking, debugging proxy and chaos engineering tool for multiple protocols (HTTP, gRPC, GraphQL, LLM, MCP, Kafka, TCP and more); mock any dependency, record/replay and inspect traffic, verify requests, and inject faults. Docker, JAR, Helm, multi-language clients.
 - [WireMock](https://github.com/wiremock/wiremock) [![GitHub stars](https://img.shields.io/github/stars/wiremock/wiremock?style=flat)](https://github.com/wiremock/wiremock/stargazers) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 - [ApiNotes](https://apinotes.io/mock-server) - Drop your OpenAPI spec and get a fully functional mock API server instantly. Export to Bruno API client or test directly.
+- [Twinbay](https://twinbay.ai) - Hosted, stateful twins of third-party APIs such as Shopify, Slack, Zendesk and QuickBooks for integration and AI agent tests. Each test run gets a private URL, and directives force states like rate limits or failed payments.
 
 ### Visual Testing
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
@@ -129,6 +132,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Data Management
 - [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
 - [Temp Mail 24](https://temp-mail24.com/) - Browser-based receive-only temporary inbox for permitted manual signup-flow testing.
+- [8½ Minute Mail](https://8m30mail.com/) - Receive-only temporary inbox for manual email verification testing, with an 8-minute-30-second default lifetime and no account required.
 - [DATAMIMIC CE](https://github.com/rapiddweller/datamimic) [![GitHub stars](https://img.shields.io/github/stars/rapiddweller/datamimic?style=flat)](https://github.com/rapiddweller/datamimic/stargazers) - Open-source, deterministic engine for model-driven synthetic test data and PII pseudonymization. Pin a seed and get byte-identical output with a provenance hash on every run. Python, MIT.
 - [dbmask](https://github.com/sealandseacat/dbmask) [![GitHub stars](https://img.shields.io/github/stars/sealandseacat/dbmask?style=flat)](https://github.com/sealandseacat/dbmask/stargazers) - Masks sensitive data in SQL test databases with deterministic fakes and verifies the masking row by row.
 - [Dummy Data Lab](https://timliu724.github.io/dummy-data-lab/) - Offline, open-source browser tool for transforming CSV or TXT into controlled dummy data and generating linked test datasets without uploading source files.
@@ -139,7 +143,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Sample Files](https://mzeeshan.me/tools/sample-files) - Free downloadable test file variants across video, audio, document, and archive formats (MP4, MOV, RTF, ZIP, PPTX, etc.), covering codecs, encodings, and edge cases for parser and import testing.
 - [ARADURU File Format Test Corpus](https://teamaraduru-hub.github.io/araduru-file-format-test-corpus/) - Open CC0 corpus of deterministic healthy and intentionally broken XLSX, DOCX, PPTX, ZIP, and PDF fixtures with SHA-256 manifests for file validation, parser, upload, and QA testing.
 - [FakeNamely](https://fakenamely.com) - Free web generator and keyless JSON API for fictional identities, addresses and names across 38 countries. Seeded requests return byte-identical records, so a fixture can be committed; addresses pair a real city and a genuinely valid postal code with an invented street.
+- [JsonFabrica](https://jsonfabrica.com) - API-first service for realistic synthetic JSON test data from reusable templates: relational batches with referential integrity, seed-reproducible output, and an MCP server for AI agents.
+- [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
+- [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
 - [postal-code-formats](https://github.com/vinceblock99/postal-code-formats) [![GitHub stars](https://img.shields.io/github/stars/vinceblock99/postal-code-formats?style=flat)](https://github.com/vinceblock99/postal-code-formats/stargazers) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
+
+- [StanzaAPI Test Data](https://stanzaapi.com/datasets) - Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.
 
 ### Browser Extensions & Utilities
 - [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
@@ -164,6 +173,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
 - [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) [![GitHub stars](https://img.shields.io/github/stars/Nikita-Filonov/load-testing-hub-panel?style=flat)](https://github.com/Nikita-Filonov/load-testing-hub-panel/stargazers) - Ultimate web UI for visualizing load test results
 - [k6](https://github.com/grafana/k6) [![GitHub stars](https://img.shields.io/github/stars/grafana/k6?style=flat)](https://github.com/grafana/k6/stargazers) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
+- [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 
 ### Web3 & Blockchain Testing
 - [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
@@ -213,14 +223,12 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) [![GitHub stars](https://img.shields.io/github/stars/karlhorky/learn-to-program?style=flat)](https://github.com/karlhorky/learn-to-program/stargazers) - Another awesome list for developer training
-- [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
 - [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 - [FrontRow](https://github.com/majdukovic/frontrow) [![GitHub stars](https://img.shields.io/github/stars/majdukovic/frontrow?style=flat)](https://github.com/majdukovic/frontrow/stargazers) - Open source React Native mobile app built as a hands on training surface for QA automation. Cross platform testIDs work across Maestro, Appium, Espresso and XCUITest, and a deep QA Debug Menu lets trainees force the failure modes that actually bite in production (4xx, 5xx, timeouts, offline, denied permissions, declined IAP, expired tokens) without flaky backends.
 
 ## Blogs
-- [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)

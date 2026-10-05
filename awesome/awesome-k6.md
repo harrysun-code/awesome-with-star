@@ -115,7 +115,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 - [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run and debug \[sic!\] k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
-- [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
+- [k6 Testkube executor](https://docs.testkube.io/test-types/executor-k6)
 - [k6-junit](https://github.com/simbadltd/k6-junit) [![GitHub stars](https://img.shields.io/github/stars/simbadltd/k6-junit?style=flat)](https://github.com/simbadltd/k6-junit/stargazers) - k6 JUnit summary exporter libray.
 - [k6-expect](https://github.com/simbadltd/k6-expect) [![GitHub stars](https://img.shields.io/github/stars/simbadltd/k6-expect?style=flat)](https://github.com/simbadltd/k6-expect/stargazers) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
@@ -181,6 +181,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [xk6-sse](https://github.com/phymbert/xk6-sse) [![GitHub stars](https://img.shields.io/github/stars/phymbert/xk6-sse?style=flat)](https://github.com/phymbert/xk6-sse/stargazers) - A k6 extension for Server-Sent Events (SSE).
 - [xk6-tcp](https://github.com/NAlexandrov/xk6-tcp) [![GitHub stars](https://img.shields.io/github/stars/NAlexandrov/xk6-tcp?style=flat)](https://github.com/NAlexandrov/xk6-tcp/stargazers) - Send data to TCP port.
 - [xk6-top](https://github.com/szkiba/xk6-top) [![GitHub stars](https://img.shields.io/github/stars/szkiba/xk6-top?style=flat)](https://github.com/szkiba/xk6-top/stargazers) - Updating the current k6 metrics summaries on the terminal during the test run.
+- [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) [![GitHub stars](https://img.shields.io/github/stars/Dmitry-Fedotov-Dev/xk6-sip?style=flat)](https://github.com/Dmitry-Fedotov-Dev/xk6-sip/stargazers) - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
 
 ## Related
 

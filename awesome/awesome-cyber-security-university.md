@@ -50,7 +50,7 @@ There are 6 parts to this.
 The tasks are linear in nature of the difficulty. So it's recommended to do it in order. But you can still jump around and skip some rooms If you find that you are already familiar with the concepts.
 
 <!--lint disable double-link-->
-As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](https://Github.com/brootware/Cyber-Security-University/blob/main/README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
+As you go through the curriculum, you will find completion badges that are hidden within this [`README.md`](README.md) for both red and blue team path completion badges. You can copy the HTML code for them and add it to the content page below once you have completed them.
 
 <!--lint disable double-link-->
 [↑](#contents)
@@ -75,6 +75,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Red Team Engagements](<https://tryhackme.com/room/redteamengagements>) - Intro to red team engagements.
 * [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 * [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) - A free course with 41 hands-on labs to practice and master the most commonly used Linux commands.
+* [WebTerm Learn](https://learn.webterm.app/en/courses) - Free Linux command line courses where each lesson ends in hands-on exercises in a simulated terminal in the browser. A free account is needed after the first lesson.
 
 <!-- markdownlint-disable MD036 -->
 **Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->

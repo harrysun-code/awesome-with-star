@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **228** projects · **62** actively maintained · **11** 🔥 hot · **49** 🪦 on the graveyard shelf.
+> Tracking **230** projects · **66** actively maintained · **11** 🔥 hot · **48** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -136,15 +136,15 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [n98-magerun2](https://github.com/netz98/n98-magerun2) [![GitHub stars](https://img.shields.io/github/stars/netz98/n98-magerun2?style=flat)](https://github.com/netz98/n98-magerun2/stargazers) 🫡 - The CLI Swiss Army Knife for Magento 2.
 - [Warden](https://github.com/wardenenv/warden) [![GitHub stars](https://img.shields.io/github/stars/wardenenv/warden?style=flat)](https://github.com/wardenenv/warden/stargazers) 🫡 - CLI utility for working with docker-compose environments by David Alger.
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) [![GitHub stars](https://img.shields.io/github/stars/magento/magento2-phpstorm-plugin?style=flat)](https://github.com/magento/magento2-phpstorm-plugin/stargazers) 🫡 - Official PhpStorm Magento 2 extension.
+- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) [![GitHub stars](https://img.shields.io/github/stars/baldwin-agency/magento2-module-url-data-integrity-checker?style=flat)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker/stargazers) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
+- [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce) [![GitHub stars](https://img.shields.io/github/stars/opengento/magento2-downgrade-ee-ce?style=flat)](https://github.com/opengento/magento2-downgrade-ee-ce/stargazers) 🫡 - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
 - [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) [![GitHub stars](https://img.shields.io/github/stars/jellesiderius/mage-db-sync?style=flat)](https://github.com/jellesiderius/mage-db-sync/stargazers) 🫡 - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [Mage](https://github.com/GrimLink/mage) [![GitHub stars](https://img.shields.io/github/stars/GrimLink/mage?style=flat)](https://github.com/GrimLink/mage/stargazers) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge](https://github.com/OpenForgeProject/mageforge) [![GitHub stars](https://img.shields.io/github/stars/OpenForgeProject/mageforge?style=flat)](https://github.com/OpenForgeProject/mageforge/stargazers) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) [![GitHub stars](https://img.shields.io/github/stars/magespecialist/mage-chrome-toolbar?style=flat)](https://github.com/magespecialist/mage-chrome-toolbar/stargazers) - Chrome extension for Magento 2 development by MageSpecialist.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) [![GitHub stars](https://img.shields.io/github/stars/AmpersandHQ/ampersand-magento2-upgrade-patch-helper?style=flat)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper/stargazers) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
-- [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) [![GitHub stars](https://img.shields.io/github/stars/baldwin-agency/magento2-module-url-data-integrity-checker?style=flat)](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker/stargazers) - Magento 2 module that finds potential URL-related problems in your catalog data.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) [![GitHub stars](https://img.shields.io/github/stars/magespecialist/m2-MSP_DevTools?style=flat)](https://github.com/magespecialist/m2-MSP_DevTools/stargazers) - Developer toolbar for Magento 2.
 - [Tango](https://github.com/roma-glushko/tango) [![GitHub stars](https://img.shields.io/github/stars/roma-glushko/tango?style=flat)](https://github.com/roma-glushko/tango/stargazers) - CLI for analyzing access logs.
-- [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce) [![GitHub stars](https://img.shields.io/github/stars/opengento/magento2-downgrade-ee-ce?style=flat)](https://github.com/opengento/magento2-downgrade-ee-ce/stargazers) - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
 - [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) [![GitHub stars](https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=flat)](https://github.com/run-as-root/magento2-message-queue-retry/stargazers) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
 - [Mage Wizard](https://github.com/clickAndMortar/mage-wizard) [![GitHub stars](https://img.shields.io/github/stars/clickAndMortar/mage-wizard?style=flat)](https://github.com/clickAndMortar/mage-wizard/stargazers) - Local web UI to view and create modules, plugins, configs, observers, commands, crontabs directly in a Magento 2 codebase.
 - [magento2docker](https://github.com/aliuosio/magento2docker) [![GitHub stars](https://img.shields.io/github/stars/aliuosio/magento2docker?style=flat)](https://github.com/aliuosio/magento2docker/stargazers) - MariaDB, PHP, Redis, ElasticSearch in one Dockerfile for fast demo/development environments.
@@ -384,12 +384,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Podcasts
 
 - [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+- [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
-- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 </details>
 

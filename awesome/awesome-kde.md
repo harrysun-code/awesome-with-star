@@ -213,6 +213,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 - [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) [![GitHub stars](https://img.shields.io/github/stars/lingtjien/Grid-Tiling-Kwin?style=flat)](https://github.com/lingtjien/Grid-Tiling-Kwin/stargazers) - A kwin script that automatically tiles windows.
 - [Kröhnkite](https://github.com/anametologin/krohnkite) [![GitHub stars](https://img.shields.io/github/stars/anametologin/krohnkite?style=flat)](https://github.com/anametologin/krohnkite/stargazers) - A dynamic tiling extension for KWin.
 - [kwin-tiling](https://github.com/faho/kwin-tiling) [![GitHub stars](https://img.shields.io/github/stars/faho/kwin-tiling?style=flat)](https://github.com/faho/kwin-tiling/stargazers) - Tiling script for kwin.
+- [Panel Dodge](https://github.com/iacosta3994/panel-dodge) [![GitHub stars](https://img.shields.io/github/stars/iacosta3994/panel-dodge?style=flat)](https://github.com/iacosta3994/panel-dodge/stargazers) - Moves the panel to another monitor while a window is fullscreen on the panel's screen, and back when it's gone.
 
 #### Display Manager
 

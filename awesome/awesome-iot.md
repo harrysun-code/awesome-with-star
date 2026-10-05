@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
   - [Books](#books)
   - [Articles](#articles)
   - [Papers](#papers)
+  - [Newsletters](#newsletters)
 
 ### Hardware
 
@@ -179,6 +180,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
  - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) [![GitHub stars](https://img.shields.io/github/stars/chaos-genius/chaos_genius?style=flat)](https://github.com/chaos-genius/chaos_genius/stargazers) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.  
  - [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
  - [ThingsOn MQTT Bench](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) [![GitHub stars](https://img.shields.io/github/stars/volkanalkilic/ThingsOn.MQTT.Bench?style=flat)](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench/stargazers) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
+ - [mqttkit](https://github.com/keyp-dev/mqttkit) [![GitHub stars](https://img.shields.io/github/stars/keyp-dev/mqttkit?style=flat)](https://github.com/keyp-dev/mqttkit/stargazers) - Elysia-style application framework for MQTT in TypeScript / Bun. Compose broker adapters, ordered middleware, typed topic routes, MQTT 5 RPC, and AsyncAPI 3.0 docs on top of Aedes or any MQTT broker.
  - [ReductStore](https://github.com/reductstore/reductstore) [![GitHub stars](https://img.shields.io/github/stars/reductstore/reductstore?style=flat)](https://github.com/reductstore/reductstore/stargazers) - high-performance blob and time-series storage for industrial IoT, with edge deployment, selective replication, and efficient querying of multimodal data. 
 
 #### Miscellaneous
@@ -418,6 +420,10 @@ creates and maintains specifications, ensures compliance with OPC specifications
 - [IoT security. Is there an app for that ?](http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/) - The Internet of Things World conference investigates IoT application development, security, and business models.
 - [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - A testing methodology for managing the permutations of parameters while testing an IoT based product.
 - [How to begin with the Amazon Timestream](https://itnext.io/how-to-begin-with-the-amazon-timestream-in-5-simple-steps-19c129040d9c/) - A step-by-step guide to AWS Timestream - a time series database to collect IoT data over-time.
+
+### Newsletters
+
+- [TinkerNews](https://www.tinkernews.com) - A free weekly newsletter curating noteworthy DIY electronics builds across ESP32, Arduino, Raspberry Pi, and IoT. Each issue gives a concise introduction to practical projects and links back to the original tutorial, article, or repository so readers can explore the details and build from the source.
 
 ### Papers
 

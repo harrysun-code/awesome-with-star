@@ -461,6 +461,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [arcontextify](https://github.com/aorumbayev/arcontextify) [![GitHub stars](https://img.shields.io/github/stars/aorumbayev/arcontextify?style=flat)](https://github.com/aorumbayev/arcontextify/stargazers) - Algorand ARC-56 to MCP server converter.
 - [corvid-agent](https://github.com/corvid-agent/corvid-agent) [![GitHub stars](https://img.shields.io/github/stars/corvid-agent/corvid-agent?style=flat)](https://github.com/corvid-agent/corvid-agent/stargazers) - An autonomous AI agent platform built on Algorand with encrypted on-chain messaging.
 - [DID-GPT](https://chatgpt.com/g/g-rOCQculZQ-did-gpt) - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.
+- [Predge](https://api.predge.io/.well-known/x402) - Polymarket whale trades, wallet scores and smart-money signals for AI agents, paid per call over x402 with USDC on Algorand via the GoPlausible facilitator.
 - [VibeKit](https://github.com/gabrielkuettel/vibekit) [![GitHub stars](https://img.shields.io/github/stars/gabrielkuettel/vibekit?style=flat)](https://github.com/gabrielkuettel/vibekit/stargazers) - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
 
 

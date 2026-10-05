@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Code Highlighting](#code-highlighting)
 * [Code Loaders](#code-loaders)
 * [Coding Style Guides](#coding-style-guides)
+* [Compression](#compression)
 * [Concurrency and Parallelism](#concurrency-and-parallelism)
 * [Configuration](#configuration)
 * [Core Extensions](#core-extensions)
@@ -406,6 +407,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rails style guide](https://github.com/rubocop/rails-style-guide) [![GitHub stars](https://img.shields.io/github/stars/rubocop/rails-style-guide?style=flat)](https://github.com/rubocop/rails-style-guide/stargazers) - Community-driven Rails best practices and style for Rails 3 and 4.
 * [RSpec style guide](https://github.com/betterspecs/betterspecs) [![GitHub stars](https://img.shields.io/github/stars/betterspecs/betterspecs?style=flat)](https://github.com/betterspecs/betterspecs/stargazers) - Better Specs { rspec guidelines with ruby }.
 * [Ruby style guide](https://github.com/rubocop/ruby-style-guide) [![GitHub stars](https://img.shields.io/github/stars/rubocop/ruby-style-guide?style=flat)](https://github.com/rubocop/ruby-style-guide/stargazers) - Community-driven Ruby coding style.
+
+## Compression
+
+* [rubyzip](https://github.com/rubyzip/rubyzip) [![GitHub stars](https://img.shields.io/github/stars/rubyzip/rubyzip?style=flat)](https://github.com/rubyzip/rubyzip/stargazers) - A Ruby library for reading and writing zip files.
 
 ## Concurrency and Parallelism
 
@@ -821,6 +826,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [HappyMapper](https://github.com/mvz/happymapper) [![GitHub stars](https://img.shields.io/github/stars/mvz/happymapper?style=flat)](https://github.com/mvz/happymapper/stargazers) - Object to XML mapping library, using Nokogiri.
 * [HTML::Pipeline](https://github.com/gjtorikian/html-pipeline) [![GitHub stars](https://img.shields.io/github/stars/gjtorikian/html-pipeline?style=flat)](https://github.com/gjtorikian/html-pipeline/stargazers) - HTML processing filters and utilities.
+* [Loofah](https://github.com/flavorjones/loofah) [![GitHub stars](https://img.shields.io/github/stars/flavorjones/loofah?style=flat)](https://github.com/flavorjones/loofah/stargazers) - A general library for manipulating and transforming HTML/XML documents and fragments, built on top of Nokogiri, with built-in HTML sanitizers.
 * [Nokogiri](https://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
 * [Nokolexbor](https://github.com/serpapi/nokolexbor) [![GitHub stars](https://img.shields.io/github/stars/serpapi/nokolexbor?style=flat)](https://github.com/serpapi/nokolexbor/stargazers) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
 * [Oga](https://gitlab.com/yorickpeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
@@ -982,6 +988,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [fast_blank](https://github.com/SamSaffron/fast_blank) [![GitHub stars](https://img.shields.io/github/stars/SamSaffron/fast_blank?style=flat)](https://github.com/SamSaffron/fast_blank/stargazers) - Provides a C-optimized method for determining if a string is blank.
 * [fast_count](https://github.com/fatkodima/fast_count) [![GitHub stars](https://img.shields.io/github/stars/fatkodima/fast_count?style=flat)](https://github.com/fatkodima/fast_count/stargazers) - Quickly get a count estimation for large tables (>99% of accuracy for PostgreSQL).
 * [fast_underscore](https://github.com/kddnewton/fast_underscore) [![GitHub stars](https://img.shields.io/github/stars/kddnewton/fast_underscore?style=flat)](https://github.com/kddnewton/fast_underscore/stargazers) - Provides a C-optimized method for transforming a string from any capitalization into underscore-separated
+* [Oj](https://github.com/ohler55/oj) [![GitHub stars](https://img.shields.io/github/stars/ohler55/oj?style=flat)](https://github.com/ohler55/oj/stargazers) - A fast JSON parser and Object marshaller.
 * [pluck_in_batches](https://github.com/fatkodima/pluck_in_batches) [![GitHub stars](https://img.shields.io/github/stars/fatkodima/pluck_in_batches?style=flat)](https://github.com/fatkodima/pluck_in_batches/stargazers) - A faster alternative to the custom use of `in_batches` with `pluck`.
 * [yajl-ruby](https://github.com/brianmario/yajl-ruby) [![GitHub stars](https://img.shields.io/github/stars/brianmario/yajl-ruby?style=flat)](https://github.com/brianmario/yajl-ruby/stargazers) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
@@ -1083,6 +1090,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Prawn](https://github.com/prawnpdf/prawn) [![GitHub stars](https://img.shields.io/github/stars/prawnpdf/prawn?style=flat)](https://github.com/prawnpdf/prawn/stargazers) - Fast, Nimble PDF Writer for Ruby.
 * [RGhost](https://github.com/shairontoledo/rghost) [![GitHub stars](https://img.shields.io/github/stars/shairontoledo/rghost?style=flat)](https://github.com/shairontoledo/rghost/stargazers) - RGhost is a document creation and conversion API.
 * [Squid](https://github.com/claudiob/squid) [![GitHub stars](https://img.shields.io/github/stars/claudiob/squid?style=flat)](https://github.com/claudiob/squid/stargazers) - Squid · A Ruby library to plot charts in PDF files
+* [typst](https://github.com/actsasflinn/typst-rb) [![GitHub stars](https://img.shields.io/github/stars/actsasflinn/typst-rb?style=flat)](https://github.com/actsasflinn/typst-rb/stargazers) - Ruby binding to Typst, a markup-based typesetting system, to compile documents to PDF, SVG, PNG or HTML.
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) [![GitHub stars](https://img.shields.io/github/stars/mileszs/wicked_pdf?style=flat)](https://github.com/mileszs/wicked_pdf/stargazers) - PDF generator (from HTML) plugin for Ruby on Rails.
 
 ## Performance Monitoring
@@ -1197,6 +1205,7 @@ Where to discover new Ruby libraries, projects and trends.
 * Data analysis/structures
   * [daru](https://github.com/SciRuby/daru) [![GitHub stars](https://img.shields.io/github/stars/SciRuby/daru?style=flat)](https://github.com/SciRuby/daru/stargazers) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
   * [Daru::View](https://github.com/SciRuby/daru-view) [![GitHub stars](https://img.shields.io/github/stars/SciRuby/daru-view?style=flat)](https://github.com/SciRuby/daru-view/stargazers) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
+  * [Polars](https://github.com/ankane/ruby-polars) [![GitHub stars](https://img.shields.io/github/stars/ankane/ruby-polars?style=flat)](https://github.com/ankane/ruby-polars/stargazers) - Blazingly fast DataFrames for Ruby, powered by Polars.
   * [Rgl](https://github.com/monora/rgl) [![GitHub stars](https://img.shields.io/github/stars/monora/rgl?style=flat)](https://github.com/monora/rgl/stargazers) - A framework for graph data structures and algorithms.
 * Numerical arrays
   * [NMatrix](https://github.com/sciruby/nmatrix) [![GitHub stars](https://img.shields.io/github/stars/sciruby/nmatrix?style=flat)](https://github.com/sciruby/nmatrix/stargazers) - Fast numerical linear algebra library for Ruby.
@@ -1291,6 +1300,7 @@ Online tools, services and APIs to simplify development.
 
 * [CAXLSX](https://github.com/caxlsx/caxlsx) [![GitHub stars](https://img.shields.io/github/stars/caxlsx/caxlsx?style=flat)](https://github.com/caxlsx/caxlsx/stargazers) - A community maintained excel xlsx generation library. [AXLSX](https://github.com/randym/axlsx) [![GitHub stars](https://img.shields.io/github/stars/randym/axlsx?style=flat)](https://github.com/randym/axlsx/stargazers) - The original.
 * [Docsplit](http://documentcloud.github.io/docsplit) - Gem to convert Microsoft Word (and other) documents into images, pdf, pages or text.
+* [fast_excel](https://github.com/Paxa/fast_excel) [![GitHub stars](https://img.shields.io/github/stars/Paxa/fast_excel?style=flat)](https://github.com/Paxa/fast_excel/stargazers) - Ultra fast Excel (xlsx) writer for Ruby, a wrapper for libxlsxwriter using FFI.
 * [Roo](https://github.com/roo-rb/roo) [![GitHub stars](https://img.shields.io/github/stars/roo-rb/roo?style=flat)](https://github.com/roo-rb/roo/stargazers) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
 * [spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) [![GitHub stars](https://img.shields.io/github/stars/westonganger/spreadsheet_architect?style=flat)](https://github.com/westonganger/spreadsheet_architect/stargazers) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 

@@ -187,6 +187,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [silan](https://github.com/x42/silan) [![GitHub stars](https://img.shields.io/github/stars/x42/silan?style=flat)](https://github.com/x42/silan/stargazers) -  Audiofile silence analyzer.
 * [SilentJack](https://github.com/njh/silentjack) [![GitHub stars](https://img.shields.io/github/stars/njh/silentjack?style=flat)](https://github.com/njh/silentjack/stargazers) - Dead-air / Silence detector for JACK.
 * [Sonic Visualiser](https://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
+* [StreamPilot](https://github.com/AlexandreLicinio/streampilot) [![GitHub stars](https://img.shields.io/github/stars/AlexandreLicinio/streampilot?style=flat)](https://github.com/AlexandreLicinio/streampilot/stargazers) - Real-time supervision and geolocation of mobile video transmitters (Haivision SST/StreamHub). GPS tracking, link metrics, Slack notifications and session reporting.
 * [VMAF](https://github.com/Netflix/vmaf) [![GitHub stars](https://img.shields.io/github/stars/Netflix/vmaf?style=flat)](https://github.com/Netflix/vmaf/stargazers) - Perceptual video quality assessment based on multi-method fusion.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) [![GitHub stars](https://img.shields.io/github/stars/MarcAntoine-Arnaud/wisual?style=flat)](https://github.com/MarcAntoine-Arnaud/wisual/stargazers) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 

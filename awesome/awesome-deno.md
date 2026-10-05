@@ -134,6 +134,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Mail
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) [![GitHub stars](https://img.shields.io/github/stars/manyuanrong/deno-smtp?style=flat)](https://github.com/manyuanrong/deno-smtp/stargazers) - A smtp mail sender for deno.
+- [dmarc-rua](https://github.com/domaincanary/dmarc-rua) [![GitHub stars](https://img.shields.io/github/stars/domaincanary/dmarc-rua?style=flat)](https://github.com/domaincanary/dmarc-rua/stargazers) - Parse DMARC aggregate reports from XML, gzip, zip and report emails.
 
 ### Markdown
 - [LiteMarkup](https://github.com/tuures/LiteMarkup) [![GitHub stars](https://img.shields.io/github/stars/tuures/LiteMarkup?style=flat)](https://github.com/tuures/LiteMarkup/stargazers) - AST-first parser. Under 3 KB gzipped, zero dependencies.

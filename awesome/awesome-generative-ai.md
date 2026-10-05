@@ -167,6 +167,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) [![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat)](https://github.com/LearningCircuit/local-deep-research/stargazers) - A deep research tool for searching academic sources, the web, and private documents with local or cloud LLMs. [#opensource](https://github.com/LearningCircuit/local-deep-research) [![GitHub stars](https://img.shields.io/github/stars/LearningCircuit/local-deep-research?style=flat)](https://github.com/LearningCircuit/local-deep-research/stargazers)
 - [Rayyan](https://www.rayyan.ai/) - An AI-powered platform for managing systematic literature reviews with collaborative screening and data management tools.
 - [Paper2Agent](https://paper2agent.ai/) - Converts research papers and associated codebases into tested MCP servers and interactive AI agents. [#opensource](https://github.com/jmiao24/Paper2Agent) [![GitHub stars](https://img.shields.io/github/stars/jmiao24/Paper2Agent?style=flat)](https://github.com/jmiao24/Paper2Agent/stargazers)
+- [Ai2 ASTA](https://asta.allen.ai/) - A scholarly research assistant for finding papers, generating cited literature reports, and analyzing research data.
 
 ### Leaderboards
 
