@@ -268,6 +268,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 - [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
 - [Asimonim](https://github.com/bennypowers/asimonim) [![GitHub stars](https://img.shields.io/github/stars/bennypowers/asimonim?style=flat)](https://github.com/bennypowers/asimonim/stargazers) - Design tokens parser, validator, and language server for the W3C DTCG specification.
 - [cem](https://github.com/bennypowers/cem) [![GitHub stars](https://img.shields.io/github/stars/bennypowers/cem?style=flat)](https://github.com/bennypowers/cem/stargazers) - CLI multitool for generating, validating, and querying Custom Elements Manifests, with built-in LSP and MCP servers.
+- [Lit Inspector](https://chromewebstore.google.com/detail/lit-inspector/faojnglflincboehhgkjgehnapjgiieh) - Chrome DevTools extension for inspecting Lit components: component tree, reactive properties, update counts, and a lifecycle timeline.
 - [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 - [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
 - [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) [![GitHub stars](https://img.shields.io/github/stars/Matsuuu/web-component-devtools?style=flat)](https://github.com/Matsuuu/web-component-devtools/stargazers) - Browser extension for developers working with Web Components.
@@ -331,6 +332,7 @@ These libraries are not related to Lit, but are built using similar concepts. Th
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 - [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
+- [pion](https://github.com/pionjs/pion) [![GitHub stars](https://img.shields.io/github/stars/pionjs/pion?style=flat)](https://github.com/pionjs/pion/stargazers) - React Hooks API for web components using lit-html.
 - [htm](https://github.com/developit/htm) [![GitHub stars](https://img.shields.io/github/stars/developit/htm?style=flat)](https://github.com/developit/htm/stargazers) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - [hybrids](https://github.com/hybridsjs/hybrids) [![GitHub stars](https://img.shields.io/github/stars/hybridsjs/hybrids?style=flat)](https://github.com/hybridsjs/hybrids/stargazers) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) [![GitHub stars](https://img.shields.io/github/stars/motss/lit-ntml?style=flat)](https://github.com/motss/lit-ntml/stargazers) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.

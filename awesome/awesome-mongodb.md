@@ -65,7 +65,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
  - [MongoDB Server Introduction](https://www.mongodb.com/docs/manual/introduction/)
  - [MongoDB Server Documentation](https://www.mongodb.com/docs/manual/)
  - [MongoDB Tutorials](https://www.mongodb.com/docs/manual/tutorial/)
- - [MongoDB Guides](https://www.mongodb.com/docs/guides/)
  - [MongoDB Driver Documentation](https://www.mongodb.com/docs/drivers/)
  - [MongoDB Connectors](https://www.mongodb.com/connectors/)
 

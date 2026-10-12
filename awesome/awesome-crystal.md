@@ -481,6 +481,7 @@ described in [RFC 8032]
  * [router.cr](https://github.com/tbrand/router.cr) [![GitHub stars](https://img.shields.io/github/stars/tbrand/router.cr?style=flat)](https://github.com/tbrand/router.cr/stargazers) - Minimum but powerful http router for HTTP::Server
 
 ## Scheduling
+ * [cronaute](https://github.com/jbox-web/cronaute) [![GitHub stars](https://img.shields.io/github/stars/jbox-web/cronaute?style=flat)](https://github.com/jbox-web/cronaute/stargazers) - Cron daemon for containers, shipped as a single static binary with a read-only dashboard
  * [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
  * [schedule.cr](https://github.com/hugoabonizio/schedule.cr) [![GitHub stars](https://img.shields.io/github/stars/hugoabonizio/schedule.cr?style=flat)](https://github.com/hugoabonizio/schedule.cr/stargazers) - Run periodic tasks
  * [tasker](https://github.com/spider-gazelle/tasker) [![GitHub stars](https://img.shields.io/github/stars/spider-gazelle/tasker?style=flat)](https://github.com/spider-gazelle/tasker/stargazers) - A high precision scheduler including timezone aware cron jobs

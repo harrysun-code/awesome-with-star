@@ -101,6 +101,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) [![GitH
 - [Composer-Velocita](https://github.com/isaaceindhoven/composer-velocita) [![GitHub stars](https://img.shields.io/github/stars/isaaceindhoven/composer-velocita?style=flat)](https://github.com/isaaceindhoven/composer-velocita/stargazers) - Fast and reliable Composer package downloads using [Velocita](https://github.com/isaaceindhoven/velocita-proxy) [![GitHub stars](https://img.shields.io/github/stars/isaaceindhoven/velocita-proxy?style=flat)](https://github.com/isaaceindhoven/velocita-proxy/stargazers): a caching reverse proxy that does not require you to modify your projects.
 - [Composer Translation Validator](https://github.com/move-elevator/composer-translation-validator) [![GitHub stars](https://img.shields.io/github/stars/move-elevator/composer-translation-validator?style=flat)](https://github.com/move-elevator/composer-translation-validator/stargazers) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
 - [Composer-Fanfare](https://github.com/wazum/composer-fanfare) [![GitHub stars](https://img.shields.io/github/stars/wazum/composer-fanfare?style=flat)](https://github.com/wazum/composer-fanfare/stargazers) - Displays a colored ASCII art banner after install/update, with color presets, gradients and animations.
+- [WP Org Closed Plugin](https://github.com/typisttech/wp-org-closed-plugin) [![GitHub stars](https://img.shields.io/github/stars/typisttech/wp-org-closed-plugin?style=flat)](https://github.com/typisttech/wp-org-closed-plugin/stargazers) - Marks packages as abandoned if closed on WordPress.org.
 
 ## Tools
 
@@ -116,6 +117,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php) [![GitH
 - [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) [![GitHub stars](https://img.shields.io/github/stars/bramus/composer-autocomplete?style=flat)](https://github.com/bramus/composer-autocomplete/stargazers) - A Bash/Shell autocompletion script for Composer.
 - [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) [![GitHub stars](https://img.shields.io/github/stars/composer/xdebug-handler?style=flat)](https://github.com/composer/xdebug-handler/stargazers) - Helps you to restart a CLI process without loading the xdebug extension.
 - [Composer Semver Range Checker](https://gitlab.com/MattyRad/composer.guru) - A tool to help check the satisfiable ranges of a composer constraint.
+- [Composer Audit to SARIF Action](https://github.com/typisttech/composer-audit-to-sarif-action) [![GitHub stars](https://img.shields.io/github/stars/typisttech/composer-audit-to-sarif-action?style=flat)](https://github.com/typisttech/composer-audit-to-sarif-action/stargazers) - Convert Composer audit reports to SARIF files on GitHub Actions.
 
 ## Scripts
 
@@ -238,6 +240,8 @@ About metadata mirrors: https://packagist.org/mirrors
 ## Packagist-compatible repositories
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
+- [WordPress Packages](https://wp-packages.org/) - Composer repository for WordPress.org plugins and themes.
+- [WP Sec Adv](https://github.com/typisttech/wpsecadv) [![GitHub stars](https://img.shields.io/github/stars/typisttech/wpsecadv?style=flat)](https://github.com/typisttech/wpsecadv/stargazers) - Composer repository for WordPress security advisories.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 - [Firegento](https://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.

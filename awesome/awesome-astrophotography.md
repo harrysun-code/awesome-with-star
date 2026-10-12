@@ -136,11 +136,13 @@ Contributions are welcome. Please read the [contributing guideline](CONTRIBUTING
 
 - [12 Deep Sky Objects to Photograph](https://www.nebulaphotos.com/doc/brightLargeDsos.pdf) - A beginner friendly list of objects to photograph with a DSLR camera.
 - [Astronomy Tools](https://astronomy.tools/) - A tools suite with various calculators, field of view simulation, star chart, etc.
+- [Heliora](https://heliora.app/) - Free web planner for Sun, Moon, and eclipse photography, with a 3D sky view against the terrain horizon at your chosen location.
 - [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
 - [Nova DSO Tracker](https://github.com/mrantonSG/nova_DSO_tracker) [![GitHub stars](https://img.shields.io/github/stars/mrantonSG/nova_DSO_tracker?style=flat)](https://github.com/mrantonSG/nova_DSO_tracker/stargazers) - A free and open source, self-hosted web application for astrophotography planning. Features both single and multi-user modes, making it suitable for individuals or entire astronomy clubs.
 - [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). It helps you plan your photos ahead of time so you’re always at the right place at the right time to capture the best photo possible.
 - [SkyCompendium](https://skycompendium-online.web.app/) - A comprehensive web tool that helps astrophotographers plan their sessions using data from Gary Imm's renowned Deep Sky Compendium featuring over 3000 deep sky objects spanning 26 cross-referenced catalogues.
 - [SolarHam](https://www.solarham.com) - Real time Space Weather news and solar and geomagnetic activity data from various sources. All in one location for easy navigation. Indispensable for planning solar imaging sessions.
+- [Star Ninja](https://stars.2pm.ninja/?ref=awesome) - Free web map for planning a stargazing outing: light-pollution darkness bands, cloud forecast and moonless hours for any spot, with the distance from a start point.
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 - [lightpollutionmap.info](https://www.lightpollutionmap.info) - This website uses satellite data to show light pollution related content.
 

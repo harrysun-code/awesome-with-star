@@ -342,6 +342,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Intel Parallel STL](https://github.com/intel/parallelstl) [![GitHub stars](https://img.shields.io/github/stars/intel/parallelstl?style=flat)](https://github.com/intel/parallelstl/stargazers) - Intel® implementation of C++17 STL for C++11 and above. [Apache2]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
 * [junction](https://github.com/preshing/junction) [![GitHub stars](https://img.shields.io/github/stars/preshing/junction?style=flat)](https://github.com/preshing/junction/stargazers) - A library of concurrent data structures in C++. [BSD]
+* [Kaspar-HFT](https://github.com/vincent212/kaspar-hft) [![GitHub stars](https://img.shields.io/github/stars/vincent212/kaspar-hft?style=flat)](https://github.com/vincent212/kaspar-hft/stargazers) - A C++20 actor framework and trading system with synchronous message delivery (fast_send), order-book reconstruction and a queue-exact replay simulator. [MIT]
 * [Kokkos](https://github.com/kokkos/kokkos) [![GitHub stars](https://img.shields.io/github/stars/kokkos/kokkos?style=flat)](https://github.com/kokkos/kokkos/stargazers) - A performance portable programming model for parallel execution and memory abstraction. [BSD]
 * [libcds](https://github.com/khizmax/libcds) [![GitHub stars](https://img.shields.io/github/stars/khizmax/libcds?style=flat)](https://github.com/khizmax/libcds/stargazers) - A C++ library of Concurrent Data Structures. [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph) [![GitHub stars](https://img.shields.io/github/stars/libclsph/libclsph?style=flat)](https://github.com/libclsph/libclsph/stargazers) - An OpenCL based GPU accelerated SPH fluid simulation library. [MIT]
@@ -728,6 +729,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Dlib](https://github.com/davisking/dlib) [![GitHub stars](https://img.shields.io/github/stars/davisking/dlib?style=flat)](https://github.com/davisking/dlib/stargazers) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](https://dlib.net/)
 * [fpng](https://github.com/richgel999/fpng) [![GitHub stars](https://img.shields.io/github/stars/richgel999/fpng?style=flat)](https://github.com/richgel999/fpng/stargazers) - Super fast C++ .PNG writer/reader. [Unlicense]
 * [FreeImage](https://freeimage.sourceforge.net/) - An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]
+* [FreeImageRe](https://github.com/agruzdev/FreeImageRe) [![GitHub stars](https://img.shields.io/github/stars/agruzdev/FreeImageRe?style=flat)](https://github.com/agruzdev/FreeImageRe/stargazers) - A fork of FreeImage to support latest image codecs and adjust for modern compilers. All original formats and plugins are maintained. [GPLv2, GPLv3, FIPL]
 * [GD](https://github.com/libgd/libgd) [![GitHub stars](https://img.shields.io/github/stars/libgd/libgd?style=flat)](https://github.com/libgd/libgd/stargazers) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. [custom permissive license, requires mention in user docs] [website](https://libgd.github.io/)
 * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 * [GDCM](https://gdcm.sourceforge.net/wiki/index.php/Main_Page) - Grassroots DICOM library.
@@ -1555,6 +1557,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Artistic Style](https://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 * [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html) - A tool to format C/C++/Obj-C code.
 * [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
+* [cpp-linter-hooks](https://github.com/cpp-linter/cpp-linter-hooks) [![GitHub stars](https://img.shields.io/github/stars/cpp-linter/cpp-linter-hooks?style=flat)](https://github.com/cpp-linter/cpp-linter-hooks/stargazers) - Pre-commit hooks for C/C++ powered by clang-format and clang-tidy. [MIT]
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
 * [Uncrustify](https://github.com/uncrustify/uncrustify) [![GitHub stars](https://img.shields.io/github/stars/uncrustify/uncrustify?style=flat)](https://github.com/uncrustify/uncrustify/stargazers) - Code beautifier.
 

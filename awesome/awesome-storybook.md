@@ -42,6 +42,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [DEV.to #storybook](https://dev.to/t/storybook) - Posts about Storybook on DEV.to blogging platform.
 - [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) [![GitHub stars](https://img.shields.io/github/stars/DAN-AKL/storybook-documentation-primitives?style=flat)](https://github.com/DAN-AKL/storybook-documentation-primitives/stargazers) - Custom DocBlocks for Storybook Docs.
+- [Sherlo](https://sherlo.io) - Visual regression testing for React Native, integrated with Storybook; renders on iOS and Android simulators in the cloud.
 
 ## Examples
 
@@ -56,6 +57,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Qui - Vue 2/3 Design system](https://qui-max.netlify.app/?path=/story/intro--page)
 - [Mística - Design system](https://mistica-web.vercel.app/?path=/story/welcome--welcome)
 - [Recharts - Storybook](https://recharts.org/en-US/storybook)
+- [Bestax - Storybook](https://bestax.io/storybook/)
 
 ## Tutorials
 

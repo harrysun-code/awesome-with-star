@@ -1740,6 +1740,8 @@ It removes a feature of a dependency and then compiles the project to see if it 
 <h2>Shell</h2>
 
 
+- [bashate](https://github.com/openstack/bashate) [![GitHub stars](https://img.shields.io/github/stars/openstack/bashate?style=flat)](https://github.com/openstack/bashate/stargazers) — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
+
 - [sh](https://pkg.go.dev/mvdan.cc/sh/v3) — A shell parser, formatter, and interpreter with bash support; includes shfmt
 
 - [shellcheck](https://www.shellcheck.net) — ShellCheck, a static analysis tool that gives warnings and suggestions for bash/sh shell scripts.
@@ -1750,10 +1752,6 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 <details>
 <summary>Show Deprecated</summary>
-
-- **bashate** :warning: — Code style enforcement for bash programs. The output format aims to follow pycodestyle (pep8) default output format.
-
-
 
 - **i-Code CNES for Shell** :warning: — An open source static code analysis tool for Shell and Fortran (77 and 90).
 
@@ -2022,6 +2020,8 @@ It supports multiple languages and is designed to be extensible, allowing you to
 - [jscpd](https://jscpd.dev) — Copy/paste detector for programming source code. Finds duplicated blocks in 200+ file formats — JavaScript, TypeScript, Python, Java, C#, C/C++, Go, Rust, PHP, Ruby and more — using token-based detection. Supports configurable thresholds and ignore patterns, git blame integration, and reporters for console, HTML, JSON, Markdown, SARIF and badges. Runs via CLI, in CI pipelines, or as a library; bundled by MegaLinter and Codacy.
 
 - [keploy](https://keploy.io/) — Keploy is an open-source testing platform that helps developers automate and streamline their testing process. It provides API, and integration testing agents, generating tests, mocks/stubs for APIs that actually work. Additionally, Keploy offers an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and in VSCode, helping catch errors and improve code quality.
+
+- [Kin](https://kinlab.ai) — A graph-native code repository for people and AI agents. Kin parses supported languages into code entities and their relationships (calls, references, imports, inheritance) and versions them with the source. The kin CLI and an MCP server query the same graph for callers, references, traces and what a change might affect. Imports existing Git history. Public beta.
 
 - [Kiuwan](https://www.kiuwan.com/code-security-sast) :copyright: — Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more.
 
@@ -3314,20 +3314,13 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>Template-Languages</h2>
 
 
+- [ember-template-lint](https://github.com/ember-template-lint/ember-template-lint) [![GitHub stars](https://img.shields.io/github/stars/ember-template-lint/ember-template-lint?style=flat)](https://github.com/ember-template-lint/ember-template-lint/stargazers) — Linter for Ember or Handlebars templates.
+
 - [haml-lint](https://github.com/sds/haml-lint) [![GitHub stars](https://img.shields.io/github/stars/sds/haml-lint?style=flat)](https://github.com/sds/haml-lint/stargazers) — Tool for writing clean and consistent HAML.
 
 - [slim-lint](https://github.com/sds/slim-lint) [![GitHub stars](https://img.shields.io/github/stars/sds/slim-lint?style=flat)](https://github.com/sds/slim-lint/stargazers) — Configurable tool for analyzing Slim templates.
 
 - [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
-
-
-
-<details>
-<summary>Show Deprecated</summary>
-
-- **ember-template-lint** :warning: — Linter for Ember or Handlebars templates.
-
-</details>
 
 
 

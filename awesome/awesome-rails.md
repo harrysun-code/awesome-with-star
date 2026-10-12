@@ -476,6 +476,7 @@
 - [shakapacker](https://github.com/shakacode/shakapacker) [![GitHub stars](https://img.shields.io/github/stars/shakacode/shakapacker?style=flat)](https://github.com/shakacode/shakapacker/stargazers) - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red_circle:](https://rubygems.org/gems/shakapacker)
 - [sidemail](https://github.com/sidemail/sidemail-sdk-ruby) [![GitHub stars](https://img.shields.io/github/stars/sidemail/sidemail-sdk-ruby?style=flat)](https://github.com/sidemail/sidemail-sdk-ruby/stargazers) – A gem for sending and managing application emails. [:red_circle:](https://rubygems.org/gems/sidemail)
 - [simple_form](https://github.com/heartcombo/simple_form) [![GitHub stars](https://img.shields.io/github/stars/heartcombo/simple_form?style=flat)](https://github.com/heartcombo/simple_form/stargazers) - A gem to handle forms. [:red_circle:](https://rubygems.org/gems/simple_form)
+- [solid_objects](https://github.com/cardmagic/solid-objects-ruby) [![GitHub stars](https://img.shields.io/github/stars/cardmagic/solid-objects-ruby?style=flat)](https://github.com/cardmagic/solid-objects-ruby/stargazers) - A gem for SQL-backed virtual actors: durable state, ordered calls, and reminders in the app's SQLite, PostgreSQL, or MySQL database (pre-1.0). [:red_circle:](https://rubygems.org/gems/solid_objects)
 - [solid_queue](https://github.com/basecamp/solid_queue) [![GitHub stars](https://img.shields.io/github/stars/basecamp/solid_queue?style=flat)](https://github.com/basecamp/solid_queue/stargazers) - A gem to Database-backed Active Job backend [:red_circle:](https://rubygems.org/gems/solid_queue)
 - [solidus](https://github.com/solidusio/solidus) [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=flat)](https://github.com/solidusio/solidus/stargazers) - A fork of Spree gem, an open source e-commerce platform. [:red_circle:](https://rubygems.org/gems/solidus)
 - [sorbet-rails](https://github.com/chanzuckerberg/sorbet-rails) [![GitHub stars](https://img.shields.io/github/stars/chanzuckerberg/sorbet-rails?style=flat)](https://github.com/chanzuckerberg/sorbet-rails/stargazers) - A gem to integrate Sorbet gem in Rails apps. [:red_circle:](https://rubygems.org/gems/sorbet-rails)
@@ -549,6 +550,7 @@
 - [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
 - [mcdview](https://mcdview.dev/) - Turn your schema.rb into an interactive ER diagram on a stable link, no account, and keep it current in CI with history and diffs.
 - [Dash](https://kapeli.com/dash) - Offline API documentation browser for macOS with instant search for Rails docs and 200+ other frameworks.
+- [Keploy](https://keploy.io) - Generates Rails integration tests from real traffic and replays ActiveRecord, Redis, and HTTP calls as mocks.
 
 [Back to top][link_toc]
 

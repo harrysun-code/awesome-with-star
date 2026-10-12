@@ -19,6 +19,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Security (art. 32)](#security-art-32)
 * [Incident management (art. 33 and 34)](#incident-management-art-33-and-34)
 * [Data Protection Impact Assessments (DPIA, art. 35)](#data-protection-impact-assessments-dpia-art-35)
+* [Training and awareness (art. 39)](#training-and-awareness-art-39)
 * [Tools](#tools)
 * [Data Protection Authorities](#data-protection-authorities-art-51--59)
 * [Organisations / Projects](#organisations--projects)
@@ -69,11 +70,16 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 * [Public DPIA Teams OneDrive SharePoint and Azure AD](https://www.rijksoverheid.nl/documenten/publicaties/2022/02/21/public-dpia-teams-onedrive-sharepoint-and-azure-ad) -  DPIA of Microsoft Teams in combination with OneDrive, SharePoint Online and the Azure Active Directory.
 
+## Training and awareness (art. 39)
+* [RansomLeak GDPR Training](https://ransomleak.com/catalogue/privacy-compliance/) - Interactive exercises on lawful bases, DSAR handling, breach response, DPIA, records of processing, and cross-border transfers.
+
 ## Tools
 * [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
+* [consentprobe](https://github.com/Elijas121/consentprobe) [![GitHub stars](https://img.shields.io/github/stars/Elijas121/consentprobe?style=flat)](https://github.com/Elijas121/consentprobe/stargazers) - CLI and GitHub Action that tests whether a website stops tracking after the visitor rejects cookies.
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
 * [Comparison of Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms) [![GitHub stars](https://img.shields.io/github/stars/JermainKroot/best-consent-management-platforms?style=flat)](https://github.com/JermainKroot/best-consent-management-platforms/stargazers) - Hands-on comparison of 9 platforms.
+* [disclosedby](https://disclosedby.com) - Dated record of the subprocessor lists software companies publish under art. 28, with what changed and when; open JSON, Markdown and an MCP server.
 
 ## Data Protection Authorities (art. 51 -59)
 * [European Data Protection Board](https://edpb.europa.eu/) - EDPB.
@@ -101,6 +107,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [GDPRhub](https://gdprhub.eu/) - Free and open wiki that allows anyone to find and share GDPR insights across Europe.
     
 ## Related
+* [PIPEDA vs GDPR: What Canadian Companies Must Know](https://traztech.ca/blog/pipeda-vs-gdpr) - Comparison of Canadian and EU privacy regulations for companies operating in both jurisdictions.
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) [![GitHub stars](https://img.shields.io/github/stars/nikitavoloboev/privacy-respecting?style=flat)](https://github.com/nikitavoloboev/privacy-respecting/stargazers)
 * [Awesome: Security](https://github.com/sindresorhus/awesome#security) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat)](https://github.com/sindresorhus/awesome/stargazers)
 * [Awesome: Humane Tech](https://github.com/humanetech-community/awesome-humane-tech#readme) [![GitHub stars](https://img.shields.io/github/stars/humanetech-community/awesome-humane-tech?style=flat)](https://github.com/humanetech-community/awesome-humane-tech/stargazers)

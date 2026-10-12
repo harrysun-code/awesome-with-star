@@ -91,6 +91,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Spritesheet Tools
 
+- :free: [AnimGen Free Sprite Sheet Tools](https://animgen.com/tools) - Browser tools that convert GIFs to sprite sheets and back, slice grid sheets or auto-extract sprites from sheets with no grid, export PNG sequences, and remove solid or green-screen GIF backgrounds. Files stay on your device; sheets come with Aseprite-format JSON.
 - :tada: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) [![GitHub stars](https://img.shields.io/github/stars/scriptum/Cheetah-Texture-Packer?style=flat)](https://github.com/scriptum/Cheetah-Texture-Packer/stargazers) - High efficient and fast 2D bin packing tool
 - :tada: [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) [![GitHub stars](https://img.shields.io/github/stars/z64me/EzSpriteSheet?style=flat)](https://github.com/z64me/EzSpriteSheet/stargazers) - Creates sprite sheets from animated GIFs and more
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) [![GitHub stars](https://img.shields.io/github/stars/libgdx/libgdx/wiki/Texture-packer?style=flat)](https://github.com/libgdx/libgdx/wiki/Texture-packer/stargazers) - Texture Packer built into Libgdx
@@ -405,6 +406,7 @@ _Audio editors, sounds collections and more._
 - :free: [Musopen](https://musopen.org/) - Royalty free music.
 - :free: [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 - :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
+- :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 - :free: [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 
 ### Music and Audio Editors
@@ -422,6 +424,7 @@ _Audio editors, sounds collections and more._
 - :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 - :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) [![GitHub stars](https://img.shields.io/github/stars/milkytracker/MilkyTracker?style=flat)](https://github.com/milkytracker/MilkyTracker/stargazers) - open source tracker for Mac/Linux/Windows platforms.
 - :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
+- :money_with_wings: [Remove Audio Noise Remover](https://remove-audio.com/tools/remove-background-noise) - Clean hiss, hum, wind and crowd noise out of voice lines, dialogue and trailer voice-overs with AI, free in the browser (optional paid Cloud mode for long files).
 - :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
 - :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 - :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
@@ -563,9 +566,10 @@ _Where to find other game developers_
 
 _We still need to make some money, right?_
 
-- [AdMob by Google](https://www.google.com/admob/) - Google's Ads and monetization service for mobile.
 - [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
+- [AdMob by Google](https://www.google.com/admob/) - Google's Ads and monetization service for mobile.
 - [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+- :tada: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.
 - [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 - [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 - [Vungle](https://vungle.com/) - Video Ads service.

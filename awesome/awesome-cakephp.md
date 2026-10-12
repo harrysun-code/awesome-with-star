@@ -47,6 +47,7 @@ Additional lists you might find useful:
 	- [Markup](#markup)
 	- [Migration](#migration)
 	- [Miscellaneous](#miscellaneous)
+	- [Monitoring](#monitoring)
 	- [Navigation](#navigation)
 	- [Notifications and Real-time Communication](#notifications-and-real-time-communication)
 	- [ORM / Database / Datamapping](#orm--database--datamapping)
@@ -112,6 +113,7 @@ Additional lists you might find useful:
 - [Authentication plugin](https://github.com/cakephp/authentication) [![GitHub stars](https://img.shields.io/github/stars/cakephp/authentication?style=flat)](https://github.com/cakephp/authentication/stargazers) - Official CakePHP authentication middleware plugin.
 - [Authorization plugin](https://github.com/cakephp/authorization) [![GitHub stars](https://img.shields.io/github/stars/cakephp/authorization?style=flat)](https://github.com/cakephp/authorization/stargazers) - Official CakePHP authorization stack.
 - [CakeDC/Users plugin](https://github.com/CakeDC/users) [![GitHub stars](https://img.shields.io/github/stars/CakeDC/users?style=flat)](https://github.com/CakeDC/users/stargazers) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+- [CakePasskeys plugin](https://github.com/dereuromark/cakephp-passkeys) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-passkeys?style=flat)](https://github.com/dereuromark/cakephp-passkeys/stargazers) - Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.
 - [CakeVerification plugin](https://github.com/salines/cakephp-verification) [![GitHub stars](https://img.shields.io/github/stars/salines/cakephp-verification?style=flat)](https://github.com/salines/cakephp-verification/stargazers) - Two-factor verification supporting email OTP, email magic link, SMS OTP, and TOTP (Google Authenticator).
 
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-tinyauth?style=flat)](https://github.com/dereuromark/cakephp-tinyauth/stargazers) - Authentication and role-based (single/multi) authorization as very light-weight approach.
@@ -147,6 +149,7 @@ Additional lists you might find useful:
 - [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-whoops?style=flat)](https://github.com/dereuromark/cakephp-whoops/stargazers) - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops) [![GitHub stars](https://img.shields.io/github/stars/filp/whoops?style=flat)](https://github.com/filp/whoops/stargazers).
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) [![GitHub stars](https://img.shields.io/github/stars/cakephp/debug_kit?style=flat)](https://github.com/cakephp/debug_kit/stargazers) - The de-facto standard for debugging.
 - [Execution order](https://github.com/dereuromark/executionorder) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/executionorder?style=flat)](https://github.com/dereuromark/executionorder/stargazers) - A demo app to display the execution order of files, methods and callbacks.
+- [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat) [![GitHub stars](https://img.shields.io/github/stars/orca-services/cakephp-heartbeat?style=flat)](https://github.com/orca-services/cakephp-heartbeat/stargazers) - A plugin providing an application heartbeat status page with configurable sensors.
 - [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) [![GitHub stars](https://img.shields.io/github/stars/lordsimal/cakephp-sentry?style=flat)](https://github.com/lordsimal/cakephp-sentry/stargazers) - A plugin to seamlessly integrate Sentry for errors and exceptions.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-setup?style=flat)](https://github.com/dereuromark/cakephp-setup/stargazers) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
@@ -181,6 +184,7 @@ Additional lists you might find useful:
 
 - [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) [![GitHub stars](https://img.shields.io/github/stars/ADmad/cakephp-i18n?style=flat)](https://github.com/ADmad/cakephp-i18n/stargazers) - A plugin with I18n related tools.
 - [Cake/Localized plugin](https://github.com/cakephp/localized) [![GitHub stars](https://img.shields.io/github/stars/cakephp/localized?style=flat)](https://github.com/cakephp/localized/stargazers) - Localized validation and ready-to-use translation PO files.
+- [dereuromark/cakephp-i18n-lint](https://github.com/dereuromark/cakephp-i18n-lint) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-i18n-lint?style=flat)](https://github.com/dereuromark/cakephp-i18n-lint/stargazers) - Checks POT templates against the code, syncs and lints PO files for plugins and apps, e.g. in CI.
 - [Translate plugin](https://github.com/dereuromark/cakephp-translate) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-translate?style=flat)](https://github.com/dereuromark/cakephp-translate/stargazers) - Translate your translations in the backend with ease.
 
 ### Imagery
@@ -233,6 +237,11 @@ Additional lists you might find useful:
 - [Tools plugin](https://github.com/dereuromark/cakephp-tools) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-tools?style=flat)](https://github.com/dereuromark/cakephp-tools/stargazers) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 - [Workflow plugin](https://github.com/dereuromark/cakephp-workflow) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-workflow?style=flat)](https://github.com/dereuromark/cakephp-workflow/stargazers) - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
 
+### Monitoring
+*Application monitoring and observability.*
+
+- [Crustum/Rhythm plugin](https://github.com/Crustum/rhythm) [![GitHub stars](https://img.shields.io/github/stars/Crustum/rhythm?style=flat)](https://github.com/Crustum/rhythm/stargazers) - Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.
+
 ### Navigation
 *Building navigation structures.*
 
@@ -282,12 +291,14 @@ Additional lists you might find useful:
 - [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) [![GitHub stars](https://img.shields.io/github/stars/andrej-griniuk/cakephp-fractal-transformer-view?style=flat)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view/stargazers) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 - [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake) [![GitHub stars](https://img.shields.io/github/stars/cnizzardini/cakephp-swagger-bake?style=flat)](https://github.com/cnizzardini/cakephp-swagger-bake/stargazers) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+- [SwaggerUi plugin](https://github.com/orca-services/cakephp-swagger-ui) [![GitHub stars](https://img.shields.io/github/stars/orca-services/cakephp-swagger-ui?style=flat)](https://github.com/orca-services/cakephp-swagger-ui/stargazers) - A plugin for publishing Swagger UIs based on OpenAPI specification files.
 
 ### Search
 *Plugins and software for indexing and performing search queries on data.*
 
 - [Cake/Elasticsearch plugin](https://github.com/cakephp/elastic-search) [![GitHub stars](https://img.shields.io/github/stars/cakephp/elastic-search?style=flat)](https://github.com/cakephp/elastic-search/stargazers) - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 - [CakeDC/SearchFilter plugin](https://github.com/CakeDC/search-filter) [![GitHub stars](https://img.shields.io/github/stars/CakeDC/search-filter?style=flat)](https://github.com/CakeDC/search-filter/stargazers) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
+- [Crustum/Explorator plugin](https://github.com/Crustum/explorator) [![GitHub stars](https://img.shields.io/github/stars/Crustum/explorator?style=flat)](https://github.com/Crustum/explorator/stargazers) - Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).
 - [PlumSearch plugin](https://github.com/skie/plum_search) [![GitHub stars](https://img.shields.io/github/stars/skie/plum_search?style=flat)](https://github.com/skie/plum_search/stargazers) - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [Search plugin](https://github.com/FriendsOfCake/search) [![GitHub stars](https://img.shields.io/github/stars/FriendsOfCake/search?style=flat)](https://github.com/FriendsOfCake/search/stargazers) - Provides easy searching/filtering for paginated views using PRG pattern.
 - [Tags plugin](https://github.com/dereuromark/cakephp-tags) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-tags?style=flat)](https://github.com/dereuromark/cakephp-tags/stargazers) - For tagging and finding tagged records.
@@ -341,11 +352,13 @@ Additional lists you might find useful:
 
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) [![GitHub stars](https://img.shields.io/github/stars/cakephp/cakephp-codesniffer?style=flat)](https://github.com/cakephp/cakephp-codesniffer/stargazers) - The official CakePHP CS rules.
 - [CakephpFixtureFactories plugin](https://github.com/dereuromark/cakephp-fixture-factories) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-fixture-factories?style=flat)](https://github.com/dereuromark/cakephp-fixture-factories/stargazers) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+- [DataValidationTesting plugin](https://github.com/orca-services/cakephp-data-validation-testing) [![GitHub stars](https://img.shields.io/github/stars/orca-services/cakephp-data-validation-testing?style=flat)](https://github.com/orca-services/cakephp-data-validation-testing/stargazers) - A plugin to help testing data validation.
 - [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) [![GitHub stars](https://img.shields.io/github/stars/FriendsOfCake/fixturize?style=flat)](https://github.com/FriendsOfCake/fixturize/stargazers) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (MySQL only).
 
 ### Third Party APIs
 *Accessing third party APIs.*
 
+- [Crustum/Saloon plugin](https://github.com/Crustum/saloon) [![GitHub stars](https://img.shields.io/github/stars/Crustum/saloon?style=flat)](https://github.com/Crustum/saloon/stargazers) - Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.
 
 ## Software
 

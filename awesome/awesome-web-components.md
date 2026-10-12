@@ -62,6 +62,7 @@ A curated list of awesome Web Components resources.
   - [Presentations](#presentations)
   - [Talks](#talks)
 - [Usage Metrics](#usage-metrics)
+- [Web Platform Tests](#web-platform-tests)
 - [Proposals](#proposals)
   - [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
   - [Custom State Pseudo Class](#custom-state-pseudo-class)
@@ -91,7 +92,6 @@ Custom Elements provide a way for authors to build their own fully-featured DOM 
 - [Handling properties in custom element upgrades](https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/)
 - [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/custom-elements?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/stargazers)
 
 ### Shadow DOM
 
@@ -109,8 +109,8 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 - [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
 - [The Shadow DOM Explained: Achieving True Encapsulation in Web Components](https://medium.com/@rgndunes/the-shadow-dom-explained-achieving-true-encapsulation-in-web-components-e3422f5957cd)
 - [Understanding Slot Updates with Web Components](https://coryrylan.com/blog/understanding-slot-updates-with-web-components)
+- [Web Components: Working With Shadow DOM](https://www.smashingmagazine.com/2025/07/web-components-working-with-shadow-dom/)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/shadow-dom?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom/stargazers)
 
 ### HTML Templates
 
@@ -125,16 +125,14 @@ Shadow DOM describes a method of combining multiple DOM trees into one hierarchy
 - [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
 - [The HTML5 template element](https://dev.to/ahferroin7/the-html5-template-element-26b6)
 - [Understanding The Template Element In HTML](https://blog.openreplay.com/understanding-the-template-element-in-html/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element/stargazers)
 
 ### CSS Shadow Parts
 
 CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM for styling purposes.
 
-- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+- [CSS Shadow Parts Module Level 1](https://www.w3.org/TR/css-shadow-parts-1/)
 - [CSS shadow parts](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Shadow_parts)
 - [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
-- [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/css/css-shadow/part?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part/stargazers)
 
 ### Form Associated Custom Elements
@@ -319,6 +317,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Component Libraries
 
+- [Accesserty UI Kit](https://github.com/Accesserty/UI-Kit) [![GitHub stars](https://img.shields.io/github/stars/Accesserty/UI-Kit?style=flat)](https://github.com/Accesserty/UI-Kit/stargazers) - HTML-first accessible web components with built-in keyboard behavior, state handling, and i18n. No runtime dependencies.
 - [AgnosticUI](https://github.com/AgnosticUI/agnosticui) [![GitHub stars](https://img.shields.io/github/stars/AgnosticUI/agnosticui?style=flat)](https://github.com/AgnosticUI/agnosticui/stargazers) - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 - [AMP](https://github.com/ampproject/amphtml) [![GitHub stars](https://img.shields.io/github/stars/ampproject/amphtml?style=flat)](https://github.com/ampproject/amphtml/stargazers) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 - [AnywhereUI](https://github.com/adaleks/anywhere-ui) [![GitHub stars](https://img.shields.io/github/stars/adaleks/anywhere-ui?style=flat)](https://github.com/adaleks/anywhere-ui/stargazers) - Collection of rich web components that includes framework bindings. Created with StencilJS.
@@ -343,6 +342,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Lion Web Components](https://github.com/ing-bank/lion) [![GitHub stars](https://img.shields.io/github/stars/ing-bank/lion?style=flat)](https://github.com/ing-bank/lion/stargazers) - Set of highly performant, accessible and flexible Web Components.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) [![GitHub stars](https://img.shields.io/github/stars/elmsln/lrnwebcomponents/?style=flat)](https://github.com/elmsln/lrnwebcomponents//stargazers) - ELMS:LN produced web components for any project.
 - [Lume](https://github.com/lume/lume) [![GitHub stars](https://img.shields.io/github/stars/lume/lume?style=flat)](https://github.com/lume/lume/stargazers) - Custom elements for 3D graphics. Built with Three.js for WebGL/WebGPU rendering, and Solid.js for reactivity and templating.
+- [Marvelous UI](https://github.com/marvelous-ui/marvelous-ui) [![GitHub stars](https://img.shields.io/github/stars/marvelous-ui/marvelous-ui?style=flat)](https://github.com/marvelous-ui/marvelous-ui/stargazers) - Framework-agnostic custom elements and CSS components with design tokens and no runtime dependencies.
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) [![GitHub stars](https://img.shields.io/github/stars/medblocks/medblocks-ui?style=flat)](https://github.com/medblocks/medblocks-ui/stargazers) - Web Components for rapid development of openEHR and FHIR systems.
 - [Morpheus](https://github.com/romshark/morpheus) [![GitHub stars](https://img.shields.io/github/stars/romshark/morpheus?style=flat)](https://github.com/romshark/morpheus/stargazers) - An experimental web components UI kit.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) [![GitHub stars](https://img.shields.io/github/stars/stryker-mutator/mutation-testing-elements?style=flat)](https://github.com/stryker-mutator/mutation-testing-elements/stargazers) - A schema for mutation testing results with the web components to visualize it.
@@ -591,12 +591,18 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 - [Chrome Platform Status: `ElementAttachShadow`](https://chromestatus.com/metrics/feature/timeline/popularity/804)
 - [Chrome Platform Status: `HTMLTemplateElement`](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
+### Web Platform Tests
+
+- [wpt/custom-elements](https://github.com/web-platform-tests/wpt/tree/master/custom-elements) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/custom-elements?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/stargazers)
+- [wpt/shadow-dom](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/shadow-dom?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom/stargazers)
+- [wpt/css-shadow](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/css/css-shadow/part?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow/part/stargazers)
+- [wpt/template-element](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element?style=flat)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element/stargazers)
+
 ## Proposals
 
 ### Constructable Stylesheet Objects
 
 - [Specification Draft](https://wicg.github.io/construct-stylesheets/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html) [![GitHub stars](https://img.shields.io/github/stars/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html?style=flat)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html/stargazers)
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md) [![GitHub stars](https://img.shields.io/github/stars/WICG/construct-stylesheets/blob/gh-pages/explainer.md?style=flat)](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md/stargazers)
 - [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
@@ -677,21 +683,22 @@ These materials are here for historical reasons only, they are grouped by years 
 
 #### 2017
 
-- [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
-- [Make a Native Web Component with Custom Elements v1 and Shadow DOM v1](https://bendyworks.com/blog/native-web-components/)
-- [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
-- [Web Components: Just in the Nick of Time (Polymer Summit 2017)](https://youtu.be/y-8Lmg5Gobw)
-- [Using Web Components in Ionic (Polymer Summit 2017)](https://youtu.be/UfD-k7aHkQE)
-- [Web Components for VR (Polymer Summit 2017)](https://youtu.be/8GmTu2JF4-0)
-- [Building UI at Enterprise Scale with Web Components (Polymer Summit 2017)](https://youtu.be/FJ2KEvzlyo4)
-- [Custom Elements Everywhere (Polymer Summit 2017)](https://youtu.be/sK1ODp0nDbM)
-- [Evolving the Next Generation of Polymer Elements (Polymer Summit 2017)](https://youtu.be/rvpJ5O0W_6A)
-- [Polymer @ YouTube (Polymer Summit 2017)](https://youtu.be/tNulrEbTQf8)
-- [Web Components for CMS (Polymer Summit 2017)](https://youtu.be/c-WDHG6rrdU)
-- [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
-- [The broken promise of Web Components](https://dmitriid.com/the-broken-promise-of-web-components)
-- [Regarding the broken promise of Web Components](https://robdodson.me/posts/regarding-the-broken-promise-of-web-components/)
-- [Web Components v1 - the next generation](https://web.dev/webcomponents-org/)
+- _2017-12-18_ [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
+- _2017-11-20_ [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
+- _2017-10-01_ [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
+- _2017-08-23_ [Web Components: Just in the Nick of Time (Polymer Summit 2017)](https://youtu.be/y-8Lmg5Gobw)
+- _2017-08-23_ [Using Web Components in Ionic (Polymer Summit 2017)](https://youtu.be/UfD-k7aHkQE)
+- _2017-08-23_ [Web Components for VR (Polymer Summit 2017)](https://youtu.be/8GmTu2JF4-0)
+- _2017-08-22_ [Building UI at Enterprise Scale with Web Components (Polymer Summit 2017)](https://youtu.be/FJ2KEvzlyo4)
+- _2017-08-22_ [Custom Elements Everywhere (Polymer Summit 2017)](https://youtu.be/sK1ODp0nDbM)
+- _2017-08-22_ [Evolving the Next Generation of Polymer Elements (Polymer Summit 2017)](https://youtu.be/rvpJ5O0W_6A)
+- _2017-08-22_ [Polymer @ YouTube (Polymer Summit 2017)](https://youtu.be/tNulrEbTQf8)
+- _2017-08-22_ [Web Components for CMS (Polymer Summit 2017)](https://youtu.be/c-WDHG6rrdU)
+- _2017-06-06_ [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
+- _2017-05-04_ [Make a Native Web Component with Custom Elements v1 and Shadow DOM v1](https://bendyworks.com/blog/native-web-components/)
+- _2017-03-16_ [The broken promise of Web Components](https://dmitriid.com/the-broken-promise-of-web-components)
+- _2017-03-16_ [Regarding the broken promise of Web Components](https://robdodson.me/posts/regarding-the-broken-promise-of-web-components/)
+- _2017-01-10_ [Web Components v1 - the next generation](https://web.dev/webcomponents-org/)
 
 #### 2016
 

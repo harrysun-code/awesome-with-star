@@ -97,10 +97,12 @@
 
 - [Atlantis](https://www.runatlantis.io/) - Automating workflows via pull requests.
 - [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
+- [c3x](https://github.com/c3xdev/c3x) [![GitHub stars](https://img.shields.io/github/stars/c3xdev/c3x?style=flat)](https://github.com/c3xdev/c3x/stargazers) - Cost estimates for OpenTofu code, including `.tofu` files and provider `for_each`, posted as a pull request comment.
 - [drifthound](https://github.com/treezio/drifthound) [![GitHub stars](https://img.shields.io/github/stars/treezio/drifthound?style=flat)](https://github.com/treezio/drifthound/stargazers) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [opentofu-updater-action](https://github.com/drumandbytes/opentofu-updater-action) [![GitHub stars](https://img.shields.io/github/stars/drumandbytes/opentofu-updater-action?style=flat)](https://github.com/drumandbytes/opentofu-updater-action/stargazers) - Keeps OpenTofu and Terraform providers, modules, Helm charts and container images up to date by opening pull requests.
 - [TF-via-PR](https://github.com/OP5dev/TF-via-PR) [![GitHub stars](https://img.shields.io/github/stars/OP5dev/TF-via-PR?style=flat)](https://github.com/OP5dev/TF-via-PR/stargazers) - GitHub Action to init, plan and apply Terraform/OpenTofu via PR automation.
 - [pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) [![GitHub stars](https://img.shields.io/github/stars/tofuutils/pre-commit-opentofu?style=flat)](https://github.com/tofuutils/pre-commit-opentofu/stargazers) - Git pre-commit hooks plugin.
+- [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) [![GitHub stars](https://img.shields.io/github/stars/antonbabenko/pre-commit-terraform?style=flat)](https://github.com/antonbabenko/pre-commit-terraform/stargazers) - Collection of pre-commit git hooks for validating, formatting, and documenting Terraform and OpenTofu code.
 - [setup-opentofu](https://github.com/opentofu/setup-opentofu) [![GitHub stars](https://img.shields.io/github/stars/opentofu/setup-opentofu?style=flat)](https://github.com/opentofu/setup-opentofu/stargazers) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) [![GitHub stars](https://img.shields.io/github/stars/dflook/terraform-github-actions?style=flat)](https://github.com/dflook/terraform-github-actions/stargazers) - GitHub Actions for OpenTofu.
 - [tofu-controller](https://github.com/flux-iac/tofu-controller) [![GitHub stars](https://img.shields.io/github/stars/flux-iac/tofu-controller?style=flat)](https://github.com/flux-iac/tofu-controller/stargazers) - GitOps OpenTofu and Terraform controller for Flux.
@@ -108,6 +110,8 @@
 
 ### Tests
 
+- [Checkov](https://github.com/bridgecrewio/checkov) [![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=flat)](https://github.com/bridgecrewio/checkov/stargazers) - Static analysis tool that scans Terraform and OpenTofu templates for security and compliance misconfigurations.
+- [KICS](https://github.com/Checkmarx/kics) [![GitHub stars](https://img.shields.io/github/stars/Checkmarx/kics?style=flat)](https://github.com/Checkmarx/kics/stargazers) - Open-source static analysis tool that finds security vulnerabilities and misconfigurations in IaC, including OpenTofu.
 - [Terratest](https://github.com/gruntwork-io/terratest) [![GitHub stars](https://img.shields.io/github/stars/gruntwork-io/terratest?style=flat)](https://github.com/gruntwork-io/terratest/stargazers) - Go library that makes writing automated tests for your infrastructure code easier.
 
 ### State
@@ -116,6 +120,8 @@
 
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) [![GitHub stars](https://img.shields.io/github/stars/minamijoyo/tfmigrate?style=flat)](https://github.com/minamijoyo/tfmigrate/stargazers) - State migration tool.
 - [tfimport](https://github.com/coolapso/tfimport) [![GitHub stars](https://img.shields.io/github/stars/coolapso/tfimport?style=flat)](https://github.com/coolapso/tfimport/stargazers) - Tool to automate state imports.
+- [tfautomv](https://github.com/busser/tfautomv) [![GitHub stars](https://img.shields.io/github/stars/busser/tfautomv?style=flat)](https://github.com/busser/tfautomv/stargazers) - CLI that automatically generates `moved` blocks and state-move commands for refactoring Terraform/OpenTofu configurations.
+- [terraform-tui](https://github.com/idoavrah/terraform-tui) [![GitHub stars](https://img.shields.io/github/stars/idoavrah/terraform-tui?style=flat)](https://github.com/idoavrah/terraform-tui/stargazers) - Terminal UI for browsing, applying, and managing Terraform/OpenTofu state and plans interactively.
 
 ### Providers
 
@@ -158,6 +164,7 @@
 - [terratag](https://github.com/env0/terratag) [![GitHub stars](https://img.shields.io/github/stars/env0/terratag?style=flat)](https://github.com/env0/terratag/stargazers) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) [![GitHub stars](https://img.shields.io/github/stars/minamijoyo/tfupdate?style=flat)](https://github.com/minamijoyo/tfupdate/stargazers) - Update version constraints in your Terraform / OpenTofu configurations.
 - [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/templates/tree/main/src/opentofu?style=flat)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu/stargazers) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/images/tree/main/opentofu?style=flat)](https://github.com/bare-devcontainer/images/tree/main/opentofu/stargazers).
+- [TerraVision](https://github.com/patrickchugh/terravision) [![GitHub stars](https://img.shields.io/github/stars/patrickchugh/terravision?style=flat)](https://github.com/patrickchugh/terravision/stargazers) - Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.
 
 ## Learning
 

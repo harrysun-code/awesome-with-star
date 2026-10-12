@@ -12,6 +12,8 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 ## **Sponsors**
 
+- [iPulse AI](https://ipulseai.com) - Open Agentic Investment Research Platform. Inspect deep multi-agent market forecasts and stock picks.
+
 > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](SPONSORSHIP.md).
 
 ## Categories
@@ -169,6 +171,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [semantica](https://github.com/semantica-agi/semantica) [![GitHub stars](https://img.shields.io/github/stars/semantica-agi/semantica?style=flat)](https://github.com/semantica-agi/semantica/stargazers) - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
 - Pre-trained Models
   - [transformers](https://github.com/huggingface/transformers) [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=flat)](https://github.com/huggingface/transformers/stargazers) - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
+  - [sentence-transformers](https://github.com/huggingface/sentence-transformers) [![GitHub stars](https://img.shields.io/github/stars/huggingface/sentence-transformers?style=flat)](https://github.com/huggingface/sentence-transformers/stargazers) - Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.
 - LLM Inference and Serving
   - [sglang](https://github.com/sgl-project/sglang) [![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat)](https://github.com/sgl-project/sglang/stargazers) - A high-performance serving framework for large language models and multimodal models.
   - [vllm](https://github.com/vllm-project/vllm) [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat)](https://github.com/vllm-project/vllm/stargazers) - A high-throughput and memory-efficient inference and serving engine for LLMs.
@@ -284,7 +287,7 @@ _Libraries for building RESTful, GraphQL, and RPC APIs._
   - [django-rest-framework](https://github.com/encode/django-rest-framework) [![GitHub stars](https://img.shields.io/github/stars/encode/django-rest-framework?style=flat)](https://github.com/encode/django-rest-framework/stargazers) - A powerful and flexible toolkit to build web APIs.
   - [django-ninja](https://github.com/vitalik/django-ninja) [![GitHub stars](https://img.shields.io/github/stars/vitalik/django-ninja?style=flat)](https://github.com/vitalik/django-ninja/stargazers) - Fast, Django REST framework based on type hints and Pydantic.
   - [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) [![GitHub stars](https://img.shields.io/github/stars/strawberry-graphql/strawberry-django?style=flat)](https://github.com/strawberry-graphql/strawberry-django/stargazers) - Strawberry GraphQL integration with Django.
-  - [django-modern-rest](https://github.com/wemake-services/django-modern-rest) [![GitHub stars](https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat)](https://github.com/wemake-services/django-modern-rest/stargazers) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies!
+  - [django-modern-rest](https://github.com/wemake-services/django-modern-rest) [![GitHub stars](https://img.shields.io/github/stars/wemake-services/django-modern-rest?style=flat)](https://github.com/wemake-services/django-modern-rest/stargazers) - Modern REST with speed, types, async, `msgspec`, `pydantic` and other goodies.
 - Flask
   - [flask-restx](https://github.com/python-restx/flask-restx) [![GitHub stars](https://img.shields.io/github/stars/python-restx/flask-restx?style=flat)](https://github.com/python-restx/flask-restx/stargazers) - Fully featured framework for fast, easy and documented API development with Flask.
   - [flask-smorest](https://github.com/marshmallow-code/flask-smorest) [![GitHub stars](https://img.shields.io/github/stars/marshmallow-code/flask-smorest?style=flat)](https://github.com/marshmallow-code/flask-smorest/stargazers) - A Flask/Marshmallow-based REST API framework with automatic OpenAPI documentation.
@@ -789,6 +792,7 @@ _Libraries for scheduling jobs._
   - [apscheduler](https://github.com/agronholm/apscheduler) [![GitHub stars](https://img.shields.io/github/stars/agronholm/apscheduler?style=flat)](https://github.com/agronholm/apscheduler/stargazers) - A light but powerful in-process task scheduler that lets you schedule functions.
   - [schedule](https://github.com/dbader/schedule) [![GitHub stars](https://img.shields.io/github/stars/dbader/schedule?style=flat)](https://github.com/dbader/schedule/stargazers) - Python job scheduling for humans.
 - Workflow Orchestration
+  - [temporalio](https://github.com/temporalio/sdk-python) [![GitHub stars](https://img.shields.io/github/stars/temporalio/sdk-python?style=flat)](https://github.com/temporalio/sdk-python/stargazers) - Temporal SDK for durable, fault-tolerant workflows that survive crashes and retries.
   - [dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=flat)](https://github.com/dagster-io/dagster/stargazers) - An orchestration platform for the development, production, and observation of data assets.
   - [apache-airflow](https://github.com/apache/airflow) [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=flat)](https://github.com/apache/airflow/stargazers) - Airflow is a platform to programmatically author, schedule and monitor workflows.
   - [prefect](https://github.com/PrefectHQ/prefect) [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=flat)](https://github.com/PrefectHQ/prefect/stargazers) - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
@@ -821,7 +825,7 @@ _Libraries for building command-line applications._
   - [click](https://github.com/pallets/click/) [![GitHub stars](https://img.shields.io/github/stars/pallets/click/?style=flat)](https://github.com/pallets/click//stargazers) - A package for creating beautiful command line interfaces in a composable way.
   - [typer](https://github.com/fastapi/typer) [![GitHub stars](https://img.shields.io/github/stars/fastapi/typer?style=flat)](https://github.com/fastapi/typer/stargazers) - Modern CLI framework that uses Python type hints. Built on Click.
   - [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) [![GitHub stars](https://img.shields.io/github/stars/prompt-toolkit/python-prompt-toolkit?style=flat)](https://github.com/prompt-toolkit/python-prompt-toolkit/stargazers) - A library for building powerful interactive command lines.
-  - [fire](https://github.com/google/python-fire) [![GitHub stars](https://img.shields.io/github/stars/google/python-fire?style=flat)](https://github.com/google/python-fire/stargazers) - A library for creating command line interfaces from absolutely any Python object.
+  - [cyclopts](https://github.com/BrianPugh/cyclopts) [![GitHub stars](https://img.shields.io/github/stars/BrianPugh/cyclopts?style=flat)](https://github.com/BrianPugh/cyclopts/stargazers) - Build CLIs from type-hinted functions, with docstring-based help.
 - Terminal Rendering
   - [rich](https://github.com/Textualize/rich) [![GitHub stars](https://img.shields.io/github/stars/Textualize/rich?style=flat)](https://github.com/Textualize/rich/stargazers) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
   - [tqdm](https://github.com/tqdm/tqdm) [![GitHub stars](https://img.shields.io/github/stars/tqdm/tqdm?style=flat)](https://github.com/tqdm/tqdm/stargazers) - Fast, extensible progress bar for loops and CLI.
