@@ -319,11 +319,13 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 - :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 - :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
+- :tada: [Mibo](https://github.com/AngelMunoz/Mibo) [![GitHub stars](https://img.shields.io/github/stars/AngelMunoz/Mibo?style=flat)](https://github.com/AngelMunoz/Mibo/stargazers) - Elmish (MVU) F# game framework on raylib-cs or MonoGame.
 - :free: [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is a fantasy computer for making, playing and sharing 2D games and programs written in the modern [MiniScript](https://miniscript.org) language.
 - :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 - :tada: [Nakama](https://github.com/heroiclabs/nakama) [![GitHub stars](https://img.shields.io/github/stars/heroiclabs/nakama?style=flat)](https://github.com/heroiclabs/nakama/stargazers) - Distributed server for social and realtime games and apps.
 - :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 - :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
+- :money_with_wings: [Nu Game Engine](https://github.com/bryanedds/Nu) [![GitHub stars](https://img.shields.io/github/stars/bryanedds/Nu?style=flat)](https://github.com/bryanedds/Nu/stargazers) - Functional 2D/3D game engine in F# (free for noncommercial use; paid commercial license).
 - :tada: [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) [![GitHub stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=flat)](https://github.com/Immediate-Mode-UI/Nuklear/stargazers) - A single-header ANSI C immediate mode cross-platform GUI library.
 - :tada: [ÖbEngine](https://github.com/Sygmei/ObEngine) [![GitHub stars](https://img.shields.io/github/stars/Sygmei/ObEngine?style=flat)](https://github.com/Sygmei/ObEngine/stargazers) - 2D Game Engine with Lua Scripting made on top of SFML !
 - :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
@@ -389,6 +391,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) [![GitHub stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat)](https://github.com/IvanMurzak/Unity-MCP/stargazers) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 - :money_with_wings: [Coplay](https://coplay.dev?ref=github&utm_source=magictools) - AI Copilot for Unity
 - :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) [![GitHub stars](https://img.shields.io/github/stars/codecapers/Fluent-Behaviour-Tree?style=flat)](https://github.com/codecapers/Fluent-Behaviour-Tree/stargazers) - C# behaviour tree library with a fluent API released under MIT.
+- :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
 - :money_with_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 - :money_with_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - :money_with_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
@@ -408,6 +411,7 @@ _Audio editors, sounds collections and more._
 - :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 - :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 - :free: [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
+- :free: [Soundza](https://soundza.com/) - Thousands of free game sound effects, music loops and ambience in WAV/MP3, made by people rather than AI; free for commercial use, no attribution needed. Free API and MCP server.
 
 ### Music and Audio Editors
 

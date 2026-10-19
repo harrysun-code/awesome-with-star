@@ -17,7 +17,6 @@
 - [Special](#special)
 - [Other](#other)
   - [CSS only](#css-only)
-  - [Paid](#paid)
   - [Frameworks](#frameworks)
 
 ## General
@@ -28,6 +27,7 @@ General purpose icons used everywhere.
 - [Boxicons](https://github.com/atisawd/boxicons#readme) [![GitHub stars](https://img.shields.io/github/stars/atisawd/boxicons?style=flat)](https://github.com/atisawd/boxicons/stargazers) - Simple vector iconset with 1000+ icons and 100+ logos. ([Website](https://boxicons.com/))
 - [Byte Size Icons](https://github.com/danklammer/bytesize-icons#readme) [![GitHub stars](https://img.shields.io/github/stars/danklammer/bytesize-icons?style=flat)](https://github.com/danklammer/bytesize-icons/stargazers) - Tiny style-controlled SVG iconset. ([Website](https://danklammer.com/bytesize-icons))
 - [css.gg](https://github.com/astrit/css.gg#readme) [![GitHub stars](https://img.shields.io/github/stars/astrit/css.gg?style=flat)](https://github.com/astrit/css.gg/stargazers) - Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API. ([Website](https://css.gg))
+- [Energy Icons](https://github.com/Sam-r-passmore/energy-icons#readme) [![GitHub stars](https://img.shields.io/github/stars/Sam-r-passmore/energy-icons?style=flat)](https://github.com/Sam-r-passmore/energy-icons/stargazers) - Open source icons for the energy transition and everyday UI, with 1,279 icons in two optical sizes and two weights. ([Website](https://energyicons.com))
 - [Eva icons](https://github.com/akveo/eva-icons#readme) [![GitHub stars](https://img.shields.io/github/stars/akveo/eva-icons?style=flat)](https://github.com/akveo/eva-icons/stargazers) - A pack of more than 480 beautifully crafted Open Source icons. ([Website](https://akveo.github.io/eva-icons))
 - [Evil icons](https://github.com/evil-icons/evil-icons#readme) [![GitHub stars](https://img.shields.io/github/stars/evil-icons/evil-icons?style=flat)](https://github.com/evil-icons/evil-icons/stargazers) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN. ([Website](http://evil-icons.io))
 - [Feather](https://github.com/feathericons/feather#readme) [![GitHub stars](https://img.shields.io/github/stars/feathericons/feather?style=flat)](https://github.com/feathericons/feather/stargazers) - Simply beautiful open source icons. ([Website](https://feathericons.com))

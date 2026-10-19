@@ -230,6 +230,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
  - [mgob](https://github.com/stefanprodan/mgob) [![GitHub stars](https://img.shields.io/github/stars/stefanprodan/mgob?style=flat)](https://github.com/stefanprodan/mgob/stargazers) - Full-featured MongoDB dockerized backup agent
  - [mongoctl](https://github.com/mongolab/mongoctl) [![GitHub stars](https://img.shields.io/github/stars/mongolab/mongoctl?style=flat)](https://github.com/mongolab/mongoctl/stargazers) - Manage MongoDB servers and replica sets using JSON configurations
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) [![GitHub stars](https://img.shields.io/github/stars/jwilder/mongodb-tools?style=flat)](https://github.com/jwilder/mongodb-tools/stargazers) - Three neat Python scripts to work with collections and indexes
+ - [MongoRescue](https://github.com/YigitCittan/mongorescue) [![GitHub stars](https://img.shields.io/github/stars/YigitCittan/mongorescue?style=flat)](https://github.com/YigitCittan/mongorescue/stargazers) - Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption
  - [mtools](https://github.com/rueckstiess/mtools) [![GitHub stars](https://img.shields.io/github/stars/rueckstiess/mtools?style=flat)](https://github.com/rueckstiess/mtools/stargazers) - Collection of scripts to set up test environments and visualize log files
  - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) [![GitHub stars](https://img.shields.io/github/stars/mdirolf/nginx-gridfs?style=flat)](https://github.com/mdirolf/nginx-gridfs/stargazers) - Nginx module for serving files from GridFS
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) - Aggregates queries from query profiler and reports query usage statistics
@@ -246,6 +247,7 @@ Services:
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) [![GitHub stars](https://img.shields.io/github/stars/EnterpriseDB/mongo_fdw?style=flat)](https://github.com/EnterpriseDB/mongo_fdw/stargazers) - PostgreSQL foreign data wrapper
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-hadoop?style=flat)](https://github.com/mongodb/mongo-hadoop/stargazers) - Hadoop connector
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) [![GitHub stars](https://img.shields.io/github/stars/ozlerhakan/mongolastic?style=flat)](https://github.com/ozlerhakan/mongolastic/stargazers) - MongoDB to Elasticsearch (and vice-versa) migration tool
+ - [OLake](https://github.com/datazip-inc/olake) [![GitHub stars](https://img.shields.io/github/stars/datazip-inc/olake?style=flat)](https://github.com/datazip-inc/olake/stargazers) - Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go
 
 Services:
  - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
@@ -268,6 +270,7 @@ Services:
 
 Services:
  - [Beekeeper Studio](https://www.beekeeperstudio.io/db/mongodb-client/) - Cross-platform SQL editor and database manager with native MongoDB support (part of the paid Ultimate tier), plus MySQL, Postgres, SQLite, and more.
+ - [BsonJet](https://bsonjet.com) - Native cross-platform GUI (no Electron, no Java), free for personal use; copy databases between servers, encrypted backups, replica set health
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [Monghoul](https://www.monghoul.com/) - MongoDB GUI with smart autocomplete, visual aggregation builder, and built-in MCP server
@@ -280,6 +283,7 @@ Services:
 ### Development
  - [Argon](https://github.com/argon-lab/argon) [![GitHub stars](https://img.shields.io/github/stars/argon-lab/argon?style=flat)](https://github.com/argon-lab/argon/stargazers) - Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents
  - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-analyzer?style=flat)](https://github.com/mongodb/mongo-csharp-analyzer/stargazers) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
+ - [Keploy](https://github.com/keploy/keploy) [![GitHub stars](https://img.shields.io/github/stars/keploy/keploy?style=flat)](https://github.com/keploy/keploy/stargazers) - Records real MongoDB query results and replays them as mocks in tests, without a running database
  - [mgodatagen](https://github.com/feliixx/mgodatagen) [![GitHub stars](https://img.shields.io/github/stars/feliixx/mgodatagen?style=flat)](https://github.com/feliixx/mgodatagen/stargazers) - Random data generator
  - [migrate-mongo](https://github.com/seppevs/migrate-mongo) [![GitHub stars](https://img.shields.io/github/stars/seppevs/migrate-mongo?style=flat)](https://github.com/seppevs/migrate-mongo/stargazers) - Database migration tool
  - [Mongo Playground](https://github.com/feliixx/mongoplayground) [![GitHub stars](https://img.shields.io/github/stars/feliixx/mongoplayground?style=flat)](https://github.com/feliixx/mongoplayground/stargazers) - Online query playground
@@ -297,6 +301,7 @@ Services:
  - [mongo-munin](https://github.com/erh/mongo-munin) [![GitHub stars](https://img.shields.io/github/stars/erh/mongo-munin?style=flat)](https://github.com/erh/mongo-munin/stargazers) - Collection of Munin plugins
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) [![GitHub stars](https://img.shields.io/github/stars/mzupan/nagios-plugin-mongodb?style=flat)](https://github.com/mzupan/nagios-plugin-mongodb/stargazers) - Nagios plugin (in Python)
  - [Percona Monitoring and Management](https://github.com/percona/pmm) [![GitHub stars](https://img.shields.io/github/stars/percona/pmm?style=flat)](https://github.com/percona/pmm/stargazers) - Free and open-source platform for managing and monitoring databases performances
+ - [SolidPing](https://github.com/fclairamb/solidping) [![GitHub stars](https://img.shields.io/github/stars/fclairamb/solidping?style=flat)](https://github.com/fclairamb/solidping/stargazers) - Self-hosted uptime monitor with a MongoDB ping check and alerting
  - [mongotail](https://github.com/mrsarm/mongotail) [![GitHub stars](https://img.shields.io/github/stars/mrsarm/mongotail?style=flat)](https://github.com/mrsarm/mongotail/stargazers) - Log all MongoDB queries in a "tail"able way
 
 Services:
@@ -319,6 +324,7 @@ Services:
 - [Retool](https://retool.com/) - Drag-and-drop editor with pre-built components to build internal tools
 
 ### Shell
+ - [masume](https://github.com/masumedb/masume) [![GitHub stars](https://img.shields.io/github/stars/masumedb/masume?style=flat)](https://github.com/masumedb/masume/stargazers) - Keyboard-first terminal database client with AI chat and an MCP server
  - [MongoDB Atlas CLI](https://github.com/mongodb/mongodb-atlas-cli) [![GitHub stars](https://img.shields.io/github/stars/mongodb/mongodb-atlas-cli?style=flat)](https://github.com/mongodb/mongodb-atlas-cli/stargazers) - Official Atlas API command-line client
  - [mongosh](https://github.com/mongodb-js/mongosh) [![GitHub stars](https://img.shields.io/github/stars/mongodb-js/mongosh?style=flat)](https://github.com/mongodb-js/mongosh/stargazers) - Official command-line client
 

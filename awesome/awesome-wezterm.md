@@ -37,6 +37,7 @@ To enhance your WezTerm configuration experience:
 - [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) [![GitHub stars](https://img.shields.io/github/stars/EdenGibson/wezterm-quota-limit?style=flat)](https://github.com/EdenGibson/wezterm-quota-limit/stargazers) - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 - [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) [![GitHub stars](https://img.shields.io/github/stars/Eric162/wezterm-agent-deck?style=flat)](https://github.com/Eric162/wezterm-agent-deck/stargazers) - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 - [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) [![GitHub stars](https://img.shields.io/github/stars/M-Marbouh/agent-quota.wezterm?style=flat)](https://github.com/M-Marbouh/agent-quota.wezterm/stargazers) - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
+- [sethupavan12/commander.wezterm](https://github.com/sethupavan12/commander.wezterm) [![GitHub stars](https://img.shields.io/github/stars/sethupavan12/commander.wezterm?style=flat)](https://github.com/sethupavan12/commander.wezterm/stargazers) - Describe a shell command in plain English, refine it in a drawer, and paste it at your prompt without running it. Works with OpenAI or any OpenAI-compatible server.
 
 ## Keybinding
 

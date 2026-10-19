@@ -118,7 +118,7 @@
 - [fluid](https://github.com/ffrostfall/fluid) [![GitHub stars](https://img.shields.io/github/stars/ffrostfall/fluid?style=flat)](https://github.com/ffrostfall/fluid/stargazers) - A declarative UI framework for Roblox.
 - [Fusion](https://github.com/dphfox/Fusion) [![GitHub stars](https://img.shields.io/github/stars/dphfox/Fusion?style=flat)](https://github.com/dphfox/Fusion/stargazers) - A modern reactive UI library, built specifically for Roblox and Luau.
 - [Iris](https://github.com/Michael-48/Iris) [![GitHub stars](https://img.shields.io/github/stars/Michael-48/Iris?style=flat)](https://github.com/Michael-48/Iris/stargazers) - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui) [![GitHub stars](https://img.shields.io/github/stars/ocornut/imgui?style=flat)](https://github.com/ocornut/imgui/stargazers).
-- [React Lua](https://github.com/jsdotlua/react-lua) [![GitHub stars](https://img.shields.io/github/stars/jsdotlua/react-lua?style=flat)](https://github.com/jsdotlua/react-lua/stargazers) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
+- [React Luau](https://github.com/Roblox/react-luau) [![GitHub stars](https://img.shields.io/github/stars/Roblox/react-luau?style=flat)](https://github.com/Roblox/react-luau/stargazers) - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
 - [Vide](https://github.com/centau/vide) [![GitHub stars](https://img.shields.io/github/stars/centau/vide?style=flat)](https://github.com/centau/vide/stargazers) - A reactive Luau library for creating UI.
 
 ### Utility

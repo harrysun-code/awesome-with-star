@@ -105,6 +105,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [piersolenski/plugin-addict.nvim](https://github.com/piersolenski/plugin-addict.nvim) [![GitHub stars](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim?style=flat)](https://github.com/piersolenski/plugin-addict.nvim/stargazers) - A stupidly simple way to quickly install plugins.
 - [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) [![GitHub stars](https://img.shields.io/github/stars/zuqini/zpack.nvim?style=flat)](https://github.com/zuqini/zpack.nvim/stargazers) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 - [okram78/vahti.nvim](https://github.com/okram78/vahti.nvim) [![GitHub stars](https://img.shields.io/github/stars/okram78/vahti.nvim?style=flat)](https://github.com/okram78/vahti.nvim/stargazers) - Checks remote Git revisions for `vim.pack`-managed packages and reports available updates without installing them.
+- [Imngzx/resonance.nvim](https://github.com/Imngzx/resonance.nvim) [![GitHub stars](https://img.shields.io/github/stars/Imngzx/resonance.nvim?style=flat)](https://github.com/Imngzx/resonance.nvim/stargazers) - An optimized `vim.pack` wrapper with lazy-loading, automatic build hooks, and an elegant UI.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -344,6 +345,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) [![GitHub stars](https://img.shields.io/github/stars/simonwinther/cppman.nvim?style=flat)](https://github.com/simonwinther/cppman.nvim/stargazers) - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 - [redpierrot/ballerina.nvim](https://github.com/redpierrot/ballerina.nvim) [![GitHub stars](https://img.shields.io/github/stars/redpierrot/ballerina.nvim?style=flat)](https://github.com/redpierrot/ballerina.nvim/stargazers) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 - [jgonmor16/hdlsnip.nvim](https://github.com/jgonmor16/hdlsnip.nvim) [![GitHub stars](https://img.shields.io/github/stars/jgonmor16/hdlsnip.nvim?style=flat)](https://github.com/jgonmor16/hdlsnip.nvim/stargazers) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
+- [upyesp/epher.nvim](https://github.com/upyesp/epher.nvim) [![GitHub stars](https://img.shields.io/github/stars/upyesp/epher.nvim?style=flat)](https://github.com/upyesp/epher.nvim/stargazers) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 
 ### Golang
 
@@ -436,6 +438,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [walkersumida/deepl.nvim](https://github.com/walkersumida/deepl.nvim) [![GitHub stars](https://img.shields.io/github/stars/walkersumida/deepl.nvim?style=flat)](https://github.com/walkersumida/deepl.nvim/stargazers) - Translates text using the DeepL API with multiple output modes (float, replace, append).
 - [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) [![GitHub stars](https://img.shields.io/github/stars/acidsugarx/babel.nvim?style=flat)](https://github.com/acidsugarx/babel.nvim/stargazers) - Translate text using Google Translate with async support, float display, and multi-picker integration.
 - [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) [![GitHub stars](https://img.shields.io/github/stars/noir4y/comment-translate.nvim?style=flat)](https://github.com/noir4y/comment-translate.nvim/stargazers) - Translate code comments and strings using online as well as local LLMs or external translators.
+- [Imngzx/jisho.nvim](https://github.com/Imngzx/jisho.nvim) [![GitHub stars](https://img.shields.io/github/stars/Imngzx/jisho.nvim?style=flat)](https://github.com/Imngzx/jisho.nvim/stargazers) - Japanese dictionary, powered by `jisho.org`.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -559,7 +562,6 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) [![GitHub stars](https://img.shields.io/github/stars/jvgrootveld/telescope-zoxide?style=flat)](https://github.com/jvgrootveld/telescope-zoxide/stargazers) - Telescope integration for [zoxide](https://github.com/ajeetdsouza/zoxide) [![GitHub stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat)](https://github.com/ajeetdsouza/zoxide/stargazers), a smart directory picker that tracks your usage.
 - [nvim-mini/mini.nvim#mini.fuzzy](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md/stargazers) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) [![GitHub stars](https://img.shields.io/github/stars/axkirillov/easypick.nvim?style=flat)](https://github.com/axkirillov/easypick.nvim/stargazers) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
-- [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) [![GitHub stars](https://img.shields.io/github/stars/linrongbin16/fzfx.nvim?style=flat)](https://github.com/linrongbin16/fzfx.nvim/stargazers) - A fuzzy finder that updates on every keystroke.
 - [nvim-mini/mini.nvim#mini.pick](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md/stargazers) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 - [nvim-mini/mini.nvim#mini.extra](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md) [![GitHub stars](https://img.shields.io/github/stars/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md?style=flat)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md/stargazers) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 - [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) [![GitHub stars](https://img.shields.io/github/stars/fdschmidt93/telescope-egrepify.nvim?style=flat)](https://github.com/fdschmidt93/telescope-egrepify.nvim/stargazers) - Telescope plugin for better `rg` flags in `live_grep`.
@@ -699,6 +701,8 @@ then it is not supported:
 - **_`[Fnl]`_** - Is written in Fennel.
 <!--lint enable awesome-list-item-->
 
+- [zacesshq/zacess.nvim](https://github.com/zacesshq/zacess.nvim) [![GitHub stars](https://img.shields.io/github/stars/zacesshq/zacess.nvim?style=flat)](https://github.com/zacesshq/zacess.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
+- [daaanny90/interlinked.nvim](https://github.com/daaanny90/interlinked.nvim) [![GitHub stars](https://img.shields.io/github/stars/daaanny90/interlinked.nvim?style=flat)](https://github.com/daaanny90/interlinked.nvim/stargazers) - **_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 - [rezniqov/soviet.nvim](https://github.com/rezniqov/soviet.nvim) [![GitHub stars](https://img.shields.io/github/stars/rezniqov/soviet.nvim?style=flat)](https://github.com/rezniqov/soviet.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture.
 - [ThorstenRhau/token](https://github.com/ThorstenRhau/token) [![GitHub stars](https://img.shields.io/github/stars/ThorstenRhau/token?style=flat)](https://github.com/ThorstenRhau/token/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 - [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) [![GitHub stars](https://img.shields.io/github/stars/oskarnurm/koda.nvim?style=flat)](https://github.com/oskarnurm/koda.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Code's quiet companion. A minimalist colorscheme, written in Lua.
@@ -1277,6 +1281,7 @@ then it is not supported:
 - [JulOuellet/bzl.nvim](https://github.com/JulOuellet/bzl.nvim) [![GitHub stars](https://img.shields.io/github/stars/JulOuellet/bzl.nvim?style=flat)](https://github.com/JulOuellet/bzl.nvim/stargazers) - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 - [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 - [pewpewnor/dove.nvim](https://github.com/pewpewnor/dove.nvim) [![GitHub stars](https://img.shields.io/github/stars/pewpewnor/dove.nvim?style=flat)](https://github.com/pewpewnor/dove.nvim/stargazers) - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
+- [trimclain/builder.nvim](https://github.com/trimclain/builder.nvim) [![GitHub stars](https://img.shields.io/github/stars/trimclain/builder.nvim?style=flat)](https://github.com/trimclain/builder.nvim/stargazers) - Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1784,6 +1789,7 @@ then it is not supported:
 
 - [~chinmay/cphelper.nvim](https://git.sr.ht/~chinmay/cphelper.nvim) - Helper for competitive programming written in Lua.
 - [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) [![GitHub stars](https://img.shields.io/github/stars/xeluxee/competitest.nvim?style=flat)](https://github.com/xeluxee/competitest.nvim/stargazers) - A plugin to automate testcases management and checking for Competitive Programming contests.
+- [FrancescoDerme/tuna.nvim](https://github.com/FrancescoDerme/tuna.nvim) [![GitHub stars](https://img.shields.io/github/stars/FrancescoDerme/tuna.nvim?style=flat)](https://github.com/FrancescoDerme/tuna.nvim/stargazers) - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) [![GitHub stars](https://img.shields.io/github/stars/kawre/leetcode.nvim?style=flat)](https://github.com/kawre/leetcode.nvim/stargazers) - Solve Leetcode problems.
 - [2KAbhishek/exercism.nvim](https://github.com/2KAbhishek/exercism.nvim) [![GitHub stars](https://img.shields.io/github/stars/2KAbhishek/exercism.nvim?style=flat)](https://github.com/2KAbhishek/exercism.nvim/stargazers) - Browse and solve Exercism problems.
 <!--lint disable double-link -->
@@ -1814,7 +1820,7 @@ then it is not supported:
 ### Stats Tracking
 
 - [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim) [![GitHub stars](https://img.shields.io/github/stars/aikhe/wrapped.nvim?style=flat)](https://github.com/aikhe/wrapped.nvim/stargazers) - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
-- [gisketch/triforce.nvim](https://github.com/gisketch/triforce.nvim) [![GitHub stars](https://img.shields.io/github/stars/gisketch/triforce.nvim?style=flat)](https://github.com/gisketch/triforce.nvim/stargazers) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+- [DrKJeff16/triforce.nvim](https://github.com/DrKJeff16/triforce.nvim) [![GitHub stars](https://img.shields.io/github/stars/DrKJeff16/triforce.nvim?style=flat)](https://github.com/DrKJeff16/triforce.nvim/stargazers) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 - [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim) [![GitHub stars](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim?style=flat)](https://github.com/QuentinGruber/pomodoro.nvim/stargazers) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 - [yal212/pomodoro.nvim](https://github.com/yal212/pomodoro.nvim) [![GitHub stars](https://img.shields.io/github/stars/yal212/pomodoro.nvim?style=flat)](https://github.com/yal212/pomodoro.nvim/stargazers) - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 - [raymondware/focusmode.nvim](https://github.com/raymondware/focusmode.nvim) [![GitHub stars](https://img.shields.io/github/stars/raymondware/focusmode.nvim?style=flat)](https://github.com/raymondware/focusmode.nvim/stargazers) - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
@@ -1960,6 +1966,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist](https://git
 - [Nvim.app](https://nvim.app) - A modern search interface for plugins with fuzzy search, filtering, and self-service updates for plugin authors.
 - [ChuYanLon/chad46](https://github.com/ChuYanLon/chad46) [![GitHub stars](https://img.shields.io/github/stars/ChuYanLon/chad46?style=flat)](https://github.com/ChuYanLon/chad46/stargazers) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 - [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
+- [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

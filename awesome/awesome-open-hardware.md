@@ -27,6 +27,7 @@
 ### Automation, Manufacturing, and Robotics
 
 * [FarmBot](https://farm.bot/pages/open-source) - Automated gardening machine to grow vegetables.
+* [Gearotons M17](https://github.com/tomrodinger/servomotor) [![GitHub stars](https://img.shields.io/github/stars/tomrodinger/servomotor?style=flat)](https://github.com/tomrodinger/servomotor/stargazers) - Integrated servomotor with the motor, driver, motion controller and encoder in one NEMA 17 body.
 * [Hacker Fab](https://docs.hackerfab.org/home) - Nanofabrication tools for making integrated circuits.
 * [JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) [![GitHub stars](https://img.shields.io/github/stars/nasa-jpl/open-source-rover?style=flat)](https://github.com/nasa-jpl/open-source-rover/stargazers) - A six wheeled, build-it-yourself, open-source rover.
 * [Mekanika](https://www.mekanika.io/) - Tools and machines for makers.
@@ -36,6 +37,7 @@
 * [Precious Plastic](https://www.preciousplastic.com/) - Tools to make plastic recycling as simple as possible.
 * [Prusa3D](https://www.prusa3d.com/) - 3D printer manufacturer who shares their work open online.
 * [RepRap](https://reprap.org/wiki/RepRap) - Humanity's first general-purpose, self-replicating manufacturing machine.
+* [SO-ARM 102](https://github.com/roboninecom/SO-ARM-102) [![GitHub stars](https://img.shields.io/github/stars/roboninecom/SO-ARM-102?style=flat)](https://github.com/roboninecom/SO-ARM-102/stargazers) - 3D-printable leader-follower robotic arm with a parallel gripper, open CAD files, a bill of materials, and assembly instructions.
 * [VORON Design](https://www.vorondesign.com/) - No-compromise 3D printer designs.
 * [WikiHouse](https://www.wikihouse.cc/) - Digital designed open housing.
 
@@ -49,6 +51,7 @@
 * [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) [![GitHub stars](https://img.shields.io/github/stars/GeiserX/PiSpot-Watch?style=flat)](https://github.com/GeiserX/PiSpot-Watch/stargazers) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
 * [Ploopy](https://ploopy.co/) - 3D-printable peripherals running the QMK firmware.
 * [SlimeVR](https://slimevr.dev) - Full-body tracking sensors for virtual reality and motion capture.
+* [Tiny Film Camera](https://github.com/SuveenE/tiny-film-camera) [![GitHub stars](https://img.shields.io/github/stars/SuveenE/tiny-film-camera?style=flat)](https://github.com/SuveenE/tiny-film-camera/stargazers) - Raspberry Pi Zero 2 W digital camera with physical controls, three selectable image filters, and a 3D-printable enclosure.
 * [Winterbloom](https://winterbloom.com) - Eurorack modules; Thea has some stellar design write-ups on her blog.
 
 ### Development Boards
@@ -144,6 +147,8 @@
 * [Thingiverse](https://www.thingiverse.com/) - A platform for sharing and contributing to design hardware for 3D printing, laser cutting and CNC milling.
 * [Kitspace.org](https://kitspace.org) - A place to build and share electronics projects. 
 * [BoardRepo](https://boardrepo.com) - Share KiCad and Altium projects as a link, with schematics, PCB views, BOM, and gerbers rendered in the browser.
+* [ICBOMS](https://icboms.com) - Open electronic component search engine, BOM management platform, and semiconductor distribution database.
+* [RoboPartPicker](https://robopartpicker.com) - Compiles bills of materials from open robotics projects and tracks parts sourcing, keeping unresolved and unpriced lines visible instead of dropping them.
 
 ## Podcasts
 
@@ -182,6 +187,7 @@
 * [Awesome Open Electronics](https://github.com/ajaymnk/open-electronics) [![GitHub stars](https://img.shields.io/github/stars/ajaymnk/open-electronics?style=flat)](https://github.com/ajaymnk/open-electronics/stargazers) - List with resources for Electronics Enthusiasts.
 * [Awesome Open](https://github.com/paulhendricks/awesome-open) [![GitHub stars](https://img.shields.io/github/stars/paulhendricks/awesome-open?style=flat)](https://github.com/paulhendricks/awesome-open/stargazers) - A list of open companies and communities.
 * [Awesome Electronics](https://github.com/kitspace/awesome-electronics) [![GitHub stars](https://img.shields.io/github/stars/kitspace/awesome-electronics?style=flat)](https://github.com/kitspace/awesome-electronics/stargazers) - A curated list of awesome resources for electronic engineers and hobbyists.
+* [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) [![GitHub stars](https://img.shields.io/github/stars/way2pramil/awesome-kicad-projects?style=flat)](https://github.com/way2pramil/awesome-kicad-projects/stargazers) - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 
 ## Contributing
 

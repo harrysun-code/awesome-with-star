@@ -169,6 +169,9 @@
 <!--lint ignore double-link-->
 - Oh Dash! - [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan) [![GitHub stars](https://img.shields.io/github/stars/arcadekenan?style=flat)](https://github.com/arcadekenan/stargazers)
 
+<!--lint ignore double-link-->
+- Taco Rain - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.tacorain), [iOS](https://apps.apple.com/us/app/taco-rain-catch-the-tacos/id6802783584) - A family catching game: steer a basket to catch falling tacos and dodge the bombs, across 50 levels in five worlds, with a daily challenge and an endless mode. By [Illumination Development](https://illuminationdevelopment.com)
+
 #### Board
 
 <!--lint ignore double-link-->
@@ -223,6 +226,8 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 - [Brick Breaker - Hexa](https://hexaapps.net/apps/brick-breaker) - [Android](https://play.google.com/store/apps/details?id=com.hexaapps.hexa_brick_breaker), [iOS](https://apps.apple.com/tr/app/brick-breaker-hexa/id6744274476) - Guide your paddle with precision to keep the ball in play as you destroy increasingly challenging brick formations. By [Hexa Apps](https://hexaapps.net/).
 
 - Upverse: Endless Jump - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.upverse) - Bounce from a sunny meadow into space and beyond. How high can you go? By [xeinebiu](https://github.com/xeinebiu) [![GitHub stars](https://img.shields.io/github/stars/xeinebiu?style=flat)](https://github.com/xeinebiu/stargazers)
+
+- Pimbli: Super Adventures - [Android](https://play.google.com/store/apps/details?id=com.xeinebiu.mousworld1) - Run, jump and explore four worlds with Pimbli, a little hero on a big journey. By [xeinebiu](https://github.com/xeinebiu) [![GitHub stars](https://img.shields.io/github/stars/xeinebiu?style=flat)](https://github.com/xeinebiu/stargazers)
 
 
 #### Educational

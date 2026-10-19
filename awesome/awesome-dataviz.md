@@ -393,6 +393,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 - [Leaflet for R](https://github.com/rstudio/leaflet) [![GitHub stars](https://img.shields.io/github/stars/rstudio/leaflet?style=flat)](https://github.com/rstudio/leaflet/stargazers) - R interface to the Leaflet JavaScript library for interactive maps.
 - [patchwork](https://github.com/thomasp85/patchwork) [![GitHub stars](https://img.shields.io/github/stars/thomasp85/patchwork?style=flat)](https://github.com/thomasp85/patchwork/stargazers) - Composes multiple ggplot2 plots into a single figure.
 - [plotly](https://github.com/plotly/plotly.R) [![GitHub stars](https://img.shields.io/github/stars/plotly/plotly.R?style=flat)](https://github.com/plotly/plotly.R/stargazers) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
+- [r2d3](https://github.com/rstudio/r2d3) [![GitHub stars](https://img.shields.io/github/stars/rstudio/r2d3?style=flat)](https://github.com/rstudio/r2d3/stargazers) - Renders custom D3.js visualizations from R, in RStudio, R Markdown and Shiny.
 - [rayshader](https://github.com/tylermorganwall/rayshader) [![GitHub stars](https://img.shields.io/github/stars/tylermorganwall/rayshader?style=flat)](https://github.com/tylermorganwall/rayshader/stargazers) - 2D and 3D mapping and data visualization in R, including 3D renders of ggplot2 plots.
 - [rbokeh](https://hafen.github.io/rbokeh/) - R Interface to Bokeh.
 - [rgl](https://cran.r-project.org/web/packages/rgl/index.html) - 3D Visualization Using OpenGL
@@ -541,9 +542,10 @@ Thanks for your suggestions!
 
 # Contributors
 
-- Fabio Souto originally createad this repo, connect with Fabio at [fabiosouto.me](https://fabiosouto.me/).
+- [Fabio Souto](https://fabiosouto.me/) originally created this repo.
 - [Javier Luraschi](https://github.com/javierluraschi) [![GitHub stars](https://img.shields.io/github/stars/javierluraschi?style=flat)](https://github.com/javierluraschi/stargazers) is the current maintainer.
 - [Hal9](https://hal9.com) is the corporate sponsor.
+- [Cloudish](https://cloudish.ai) hosts [awesomedataviz.com](https://awesomedataviz.com).
 
 # License
 

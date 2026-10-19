@@ -939,6 +939,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Drift](https://github.com/imgix/drift) [![GitHub stars](https://img.shields.io/github/stars/imgix/drift?style=flat)](https://github.com/imgix/drift/stargazers) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
  * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) [![GitHub stars](https://img.shields.io/github/stars/AndersDJohnson/magnificent.js?style=flat)](https://github.com/AndersDJohnson/magnificent.js/stargazers) - Zoom responsively, images & more, w/ jQuery.
  * [Panolens.js](https://github.com/pchen66/panolens.js) [![GitHub stars](https://img.shields.io/github/stars/pchen66/panolens.js?style=flat)](https://github.com/pchen66/panolens.js/stargazers) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+ * [SnapDOM](https://github.com/zumerlab/snapdom) [![GitHub stars](https://img.shields.io/github/stars/zumerlab/snapdom?style=flat)](https://github.com/zumerlab/snapdom/stargazers) - Fast, dependency-free DOM to image capture (PNG, JPG, WebP, SVG) with PDF and vector SVG plugins.
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) [![GitHub stars](https://img.shields.io/github/stars/hammerjs/hammer.js?style=flat)](https://github.com/hammerjs/hammer.js/stargazers) - A JavaScript library for multi-touch gestures.
@@ -1048,6 +1049,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) [![GitHub stars](https://img.shields.io/github/stars/square/connect-nodejs-sdk/?style=flat)](https://github.com/square/connect-nodejs-sdk//stargazers) - JavaScript client library for payments and other Square APIs.
 * [OpenAI SDK](https://github.com/openai/openai-node) [![GitHub stars](https://img.shields.io/github/stars/openai/openai-node?style=flat)](https://github.com/openai/openai-node/stargazers) - Official JavaScript / TypeScript library for the OpenAI API.
 * [Stripe Node.js SDK](https://github.com/stripe/stripe-node) [![GitHub stars](https://img.shields.io/github/stars/stripe/stripe-node?style=flat)](https://github.com/stripe/stripe-node/stargazers) - Stripe Node.js SDK lets you integrate payments, subscriptions, and billing into your JavaScript/TypeScript apps.
+* [Social SDK](https://github.com/opencoredev/social-sdk) [![GitHub stars](https://img.shields.io/github/stars/opencoredev/social-sdk?style=flat)](https://github.com/opencoredev/social-sdk/stargazers) - Typed JavaScript and TypeScript client for posting and reading across social platforms on Node.js and Bun.
 
 ## Full Text Search
 

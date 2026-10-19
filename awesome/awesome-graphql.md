@@ -369,7 +369,6 @@
 
 #### Java Examples
 
-- [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql) [![GitHub stars](https://img.shields.io/github/stars/networknt/light-example-4j/tree/master/graphql?style=flat)](https://github.com/networknt/light-example-4j/tree/master/graphql/stargazers) - Examples of Light Java GraphQL and tutorials.
 - [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) [![GitHub stars](https://img.shields.io/github/stars/leangen/graphql-spqr-samples?style=flat)](https://github.com/leangen/graphql-spqr-samples/stargazers) - An example GraphQL server written with Spring MVC and GraphQL-SPQR.
 - [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) [![GitHub stars](https://img.shields.io/github/stars/manifold-systems/manifold-sample-graphql-app?style=flat)](https://github.com/manifold-systems/manifold-sample-graphql-app/stargazers) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) [![GitHub stars](https://img.shields.io/github/stars/graphql-java-kickstart/samples?style=flat)](https://github.com/graphql-java-kickstart/samples/stargazers) - Samples for using the GraphQL Java Kickstart projects.
@@ -676,6 +675,8 @@
 - [json-graphql-server](https://github.com/marmelab/json-graphql-server) [![GitHub stars](https://img.shields.io/github/stars/marmelab/json-graphql-server?style=flat)](https://github.com/marmelab/json-graphql-server/stargazers) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) [![GitHub stars](https://img.shields.io/github/stars/alexstrat/supertest-graphql?style=flat)](https://github.com/alexstrat/supertest-graphql/stargazers) - Extends supertest to easily test a GraphQL endpoint.
 - [schemathesis](https://github.com/schemathesis/schemathesis) [![GitHub stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=flat)](https://github.com/schemathesis/schemathesis/stargazers) - Runs arbitrary queries matching a GraphQL schema to find server errors.
+- [fieldtwin](https://nickgeorgeai.com/fieldtwin) - Local, stateful twin of the Jobber GraphQL API, with its documented query costs, throttling, and webhooks, for testing integrations and AI agents.
+- [MockForge](https://github.com/SaaSy-Solutions/mockforge) [![GitHub stars](https://img.shields.io/github/stars/SaaSy-Solutions/mockforge?style=flat)](https://github.com/SaaSy-Solutions/mockforge/stargazers) - Open-source mock server that serves a GraphQL API from an SDL schema with generated data, alongside REST, gRPC, WebSocket, and Kafka mocks.
 
 <a name="tool-security" />
 

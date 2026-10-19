@@ -1118,7 +1118,8 @@ Another awesome book for learning Web Development in Golang.
 
 ## Related Lists
 
-- [Dev Books](https://github.com/devtoolsd/DevBooks) [![GitHub stars](https://img.shields.io/github/stars/devtoolsd/DevBooks?style=flat)](https://github.com/devtoolsd/DevBooks/stargazers) – A collection of development and programming books  
+- [Dev Books](https://github.com/devtoolsd/DevBooks) [![GitHub stars](https://img.shields.io/github/stars/devtoolsd/DevBooks?style=flat)](https://github.com/devtoolsd/DevBooks/stargazers) – A collection of development and programming books
+- [TypeScript Books](https://github.com/tscollege/typescript-books) [![GitHub stars](https://img.shields.io/github/stars/tscollege/typescript-books?style=flat)](https://github.com/tscollege/typescript-books/stargazers) - A curated, hand-picked list of the best TypeScript books for learning TypeScript.
 - [JavaScript Books](https://github.com/minouou/jsbooks) [![GitHub stars](https://img.shields.io/github/stars/minouou/jsbooks?style=flat)](https://github.com/minouou/jsbooks/stargazers) – A collection of books and learning resources for JavaScript  
 - [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) [![GitHub stars](https://img.shields.io/github/stars/sara8086/PostgresBooks?style=flat)](https://github.com/sara8086/PostgresBooks/stargazers) – A curated list of books and guides for PostgreSQL  
 - [Python Books](https://github.com/lara-west/PythonBooks) [![GitHub stars](https://img.shields.io/github/stars/lara-west/PythonBooks?style=flat)](https://github.com/lara-west/PythonBooks/stargazers) – A comprehensive list of Python books and tutorials

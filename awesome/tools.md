@@ -20,22 +20,17 @@
 
 ### Response
 
-* [Responsinator](http://www.responsinator.com/)
-* [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Media Queri](http://mediaqueri.es/)
 * [Screensiz](http://screensiz.es/phone)
 * [Sizzy](http://sizzy.co)
 * [Polypane](http://polypane.rocks)
+* [Responsive Tool](https://responsivetool.com)
+* [CurlShot Mobile Screenshot](https://curlshot.com/tools/mobile-screenshot) - Screenshot any page as it renders on a phone or tablet (screen size, pixel density, mobile user agent), no account needed.
 
 ### Placeholder
 
-* [placehold.it](https://place-hold.it/)
 * [temp.im](http://temp.im/)
-* [lorempixel](http://lorempixel.com/)
 * [dummyimage](http://dummyimage.com/)
-* [placekitten](http://placekitten.com/)
-* [unsplash](https://source.unsplash.com/)
-* [smalldev.tools - placeholder](https://smalldev.tools/placeholder-image-generator-online)
 
 ### Favicon
 
@@ -47,21 +42,18 @@
 * [favicomatic](http://www.favicomatic.com/)
 * [RealFaviconGenerator](https://realfavicongenerator.net/)
 * [favicon.io](https://favicon.io/)
+* [Toolio.it - Favicon generator](https://toolio.it/genera-favicon/) - Free favicon generator, converts an image into all standard favicon sizes.
+* [Mzu FaviconDL](https://favicondl.com/)
 
 ### CDN
 
 * [staticfile](http://www.staticfile.org/)
 * [bootcss cdn](http://www.bootcdn.cn/)
-* [cdnjs.cn](http://www.cdnjs.cn/)
 * [cdnjs](https://cdnjs.com/)
 * [upai](http://jscdn.upai.com/)
-* [Baidu cdn](http://cdn.code.baidu.com/)
-* [360 cdn](http://libs.useso.com/)
 * [jquery cdn](http://code.jquery.com/)
-* [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
 * [statically](https://statically.io/)
-* [pagecdn](https://pagecdn.com/lib)
 
 ### CSS
 
@@ -72,7 +64,6 @@
 * [cssBeutify](http://tool.lu/css/)
 * [css spritegen](http://spritegen.website-performance.org/)
 * [csssprites](http://csssprites.com/)
-* [sassme](http://sassme.arc90.com/)
 * [css Should I Prefix](http://shouldiprefix.com/)
 * [CSS Unit Converter](https://cssunitconverter.com/)
 
@@ -86,6 +77,8 @@
 * [Shrinkray](https://shrinkray.io)
 * [Trimage](https://trimage.org)
 * [Compress-Or-Die](https://compress-or-die.com/)
+* [BulkPicTools](https://bulkpictools.com/)
+* [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
 
 ### JavaScript
 
@@ -93,17 +86,15 @@
 * [jsbeautifier](http://jsbeautifier.org/)
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
-* [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
-* [Flatlogic CRUD Apps Generator](https://flatlogic)
+* [Flatlogic CRUD Apps Generator](https://flatlogic.com/generator)
 * [dhtmlx javascript components](https://dhtmlx.com/docs/products/)
 
 ### Pagespeed
 
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
-* [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
-* [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
 * [GTmetrix](https://gtmetrix.com/)
+* [Redirect Checker](https://redirect-checker.autocompany.workers.dev/) - Analyze HTTP redirect chains and measure performance impact
 
 ### Color
 
@@ -118,11 +109,10 @@
 * [krmp.cc](https://github.com/dadleyy/krmp.cc) [![GitHub stars](https://img.shields.io/github/stars/dadleyy/krmp.cc?style=flat)](https://github.com/dadleyy/krmp.cc/stargazers)
 * [Image Color Picker](https://image-color.com)
 * [Respresso](https://respresso.io/)
-* [Branding Colors](https://branition.com/colors)
 
 ### Font
 
-* [Google Fonts](https://www.google.com/fonts)
+* [Google Fonts](https://fonts.google.com/)
 * [Adobe Fonts](https://fonts.adobe.com/)
 * [dafont](http://www.dafont.com/)
 * [youziku](http://www.youziku.com/)
@@ -132,8 +122,6 @@
 * [justfont](http://www.justfont.com/)
 * [iconpark](https://github.com/lvwzhen/iconpark) [![GitHub stars](https://img.shields.io/github/stars/lvwzhen/iconpark?style=flat)](https://github.com/lvwzhen/iconpark/stargazers)
 * [FontSquirrel](http://www.fontsquirrel.com/)
-* [Fontface Ninja](http://fontface.ninja/)
-* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 * [Respresso](https://respresso.io/)
 * [Brick](https://brick.im/)
 
@@ -161,7 +149,6 @@
 * [GitHub](https://github.com/)
 * [Bitbucket](https://bitbucket.org/)
 * [GitLab](https://about.gitlab.com/)
-* [GitCafe](https://gitcafe.com/)
 * [Git@OSC](http://git.oschina.net/)
 
 ### webpack
@@ -172,7 +159,6 @@
 
 * [CodePen](https://codepen.io/)
 * [CodeSandbox](https://codesandbox.io/)
-* [Glitch](https://glitch.com/)
 * [JSFiddle](https://jsfiddle.net/)
 * [JS BIN](http://jsbin.com/)
 * [Dabblet](http://dabblet.com/)
@@ -192,10 +178,19 @@
 * [Windframe](https://www.devwares.com/windframe/)
 
 ### Tools collection
-* [SmallDev.tools](https://smalldev.tools/)
-* * [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
+* [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 * [WebToolkit Pro](https://wtkpro.site/)
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
+* [Facecam free tools](https://www.facecam.ai/tools) - Free browser webcam test, mic test, soundboard and voice changer, no sign-up.
+* [IPCalcPlus](https://ipcalcplus.com/)
+* [Toolio.it](https://toolio.it/) - Free hub of 155+ Italian web tools: calculators, unit/file converters, QR code and password generators, text utilities — no sign-up, mostly client-side.
+* [JieBang Tools](https://www.jiebang.site/) - 170+ free online tools for developers — JSON formatter, Base64 encoder, QR code generator, and more. All client-side, no signup required.
+* [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Free, no-signup checker for robots.txt, page-level crawler directives, and ChatGPT and Claude crawler access responses.
+* [SheetRender](https://sheetrender.com/tools) - Free browser-based PDF tools to merge and split PDFs, extract pages, and split mail merge PDFs.
+* [DevBox Tools](https://devbox.tools/)
+* [Mello](https://mello.tools/)
+* [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers
+* [MiniToolDesk](https://minitooldesk.com) - 100% client-side private developer toolbox with zero ads, native Web Crypto, AI prompt data sanitizer, and code generation matrix.
 

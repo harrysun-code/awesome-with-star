@@ -21,14 +21,11 @@ A curated list of fonts and typography resources.
 
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
-* [FontAlternatives](https://fontalternatives.com/) - Free alternatives to premium fonts with visual comparisons
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
-* [Gulim](https://gulim.andrew-ai.app/) - AI-powered font recommendation engine with mood-based search for Korean and global fonts, cross-script pairing, and CSS code generation
-* [FontVibe](https://fontvibe.ai) - AI text effect generator with 100+ styles (neon, glitch, 3D, bubble, cyberpunk). Create visual typography effects and download as transparent PNG.
-* [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
-* [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
+* [font-contrast](https://github.com/ayaanahad/font-contrast) [![GitHub stars](https://img.shields.io/github/stars/ayaanahad/font-contrast?style=flat)](https://github.com/ayaanahad/font-contrast/stargazers) - Measured x-height, cap height and real advance width for 54 open-source families, read from the font binaries. CC0 dataset.
 * [Typewolf](https://www.typewolf.com/)
+* [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) [![GitHub stars](https://img.shields.io/github/stars/whatfontis/WhatFontIs-Bench?style=flat)](https://github.com/whatfontis/WhatFontIs-Bench/stargazers) - Open benchmark dataset for font identification: 11,995 images of words set in 600 known fonts on real surfaces and scenes
 
 ## Free fonts
 
@@ -66,10 +63,10 @@ A curated list of fonts and typography resources.
 * [Martian Mono](https://github.com/evilmartians/mono) [![GitHub stars](https://img.shields.io/github/stars/evilmartians/mono?style=flat)](https://github.com/evilmartians/mono/stargazers) - Free and open-source monospaced font from Evil Martians
 * [Monaspace](https://github.com/githubnext/monaspace) [![GitHub stars](https://img.shields.io/github/stars/githubnext/monaspace?style=flat)](https://github.com/githubnext/monaspace/stargazers) - An innovative superfamily of fonts for code
 * [Open Baskerville](http://klepas.org/openbaskerville/)
-* [Optician Sans](https://optician-sans.com) - A free font based on the historical eye charts and optotypes used by opticians world wide
 * [Redacted](https://github.com/christiannaths/Redacted-Font) [![GitHub stars](https://img.shields.io/github/stars/christiannaths/Redacted-Font?style=flat)](https://github.com/christiannaths/Redacted-Font/stargazers) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans) [![GitHub stars](https://img.shields.io/github/stars/RoelN/SansBullshitSans?style=flat)](https://github.com/RoelN/SansBullshitSans/stargazers)
 * [Urbanist](https://github.com/coreyhu/Urbanist) [![GitHub stars](https://img.shields.io/github/stars/coreyhu/Urbanist?style=flat)](https://github.com/coreyhu/Urbanist/stargazers) - Geometric sans-serif variable font
+* [Vigil](https://github.com/vigilantkeno/vigilfont) [![GitHub stars](https://img.shields.io/github/stars/vigilantkeno/vigilfont?style=flat)](https://github.com/vigilantkeno/vigilfont/stargazers) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans) [![GitHub stars](https://img.shields.io/github/stars/weiweihuanghuang/Work-Sans?style=flat)](https://github.com/weiweihuanghuang/Work-Sans/stargazers)
 
 
@@ -108,7 +105,6 @@ A curated list of fonts and typography resources.
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) [![GitHub stars](https://img.shields.io/github/stars/sariina/appa-sariicon?style=flat)](https://github.com/sariina/appa-sariicon/stargazers) - 147 8-bit retro style webfont icons form web and mobile
 * [Country Icons](https://github.com/lipis/flag-icon-css) [![GitHub stars](https://img.shields.io/github/stars/lipis/flag-icon-css?style=flat)](https://github.com/lipis/flag-icon-css/stargazers) - A collection of all country flags in SVG and CSS
 * [Crypto animal font](https://github.com/ariassd/crypto-animal-font) [![GitHub stars](https://img.shields.io/github/stars/ariassd/crypto-animal-font?style=flat)](https://github.com/ariassd/crypto-animal-font/stargazers) - This font translates alphabet characters into symbols. The english ordered version uses animals matching the first letter of their name.
-* [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom](https://github.com/FontCustom/fontcustom) [![GitHub stars](https://img.shields.io/github/stars/FontCustom/fontcustom?style=flat)](https://github.com/FontCustom/fontcustom/stargazers) - Icon font generator
 * [Font-Awesome](https://fontawesome.com) - The iconic font and CSS toolkit
 * [font-mfizz](https://github.com/fizzed/font-mfizz) [![GitHub stars](https://img.shields.io/github/stars/fizzed/font-mfizz?style=flat)](https://github.com/fizzed/font-mfizz/stargazers) - Vector Icons for Technology and Software Geeks
@@ -219,4 +215,4 @@ A curated list of fonts and typography resources.
 
 ## Contribution
 
-Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md) [![GitHub stars](https://img.shields.io/github/stars/willianjusten/awesome-svg/blob/master/contributing.md?style=flat)](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md/stargazers).
+Feel free to make a pull request. Please read the [contribution guidelines](CONTRIBUTING.md) first.

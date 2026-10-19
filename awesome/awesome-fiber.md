@@ -145,6 +145,7 @@ List of middlewares that are created by the Fiber community.
 - [narmadaweb/limiter](https://github.com/narmadaweb/limiter) [![GitHub stars](https://img.shields.io/github/stars/narmadaweb/limiter?style=flat)](https://github.com/narmadaweb/limiter/stargazers) - A high-performance Redis-backed rate limiter middleware for Fiber, supporting fixed window, sliding window, and token bucket algorithms.
 - [narmadaweb/gonify](https://github.com/narmadaweb/gonify) [![GitHub stars](https://img.shields.io/github/stars/narmadaweb/gonify?style=flat)](https://github.com/narmadaweb/gonify/stargazers) - Fiber Minifying middleware for HTML5, CSS3, JavaScript, Json, XML and SVG.
 - [oaswrap/fiberopenapi](https://github.com/oaswrap/spec/tree/main/adapter/fiberopenapi) [![GitHub stars](https://img.shields.io/github/stars/oaswrap/spec/tree/main/adapter/fiberopenapi?style=flat)](https://github.com/oaswrap/spec/tree/main/adapter/fiberopenapi/stargazers) - Fiber adapter for OpenAPI 3.x specification generation with automatic route documentation.
+- [Guard-Core/fiber-guard](https://github.com/Guard-Core/fiber-guard) [![GitHub stars](https://img.shields.io/github/stars/Guard-Core/fiber-guard?style=flat)](https://github.com/Guard-Core/fiber-guard/stargazers) - Security middleware for Fiber with IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ## 🚧 Boilerplates
 

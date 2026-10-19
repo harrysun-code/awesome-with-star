@@ -181,7 +181,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [lazylora](https://github.com/aorumbayev/lazylora) [![GitHub stars](https://img.shields.io/github/stars/aorumbayev/lazylora?style=flat)](https://github.com/aorumbayev/lazylora/stargazers) - Terminal UI for exploring Algorand blockchain.
 - [minter](https://github.com/algofishexe/minter) [![GitHub stars](https://img.shields.io/github/stars/algofishexe/minter?style=flat)](https://github.com/algofishexe/minter/stargazers) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
 - [Pipeline-UI](https://github.com/headline-design/pipeline-ui) [![GitHub stars](https://img.shields.io/github/stars/headline-design/pipeline-ui?style=flat)](https://github.com/headline-design/pipeline-ui/stargazers) - A React.js based component library for rapid deployment of Algorand Dapps.
-- [QRCode Generator](https://github.com/emg110/algorand-qrcode) [![GitHub stars](https://img.shields.io/github/stars/emg110/algorand-qrcode?style=flat)](https://github.com/emg110/algorand-qrcode/stargazers) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
+- [QRCode Generator](https://github.com/emg110/algorand-qrcode) [![GitHub stars](https://img.shields.io/github/stars/emg110/algorand-qrcode?style=flat)](https://github.com/emg110/algorand-qrcode/stargazers) - Universal QRCode generator module for Algorand ARC-26 URIs.
 - [Sign Zero](https://sign-zero.vercel.app/) - Lightweight demo app exploring authentication and signing flows.
 - [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) [![GitHub stars](https://img.shields.io/github/stars/hodgerpodger/staketaxcsv?style=flat)](https://github.com/hodgerpodger/staketaxcsv/stargazers) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
 - [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
@@ -416,7 +416,7 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 
 > A list of oracle solutions that allow for smart contracts to interact with the real world.
 
-- [Gora](https://www.gora.io/) - Decentralized oracle networks that connect the Algorand Blockchain with the real world.
+- [Gora](https://goranetwork.github.io/doc/) - Decentralized oracle networks that connect the Algorand Blockchain with the real world.
 
 
 ### Security Auditing Services

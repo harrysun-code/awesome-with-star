@@ -43,7 +43,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
-- [ImageMagick](https://imagemagick.org/script/index.php)
+- [ImageMagick](https://imagemagick.org/)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - Usually faster than ImageMagick.
 - [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
@@ -67,9 +67,9 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Gif-h](https://github.com/charlietangora/gif-h) [![GitHub stars](https://img.shields.io/github/stars/charlietangora/gif-h?style=flat)](https://github.com/charlietangora/gif-h/stargazers) - C++ one-header library for the creation of animated GIFs.
 - [msf_gif](https://github.com/notnullnotvoid/msf_gif) [![GitHub stars](https://img.shields.io/github/stars/notnullnotvoid/msf_gif?style=flat)](https://github.com/notnullnotvoid/msf_gif/stargazers) - C/C++ single-header library for creating animated GIFs.
 
-<h3 id="c-sharp">C#</h2>
+<h3 id="c-sharp">C#</h3>
 
-- [dot-screencap](https://github.com/Speiser/dot-screencap) [![GitHub stars](https://img.shields.io/github/stars/Speiser/dot-screencap?style=flat)](https://github.com/Speiser/dot-screencap/stargazers) - A simple libary to record your screen and save it as animated GIF.
+- [dot-screencap](https://github.com/Speiser/dot-screencap) [![GitHub stars](https://img.shields.io/github/stars/Speiser/dot-screencap?style=flat)](https://github.com/Speiser/dot-screencap/stargazers) - A simple library to record your screen and save it as animated GIF.
 - [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) [![GitHub stars](https://img.shields.io/github/stars/XamlAnimatedGif/WpfAnimatedGif?style=flat)](https://github.com/XamlAnimatedGif/WpfAnimatedGif/stargazers) - A simple library to display animated GIF images in WPF.
 - [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) [![GitHub stars](https://img.shields.io/github/stars/XamlAnimatedGif/XamlAnimatedGif?style=flat)](https://github.com/XamlAnimatedGif/XamlAnimatedGif/stargazers) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 - [AnimatedGif](https://github.com/mrousavy/AnimatedGif) [![GitHub stars](https://img.shields.io/github/stars/mrousavy/AnimatedGif?style=flat)](https://github.com/mrousavy/AnimatedGif/stargazers) - A high performance .NET library for reading and creating animated GIFs.
@@ -120,8 +120,6 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
-- [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs.
-- [GIF Frame Extractor](https://giftoframes.org/) - Convert animated GIFs into individual frames online.
 
 ## Community
 
@@ -301,8 +299,8 @@ yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 The best ways to use this list are:
 
-- By browing the [contents](#contents).
-- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+- By browsing the [contents](#contents).
+- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents.
 
 ## Credits
 

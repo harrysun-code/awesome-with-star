@@ -24,8 +24,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [Blogs](#blogs)
 - [Workshops](#workshops)
 - [Cloud and Docker Solutions](#cloud-and-docker-solutions)
+- [Cloud](#cloud)
 - [Git Books](#git-books)
 - [Test Frameworks](#test-frameworks)
+- [Sample Apps for Practice](#sample-apps-for-practice)
 - [Community](#community)
 - [Tips](#tips)
 
@@ -201,6 +203,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [Appium Docker File](https://github.com/softsam/docker-appium) [![GitHub stars](https://img.shields.io/github/stars/softsam/docker-appium?style=flat)](https://github.com/softsam/docker-appium/stargazers) - DockerFile for Appium Android.
 - [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
 
+## Cloud
+- [TestMu AI](https://www.testmuai.com/lambdatest-appium/) - AI-native cloud testing platform (formerly LambdaTest), run Appium tests in parallel on real Android and iOS devices.
+
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma.
@@ -212,6 +217,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitHub sta
 - [Optimus](https://github.com/testvagrant/optimusTemplate) [![GitHub stars](https://img.shields.io/github/stars/testvagrant/optimusTemplate?style=flat)](https://github.com/testvagrant/optimusTemplate/stargazers) - Cucumber based Mobile Automation Framework, which supports test parallelization.
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) [![GitHub stars](https://img.shields.io/github/stars/saikrishna321/PageObjectPatternAppium?style=flat)](https://github.com/saikrishna321/PageObjectPatternAppium/stargazers) - Sample Page Object Pattern Framework to use directly.
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) [![GitHub stars](https://img.shields.io/github/stars/saikrishna321/AppiumTestDistribution?style=flat)](https://github.com/saikrishna321/AppiumTestDistribution/stargazers) - Run appium tests in parallel across iOS and Android devices.
+- [zosma-qa](https://github.com/zosmaai/zosma-qa) [![GitHub stars](https://img.shields.io/github/stars/zosmaai/zosma-qa?style=flat)](https://github.com/zosmaai/zosma-qa/stargazers) - Unified QA platform with one CLI for Appium mobile testing, Playwright web E2E, and k6 load tests — includes zero-config scaffolding, WebdriverIO test helpers, and AI agents that autonomously plan, generate, and self-heal your test suites.
+
+## Sample Apps for Practice
+
+Real world style mobile apps designed as practice surfaces for learning Appium and other mobile automation tools.
+
+- [FrontRow](https://github.com/majdukovic/frontrow) [![GitHub stars](https://img.shields.io/github/stars/majdukovic/frontrow?style=flat)](https://github.com/majdukovic/frontrow/stargazers) - Open source React Native concert ticketing app built specifically as a QA automation training surface. Ships Appium WebdriverIO and TypeScript scaffolds with full WDIO configs for iOS and Android, smoke and login specs, and a central testID registry that maps to accessibility identifiers on both platforms. Includes a QA Debug Menu with force error modes, time travel, and deterministic IAP outcomes for practising failure mode testing.
 
 ## Community
 - [Discuss](https://discuss.appium.io)
