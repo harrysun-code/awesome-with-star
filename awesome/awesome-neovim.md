@@ -383,6 +383,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [tednguyendev/recent_rails.nvim](https://github.com/tednguyendev/recent_rails.nvim) [![GitHub stars](https://img.shields.io/github/stars/tednguyendev/recent_rails.nvim?style=flat)](https://github.com/tednguyendev/recent_rails.nvim/stargazers) - Telescope picker for recent Rails actions, views, and errors.
 - [ankushbhagats/liveserver.nvim](https://github.com/ankushbhagats/liveserver.nvim) [![GitHub stars](https://img.shields.io/github/stars/ankushbhagats/liveserver.nvim?style=flat)](https://github.com/ankushbhagats/liveserver.nvim/stargazers) - Live-server integration with smart commands and a clickable lualine toggle.
 - [harukikuri/viteenv.nvim](https://github.com/harukikuri/viteenv.nvim) [![GitHub stars](https://img.shields.io/github/stars/harukikuri/viteenv.nvim?style=flat)](https://github.com/harukikuri/viteenv.nvim/stargazers) - Shows the effective value of `import.meta.env` variables inline per mode, resolved by your project's own `Vite`.
+- [mcp1766/stylepeek.nvim](https://github.com/mcp1766/stylepeek.nvim) [![GitHub stars](https://img.shields.io/github/stars/mcp1766/stylepeek.nvim?style=flat)](https://github.com/mcp1766/stylepeek.nvim/stargazers) - Browse, preview and manage CSS rules.
 
 ### Markdown and LaTeX
 
@@ -977,6 +978,7 @@ then it is not supported:
 - [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim) [![GitHub stars](https://img.shields.io/github/stars/Kurama622/profile.nvim?style=flat)](https://github.com/Kurama622/profile.nvim/stargazers) - A dashboard, similar to GitHub homepage.
 - [leo-alvarenga/homecoming.nvim](https://github.com/leo-alvarenga/homecoming.nvim) [![GitHub stars](https://img.shields.io/github/stars/leo-alvarenga/homecoming.nvim?style=flat)](https://github.com/leo-alvarenga/homecoming.nvim/stargazers) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 - [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim) [![GitHub stars](https://img.shields.io/github/stars/Amansingh-afk/milli.nvim?style=flat)](https://github.com/Amansingh-afk/milli.nvim/stargazers) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
+- [zdcthomas/sprout.nvim](https://github.com/zdcthomas/sprout.nvim) [![GitHub stars](https://img.shields.io/github/stars/zdcthomas/sprout.nvim?style=flat)](https://github.com/zdcthomas/sprout.nvim/stargazers) - An ASCII art bonsai for your start screen that grows as the day goes forward.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1397,6 +1399,7 @@ then it is not supported:
 - [chojs23/ec](https://github.com/chojs23/ec) [![GitHub stars](https://img.shields.io/github/stars/chojs23/ec?style=flat)](https://github.com/chojs23/ec/stargazers) - A TUI native Git mergetool with 3 panes.
 - [harrisoncramer/GitLab.nvim](https://github.com/harrisoncramer/GitLab.nvim) [![GitHub stars](https://img.shields.io/github/stars/harrisoncramer/GitLab.nvim?style=flat)](https://github.com/harrisoncramer/GitLab.nvim/stargazers) - Review pull requests and manage other GitLab resources.
 - [mm4cN/nvim-gitlab](https://github.com/mm4cN/nvim-gitlab) [![GitHub stars](https://img.shields.io/github/stars/mm4cN/nvim-gitlab?style=flat)](https://github.com/mm4cN/nvim-gitlab/stargazers) - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
+- [ryutaro-asada/partial-diff.nvim](https://github.com/ryutaro-asada/partial-diff.nvim) [![GitHub stars](https://img.shields.io/github/stars/ryutaro-asada/partial-diff.nvim?style=flat)](https://github.com/ryutaro-asada/partial-diff.nvim/stargazers) - Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm.
 
 ### GitHub
 

@@ -86,6 +86,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Patzer](https://github.com/SikamikanikoBG/patzer) [![GitHub stars](https://img.shields.io/github/stars/SikamikanikoBG/patzer?style=flat)](https://github.com/SikamikanikoBG/patzer/stargazers) - Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.
 - [Parlour](https://github.com/braedonsaunders/parlour) [![GitHub stars](https://img.shields.io/github/stars/braedonsaunders/parlour?style=flat)](https://github.com/braedonsaunders/parlour/stargazers) - Deterministic TypeScript card-game engine with a cozy browser table for Blitz and Wild.
 - [Pip](https://github.com/playpip/pip-web) [![GitHub stars](https://img.shields.io/github/stars/playpip/pip-web?style=flat)](https://github.com/playpip/pip-web/stargazers) - Single-player Texas Hold'em against AI opponents with distinct playing styles. Play money only. Runs in the browser, installs as a PWA and works offline. Built with Next.js and TypeScript.
+- [PlayHex](https://github.com/playhex/playhex) [![GitHub stars](https://img.shields.io/github/stars/playhex/playhex?style=flat)](https://github.com/playhex/playhex/stargazers) - Online Hex board game with real-time and correspondence play, AI opponents, rated games, puzzles and game analysis. Built with TypeScript and Vue.
 - [Wolfcha](https://github.com/oil-oil/wolfcha) [![GitHub stars](https://img.shields.io/github/stars/oil-oil/wolfcha?style=flat)](https://github.com/oil-oil/wolfcha/stargazers) - AI-powered Werewolf (Mafia) social deduction game where every player is controlled by top LLMs. Built with Next.js and TypeScript.
 
 
@@ -191,6 +192,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Blk Game](https://github.com/morozd/blk-game) [![GitHub stars](https://img.shields.io/github/stars/morozd/blk-game?style=flat)](https://github.com/morozd/blk-game/stargazers) - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 - [Cube Engine](https://github.com/Nurgak/Cube-engine) [![GitHub stars](https://img.shields.io/github/stars/Nurgak/Cube-engine?style=flat)](https://github.com/Nurgak/Cube-engine/stargazers) - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
 - [Sandboxels](https://github.com/R74nCom/sandboxels) [![GitHub stars](https://img.shields.io/github/stars/R74nCom/sandboxels?style=flat)](https://github.com/R74nCom/sandboxels/stargazers) - Falling-sand experimentation game with over 500 materials to play with.
+- [The Human Box](https://github.com/1homsi/thehumanbox) [![GitHub stars](https://img.shields.io/github/stars/1homsi/thehumanbox?style=flat)](https://github.com/1homsi/thehumanbox/stargazers) - Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.
 
 ### Puzzle
 

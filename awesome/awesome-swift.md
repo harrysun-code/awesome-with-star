@@ -16,7 +16,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1107 | August 03, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1117 | October 25, 2026 |
 
 In parternship with:
 
@@ -177,6 +177,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [Open Source Updates for Swift Projects](https://ossp-updates.beehiiv.com/) - A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.
+* [The iOS Weekly Brief](https://iosweeklybrief.com) - A weekly newsletter with Must/Quick Read picks, a Toolbox section, the iOS job market, and upcoming conferences, each with commentary on why it matters.
 
 ### Official Guides
 [back to top](#readme) 
@@ -204,8 +205,9 @@ In parternship with:
 * [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Stanford course by Paul Hegarty.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.
 * [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.kodeco.com) - High quality programming tutorials.
-* [Swift & SwiftUI Tutorials](http://ww1.janeshswift.com) - SwiftUI learning with Ease.
+* [Swift & SwiftUI Tutorials](https://janeshsutharios.github.io/TechBlogs/) - SwiftUI learning with Ease.
 * [Swift Education](https://github.com/swifteducation) [![GitHub stars](https://img.shields.io/github/stars/swifteducation?style=flat)](https://github.com/swifteducation/stargazers) - A community of educators sharing materials for teaching Swift and app development.
+* [Swift Learning Roadmap](https://github.com/asimcanyagiz/Swift-Roadmap) [![GitHub stars](https://img.shields.io/github/stars/asimcanyagiz/Swift-Roadmap?style=flat)](https://github.com/asimcanyagiz/Swift-Roadmap/stargazers) - A learning path with Turkish resources covering Swift fundamentals and iOS development.
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) [![GitHub stars](https://img.shields.io/github/stars/vincent-pradeilles/swift-tips?style=flat)](https://github.com/vincent-pradeilles/swift-tips/stargazers) - A series of useful tips by Vincent Pradeilles.
 * [SwiftDoc](https://sosumi.ai/) - Auto-generated documentation.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) [![GitHub stars](https://img.shields.io/github/stars/ipader/SwiftGuide?style=flat)](https://github.com/ipader/SwiftGuide/stargazers) - A Chinese written guide.
@@ -219,7 +221,6 @@ In parternship with:
 
 ## REPL
 
-* [Online Swift Playground](http://online.swiftplayground.run) - Online Swift Playground.
 * [SwiftFiddle](https://swiftfiddle.com) - Playground for making, sharing, and embedding Swift code.
 
 ## Editor Support
@@ -239,7 +240,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [swift-vim](https://github.com/keith/swift.vim) [![GitHub stars](https://img.shields.io/github/stars/keith/swift.vim?style=flat)](https://github.com/keith/swift.vim/stargazers) - Vim runtime files.
-* [vim-polyglot](https://github.com/sheerun/vim-polyglot) [![GitHub stars](https://img.shields.io/github/stars/sheerun/vim-polyglot?style=flat)](https://github.com/sheerun/vim-polyglot/stargazers) - Language pack for vim that includes vim-swift.
+* [vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) [![GitHub stars](https://img.shields.io/github/stars/vim-polyglot/vim-polyglot?style=flat)](https://github.com/vim-polyglot/vim-polyglot/stargazers) - Language pack for vim that includes vim-swift.
 
 ## Benchmark
 
@@ -255,6 +256,7 @@ In parternship with:
 * [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) [![GitHub stars](https://img.shields.io/github/stars/dashvlas/awesome-ios-interview?style=flat)](https://github.com/dashvlas/awesome-ios-interview/stargazers) - List of the questions that helps you to prepare for the interview.
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) [![GitHub stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS?style=flat)](https://github.com/iCHAIT/awesome-macOS/stargazers) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [example-ios-apps](https://github.com/jogendra/example-ios-apps) [![GitHub stars](https://img.shields.io/github/stars/jogendra/example-ios-apps?style=flat)](https://github.com/jogendra/example-ios-apps/stargazers) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+* [MotionBook](https://github.com/younatics/MotionBook) [![GitHub stars](https://img.shields.io/github/stars/younatics/MotionBook?style=flat)](https://github.com/younatics/MotionBook/stargazers) - Catalog of open-source iOS motion, transition and UI libraries with live demos in a free App Store app, a machine-readable catalog.json and llms.txt, refreshed weekly.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) [![GitHub stars](https://img.shields.io/github/stars/dkhamsing/open-source-ios-apps?style=flat)](https://github.com/dkhamsing/open-source-ios-apps/stargazers) - A collaborative list of open-source iOS Apps.
 * [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) [![GitHub stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps?style=flat)](https://github.com/serhii-londar/open-source-mac-os-apps/stargazers) - Awesome list of open source applications for macOS.
 
@@ -285,12 +287,15 @@ In parternship with:
 ## Misc
 *Miscellaneous Swift related projects* 
 * [Beak](https://github.com/yonaskolb/Beak) [![GitHub stars](https://img.shields.io/github/stars/yonaskolb/Beak?style=flat)](https://github.com/yonaskolb/Beak/stargazers) - A command line interface for your Swift scripts.
+* [BerryDB Desktop](https://github.com/berry-apps/berrydb-desktop) [![GitHub stars](https://img.shields.io/github/stars/berry-apps/berrydb-desktop?style=flat)](https://github.com/berry-apps/berrydb-desktop/stargazers) - Native macOS database client for SQL and NoSQL databases with an optional AI assistant.
 * [BetterCodable](https://github.com/marksands/BetterCodable) [![GitHub stars](https://img.shields.io/github/stars/marksands/BetterCodable?style=flat)](https://github.com/marksands/BetterCodable/stargazers) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 * [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) [![GitHub stars](https://img.shields.io/github/stars/GottaGetSwifty/CodableWrappers?style=flat)](https://github.com/GottaGetSwifty/CodableWrappers/stargazers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+* [Device Hub Pro](https://github.com/gitemre/device-hub-pro) [![GitHub stars](https://img.shields.io/github/stars/gitemre/device-hub-pro?style=flat)](https://github.com/gitemre/device-hub-pro/stargazers) - A SwiftUI Mac app that mirrors and controls Android emulators, Android phones and iOS simulators side by side.
 * [Forked](https://github.com/drewmccormack/Forked) [![GitHub stars](https://img.shields.io/github/stars/drewmccormack/Forked?style=flat)](https://github.com/drewmccormack/Forked/stargazers) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
 * [Fugen](https://github.com/almazrafi/Fugen) [![GitHub stars](https://img.shields.io/github/stars/almazrafi/Fugen?style=flat)](https://github.com/almazrafi/Fugen/stargazers) - A command line tool for exporting resources and generating code from your Figma files.
 * [MemberwiseInit](https://github.com/gohanlon/swift-memberwise-init-macro) [![GitHub stars](https://img.shields.io/github/stars/gohanlon/swift-memberwise-init-macro?style=flat)](https://github.com/gohanlon/swift-memberwise-init-macro/stargazers) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
 * [Model2App](https://github.com/Q-Mobile/Model2App) [![GitHub stars](https://img.shields.io/github/stars/Q-Mobile/Model2App?style=flat)](https://github.com/Q-Mobile/Model2App/stargazers) - Turn your data model into a working CRUD app.
+* [Oh My Android](https://github.com/ateymoori/oh-my-android) [![GitHub stars](https://img.shields.io/github/stars/ateymoori/oh-my-android?style=flat)](https://github.com/ateymoori/oh-my-android/stargazers) - A macOS control panel for the Android Emulator with one-click toggles and a built-in MCP server for AI agents.
 * [Surmagic](https://github.com/gurhub/surmagic) [![GitHub stars](https://img.shields.io/github/stars/gurhub/surmagic?style=flat)](https://github.com/gurhub/surmagic/stargazers) - Create XCFrameworks with ease! A Command Line Tool to create XCFramework for multiple platforms at one shot! iOS, Mac Catalyst, tvOS, macOS, and watchOS.
 * [SwagGen](https://github.com/yonaskolb/SwagGen) [![GitHub stars](https://img.shields.io/github/stars/yonaskolb/SwagGen?style=flat)](https://github.com/yonaskolb/SwagGen/stargazers) :penguin: - A command line tool for generating a REST API from a Swagger spec based off Stencil templates.
 * [Swiftbrew](https://github.com/swiftbrew/Swiftbrew) [![GitHub stars](https://img.shields.io/github/stars/swiftbrew/Swiftbrew?style=flat)](https://github.com/swiftbrew/Swiftbrew/stargazers) - Homebrew for Swift packages.
@@ -319,7 +324,8 @@ In parternship with:
 * [DL4S](https://github.com/palle-k/DL4S) [![GitHub stars](https://img.shields.io/github/stars/palle-k/DL4S?style=flat)](https://github.com/palle-k/DL4S/stargazers) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
 * [EdgeRunner](https://github.com/christopherkarani/EdgeRunner) [![GitHub stars](https://img.shields.io/github/stars/christopherkarani/EdgeRunner?style=flat)](https://github.com/christopherkarani/EdgeRunner/stargazers) - Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.
 * [Espresso](https://github.com/christopherkarani/Espresso) [![GitHub stars](https://img.shields.io/github/stars/christopherkarani/Espresso?style=flat)](https://github.com/christopherkarani/Espresso/stargazers) - Compile transformers directly for Apple's Neural Engine.
-* [Fazm](https://github.com/m13v/fazm) [![GitHub stars](https://img.shields.io/github/stars/m13v/fazm?style=flat)](https://github.com/m13v/fazm/stargazers) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+* [Fazm](https://github.com/mediar-ai/fazm) [![GitHub stars](https://img.shields.io/github/stars/mediar-ai/fazm?style=flat)](https://github.com/mediar-ai/fazm/stargazers) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
+* [Grux](https://github.com/dotcomjack/grux) [![GitHub stars](https://img.shields.io/github/stars/dotcomjack/grux?style=flat)](https://github.com/dotcomjack/grux/stargazers) - A local-first AI agent app for macOS with mail, calendar, meeting tools, and support for Ollama or your own API key.
 * [Open Agent SDK](https://github.com/terryso/open-agent-sdk-swift) [![GitHub stars](https://img.shields.io/github/stars/terryso/open-agent-sdk-swift?style=flat)](https://github.com/terryso/open-agent-sdk-swift/stargazers) - Open-source Agent SDK with full agent loop, 34 built-in tools, sub-agent orchestration, MCP integration, and multi-provider LLM support.
 * [OpenAI](https://github.com/MacPaw/OpenAI) [![GitHub stars](https://img.shields.io/github/stars/MacPaw/OpenAI?style=flat)](https://github.com/MacPaw/OpenAI/stargazers) - Swift package for OpenAI public API.
 * [swift-coding-agent](https://github.com/ivan-magda/swift-coding-agent) [![GitHub stars](https://img.shields.io/github/stars/ivan-magda/swift-coding-agent?style=flat)](https://github.com/ivan-magda/swift-coding-agent/stargazers) - A terminal coding agent with subagents and context compaction.
@@ -469,6 +475,7 @@ In parternship with:
 * [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) [![GitHub stars](https://img.shields.io/github/stars/philackm/ScrollableGraphView?style=flat)](https://github.com/philackm/ScrollableGraphView/stargazers) - Adaptive scrollable graph view for iOS to visualise simple discrete datasets.
 * [SwiftChart](https://github.com/gpbl/SwiftChart) [![GitHub stars](https://img.shields.io/github/stars/gpbl/SwiftChart?style=flat)](https://github.com/gpbl/SwiftChart/stargazers) - A simple line and area charting library for iOS. Supports multiple series, partially filled series and touch events.
 * [SwiftCharts](https://github.com/ivnsch/SwiftCharts) [![GitHub stars](https://img.shields.io/github/stars/ivnsch/SwiftCharts?style=flat)](https://github.com/ivnsch/SwiftCharts/stargazers) - Highly customizable charts for iOS.
+* [SwiftSunburstDiagram](https://github.com/lludo/SwiftSunburstDiagram) [![GitHub stars](https://img.shields.io/github/stars/lludo/SwiftSunburstDiagram?style=flat)](https://github.com/lludo/SwiftSunburstDiagram/stargazers) - SwiftUI library to render sunburst diagrams (multilevel pie / ring charts) from a tree of objects.
 * [SwiftUICharts](https://github.com/willdale/SwiftUICharts) [![GitHub stars](https://img.shields.io/github/stars/willdale/SwiftUICharts?style=flat)](https://github.com/willdale/SwiftUICharts/stargazers) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 * [TKRadarChart](https://github.com/TBXark/TKRadarChart) [![GitHub stars](https://img.shields.io/github/stars/TBXark/TKRadarChart?style=flat)](https://github.com/TBXark/TKRadarChart/stargazers) - A customizable radar chart.
 
@@ -491,6 +498,7 @@ In parternship with:
 * [DynamicColor](https://github.com/yannickl/DynamicColor) [![GitHub stars](https://img.shields.io/github/stars/yannickl/DynamicColor?style=flat)](https://github.com/yannickl/DynamicColor/stargazers) - An extension to manipulate colors easily.
 * [Gradients](https://github.com/Gradients/Gradients) [![GitHub stars](https://img.shields.io/github/stars/Gradients/Gradients?style=flat)](https://github.com/Gradients/Gradients/stargazers) - A curated collection of splendid 180+ gradients.
 * [Hue](https://github.com/zenangst/Hue) [![GitHub stars](https://img.shields.io/github/stars/zenangst/Hue?style=flat)](https://github.com/zenangst/Hue/stargazers) - Hue is the all-in-one coloring utility that you'll ever need.
+* [PaletteKit](https://github.com/2dubu/PaletteKit) [![GitHub stars](https://img.shields.io/github/stars/2dubu/PaletteKit?style=flat)](https://github.com/2dubu/PaletteKit/stargazers) - Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors) [![GitHub stars](https://img.shields.io/github/stars/jdhealy/PrettyColors?style=flat)](https://github.com/jdhealy/PrettyColors/stargazers) - Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.
 * [SheetyColors](https://github.com/chrs1885/SheetyColors) [![GitHub stars](https://img.shields.io/github/stars/chrs1885/SheetyColors?style=flat)](https://github.com/chrs1885/SheetyColors/stargazers) - An action sheet styled color picker for iOS.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) [![GitHub stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen?style=flat)](https://github.com/SwiftGen/SwiftGen/stargazers) - A tool to auto-generate `enums` for your `UIColor` constants.
@@ -880,7 +888,7 @@ In parternship with:
 * [Agrume](https://github.com/JanGorman/Agrume) [![GitHub stars](https://img.shields.io/github/stars/JanGorman/Agrume?style=flat)](https://github.com/JanGorman/Agrume/stargazers) - A lemony fresh iOS image viewer.
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) [![GitHub stars](https://img.shields.io/github/stars/Alamofire/AlamofireImage?style=flat)](https://github.com/Alamofire/AlamofireImage/stargazers) - AlamofireImage is an image component library for Alamofire.
 * [APNGKit](https://github.com/onevcat/APNGKit) [![GitHub stars](https://img.shields.io/github/stars/onevcat/APNGKit?style=flat)](https://github.com/onevcat/APNGKit/stargazers) - High performance and delightful way to play with APNG format in iOS.
-* [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) [![GitHub stars](https://img.shields.io/github/stars/altayer-digital/ATGMediaBrowser?style=flat)](https://github.com/altayer-digital/ATGMediaBrowser/stargazers) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+* [ATGMediaBrowser](https://github.com/ounass-tech/ATGMediaBrowser) [![GitHub stars](https://img.shields.io/github/stars/ounass-tech/ATGMediaBrowser?style=flat)](https://github.com/ounass-tech/ATGMediaBrowser/stargazers) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 * [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) [![GitHub stars](https://img.shields.io/github/stars/alexhillc/AXPhotoViewer?style=flat)](https://github.com/alexhillc/AXPhotoViewer/stargazers) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 * [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) [![GitHub stars](https://img.shields.io/github/stars/Boilertalk/BlockiesSwift?style=flat)](https://github.com/Boilertalk/BlockiesSwift/stargazers) - Unique blocky identicons/profile picture generator.
 * [Brightroom](https://github.com/FluidGroup/Brightroom) [![GitHub stars](https://img.shields.io/github/stars/FluidGroup/Brightroom?style=flat)](https://github.com/FluidGroup/Brightroom/stargazers) - An image editor and engine using CoreImage.
@@ -909,6 +917,7 @@ In parternship with:
 * [MCScratchImageView](https://github.com/JaylenCoding/MCScratchImageView) [![GitHub stars](https://img.shields.io/github/stars/JaylenCoding/MCScratchImageView?style=flat)](https://github.com/JaylenCoding/MCScratchImageView/stargazers) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
 * [Moa](https://github.com/evgenyneu/moa) [![GitHub stars](https://img.shields.io/github/stars/evgenyneu/moa?style=flat)](https://github.com/evgenyneu/moa/stargazers) - An image download extension of the image view for iOS, tvOS and macOS.
 * [Nuke](https://github.com/kean/Nuke) [![GitHub stars](https://img.shields.io/github/stars/kean/Nuke?style=flat)](https://github.com/kean/Nuke/stargazers) - Advanced framework for loading, caching, processing, displaying and preheating images.
+* [PaintKit](https://github.com/joshlin2201/itspaint) [![GitHub stars](https://img.shields.io/github/stars/joshlin2201/itspaint?style=flat)](https://github.com/joshlin2201/itspaint/stargazers) - Raster drawing engine with no UI and no dependencies.
 * [PassportScanner](https://github.com/evermeer/PassportScanner) [![GitHub stars](https://img.shields.io/github/stars/evermeer/PassportScanner?style=flat)](https://github.com/evermeer/PassportScanner/stargazers) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 * [Rough](https://github.com/bakhtiyork/Rough) [![GitHub stars](https://img.shields.io/github/stars/bakhtiyork/Rough?style=flat)](https://github.com/bakhtiyork/Rough/stargazers) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 * [Sharaku](https://github.com/makomori/Sharaku) [![GitHub stars](https://img.shields.io/github/stars/makomori/Sharaku?style=flat)](https://github.com/makomori/Sharaku/stargazers) - Image filtering UI library like Instagram.
@@ -995,7 +1004,7 @@ In parternship with:
 * [Localize](https://github.com/andresilvagomez/Localize) [![GitHub stars](https://img.shields.io/github/stars/andresilvagomez/Localize?style=flat)](https://github.com/andresilvagomez/Localize/stargazers) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) [![GitHub stars](https://img.shields.io/github/stars/marmelroy/Localize-Swift?style=flat)](https://github.com/marmelroy/Localize-Swift/stargazers) - Localize apps using e.g. regular expressions in Localizable.strings.
 * [Locheck](https://github.com/Asana/locheck) [![GitHub stars](https://img.shields.io/github/stars/Asana/locheck?style=flat)](https://github.com/Asana/locheck/stargazers) - Validate .strings and .stringsdict files for errors
-* [StringSwitch](https://stringswitch.com) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
+* [StringSwitch](https://fabdurso.com/en/stringswitch/) - Easily convert iOS .strings files to Android strings.xml format and vice versa.
 * [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) [![GitHub stars](https://img.shields.io/github/stars/SwiftGen/SwiftGen?style=flat)](https://github.com/SwiftGen/SwiftGen/stargazers) - A tool to auto-generate `enums` for all your Localizable.strings keys (with appropriate associated values if those strings contains printf-format placeholders like `%@`).
 * [Translatio](https://github.com/andrealufino/Translatio) [![GitHub stars](https://img.shields.io/github/stars/andrealufino/Translatio?style=flat)](https://github.com/andrealufino/Translatio/stargazers) - Super lightweight library that helps you to localize strings, even directly in storyboards.
 
@@ -1256,6 +1265,7 @@ In parternship with:
 * [Mockingjay](https://github.com/kylef/Mockingjay) [![GitHub stars](https://img.shields.io/github/stars/kylef/Mockingjay?style=flat)](https://github.com/kylef/Mockingjay/stargazers) - An elegant library for stubbing HTTP requests with ease.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) [![GitHub stars](https://img.shields.io/github/stars/sabirvirtuoso/Mockit?style=flat)](https://github.com/sabirvirtuoso/Mockit/stargazers) - A simple mocking framework, inspired by the famous Mockito for Java.
 * [MockSwift](https://github.com/leoture/MockSwift) [![GitHub stars](https://img.shields.io/github/stars/leoture/MockSwift?style=flat)](https://github.com/leoture/MockSwift/stargazers) - Mock Framework that uses the power of property wrappers.
+* [swift-sourcery-templates](https://github.com/modaal-agent/swift-sourcery-templates) [![GitHub stars](https://img.shields.io/github/stars/modaal-agent/swift-sourcery-templates?style=flat)](https://github.com/modaal-agent/swift-sourcery-templates/stargazers) - Sourcery templates for generating protocol mocks, type erasures, and dependency-forwarding classes.
 
 ### Text
 *A collection of text projects.* [back to top](#readme) 
@@ -1267,6 +1277,7 @@ In parternship with:
 * [edhita](https://github.com/tnantoka/edhita) [![GitHub stars](https://img.shields.io/github/stars/tnantoka/edhita?style=flat)](https://github.com/tnantoka/edhita/stargazers) - Fully open source text editor for iOS.
 * [GMarkdown](https://github.com/GIKICoder/GMarkdown) [![GitHub stars](https://img.shields.io/github/stars/GIKICoder/GMarkdown?style=flat)](https://github.com/GIKICoder/GMarkdown/stargazers) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
 * [MarkdownDisplayView](https://github.com/zjc19891106/MarkdownDisplayView) [![GitHub stars](https://img.shields.io/github/stars/zjc19891106/MarkdownDisplayView?style=flat)](https://github.com/zjc19891106/MarkdownDisplayView/stargazers) - A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.
+* [MarkdownEngine](https://github.com/nodes-app/swift-markdown-engine) [![GitHub stars](https://img.shields.io/github/stars/nodes-app/swift-markdown-engine?style=flat)](https://github.com/nodes-app/swift-markdown-engine/stargazers) - A native AppKit Markdown editor for macOS with live styling, wiki-style links, and LaTeX rendering, built on TextKit 2.
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) [![GitHub stars](https://img.shields.io/github/stars/bmoliveira/MarkdownKit?style=flat)](https://github.com/bmoliveira/MarkdownKit/stargazers) - A simple and customizable Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) [![GitHub stars](https://img.shields.io/github/stars/keitaoouchi/MarkdownView?style=flat)](https://github.com/keitaoouchi/MarkdownView/stargazers) - iOS Markdown view.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) [![GitHub stars](https://img.shields.io/github/stars/M2Mobi/Marky-Mark?style=flat)](https://github.com/M2Mobi/Marky-Mark/stargazers) - Converts Markdown into native views or attributed strings.
@@ -1370,7 +1381,7 @@ In parternship with:
 * [NeumorphismKit](https://github.com/y-okudera/NeumorphismKit) [![GitHub stars](https://img.shields.io/github/stars/y-okudera/NeumorphismKit?style=flat)](https://github.com/y-okudera/NeumorphismKit/stargazers) - Neumorphism framework for UIKit.
 * [NextGrowingTextView](https://github.com/FluidGroup/NextGrowingTextView) [![GitHub stars](https://img.shields.io/github/stars/FluidGroup/NextGrowingTextView?style=flat)](https://github.com/FluidGroup/NextGrowingTextView/stargazers) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) [![GitHub stars](https://img.shields.io/github/stars/ninjaprox/NVActivityIndicatorView?style=flat)](https://github.com/ninjaprox/NVActivityIndicatorView/stargazers) - Collection of nice loading animations.
-* [OverlayContainer](https://github.com/applidium/OverlayContainer) [![GitHub stars](https://img.shields.io/github/stars/applidium/OverlayContainer?style=flat)](https://github.com/applidium/OverlayContainer/stargazers) - OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.
+* [OverlayContainer](https://github.com/gaetanzanella/OverlayContainer) [![GitHub stars](https://img.shields.io/github/stars/gaetanzanella/OverlayContainer?style=flat)](https://github.com/gaetanzanella/OverlayContainer/stargazers) - OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.
 * [Partition Kit](https://github.com/kieranb662/PartitionKit) [![GitHub stars](https://img.shields.io/github/stars/kieranb662/PartitionKit?style=flat)](https://github.com/kieranb662/PartitionKit/stargazers) - A SwiftUI Library for creating resizable partitions for View Content.
 * [Popovers](https://github.com/aheze/Popovers) [![GitHub stars](https://img.shields.io/github/stars/aheze/Popovers?style=flat)](https://github.com/aheze/Popovers/stargazers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 * [Preferences](https://github.com/sindresorhus/Settings) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/Settings?style=flat)](https://github.com/sindresorhus/Settings/stargazers) - Add a preferences window to your macOS app in minutes.
@@ -1517,12 +1528,12 @@ In parternship with:
 
 * [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) [![GitHub stars](https://img.shields.io/github/stars/ashishkakkad8/AKSwiftSlideMenu?style=flat)](https://github.com/ashishkakkad8/AKSwiftSlideMenu/stargazers) - Slide Menu (Drawer).
 * [CircleMenu](https://github.com/Ramotion/circle-menu) [![GitHub stars](https://img.shields.io/github/stars/Ramotion/circle-menu?style=flat)](https://github.com/Ramotion/circle-menu/stargazers) - CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.
-* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) [![GitHub stars](https://img.shields.io/github/stars/evnaz/ENSwiftSideMenu?style=flat)](https://github.com/evnaz/ENSwiftSideMenu/stargazers) - Sliding side menu.
+* [ENSwiftSideMenu](https://github.com/devgenios/ENSwiftSideMenu) [![GitHub stars](https://img.shields.io/github/stars/devgenios/ENSwiftSideMenu?style=flat)](https://github.com/devgenios/ENSwiftSideMenu/stargazers) - Sliding side menu.
 * [FanMenu](https://github.com/exyte/fan-menu) [![GitHub stars](https://img.shields.io/github/stars/exyte/fan-menu?style=flat)](https://github.com/exyte/fan-menu/stargazers) - Menu with a circular layout based on Macaw.
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) [![GitHub stars](https://img.shields.io/github/stars/yannickl/FlowingMenu?style=flat)](https://github.com/yannickl/FlowingMenu/stargazers) - Interactive view transition to display menus with flowing and bouncing effects.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) [![GitHub stars](https://img.shields.io/github/stars/Yalantis/GuillotineMenu?style=flat)](https://github.com/Yalantis/GuillotineMenu/stargazers) - Guillotine style menu.
 * [HHFloatingView](https://github.com/hemangshah/HHFloatingView) [![GitHub stars](https://img.shields.io/github/stars/hemangshah/HHFloatingView?style=flat)](https://github.com/hemangshah/HHFloatingView/stargazers) - An easy to use and setup floating view for your app.
-* [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) [![GitHub stars](https://img.shields.io/github/stars/handsomecode/InteractiveSideMenu?style=flat)](https://github.com/handsomecode/InteractiveSideMenu/stargazers) - Customizable iOS Interactive Side Menu.
+* [InteractiveSideMenu](https://github.com/raw-materials/InteractiveSideMenu) [![GitHub stars](https://img.shields.io/github/stars/raw-materials/InteractiveSideMenu?style=flat)](https://github.com/raw-materials/InteractiveSideMenu/stargazers) - Customizable iOS Interactive Side Menu.
 * [KWDrawerController](https://github.com/Kawoou/KWDrawerController) [![GitHub stars](https://img.shields.io/github/stars/Kawoou/KWDrawerController?style=flat)](https://github.com/Kawoou/KWDrawerController/stargazers) - Drawer view controller that easy to use.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) [![GitHub stars](https://img.shields.io/github/stars/cxa/MenuItemKit?style=flat)](https://github.com/cxa/MenuItemKit/stargazers) - `UIMenuItem` with image and block (closure) support.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) [![GitHub stars](https://img.shields.io/github/stars/PageMenu/PageMenu?style=flat)](https://github.com/PageMenu/PageMenu/stargazers) - Pagination enabled view controller.
@@ -1722,7 +1733,7 @@ In parternship with:
 * [Basis](https://github.com/typelift/Basis) [![GitHub stars](https://img.shields.io/github/stars/typelift/Basis?style=flat)](https://github.com/typelift/Basis/stargazers) - Pure Declarative Programming.
 * [Bow](https://github.com/bow-swift/bow) [![GitHub stars](https://img.shields.io/github/stars/bow-swift/bow?style=flat)](https://github.com/bow-swift/bow/stargazers) - Companion library for Typed Functional Programming.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) [![GitHub stars](https://img.shields.io/github/stars/phimage/CallbackURLKit?style=flat)](https://github.com/phimage/CallbackURLKit/stargazers) - Implementation of x-callback-url (Inter app communication).
-* [Closures](https://github.com/vhesener/Closures) [![GitHub stars](https://img.shields.io/github/stars/vhesener/Closures?style=flat)](https://github.com/vhesener/Closures/stargazers) - Swifty closures for UIKit and Foundation.
+* [Closures](https://github.com/dusty-commits/Closures) [![GitHub stars](https://img.shields.io/github/stars/dusty-commits/Closures?style=flat)](https://github.com/dusty-commits/Closures/stargazers) - Swifty closures for UIKit and Foundation.
 * [Codextended](https://github.com/JohnSundell/Codextended) [![GitHub stars](https://img.shields.io/github/stars/JohnSundell/Codextended?style=flat)](https://github.com/JohnSundell/Codextended/stargazers) - Extensions giving Codable API type inference super powers.
 * [Curry](https://github.com/thoughtbot/Curry) [![GitHub stars](https://img.shields.io/github/stars/thoughtbot/Curry?style=flat)](https://github.com/thoughtbot/Curry/stargazers) - Function currying.
 * [Delegated](https://github.com/dreymonde/Delegated) [![GitHub stars](https://img.shields.io/github/stars/dreymonde/Delegated?style=flat)](https://github.com/dreymonde/Delegated/stargazers) - Closure-based delegation without memory leaks.
@@ -1730,7 +1741,6 @@ In parternship with:
 * [Differific](https://github.com/zenangst/Differific) [![GitHub stars](https://img.shields.io/github/stars/zenangst/Differific?style=flat)](https://github.com/zenangst/Differific/stargazers) - A fast and convenient diffing framework.
 * [Dollar](https://github.com/ankurp/Dollar) [![GitHub stars](https://img.shields.io/github/stars/ankurp/Dollar?style=flat)](https://github.com/ankurp/Dollar/stargazers) - Similar to Lo-Dash or Underscore in Javascript.
 * [DuctTape](https://github.com/marty-suzuki/DuctTape) [![GitHub stars](https://img.shields.io/github/stars/marty-suzuki/DuctTape?style=flat)](https://github.com/marty-suzuki/DuctTape/stargazers) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
-* [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) [![GitHub stars](https://img.shields.io/github/stars/SteadyAction/EtherWalletKit?style=flat)](https://github.com/SteadyAction/EtherWalletKit/stargazers) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 * [ExceptionCatcher](https://github.com/sindresorhus/ExceptionCatcher) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/ExceptionCatcher?style=flat)](https://github.com/sindresorhus/ExceptionCatcher/stargazers) - Catch Objective-C exceptions.
 * [EZSwiftExtensions](https://github.com/Esqarrouth/EZSwiftExtensions) [![GitHub stars](https://img.shields.io/github/stars/Esqarrouth/EZSwiftExtensions?style=flat)](https://github.com/Esqarrouth/EZSwiftExtensions/stargazers) - How standard types and classes were supposed to work.
 * [FlagAndCountryCode](https://github.com/exyte/FlagAndCountryCode) [![GitHub stars](https://img.shields.io/github/stars/exyte/FlagAndCountryCode?style=flat)](https://github.com/exyte/FlagAndCountryCode/stargazers) - FlagAndCountryCode provides phone codes and flags for every country. Works on UIKit and SwiftUI
@@ -1789,7 +1799,7 @@ In parternship with:
 ### Validation
 *A collection of validation libs.* [back to top](#readme) 
 
-* [ATGValidator](https://github.com/altayer-digital/ATGValidator) [![GitHub stars](https://img.shields.io/github/stars/altayer-digital/ATGValidator?style=flat)](https://github.com/altayer-digital/ATGValidator/stargazers) - Rule based validation framework with form and card validation support for iOS.
+* [ATGValidator](https://github.com/ounass-tech/ATGValidator) [![GitHub stars](https://img.shields.io/github/stars/ounass-tech/ATGValidator?style=flat)](https://github.com/ounass-tech/ATGValidator/stargazers) - Rule based validation framework with form and card validation support for iOS.
 * [FormValidatorSwift](https://github.com/ustwo/formvalidator-swift) [![GitHub stars](https://img.shields.io/github/stars/ustwo/formvalidator-swift?style=flat)](https://github.com/ustwo/formvalidator-swift/stargazers) - Allows you to validate inputs of text fields and text views in a convenient way.
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) [![GitHub stars](https://img.shields.io/github/stars/RedMadRobot/input-mask-ios?style=flat)](https://github.com/RedMadRobot/input-mask-ios/stargazers) - Pattern-based user input formatter, parser and validator for iOS.
 * [RxValidator](https://github.com/vbmania/RxValidator) [![GitHub stars](https://img.shields.io/github/stars/vbmania/RxValidator?style=flat)](https://github.com/vbmania/RxValidator/stargazers) - Simple, Extensible, Flexible Validation Checker.

@@ -207,6 +207,7 @@ Additional lists you might find useful:
 *Syntax highlighting and markup processing.*
 
 - [Markup plugin](https://github.com/dereuromark/cakephp-markup) [![GitHub stars](https://img.shields.io/github/stars/dereuromark/cakephp-markup?style=flat)](https://github.com/dereuromark/cakephp-markup/stargazers) - Allows to use PHP or JS based syntax highlighting.
+- [MarkupCarve/CakeCarve plugin](https://github.com/markup-carve/cakephp-carve) [![GitHub stars](https://img.shields.io/github/stars/markup-carve/cakephp-carve?style=flat)](https://github.com/markup-carve/cakephp-carve/stargazers) - Renders and validates Carve markup, with a helper, `.crv` views, an ORM behavior and console commands.
 
 ### Migration
 *Plugins and resources around migration and upgrading.*
@@ -375,7 +376,6 @@ Additional lists you might find useful:
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) [![GitHub stars](https://img.shields.io/github/stars/stefanvangastel/docker-cakephp?style=flat)](https://github.com/stefanvangastel/docker-cakephp/stargazers) - CakePHP in a Docker container environment.
 - [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) [![GitHub stars](https://img.shields.io/github/stars/junichi11/cakephp3-netbeans?style=flat)](https://github.com/junichi11/cakephp3-netbeans/stargazers) - This package provides support for CakePHP in NetBeans 8.1+.
-- [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 - [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
 IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips).

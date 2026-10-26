@@ -68,7 +68,6 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Podcasts
 
-- [Lucid Dreaming Podcast by The Lucid Guide](https://www.thelucidguide.com/lucid-dream-podcast) - Talks about lucid dreaming techniques, tutorials, and mind hacking.
 - [The Lucid Dreaming Podcast by Lucid Sage](https://lucidsage.com/) - Covering theory, philosophy, practice and gadgets for lucid dreaming.
 
 ## Meetups
@@ -92,6 +91,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 - [Awoken](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) - Dream journal, reality checking, dream cues, dream patterns and achievements.
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) - Smart alarm clock with sleep cycle tracking.
 - [Lucidity](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) - App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams.
+- [TritonSleep](https://play.google.com/store/apps/details?id=com.tritonapps.tritonsleep) - Private on-device dream journal, reality-check reminders and guided MILD, WBTB, SSILD, WILD and FILD sessions with evidence ratings; no account.
 
 ### iOS
 
@@ -100,6 +100,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 - [Mind Awake](https://apps.apple.com/us/app/mind-awake/id1374074148) - The guided course in this app offers a dynamic, mindful approach to lucid dreaming. 
 - [Shape](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) - Learn to lucid dream in 30 days with the ultimate lucid dreaming coach.
 - [Lucidity](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) - Learn to Lucid Dream + Journal.
+- [TritonSleep](https://apps.apple.com/ie/app/tritonsleep-relax-sleep/id6790134035) - Private on-device dream journal, reality-check reminders and guided MILD, WBTB, SSILD, WILD and FILD sessions with evidence ratings; no account.
 
 ## Research Studies
 

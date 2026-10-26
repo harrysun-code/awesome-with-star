@@ -713,6 +713,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) [![GitHub stars](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=flat)](https://github.com/tobiasahlin/SpinKit/stargazers) - A collection of loading indicators animated with CSS.
 * [Ladda](https://github.com/hakimel/Ladda) [![GitHub stars](https://img.shields.io/github/stars/hakimel/Ladda?style=flat)](https://github.com/hakimel/Ladda/stargazers) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) [![GitHub stars](https://img.shields.io/github/stars/lukehaas/css-loaders?style=flat)](https://github.com/lukehaas/css-loaders/stargazers) - A collection of loading spinners animated with CSS
+* [svg-loaders-react](https://github.com/ajwann/svg-loaders-react) [![GitHub stars](https://img.shields.io/github/stars/ajwann/svg-loaders-react?style=flat)](https://github.com/ajwann/svg-loaders-react/stargazers) - Zero-dependency React components for Sam Herbert's SVG Loaders (12 animated SVG spinners).
 
 ## Validation
 

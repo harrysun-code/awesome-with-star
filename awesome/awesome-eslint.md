@@ -26,6 +26,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Deprecation](#deprecation)
   - [Embedded](#embedded)
   - [Frameworks](#frameworks)
+  - [Internationalization](#internationalization)
   - [Languages and Environments](#languages-and-environments)
   - [Libraries](#libraries)
   - [Misc](#misc)
@@ -88,6 +89,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Code Quality
 
+- [@a11yfred/eslint-plugin-neighbor](https://github.com/a11yfred/neighbor) [![GitHub stars](https://img.shields.io/github/stars/a11yfred/neighbor?style=flat)](https://github.com/a11yfred/neighbor/stargazers) - Enforces accessibility, inclusive language, and markup best practices.
 - [depend](https://github.com/es-tooling/eslint-plugin-depend) [![GitHub stars](https://img.shields.io/github/stars/es-tooling/eslint-plugin-depend?style=flat)](https://github.com/es-tooling/eslint-plugin-depend/stargazers) - Helps detect dependency tree bloat and redundant polyfills.
 - [GitHub](https://github.com/github/eslint-plugin-github) [![GitHub stars](https://img.shields.io/github/stars/github/eslint-plugin-github?style=flat)](https://github.com/github/eslint-plugin-github/stargazers) - Misc. rules from GitHub.
 - [SonarJS](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) [![GitHub stars](https://img.shields.io/github/stars/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md?style=flat)](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md/stargazers) - Rules detecting bugs and suspicious patterns.
@@ -147,6 +149,11 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - Vue
   - [VueJS](https://github.com/vuejs/eslint-plugin-vue) [![GitHub stars](https://img.shields.io/github/stars/vuejs/eslint-plugin-vue?style=flat)](https://github.com/vuejs/eslint-plugin-vue/stargazers) - Plugin for VueJS.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) [![GitHub stars](https://img.shields.io/github/stars/future-architect/eslint-plugin-vue-scoped-css?style=flat)](https://github.com/future-architect/eslint-plugin-vue-scoped-css/stargazers) - Plugin for Scoped CSS in VueJS.
+
+### Internationalization
+
+- [I18n Leak](https://github.com/Sloppy0726/eslint-plugin-i18n-leak) [![GitHub stars](https://img.shields.io/github/stars/Sloppy0726/eslint-plugin-i18n-leak?style=flat)](https://github.com/Sloppy0726/eslint-plugin-i18n-leak/stargazers) - Finds i18n bugs with no string literal to scan: form constraints whose validation message the browser renders in its own locale, and raw `error.message` text reaching the user.
+- [i18next](https://github.com/edvardchen/eslint-plugin-i18next) [![GitHub stars](https://img.shields.io/github/stars/edvardchen/eslint-plugin-i18next?style=flat)](https://github.com/edvardchen/eslint-plugin-i18next/stargazers) - Finds untranslated string literals in source, with `markupOnly` and `jsx-only` modes to narrow the scan.
 
 ### Languages and Environments
 
@@ -219,7 +226,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [ime-safe-form](https://github.com/hiroya-uga/eslint-plugin-ime-safe-form) [![GitHub stars](https://img.shields.io/github/stars/hiroya-uga/eslint-plugin-ime-safe-form?style=flat)](https://github.com/hiroya-uga/eslint-plugin-ime-safe-form/stargazers) - Prevents accidental form submission during IME composition by requiring `e.isComposing` guard or form `submit` event.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) [![GitHub stars](https://img.shields.io/github/stars/jhusain/eslint-plugin-immutable?style=flat)](https://github.com/jhusain/eslint-plugin-immutable/stargazers) - Disable all mutation in JavaScript.
 - [import](https://github.com/benmosher/eslint-plugin-import) [![GitHub stars](https://img.shields.io/github/stars/benmosher/eslint-plugin-import?style=flat)](https://github.com/benmosher/eslint-plugin-import/stargazers) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+- [import-next](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next) [![GitHub stars](https://img.shields.io/github/stars/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next?style=flat)](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-import-next/stargazers) - Drop-in replacement for `eslint-plugin-import` with a rewritten cycle detector and no config changes required.
 - [import-x](https://github.com/un-ts/eslint-plugin-import-x) [![GitHub stars](https://img.shields.io/github/stars/un-ts/eslint-plugin-import-x?style=flat)](https://github.com/un-ts/eslint-plugin-import-x/stargazers) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
+- [import-boundary](https://github.com/nayounsang/eslint-plugin-import-boundary) [![GitHub stars](https://img.shields.io/github/stars/nayounsang/eslint-plugin-import-boundary?style=flat)](https://github.com/nayounsang/eslint-plugin-import-boundary/stargazers) - Enforces import boundaries from directory nesting: only a parent may import a direct child's public entry (`index`), with `rootFiles` / `sharedFiles` escapes.
 - [logical-imports](https://gitlab.com/philbooth/eslint-plugin-logical-imports) - Sort imports logically by local name.
 - [Math](https://github.com/ota-meshi/eslint-plugin-math) [![GitHub stars](https://img.shields.io/github/stars/ota-meshi/eslint-plugin-math?style=flat)](https://github.com/ota-meshi/eslint-plugin-math/stargazers) - ESLint plugin related to Math object and Number.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) [![GitHub stars](https://img.shields.io/github/stars/Trott/eslint-plugin-new-with-error?style=flat)](https://github.com/Trott/eslint-plugin-new-with-error/stargazers) - Require errors to be thrown using `new`.
@@ -239,6 +248,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) [![GitHub stars](https://img.shields.io/github/stars/leo-buneev/eslint-plugin-sort-keys-fix?style=flat)](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix/stargazers) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) [![GitHub stars](https://img.shields.io/github/stars/matijs/eslint-plugin-this?style=flat)](https://github.com/matijs/eslint-plugin-this/stargazers) - Write pure functions, don't allow `this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) [![GitHub stars](https://img.shields.io/github/stars/HKalbasi/eslint-plugin-toplevel?style=flat)](https://github.com/HKalbasi/eslint-plugin-toplevel/stargazers) - An eslint plugin for disallow side effect at module toplevel.
+- [eslint-plugin-intlayer](https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer) [![GitHub stars](https://img.shields.io/github/stars/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer?style=flat)](https://github.com/aymericzip/intlayer/tree/main/packages/eslint-plugin-intlayer/stargazers) - ESLint plugin for i18n purpose.
 
 ### Performance
 
@@ -252,7 +262,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) [![GitHub stars](https://img.shields.io/github/stars/mozilla/eslint-plugin-no-unsanitized?style=flat)](https://github.com/mozilla/eslint-plugin-no-unsanitized/stargazers) - Checks for `innerHTML`, `outerHTML`, etc.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii) [![GitHub stars](https://img.shields.io/github/stars/shiva-hack/eslint-plugin-pii?style=flat)](https://github.com/shiva-hack/eslint-plugin-pii/stargazers) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
 - [pg](https://github.com/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg) [![GitHub stars](https://img.shields.io/github/stars/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg?style=flat)](https://github.com/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg/stargazers) - PostgreSQL/node-postgres security: SQL injection prevention (CWE-89), connection pool leak detection (CWE-772), transaction safety. 13 rules with CWE mapping.
+- [secure-coding](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding) [![GitHub stars](https://img.shields.io/github/stars/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding?style=flat)](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-secure-coding/stargazers) - Security rules with CWE and OWASP Top 10 metadata, and machine-readable fix guidance in each message.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) [![GitHub stars](https://img.shields.io/github/stars/nodesecurity/eslint-plugin-security?style=flat)](https://github.com/nodesecurity/eslint-plugin-security/stargazers) - ESLint rules for Node Security.
+- [typeorm-enterprise](https://github.com/alokraj68/eslint-plugin-typeorm-enterprise) [![GitHub stars](https://img.shields.io/github/stars/alokraj68/eslint-plugin-typeorm-enterprise?style=flat)](https://github.com/alokraj68/eslint-plugin-typeorm-enterprise/stargazers) - TypeORM security and governance: SQL injection prevention, transaction safety, and multi-tenant query guards.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) [![GitHub stars](https://img.shields.io/github/stars/Rantanen/eslint-plugin-xss?style=flat)](https://github.com/Rantanen/eslint-plugin-xss/stargazers) - Tries to detect XSS issues in codebase before they end up in production.
 
 ### Style
@@ -345,6 +357,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [eslint-dashboard](https://github.com/fengzilong/eslint-dashboard) [![GitHub stars](https://img.shields.io/github/stars/fengzilong/eslint-dashboard?style=flat)](https://github.com/fengzilong/eslint-dashboard/stargazers) - Interactive ESLint workflow that lives in your terminal.
 - [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) [![GitHub stars](https://img.shields.io/github/stars/AriPerkkio/eslint-remote-tester?style=flat)](https://github.com/AriPerkkio/eslint-remote-tester/stargazers) - CLI tool for testing given ESlint rules against multiple repositories at once.
 - [eslint-disable-autofix](https://github.com/MorevM/eslint-disable-autofix/) [![GitHub stars](https://img.shields.io/github/stars/MorevM/eslint-disable-autofix/?style=flat)](https://github.com/MorevM/eslint-disable-autofix//stargazers) - Utility to disable autofix for specific ESLint rules.
+- [quick-gate-js](https://github.com/hermes-labs-ai/quick-gate-js) [![GitHub stars](https://img.shields.io/github/stars/hermes-labs-ai/quick-gate-js?style=flat)](https://github.com/hermes-labs-ai/quick-gate-js/stargazers) - Deterministic CI quality gate that unifies ESLint, TypeScript, build, and Lighthouse checks into one fail-fast result, with bounded auto-repair and structured escalation evidence. npm: `quick-gate`.
 
 ## Developing for ESLint
 

@@ -206,8 +206,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 **[⬆ back to top](#contents)**
 
-
-
 </details>
 
 ## Actor Model
@@ -233,7 +231,7 @@ _Libraries for building programs that leverage AI._
 - [ai](https://github.com/joakimcarlsson/ai) [![GitHub stars](https://img.shields.io/github/stars/joakimcarlsson/ai?style=flat)](https://github.com/joakimcarlsson/ai/stargazers) - A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
 - [ai-gateway](https://github.com/ferro-labs/ai-gateway) [![GitHub stars](https://img.shields.io/github/stars/ferro-labs/ai-gateway?style=flat)](https://github.com/ferro-labs/ai-gateway/stargazers) - OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability.
 - [chromem-go](https://github.com/philippgille/chromem-go) [![GitHub stars](https://img.shields.io/github/stars/philippgille/chromem-go?style=flat)](https://github.com/philippgille/chromem-go/stargazers) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
-- [clai](https://github.com/baalimago/clai) [![GitHub stars](https://img.shields.io/github/stars/baalimago/clai?style=flat)](https://github.com/baalimago/clai/stargazers) - Agentic harness focused on terminal workflows, following UNIX principles. No external dependencies, ideal for scripting/prototyping agentic apps, engine is also exposed as a package. 
+- [clai](https://github.com/baalimago/clai) [![GitHub stars](https://img.shields.io/github/stars/baalimago/clai?style=flat)](https://github.com/baalimago/clai/stargazers) - Agentic harness focused on terminal workflows, following UNIX principles. No external dependencies, ideal for scripting/prototyping agentic apps, engine is also exposed as a package.
 - [claude-code-go](https://github.com/lancekrogers/claude-code-go) [![GitHub stars](https://img.shields.io/github/stars/lancekrogers/claude-code-go?style=flat)](https://github.com/lancekrogers/claude-code-go/stargazers) - Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs.
 - [crewai-go](https://github.com/rhgs/crewai-go) [![GitHub stars](https://img.shields.io/github/stars/rhgs/crewai-go?style=flat)](https://github.com/rhgs/crewai-go/stargazers) - Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.
 - [Cynative](https://github.com/cynative/cynative) [![GitHub stars](https://img.shields.io/github/stars/cynative/cynative?style=flat)](https://github.com/cynative/cynative/stargazers) - Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research.
@@ -289,7 +287,7 @@ _Libraries for manipulating audio and music._
 - [music-theory](https://github.com/go-music-theory/music-theory) [![GitHub stars](https://img.shields.io/github/stars/go-music-theory/music-theory?style=flat)](https://github.com/go-music-theory/music-theory/stargazers) - Music theory models in Go.
 - [Oto](https://github.com/hajimehoshi/oto) [![GitHub stars](https://img.shields.io/github/stars/hajimehoshi/oto?style=flat)](https://github.com/hajimehoshi/oto/stargazers) - A low-level library to play sound on multiple platforms.
 - [PortAudio](https://github.com/gordonklaus/portaudio) [![GitHub stars](https://img.shields.io/github/stars/gordonklaus/portaudio?style=flat)](https://github.com/gordonklaus/portaudio/stargazers) - Go bindings for the PortAudio audio I/O library.
-- [voxrai-ai](https://github.com/Voxray-AI/Voxray) [![GitHub stars](https://img.shields.io/github/stars/Voxray-AI/Voxray?style=flat)](https://github.com/Voxray-AI/Voxray/stargazers) - AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC.
+- [voxrai-ai](https://github.com/Voxray-AI/Voxray) [![GitHub stars](https://img.shields.io/github/stars/Voxray-AI/Voxray?style=flat)](https://github.com/Voxray-AI/Voxray/stargazers) - AI voice agents with a JSON configuration, STT → LLM → TTS pipelines over WebSocket and WebRTC.
 
 **[⬆ back to top](#contents)**
 
@@ -382,8 +380,8 @@ _Libraries for building and working with bots._
 - [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) [![GitHub stars](https://img.shields.io/github/stars/go-telegram-bot-api/telegram-bot-api?style=flat)](https://github.com/go-telegram-bot-api/telegram-bot-api/stargazers) - Simple and clean Telegram bot client.
 - [TG](https://github.com/enetx/tg) [![GitHub stars](https://img.shields.io/github/stars/enetx/tg?style=flat)](https://github.com/enetx/tg/stargazers) - Telegram Bot Framework for Go.
 - [wayback](https://github.com/wabarc/wayback) [![GitHub stars](https://img.shields.io/github/stars/wabarc/wayback?style=flat)](https://github.com/wabarc/wayback/stargazers) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+- [Wisp](https://github.com/wisp-trading/wisp) [![GitHub stars](https://img.shields.io/github/stars/wisp-trading/wisp?style=flat)](https://github.com/wisp-trading/wisp/stargazers) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 - [ymsdk](https://github.com/rekurt/ymsdk) [![GitHub stars](https://img.shields.io/github/stars/rekurt/ymsdk?style=flat)](https://github.com/rekurt/ymsdk/stargazers) - Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.
-   - [Wisp](https://github.com/wisp-trading/wisp) [![GitHub stars](https://img.shields.io/github/stars/wisp-trading/wisp?style=flat)](https://github.com/wisp-trading/wisp/stargazers) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 **[⬆ back to top](#contents)**
 
@@ -447,6 +445,7 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [phoenix](https://github.com/phoenix-tui/phoenix) [![GitHub stars](https://img.shields.io/github/stars/phoenix-tui/phoenix?style=flat)](https://github.com/phoenix-tui/phoenix/stargazers) - High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.
 - [progressbar](https://github.com/schollz/progressbar) [![GitHub stars](https://img.shields.io/github/stars/schollz/progressbar?style=flat)](https://github.com/schollz/progressbar/stargazers) - Basic thread-safe progress bar that works in every OS.
 - [pterm](https://github.com/pterm/pterm) [![GitHub stars](https://img.shields.io/github/stars/pterm/pterm?style=flat)](https://github.com/pterm/pterm/stargazers) - A library to beautify console output on every platform with many combinable components.
+- [rummage](https://github.com/rummage-dev/rummage) [![GitHub stars](https://img.shields.io/github/stars/rummage-dev/rummage?style=flat)](https://github.com/rummage-dev/rummage/stargazers) - Cross-platform terminal file/folder picker with fuzzy search, multi-select, and a preview pane.
 - [simpletable](https://github.com/alexeyco/simpletable) [![GitHub stars](https://img.shields.io/github/stars/alexeyco/simpletable?style=flat)](https://github.com/alexeyco/simpletable/stargazers) - Simple tables in a terminal with Go.
 - [spinner](https://github.com/briandowns/spinner) [![GitHub stars](https://img.shields.io/github/stars/briandowns/spinner?style=flat)](https://github.com/briandowns/spinner/stargazers) - Go package to easily provide a terminal spinner with options.
 - [tabby](https://github.com/cheynewallace/tabby) [![GitHub stars](https://img.shields.io/github/stars/cheynewallace/tabby?style=flat)](https://github.com/cheynewallace/tabby/stargazers) - A tiny library for super simple Golang tables.
@@ -855,7 +854,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [moss](https://github.com/couchbase/moss) [![GitHub stars](https://img.shields.io/github/stars/couchbase/moss?style=flat)](https://github.com/couchbase/moss/stargazers) - Moss is a simple LSM key-value storage engine written in 100% Go.
 - [nanotdb](https://github.com/aymanhs/nanotdb) [![GitHub stars](https://img.shields.io/github/stars/aymanhs/nanotdb?style=flat)](https://github.com/aymanhs/nanotdb/stargazers) - A lightweight, zero-dependency, append-only Time-Series Database and Dashboard optimized for low-power hardware.
 - [NoKV](https://github.com/feichai0017/NoKV) [![GitHub stars](https://img.shields.io/github/stars/feichai0017/NoKV?style=flat)](https://github.com/feichai0017/NoKV/stargazers) - Native metadata service for distributed filesystems, object storage, and AI dataset workloads.
-- [NornicDB](https://github.com/orneryd/NornicDB) [![GitHub stars](https://img.shields.io/github/stars/orneryd/NornicDB?style=flat)](https://github.com/orneryd/NornicDB/stargazers) - High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems. 
+- [NornicDB](https://github.com/orneryd/NornicDB) [![GitHub stars](https://img.shields.io/github/stars/orneryd/NornicDB?style=flat)](https://github.com/orneryd/NornicDB/stargazers) - High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems.
 - [nutsdb](https://github.com/xujiajun/nutsdb) [![GitHub stars](https://img.shields.io/github/stars/xujiajun/nutsdb?style=flat)](https://github.com/xujiajun/nutsdb/stargazers) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 - [objectbox-go](https://github.com/objectbox/objectbox-go) [![GitHub stars](https://img.shields.io/github/stars/objectbox/objectbox-go?style=flat)](https://github.com/objectbox/objectbox-go/stargazers) - High-performance embedded Object Database (NoSQL) with Go API.
 - [pebble](https://github.com/cockroachdb/pebble) [![GitHub stars](https://img.shields.io/github/stars/cockroachdb/pebble?style=flat)](https://github.com/cockroachdb/pebble/stargazers) - RocksDB/LevelDB inspired key-value database in Go.
@@ -873,7 +872,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [unitdb](https://github.com/unit-io/unitdb) [![GitHub stars](https://img.shields.io/github/stars/unit-io/unitdb?style=flat)](https://github.com/unit-io/unitdb/stargazers) - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 - [Vasto](https://github.com/chrislusf/vasto) [![GitHub stars](https://img.shields.io/github/stars/chrislusf/vasto?style=flat)](https://github.com/chrislusf/vasto/stargazers) - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) [![GitHub stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=flat)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
-- 
+
 ### Database Schema Migration
 
 - [atlas](https://github.com/ariga/atlas) [![GitHub stars](https://img.shields.io/github/stars/ariga/atlas?style=flat)](https://github.com/ariga/atlas/stargazers) - A Database Toolkit. A CLI designed to help companies better work with their data.
@@ -1078,7 +1077,7 @@ _Libraries for working with dates and times._
 - [strftime](https://github.com/awoodbeck/strftime) [![GitHub stars](https://img.shields.io/github/stars/awoodbeck/strftime?style=flat)](https://github.com/awoodbeck/strftime/stargazers) - C99-compatible strftime formatter.
 - [timespan](https://github.com/SaidinWoT/timespan) [![GitHub stars](https://img.shields.io/github/stars/SaidinWoT/timespan?style=flat)](https://github.com/SaidinWoT/timespan/stargazers) - For interacting with intervals of time, defined as a start time and a duration.
 - [timeutil](https://github.com/leekchan/timeutil) [![GitHub stars](https://img.shields.io/github/stars/leekchan/timeutil?style=flat)](https://github.com/leekchan/timeutil/stargazers) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
-- [timex](https://github.com/invzhi/timex) [![GitHub stars](https://img.shields.io/github/stars/invzhi/timex?style=flat)](https://github.com/invzhi/timex/stargazers) - A Go package that extends the standard library time with dedicated date and time-of-day types. 
+- [timex](https://github.com/invzhi/timex) [![GitHub stars](https://img.shields.io/github/stars/invzhi/timex?style=flat)](https://github.com/invzhi/timex/stargazers) - A Go package that extends the standard library time with dedicated date and time-of-day types.
 - [tuesday](https://github.com/osteele/tuesday) [![GitHub stars](https://img.shields.io/github/stars/osteele/tuesday?style=flat)](https://github.com/osteele/tuesday/stargazers) - Ruby-compatible Strftime function.
 
 **[⬆ back to top](#contents)**
@@ -1444,7 +1443,7 @@ _Tools that generate Go code._
 _Geographic tools and servers_
 
 - [borders](https://github.com/kpfaulkner/borders) [![GitHub stars](https://img.shields.io/github/stars/kpfaulkner/borders?style=flat)](https://github.com/kpfaulkner/borders/stargazers) - Detects image borders and converts to GeoJSON for GIS operations.
-* [geo-engine-go](https://github.com/AlexG695/geo-engine-go) [![GitHub stars](https://img.shields.io/github/stars/AlexG695/geo-engine-go?style=flat)](https://github.com/AlexG695/geo-engine-go/stargazers) - Official Go SDK for GeoEngine, offering high-performance geospatial data ingestion with single-digit millisecond latency.
+- [geo-engine-go](https://github.com/AlexG695/geo-engine-go) [![GitHub stars](https://img.shields.io/github/stars/AlexG695/geo-engine-go?style=flat)](https://github.com/AlexG695/geo-engine-go/stargazers) - Official Go SDK for GeoEngine, offering high-performance geospatial data ingestion with single-digit millisecond latency.
 - [geoos](https://github.com/spatial-go/geoos) [![GitHub stars](https://img.shields.io/github/stars/spatial-go/geoos?style=flat)](https://github.com/spatial-go/geoos/stargazers) - A library provides spatial data and geometric algorithms.
 - [geoserver](https://github.com/hishamkaram/geoserver) [![GitHub stars](https://img.shields.io/github/stars/hishamkaram/geoserver?style=flat)](https://github.com/hishamkaram/geoserver/stargazers) - geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API.
 - [gismanager](https://github.com/hishamkaram/gismanager) [![GitHub stars](https://img.shields.io/github/stars/hishamkaram/gismanager?style=flat)](https://github.com/hishamkaram/gismanager/stargazers) - Publish Your GIS Data(Vector Data) to PostGIS and Geoserver.
@@ -1725,8 +1724,6 @@ _Libraries for working with JSON._
 - [jettison](https://github.com/wI2L/jettison) [![GitHub stars](https://img.shields.io/github/stars/wI2L/jettison?style=flat)](https://github.com/wI2L/jettison/stargazers) - Fast and flexible JSON encoder for Go.
 - [jscan](https://github.com/romshark/jscan) [![GitHub stars](https://img.shields.io/github/stars/romshark/jscan?style=flat)](https://github.com/romshark/jscan/stargazers) - High performance zero-allocation JSON iterator.
 - [jseq](https://github.com/bobg/jseq) [![GitHub stars](https://img.shields.io/github/stars/bobg/jseq?style=flat)](https://github.com/bobg/jseq/stargazers) - Streaming JSON parser.
-- [JSON-to-Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct.
-- [JSON-to-Proto](https://json-to-proto.github.io/) - Convert JSON to Protobuf online.
 - [json2go](https://github.com/m-zajac/json2go) [![GitHub stars](https://img.shields.io/github/stars/m-zajac/json2go?style=flat)](https://github.com/m-zajac/json2go/stargazers) - Advanced JSON to Go struct conversion. Provides package that can parse multiple JSON documents and create struct to fit them all.
 - [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) [![GitHub stars](https://img.shields.io/github/stars/AmuzaTkts/jsonapi-errors?style=flat)](https://github.com/AmuzaTkts/jsonapi-errors/stargazers) - Go bindings based on the JSON API errors reference.
 - [jsoncolor](https://github.com/neilotoole/jsoncolor) [![GitHub stars](https://img.shields.io/github/stars/neilotoole/jsoncolor?style=flat)](https://github.com/neilotoole/jsoncolor/stargazers) - Drop-in replacement for `encoding/json` that outputs colorized JSON.
@@ -1745,7 +1742,7 @@ _Libraries for working with JSON._
 - [OjG](https://github.com/ohler55/ojg) [![GitHub stars](https://img.shields.io/github/stars/ohler55/ojg?style=flat)](https://github.com/ohler55/ojg/stargazers) - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath.
 - [omg.jsonparser](https://github.com/dedalqq/omg.jsonparser) [![GitHub stars](https://img.shields.io/github/stars/dedalqq/omg.jsonparser?style=flat)](https://github.com/dedalqq/omg.jsonparser/stargazers) - Simple JSON parser with validation by condition via golang struct fields tags.
 - [silentjson](https://github.com/GenshIv/silentjson) [![GitHub stars](https://img.shields.io/github/stars/GenshIv/silentjson?style=flat)](https://github.com/GenshIv/silentjson/stargazers) - Zero-allocation JSON boundary scanner and splitter utilizing AVX2 SIMD instructions.
-- [SJSON](https://github.com/tidwall/sjson) [![GitHub stars](https://img.shields.io/github/stars/tidwall/sjson?style=flat)](https://github.com/tidwall/sjson/stargazers) - Set a JSON value with one line of code.  
+- [SJSON](https://github.com/tidwall/sjson) [![GitHub stars](https://img.shields.io/github/stars/tidwall/sjson?style=flat)](https://github.com/tidwall/sjson/stargazers) - Set a JSON value with one line of code.
 - [ujson](https://github.com/olvrng/ujson) [![GitHub stars](https://img.shields.io/github/stars/olvrng/ujson?style=flat)](https://github.com/olvrng/ujson/stargazers) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
 - [vjson](https://github.com/miladibra10/vjson) [![GitHub stars](https://img.shields.io/github/stars/miladibra10/vjson?style=flat)](https://github.com/miladibra10/vjson/stargazers) - Go package for validating JSON objects with declaring a JSON schema with fluent API.
 
@@ -2117,6 +2114,7 @@ _These libraries were placed here because none of the other categories seemed to
 - [xdg](https://github.com/rkoesters/xdg) [![GitHub stars](https://img.shields.io/github/stars/rkoesters/xdg?style=flat)](https://github.com/rkoesters/xdg/stargazers) - FreeDesktop.org (xdg) Specs implemented in Go.
 - [xkg](https://github.com/go-xkg/xkg) [![GitHub stars](https://img.shields.io/github/stars/go-xkg/xkg?style=flat)](https://github.com/go-xkg/xkg/stargazers) - X Keyboard Grabber.
 - [xz](https://github.com/ulikunitz/xz) [![GitHub stars](https://img.shields.io/github/stars/ulikunitz/xz?style=flat)](https://github.com/ulikunitz/xz/stargazers) - Pure golang package for reading and writing xz-compressed files.
+
 **[⬆ back to top](#contents)**
 
 ## Natural Language Processing
@@ -2304,12 +2302,12 @@ _Libraries for making HTTP requests._
 - [go-req](https://github.com/wenerme/go-req) [![GitHub stars](https://img.shields.io/github/stars/wenerme/go-req?style=flat)](https://github.com/wenerme/go-req/stargazers) - Declarative golang HTTP client.
 - [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) [![GitHub stars](https://img.shields.io/github/stars/hashicorp/go-retryablehttp?style=flat)](https://github.com/hashicorp/go-retryablehttp/stargazers) - Retryable HTTP client in Go.
 - [go-zoox/fetch](https://github.com/go-zoox/fetch) [![GitHub stars](https://img.shields.io/github/stars/go-zoox/fetch?style=flat)](https://github.com/go-zoox/fetch/stargazers) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
-- [Grequest](https://github.com/lib4u/grequest) [![GitHub stars](https://img.shields.io/github/stars/lib4u/grequest?style=flat)](https://github.com/lib4u/grequest/stargazers)  - Simple and lightweight golang package for http requests. based on powerful net/http
+- [Grequest](https://github.com/lib4u/grequest) [![GitHub stars](https://img.shields.io/github/stars/lib4u/grequest?style=flat)](https://github.com/lib4u/grequest/stargazers) - Simple and lightweight golang package for http requests. based on powerful net/http
 - [grequests](https://github.com/levigross/grequests) [![GitHub stars](https://img.shields.io/github/stars/levigross/grequests?style=flat)](https://github.com/levigross/grequests/stargazers) - A Go "clone" of the great and famous Requests library.
 - [hedge](https://github.com/bhope/hedge) [![GitHub stars](https://img.shields.io/github/stars/bhope/hedge?style=flat)](https://github.com/bhope/hedge/stargazers) - Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
 - [heimdall](https://github.com/gojektech/heimdall) [![GitHub stars](https://img.shields.io/github/stars/gojektech/heimdall?style=flat)](https://github.com/gojektech/heimdall/stargazers) - An enhanced http client with retry and hystrix capabilities.
 - [httpretry](https://github.com/ybbus/httpretry) [![GitHub stars](https://img.shields.io/github/stars/ybbus/httpretry?style=flat)](https://github.com/ybbus/httpretry/stargazers) - Enriches the default go HTTP client with retry functionality.
- - [impersonate-http](https://github.com/North-web-dev/impersonate-http) [![GitHub stars](https://img.shields.io/github/stars/North-web-dev/impersonate-http?style=flat)](https://github.com/North-web-dev/impersonate-http/stargazers) - Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.
+- [impersonate-http](https://github.com/North-web-dev/impersonate-http) [![GitHub stars](https://img.shields.io/github/stars/North-web-dev/impersonate-http?style=flat)](https://github.com/North-web-dev/impersonate-http/stargazers) - Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.
 - [pester](https://github.com/sethgrid/pester) [![GitHub stars](https://img.shields.io/github/stars/sethgrid/pester?style=flat)](https://github.com/sethgrid/pester/stargazers) - Go HTTP client calls with retries, backoff, and concurrency.
 - [req](https://github.com/imroc/req) [![GitHub stars](https://img.shields.io/github/stars/imroc/req?style=flat)](https://github.com/imroc/req/stargazers) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 - [request](https://github.com/monaco-io/request) [![GitHub stars](https://img.shields.io/github/stars/monaco-io/request?style=flat)](https://github.com/monaco-io/request/stargazers) - HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency.
@@ -2569,7 +2567,6 @@ _Libraries that are used to help make your application more secure._
 - [urusai](https://github.com/calpa/urusai) [![GitHub stars](https://img.shields.io/github/stars/calpa/urusai?style=flat)](https://github.com/calpa/urusai/stargazers) - Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing.
 - [veil](https://github.com/getveil/veil) [![GitHub stars](https://img.shields.io/github/stars/getveil/veil?style=flat)](https://github.com/getveil/veil/stargazers) - Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
 - [y509](https://github.com/kanywst/y509) [![GitHub stars](https://img.shields.io/github/stars/kanywst/y509?style=flat)](https://github.com/kanywst/y509/stargazers) - TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly.
-
 
 **[⬆ back to top](#contents)**
 
@@ -3323,7 +3320,7 @@ _Libraries for manipulating video._
 - [hls-m3u8](https://github.com/Eyevinn/hls-m3u8) [![GitHub stars](https://img.shields.io/github/stars/Eyevinn/hls-m3u8?style=flat)](https://github.com/Eyevinn/hls-m3u8/stargazers) - Parser and generator for HLS (M3U8) playlists; kept up to date with the spec.
 - [libvlc-go](https://github.com/adrg/libvlc-go) [![GitHub stars](https://img.shields.io/github/stars/adrg/libvlc-go?style=flat)](https://github.com/adrg/libvlc-go/stargazers) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 - [manifestor](https://github.com/alanzng/manifestor) [![GitHub stars](https://img.shields.io/github/stars/alanzng/manifestor?style=flat)](https://github.com/alanzng/manifestor/stargazers) - Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.
-* [mosaic](https://github.com/farshidrezaei/mosaic) [![GitHub stars](https://img.shields.io/github/stars/farshidrezaei/mosaic?style=flat)](https://github.com/farshidrezaei/mosaic/stargazers) - Predictable, production-ready Adaptive Bitrate (ABR) video packaging for Go (HLS & DASH CMAF).
+- [mosaic](https://github.com/farshidrezaei/mosaic) [![GitHub stars](https://img.shields.io/github/stars/farshidrezaei/mosaic?style=flat)](https://github.com/farshidrezaei/mosaic/stargazers) - Predictable, production-ready Adaptive Bitrate (ABR) video packaging for Go (HLS & DASH CMAF).
 - [mp4ff](https://github.com/Eyevinn/mp4ff) [![GitHub stars](https://img.shields.io/github/stars/Eyevinn/mp4ff?style=flat)](https://github.com/Eyevinn/mp4ff/stargazers) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
 - [mpeg-ts-analyzer](https://github.com/small-teton/mpeg-ts-analyzer) [![GitHub stars](https://img.shields.io/github/stars/small-teton/mpeg-ts-analyzer?style=flat)](https://github.com/small-teton/mpeg-ts-analyzer/stargazers) - Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.
 - [onvif-go](https://github.com/0x524a/onvif-go) [![GitHub stars](https://img.shields.io/github/stars/0x524a/onvif-go?style=flat)](https://github.com/0x524a/onvif-go/stargazers) - ONVIF client, WS-Discovery and virtual camera server for IP cameras.
@@ -4076,7 +4073,6 @@ _Add the group of your city/country here (send **PR**)_
 - [Go Forum](https://forum.golangbridge.org) - Forum to discuss Go.
 - [Go Projects](https://github.com/golang/go/wiki/Projects) [![GitHub stars](https://img.shields.io/github/stars/golang/go/wiki/Projects?style=flat)](https://github.com/golang/go/wiki/Projects/stargazers) - List of projects on the Go community wiki.
 - [Go Proverbs](https://go-proverbs.github.io/) - Go Proverbs by Rob Pike.
-- [Go Report Card](https://goreportcard.com) - A report card for your Go package.
 - [go.dev](https://go.dev/) - A hub for Go developers.
 - [gocryforhelp](https://github.com/ninedraft/gocryforhelp) [![GitHub stars](https://img.shields.io/github/stars/ninedraft/gocryforhelp?style=flat)](https://github.com/ninedraft/gocryforhelp/stargazers) - Collection of Go projects that needs help. Good place to start your open-source way in Go.
 - [Golang Developer Jobs](https://golangjob.xyz) - Developer Jobs exclusively for Golang related Roles.

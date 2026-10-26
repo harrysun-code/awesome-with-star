@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **230** projects · **64** actively maintained · **11** 🔥 hot · **51** 🪦 on the graveyard shelf.
+> Tracking **230** projects · **65** actively maintained · **11** 🔥 hot · **52** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -104,7 +104,6 @@ Also see:
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
 - [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
-- [Meet Magento Brazil](https://meetmagentobrasil.org/) - Meet Magento event series — Brazil.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
@@ -112,6 +111,7 @@ Also see:
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
+- [Meet Magento Brazil](https://meetmagentobrasil.org/) - Meet Magento event series — Brazil.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -170,6 +170,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) [![GitHub stars](https://img.shields.io/github/stars/mage2tv/magento-cache-clean?style=flat)](https://github.com/mage2tv/magento-cache-clean/stargazers) 🔥 - A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
 - [Magewire PHP](https://github.com/magewirephp/magewire) [![GitHub stars](https://img.shields.io/github/stars/magewirephp/magewire?style=flat)](https://github.com/magewirephp/magewire/stargazers) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
+- [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) [![GitHub stars](https://img.shields.io/github/stars/avstudnitz/AvS_ScopeHint2?style=flat)](https://github.com/avstudnitz/AvS_ScopeHint2/stargazers) 🫡 - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) [![GitHub stars](https://img.shields.io/github/stars/semaio/Magento2-ConfigImportExport?style=flat)](https://github.com/semaio/Magento2-ConfigImportExport/stargazers) 🫡 - CLI-based config management.
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento?style=flat)](https://github.com/bitExpert/phpstan-magento/stargazers) 🫡 - Magento-specific extension for PHPStan.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_Whoops?style=flat)](https://github.com/yireo/Yireo_Whoops/stargazers) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
@@ -180,7 +181,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) [![GitHub stars](https://img.shields.io/github/stars/ho-nl/magento2-Ho_Templatehints?style=flat)](https://github.com/ho-nl/magento2-Ho_Templatehints/stargazers) - Magento 2 Template Hints Helper.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) [![GitHub stars](https://img.shields.io/github/stars/gwillem/magevulndb?style=flat)](https://github.com/gwillem/magevulndb/stargazers) - Central repository for third-party Magento extensions with known security issues.
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) [![GitHub stars](https://img.shields.io/github/stars/ctidigital/magento2-configurator?style=flat)](https://github.com/ctidigital/magento2-configurator/stargazers) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
-- [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) [![GitHub stars](https://img.shields.io/github/stars/avstudnitz/AvS_ScopeHint2?style=flat)](https://github.com/avstudnitz/AvS_ScopeHint2/stargazers) - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) [![GitHub stars](https://img.shields.io/github/stars/elgentos/magento2-cypress-testing-suite/?style=flat)](https://github.com/elgentos/magento2-cypress-testing-suite//stargazers) - A community-driven Cypress testing suite for Magento 2.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_AutoFlushCache?style=flat)](https://github.com/yireo/Yireo_AutoFlushCache/stargazers) - Magento 2 module to automatically flush the cache.
 - [Dot Env](https://github.com/zepgram/magento-dotenv) [![GitHub stars](https://img.shields.io/github/stars/zepgram/magento-dotenv?style=flat)](https://github.com/zepgram/magento-dotenv/stargazers) - Magento 2 Environment Variable Component implementing Symfony Dotenv.
@@ -255,7 +255,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Marketing
 
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-google-tag-manager?style=flat)](https://github.com/magepal/magento2-google-tag-manager/stargazers) 🔥 - Google Tag Manager (GTM) with Data Layer for Magento 2.
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) [![GitHub stars](https://img.shields.io/github/stars/magepal/magento2-google-tag-manager?style=flat)](https://github.com/magepal/magento2-google-tag-manager/stargazers) 🔥 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-seo-extension?style=flat)](https://github.com/mageplaza/magento-2-seo-extension/stargazers) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) [![GitHub stars](https://img.shields.io/github/stars/Zwernemann/magento2-withdrawl?style=flat)](https://github.com/Zwernemann/magento2-withdrawl/stargazers) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog](https://github.com/mage-os-lab/module-blog) [![GitHub stars](https://img.shields.io/github/stars/mage-os-lab/module-blog?style=flat)](https://github.com/mage-os-lab/module-blog/stargazers) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
@@ -314,7 +314,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Infrastructure
 
-- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) [![GitHub stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager?style=flat)](https://github.com/Ethan3600/magento2-CronjobManager/stargazers) 🔥 🫡 - Cron Job Manager for Magento 2.
+- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) [![GitHub stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager?style=flat)](https://github.com/Ethan3600/magento2-CronjobManager/stargazers) 🔥 - Cron Job Manager for Magento 2.
 - [magento-cache-clean](https://github.com/mage-os/magento-cache-clean) [![GitHub stars](https://img.shields.io/github/stars/mage-os/magento-cache-clean?style=flat)](https://github.com/mage-os/magento-cache-clean/stargazers) 🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [module-theme-optimization](https://github.com/mage-os/module-theme-optimization) [![GitHub stars](https://img.shields.io/github/stars/mage-os/module-theme-optimization?style=flat)](https://github.com/mage-os/module-theme-optimization/stargazers) 🫡 - bfcache, speculative loading, and view transitions for Magento
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) [![GitHub stars](https://img.shields.io/github/stars/fastly/fastly-magento2?style=flat)](https://github.com/fastly/fastly-magento2/stargazers) - Magento 2 Fastly integration.

@@ -77,6 +77,7 @@
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) [![GitHub stars](https://img.shields.io/github/stars/ecthros/uncaptcha?style=flat)](https://github.com/ecthros/uncaptcha/stargazers) - Defeating Google's audio reCaptcha with 85% accuracy.
 - [dessant/buster](https://github.com/dessant/buster) [![GitHub stars](https://img.shields.io/github/stars/dessant/buster?style=flat)](https://github.com/dessant/buster/stargazers) - Captcha solver extension for humans and monsters.
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) [![GitHub stars](https://img.shields.io/github/stars/kerlomz/captcha_trainer?style=flat)](https://github.com/kerlomz/captcha_trainer/stargazers) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
+- [NoneCap](https://nonecap.com/) - Hosted hCaptcha solver API (regular, invisible and enterprise sitekeys) with Node.js and Python SDKs.
 
 ### Chinese
 - [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) [![GitHub stars](https://img.shields.io/github/stars/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src?style=flat)](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src/stargazers) - Handwritten chinese recognition.

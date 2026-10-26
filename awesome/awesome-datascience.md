@@ -147,6 +147,7 @@ This section contains agent frameworks and tools that are useful for data scienc
 - [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo-benchmark?style=flat)](https://github.com/yylo-dev/yylo-benchmark/stargazers) - Open-source trusted-host experiment runner for historical agent tasks, supplied coding prompts, and workflows. Runs independent attempts with retained outputs, and compares models, harnesses, and configurations with different checks or judges later. MIT licensed.
 - [YYLO](https://github.com/yylo-dev/yylo) [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=flat)](https://github.com/yylo-dev/yylo/stargazers) - Open-source command-line orchestrator for coding agents and repeatable workflows, with typed task, validation, merge, and release-readiness boundaries and receipt-backed repository changes. MIT licensed, installable via npm.
 - [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo-ledger?style=flat)](https://github.com/yylo-dev/yylo-ledger/stargazers) - Command-line task and workflow ledger for coding-agent projects: stores the Kanban board and task state as hash-chained Markdown inside the repository, tracks receipts and archives, and drives typed merge and release flows across agent worktrees. MIT licensed.
+- [Dex](https://github.com/exmergo/dex) [![GitHub stars](https://img.shields.io/github/stars/exmergo/dex?style=flat)](https://github.com/exmergo/dex/stargazers) - Open-source agent skills for analytics engineering: profile warehouse tables read-only with PII flags and verified joins, author dbt models and semantic layers as reviewable diffs, and detect schema drift.
 
 ### Research & Knowledge Retrieval
 - [BGPT MCP](https://bgpt.pro/mcp) - MCP server that gives AI agents access to a database of scientific papers built from raw experimental data extracted from full-text studies. Returns 25+ structured fields per paper including methods, results, sample sizes, and quality scores. [GitHub](https://github.com/connerlambden/bgpt-mcp) [![GitHub stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat)](https://github.com/connerlambden/bgpt-mcp/stargazers)
@@ -190,6 +191,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview) [![GitHub stars](https://img.shields.io/github/stars/khangich/machine-learning-interview?style=flat)](https://github.com/khangich/machine-learning-interview/stargazers)
+- [AI Engineer Interview Prep](https://github.com/landedjobs/awesome-ai-engineer-interview) [![GitHub stars](https://img.shields.io/github/stars/landedjobs/awesome-ai-engineer-interview?style=flat)](https://github.com/landedjobs/awesome-ai-engineer-interview/stargazers) - 267 AI engineer interview questions with answers, 10 worked system designs, and 12 company loop guides.
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](https://mlzoomcamp.com/)
 - [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 - [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
@@ -202,6 +204,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [StepByStepML](https://www.stepbystepml.com) - Interactive calculator that visualizes the step-by-step manual math behind machine learning algorithms for exam prep.
 - [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - A developer handbook on designing and building effective AI agents.
 - [Train LLM From Scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) [![GitHub stars](https://img.shields.io/github/stars/FareedKhan-dev/train-llm-from-scratch?style=flat)](https://github.com/FareedKhan-dev/train-llm-from-scratch/stargazers) - A straightforward method for training your LLM, from downloading data to generating text.
+- [Machine Learning 101](https://machinelearning101.com) - Free browser-based platform that teaches core machine learning algorithms through hands-on, interactive visualizations with no setup.
 
 ### Free Courses
 **[`^        back to top        ^`](#awesome-data-science)**

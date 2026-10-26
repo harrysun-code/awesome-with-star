@@ -1285,6 +1285,7 @@ _Switch / on/off toggle / checkbox_
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) [![GitHub stars](https://img.shields.io/github/stars/ckeditor/ckeditor5-vue?style=flat)](https://github.com/ckeditor/ckeditor5-vue/stargazers) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-quilly](https://github.com/alekswebnet/vue-quilly) [![GitHub stars](https://img.shields.io/github/stars/alekswebnet/vue-quilly?style=flat)](https://github.com/alekswebnet/vue-quilly/stargazers) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 - [blok](https://github.com/JackUait/blok) [![GitHub stars](https://img.shields.io/github/stars/JackUait/blok?style=flat)](https://github.com/JackUait/blok/stargazers) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
+- [CyteEditor](https://github.com/cyte-editor/cyteeditor-examples) [![GitHub stars](https://img.shields.io/github/stars/cyte-editor/cyteeditor-examples?style=flat)](https://github.com/cyte-editor/cyteeditor-examples/stargazers) - Rich text editor SDK with Word/Excel paste fidelity, built-in snapshot & version comparison, and official adapters for Vue 3, Vue 2, React, Svelte, Angular, and Vanilla JS.
 
 ##### Image Manipulation
 

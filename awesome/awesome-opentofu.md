@@ -10,6 +10,14 @@
 
 [OpenTofu](https://opentofu.org/) allows you to declaratively manage your infrastructure. It's an open-source, community-driven alternative to Terraform.
 
+> 💡 Maintain a tool or provider that supports OpenTofu? Add this badge to your README to raise its visibility:
+>
+> ![OpenTofu compatibility](https://img.shields.io/badge/OpenTofu-Compatible-FFDA18?logo=opentofu&logoColor=white)
+>
+> ```md
+> ![OpenTofu compatibility](https://img.shields.io/badge/OpenTofu-Compatible-FFDA18?logo=opentofu&logoColor=white)
+> ```
+
 ## Contents <!-- omit in toc -->
 
 - [Official](#official)
@@ -92,6 +100,7 @@
 - [tfam](https://github.com/Ant0wan/tfam) [![GitHub stars](https://img.shields.io/github/stars/Ant0wan/tfam?style=flat)](https://github.com/Ant0wan/tfam/stargazers) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe](https://github.com/Ant0wan/tfexe) [![GitHub stars](https://img.shields.io/github/stars/Ant0wan/tfexe?style=flat)](https://github.com/Ant0wan/tfexe/stargazers) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
 - [tfwrapper](https://github.com/claranet/tfwrapper) [![GitHub stars](https://img.shields.io/github/stars/claranet/tfwrapper?style=flat)](https://github.com/claranet/tfwrapper/stargazers) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
+- [tofunix](https://gitlab.com/TECHNOFAB/tofunix) - Nix flake library and CLI for defining and applying OpenTofu infrastructure as type-safe Nix expressions.
 
 ### CI
 
@@ -134,6 +143,8 @@
 *Alternatives to Terraform Cloud.*
 
 - [digger](https://github.com/diggerhq/digger) [![GitHub stars](https://img.shields.io/github/stars/diggerhq/digger?style=flat)](https://github.com/diggerhq/digger/stargazers) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
+- [Semaphore UI](https://semaphoreui.com/) - Self-hosted web UI and API for scheduling and running Ansible, Terraform/OpenTofu and other DevOps automation tasks.
+- [Stackorder](https://github.com/stackorder/stackorder) [![GitHub stars](https://img.shields.io/github/stars/stackorder/stackorder?style=flat)](https://github.com/stackorder/stackorder/stargazers) - Open-source OpenTofu and Terraform orchestrator on GitHub Actions that resolves cross-stack dependencies and applies changes in waves.
 - [Stategraph](https://stategraph.com) - State backend that eliminates the state file bottleneck. Teams plan in parallel with resource-level locking, and state is queryable via SQL.
 - [terrakube](https://github.com/AzBuilder/terrakube) [![GitHub stars](https://img.shields.io/github/stars/AzBuilder/terrakube?style=flat)](https://github.com/AzBuilder/terrakube/stargazers) - Open-source platform with a private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [Terramantle](https://terramantle.dev) - Free hosted module, state backend and private registry that maps module and provider dependencies and surfaces security, drift, and usage insights across your workspaces.
@@ -163,7 +174,7 @@
 - [zed Extension](https://github.com/ashpool37/zed-extension-opentofu) [![GitHub stars](https://img.shields.io/github/stars/ashpool37/zed-extension-opentofu?style=flat)](https://github.com/ashpool37/zed-extension-opentofu/stargazers) - Extension for the Zed Editor.
 - [terratag](https://github.com/env0/terratag) [![GitHub stars](https://img.shields.io/github/stars/env0/terratag?style=flat)](https://github.com/env0/terratag/stargazers) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) [![GitHub stars](https://img.shields.io/github/stars/minamijoyo/tfupdate?style=flat)](https://github.com/minamijoyo/tfupdate/stargazers) - Update version constraints in your Terraform / OpenTofu configurations.
-- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/templates/tree/main/src/opentofu?style=flat)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu/stargazers) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/images/tree/main/opentofu?style=flat)](https://github.com/bare-devcontainer/images/tree/main/opentofu/stargazers).
+- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/templates/tree/main/src/opentofu?style=flat)](https://github.com/bare-devcontainer/templates/tree/main/src/opentofu/stargazers) - Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/src/opentofu) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/images/tree/main/src/opentofu?style=flat)](https://github.com/bare-devcontainer/images/tree/main/src/opentofu/stargazers).
 - [TerraVision](https://github.com/patrickchugh/terravision) [![GitHub stars](https://img.shields.io/github/stars/patrickchugh/terravision?style=flat)](https://github.com/patrickchugh/terravision/stargazers) - Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.
 
 ## Learning

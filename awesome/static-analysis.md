@@ -1033,8 +1033,6 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 * ✨ Compatible: PHP >= 7.2
 
 
-- [dephpend](https://github.com/mihaeu/dephpend) [![GitHub stars](https://img.shields.io/github/stars/mihaeu/dephpend?style=flat)](https://github.com/mihaeu/dephpend/stargazers) — Dependency analysis tool.
-
 - [deptrac](https://github.com/sensiolabs-de/deptrac) [![GitHub stars](https://img.shields.io/github/stars/sensiolabs-de/deptrac?style=flat)](https://github.com/sensiolabs-de/deptrac/stargazers) — Enforce rules for dependencies between software layers.
 
 - [EasyCodingStandard](https://www.tomasvotruba.com/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines) — Combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) [![GitHub stars](https://img.shields.io/github/stars/squizlabs/PHP_CodeSniffer?style=flat)](https://github.com/squizlabs/PHP_CodeSniffer/stargazers) and [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) [![GitHub stars](https://img.shields.io/github/stars/FriendsOfPHP/PHP-CS-Fixer?style=flat)](https://github.com/FriendsOfPHP/PHP-CS-Fixer/stargazers).
@@ -1096,6 +1094,10 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 <summary>Show Deprecated</summary>
 
 - **CakeFuzzer** :warning: — Web application security testing tool for CakePHP-based web applications. CakeFuzzer employs a predefined set of attacks that are randomly modified before execution. Leveraging its deep understanding of the Cake PHP framework, Cake Fuzzer launches attacks on all potential application entry points.
+
+
+
+- **dephpend** :warning: — Dependency analysis tool.
 
 
 
@@ -1452,6 +1454,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) [![GitHub stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier?style=flat)](https://github.com/threedaymonk/htmlbeautifier/stargazers) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 - [rails_best_practices](https://rails-bestpractices.com) — A code metric tool for Rails projects
 
 - [reek](https://github.com/troessner/reek) [![GitHub stars](https://img.shields.io/github/stars/troessner/reek?style=flat)](https://github.com/troessner/reek/stargazers) — Code smell detector for Ruby.
@@ -1496,10 +1500,6 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 
 - **Fukuzatsu** :warning: — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
-
-
-
-- **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 
 
@@ -1594,6 +1594,8 @@ Kani verifies:
 
 - [lockbud](https://github.com/BurtonQin/lockbud) [![GitHub stars](https://img.shields.io/github/stars/BurtonQin/lockbud?style=flat)](https://github.com/BurtonQin/lockbud/stargazers) — Statically detects Rust deadlocks bugs. It currently detects two common kinds of deadlock bugs: doublelock and locks in conflicting order. It will print bugs in JSON format together with the source code location and an explanation of each bug.
 
+- [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html) — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
+
 - [Rudra](https://github.com/sslab-gatech/Rudra) [![GitHub stars](https://img.shields.io/github/stars/sslab-gatech/Rudra?style=flat)](https://github.com/sslab-gatech/Rudra/stargazers) — Rust Memory Safety & Undefined Behavior Detection. It is capable of analyzing single Rust packages as well as all the packages on crates.io.
 
 - [rust-analyzer](https://rust-analyzer.github.io) — Supports functionality such as 'goto definition', type inference, symbol search, reformatting, and code completion, and enables renaming and refactorings.
@@ -1649,10 +1651,6 @@ It removes a feature of a dependency and then compiles the project to see if it 
 
 
 - **prae** :warning: — Provides a convenient macro that allows you to generate type wrappers  that promise to always uphold arbitrary invariants that you specified. 
-
-
-
-- **Prusti** :warning: — A static verifier for Rust, based on the Viper verification infrastructure. By default Prusti verifies absence of panics by proving that statements such as unreachable!() and panic!() are unreachable.
 
 
 
@@ -2671,6 +2669,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [Violations Lib](https://github.com/tomasbjerre/violations-lib) [![GitHub stars](https://img.shields.io/github/stars/tomasbjerre/violations-lib?style=flat)](https://github.com/tomasbjerre/violations-lib/stargazers) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 
+- [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
+
 - [zizmor](https://zizmor.sh) — Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.
 
 
@@ -2728,16 +2728,14 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) [![GitHub stars](https://img.shields.io/github/stars/Shopify/erb-lint?style=flat)](https://github.com/Shopify/erb-lint/stargazers) — Lint your ERB or HTML files
 
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) [![GitHub stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier?style=flat)](https://github.com/threedaymonk/htmlbeautifier/stargazers) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
+
 
 
 <details>
 <summary>Show Deprecated</summary>
 
 - **ERB::Formatter** :warning: — Format ERB files with speed and precision.
-
-
-
-- **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 </details>
 
@@ -2769,6 +2767,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [ERB Lint](https://github.com/Shopify/erb-lint) [![GitHub stars](https://img.shields.io/github/stars/Shopify/erb-lint?style=flat)](https://github.com/Shopify/erb-lint/stargazers) — Lint your ERB or HTML files
 
 - [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
+
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) [![GitHub stars](https://img.shields.io/github/stars/threedaymonk/htmlbeautifier?style=flat)](https://github.com/threedaymonk/htmlbeautifier/stargazers) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 - [HTMLHint](https://htmlhint.com) — A Static Code Analysis Tool for HTML.
 
@@ -2806,10 +2806,6 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 
 - **HTML Tidy** :warning: — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
-
-
-
-- **htmlbeautifier** :warning: — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 </details>
 
@@ -2945,8 +2941,6 @@ but with the following improvements:
 
 - [markdownlint](https://github.com/DavidAnson/markdownlint) [![GitHub stars](https://img.shields.io/github/stars/DavidAnson/markdownlint?style=flat)](https://github.com/DavidAnson/markdownlint/stargazers) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
-- [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
-
 - [mdl](https://github.com/mivok/markdownlint) [![GitHub stars](https://img.shields.io/github/stars/mivok/markdownlint?style=flat)](https://github.com/mivok/markdownlint/stargazers) — A tool to check Markdown files and flag style issues.
 
 - [mdsf](https://github.com/hougesen/mdsf) [![GitHub stars](https://img.shields.io/github/stars/hougesen/mdsf?style=flat)](https://github.com/hougesen/mdsf/stargazers) — Format markdown code blocks using your favorite code formatters.
@@ -2956,6 +2950,15 @@ but with the following improvements:
 - [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
 
 - [textlint](https://textlint.github.io/) — textlint is an open source text linting utility written in JavaScript.
+
+
+
+<details>
+<summary>Show Deprecated</summary>
+
+- **mdformat** :warning: — CommonMark compliant Markdown formatter
+
+</details>
 
 
 
@@ -3227,6 +3230,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner) [![GitHub stars](https://img.shields.io/github/stars/google/tsunami-security-scanner?style=flat)](https://github.com/google/tsunami-security-scanner/stargazers) — A general purpose network security scanner with an extensible plugin system for  detecting high severity RCE-like vulnerabilities with high confidence. Custom detectors for finding vulnerabilities (e.g. open APIs) can be added.
 
+- [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
+
 - [zizmor](https://zizmor.sh) — Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.
 
 
@@ -3440,6 +3445,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 - [Spectral](https://stoplight.io/open-source/spectral) — A flexible JSON/YAML linter, with out-of-the-box support for OpenAPI v2/v3 and AsyncAPI v2.
 
 - [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+
+- [zanadir](https://mustachecase.github.io/) — Audits CI configuration (GitHub Actions, GitLab CI, CircleCI, Bitbucket Pipelines, Azure Pipelines, Jenkins) for missing security and quality controls such as SCA, secrets detection, SAST, IaC and workflow security, and grades whether each present control can actually fail the build (continue-on-error, || true, --exit-code 0, push-only triggers). Outputs table, JSON, SARIF or Markdown and prints CI snippets for the gaps.
 
 - [zizmor](https://zizmor.sh) — Static analysis for GitHub Actions workflows, detecting insecure CI/CD patterns such as excessive token permissions, template injection risks, credential persistence, and unsafe workflow references.
 

@@ -50,8 +50,7 @@ A curated list of fonts and typography resources.
 * [Plex](https://github.com/IBM/plex) [![GitHub stars](https://img.shields.io/github/stars/IBM/plex?style=flat)](https://github.com/IBM/plex/stargazers) - IBM's open source font
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - A collection of text mode fonts, system fonts and BIOS fonts from DOS-era PCs
 * [USWDS](https://github.com/uswds) [![GitHub stars](https://img.shields.io/github/stars/uswds?style=flat)](https://github.com/uswds/stargazers) - U.S. Web Design System
-  * [Public Sans](https://public-sans.digital.gov/)
-* [FontsKey](https://www.fontskey.com) - Provides free fonts for personal use and commercial paid fonts, and can enter text for quick filtering
+  * [Public Sans](https://github.com/uswds/public-sans) [![GitHub stars](https://img.shields.io/github/stars/uswds/public-sans?style=flat)](https://github.com/uswds/public-sans/stargazers)
 
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) [![GitHub stars](https://img.shields.io/github/stars/TypeNetwork/Amstelvar?style=flat)](https://github.com/TypeNetwork/Amstelvar/stargazers) - A parametric variable font
@@ -62,7 +61,7 @@ A curated list of fonts and typography resources.
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) [![GitHub stars](https://img.shields.io/github/stars/impallari/Libre-Franklin?style=flat)](https://github.com/impallari/Libre-Franklin/stargazers) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic
 * [Martian Mono](https://github.com/evilmartians/mono) [![GitHub stars](https://img.shields.io/github/stars/evilmartians/mono?style=flat)](https://github.com/evilmartians/mono/stargazers) - Free and open-source monospaced font from Evil Martians
 * [Monaspace](https://github.com/githubnext/monaspace) [![GitHub stars](https://img.shields.io/github/stars/githubnext/monaspace?style=flat)](https://github.com/githubnext/monaspace/stargazers) - An innovative superfamily of fonts for code
-* [Open Baskerville](http://klepas.org/openbaskerville/)
+* [Open Baskerville](https://github.com/klepas/open-baskerville) [![GitHub stars](https://img.shields.io/github/stars/klepas/open-baskerville?style=flat)](https://github.com/klepas/open-baskerville/stargazers)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) [![GitHub stars](https://img.shields.io/github/stars/christiannaths/Redacted-Font?style=flat)](https://github.com/christiannaths/Redacted-Font/stargazers) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans) [![GitHub stars](https://img.shields.io/github/stars/RoelN/SansBullshitSans?style=flat)](https://github.com/RoelN/SansBullshitSans/stargazers)
 * [Urbanist](https://github.com/coreyhu/Urbanist) [![GitHub stars](https://img.shields.io/github/stars/coreyhu/Urbanist?style=flat)](https://github.com/coreyhu/Urbanist/stargazers) - Geometric sans-serif variable font
@@ -203,7 +202,6 @@ A curated list of fonts and typography resources.
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font) [![GitHub stars](https://img.shields.io/github/stars/alyssais/font?style=flat)](https://github.com/alyssais/font/stargazers)
 * [fnt](https://github.com/alexmyczko/fnt) [![GitHub stars](https://img.shields.io/github/stars/alexmyczko/fnt?style=flat)](https://github.com/alexmyczko/fnt/stargazers) - Apt for fonts, the missing font manager for macOS/linux
-* [Easy Fonts](https://pagecdn.com/lib/easyfonts) - Makes webfonts easy to use for developers
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) [![GitHub stars](https://img.shields.io/github/stars/fontforge/fontforge?style=flat)](https://github.com/fontforge/fontforge/stargazers) - Cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) [![GitHub stars](https://img.shields.io/github/stars/powerline/fonts?style=flat)](https://github.com/powerline/fonts/stargazers) - Patched fonts for Powerline users
