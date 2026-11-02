@@ -55,7 +55,7 @@
 - [Dex](https://github.com/dexidp/dex) [![GitHub stars](https://img.shields.io/github/stars/dexidp/dex?style=flat)](https://github.com/dexidp/dex/stargazers) - Provider that acts as a portal to other identity providers through "connectors." like LDAP, SAML, OIDC or established identity providers like GitHub, Google, and Active Directory.
 - [Duende IdentityServer](https://duendesoftware.com/products/identityserver) - ASP.NET Core OpenID Connect Provider solution.
 - [Duo](https://duo.com/) - OpenID Connect Provider and IdP solution developed by Cisco.
-- [FrontEgg](https://docs.frontegg.com/docs/configure-frontegg-as-oidc-idp) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
+- [FrontEgg](https://frontegg.com/) - A Customer Identity solution for SaaS platform with OpenID Connect Provider capability.
 - [Keycloak](https://www.keycloak.org/) - Open Source project powered by RedHat which provides user federation, strong authentication, user management, fine-grained authorization, and more.
 - [Gluu](https://gluu.org/) - OpenID Connect Provider and FAPI certified solution and integrated with IAM.
 - [Gravitee.io](https://www.gravitee.io/platform/access-management) - Open Source OpenID Connect/OAuth 2.0 provider aims to be a bridge between applications and identity providers to authenticate, authorize and getting information about user accounts.
@@ -103,7 +103,7 @@
 
 ### C#
 
-- [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) [![GitHub stars](https://img.shields.io/github/stars/IdentityModel/IdentityModel.OidcClient?style=flat)](https://github.com/IdentityModel/IdentityModel.OidcClient/stargazers) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
+- [Duende.IdentityModel.OidcClient](https://github.com/DuendeSoftware/foss) [![GitHub stars](https://img.shields.io/github/stars/DuendeSoftware/foss?style=flat)](https://github.com/DuendeSoftware/foss/stargazers) - C# / .NET OpenID Connect relying party client certified library for native mobile/desktop applications.
 
 ### Dart
 
@@ -128,7 +128,7 @@
 
 ### JavaScript
 
-- [openid-client](https://github.com/panva/node-openid-client) [![GitHub stars](https://img.shields.io/github/stars/panva/node-openid-client?style=flat)](https://github.com/panva/node-openid-client/stargazers) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
+- [openid-client](https://github.com/panva/openid-client) [![GitHub stars](https://img.shields.io/github/stars/panva/openid-client?style=flat)](https://github.com/panva/openid-client/stargazers) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [oauth4webapi](https://github.com/panva/oauth4webapi) [![GitHub stars](https://img.shields.io/github/stars/panva/oauth4webapi?style=flat)](https://github.com/panva/oauth4webapi/stargazers) - OAuth 2/OpenID Connect library for JavaScript Runtimes.
 - [oidc-client-ts](https://github.com/authts/oidc-client-ts) [![GitHub stars](https://img.shields.io/github/stars/authts/oidc-client-ts?style=flat)](https://github.com/authts/oidc-client-ts/stargazers) - TypeScript OpenID Client and OAuth 2.0 client for browser-based applications.
 
@@ -169,7 +169,7 @@
 - [MiniOrange OAuth SSO](https://wordpress.org/plugins/miniorange-login-with-eve-online-google-facebook/) - Wordpress OAuth and OpenID Connect plugin developed and actively maintained by MiniOrange.
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [![GitHub stars](https://img.shields.io/github/stars/oauth2-proxy/oauth2-proxy?style=flat)](https://github.com/oauth2-proxy/oauth2-proxy/stargazers) - Reverse proxy adding OpenID Connect and OAuth 2.0 based authentication in front of any application.
 - [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc) [![GitHub stars](https://img.shields.io/github/stars/zmartzone/lua-resty-openidc?style=flat)](https://github.com/zmartzone/lua-resty-openidc/stargazers) - OpenID Connect Relying Party and OAuth 2.0 client Lua library for NGINX/OpenResty.
-- [Kong OpenID Connect](https://docs.konghq.com/hub/kong-inc/openid-connect/) - OpenID Connect Relying Party plugin for the Kong API Gateway.
+- [Kong OpenID Connect](https://developer.konghq.com/plugins/openid-connect/) - OpenID Connect Relying Party plugin for the Kong API Gateway.
 - [Apache APISIX openid-connect](https://apisix.apache.org/docs/apisix/plugins/openid-connect/) - OpenID Connect Relying Party plugin for the Apache APISIX API Gateway.
 - [traefikoidc](https://github.com/lukaszraczylo/traefikoidc) [![GitHub stars](https://img.shields.io/github/stars/lukaszraczylo/traefikoidc?style=flat)](https://github.com/lukaszraczylo/traefikoidc/stargazers) - OpenID Connect Relying Party middleware plugin for Traefik.
 - [caddy-security](https://github.com/greenpau/caddy-security) [![GitHub stars](https://img.shields.io/github/stars/greenpau/caddy-security?style=flat)](https://github.com/greenpau/caddy-security/stargazers) - OpenID Connect Relying Party authentication plugin for the Caddy web server.
@@ -238,24 +238,24 @@ Where to discover learning resources about OpenID Connect.
 - [FAPI 2.0 Security Profile](https://openid.net/specs/fapi-security-profile-2_0.html) - New version of the FAPI security profile that is suitable for protecting APIs with a high inherent risk in the context of Financial-grade APIs.
 - [FAPI 2.0 Attacker Model](https://openid.net/specs/fapi-attacker-model-2_0.html) - Security goals, attacker models and security mechanisms for Financial-grade APIs.
 - [FAPI 2.0 Message Signing](https://openid.net/specs/fapi-message-signing-2_0.html) - API security profile for signing and verifying certain FAPI 2.0 Security Profile based requests and responses.
+- [OAuth 2.0 Dynamic Client Registration Management Protocol](https://datatracker.ietf.org/doc/html/rfc7592) - Endpoints for management of OAuth 2.0 dynamic client registrations.
+- [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Specifications for putting in place bilateral federations between organizations.
+- [OpenID AuthZEN Authorization API 1.0](https://openid.net/specs/authorization-api-1_0.html) - Standardized API for requesting access decisions from an authorization service in order to ease integration between services.
+- [OpenID Shared Signals Framework Specification 1.0](https://openid.net/specs/openid-sharedsignals-framework-1_0.html) - Shared Signals Framework (SSF) enables sharing of signals and events between cooperating peers that enables multiple applications such as Risk Incident Sharing and Coordination (RISC) and the Continuous Access Evaluation Profile (CAEP).
+- [OAuth 2.0 for Browser-Based Applications](https://datatracker.ietf.org/doc/html/rfc10017) - Security and usability best practice for OAuth usage in Browser-based apps.
+- [Selective Disclosure for JWTs (SD-JWT)](https://datatracker.ietf.org/doc/html/rfc9901) - Specification for selective disclosure of JWT elements.
 
 #### Draft
 
 - [OAuth Client ID Metadata Document](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-client-id-metadata-document-02) - Mechanism through which an OAuth client can identify itself to authorization servers, without prior dynamic client registration or other existing registration.
-- [OAuth 2.0 Dynamic Client Registration Management Protocol](https://datatracker.ietf.org/doc/html/rfc7592) - Endpoints for management of OAuth 2.0 dynamic client registrations.
 - [OpenID Connect Standard Claims Registration for CBOR Web Tokens](https://datatracker.ietf.org/doc/html/draft-ietf-spice-oidc-cwt-01.html) - Defines how to represent the OpenID Connect standard claims in CBOR Web Tokens (CWTs).
-- [OpenID Connect Federation 1.0](https://openid.net/specs/openid-federation-1_0.html) - Draft specifications for putting in place bilateral federations between to organizations.
-- [OpenID AuthZEN](https://openid.net/specs/authorization-api-1_0-01.html) - Standardized API for requesting access decisions from an authorization service in order to ease integration between services.
 - [Financial-grade API: Client Initiated Backchannel Authentication Profile](https://openid.net/specs/openid-financial-api-ciba.html) - Financial services profile specifications for Client Initiated Backchannel Authentication (aka CIBA).
-- [OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps) - Security and usability best practice for OAuth usage in Browser-based apps.
-- [Selective Disclosure for JWTs (SD-JWT)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt) - Specification for selective disclosure of JWT elements.
-- [OAuth 2.1](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-13) - Consolidation of OAuth 2.0 specifications into a single document, removing deprecated features and clarifying best practices.
+- [OAuth 2.1](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1) - Consolidation of OAuth 2.0 specifications into a single document, removing deprecated features and clarifying best practices.
 - [OAuth 2.0 App2App Browserless Flow](https://github.com/yaron-zehavi/oauth-app2app-browserless) [![GitHub stars](https://img.shields.io/github/stars/yaron-zehavi/oauth-app2app-browserless?style=flat)](https://github.com/yaron-zehavi/oauth-app2app-browserless/stargazers) - Describing a protocol enabling native navigation across apps performing authentication using the App2App pattern, without requiring a web browser.
-- [OAuth 2.0 Attestation-Based Client Authentication](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07) - Extension to OAuth 2.0 enabling public clients to authenticate using key-bound attestations.
-- [OpenID Shared Signals Framework Specification 1.0](https://openid.net/specs/openid-sharedsignals-framework-1_0-ID3.html) - Shared Signals Framework (SSF) enables sharing of signals and events between cooperating peers that enables multiple applications such as Risk Incident Sharing and Coordination (RISC) and the Continuous Access Evaluation Profile (CAEP).
-- [Cross-App Access (XAA), formally known as the "Identity Assertion Authorization Grant"](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant-03.html) - Enables AI agents and apps to securely access and act across multiple services with user consent using standardized and fine-grained OAuth permissions.
-- [OAuth Identity and Authorization Chaining Across Domains](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-11) - Preserves user identity, authorization context, and call-chain history across multiple services and trust domains using OAuth token exchange and JWT-based assertions.
-- [OAuth 2.0 for First-Party Applications](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps-04.html) - Defines the Authorization Challenge Endpoint to enable native applications to obtain user authorization through native user interfaces.
+- [OAuth 2.0 Attestation-Based Client Authentication](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth) - Extension to OAuth 2.0 enabling public clients to authenticate using key-bound attestations.
+- [Cross-App Access (XAA), formally known as the "Identity Assertion Authorization Grant"](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-assertion-authz-grant) - Enables AI agents and apps to securely access and act across multiple services with user consent using standardized and fine-grained OAuth permissions.
+- [OAuth Identity and Authorization Chaining Across Domains](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining) - Preserves user identity, authorization context, and call-chain history across multiple services and trust domains using OAuth token exchange and JWT-based assertions.
+- [OAuth 2.0 for First-Party Applications](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-first-party-apps) - Defines the Authorization Challenge Endpoint to enable native applications to obtain user authorization through native user interfaces.
 - [OpenID Connect for Agents (OIDC-A) 1.0](https://arxiv.org/html/2509.25974v1) - A research proposal (not a standard or IETF draft) extending OpenID Connect to support AI agent identity, attestation, delegation chains, and fine-grained authorization within the OAuth ecosystem.
 
 ### Websites
@@ -264,7 +264,6 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth](https://oauth.net/) - The OAuth website maintained by Aaron Parecki which list different resources about the protocol.
 - [ByteByteGo](https://blog.bytebytego.com/i/135955829/oauth-explained-with-simple-terms) - Oauth 2.0 explains using visual and simple terms.
 - [Aaron Parecki](https://aaronparecki.com/articles) - OAuth WG Member blog posts about OAuth 2.0.
-- [Alex Bilbie](https://alexbilbie.github.io/tag/oauth/) - Blog posts about OAuth 2.0 topic.
 - [CerberAuth](https://www.cerberauth.com/) - A blog talking about OpenID Connect and OAuth 2.0.
 - [Nacho](https://nacho.cerberauth.com/) - An OAuth 2.0 client creation helper helping to choose the right grant type depending on the application.
 - [Curity Resources](https://curity.io/resources/openid-connect/) - Curity solution resources articles about OpenID Connect.

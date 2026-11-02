@@ -102,7 +102,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters, radio amateurs and professionals interested in developing ADS-B-related software.
 - [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
 - [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with a large collection of aircraft photos and information.
-- [Plane.watch](https://plane.watch) - A community hosted flight tracker.
+- [Plane.watch](https://www.plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
 - [adsb.chaos-consulting.de](https://adsb.chaos-consulting.de) - A non-commercial tracker for flights, ships, and radiosondes managed by enthusiasts. Focuses on the contributions of individual feeding stations.
 
@@ -162,11 +162,14 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) [![GitHub stars](https://img.shields.io/github/stars/wiedehopf/tar1090?style=flat)](https://github.com/wiedehopf/tar1090/stargazers) - A great way to view your ADS-B data.
 - [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) [![GitHub stars](https://img.shields.io/github/stars/amnesica/BelugaProject?style=flat)](https://github.com/amnesica/BelugaProject/stargazers) - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 - [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
+- [AndrewCTF/velocity](https://github.com/AndrewCTF/velocity) [![GitHub stars](https://img.shields.io/github/stars/AndrewCTF/velocity?style=flat)](https://github.com/AndrewCTF/velocity/stargazers) - A self-hosted flight and ship tracker on a 3D globe that records every position it sees so you can replay any moment, and folds in your own receiver's tar1090 or readsb feed.
+- [blindp3w/readsbstats](https://github.com/blindp3w/readsbstats) [![GitHub stars](https://img.shields.io/github/stars/blindp3w/readsbstats?style=flat)](https://github.com/blindp3w/readsbstats/stargazers) - Self-hosted flight history and statistics web UI for readsb. Stores positions in SQLite with per-flight track maps, a flagged aircraft gallery, a watchlist, a Telegram bot and receiver metrics.
 
 ### Apps
 
 - [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) [![GitHub stars](https://img.shields.io/github/stars/d4rken/adsb-meta-tracker?style=flat)](https://github.com/d4rken/adsb-meta-tracker/stargazers) - An Android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
 - [AirPing](https://airping.app) - An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker.
+- [Overhead 1090](https://overhead1090.com) - Native iPhone, iPad and Apple TV client for PiAware/dump1090-compatible receivers with a live radar map, logbook, daily reports and notable-sighting alerts. Local-network only, paid app.
 
 ### Social
 

@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **230** projects · **65** actively maintained · **11** 🔥 hot · **52** 🪦 on the graveyard shelf.
+> Tracking **230** projects · **68** actively maintained · **11** 🔥 hot · **52** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -100,11 +100,11 @@ Also see:
 
 - [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
 - [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
+- [Meet Magento Malaysia](https://www.meetmagento.asia/) 🫡 - Meet Magento event series — Malaysia.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
 - [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
-- [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
@@ -173,8 +173,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) [![GitHub stars](https://img.shields.io/github/stars/avstudnitz/AvS_ScopeHint2?style=flat)](https://github.com/avstudnitz/AvS_ScopeHint2/stargazers) 🫡 - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) [![GitHub stars](https://img.shields.io/github/stars/semaio/Magento2-ConfigImportExport?style=flat)](https://github.com/semaio/Magento2-ConfigImportExport/stargazers) 🫡 - CLI-based config management.
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) [![GitHub stars](https://img.shields.io/github/stars/bitExpert/phpstan-magento?style=flat)](https://github.com/bitExpert/phpstan-magento/stargazers) 🫡 - Magento-specific extension for PHPStan.
-- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_Whoops?style=flat)](https://github.com/yireo/Yireo_Whoops/stargazers) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) [![GitHub stars](https://img.shields.io/github/stars/graycoreio/magento2-cors?style=flat)](https://github.com/graycoreio/magento2-cors/stargazers) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
+- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_Whoops?style=flat)](https://github.com/yireo/Yireo_Whoops/stargazers) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) [![GitHub stars](https://img.shields.io/github/stars/run-as-root/magento2-prometheus-exporter?style=flat)](https://github.com/run-as-root/magento2-prometheus-exporter/stargazers) 🫡 - Prometheus Exporter for common Magento data.
 - [Yireo LokiComponents](https://github.com/yireo/Yireo_LokiComponents) [![GitHub stars](https://img.shields.io/github/stars/yireo/Yireo_LokiComponents?style=flat)](https://github.com/yireo/Yireo_LokiComponents/stargazers) 🫡 - A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) [![GitHub stars](https://img.shields.io/github/stars/mgtcommerce/Mgt_Developertoolbar?style=flat)](https://github.com/mgtcommerce/Mgt_Developertoolbar/stargazers) - Magento 2 Developer Toolbar.
@@ -210,12 +210,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Localization
 
-- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) [![GitHub stars](https://img.shields.io/github/stars/splendidinternet/Magento2_German_LocalePack_de_DE?style=flat)](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE/stargazers) 🔥 - German Language Package.
+- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) [![GitHub stars](https://img.shields.io/github/stars/splendidinternet/Magento2_German_LocalePack_de_DE?style=flat)](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE/stargazers) 🔥 🫡 - German Language Package.
+- [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) [![GitHub stars](https://img.shields.io/github/stars/hidonet/magento2-language-tr_tr?style=flat)](https://github.com/hidonet/magento2-language-tr_tr/stargazers) 🫡 - Turkish Language Package.
 - [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) [![GitHub stars](https://img.shields.io/github/stars/SnowdogApps/magento2-pl_pl?style=flat)](https://github.com/SnowdogApps/magento2-pl_pl/stargazers) - Polish Language Package.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-italian-language-pack?style=flat)](https://github.com/mageplaza/magento-2-italian-language-pack/stargazers) - Italian Language Package.
 - [nl_NL](https://github.com/magento-l10n/language-nl_NL) [![GitHub stars](https://img.shields.io/github/stars/magento-l10n/language-nl_NL?style=flat)](https://github.com/magento-l10n/language-nl_NL/stargazers) - Dutch Language Package.
 - [da_DK](https://magentodanmark.dk/) - Danish Language Package.
-- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-finnish-language-pack?style=flat)](https://github.com/mageplaza/magento-2-finnish-language-pack/stargazers) - Finnish Language Package.
 - [hr_HR](https://marketplace.magento.com/inchoo-language-hr-hr.html) - Croatian Language Package.
 
 <details>
@@ -223,7 +223,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br) [![GitHub stars](https://img.shields.io/github/stars/rafaelstz/traducao_magento2_pt_br?style=flat)](https://github.com/rafaelstz/traducao_magento2_pt_br/stargazers) - Portuguese Brazil Language Package.
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) [![GitHub stars](https://img.shields.io/github/stars/Imaginaerum/magento2-language-fr-fr?style=flat)](https://github.com/Imaginaerum/magento2-language-fr-fr/stargazers) - French Language Package.
-- [tr_TR](https://github.com/hidonet/magento2-language-tr_tr) [![GitHub stars](https://img.shields.io/github/stars/hidonet/magento2-language-tr_tr?style=flat)](https://github.com/hidonet/magento2-language-tr_tr/stargazers) - Turkish Language Package.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) [![GitHub stars](https://img.shields.io/github/stars/eusonlito/magento2-language-es_es?style=flat)](https://github.com/eusonlito/magento2-language-es_es/stargazers) - Spanish Language Package.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si) [![GitHub stars](https://img.shields.io/github/stars/symfony-si/magento2-sl-si?style=flat)](https://github.com/symfony-si/magento2-sl-si/stargazers) - Slovenian Language Package.
 - [ro_RO](https://github.com/EaDesgin/magento2-romanian-language-pack) [![GitHub stars](https://img.shields.io/github/stars/EaDesgin/magento2-romanian-language-pack?style=flat)](https://github.com/EaDesgin/magento2-romanian-language-pack/stargazers) - Romanian Language Package.
@@ -231,6 +230,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [ko_KR](https://github.com/mageplaza/magento-2-korean-language-pack) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-korean-language-pack?style=flat)](https://github.com/mageplaza/magento-2-korean-language-pack/stargazers) - Korean Language Package.
 - [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) [![GitHub stars](https://img.shields.io/github/stars/cubewebsites/magento2-language-en-gb?style=flat)](https://github.com/cubewebsites/magento2-language-en-gb/stargazers) - British Language Package.
 - [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) [![GitHub stars](https://img.shields.io/github/stars/SemExpert/Magento2-language-es_ar?style=flat)](https://github.com/SemExpert/Magento2-language-es_ar/stargazers) - Spanish (Argentina) Language Package.
+- [fi_FL](https://github.com/mageplaza/magento-2-finnish-language-pack) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-finnish-language-pack?style=flat)](https://github.com/mageplaza/magento-2-finnish-language-pack/stargazers) - Finnish Language Package.
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-slovak-language-pack?style=flat)](https://github.com/mageplaza/magento-2-slovak-language-pack/stargazers) - Slovakian Language Package.
 
 </details>

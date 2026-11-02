@@ -89,6 +89,8 @@ software or your own scripts.
 ## CCU Addons
 
 * [CCU Historian](https://ccu-historian.de/) - Langzeit Archiv und Graphen.
+* [ccu-addon-battery](https://github.com/hobbyquaker/ccu-addon-battery) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/ccu-addon-battery?style=flat)](https://github.com/hobbyquaker/ccu-addon-battery/stargazers) - Statistiken über den Batterieverbrauch von Homematic Geräten
+* [ccu-addon-longpressdim](https://github.com/hobbyquaker/ccu-addon-longpressdim) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/ccu-addon-longpressdim?style=flat)](https://github.com/hobbyquaker/ccu-addon-longpressdim/stargazers) - Dimmen mit langen Tastendruck über Schnittstellen- und Systemgrenzen hinweg.
 * [ccu-addon-mui](https://github.com/firsttris/ccu-addon-mui) [![GitHub stars](https://img.shields.io/github/stars/firsttris/ccu-addon-mui?style=flat)](https://github.com/firsttris/ccu-addon-mui/stargazers) - Moderne, responsive Progressive Web App (PWA) für die CCU3 mit integriertem WebSocket-Server.
 * [CUxD](https://github.com/jens-maus/cuxd) [![GitHub stars](https://img.shields.io/github/stars/jens-maus/cuxd?style=flat)](https://github.com/jens-maus/cuxd/stargazers) - Der "Leatherman" für die CCU. Verbindet FS20, ... (💵 EnOcean, ...), stellt virtuelle Geräte und hilfreiche Tools zur Verfügung.
 * [CUxD-Highcharts](https://github.com/homematic-community/CUxD-Highcharts) [![GitHub stars](https://img.shields.io/github/stars/homematic-community/CUxD-Highcharts?style=flat)](https://github.com/homematic-community/CUxD-Highcharts/stargazers) - Visualisiert CUxD DEVLOGS mit Highcharts/Highstock (verwaist, Maintainer gesucht).

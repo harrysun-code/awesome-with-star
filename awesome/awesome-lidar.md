@@ -108,6 +108,9 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Riegl](https://www.riegl.com/) - Riegl is a manufacturer of 3D laser scanning systems, based in Austria.
   - [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@RIEGLLIDAR)
   - [GitHub organization ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/riegllms) ![](https://img.shields.io/github/stars/riegllms?color=yellow&style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
+- [ERDI](https://specs.erdilrf.com/) - Laser rangefinder module and single-point LIDAR manufacturer (905 / 940 / 1535 nm, 9 m to 23 km), headquartered in Chengdu, China. Publishes an open specification dataset where every range figure keeps the verbatim test condition it was measured under.
+  - [Specification dataset ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/erdilrf-afk/erdi-lrf-specs)
+
 ## Datasets
 
 - [Ford Dataset](https://avdata.ford.com/) - The dataset is time-stamped and contains raw data from all the sensors, calibration values, pose trajectory, ground truth pose, and 3D maps. The data is Robot Operating System (ROS) compatible.
@@ -360,6 +363,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 - [CloudPeek](https://github.com/Geekgineer/CloudPeek) [![GitHub stars](https://img.shields.io/github/stars/Geekgineer/CloudPeek?style=flat)](https://github.com/Geekgineer/CloudPeek/stargazers) is a lightweight, c++ single-header, cross-platform point cloud viewer, designed for simplicity and efficiency without relying on heavy external libraries like PCL or Open3D.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Geekgineer/CloudPeek) ![](https://img.shields.io/github/stars/Geekgineer/CloudPeek?color=yellow&style=flat-square&logo=github)
 - [Which SLAM Algorithm Should I Choose?](https://www.slambotics.org/blog/which-slam-to-choose) Slambotics -  Choosing the Right SLAM Algorithm
+- [LidarKit](https://lidar-kit.com/) - Browser-based viewer and converter for LAS, LAZ, COPC and E57 that decodes files locally with WebAssembly (nothing is uploaded), with ground classification and DEM/orthophoto export.
 
 <img src="img/lidar02.svg" alt="LIDAR" />
 <img src="https://raw.githubusercontent.com/szenergy/awesome-lidar/refs/heads/main/img/cc0.svg" align="center" width="400" alt="CC0" />

@@ -105,6 +105,8 @@ This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org
 - [Pose Animator](https://pose-animator-demo.firebaseapp.com/camera.html) - A tool to bring SVG characters to life in the browser via motion capture.
 - [LipSync](https://lipsync.withyoutube.com/) - A web-based, playful, interactive experiences to lip sync to your favorite songs.
 - [BodyPix](https://storage.googleapis.com/tfjs-models/demos/body-pix/index.html) - A real-time person and body-part segmentation in the browser.
+- [TimeWarpScan.me](https://timewarpscan.me) - The viral Time Warp Scan filter, running 100% in the browser with your webcam. Slices webcam frames into tensors and stitches them back together. [[repo](https://github.com/GantMan/timewarp) [![GitHub stars](https://img.shields.io/github/stars/GantMan/timewarp?style=flat)](https://github.com/GantMan/timewarp/stargazers)]
+- [Enjoying The Show](https://enjoyingthe.show) - Real-time audience emotion tracking for speakers. Each audience member's webcam runs face-api in the browser and only the dominant expression is sent to the speaker's live chart. [[repo](https://github.com/GantMan/enjoytheshow) [![GitHub stars](https://img.shields.io/github/stars/GantMan/enjoytheshow?style=flat)](https://github.com/GantMan/enjoytheshow/stargazers)] [[talk](https://www.youtube.com/watch?v=GskMuu821NI)]
 
 
 ## 🔨 Tools

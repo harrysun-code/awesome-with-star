@@ -301,6 +301,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) [![GitHub stars](https://img.shields.io/github/stars/taigrr/neocrush.nvim?style=flat)](https://github.com/taigrr/neocrush.nvim/stargazers) - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
 - [zgs225/pi2.nvim](https://github.com/zgs225/pi2.nvim) [![GitHub stars](https://img.shields.io/github/stars/zgs225/pi2.nvim?style=flat)](https://github.com/zgs225/pi2.nvim/stargazers) - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 - [jaitd/fieldguide.nvim](https://github.com/jaitd/fieldguide.nvim) [![GitHub stars](https://img.shields.io/github/stars/jaitd/fieldguide.nvim?style=flat)](https://github.com/jaitd/fieldguide.nvim/stargazers) - Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.
+- [mrwatts88/ghost.nvim](https://github.com/mrwatts88/ghost.nvim) [![GitHub stars](https://img.shields.io/github/stars/mrwatts88/ghost.nvim?style=flat)](https://github.com/mrwatts88/ghost.nvim/stargazers) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -346,6 +347,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [redpierrot/ballerina.nvim](https://github.com/redpierrot/ballerina.nvim) [![GitHub stars](https://img.shields.io/github/stars/redpierrot/ballerina.nvim?style=flat)](https://github.com/redpierrot/ballerina.nvim/stargazers) - Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and `bal` run/test/build commands for the Ballerina language.
 - [jgonmor16/hdlsnip.nvim](https://github.com/jgonmor16/hdlsnip.nvim) [![GitHub stars](https://img.shields.io/github/stars/jgonmor16/hdlsnip.nvim?style=flat)](https://github.com/jgonmor16/hdlsnip.nvim/stargazers) - Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.
 - [upyesp/epher.nvim](https://github.com/upyesp/epher.nvim) [![GitHub stars](https://img.shields.io/github/stars/upyesp/epher.nvim?style=flat)](https://github.com/upyesp/epher.nvim/stargazers) - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
+- [dobsontom/dbt-ft.nvim](https://github.com/dobsontom/dbt-ft.nvim) [![GitHub stars](https://img.shields.io/github/stars/dobsontom/dbt-ft.nvim?style=flat)](https://github.com/dobsontom/dbt-ft.nvim/stargazers) - Jinja-aware filetype for `dbt` models, with Tree-sitter support for highlighting, folding, and indentation.
 
 ### Golang
 
@@ -388,7 +390,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 ### Markdown and LaTeX
 
 - [the-mayankjha/fk_markdown.nvim](https://github.com/the-mayankjha/fk_markdown.nvim) [![GitHub stars](https://img.shields.io/github/stars/the-mayankjha/fk_markdown.nvim?style=flat)](https://github.com/the-mayankjha/fk_markdown.nvim/stargazers) - Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images.
-- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.nvim?style=flat)](https://github.com/iamcco/markdown-preview.nvim/stargazers) - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
+- [sammaji/markdown-preview.nvim](https://github.com/sammaji/markdown-preview.nvim) [![GitHub stars](https://img.shields.io/github/stars/sammaji/markdown-preview.nvim?style=flat)](https://github.com/sammaji/markdown-preview.nvim/stargazers) - Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling.
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) [![GitHub stars](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview?style=flat)](https://github.com/davidgranstrom/nvim-markdown-preview/stargazers) - Markdown preview in the browser using pandoc and live-server through the job-control API.
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) [![GitHub stars](https://img.shields.io/github/stars/jghauser/auto-pandoc.nvim?style=flat)](https://github.com/jghauser/auto-pandoc.nvim/stargazers) - Easy pandoc conversion leveraging YAML blocks.
 - [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) [![GitHub stars](https://img.shields.io/github/stars/jghauser/follow-md-links.nvim?style=flat)](https://github.com/jghauser/follow-md-links.nvim/stargazers) - Press enter to follow internal Markdown links.
@@ -702,6 +704,7 @@ then it is not supported:
 - **_`[Fnl]`_** - Is written in Fennel.
 <!--lint enable awesome-list-item-->
 
+- [heritage-themes/heritage-themes.nvim](https://github.com/heritage-themes/heritage-themes.nvim) [![GitHub stars](https://img.shields.io/github/stars/heritage-themes/heritage-themes.nvim?style=flat)](https://github.com/heritage-themes/heritage-themes.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for `lualine.nvim` and `gitsigns.nvim`.
 - [zacesshq/zacess.nvim](https://github.com/zacesshq/zacess.nvim) [![GitHub stars](https://img.shields.io/github/stars/zacesshq/zacess.nvim?style=flat)](https://github.com/zacesshq/zacess.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 - [daaanny90/interlinked.nvim](https://github.com/daaanny90/interlinked.nvim) [![GitHub stars](https://img.shields.io/github/stars/daaanny90/interlinked.nvim?style=flat)](https://github.com/daaanny90/interlinked.nvim/stargazers) - **_`[TS][LSP][Lua]`_** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 - [rezniqov/soviet.nvim](https://github.com/rezniqov/soviet.nvim) [![GitHub stars](https://img.shields.io/github/stars/rezniqov/soviet.nvim?style=flat)](https://github.com/rezniqov/soviet.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Warm colorschemes inspired by soviet visual culture.
@@ -862,6 +865,8 @@ then it is not supported:
 - [jonestristand/dune.nvim](https://github.com/jonestristand/dune.nvim) [![GitHub stars](https://img.shields.io/github/stars/jonestristand/dune.nvim?style=flat)](https://github.com/jonestristand/dune.nvim/stargazers) - **_`[TS][LSP][Lua]`_** Four (plus one) variants inspired by Frank Herbert's Dune.
 - [2giosangmitom/nightfall.nvim](https://github.com/2giosangmitom/nightfall.nvim) [![GitHub stars](https://img.shields.io/github/stars/2giosangmitom/nightfall.nvim?style=flat)](https://github.com/2giosangmitom/nightfall.nvim/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Dracula-inspired colorscheme with four flavors including a light variant.
 - [oxidescheme/nvim](https://github.com/oxidescheme/nvim) [![GitHub stars](https://img.shields.io/github/stars/oxidescheme/nvim?style=flat)](https://github.com/oxidescheme/nvim/stargazers) - **_`[TS][LSP][Lua]`_** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
+- [RazikSF/lumina-themes](https://github.com/RazikSF/lumina-themes) [![GitHub stars](https://img.shields.io/github/stars/RazikSF/lumina-themes?style=flat)](https://github.com/RazikSF/lumina-themes/stargazers) - **_`[TS][LSP][L/D][Lua]`_** Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.
+- [kryptamine/gruber-darker-renaissance](https://github.com/kryptamine/gruber-darker-renaissance) [![GitHub stars](https://img.shields.io/github/stars/kryptamine/gruber-darker-renaissance?style=flat)](https://github.com/kryptamine/gruber-darker-renaissance/stargazers) - **_`[TS][LSP][Lua]`_** A dark, minimal colorscheme based on Gruber Darker.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -979,6 +984,7 @@ then it is not supported:
 - [leo-alvarenga/homecoming.nvim](https://github.com/leo-alvarenga/homecoming.nvim) [![GitHub stars](https://img.shields.io/github/stars/leo-alvarenga/homecoming.nvim?style=flat)](https://github.com/leo-alvarenga/homecoming.nvim/stargazers) - A dead-simple, customizable and cozy dashboard with sane defaults and zero config required.
 - [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim) [![GitHub stars](https://img.shields.io/github/stars/Amansingh-afk/milli.nvim?style=flat)](https://github.com/Amansingh-afk/milli.nvim/stargazers) - Animated ASCII splash screens with bundled animations and custom image or GIF support.
 - [zdcthomas/sprout.nvim](https://github.com/zdcthomas/sprout.nvim) [![GitHub stars](https://img.shields.io/github/stars/zdcthomas/sprout.nvim?style=flat)](https://github.com/zdcthomas/sprout.nvim/stargazers) - An ASCII art bonsai for your start screen that grows as the day goes forward.
+- [hawknewton/matrix-splash.nvim](https://github.com/hawknewton/matrix-splash.nvim) [![GitHub stars](https://img.shields.io/github/stars/hawknewton/matrix-splash.nvim?style=flat)](https://github.com/hawknewton/matrix-splash.nvim/stargazers) - Customizable Matrix-inspired splash screen.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1770,6 +1776,7 @@ then it is not supported:
 - [kiyoon/tmux-send.nvim](https://github.com/kiyoon/tmux-send.nvim) [![GitHub stars](https://img.shields.io/github/stars/kiyoon/tmux-send.nvim?style=flat)](https://github.com/kiyoon/tmux-send.nvim/stargazers) - Copy and paste buffer content or file path in either `nvim-tree`, `neo-tree` or `oil.nvim` to another tmux pane.
 - [jkeresman01/tmux-switch.nvim](https://github.com/jkeresman01/tmux-switch.nvim) [![GitHub stars](https://img.shields.io/github/stars/jkeresman01/tmux-switch.nvim?style=flat)](https://github.com/jkeresman01/tmux-switch.nvim/stargazers) - Provides fuzzy session switching for Tmux.
 - [salorak/libtmux.nvim](https://github.com/salorak/libtmux.nvim) [![GitHub stars](https://img.shields.io/github/stars/salorak/libtmux.nvim?style=flat)](https://github.com/salorak/libtmux.nvim/stargazers) - Thin wrapper for using the `tmux` API.
+- [minhyeoky/tmux-oil.nvim](https://github.com/minhyeoky/tmux-oil.nvim) [![GitHub stars](https://img.shields.io/github/stars/minhyeoky/tmux-oil.nvim?style=flat)](https://github.com/minhyeoky/tmux-oil.nvim/stargazers) - Edit tmux sessions and windows as lines in a buffer, like `oil.nvim`.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1888,6 +1895,7 @@ then it is not supported:
 - [TheItcor/MoaiVim](https://github.com/TheItcor/MoaiVim) [![GitHub stars](https://img.shields.io/github/stars/TheItcor/MoaiVim?style=flat)](https://github.com/TheItcor/MoaiVim/stargazers) - A minimalist config that emulates a lightweight IDE.
 - [plutowang/nvim.pack](https://github.com/plutowang/nvim.pack) [![GitHub stars](https://img.shields.io/github/stars/plutowang/nvim.pack?style=flat)](https://github.com/plutowang/nvim.pack/stargazers) - Declarative, event-driven lazy-loading configuration built purely on native Vim.pack for extreme startup performance.
 - [JimmyPla6z/FireVim](https://gitlab.com/JimmyPla6z/Firevim) - A lightweight, opinionated Neovim distribution with a single `init.lua`, built on Neovim 0.12+.
+- [gamjagoon/earlgrey.nvim](https://github.com/gamjagoon/earlgrey.nvim) [![GitHub stars](https://img.shields.io/github/stars/gamjagoon/earlgrey.nvim?style=flat)](https://github.com/gamjagoon/earlgrey.nvim/stargazers) - A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

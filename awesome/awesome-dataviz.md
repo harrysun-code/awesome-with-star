@@ -34,6 +34,19 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 	- [Machine Learning tools](#machine-learning-tools)
 	- [.NET tools](#net-tools)
 	- [Python tools](#python-tools)
+		- [Core plotting libraries](#core-plotting-libraries)
+		- [Matplotlib extensions](#matplotlib-extensions)
+		- [Grammar of graphics and declarative](#grammar-of-graphics-and-declarative)
+		- [Interactive web charts](#interactive-web-charts)
+		- [Dashboards and data apps](#dashboards-and-data-apps)
+		- [Exploratory data analysis and profiling](#exploratory-data-analysis-and-profiling)
+		- [Maps and geospatial](#maps-and-geospatial)
+		- [3D and scientific visualization](#3d-and-scientific-visualization)
+		- [High-performance and GPU](#high-performance-and-gpu)
+		- [Robotics and computer vision](#robotics-and-computer-vision)
+		- [Finance and trading](#finance-and-trading)
+		- [Terminal plotting](#terminal-plotting)
+		- [Text visualization](#text-visualization)
 	- [R tools](#r-tools)
 	- [Ruby tools](#ruby-tools)
 	- [Rust tools](#rust-tools)
@@ -285,6 +298,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 - [dtreeviz](https://github.com/parrt/dtreeviz) [![GitHub stars](https://img.shields.io/github/stars/parrt/dtreeviz?style=flat)](https://github.com/parrt/dtreeviz/stargazers) - Decision tree visualization and model interpretation library for Python.
 - [Embedding Atlas](https://github.com/apple/embedding-atlas) [![GitHub stars](https://img.shields.io/github/stars/apple/embedding-atlas?style=flat)](https://github.com/apple/embedding-atlas/stargazers) - Interactive visualization of large embeddings with search, filtering and density views, by Apple.
 - [FiftyOne](https://github.com/voxel51/fiftyone) [![GitHub stars](https://img.shields.io/github/stars/voxel51/fiftyone?style=flat)](https://github.com/voxel51/fiftyone/stargazers) - Tool for visualizing, curating and evaluating computer vision datasets and models.
+- [LightlyStudio](https://github.com/lightly-ai/lightly-studio) [![GitHub stars](https://img.shields.io/github/stars/lightly-ai/lightly-studio?style=flat)](https://github.com/lightly-ai/lightly-studio/stargazers) - Interactive embedding plot and sample grid to explore image and video datasets, with annotation overlays.
 - [LIT](https://github.com/PAIR-code/lit) [![GitHub stars](https://img.shields.io/github/stars/PAIR-code/lit?style=flat)](https://github.com/PAIR-code/lit/stargazers) - Learning Interpretability Tool: interactive visual analysis of ML model behavior, by Google PAIR.
 - [Model Explorer](https://github.com/google-ai-edge/model-explorer) [![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/model-explorer?style=flat)](https://github.com/google-ai-edge/model-explorer/stargazers) - Hierarchical graph visualizer and debugger for ML models, from Google.
 - [Netron](https://github.com/lutzroeder/netron) [![GitHub stars](https://img.shields.io/github/stars/lutzroeder/netron?style=flat)](https://github.com/lutzroeder/netron/stargazers) - Viewer for neural network, deep learning and machine learning models.
@@ -309,70 +323,95 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 - [XCharts](https://github.com/XCharts-Team/XCharts) [![GitHub stars](https://img.shields.io/github/stars/XCharts-Team/XCharts?style=flat)](https://github.com/XCharts-Team/XCharts/stargazers) - Charting and data visualization library for Unity, built on UGUI.
 
 ## Python tools
+### Core plotting libraries
+- [matplotlib](https://matplotlib.org/) - 2D plotting library.
+- [pygal](https://github.com/Kozea/pygal) [![GitHub stars](https://img.shields.io/github/stars/Kozea/pygal?style=flat)](https://github.com/Kozea/pygal/stargazers) - SVG charting library for Python with many chart types and interactive output.
+- [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
+- [toyplot](https://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
+- [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
+
+### Matplotlib extensions
+- [mpld3](https://github.com/mpld3/mpld3) [![GitHub stars](https://img.shields.io/github/stars/mpld3/mpld3?style=flat)](https://github.com/mpld3/mpld3/stargazers) - Renders matplotlib figures as interactive D3.js graphics in the browser.
+- [Quibbler](https://github.com/Technion-Kishony-lab/quibbler) [![GitHub stars](https://img.shields.io/github/stars/Technion-Kishony-lab/quibbler?style=flat)](https://github.com/Technion-Kishony-lab/quibbler/stargazers) - Your data and anything you plot is effortlessly live and interactive.
+- [SciencePlots](https://github.com/garrettj403/SciencePlots) [![GitHub stars](https://img.shields.io/github/stars/garrettj403/SciencePlots?style=flat)](https://github.com/garrettj403/SciencePlots/stargazers) - Matplotlib styles for scientific figures and journal publications.
+- [syd](https://github.com/landoskape/syd) [![GitHub stars](https://img.shields.io/github/stars/landoskape/syd?style=flat)](https://github.com/landoskape/syd/stargazers) - A package for making GUIs around matplotlib figures easy, fast, and streamlined.
+
+### Grammar of graphics and declarative
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-Lite.
-- [bokeh](https://bokeh.org/) - Interactive Web Plotting for Python.
-- [bqplot](https://github.com/bqplot/bqplot) [![GitHub stars](https://img.shields.io/github/stars/bqplot/bqplot?style=flat)](https://github.com/bqplot/bqplot/stargazers) - Plotting library for IPython/Jupyter notebooks.
-- [Cartopy](https://github.com/SciTools/cartopy) [![GitHub stars](https://img.shields.io/github/stars/SciTools/cartopy?style=flat)](https://github.com/SciTools/cartopy/stargazers) - Cartographic projections and geospatial data plotting with matplotlib.
-- [Chartify](https://github.com/spotify/chartify) [![GitHub stars](https://img.shields.io/github/stars/spotify/chartify?style=flat)](https://github.com/spotify/chartify/stargazers) - Bokeh wrapper that makes it easy for data scientists to create charts.
-- [D-Tale](https://github.com/man-group/dtale) [![GitHub stars](https://img.shields.io/github/stars/man-group/dtale?style=flat)](https://github.com/man-group/dtale/stargazers) - Web-based visual explorer for pandas DataFrames with charts, summaries and correlations.
-- [Dash](https://github.com/plotly/dash) [![GitHub stars](https://img.shields.io/github/stars/plotly/dash?style=flat)](https://github.com/plotly/dash/stargazers) - Framework for building data apps and dashboards in Python, built on Plotly.js and React.
-- [Datashader](https://github.com/holoviz/datashader) [![GitHub stars](https://img.shields.io/github/stars/holoviz/datashader?style=flat)](https://github.com/holoviz/datashader/stargazers) - Renders very large datasets into accurate images by rasterizing them.
-- [diagram](https://github.com/tehmaze/diagram) [![GitHub stars](https://img.shields.io/github/stars/tehmaze/diagram?style=flat)](https://github.com/tehmaze/diagram/stargazers) - Text mode diagrams using UTF-8 characters
-- [fastplotlib](https://github.com/fastplotlib/fastplotlib) [![GitHub stars](https://img.shields.io/github/stars/fastplotlib/fastplotlib?style=flat)](https://github.com/fastplotlib/fastplotlib/stargazers) - GPU-accelerated plotting library built on WGPU and pygfx for fast interactive visualization.
-- [folium](https://github.com/python-visualization/folium) [![GitHub stars](https://img.shields.io/github/stars/python-visualization/folium?style=flat)](https://github.com/python-visualization/folium/stargazers) - Builds interactive Leaflet.js maps from Python data.
 - [ggplot](https://github.com/yhat/ggpy) [![GitHub stars](https://img.shields.io/github/stars/yhat/ggpy?style=flat)](https://github.com/yhat/ggpy/stargazers) - plotting system based on [R's](#r-tools) ggplot2.
-- [glumpy](https://github.com/glumpy/glumpy) [![GitHub stars](https://img.shields.io/github/stars/glumpy/glumpy?style=flat)](https://github.com/glumpy/glumpy/stargazers) - OpenGL scientific visualizations library.
 - [holoviews](https://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [hvPlot](https://github.com/holoviz/hvplot) [![GitHub stars](https://img.shields.io/github/stars/holoviz/hvplot?style=flat)](https://github.com/holoviz/hvplot/stargazers) - High-level plotting API for pandas, xarray, Dask, NetworkX and other data structures, built on HoloViews.
-- [ipychart](https://github.com/nicohlr/ipychart) [![GitHub stars](https://img.shields.io/github/stars/nicohlr/ipychart?style=flat)](https://github.com/nicohlr/ipychart/stargazers) - The power of Chart.js in Jupyter Notebook.
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) [![GitHub stars](https://img.shields.io/github/stars/jupyter-widgets/ipyleaflet?style=flat)](https://github.com/jupyter-widgets/ipyleaflet/stargazers) - Interactive Leaflet maps in Jupyter notebooks, built on ipywidgets.
-- [leafmap](https://github.com/opengeos/leafmap) [![GitHub stars](https://img.shields.io/github/stars/opengeos/leafmap?style=flat)](https://github.com/opengeos/leafmap/stargazers) - Interactive mapping and geospatial analysis in Jupyter with multiple mapping backends.
 - [Lets-Plot](https://github.com/JetBrains/lets-plot) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/lets-plot?style=flat)](https://github.com/JetBrains/lets-plot/stargazers) - Grammar of graphics plotting library for Python and Kotlin, by JetBrains.
-- [LIDA](https://github.com/microsoft/lida) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida?style=flat)](https://github.com/microsoft/lida/stargazers) - Generates visualizations and infographics from data with large language models, from Microsoft.
-- [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python) [![GitHub stars](https://img.shields.io/github/stars/louisnw01/lightweight-charts-python?style=flat)](https://github.com/louisnw01/lightweight-charts-python/stargazers) - Python interface to TradingView's Lightweight Charts for financial charts.
-- [Lonboard](https://github.com/developmentseed/lonboard) [![GitHub stars](https://img.shields.io/github/stars/developmentseed/lonboard?style=flat)](https://github.com/developmentseed/lonboard/stargazers) - Fast, interactive geospatial data visualization in Jupyter, built on deck.gl and GeoArrow.
-- [matplotlib](https://matplotlib.org/) - 2D plotting library.
-- [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
-- [missingno](https://github.com/ResidentMario/missingno) [![GitHub stars](https://img.shields.io/github/stars/ResidentMario/missingno?style=flat)](https://github.com/ResidentMario/missingno/stargazers) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
-- [mpld3](https://github.com/mpld3/mpld3) [![GitHub stars](https://img.shields.io/github/stars/mpld3/mpld3?style=flat)](https://github.com/mpld3/mpld3/stargazers) - Renders matplotlib figures as interactive D3.js graphics in the browser.
-- [mplfinance](https://github.com/matplotlib/mplfinance) [![GitHub stars](https://img.shields.io/github/stars/matplotlib/mplfinance?style=flat)](https://github.com/matplotlib/mplfinance/stargazers) - Financial market data visualization (candlestick, OHLC, volume) using matplotlib.
-- [napari](https://github.com/napari/napari) [![GitHub stars](https://img.shields.io/github/stars/napari/napari?style=flat)](https://github.com/napari/napari/stargazers) - Fast, interactive viewer for multi-dimensional images in Python.
-- [Panel](https://github.com/holoviz/panel) [![GitHub stars](https://img.shields.io/github/stars/holoviz/panel?style=flat)](https://github.com/holoviz/panel/stargazers) - Data exploration and web app framework for Python that works with many plotting libraries.
-- [Plotext](https://github.com/piccolomo/plotext) [![GitHub stars](https://img.shields.io/github/stars/piccolomo/plotext?style=flat)](https://github.com/piccolomo/plotext/stargazers) - Plots data directly in the terminal with a matplotlib-like syntax.
-- [plotly](https://plotly.com/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js) [![GitHub stars](https://img.shields.io/github/stars/plotly/plotly.js?style=flat)](https://github.com/plotly/plotly.js/stargazers)
 - [plotnine](https://github.com/has2k1/plotnine) [![GitHub stars](https://img.shields.io/github/stars/has2k1/plotnine?style=flat)](https://github.com/has2k1/plotnine/stargazers) - Grammar of graphics for Python, based on R's ggplot2.
-- [pptk](https://github.com/heremaps/pptk) [![GitHub stars](https://img.shields.io/github/stars/heremaps/pptk?style=flat)](https://github.com/heremaps/pptk/stargazers) - Visualize and work with 2D/3D pointclouds
-- [prettymaps](https://github.com/marceloprates/prettymaps) [![GitHub stars](https://img.shields.io/github/stars/marceloprates/prettymaps?style=flat)](https://github.com/marceloprates/prettymaps/stargazers) - Draws stylized maps from OpenStreetMap data, using osmnx and matplotlib.
+
+### Interactive web charts
+- [bokeh](https://bokeh.org/) - Interactive Web Plotting for Python.
+- [bqplot](https://github.com/bqplot/bqplot) [![GitHub stars](https://img.shields.io/github/stars/bqplot/bqplot?style=flat)](https://github.com/bqplot/bqplot/stargazers) - Plotting library for IPython/Jupyter notebooks.
+- [Chartify](https://github.com/spotify/chartify) [![GitHub stars](https://img.shields.io/github/stars/spotify/chartify?style=flat)](https://github.com/spotify/chartify/stargazers) - Bokeh wrapper that makes it easy for data scientists to create charts.
+- [ipychart](https://github.com/nicohlr/ipychart) [![GitHub stars](https://img.shields.io/github/stars/nicohlr/ipychart?style=flat)](https://github.com/nicohlr/ipychart/stargazers) - The power of Chart.js in Jupyter Notebook.
+- [plotly](https://plotly.com/python/) - Interactive web based visualization built on top of [plotly.js](https://github.com/plotly/plotly.js) [![GitHub stars](https://img.shields.io/github/stars/plotly/plotly.js?style=flat)](https://github.com/plotly/plotly.js/stargazers)
 - [pyecharts](https://github.com/pyecharts/pyecharts) [![GitHub stars](https://img.shields.io/github/stars/pyecharts/pyecharts?style=flat)](https://github.com/pyecharts/pyecharts/stargazers) - Python binding for Echarts library.
-- [pygal](https://github.com/Kozea/pygal) [![GitHub stars](https://img.shields.io/github/stars/Kozea/pygal?style=flat)](https://github.com/Kozea/pygal/stargazers) - SVG charting library for Python with many chart types and interactive output.
-- [PyGMT](https://github.com/GenericMappingTools/pygmt) [![GitHub stars](https://img.shields.io/github/stars/GenericMappingTools/pygmt?style=flat)](https://github.com/GenericMappingTools/pygmt/stargazers) - Python interface to the Generic Mapping Tools (GMT) for maps and figures in the geosciences.
-- [PyGWalker](https://github.com/Kanaries/pygwalker) [![GitHub stars](https://img.shields.io/github/stars/Kanaries/pygwalker?style=flat)](https://github.com/Kanaries/pygwalker/stargazers) - Turns dataframes into a drag-and-drop visual analysis UI in Jupyter, based on Graphic Walker.
-- [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
-- [PyVista](https://github.com/pyvista/pyvista) [![GitHub stars](https://img.shields.io/github/stars/pyvista/pyvista?style=flat)](https://github.com/pyvista/pyvista/stargazers) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
-- [Quibbler](https://github.com/Technion-Kishony-lab/quibbler) [![GitHub stars](https://img.shields.io/github/stars/Technion-Kishony-lab/quibbler?style=flat)](https://github.com/Technion-Kishony-lab/quibbler/stargazers) - Your data and anything you plot is effortlessly live and interactive.
-- [Rerun](https://github.com/rerun-io/rerun) [![GitHub stars](https://img.shields.io/github/stars/rerun-io/rerun?style=flat)](https://github.com/rerun-io/rerun/stargazers) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
-- [scattertext](https://github.com/JasonKessler/scattertext) [![GitHub stars](https://img.shields.io/github/stars/JasonKessler/scattertext?style=flat)](https://github.com/JasonKessler/scattertext/stargazers) - Interactive scatterplot visualizations of how language differs between groups of documents.
-- [SciencePlots](https://github.com/garrettj403/SciencePlots) [![GitHub stars](https://img.shields.io/github/stars/garrettj403/SciencePlots?style=flat)](https://github.com/garrettj403/SciencePlots/stargazers) - Matplotlib styles for scientific figures and journal publications.
-- [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
+
+### Dashboards and data apps
+- [Dash](https://github.com/plotly/dash) [![GitHub stars](https://img.shields.io/github/stars/plotly/dash?style=flat)](https://github.com/plotly/dash/stargazers) - Framework for building data apps and dashboards in Python, built on Plotly.js and React.
+- [Panel](https://github.com/holoviz/panel) [![GitHub stars](https://img.shields.io/github/stars/holoviz/panel?style=flat)](https://github.com/holoviz/panel/stargazers) - Data exploration and web app framework for Python that works with many plotting libraries.
 - [Shiny for Python](https://github.com/posit-dev/py-shiny) [![GitHub stars](https://img.shields.io/github/stars/posit-dev/py-shiny?style=flat)](https://github.com/posit-dev/py-shiny/stargazers) - Python version of the Shiny reactive framework for interactive data apps.
 - [Streamlit](https://github.com/streamlit/streamlit) [![GitHub stars](https://img.shields.io/github/stars/streamlit/streamlit?style=flat)](https://github.com/streamlit/streamlit/stargazers) - Framework for turning Python scripts into interactive data apps.
-- [Sweetviz](https://github.com/fbdesignpro/sweetviz) [![GitHub stars](https://img.shields.io/github/stars/fbdesignpro/sweetviz?style=flat)](https://github.com/fbdesignpro/sweetviz/stargazers) - Generates self-contained HTML reports that visualize and compare datasets for exploratory analysis.
-- [syd](https://github.com/landoskape/syd) [![GitHub stars](https://img.shields.io/github/stars/landoskape/syd?style=flat)](https://github.com/landoskape/syd/stargazers) - A package for making GUIs around matplotlib figures easy, fast, and streamlined.
 - [Taipy](https://github.com/Avaiga/taipy) [![GitHub stars](https://img.shields.io/github/stars/Avaiga/taipy?style=flat)](https://github.com/Avaiga/taipy/stargazers) - Python framework for building data and AI web applications with interactive charts and dashboards.
-- [termgraph](https://github.com/mkaz/termgraph) [![GitHub stars](https://img.shields.io/github/stars/mkaz/termgraph?style=flat)](https://github.com/mkaz/termgraph/stargazers) - Draws bar charts, histograms and other basic graphs in the terminal, as a CLI or Python library.
-- [three.py](https://github.com/stemkoski/three.py/) [![GitHub stars](https://img.shields.io/github/stars/stemkoski/three.py/?style=flat)](https://github.com/stemkoski/three.py//stargazers) - Easy to use 3D library based on PyOpenGL. Inspired by Three.js.
-- [toyplot](https://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
-- [uniplot](https://github.com/olavolav/uniplot) [![GitHub stars](https://img.shields.io/github/stars/olavolav/uniplot?style=flat)](https://github.com/olavolav/uniplot/stargazers) - Lightweight plotting to the terminal. 4x resolution via Unicode.
-- [vedo](https://github.com/marcomusy/vedo) [![GitHub stars](https://img.shields.io/github/stars/marcomusy/vedo?style=flat)](https://github.com/marcomusy/vedo/stargazers) - Library for scientific analysis and visualization of 3D objects based on VTK.
-- [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
-- [viser](https://github.com/viser-project/viser) [![GitHub stars](https://img.shields.io/github/stars/viser-project/viser?style=flat)](https://github.com/viser-project/viser/stargazers) - Web-based 3D visualization library for computer vision and robotics, with GUI building blocks.
-- [VisPy](https://vispy.org/) - High-performance scientific visualization based on OpenGL.
 - [Vizro](https://github.com/mckinsey/vizro) [![GitHub stars](https://img.shields.io/github/stars/mckinsey/vizro?style=flat)](https://github.com/mckinsey/vizro/stargazers) - Low-code toolkit from McKinsey for building data visualization apps and dashboards, built on Dash.
 - [Voilà](https://github.com/voila-dashboards/voila) [![GitHub stars](https://img.shields.io/github/stars/voila-dashboards/voila?style=flat)](https://github.com/voila-dashboards/voila/stargazers) - Turns Jupyter notebooks into standalone interactive web applications.
-- [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
-- [WordCloud](https://github.com/amueller/word_cloud) [![GitHub stars](https://img.shields.io/github/stars/amueller/word_cloud?style=flat)](https://github.com/amueller/word_cloud/stargazers) - Word cloud generator for Python.
+
+### Exploratory data analysis and profiling
+- [D-Tale](https://github.com/man-group/dtale) [![GitHub stars](https://img.shields.io/github/stars/man-group/dtale?style=flat)](https://github.com/man-group/dtale/stargazers) - Web-based visual explorer for pandas DataFrames with charts, summaries and correlations.
+- [LIDA](https://github.com/microsoft/lida) [![GitHub stars](https://img.shields.io/github/stars/microsoft/lida?style=flat)](https://github.com/microsoft/lida/stargazers) - Generates visualizations and infographics from data with large language models, from Microsoft.
+- [missingno](https://github.com/ResidentMario/missingno) [![GitHub stars](https://img.shields.io/github/stars/ResidentMario/missingno?style=flat)](https://github.com/ResidentMario/missingno/stargazers) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
+- [PyGWalker](https://github.com/Kanaries/pygwalker) [![GitHub stars](https://img.shields.io/github/stars/Kanaries/pygwalker?style=flat)](https://github.com/Kanaries/pygwalker/stargazers) - Turns dataframes into a drag-and-drop visual analysis UI in Jupyter, based on Graphic Walker.
+- [Sweetviz](https://github.com/fbdesignpro/sweetviz) [![GitHub stars](https://img.shields.io/github/stars/fbdesignpro/sweetviz?style=flat)](https://github.com/fbdesignpro/sweetviz/stargazers) - Generates self-contained HTML reports that visualize and compare datasets for exploratory analysis.
 - [ydata-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) [![GitHub stars](https://img.shields.io/github/stars/Data-Centric-AI-Community/fg-data-profiling?style=flat)](https://github.com/Data-Centric-AI-Community/fg-data-profiling/stargazers) - Generates statistical analytic reports with visualization for quick data analysis (formerly pandas-profiling).
+
+### Maps and geospatial
+- [Cartopy](https://github.com/SciTools/cartopy) [![GitHub stars](https://img.shields.io/github/stars/SciTools/cartopy?style=flat)](https://github.com/SciTools/cartopy/stargazers) - Cartographic projections and geospatial data plotting with matplotlib.
+- [folium](https://github.com/python-visualization/folium) [![GitHub stars](https://img.shields.io/github/stars/python-visualization/folium?style=flat)](https://github.com/python-visualization/folium/stargazers) - Builds interactive Leaflet.js maps from Python data.
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) [![GitHub stars](https://img.shields.io/github/stars/jupyter-widgets/ipyleaflet?style=flat)](https://github.com/jupyter-widgets/ipyleaflet/stargazers) - Interactive Leaflet maps in Jupyter notebooks, built on ipywidgets.
+- [leafmap](https://github.com/opengeos/leafmap) [![GitHub stars](https://img.shields.io/github/stars/opengeos/leafmap?style=flat)](https://github.com/opengeos/leafmap/stargazers) - Interactive mapping and geospatial analysis in Jupyter with multiple mapping backends.
+- [Lonboard](https://github.com/developmentseed/lonboard) [![GitHub stars](https://img.shields.io/github/stars/developmentseed/lonboard?style=flat)](https://github.com/developmentseed/lonboard/stargazers) - Fast, interactive geospatial data visualization in Jupyter, built on deck.gl and GeoArrow.
+- [prettymaps](https://github.com/marceloprates/prettymaps) [![GitHub stars](https://img.shields.io/github/stars/marceloprates/prettymaps?style=flat)](https://github.com/marceloprates/prettymaps/stargazers) - Draws stylized maps from OpenStreetMap data, using osmnx and matplotlib.
+- [PyGMT](https://github.com/GenericMappingTools/pygmt) [![GitHub stars](https://img.shields.io/github/stars/GenericMappingTools/pygmt?style=flat)](https://github.com/GenericMappingTools/pygmt/stargazers) - Python interface to the Generic Mapping Tools (GMT) for maps and figures in the geosciences.
+
+### 3D and scientific visualization
+- [mayavi](https://docs.enthought.com/mayavi/mayavi/) - interactive scientific data visualization and 3D plotting in Python.
+- [napari](https://github.com/napari/napari) [![GitHub stars](https://img.shields.io/github/stars/napari/napari?style=flat)](https://github.com/napari/napari/stargazers) - Fast, interactive viewer for multi-dimensional images in Python.
+- [pptk](https://github.com/heremaps/pptk) [![GitHub stars](https://img.shields.io/github/stars/heremaps/pptk?style=flat)](https://github.com/heremaps/pptk/stargazers) - Visualize and work with 2D/3D pointclouds
+- [PyVista](https://github.com/pyvista/pyvista) [![GitHub stars](https://img.shields.io/github/stars/pyvista/pyvista?style=flat)](https://github.com/pyvista/pyvista/stargazers) – 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
+- [three.py](https://github.com/stemkoski/three.py/) [![GitHub stars](https://img.shields.io/github/stars/stemkoski/three.py/?style=flat)](https://github.com/stemkoski/three.py//stargazers) - Easy to use 3D library based on PyOpenGL. Inspired by Three.js.
+- [vedo](https://github.com/marcomusy/vedo) [![GitHub stars](https://img.shields.io/github/stars/marcomusy/vedo?style=flat)](https://github.com/marcomusy/vedo/stargazers) - Library for scientific analysis and visualization of 3D objects based on VTK.
+- [vtk](https://www.vtk.org/) - 3D computer graphics, image processing, and visualization that includes a Python interface.
 - [yt](https://github.com/yt-project/yt) [![GitHub stars](https://img.shields.io/github/stars/yt-project/yt?style=flat)](https://github.com/yt-project/yt/stargazers) - Toolkit for analysis and visualization of volumetric data.
+
+### High-performance and GPU
+- [Datashader](https://github.com/holoviz/datashader) [![GitHub stars](https://img.shields.io/github/stars/holoviz/datashader?style=flat)](https://github.com/holoviz/datashader/stargazers) - Renders very large datasets into accurate images by rasterizing them.
+- [fastplotlib](https://github.com/fastplotlib/fastplotlib) [![GitHub stars](https://img.shields.io/github/stars/fastplotlib/fastplotlib?style=flat)](https://github.com/fastplotlib/fastplotlib/stargazers) - GPU-accelerated plotting library built on WGPU and pygfx for fast interactive visualization.
+- [glumpy](https://github.com/glumpy/glumpy) [![GitHub stars](https://img.shields.io/github/stars/glumpy/glumpy?style=flat)](https://github.com/glumpy/glumpy/stargazers) - OpenGL scientific visualizations library.
+- [PyQtGraph](https://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
+- [VisPy](https://vispy.org/) - High-performance scientific visualization based on OpenGL.
+
+### Robotics and computer vision
+- [Rerun](https://github.com/rerun-io/rerun) [![GitHub stars](https://img.shields.io/github/stars/rerun-io/rerun?style=flat)](https://github.com/rerun-io/rerun/stargazers) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time.
+- [viser](https://github.com/viser-project/viser) [![GitHub stars](https://img.shields.io/github/stars/viser-project/viser?style=flat)](https://github.com/viser-project/viser/stargazers) - Web-based 3D visualization library for computer vision and robotics, with GUI building blocks.
+
+### Finance and trading
+- [lightweight-charts-python](https://github.com/louisnw01/lightweight-charts-python) [![GitHub stars](https://img.shields.io/github/stars/louisnw01/lightweight-charts-python?style=flat)](https://github.com/louisnw01/lightweight-charts-python/stargazers) - Python interface to TradingView's Lightweight Charts for financial charts.
+- [mplfinance](https://github.com/matplotlib/mplfinance) [![GitHub stars](https://img.shields.io/github/stars/matplotlib/mplfinance?style=flat)](https://github.com/matplotlib/mplfinance/stargazers) - Financial market data visualization (candlestick, OHLC, volume) using matplotlib.
+
+### Terminal plotting
+- [diagram](https://github.com/tehmaze/diagram) [![GitHub stars](https://img.shields.io/github/stars/tehmaze/diagram?style=flat)](https://github.com/tehmaze/diagram/stargazers) - Text mode diagrams using UTF-8 characters
+- [Plotext](https://github.com/piccolomo/plotext) [![GitHub stars](https://img.shields.io/github/stars/piccolomo/plotext?style=flat)](https://github.com/piccolomo/plotext/stargazers) - Plots data directly in the terminal with a matplotlib-like syntax.
+- [termgraph](https://github.com/mkaz/termgraph) [![GitHub stars](https://img.shields.io/github/stars/mkaz/termgraph?style=flat)](https://github.com/mkaz/termgraph/stargazers) - Draws bar charts, histograms and other basic graphs in the terminal, as a CLI or Python library.
+- [uniplot](https://github.com/olavolav/uniplot) [![GitHub stars](https://img.shields.io/github/stars/olavolav/uniplot?style=flat)](https://github.com/olavolav/uniplot/stargazers) - Lightweight plotting to the terminal. 4x resolution via Unicode.
+
+### Text visualization
+- [scattertext](https://github.com/JasonKessler/scattertext) [![GitHub stars](https://img.shields.io/github/stars/JasonKessler/scattertext?style=flat)](https://github.com/JasonKessler/scattertext/stargazers) - Interactive scatterplot visualizations of how language differs between groups of documents.
+- [WordCloud](https://github.com/amueller/word_cloud) [![GitHub stars](https://img.shields.io/github/stars/amueller/word_cloud?style=flat)](https://github.com/amueller/word_cloud/stargazers) - Word cloud generator for Python.
 
 ## R tools
 - [circlize](https://github.com/jokergoo/circlize) [![GitHub stars](https://img.shields.io/github/stars/jokergoo/circlize?style=flat)](https://github.com/jokergoo/circlize/stargazers) - Circular visualization in R, such as chord diagrams and Circos-style genomic plots.
@@ -425,6 +464,7 @@ Browse it at **[awesomedataviz.com](https://awesomedataviz.com)**: search, ranki
 - [Markmap](https://github.com/markmap/markmap) [![GitHub stars](https://img.shields.io/github/stars/markmap/markmap?style=flat)](https://github.com/markmap/markmap/stargazers) - Builds interactive mind maps from Markdown.
 - [Mermaid](https://github.com/mermaid-js/mermaid) [![GitHub stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat)](https://github.com/mermaid-js/mermaid/stargazers) - Generate diagrams and flowcharts from markdown-like text definitions, with a [live editor](https://mermaid.live).
 - [nomnoml](https://github.com/skanaar/nomnoml) [![GitHub stars](https://img.shields.io/github/stars/skanaar/nomnoml?style=flat)](https://github.com/skanaar/nomnoml/stargazers) - Draws UML diagrams from a simple text syntax.
+- [Pele](https://github.com/obsidianmd/pele) [![GitHub stars](https://img.shields.io/github/stars/obsidianmd/pele?style=flat)](https://github.com/obsidianmd/pele/stargazers) - Small, dependency-free renderer that turns Mermaid diagrams into SVG, from Obsidian.
 - [Penrose](https://github.com/penrose/penrose) [![GitHub stars](https://img.shields.io/github/stars/penrose/penrose?style=flat)](https://github.com/penrose/penrose/stargazers) - Creates diagrams from mathematical notation in plain text, from Carnegie Mellon University.
 - [PGF/TikZ](https://github.com/pgf-tikz/pgf) [![GitHub stars](https://img.shields.io/github/stars/pgf-tikz/pgf?style=flat)](https://github.com/pgf-tikz/pgf/stargazers) - TeX packages for programmatically drawing vector graphics and diagrams in LaTeX.
 - [PGFPlots](https://github.com/pgf-tikz/pgfplots) [![GitHub stars](https://img.shields.io/github/stars/pgf-tikz/pgfplots?style=flat)](https://github.com/pgf-tikz/pgfplots/stargazers) - TeX package for drawing 2D and 3D plots directly in LaTeX documents.
@@ -439,6 +479,7 @@ Tools that are not tied to a particular platform or language.
 - [Cytoscape](https://github.com/cytoscape/cytoscape) [![GitHub stars](https://img.shields.io/github/stars/cytoscape/cytoscape?style=flat)](https://github.com/cytoscape/cytoscape/stargazers) - Desktop platform for network analysis and visualization, widely used in bioinformatics.
 - [DAC](https://github.com/bruin-data/dac) [![GitHub stars](https://img.shields.io/github/stars/bruin-data/dac?style=flat)](https://github.com/bruin-data/dac/stargazers) - Dashboard-as-code tool that builds interactive dashboards from YAML and TSX definitions
 - [Data Formulator](https://github.com/microsoft/data-formulator) [![GitHub stars](https://img.shields.io/github/stars/microsoft/data-formulator?style=flat)](https://github.com/microsoft/data-formulator/stargazers) - AI-assisted tool for transforming data and creating visualizations, from Microsoft Research.
+- [Datavzrd](https://github.com/datavzrd/datavzrd) [![GitHub stars](https://img.shields.io/github/stars/datavzrd/datavzrd?style=flat)](https://github.com/datavzrd/datavzrd/stargazers) - Turns CSV, TSV, JSON or Parquet tables into interactive, self-contained HTML reports, configured with a short YAML file.
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) [![GitHub stars](https://img.shields.io/github/stars/brendangregg/FlameGraph?style=flat)](https://github.com/brendangregg/FlameGraph/stargazers) - Stack trace visualizer that generates interactive SVG flame graphs from profiling data.
 - [GeoLibre](https://github.com/opengeos/GeoLibre) [![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=flat)](https://github.com/opengeos/GeoLibre/stargazers) - Cloud-native GIS app for visualizing and analyzing geospatial data on the web, desktop and mobile.
 - [Gephi](https://github.com/gephi/gephi) [![GitHub stars](https://img.shields.io/github/stars/gephi/gephi?style=flat)](https://github.com/gephi/gephi/stargazers) - An open-source platform for visualizing and manipulating large graphs

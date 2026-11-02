@@ -112,7 +112,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Composer](https://getcomposer.org/) - A package and dependency manager.
 * [Composer Installers](https://github.com/composer/installers) [![GitHub stars](https://img.shields.io/github/stars/composer/installers?style=flat)](https://github.com/composer/installers/stargazers) - A multi-framework Composer library installer.
 * [Phive](https://phar.io/) - A PHAR manager.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) [![GitHub stars](https://img.shields.io/github/stars/FriendsOfPHP/pickle?style=flat)](https://github.com/FriendsOfPHP/pickle/stargazers) - A PHP extension installer.
 * [Pie](https://github.com/php/pie) [![GitHub stars](https://img.shields.io/github/stars/php/pie?style=flat)](https://github.com/php/pie/stargazers) - The official PHP installer for extensions.
 
 ### Dependency Management Extras
@@ -136,7 +135,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
 * [Nette](https://nette.org) - A web framework comprised of mature components.
-* [Phalcon](https://phalcon.io/en-us) - A framework implemented as a C extension.
+* [Phalcon](https://phalcon.io/) - A framework implemented as a C extension.
 * [Spiral](https://spiral.dev/) - A high-performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reusable components and a web framework.
 * [Tempest](https://github.com/tempestphp/tempest-framework) [![GitHub stars](https://img.shields.io/github/stars/tempestphp/tempest-framework?style=flat)](https://github.com/tempestphp/tempest-framework/stargazers) - A framework that gets out of your way.
@@ -162,7 +161,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://github.com/magento/magento2) [![GitHub stars](https://img.shields.io/github/stars/magento/magento2?style=flat)](https://github.com/magento/magento2/stargazers) - A widely used open-source e-commerce platform.
-* [Moodle](https://moodle.org/) - An open-source learning platform.
+* [Moodle](https://github.com/moodle/moodle) [![GitHub stars](https://img.shields.io/github/stars/moodle/moodle?style=flat)](https://github.com/moodle/moodle/stargazers) - An open-source learning platform.
 * [OctoberCMS](https://octobercms.com/) - A CMS built on Laravel.
 * [OpenMage](https://github.com/OpenMage/magento-lts) [![GitHub stars](https://img.shields.io/github/stars/OpenMage/magento-lts?style=flat)](https://github.com/OpenMage/magento-lts/stargazers) - Fork of EoL Magento 1 e-commerce platform.
 * [Pico CMS](https://picocms.org/) - A lightweight flat-file CMS.
@@ -273,7 +272,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fetch](https://github.com/tedious/Fetch) [![GitHub stars](https://img.shields.io/github/stars/tedious/Fetch?style=flat)](https://github.com/tedious/Fetch/stargazers) - An IMAP library.
 * [Mautic](https://github.com/mautic/mautic) [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=flat)](https://github.com/mautic/mautic/stargazers) - Email marketing automation.
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) [![GitHub stars](https://img.shields.io/github/stars/PHPMailer/PHPMailer?style=flat)](https://github.com/PHPMailer/PHPMailer/stargazers) - Another mailer solution.
-* [Stampie](https://github.com/Stampie/Stampie) [![GitHub stars](https://img.shields.io/github/stars/Stampie/Stampie?style=flat)](https://github.com/Stampie/Stampie/stargazers) - A library for email services such as [SendGrid](https://www.twilio.com/en-us/sendgrid), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
 * [Symfony Mailer](https://github.com/symfony/mailer) [![GitHub stars](https://img.shields.io/github/stars/symfony/mailer?style=flat)](https://github.com/symfony/mailer/stargazers) - A powerful library for creating and sending emails.
 
 ### Files
@@ -458,7 +456,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Trap](https://github.com/buggregator/trap) [![GitHub stars](https://img.shields.io/github/stars/buggregator/trap?style=flat)](https://github.com/buggregator/trap/stargazers) - An extended variable dumper with a web interface and IDE plugin.
 * [Whoops](https://github.com/filp/whoops) [![GitHub stars](https://img.shields.io/github/stars/filp/whoops?style=flat)](https://github.com/filp/whoops/stargazers) - A pretty error-handling library.
 * [xDebug](https://github.com/xdebug/xdebug) [![GitHub stars](https://img.shields.io/github/stars/xdebug/xdebug?style=flat)](https://github.com/xdebug/xdebug/stargazers) - A debug and profile tool for PHP.
-* [XHProf](https://github.com/phacility/xhprof) [![GitHub stars](https://img.shields.io/github/stars/phacility/xhprof?style=flat)](https://github.com/phacility/xhprof/stargazers) - A profiling tool originally developed by Facebook.
+* [XHProf](https://github.com/longxinH/xhprof) [![GitHub stars](https://img.shields.io/github/stars/longxinH/xhprof?style=flat)](https://github.com/longxinH/xhprof/stargazers) - A profiling tool originally developed by Facebook.
 * [Z-Ray](https://www.zend.com/products/z-ray) - A debug and profile tool for Zend Server.
 
 ### Error Tracking and Monitoring Services
@@ -524,7 +522,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries that are event-driven or implement non-blocking event loops.*
 
 * [Amp](https://github.com/amphp/amp) [![GitHub stars](https://img.shields.io/github/stars/amphp/amp?style=flat)](https://github.com/amphp/amp/stargazers) - An event-driven non-blocking I/O library.
-* [Broadway](https://github.com/broadway/broadway) [![GitHub stars](https://img.shields.io/github/stars/broadway/broadway?style=flat)](https://github.com/broadway/broadway/stargazers) - An event source and CQRS library.
 * [CakePHP Event](https://github.com/cakephp/event) [![GitHub stars](https://img.shields.io/github/stars/cakephp/event?style=flat)](https://github.com/cakephp/event/stargazers) - An event dispatcher library.
 * [Elephant.io](https://github.com/ElephantIO/elephant.io) [![GitHub stars](https://img.shields.io/github/stars/ElephantIO/elephant.io?style=flat)](https://github.com/ElephantIO/elephant.io/stargazers) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) [![GitHub stars](https://img.shields.io/github/stars/igorw/evenement?style=flat)](https://github.com/igorw/evenement/stargazers) - An event dispatcher library.
@@ -632,7 +629,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CLIFramework](https://github.com/c9s/CLIFramework) [![GitHub stars](https://img.shields.io/github/stars/c9s/CLIFramework?style=flat)](https://github.com/c9s/CLIFramework/stargazers) - A command-line framework that supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 * [CLImate](https://github.com/thephpleague/climate) [![GitHub stars](https://img.shields.io/github/stars/thephpleague/climate?style=flat)](https://github.com/thephpleague/climate/stargazers) - A library for outputting colors and special formatting.
 * [Commando](https://github.com/nategood/commando) [![GitHub stars](https://img.shields.io/github/stars/nategood/commando?style=flat)](https://github.com/nategood/commando/stargazers) - Another simple command line opt parser.
-* [Cron Expression](https://github.com/mtdowling/cron-expression) [![GitHub stars](https://img.shields.io/github/stars/mtdowling/cron-expression?style=flat)](https://github.com/mtdowling/cron-expression/stargazers) - A library to calculate cron run dates.
+* [Cron Expression](https://github.com/dragonmantank/cron-expression) [![GitHub stars](https://img.shields.io/github/stars/dragonmantank/cron-expression?style=flat)](https://github.com/dragonmantank/cron-expression/stargazers) - A library to calculate cron run dates.
 * [GetOpt](https://github.com/getopt-php/getopt-php) [![GitHub stars](https://img.shields.io/github/stars/getopt-php/getopt-php?style=flat)](https://github.com/getopt-php/getopt-php/stargazers) - A command line opt parser.
 * [GetOptionKit](https://github.com/c9s/GetOptionKit) [![GitHub stars](https://img.shields.io/github/stars/c9s/GetOptionKit?style=flat)](https://github.com/c9s/GetOptionKit/stargazers) - Another command line opt parser.
 * [PsySH](https://github.com/bobthecow/psysh) [![GitHub stars](https://img.shields.io/github/stars/bobthecow/psysh?style=flat)](https://github.com/bobthecow/psysh/stargazers) - Another PHP REPL.
@@ -691,7 +688,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Portable ASCII](https://github.com/voku/portable-ascii) [![GitHub stars](https://img.shields.io/github/stars/voku/portable-ascii?style=flat)](https://github.com/voku/portable-ascii/stargazers) - A library to convert strings to ASCII.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) [![GitHub stars](https://img.shields.io/github/stars/voku/portable-utf8?style=flat)](https://github.com/voku/portable-utf8/stargazers) - A string manipulation library with UTF-8 safe replacement methods.
 * [Slugify](https://github.com/cocur/slugify) [![GitHub stars](https://img.shields.io/github/stars/cocur/slugify?style=flat)](https://github.com/cocur/slugify/stargazers) - A library to convert strings to slugs.
-* [SQL Formatter](https://github.com/jdorn/sql-formatter/) [![GitHub stars](https://img.shields.io/github/stars/jdorn/sql-formatter/?style=flat)](https://github.com/jdorn/sql-formatter//stargazers) - A library for formatting SQL statements.
+* [SQL Formatter](https://github.com/doctrine/sql-formatter) [![GitHub stars](https://img.shields.io/github/stars/doctrine/sql-formatter?style=flat)](https://github.com/doctrine/sql-formatter/stargazers) - A library for formatting SQL statements.
 * [Stringy](https://github.com/voku/Stringy) [![GitHub stars](https://img.shields.io/github/stars/voku/Stringy?style=flat)](https://github.com/voku/Stringy/stargazers) - A string manipulation library with multibyte support.
 * [Url highlight](https://github.com/vstelmakh/url-highlight) [![GitHub stars](https://img.shields.io/github/stars/vstelmakh/url-highlight?style=flat)](https://github.com/vstelmakh/url-highlight/stargazers) - A library for parsing URLs from text and converting them into clickable links.
 * [URLify](https://github.com/jbroadway/urlify) [![GitHub stars](https://img.shields.io/github/stars/jbroadway/urlify?style=flat)](https://github.com/jbroadway/urlify/stargazers) - A PHP port of Django's URLify.js.
@@ -754,6 +751,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries that implement data structure or storage techniques.*
 
 * [CakePHP Collection](https://github.com/cakephp/collection) [![GitHub stars](https://img.shields.io/github/stars/cakephp/collection?style=flat)](https://github.com/cakephp/collection/stargazers) - A simple collections library.
+* [DeepClone](https://github.com/symfony/php-ext-deepclone) [![GitHub stars](https://img.shields.io/github/stars/symfony/php-ext-deepclone?style=flat)](https://github.com/symfony/php-ext-deepclone/stargazers) - A PHP extension to export serializable values as plain arrays and reconstruct them.
 * [Fractal](https://github.com/thephpleague/fractal) [![GitHub stars](https://img.shields.io/github/stars/thephpleague/fractal?style=flat)](https://github.com/thephpleague/fractal/stargazers) - A library for converting complex data structures to JSON output.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) [![GitHub stars](https://img.shields.io/github/stars/cweiske/jsonmapper?style=flat)](https://github.com/cweiske/jsonmapper/stargazers) - A library that maps nested JSON structures onto PHP classes.
 * [JSON Machine](https://github.com/halaxa/json-machine) [![GitHub stars](https://img.shields.io/github/stars/halaxa/json-machine?style=flat)](https://github.com/halaxa/json-machine/stargazers) - Provides iteration over huge JSONs using simple `foreach`.
@@ -790,7 +788,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Configuration
 *Libraries and tools for configuration.*
 
-* [PHP Dotenv](https://github.com/vlucas/phpdotenv) [![GitHub stars](https://img.shields.io/github/stars/vlucas/phpdotenv?style=flat)](https://github.com/vlucas/phpdotenv/stargazers) - Parse and load environment variables from `.env` files.
+* [PHP Dotenv](https://github.com/phpdotenv/phpdotenv) [![GitHub stars](https://img.shields.io/github/stars/phpdotenv/phpdotenv?style=flat)](https://github.com/phpdotenv/phpdotenv/stargazers) - Parse and load environment variables from `.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv) [![GitHub stars](https://img.shields.io/github/stars/symfony/dotenv?style=flat)](https://github.com/symfony/dotenv/stargazers) - Parse and load environment variables from `.env` files.
 * [Toml](https://github.com/php-collective/toml) [![GitHub stars](https://img.shields.io/github/stars/php-collective/toml?style=flat)](https://github.com/php-collective/toml/stargazers) - A TOML parser and encoder with AST access and error recovery.
 
@@ -832,7 +830,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Hprose-PHP](https://github.com/hprose/hprose-php) [![GitHub stars](https://img.shields.io/github/stars/hprose/hprose-php?style=flat)](https://github.com/hprose/hprose-php/stargazers) - A cross-language RPC.
 * [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) [![GitHub stars](https://img.shields.io/github/stars/laravel/serializable-closure?style=flat)](https://github.com/laravel/serializable-closure/stargazers) - A library that allows Closures to be serialized.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) [![GitHub stars](https://img.shields.io/github/stars/ARCANEDEV/noCAPTCHA?style=flat)](https://github.com/ARCANEDEV/noCAPTCHA/stargazers) - Helper for Google's noCAPTCHA (reCAPTCHA).
-* [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) [![GitHub stars](https://img.shields.io/github/stars/whiteoctober/Pagerfanta?style=flat)](https://github.com/whiteoctober/Pagerfanta/stargazers) - A pagination library.
+* [Pagerfanta](https://github.com/BabDev/Pagerfanta) [![GitHub stars](https://img.shields.io/github/stars/BabDev/Pagerfanta?style=flat)](https://github.com/BabDev/Pagerfanta/stargazers) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) [![GitHub stars](https://img.shields.io/github/stars/thecodingmachine/safe?style=flat)](https://github.com/thecodingmachine/safe/stargazers) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
 # Software
@@ -856,11 +854,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) [![GitHub stars](https://img.shields.io/github/stars/mlocati/docker-php-extension-installer?style=flat)](https://github.com/mlocati/docker-php-extension-installer/stargazers) - Easily install PHP extensions in Docker containers.
 * [Docksal](https://github.com/docksal/docksal) [![GitHub stars](https://img.shields.io/github/stars/docksal/docksal?style=flat)](https://github.com/docksal/docksal/stargazers) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 * [Expose](https://github.com/exposedev/expose) [![GitHub stars](https://img.shields.io/github/stars/exposedev/expose?style=flat)](https://github.com/exposedev/expose/stargazers) - An open-source PHP tunneling service.
-* [Lando](https://lando.dev/) - Push-button development environments.
-* [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
+* [Lando](https://www.lando.dev/) - Push-button development environments.
+* [Laravel Homestead](https://laravel.com/framework/docs/master/homestead) - A local development environment for Laravel.
 * [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
 * [Laradock](https://laradock.io/) - A full PHP development environment based on Docker.
-* [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
+* [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/framework/docs/master/valet)).
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Solo](https://github.com/soloterm/solo) [![GitHub stars](https://img.shields.io/github/stars/soloterm/solo?style=flat)](https://github.com/soloterm/solo/stargazers) - A terminal application to manage processes for a Laravel application.
 * [Takeout](https://github.com/tighten/takeout) [![GitHub stars](https://img.shields.io/github/stars/tighten/takeout?style=flat)](https://github.com/tighten/takeout/stargazers) - A Docker-based development-only dependency manager.
@@ -870,7 +868,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Alternative PHP virtual machines.*
 
 * [Hack](https://hacklang.org/) - A programming language for HHVM.
-* [HHVM](https://github.com/facebook/hhvm) [![GitHub stars](https://img.shields.io/github/stars/facebook/hhvm?style=flat)](https://github.com/facebook/hhvm/stargazers) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
+* [HHVM](https://github.com/meta/hhvm) [![GitHub stars](https://img.shields.io/github/stars/meta/hhvm?style=flat)](https://github.com/meta/hhvm/stargazers) - A Virtual Machine, Runtime and JIT for PHP by Facebook.
 * [PeachPie](https://github.com/peachpiecompiler/peachpie) [![GitHub stars](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat)](https://github.com/peachpiecompiler/peachpie/stargazers) - PHP compiler and runtime for .NET and .NET Core.
 
 ### Text Editors and IDEs
@@ -888,7 +886,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 * [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
 * [Cachet](https://github.com/cachethq/cachet) [![GitHub stars](https://img.shields.io/github/stars/cachethq/cachet?style=flat)](https://github.com/cachethq/cachet/stargazers) - The open source status page system.
-* [Lychee](https://github.com/electerious/Lychee) [![GitHub stars](https://img.shields.io/github/stars/electerious/Lychee?style=flat)](https://github.com/electerious/Lychee/stargazers) - An easy to use and great looking photo-management-system.
+* [Lychee](https://github.com/LycheeOrg/Lychee) [![GitHub stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=flat)](https://github.com/LycheeOrg/Lychee/stargazers) - An easy to use and great looking photo-management-system.
 * [Leantime](https://leantime.io) - Strategic project management system for the non project manager.
 * [MailCatcher](https://github.com/sj26/mailcatcher) [![GitHub stars](https://img.shields.io/github/stars/sj26/mailcatcher?style=flat)](https://github.com/sj26/mailcatcher/stargazers) - A web tool for capturing and viewing emails.
 * [Mailpit](https://github.com/axllent/mailpit) [![GitHub stars](https://img.shields.io/github/stars/axllent/mailpit?style=flat)](https://github.com/axllent/mailpit/stargazers) - An email and SMTP testing tool for developers.

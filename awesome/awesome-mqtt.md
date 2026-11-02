@@ -95,6 +95,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Mystique](https://github.com/TheThingsIndustries/mystique) [![GitHub stars](https://img.shields.io/github/stars/TheThingsIndustries/mystique?style=flat)](https://github.com/TheThingsIndustries/mystique/stargazers) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.
 - [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - High performance messaging broker with MQTT Adapter.
 - [RobustMQ](http://robustmq.com) - Multi-protocol brokers written in Rust.
+- [Straum](https://github.com/straum-io/straum) [![GitHub stars](https://img.shields.io/github/stars/straum-io/straum?style=flat)](https://github.com/straum-io/straum/stargazers) - Experimental clustered MQTT 3.1.1 and 5 broker that acknowledges a publish only after a majority of its nodes has committed it.
 - [SurgeMQ](https://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 - [tbmq](https://github.com/thingsboard/tbmq) [![GitHub stars](https://img.shields.io/github/stars/thingsboard/tbmq?style=flat)](https://github.com/thingsboard/tbmq/stargazers) - Open-source, scalable, fault-tolerant and durable messaging broker for millions of IoT devices.
 - [TrailMQ](https://github.com/RainerGewalt/TrailMQ) [![GitHub stars](https://img.shields.io/github/stars/RainerGewalt/TrailMQ?style=flat)](https://github.com/RainerGewalt/TrailMQ/stargazers) - Self-hosted MQTT broker with policy enforcement and a reviewable record of broker decisions, for regulated and industrial systems.
@@ -115,6 +116,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Enable highly secure and reliable communication between your IoT application and the devices it manages. Azure IoT Hub provides a cloud-hosted solution backend to connect virtually any device. Extend your solution from the cloud to the edge with per-device authentication, built-in device management, and scaled provisioning.
 - [CloudMQTT](https://www.cloudmqtt.com/) - Hosted message broker for the Internet of Things. Perfectly configured and optimized message queues for IoT, ready in seconds.
 - [CloudAMQP](https://www.cloudamqp.com/docs/mqtt.html) - Hosted AMQP brokers with MQTT support.
+- [ConnectMQ](https://connectmq.com/) - Managed MQTT broker with MQTT 3.1.1 and 5.0, TLS, WebSockets and per-topic access control, no servers to run.
 - [CrystalMQ](https://www.bevywise.com/hosted-mqtt-server/) - Fully Managed Cloud MQTT Broker for large scale deployments.
 - [flespi](https://flespi.com/mqtt-broker) - Free and secure cloud MQTT broker with private namespaces, MQTT 3.1.1 and MQTT 5.0 support and gorgeous limits.
 - [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Cloud managed MQTT service.
@@ -174,6 +176,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [RunMQTT MQTT Topic ACL Linter](https://runmqtt.com/mqtt-acl-linter) - Browser-based, local-only validator for MQTT topic-filter ACLs that checks wildcard breadth, tenant boundaries, publish/subscribe direction, placeholders, and overlapping rules. [Source and method](https://github.com/visoar/mqtt-acl-linter) [![GitHub stars](https://img.shields.io/github/stars/visoar/mqtt-acl-linter?style=flat)](https://github.com/visoar/mqtt-acl-linter/stargazers).
 - [SimpleMQTT](https://simplemqtt.theoi.de/) - A Slack app to send messages from Slack to MQTT brokers with slash commands.
 - [Spitfire](https://usespitfire.com/guides/mqtt-load-testing) - Self-hosted distributed load testing platform with a web UI; simulates thousands of MQTT devices (QoS 0/1/2 publish, subscribe, request-reply) alongside HTTP, Kafka and other protocols. Commercial, with a free edition.
+- [TopicBench](https://github.com/unipsycho/topicbench) [![GitHub stars](https://img.shields.io/github/stars/unipsycho/topicbench?style=flat)](https://github.com/unipsycho/topicbench/stargazers) - Free open-source multi-broker MQTT explorer and monitor desktop client, written in Rust.
 - [Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) [![GitHub stars](https://img.shields.io/github/stars/menudoproblema/Wireshark-MQTT?style=flat)](https://github.com/menudoproblema/Wireshark-MQTT/stargazers) - MQTT dissector for Wireshark.
 - [VSMQTT](https://github.com/rpdswtk/vsmqtt) [![GitHub stars](https://img.shields.io/github/stars/rpdswtk/vsmqtt?style=flat)](https://github.com/rpdswtk/vsmqtt/stargazers) - Simple MQTT client integrated in Visual Studio Code.
 - [MQTTX](https://github.com/emqx/MQTTX) [![GitHub stars](https://img.shields.io/github/stars/emqx/MQTTX?style=flat)](https://github.com/emqx/MQTTX/stargazers) - Cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
@@ -192,6 +195,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 - [Paho](https://www.eclipse.org/paho/) - Open source client implementations for C,C++, Java, Python, JavaScript, GoLang, C#, Rust, Android and Embedded (Arduino/mbed).
 - [mosquitto-clients](https://mosquitto.org/download/) - [mosquitto_pub](https://mosquitto.org/man/mosquitto_pub-1.html) and [mosquitto_sub](https://mosquitto.org/man/mosquitto_sub-1.html) CLI clients for most operating systems and [libmosquitto](https://mosquitto.org/man/libmosquitto-3.html) for integration.
+- [TestMQTT](https://testmqtt.com/) - Free browser-based MQTT client for testing any broker over WebSockets: connect, subscribe, publish and debug topics with no install or sign-up.
 
 ### Python
 
@@ -417,6 +421,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [knx-mqtt-bridge](https://github.com/pakerfeldt/knx-mqtt-bridge) [![GitHub stars](https://img.shields.io/github/stars/pakerfeldt/knx-mqtt-bridge?style=flat)](https://github.com/pakerfeldt/knx-mqtt-bridge/stargazers) - Bridges KNX and MQTT using the knx.js library.
 - [knx2mqtt](https://github.com/owagner/knx2mqtt) [![GitHub stars](https://img.shields.io/github/stars/owagner/knx2mqtt?style=flat)](https://github.com/owagner/knx2mqtt/stargazers) - Interface between the KNX home automation standard and MQTT.
 - [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) - Plug-in for HS3 (HomeSeer).
+- [mqtt2matter](https://github.com/hobbyquaker/mqtt2matter) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/mqtt2matter?style=flat)](https://github.com/hobbyquaker/mqtt2matter/stargazers) - Create bridged Matter devices and control via MQTT. Supports manual configuration, zigbee2mqtt, Home Assistant Autodiscovery, ESPHome, ...
 - [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) [![GitHub stars](https://img.shields.io/github/stars/cgHome/mqtt-dss-bridge?style=flat)](https://github.com/cgHome/mqtt-dss-bridge/stargazers) - MQTT digitalSTROM-Server Bridge.
 - [mqtt-unifi-protect-bridge](https://github.com/terafin/mqtt-unifi-protect-bridge) [![GitHub stars](https://img.shields.io/github/stars/terafin/mqtt-unifi-protect-bridge?style=flat)](https://github.com/terafin/mqtt-unifi-protect-bridge/stargazers) - Adding motion-status from UniFi Protect Cameras to MQTT.
 <!--lint disable double-link-->
@@ -456,6 +461,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [hue2mqtt.js](https://github.com/hobbyquaker/hue2mqtt.js) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/hue2mqtt.js?style=flat)](https://github.com/hobbyquaker/hue2mqtt.js/stargazers) - Interface between the Philips Hue bridge and MQTT.
 - [MQTT DMX Controller](https://github.com/hobbyquaker/mqtt-dmx-controller) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/mqtt-dmx-controller?style=flat)](https://github.com/hobbyquaker/mqtt-dmx-controller/stargazers) - DMX Controller with MQTT support.
 - [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) [![GitHub stars](https://img.shields.io/github/stars/hobbyquaker/mqtt-dmx-sequencer?style=flat)](https://github.com/hobbyquaker/mqtt-dmx-sequencer/stargazers) - Headless counterpart to MQTT DMX Controller - use scenes and sequences exported from the MQTT DMX Controller and control them via MQTT.
+- [nanoleaf2mqtt](https://github.com/boesec/nanoleaf2mqtt) [![GitHub stars](https://img.shields.io/github/stars/boesec/nanoleaf2mqtt?style=flat)](https://github.com/boesec/nanoleaf2mqtt/stargazers) - Interface between Nanoleaf light panels and MQTT.
 - [sunricher-wifi-mqtt](https://github.com/magcode/sunricher-wifi-mqtt) [![GitHub stars](https://img.shields.io/github/stars/magcode/sunricher-wifi-mqtt?style=flat)](https://github.com/magcode/sunricher-wifi-mqtt/stargazers) - Control Sunricher LED devices using MQTT.
 - [TRADFRI2MQTT](https://github.com/hardillb/TRADFRI2MQTT) [![GitHub stars](https://img.shields.io/github/stars/hardillb/TRADFRI2MQTT?style=flat)](https://github.com/hardillb/TRADFRI2MQTT/stargazers) - MQTT Bridge for IKEA TRÅDFRI Light Gateway.
 

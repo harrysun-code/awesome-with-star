@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/notthetup/awesome-webaudio?style=flat)](https://github.com/notthetup/awesome-webaudio/stargazers)
 
-﻿# Awesome WebAudio
+# Awesome WebAudio
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
@@ -41,6 +41,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) [![GitHub stars](https://img.shields.io/github/stars/Mach1Studios/m1-sdk?style=flat)](https://github.com/Mach1Studios/m1-sdk/stargazers) - Vector based panning spatial audio on the web.
 - [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
 - [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) [![GitHub stars](https://img.shields.io/github/stars/software-mansion-labs/react-native-audio-api?style=flat)](https://github.com/software-mansion-labs/react-native-audio-api/stargazers) - Web Audio API implementation for native apps based on react-native.
+- [Soundworks](https://soundworks.dev/) - Open-source creative coding framework for distributed applications based on Web technologies.
 
 ### Libraries
 
@@ -65,12 +66,15 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [wave-audio-path-player](https://github.com/jerosoler/wave-audio-path-player) [![GitHub stars](https://img.shields.io/github/stars/jerosoler/wave-audio-path-player?style=flat)](https://github.com/jerosoler/wave-audio-path-player/stargazers) - Simple audio player webcomponent customizable with waveform.
 - [dsssp](https://github.com/NumberOneBot/dsssp) [![GitHub stars](https://img.shields.io/github/stars/NumberOneBot/dsssp?style=flat)](https://github.com/NumberOneBot/dsssp/stargazers) - React component library for visualizing and managing audio filters with drag-n-drop and transitions support.
 - [tuning-fork](https://github.com/v-rusu/tuning-fork) [![GitHub stars](https://img.shields.io/github/stars/v-rusu/tuning-fork?style=flat)](https://github.com/v-rusu/tuning-fork/stargazers) - A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.
+- [eko-web](https://github.com/reactivepixels/eko-web) [![GitHub stars](https://img.shields.io/github/stars/reactivepixels/eko-web?style=flat)](https://github.com/reactivepixels/eko-web/stargazers) - Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.
+- [Bardkit](https://github.com/darkdarkcocoa/bardkit) [![GitHub stars](https://img.shields.io/github/stars/darkdarkcocoa/bardkit?style=flat)](https://github.com/darkdarkcocoa/bardkit/stargazers) - A sample-free plucked-string instrument for multiplayer games, with a four-voice pool and per-listener distance gain.
 
 ### Utilities
 
 - [Audion](https://github.com/google/audion) [![GitHub stars](https://img.shields.io/github/stars/google/audion?style=flat)](https://github.com/google/audion/stargazers) - Chrome extension that adds a Web Audio panel to Developer Tools.
 - [web-audio-generator](https://github.com/ISNIT0/webaudio-generator) [![GitHub stars](https://img.shields.io/github/stars/ISNIT0/webaudio-generator?style=flat)](https://github.com/ISNIT0/webaudio-generator/stargazers) - A UI for generating Web Audio code.
 - [Web Audio Studio](https://app.webaudio.studio) - A real-time visualizer for Web Audio API graphs generated from code.
+- [Audio Browser Lab](https://github.com/aribradshaw/audio-browser-lab) [![GitHub stars](https://img.shields.io/github/stars/aribradshaw/audio-browser-lab?style=flat)](https://github.com/aribradshaw/audio-browser-lab/stargazers) - Reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence.
 
 ### MIDI
 
@@ -111,7 +115,15 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 - [synflow](https://synflow.org) [Github](https://github.com/k1ln/synflow) [![GitHub stars](https://img.shields.io/github/stars/k1ln/synflow?style=flat)](https://github.com/k1ln/synflow/stargazers) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
-- [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
+- [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser.
+- [Database Inside a Song](https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html) - Splits a stereo WAV, reconstructs its side channel, and visualizes the 18 kHz and 20 kHz carriers holding a byte-exact SQLite database.
+- [Tonecrafted Progressions](https://tonecrafted.com) - Free browser chord-progression player and ear-training tool for guitarists, no signup.
+- [Key Kalimba](https://keykalimba.netlify.app/) [Github](https://github.com/jonashuberts/KeyKalimba) [![GitHub stars](https://img.shields.io/github/stars/jonashuberts/KeyKalimba?style=flat)](https://github.com/jonashuberts/KeyKalimba/stargazers) - Interactive 17-key Kalimba trainer, falling notes visualizer, and real-time tuner with pitch detection.
+- [Melody Mate](https://melody-mate-khaki.vercel.app/) - In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and Web Audio API.
+- [Ocarina Simulator](https://github.com/zengm32343/ocarina-simulator) [![GitHub stars](https://img.shields.io/github/stars/zengm32343/ocarina-simulator?style=flat)](https://github.com/zengm32343/ocarina-simulator/stargazers) - A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. [Live demo](https://ootguide.com/ocarina/).
+- [Klaviero](https://klaviero.com/) - Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.
+- [psoup noise machine](https://psoup.art/machine/?utm_source=awesomewebaudio) - Free generative noise machine in the browser: brown, pink and white noise computed live with the Web Audio API, tuned by the moon and the day's earthquakes.
+- [seance](https://hexenwerkzeug.com/tools/seance) - Sample workbench on the Web Audio API: spectrogram, drum stem separation, hit-based slicing and BS.1770-4 loudness, all in the browser.
 
 ## Resources
 
@@ -125,6 +137,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) [![GitHub stars](https://img.shields.io/github/stars/irritant/WAC-2016-Tutorial?style=flat)](https://github.com/irritant/WAC-2016-Tutorial/stargazers) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 - [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 - [audio-katas](https://github.com/survivejs/audio-katas) [![GitHub stars](https://img.shields.io/github/stars/survivejs/audio-katas?style=flat)](https://github.com/survivejs/audio-katas/stargazers) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
+- [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers) - Music theory derived from scratch in JavaScript, with runnable Web Audio examples.
 
 ### Books
 

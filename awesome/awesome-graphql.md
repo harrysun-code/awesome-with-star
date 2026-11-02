@@ -239,7 +239,6 @@
 - [F8 App 2017](https://github.com/fbsamples/f8app) [![GitHub stars](https://img.shields.io/github/stars/fbsamples/f8app?style=flat)](https://github.com/fbsamples/f8app/stargazers) - Source code for the official 2017 F8 app, built with React Native, Relay, and GraphQL.
 - [Apollo React example for GitHub GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) [![GitHub stars](https://img.shields.io/github/stars/katopz/react-apollo-graphql-github-example?style=flat)](https://github.com/katopz/react-apollo-graphql-github-example/stargazers) - Example using Apollo React with the GitHub GraphQL API and Create React App.
 - [Next.js TypeScript and GraphQL Example](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql) [![GitHub stars](https://img.shields.io/github/stars/vercel/next.js/tree/canary/examples/with-typescript-graphql?style=flat)](https://github.com/vercel/next.js/tree/canary/examples/with-typescript-graphql/stargazers) - Type-protected GraphQL example on Next.js running graphql-codegen under the hood.
-- [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) - Live, editable demo that starts in a browser in about two seconds.
 - [VulcanJS](http://vulcanjs.org) - Full-stack React and GraphQL framework.
 - [RAN Toolkit](https://github.com/sly777/ran) [![GitHub stars](https://img.shields.io/github/stars/sly777/ran?style=flat)](https://github.com/sly777/ran/stargazers) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
@@ -751,6 +750,7 @@
 - [Dgraph](https://dgraph.io/) - Scalable, distributed, low-latency, high-throughput graph database with GraphQL as the query language.
 - [ArangoDB](https://arangodb.com/) - Native multi-model database with GraphQL support through Foxx microservices.
 - [Weaviate](https://github.com/weaviate/weaviate) [![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=flat)](https://github.com/weaviate/weaviate/stargazers) - Open-source vector database combining vector search, structured filtering, and a GraphQL interface.
+- [TerminusDB](https://github.com/terminusdb/terminusdb) [![GitHub stars](https://img.shields.io/github/stars/terminusdb/terminusdb?style=flat)](https://github.com/terminusdb/terminusdb/stargazers) - Open-source knowledge graph database with git-like version control and a built-in GraphQL API.
 
 <a name="services" />
 

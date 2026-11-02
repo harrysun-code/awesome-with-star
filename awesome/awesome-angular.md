@@ -249,6 +249,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ionic-adv-tooltip](https://github.com/PhaZRic/ionic-adv-tooltip) [![GitHub stars](https://img.shields.io/github/stars/PhaZRic/ionic-adv-tooltip?style=flat)](https://github.com/PhaZRic/ionic-adv-tooltip/stargazers) - Media-rich tooltips and popovers for Ionic Angular that render templates, images, videos, or live previews on any host.
 * [PushApp-Capacitor](https://github.com/mehery-soccom/PushApp-Capacitor) [![GitHub stars](https://img.shields.io/github/stars/mehery-soccom/PushApp-Capacitor?style=flat)](https://github.com/mehery-soccom/PushApp-Capacitor/stargazers) - A Capacitor plugin for push notifications, in-app messaging, event tracking, and session handling in Ionic/Angular/Capacitor apps.
 * [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
+* [AngularLynx](https://github.com/Blotch-Smart-Frames/AngularLynx) [![GitHub stars](https://img.shields.io/github/stars/Blotch-Smart-Frames/AngularLynx?style=flat)](https://github.com/Blotch-Smart-Frames/AngularLynx/stargazers) - Renders Angular components to native iOS, Android, and Web UI via the [Lynx](https://lynxjs.org/) runtime by ByteDance.
 
 ### Updating Angular
 
@@ -383,6 +384,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dotnet_angular_cli_cheatsheet](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet) [![GitHub stars](https://img.shields.io/github/stars/shashinvision/dotnet_angular_cli_cheatsheet?style=flat)](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet/stargazers) - A comprehensive guide for full-stack developers working with .NET and Angular.
 * [TMS Outsource Angular Cheat Sheet](https://tms-outsource.com/cs/angular-cheat-sheet/) - You'll find every decorator, block, operator and CLI flag worth remembering. Searchable, filterable, copy-ready.
 * [angular-interview-flashcards-free](https://github.com/tomaszs/angular-interview-flashcards-free) [![GitHub stars](https://img.shields.io/github/stars/tomaszs/angular-interview-flashcards-free?style=flat)](https://github.com/tomaszs/angular-interview-flashcards-free/stargazers) - Walk into your Angular interview prepared with 100 curated questions and clear, structured answers accessible across all your devices.
+* [learn-angular](https://github.com/TheLearningHubOrg/learn-angular) [![GitHub stars](https://img.shields.io/github/stars/TheLearningHubOrg/learn-angular?style=flat)](https://github.com/TheLearningHubOrg/learn-angular/stargazers) - An exhaustive, production-grade masterclass from absolute zero to staff-level Angular platform architecture.
 
 ### Exercises
 
@@ -559,6 +561,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-bun](https://github.com/quinnjr/ngx-bun) [![GitHub stars](https://img.shields.io/github/stars/quinnjr/ngx-bun?style=flat)](https://github.com/quinnjr/ngx-bun/stargazers) - High-performance SSR/SSG adapter for Angular 19+ using Bun's built-in server.
 * [ng-ssr-caching](https://github.com/nigrosimone/ng-ssr-caching) [![GitHub stars](https://img.shields.io/github/stars/nigrosimone/ng-ssr-caching?style=flat)](https://github.com/nigrosimone/ng-ssr-caching/stargazers) - Cache for server-side rendered pages in Angular SSR.
 * [fastang](https://github.com/daclab-dev/fastang) [![GitHub stars](https://img.shields.io/github/stars/daclab-dev/fastang?style=flat)](https://github.com/daclab-dev/fastang/stargazers) - An experimental, all-in-one web framework that unifies Angular on the frontend, Fastify on the backend, and integrated SSR.
+* [strata](https://github.com/Andersseen/strata) [![GitHub stars](https://img.shields.io/github/stars/Andersseen/strata?style=flat)](https://github.com/Andersseen/strata/stargazers) - Server Components and structured server APIs for Angular and Analog.
 
 ## Development Utilities
 
@@ -900,6 +903,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [prime-ng-theme-fe](https://github.com/mkccl/prime-ng-theme-fe) [![GitHub stars](https://img.shields.io/github/stars/mkccl/prime-ng-theme-fe?style=flat)](https://github.com/mkccl/prime-ng-theme-fe/stargazers) - A visual theme designer for PrimeNG.
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) [![GitHub stars](https://img.shields.io/github/stars/rsantoyo-dev/super-jss-workspace?style=flat)](https://github.com/rsantoyo-dev/super-jss-workspace/stargazers) - A tiny Angular runtime library that generates atomic CSS with breakpoints and theming.
 * [Theme-Kit](https://github.com/M1tsumi/Theme-Kit) [![GitHub stars](https://img.shields.io/github/stars/M1tsumi/Theme-Kit?style=flat)](https://github.com/M1tsumi/Theme-Kit/stargazers) - A unified design‑token SDK that centralizes your colors, typography, and spacing for seamless use across React, Vue, Angular, or any JavaScript project.
+* [themvora](https://github.com/themvora/themvora) [![GitHub stars](https://img.shields.io/github/stars/themvora/themvora?style=flat)](https://github.com/themvora/themvora/stargazers) - A framework-agnostic theming runtime with semantic tokens, theme families, SSR-safe integrations, transitions, scoped themes, adapters, and CLI tooling.
 * [tokiforge](https://github.com/TokiForge/tokiforge) [![GitHub stars](https://img.shields.io/github/stars/TokiForge/tokiforge?style=flat)](https://github.com/TokiForge/tokiforge/stargazers) - Framework-agnostic design token engine for React, Vue, Angular, Svelte & vanilla JS.
 * [ukit-css](https://github.com/vcalderondev/ukit-css) [![GitHub stars](https://img.shields.io/github/stars/vcalderondev/ukit-css?style=flat)](https://github.com/vcalderondev/ukit-css/stargazers) - JIT utility-first CSS engine — Tailwind-style on-demand class generation for any frontend stack (React, Vue, Angular, Svelte, Next.js, Astro, plain HTML).
 
@@ -1060,6 +1064,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-signal-state-manager](https://github.com/EugBoy/ng-signal-state-manager) [![GitHub stars](https://img.shields.io/github/stars/EugBoy/ng-signal-state-manager?style=flat)](https://github.com/EugBoy/ng-signal-state-manager/stargazers) - Standalone, lightweight, and type-safe async query cache and state manager for Angular powered by Angular Signals and RxJS.
 * [ngx-signal-flow](https://github.com/danseid/ngx-signal-flow) [![GitHub stars](https://img.shields.io/github/stars/danseid/ngx-signal-flow?style=flat)](https://github.com/danseid/ngx-signal-flow/stargazers) - Manages state with Angular Signals, updates via Immer, and handles async side effects using RxJS.
 * [homeostate](https://github.com/mixedrays/homeostate) [![GitHub stars](https://img.shields.io/github/stars/mixedrays/homeostate?style=flat)](https://github.com/mixedrays/homeostate/stargazers) - Keep the store you already use in sync with any CRDT.
+* [soucouyant](https://github.com/julienetie/soucouyant) [![GitHub stars](https://img.shields.io/github/stars/julienetie/soucouyant?style=flat)](https://github.com/julienetie/soucouyant/stargazers) - A simple, framework-agnostic JavaScript state management library with optional time travel and animation support.
 
 ## Testing
 
@@ -1590,6 +1595,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ngx-signal-forms/toolkit](https://github.com/ngx-signal-forms/ngx-signal-forms) [![GitHub stars](https://img.shields.io/github/stars/ngx-signal-forms/ngx-signal-forms?style=flat)](https://github.com/ngx-signal-forms/ngx-signal-forms/stargazers) - An Angular signal form wrapper that manages error timing, automatic ARIA accessibility wiring, warnings, focus management, hints, and custom CSS theming.
 * [fieldia](https://github.com/fieldia-dev/fieldia) [![GitHub stars](https://img.shields.io/github/stars/fieldia-dev/fieldia?style=flat)](https://github.com/fieldia-dev/fieldia/stargazers) - A form engine and form builder for JavaScript: one JSON page format, rendered in Angular, React, Vue or plain JavaScript, from a simple survey to a full ERP screen.
 * [formancy.ai](https://github.com/sharkysan/formancy.ai) [![GitHub stars](https://img.shields.io/github/stars/sharkysan/formancy.ai?style=flat)](https://github.com/sharkysan/formancy.ai/stargazers) - An open-source visual form builder for Angular and React.
+* [ngx-signal-schema](https://github.com/devZWO/ngx-signal-schema) [![GitHub stars](https://img.shields.io/github/stars/devZWO/ngx-signal-schema?style=flat)](https://github.com/devZWO/ngx-signal-schema/stargazers) - Composable schema validation operators for Angular Signal Forms.
 
 ### Form Controls
 
@@ -1821,6 +1827,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-yandex-maps](https://github.com/ddubrava/angular-yandex-maps) [![GitHub stars](https://img.shields.io/github/stars/ddubrava/angular-yandex-maps?style=flat)](https://github.com/ddubrava/angular-yandex-maps/stargazers) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
 * [workletjs](https://github.com/workletjs/workletjs) [![GitHub stars](https://img.shields.io/github/stars/workletjs/workletjs?style=flat)](https://github.com/workletjs/workletjs/stargazers) - An Angular map component library that provides seamless integration with OpenLayers, enabling developers to create interactive and customizable maps.
 * [ng-simple-maps](https://github.com/hanafnafs/ng-simple-maps) [![GitHub stars](https://img.shields.io/github/stars/hanafnafs/ng-simple-maps?style=flat)](https://github.com/hanafnafs/ng-simple-maps/stargazers) - Beautiful, lightweight SVG world maps for Angular applications.
+* [ng-mapcn](https://github.com/juanvieiraprado99/ng-mapcn) [![GitHub stars](https://img.shields.io/github/stars/juanvieiraprado99/ng-mapcn?style=flat)](https://github.com/juanvieiraprado99/ng-mapcn/stargazers) - A set of composable MapLibre GL map components for Angular. 
 
 ### Markdown
 
@@ -1973,6 +1980,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [snackng](https://github.com/xgreymx/snackng) [![GitHub stars](https://img.shields.io/github/stars/xgreymx/snackng?style=flat)](https://github.com/xgreymx/snackng/stargazers) - Toasts for Angular with a glass design, zero UI dependencies and CSS-variable theming.
 * [toastify-all](https://github.com/VeereshPoojari/toastify-all) [![GitHub stars](https://img.shields.io/github/stars/VeereshPoojari/toastify-all?style=flat)](https://github.com/VeereshPoojari/toastify-all/stargazers) - Universal, modern toast notification engine for all JavaScript frameworks and platforms.
 * [ngx-toastf](https://github.com/darioegb/ngx-toast) [![GitHub stars](https://img.shields.io/github/stars/darioegb/ngx-toast?style=flat)](https://github.com/darioegb/ngx-toast/stargazers) - A lightweight, standalone-first toast notification service for Angular that requires zero template markup or `ViewContainerRef`.
+* [rivium-push-web-sdk](https://github.com/Rivium-co/rivium-push-web-sdk) [![GitHub stars](https://img.shields.io/github/stars/Rivium-co/rivium-push-web-sdk?style=flat)](https://github.com/Rivium-co/rivium-push-web-sdk/stargazers) - A framework-agnostic web SDK with TypeScript support for real-time and background push notifications, persistent message inboxes, and event-triggered in-app messaging.
 
 ### Onboarding and Product Tours
 
@@ -2188,6 +2196,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [helix](https://github.com/GravionLabs/helix) [![GitHub stars](https://img.shields.io/github/stars/GravionLabs/helix?style=flat)](https://github.com/GravionLabs/helix/stargazers) - A signal-based, token-driven Angular UI ecosystem featuring plain CSS components, an application shell, Zod-powered dynamic forms, and AG Grid helpers.
 * [ndop-ui](https://github.com/ndop-ui/ui) [![GitHub stars](https://img.shields.io/github/stars/ndop-ui/ui?style=flat)](https://github.com/ndop-ui/ui/stargazers) - An agent-native, signals-first Angular component ecosystem.
 * [jig](https://github.com/awdlab/jig) [![GitHub stars](https://img.shields.io/github/stars/awdlab/jig?style=flat)](https://github.com/awdlab/jig/stargazers) - A signal-based component library for Angular 22+.
+* [lyra-ui](https://github.com/aceshooting/lyra-ui) [![GitHub stars](https://img.shields.io/github/stars/aceshooting/lyra-ui?style=flat)](https://github.com/aceshooting/lyra-ui/stargazers) - A free, MIT-licensed, framework-agnostic web component library for building accessible production interfaces and chat UIs.
+* [slotted](https://github.com/andrelopes-code/slotted) [![GitHub stars](https://img.shields.io/github/stars/andrelopes-code/slotted?style=flat)](https://github.com/andrelopes-code/slotted/stargazers) - A UI kit engineered for information-dense, product-focused web applications, offering native React and Angular integrations.
+* [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) [![GitHub stars](https://img.shields.io/github/stars/serionist/tableau-ui-angular?style=flat)](https://github.com/serionist/tableau-ui-angular/stargazers) - Tableau-style components for Angular 22: form controls, selects, a virtual table with sorting and selection, dialogs and menus, signal-based and SSR-safe.
 
 ### UI Libraries built on Bootstrap
 
@@ -2398,6 +2409,7 @@ for the creation of web applications developed with Angular.
 * [AngularDart](https://github.com/flutterdocteur/angulardart) [![GitHub stars](https://img.shields.io/github/stars/flutterdocteur/angulardart?style=flat)](https://github.com/flutterdocteur/angulardart/stargazers) - A web framework that separates cleanly into a template language and a component model, making it easy to build complex, maintainable web applications.
 * [ng-xtend](https://github.com/dont-code/ng-xtend) [![GitHub stars](https://img.shields.io/github/stars/dont-code/ng-xtend?style=flat)](https://github.com/dont-code/ng-xtend/stargazers) - Empower your Angular applications with a flexible, scalable plugin ecosystem.
 * [ngx-opentui](https://github.com/quinnjr/ngx-opentui) [![GitHub stars](https://img.shields.io/github/stars/quinnjr/ngx-opentui?style=flat)](https://github.com/quinnjr/ngx-opentui/stargazers) - Experimental Angular renderer for OpenTUI that uses templates and signals to drive native terminal UIs.
+* [LogBrew](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-angular) [![GitHub stars](https://img.shields.io/github/stars/LogBrewCo/sdk/tree/main/js/logbrew-angular?style=flat)](https://github.com/LogBrewCo/sdk/tree/main/js/logbrew-angular/stargazers) - Angular providers and optional ErrorHandler capture that send errors, logs, and traces to LogBrew, which has a free plan.
 
 ### Wrappers
 

@@ -850,6 +850,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 <a name="kotlin-speech-recognition"></a>
 #### Speech Recognition
 * [VoxRT](https://github.com/VoxRT/voxrt-asr-android) [![GitHub stars](https://img.shields.io/github/stars/VoxRT/voxrt-asr-android?style=flat)](https://github.com/VoxRT/voxrt-asr-android/stargazers) - On-device streaming speech recognition SDK for Android with Kotlin bindings (JitPack). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [Voz](https://desertant.com/models/voz/) - On-device speech recognition SDK for Android in Kotlin with word timestamps. Source-available.
 
 <a name="lua"></a>
 ## Lua
@@ -1383,6 +1384,7 @@ be
 * [mlforgex](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex) [![GitHub stars](https://img.shields.io/github/stars/dhgefergfefruiwefhjhcduc/ML_Forgex?style=flat)](https://github.com/dhgefergfefruiwefhjhcduc/ML_Forgex/stargazers) - Lightweight ML utility for automated training, evaluation, and prediction with CLI and Python API support.
 * [autobatcher](https://github.com/doublewordai/autobatcher) [![GitHub stars](https://img.shields.io/github/stars/doublewordai/autobatcher?style=flat)](https://github.com/doublewordai/autobatcher/stargazers) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
 * [Future AGI](https://github.com/future-agi/future-agi) [![GitHub stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat)](https://github.com/future-agi/future-agi/stargazers) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
+* [GNN Fraud Ring Detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) [![GitHub stars](https://img.shields.io/github/stars/RishabhPande/GNN-fraud-ring-detection?style=flat)](https://github.com/RishabhPande/GNN-fraud-ring-detection/stargazers) - GraphSAGE, GAT, GCN and GIN implemented from scratch in pure Python to detect synthetic fraud rings and money-mule chains.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1892,6 +1894,7 @@ be
 <a name="swift-speech-recognition"></a>
 #### Speech Recognition
 * [VoxRT](https://github.com/VoxRT/voxrt-asr-ios) [![GitHub stars](https://img.shields.io/github/stars/VoxRT/voxrt-asr-ios?style=flat)](https://github.com/VoxRT/voxrt-asr-ios/stargazers) - On-device streaming speech recognition SDK for iOS with Swift bindings (SPM). Based on NVIDIA NeMo FastConformer (80 ms cache-aware lookahead). Companion Silero VAD, wake-word, and 14-command KWS via same runtime.
+* [Voz](https://desertant.com/models/voz/) - On-device speech recognition for iOS and macOS (SPM) with word timestamps, running on the Neural Engine. Source-available.
 
 <a name="tensorflow"></a>
 ## TensorFlow
@@ -1974,6 +1977,7 @@ be
 * [Bread Dataset Viewer](https://github.com/Bread-Technologies/mle_vscode_extension) [![GitHub stars](https://img.shields.io/github/stars/Bread-Technologies/mle_vscode_extension?style=flat)](https://github.com/Bread-Technologies/mle_vscode_extension/stargazers) - A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 * [Bread WandB Viewer](https://github.com/Bread-Technologies/bread_wandb_viewer_extension) [![GitHub stars](https://img.shields.io/github/stars/Bread-Technologies/bread_wandb_viewer_extension?style=flat)](https://github.com/Bread-Technologies/bread_wandb_viewer_extension/stargazers) - A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI and keeping data private.
 * [Cortexa](https://automata-index.vercel.app) - Free, open-access search engine for robotics, ML, and AI research papers (arXiv, MDPI, IEEE OA).
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) [![GitHub stars](https://img.shields.io/github/stars/lightly-ai/lightly-studio?style=flat)](https://github.com/lightly-ai/lightly-studio/stargazers) - Open-source tool to curate and label computer vision datasets.
 <a name="books"></a>
 ## Books
 

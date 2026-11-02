@@ -70,6 +70,7 @@
 
 ### Image compression
 
+* [ImgFlow](https://imgflow.taoliapp.com/en/) - Compress and convert images (PNG/JPG/HEIC/WebP/AVIF) in the browser; core processing stays on-device
 * [webresizer](http://webresizer.com/resizer/)
 * [TinyPNG](https://tinypng.com)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
@@ -80,6 +81,7 @@
 * [BulkPicTools](https://bulkpictools.com/)
 * [FileOnTap](https://fileontap.com/heic-to-png/) - Free HEIC to PNG converter that runs 100% in the browser, no uploads
 * [BatchSet](https://batchset.com/tools/image-compressor) - Compress, resize or convert a whole folder of images at once, in the browser, nothing uploaded
+* [JFIF to JPG](https://jfiftojpg.app/) - Free JFIF to JPG/PNG converter that runs 100% in the browser, no uploads, no re-compression
 
 ### JavaScript
 
@@ -185,6 +187,7 @@
 * [Hreflang checker](https://localizely.com/hreflang-checker/)
 * [giga.tools](https://giga.tools/)
 * [Facecam free tools](https://www.facecam.ai/tools) - Free browser webcam test, mic test, soundboard and voice changer, no sign-up.
+* [UGCLive free tools](https://ugc.live/tools) - Free browser tools for creators: best time to post, engagement rate calculator, hook and caption generators, teleprompter, no sign-up.
 * [IPCalcPlus](https://ipcalcplus.com/)
 * [Toolio.it](https://toolio.it/) - Free hub of 155+ Italian web tools: calculators, unit/file converters, QR code and password generators, text utilities — no sign-up, mostly client-side.
 * [JieBang Tools](https://www.jiebang.site/) - 170+ free online tools for developers — JSON formatter, Base64 encoder, QR code generator, and more. All client-side, no signup required.
@@ -194,4 +197,6 @@
 * [Mello](https://mello.tools/)
 * [BeginThings](https://beginthings.com/) - 96+ free browser-based tools for developers & freelancers
 * [MiniToolDesk](https://minitooldesk.com) - 100% client-side private developer toolbox with zero ads, native Web Crypto, AI prompt data sanitizer, and code generation matrix.
+* [Benchvale Base64](https://benchvale.com/dev/base64) - Base64 encoder and decoder that runs in the browser, accepts the standard and URL-safe alphabets, re-adds missing padding, and ignores line breaks.
+* [cv.cm](https://cv.cm/en/) - 110+ free tools that run in the browser: JSON formatter, Base64, hash, JWT decoder, regex tester, cron and timestamp converters, plus image resize/convert, PDF merge/split, QR codes and a few device tests (mic, keyboard). No sign-up, 8 languages.
 
