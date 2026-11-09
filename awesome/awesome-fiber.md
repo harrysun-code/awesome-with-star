@@ -237,7 +237,7 @@ Several benchmarks to compare Fiber with other frameworks.
 
 ### 👍 Contributing
 
-Contribution guidelines can be found on [CONTRIBUTING.md](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md?style=flat)](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md/stargazers)
+Contribution guidelines can be found on [CONTRIBUTING.md](https://github.com/gofiber/awesome-fiber/blob/main/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/gofiber/awesome-fiber/blob/main/CONTRIBUTING.md?style=flat)](https://github.com/gofiber/awesome-fiber/blob/main/CONTRIBUTING.md/stargazers)
 
 <!-- skip-docs -->
 ## ☕ Supporters

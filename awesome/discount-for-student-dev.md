@@ -171,6 +171,8 @@ Table of Contents
 * [Bump.sh](https://bump.sh/students) [FREE] - Publish and keep API docs up-to-date from OpenAPI and AsyncAPI files stored in your GitHub repo. Free use of the Standard plan, worth $149/month, as long as you are a GitHub Student.
 * [Doppler](https://doppler.com/lp/secretsops-for-students) [FREE] - A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow. Free Doppler Team subscription while the user is an active student.
 * [Requestly](https://requestly.com/student-program) [FREE] – Requestly is an open-source tool that simplifies API development, testing, mocking, and integration for developers and QAs. Through the Requestly Student Program, students get full access to all its powerful tools completely free.
+* [Glasp](https://glasp.co/students) [FREE] - Highlight and take notes on web pages, PDFs and YouTube videos. Free plan for verified university students.
+* [Remote Frontend Jobs](https://www.remotefrontendjobs.com/junior) [FREE] - Every remote junior and internship developer job from dozens of job boards in one place, with junior email alerts. Sign up with your school email and Pro is free for 2 months: jobs 24 hours early, daily picks with the reasons they match, and AI search. Also for [backend](https://www.remotebackendjobs.com/junior) and [Java](https://www.remotejavajobs.com/junior).
 
 
 ## PaaS
@@ -326,6 +328,8 @@ Table of Contents
 
 * [HoneyBadger](https://education.github.com/pack)[FREE] - Exception, uptime, and cron monitoring.Free Small account for 1 year available via [Github Student Developer Pack](https://education.github.com/pack).
 
+* [Kilobat](https://kilobat.app/students) [FREE] - macOS network monitoring app; eligible students aged 13+ get one year of Pro for two Macs with a school email, renewable while studying.
+
 ## Software Packs
 
 * [Azure for Students](https://azureforeducation.microsoft.com/en-us/Institutions) [FREE / DISCOUNT] - Subscriptions provide access to Azure services. Azure for Students gives you $100 credit for 12 months. It includes access to more than 25 free services, including compute, network, storage, and databases. Any charges incurred during this period are deducted from the credit.
@@ -339,6 +343,8 @@ Table of Contents
 * [Github Student Developer Pack](https://education.github.com/pack/) [FREE] - The GitHub Student Developer Pack is a collection of tools and resources that are available to students for free. It includes access to various developer tools, cloud services, and learning resources.
 
 * [freEDU](https://www.freedu.net/) [FREE] - Directory of 147 free and discounted student offers (software, hosting, domains, learning tools), each checked and linked to the step-by-step way to claim it.
+
+* [Student AI Deals](https://aifree.dev/student-ai-deals) [FREE] - A verified list of AI tools and credits students can get free with a student email or GitHub Education, such as Copilot Pro, Azure for Students and JetBrains, with the exact requirements for each.
 
 ## Learning Resources
 

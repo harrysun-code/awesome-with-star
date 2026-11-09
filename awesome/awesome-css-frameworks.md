@@ -44,13 +44,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 
 Frameworks that use semantic HTML and do not rely on classes.
 
-- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
-  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
-  [Demo](https://picocss.com/#examples),
-  [Docs](https://picocss.com/docs/),
-  [Repo](https://github.com/picocss/pico) [![GitHub stars](https://img.shields.io/github/stars/picocss/pico?style=flat)](https://github.com/picocss/pico/stargazers)
-  | #SCSS
-
 - [**MVP.css**](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
   [Docs](https://andybrewer.github.io/mvp/#docs),
@@ -93,13 +86,6 @@ Frameworks that are smaller than ~10KB.
   [Docs](https://picnicss.com/documentation),
   [Repo](https://github.com/franciscop/picnic) [![GitHub stars](https://img.shields.io/github/stars/franciscop/picnic?style=flat)](https://github.com/franciscop/picnic/stargazers)
   | #SCSS
-
-- [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
-  ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
-  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
-  [Docs](https://jenil.github.io/chota/#docs),
-  [Repo](https://github.com/jenil/chota) [![GitHub stars](https://img.shields.io/github/stars/jenil/chota?style=flat)](https://github.com/jenil/chota/stargazers)
-  | #CSS
 
 
 ## General Purpose
@@ -300,6 +286,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/material-components/material-components-web) [![GitHub stars](https://img.shields.io/github/stars/material-components/material-components-web?style=flat)](https://github.com/material-components/material-components-web/stargazers)
   | #SCSS
 
+- [**Pico.css**](https://picocss.com/) - Elegant styles for all native HTML elements, dark mode automatically enabled.  
+  ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
+  [Demo](https://picocss.com/#examples),
+  [Docs](https://picocss.com/docs/),
+  [Repo](https://github.com/picocss/pico) [![GitHub stars](https://img.shields.io/github/stars/picocss/pico?style=flat)](https://github.com/picocss/pico/stargazers)
+  | #SCSS
+
 - [**Tachyons**](https://tachyons.io) - Quickly build and design new UI without writing CSS.  
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
   [Demo](https://tachyons.io/gallery/),
@@ -312,11 +305,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Docs](https://www.bourbon.io/docs/latest/),
   [Repo](https://github.com/thoughtbot/bourbon/) [![GitHub stars](https://img.shields.io/github/stars/thoughtbot/bourbon/?style=flat)](https://github.com/thoughtbot/bourbon//stargazers)
   | #SCSS
-
-- [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.  
-  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
-  [Repo](https://github.com/kognise/water.css) [![GitHub stars](https://img.shields.io/github/stars/kognise/water.css?style=flat)](https://github.com/kognise/water.css/stargazers)
-  | #CSS
 
 - [**sanitize.css**](https://csstools.github.io/sanitize.css/) - The best-practices CSS foundation.  
   ![](https://img.shields.io/github/stars/csstools/sanitize.css.svg?style=social&label=Star)
@@ -335,6 +323,13 @@ We are keeping them here for reference/inspiration and hope for a revival.
 
 - [**CSS Remedy**](https://github.com/jensimmons/cssremedy) [![GitHub stars](https://img.shields.io/github/stars/jensimmons/cssremedy?style=flat)](https://github.com/jensimmons/cssremedy/stargazers) - Start your project with a remedy for the technical debt of CSS.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
+  | #CSS
+
+- [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.  
+  ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
+  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
+  [Docs](https://jenil.github.io/chota/#docs),
+  [Repo](https://github.com/jenil/chota) [![GitHub stars](https://img.shields.io/github/stars/jenil/chota?style=flat)](https://github.com/jenil/chota/stargazers)
   | #CSS
 
 - [**Blaze UI**](https://www.blazeui.com) - Open source modular toolkit providing great structure for building websites quickly with a scalable and maintainable foundation.  

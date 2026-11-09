@@ -145,6 +145,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) [![GitH
 - [Kaiforge Lite](https://github.com/DevxiaLabs/kaiforge-lite) [![GitHub stars](https://img.shields.io/github/stars/DevxiaLabs/kaiforge-lite?style=flat)](https://github.com/DevxiaLabs/kaiforge-lite/stargazers) - Free and open-source Next.js admin dashboard template with Tailwind CSS, dark mode, and multiple color themes.
 - [A11y Starter Kit](https://github.com/thefrontkit/a11y-starter-kit-code) [![GitHub stars](https://img.shields.io/github/stars/thefrontkit/a11y-starter-kit-code?style=flat)](https://github.com/thefrontkit/a11y-starter-kit-code/stargazers) - Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo: https://a11y-starter-kit.vercel.app/
 - [GenPM Kits](https://genpm.net) - Next.js kits (store, blog, CMS, landing, dropshipping) installed as source code you own, with Stripe, Drizzle and auth wired in and rules for your AI agent.
+- [Midnight Lite](https://github.com/vilqor/midnight-lite) [![GitHub stars](https://img.shields.io/github/stars/vilqor/midnight-lite?style=flat)](https://github.com/vilqor/midnight-lite/stargazers) - Free dark landing page template for AI and SaaS products with Next.js 16, Tailwind CSS v4 and shadcn/ui. MIT licensed. [Demo](https://midnight-lite.vilqor.com)
 
 ## Extensions
 

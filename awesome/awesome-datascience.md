@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/academic/awesome-datascience?style=flat)](https://github.com/academic/awesome-datascience/stargazers)
 
-<div align="center"><img src="./assets/head.jpg"></div>
+﻿<div align="center"><img src="./assets/head.jpg"></div>
 
 # AWESOME DATA SCIENCE
 
@@ -708,6 +708,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 
 
+* [PredictorLab](https://github.com/MarkIvor/predictorlab) [![GitHub stars](https://img.shields.io/github/stars/MarkIvor/predictorlab?style=flat)](https://github.com/MarkIvor/predictorlab/stargazers) - Self-hosted tabular ML: leakage guard, conformal intervals, profit-optimized thresholds, counterfactuals, drift monitoring. Docker, REST API, MCP server. MIT.
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
 

@@ -115,6 +115,7 @@
 - [setup-opentofu](https://github.com/opentofu/setup-opentofu) [![GitHub stars](https://img.shields.io/github/stars/opentofu/setup-opentofu?style=flat)](https://github.com/opentofu/setup-opentofu/stargazers) - Set up OpenTofu CLI in your GitHub Actions workflow.
 - [terraform-github-actions](https://github.com/dflook/terraform-github-actions) [![GitHub stars](https://img.shields.io/github/stars/dflook/terraform-github-actions?style=flat)](https://github.com/dflook/terraform-github-actions/stargazers) - GitHub Actions for OpenTofu.
 - [tofu-controller](https://github.com/flux-iac/tofu-controller) [![GitHub stars](https://img.shields.io/github/stars/flux-iac/tofu-controller?style=flat)](https://github.com/flux-iac/tofu-controller/stargazers) - GitOps OpenTofu and Terraform controller for Flux.
+- [tofu-garnish](https://github.com/lowlydba/tofu-garnish) [![GitHub stars](https://img.shields.io/github/stars/lowlydba/tofu-garnish?style=flat)](https://github.com/lowlydba/tofu-garnish/stargazers) - GitHub Action to publish OpenTofu outputs as a static GitHub Pages site.
 - [tofUI](https://github.com/65156/tofUI) [![GitHub stars](https://img.shields.io/github/stars/65156/tofUI?style=flat)](https://github.com/65156/tofUI/stargazers) - Easily export OpenTofu and Terraform plans in HTML for better readability.
 
 ### Tests
@@ -142,7 +143,9 @@
 
 *Alternatives to Terraform Cloud.*
 
+- [Buddy](https://buddy.works) - Hosted CI/CD platform with native OpenTofu and Terraform plan, apply, and drift-detection actions, approval gates, and locked state storage.
 - [digger](https://github.com/diggerhq/digger) [![GitHub stars](https://img.shields.io/github/stars/diggerhq/digger?style=flat)](https://github.com/diggerhq/digger/stargazers) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
+- [Kumoss](https://github.com/InditexTech/kumoss) [![GitHub stars](https://img.shields.io/github/stars/InditexTech/kumoss?style=flat)](https://github.com/InditexTech/kumoss/stargazers) - Open-source, self-hosted AI assistant that plugs into your existing Git, LLM and identity stack, turning plain-language day-2 requests into plan-validated OpenTofu pull requests with drift reconciled.
 - [Semaphore UI](https://semaphoreui.com/) - Self-hosted web UI and API for scheduling and running Ansible, Terraform/OpenTofu and other DevOps automation tasks.
 - [Stackorder](https://github.com/stackorder/stackorder) [![GitHub stars](https://img.shields.io/github/stars/stackorder/stackorder?style=flat)](https://github.com/stackorder/stackorder/stargazers) - Open-source OpenTofu and Terraform orchestrator on GitHub Actions that resolves cross-stack dependencies and applies changes in waves.
 - [Stategraph](https://stategraph.com) - State backend that eliminates the state file bottleneck. Teams plan in parallel with resource-level locking, and state is queryable via SQL.

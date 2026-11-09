@@ -92,6 +92,7 @@ This list is a collection of the best Deno modules and resources.
 
 ### Cloud APIs
 - [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [sigflint](https://github.com/bompus/sigflint) [![GitHub stars](https://img.shields.io/github/stars/bompus/sigflint?style=flat)](https://github.com/bompus/sigflint/stargazers) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
@@ -249,6 +250,7 @@ This list is a collection of the best Deno modules and resources.
 - [Deno Rest](https://github.com/Prolifode/deno_rest) [![GitHub stars](https://img.shields.io/github/stars/Prolifode/deno_rest?style=flat)](https://github.com/Prolifode/deno_rest/stargazers) - A Boilerplate for deno RESTful apis.
 - [Edrys](https://github.com/edrys-org/edrys) [![GitHub stars](https://img.shields.io/github/stars/edrys-org/edrys?style=flat)](https://github.com/edrys-org/edrys/stargazers) - Remote Teaching Software
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) [![GitHub stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy?style=flat)](https://github.com/ryo-ma/github-profile-trophy/stargazers) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [globnotes](https://github.com/alexindigo/globnotes) [![GitHub stars](https://img.shields.io/github/stars/alexindigo/globnotes?style=flat)](https://github.com/alexindigo/globnotes/stargazers) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
 - [ShopSavvy Deno Deploy](https://github.com/shopsavvy/deno-deploy-shopsavvy) [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/deno-deploy-shopsavvy?style=flat)](https://github.com/shopsavvy/deno-deploy-shopsavvy/stargazers) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
 - [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
 

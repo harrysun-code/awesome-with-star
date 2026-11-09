@@ -233,6 +233,7 @@ Artificial Intelligence (AI, LLMs)
 
 * [Autolith](https://github.com/lambda-symbolics/autolith) [![GitHub stars](https://img.shields.io/github/stars/lambda-symbolics/autolith?style=flat)](https://github.com/lambda-symbolics/autolith/stargazers) - a live, self-modifying Common Lisp agent.
   - https://autolith.rocks/
+* [nodecode](https://github.com/nodecode-ai/nodecode) [![GitHub stars](https://img.shields.io/github/stars/nodecode-ai/nodecode?style=flat)](https://github.com/nodecode-ai/nodecode/stargazers) - a living agent organism in Lisp. It becomes yours and evolves over time. MIT.
 
 ## Around the OpenAI API
 
@@ -460,7 +461,7 @@ Graph databases
 * [vivace-graph](https://github.com/kraison/vivace-graph-v3) [![GitHub stars](https://img.shields.io/github/stars/kraison/vivace-graph-v3?style=flat)](https://github.com/kraison/vivace-graph-v3/stargazers) - graph database & Prolog implementation. Takes design inspiration from CouchDB, neo4j and AllegroGraph. It implements an ACID-compliant object graph model with user-defined indexes and map-reduce views. It also implements a master / slave replication scheme for redundancy and horizontal read scaling. Querying the graph is accomplished via a number of Lisp methods or via a Prolog-like query language. [MIT][200].
   * "I have used Vivace Graph as an online catalog for millions of products, as the back end for a complex, adaptable VoIP-based IVR, as well as data store for several complex big data analysis systems, and finally as the engine for two recommender systems." (issue #23)
   * "Why is vivace graph so fast? I have been comparing it with SQL-based approach and Neo4j, and vivace graph is much, much faster."
-* [Ariadne](https://git.sr.ht/~hajovonta/ariadne) - A graph database in Common Lisp with full W3C SPARQL 1.1 and SHACL conformance, Gremlin-style traversal, RDF import/export, property graph support, inference rules, graph analytics, and Graphviz visualization.
+* [Ariadne](https://github.com/hajovonta/ariadne) [![GitHub stars](https://img.shields.io/github/stars/hajovonta/ariadne?style=flat)](https://github.com/hajovonta/ariadne/stargazers) - A graph database in Common Lisp with full W3C SPARQL 1.1 and SHACL conformance, Gremlin-style traversal, RDF import/export, property graph support, inference rules, graph analytics, and Graphviz visualization.
   * *Built with LLMs*.
 
 and also:
