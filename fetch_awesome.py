@@ -46,7 +46,7 @@ def get_github_token():
     """
     config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'github_token.json')
     try:
-        with open(config_path, 'r') as f:
+        with open(config_path, 'r', encoding='utf-8') as f:
             config = json.load(f)
             token = config.get('token', '').strip()
             if token:
