@@ -52,7 +52,7 @@
   - [Crate.IO](https://crate.io/) - Scalable SQL database with the NOSQL goodies.
 - Key-Value
   - [Redis](https://redis.io/) - An open source, BSD licensed, advanced key-value cache and store.
-  - [Riak](https://docs.basho.com/riak/kv/) - A distributed database designed to deliver maximum data availability by distributing data across multiple servers.
+  - [Riak](https://docs.riak.com/riak/kv/latest/) - A distributed database designed to deliver maximum data availability by distributing data across multiple servers.
   - [AWS DynamoDB](https://aws.amazon.com/dynamodb/) - A fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.
   - [HyperDex](https://github.com/rescrv/HyperDex) [![GitHub stars](https://img.shields.io/github/stars/rescrv/HyperDex?style=flat)](https://github.com/rescrv/HyperDex/stargazers) - A scalable, searchable key-value store. Deprecated.
   - [SSDB](https://ssdb.io) - A high performance NoSQL database supporting many data structures, an alternative to Redis.
@@ -80,9 +80,9 @@
   - [ArcadeDB](https://arcadedb.com/) - Open-source multi-model database with native graph, document, key-value, and vector support. SQL, Cypher, and Gremlin query languages. Apache 2.0 license.
   - [Neo4j](https://neo4j.com/) - The world's leading graph database.
   - [Omnigraph](https://github.com/ModernRelay/omnigraph) [![GitHub stars](https://img.shields.io/github/stars/ModernRelay/omnigraph?style=flat)](https://github.com/ModernRelay/omnigraph/stargazers) - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
-  - [OrientDB](https://orientdb.com) - 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.
+  - [OrientDB](https://orientdb.dev/) - 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license.
   - [ArangoDB](https://www.arangodb.com/) - A distributed free and open-source database with a flexible data model for documents, graphs, and key-values.
-  - [Titan](https://titan.thinkaurelius.com) - A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.
+  - [Titan](https://github.com/thinkaurelius/titan) [![GitHub stars](https://img.shields.io/github/stars/thinkaurelius/titan?style=flat)](https://github.com/thinkaurelius/titan/stargazers) - A scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.
   - [FlockDB](https://github.com/twitter-archive/flockdb) [![GitHub stars](https://img.shields.io/github/stars/twitter-archive/flockdb?style=flat)](https://github.com/twitter-archive/flockdb/stargazers) - A distributed, fault-tolerant graph database by Twitter. Deprecated.
   - [Actionbase](https://github.com/kakao/actionbase) [![GitHub stars](https://img.shields.io/github/stars/kakao/actionbase?style=flat)](https://github.com/kakao/actionbase/stargazers) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 - Distributed
@@ -114,6 +114,7 @@
   - [zvec](https://github.com/alibaba/zvec) [![GitHub stars](https://img.shields.io/github/stars/alibaba/zvec?style=flat)](https://github.com/alibaba/zvec/stargazers) - An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.
   - [ReductStore](https://github.com/reductstore/reductstore) [![GitHub stars](https://img.shields.io/github/stars/reductstore/reductstore?style=flat)](https://github.com/reductstore/reductstore/stargazers) - High-performance blob and time-series storage, with edge deployment, selective replication, and efficient querying of multimodal data.
   - [Manticore Search](https://github.com/manticoresoftware/manticoresearch) [![GitHub stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=flat)](https://github.com/manticoresoftware/manticoresearch/stargazers) - An open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
+  - [Pixeltable](https://github.com/pixeltable/pixeltable) [![GitHub stars](https://img.shields.io/github/stars/pixeltable/pixeltable?style=flat)](https://github.com/pixeltable/pixeltable/stargazers) - Declarative multimodal AI data engine providing versioned tables, computed columns, incremental transformation, and vector search.
 
 ## Data Comparison
 
@@ -144,6 +145,7 @@
 - [AWS Kinesis](https://aws.amazon.com/kinesis/) - A fully managed, cloud-based service for real-time data processing over large, distributed data streams.
 - [RabbitMQ](https://www.rabbitmq.com/) - Robust messaging for applications.
 - [dlt](https://www.dlthub.com) - A fast&simple pipeline building library for Python data devs, runs in notebooks, cloud functions, airflow, etc.
+- [adbcBridge](https://github.com/singhpratech/adbcbridge) [![GitHub stars](https://img.shields.io/github/stars/singhpratech/adbcbridge?style=flat)](https://github.com/singhpratech/adbcbridge/stargazers) - Driver for ADBC, Apache Arrow's database connectivity API, that sits on top of any ODBC driver, so databases with no native Arrow driver return columnar Arrow record batches and take bulk ingest.
 - [drt](https://github.com/drt-hub/drt) [![GitHub stars](https://img.shields.io/github/stars/drt-hub/drt?style=flat)](https://github.com/drt-hub/drt/stargazers) - OSS Reverse ETL CLI. Sync data from warehouses to business tools via YAML.
 - [FluentD](https://www.fluentd.org) - An open source data collector for unified logging layer.
 - [Embulk](https://www.embulk.org) - An open source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
@@ -179,6 +181,10 @@
 - [faucet-stream](https://github.com/PawanSikawat/faucet-stream) [![GitHub stars](https://img.shields.io/github/stars/PawanSikawat/faucet-stream?style=flat)](https://github.com/PawanSikawat/faucet-stream/stargazers) - Config-driven data-movement platform for Rust with pluggable source and sink connectors, running ETL, CDC, and streaming pipelines declaratively from YAML or embedded as a library.
 - [Jitsu](https://github.com/jitsucom/jitsu) [![GitHub stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=flat)](https://github.com/jitsucom/jitsu/stargazers) - An open-source Customer Data Platform. Captures event data from websites, apps, and servers and streams it into ClickHouse, Snowflake, BigQuery, Redshift, Postgres, and MySQL in real time.
 - [Scriptella ETL](https://github.com/scriptella/scriptella-etl) [![GitHub stars](https://img.shields.io/github/stars/scriptella/scriptella-etl?style=flat)](https://github.com/scriptella/scriptella-etl/stargazers) - Open-source, Java-based ETL and script execution tool for transferring and transforming data between databases, files, and other sources.
+- [Renart](https://github.com/renart-data/renart) [![GitHub stars](https://img.shields.io/github/stars/renart-data/renart?style=flat)](https://github.com/renart-data/renart/stargazers) - Local-first IDE for authoring and running SQL and Python data pipelines stored in Git.
+- [OLake](https://github.com/datazip-inc/olake) [![GitHub stars](https://img.shields.io/github/stars/datazip-inc/olake?style=flat)](https://github.com/datazip-inc/olake/stargazers) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
+- [Firecrawl](https://github.com/firecrawl/firecrawl) [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat)](https://github.com/firecrawl/firecrawl/stargazers) - Open-source web data API that scrapes, crawls, maps, and searches the web and returns Markdown or structured JSON for data pipelines and LLM ingestion.
+- [mq-bridge](https://github.com/marcomq/mq-bridge) [![GitHub stars](https://img.shields.io/github/stars/marcomq/mq-bridge?style=flat)](https://github.com/marcomq/mq-bridge/stargazers) - Embeddable Rust engine and CLI that moves data between Kafka, NATS, RabbitMQ, MQTT, SQL databases, Postgres/MongoDB CDC and Parquet on S3/GCS/Azure, with bindings for Python and Node.js.
 
 ## File System
 
@@ -207,7 +213,7 @@
 - [Apache ORC](https://orc.apache.org/) - The smallest, fastest columnar storage for Hadoop workloads.
 - [Apache Thrift](https://thrift.apache.org) - The Apache Thrift software framework, for scalable cross-language services development.
 - [ProtoBuf](https://github.com/protocolbuffers/protobuf) [![GitHub stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat)](https://github.com/protocolbuffers/protobuf/stargazers) - Protocol Buffers - Google's data interchange format.
-- [SequenceFile](https://wiki.apache.org/hadoop/SequenceFile) - A flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats.
+- [SequenceFile](https://cwiki.apache.org/confluence/display/HADOOP2/SequenceFile) - A flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats.
 - [Kryo](https://github.com/EsotericSoftware/kryo) [![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/kryo?style=flat)](https://github.com/EsotericSoftware/kryo/stargazers) - A fast and efficient object graph serialization framework for Java.
 - [PFC-JSONL](https://github.com/ImpossibleForge/pfc-jsonl) [![GitHub stars](https://img.shields.io/github/stars/ImpossibleForge/pfc-jsonl?style=flat)](https://github.com/ImpossibleForge/pfc-jsonl/stargazers) - Specialized JSONL log compressor with block-level timestamp indexing and DuckDB integration. Achieves ~9% compression ratio (better than gzip) with time-range random access queries.
 - [ParquetKit](https://parquetkit.com) - Browser-based viewer, SQL workbench and converter for Parquet files powered by DuckDB-WASM. Fully client-side, no upload.
@@ -224,7 +230,7 @@
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) [![GitHub stars](https://img.shields.io/github/stars/cocoindex-io/cocoindex?style=flat)](https://github.com/cocoindex-io/cocoindex/stargazers) - An open source ETL framework to build fresh index for AI. 
 - [VoltDB](https://voltdb.com/) - An ACID-compliant RDBMS which uses a [shared nothing architecture](https://en.wikipedia.org/wiki/Shared-nothing_architecture).
 - [PipelineDB](https://github.com/pipelinedb/pipelinedb) [![GitHub stars](https://img.shields.io/github/stars/pipelinedb/pipelinedb?style=flat)](https://github.com/pipelinedb/pipelinedb/stargazers) - The Streaming SQL Database.
-- [Spring Cloud Dataflow](https://cloud.spring.io/spring-cloud-dataflow/) - Streaming and tasks execution between Spring Boot apps.
+- [Spring Cloud Dataflow](https://dataflow.spring.io/) - Streaming and tasks execution between Spring Boot apps.
 - [Bonobo](https://www.bonobo-project.org/) - A data-processing toolkit for python 3.5+.
 - [Robinhood's Faust](https://github.com/faust-streaming/faust) [![GitHub stars](https://img.shields.io/github/stars/faust-streaming/faust?style=flat)](https://github.com/faust-streaming/faust/stargazers) - Forever scalable event processing & in-memory durable K/V store as a library with asyncio & static typing.
 - [HStreamDB](https://github.com/hstreamdb/hstream) [![GitHub stars](https://img.shields.io/github/stars/hstreamdb/hstream?style=flat)](https://github.com/hstreamdb/hstream/stargazers) - The streaming database built for IoT data storage and real-time processing.
@@ -232,6 +238,8 @@
 - [Zilla](https://github.com/aklivity/zilla) [![GitHub stars](https://img.shields.io/github/stars/aklivity/zilla?style=flat)](https://github.com/aklivity/zilla/stargazers) - - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 - [SwimOS](https://github.com/swimos/swim-rust) [![GitHub stars](https://img.shields.io/github/stars/swimos/swim-rust?style=flat)](https://github.com/swimos/swim-rust/stargazers) - A framework for building real-time streaming data processing applications that supports a wide range of ingestion sources.
 - [Pathway](https://github.com/pathwaycom/pathway) [![GitHub stars](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat)](https://github.com/pathwaycom/pathway/stargazers) - Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+- [Timeplus Proton](https://github.com/timeplus-io/proton) [![GitHub stars](https://img.shields.io/github/stars/timeplus-io/proton?style=flat)](https://github.com/timeplus-io/proton/stargazers) - Streaming SQL engine in a single C++ binary, powered by ClickHouse; a lightweight alternative to Flink and ksqlDB for streaming ETL, windowed aggregations, joins and materialized views over Kafka.
+- [CardinalityEstimation](https://github.com/saguiitay/CardinalityEstimation) [![GitHub stars](https://img.shields.io/github/stars/saguiitay/CardinalityEstimation?style=flat)](https://github.com/saguiitay/CardinalityEstimation/stargazers) - C# library using HyperLogLog for approximate distinct counting in data streams, with mergeable estimators and serialization.
 
 ## Batch Processing
 
@@ -272,7 +280,7 @@
 - [C3.js](https://c3js.org) - D3-based reusable chart library.
 - [D3.js](https://d3js.org/) - A JavaScript library for manipulating documents based on data.
   - [D3Plus](https://d3plus.org) - D3's simpler, easier to use cousin. Mostly predefined templates that you can just plug data in.
-- [SmoothieCharts](https://smoothiecharts.org) - A JavaScript Charting Library for Streaming Data.
+- [SmoothieCharts](https://github.com/joewalnes/smoothie) [![GitHub stars](https://img.shields.io/github/stars/joewalnes/smoothie?style=flat)](https://github.com/joewalnes/smoothie/stargazers) - A JavaScript Charting Library for Streaming Data.
 - [PyXley](https://github.com/stitchfix/pyxley) [![GitHub stars](https://img.shields.io/github/stars/stitchfix/pyxley?style=flat)](https://github.com/stitchfix/pyxley/stargazers) - Python helpers for building dashboards using Flask and React.
 - [Plotly](https://github.com/plotly/dash) [![GitHub stars](https://img.shields.io/github/stars/plotly/dash?style=flat)](https://github.com/plotly/dash/stargazers) - Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python.
 - [Apache Superset](https://github.com/apache/incubator-superset) [![GitHub stars](https://img.shields.io/github/stars/apache/incubator-superset?style=flat)](https://github.com/apache/incubator-superset/stargazers) - A modern, enterprise-ready business intelligence web application.
@@ -280,12 +288,14 @@
 - [Metabase](https://github.com/metabase/metabase) [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=flat)](https://github.com/metabase/metabase/stargazers) - The easy, open source way for everyone in your company to ask questions and learn from data.
 - [stratif.io](https://stratif.io) - Open-source, self-hosted, warehouse-native product analytics. Runs funnels, retention, and paths directly on DuckDB, Postgres, Snowflake, or ClickHouse.
 - [PyQtGraph](https://www.pyqtgraph.org/) - A pure-python graphics and GUI library built on PyQt4 / PySide and numpy. It is intended for use in mathematics / scientific / engineering applications.
+- [Streamlit](https://streamlit.io/) - An open-source Python framework for building interactive data apps and dashboards with minimal code. Connects to any data source and supports real-time updates, caching, and one-click deployment.
 - [Seaborn](https://seaborn.pydata.org) - A Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 - [QueryGPT](https://github.com/MKY508/QueryGPT) [![GitHub stars](https://img.shields.io/github/stars/MKY508/QueryGPT?style=flat)](https://github.com/MKY508/QueryGPT/stargazers) - Natural language database query interface with automatic chart generation, supporting Chinese and English queries.
 - [AI for Database](https://aifordatabase.com/) - Agentic AI platform to connect any database (PostgreSQL, MySQL, MongoDB, etc.) and query in plain English; includes self-refreshing intelligent dashboards and action workflows triggered by data changes.
 - [Dekart](https://github.com/dekart-xyz/dekart) [![GitHub stars](https://img.shields.io/github/stars/dekart-xyz/dekart?style=flat)](https://github.com/dekart-xyz/dekart/stargazers) - Open-source SQL to map platform for BigQuery, Snowflake, and PostGIS.
 - [LunaPad](https://lunapad.dev/) - Open-source analytics notebook for reusable SQL workflows, interactive reports, and AI-assisted data exploration.
 - [FlexViz](https://github.com/flex-analytics/flexviz) [![GitHub stars](https://img.shields.io/github/stars/flex-analytics/flexviz?style=flat)](https://github.com/flex-analytics/flexviz/stargazers) - Open-source Python library for interactive cross-filter dashboards on large datasets. Zoom, pan, and selection are answered by lazy Polars aggregations on a stateless server instead of sending rows to the browser.
+- [GeoSQL](https://github.com/dekart-xyz/geosql) [![GitHub stars](https://img.shields.io/github/stars/dekart-xyz/geosql?style=flat)](https://github.com/dekart-xyz/geosql/stargazers) - Claude/Codex skill for cost-safe geospatial SQL on BigQuery and Snowflake.
 
 ## Workflow
 
@@ -296,7 +306,7 @@
 - [DataFlow](https://github.com/OpenDCAI/DataFlow) [![GitHub stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat)](https://github.com/OpenDCAI/DataFlow/stargazers) - Open-source platform for data preparation, synthetic data generation, and AI/data pipelines. Includes reusable skills for automating workflow steps across data and AI tasks.
 - [Luigi](https://github.com/spotify/luigi) [![GitHub stars](https://img.shields.io/github/stars/spotify/luigi?style=flat)](https://github.com/spotify/luigi/stargazers) - A Python module that helps you build complex pipelines of batch jobs.
 - [CronQ](https://github.com/seatgeek/cronq) [![GitHub stars](https://img.shields.io/github/stars/seatgeek/cronq?style=flat)](https://github.com/seatgeek/cronq/stargazers) - An application cron-like system. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luigi. Deprecated.
-- [Cascading](https://www.cascading.org/) - Java based application development platform.
+- [Cascading](https://cascading.wensel.net/) - Java based application development platform.
 - [Airflow](https://github.com/apache/airflow) [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=flat)](https://github.com/apache/airflow/stargazers) - A system to programmatically author, schedule, and monitor data pipelines.
 - [Azkaban](https://azkaban.github.io/) - A batch workflow job scheduler created at LinkedIn to run Hadoop jobs. Azkaban resolves the ordering through job dependencies and provides an easy-to-use web user interface to maintain and track your workflows.
 - [Oozie](https://oozie.apache.org/) - A workflow scheduler system to manage Apache Hadoop jobs.
@@ -304,7 +314,7 @@
 - [Dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=flat)](https://github.com/dagster-io/dagster/stargazers) - An open-source Python library for building data applications.
 - [Hamilton](https://github.com/dagworks-inc/hamilton) [![GitHub stars](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat)](https://github.com/dagworks-inc/hamilton/stargazers) - A lightweight library to define data transformations as a directed-acyclic graph (DAG). If you like dbt for SQL transforms, you will like Hamilton for Python processing.
 - [Kedro](https://kedro.readthedocs.io/en/latest/) - A framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
-- [Dataform](https://dataform.co/) - An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
+- [Dataform](https://github.com/dataform-co/dataform) [![GitHub stars](https://img.shields.io/github/stars/dataform-co/dataform?style=flat)](https://github.com/dataform-co/dataform/stargazers) - An open-source framework and web based IDE to manage datasets and their dependencies. SQLX extends your existing SQL warehouse dialect to add features that support dependency management, testing, documentation and more.
 - [Dotflow](https://github.com/dotflow-io/dotflow) [![GitHub stars](https://img.shields.io/github/stars/dotflow-io/dotflow?style=flat)](https://github.com/dotflow-io/dotflow/stargazers) - A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
 - [Census](https://getcensus.com/) - A reverse-ETL tool that let you sync data from your cloud data warehouse to SaaS applications like Salesforce, Marketo, HubSpot, Zendesk, etc. No engineering favors required—just SQL.
 - [dbt](https://getdbt.com/) - A command line tool that enables data analysts and engineers to transform data in their warehouses more effectively.
@@ -317,6 +327,7 @@
 - [SuprSend](https://www.suprsend.com/products/workflows) - Create automated workflows and logic using API's for your notification service. Add templates, batching, preferences, inapp inbox with workflows to trigger notifications directly from your data warehouse.
 - [Mage](https://www.mage.ai) - Open-source data pipeline tool for transforming and integrating data.
 - [SQLMesh](https://sqlmesh.readthedocs.io) - An open-source data transformation framework for managing, testing, and deploying SQL and Python-based data pipelines with version control, environment isolation, and automatic dependency resolution.
+- [Ciaren](https://github.com/ciaren-labs/Ciaren) [![GitHub stars](https://img.shields.io/github/stars/ciaren-labs/Ciaren?style=flat)](https://github.com/ciaren-labs/Ciaren/stargazers) - A local-first visual ETL and ML workflow builder with per-step previews, cron scheduling, and export to pandas or Polars code.
 
 ## Data Lake Management
 
@@ -337,7 +348,6 @@
 
 - [Gockerize](https://github.com/redbooth/gockerize) [![GitHub stars](https://img.shields.io/github/stars/redbooth/gockerize?style=flat)](https://github.com/redbooth/gockerize/stargazers) - Package golang service into minimal Docker containers.
 - [Flocker](https://github.com/ClusterHQ/flocker) [![GitHub stars](https://img.shields.io/github/stars/ClusterHQ/flocker?style=flat)](https://github.com/ClusterHQ/flocker/stargazers) - Easily manage Docker containers & their data.
-- [Rancher](https://rancher.com/rancher-os/) - RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers.
 - [Kontena](https://www.kontena.io/) - Application Containers for Masses.
 - [Weave](https://github.com/weaveworks/weave) [![GitHub stars](https://img.shields.io/github/stars/weaveworks/weave?style=flat)](https://github.com/weaveworks/weave/stargazers) - Weaving Docker containers into applications.
 - [Zodiac](https://github.com/CenturyLinkLabs/zodiac) [![GitHub stars](https://img.shields.io/github/stars/CenturyLinkLabs/zodiac?style=flat)](https://github.com/CenturyLinkLabs/zodiac/stargazers) - A lightweight tool for easy deployment and rollback of dockerized applications.
@@ -367,7 +377,7 @@
 - [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite of US household cost burdens (housing, taxes, childcare, healthcare, transport) aggregated from Census ACS, BLS Consumer Expenditure Survey, and HUD Fair Market Rents. Open methodology, free, no email gate.
 - [FirstData](https://github.com/MLT-OSS/FirstData) [![GitHub stars](https://img.shields.io/github/stars/MLT-OSS/FirstData?style=flat)](https://github.com/MLT-OSS/FirstData/stargazers) - The world's most comprehensive authoritative data source knowledge base. 160+ curated sources from governments, international organizations, and research institutions with MCP integration.
 - [Mindweave Synthetic Business Data](https://github.com/MindweaveTech/sme-sim-sample) [![GitHub stars](https://img.shields.io/github/stars/MindweaveTech/sme-sim-sample?style=flat)](https://github.com/MindweaveTech/sme-sim-sample/stargazers) - 42-table synthetic SME dataset with double-entry accounting, tax compliance (AU/US/UK), and temporal realism. CSV, SQL, Parquet, SQLite. Ideal for ETL pipeline testing.
-- [LatAm Synth](https://apify.com/jmendozapuche/latam-synth) - Synthetic financial savings behavior generator for Latin America: users, savings goals, and transactions calibrated on 506K real records (2015–2024). Reproducible by seed, 100% synthetic.
+- [OpenChainBench](https://openchainbench.com) - Live dataset of crypto infrastructure benchmarks (RPC latency, oracle deviation, bridge fees, L1 finality, perp DEX metrics). Open methodology, CC BY 4.0, Zenodo DOI 10.5281/zenodo.20800312. [Source](https://github.com/ChainBench/OpenChainBench) [![GitHub stars](https://img.shields.io/github/stars/ChainBench/OpenChainBench?style=flat)](https://github.com/ChainBench/OpenChainBench/stargazers).
 
 ## Monitoring
 
@@ -383,6 +393,8 @@
 - [Data Profiler](https://github.com/capitalone/dataprofiler) [![GitHub stars](https://img.shields.io/github/stars/capitalone/dataprofiler?style=flat)](https://github.com/capitalone/dataprofiler/stargazers) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 - [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 - [Desbordante](https://github.com/desbordante/desbordante-core) [![GitHub stars](https://img.shields.io/github/stars/desbordante/desbordante-core?style=flat)](https://github.com/desbordante/desbordante-core/stargazers) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+- [dataprof](https://github.com/AndreaBozzo/dataprof) [![GitHub stars](https://img.shields.io/github/stars/AndreaBozzo/dataprof?style=flat)](https://github.com/AndreaBozzo/dataprof/stargazers) - Data profiling and quality gates for CSV, JSON, Parquet, DataFrames and Arrow tables, with a Rust core and a Python API.
+- [Dex](https://github.com/exmergo/dex) [![GitHub stars](https://img.shields.io/github/stars/exmergo/dex?style=flat)](https://github.com/exmergo/dex/stargazers) - Agent-native warehouse profiling, join verification, and schema-drift detection with dbt transformation workflows.
 
 
 ## Schema
@@ -395,7 +407,7 @@
 - [Aegis DQ](https://github.com/aegis-dq/aegis-dq) [![GitHub stars](https://img.shields.io/github/stars/aegis-dq/aegis-dq?style=flat)](https://github.com/aegis-dq/aegis-dq/stargazers) - Open-source agentic data quality framework with LLM-powered diagnosis, root-cause analysis, SQL auto-fix proposals, and 31 rule types — DuckDB, Postgres, BigQuery, Databricks, Athena, Snowflake.
 - [Grai](https://github.com/grai-io/grai-core/) [![GitHub stars](https://img.shields.io/github/stars/grai-io/grai-core/?style=flat)](https://github.com/grai-io/grai-core//stargazers) - A data catalog tool that integrates into your CI system exposing downstream impact testing of data changes. These tests prevent data changes which might break data pipelines or BI dashboards from making it to production.
 - [DQOps](https://github.com/dqops/dqo) [![GitHub stars](https://img.shields.io/github/stars/dqops/dqo?style=flat)](https://github.com/dqops/dqo/stargazers) - An open-source data quality platform for the whole data platform lifecycle from profiling new data sources to applying full automation of data quality monitoring.
-- [DataKitchen](https://datakitchen.io/) -  Open Source Data Observability for end-to-end Data Journey Observability, data profiling, anomaly detection, and auto-created data quality validation tests.
+- [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) [![GitHub stars](https://img.shields.io/github/stars/DataKitchen/dataops-testgen?style=flat)](https://github.com/DataKitchen/dataops-testgen/stargazers) - Open-source data quality tool that profiles tables, generates validation tests from the profiling results, and monitors freshness, volume, and schema from a web UI.
 - [GreatExpectation](https://greatexpectations.io/) -  Open Source data validation framework to manage data quality. Users can define and document “expectations” rules about how data should look and behave.
 - [Provero](https://github.com/provero-org/provero) [![GitHub stars](https://img.shields.io/github/stars/provero-org/provero?style=flat)](https://github.com/provero-org/provero/stargazers) - A vendor-neutral, declarative data quality engine. Define checks in YAML, run anywhere. Includes 16 built-in check types, SQL batch optimizer, anomaly detection, and data contracts.
 - [Scherlok](https://github.com/rbmuller/scherlok) [![GitHub stars](https://img.shields.io/github/stars/rbmuller/scherlok?style=flat)](https://github.com/rbmuller/scherlok/stargazers) - Zero-config data quality CLI. Profiles every table on first run, then auto-detects anomalies (volume drops, schema drift, freshness misses, distribution shifts) on subsequent runs. No YAML, no rules to write. Works with Postgres, BigQuery, Snowflake, and dbt.
@@ -407,6 +419,7 @@
 - [DataDriven](https://www.datadriven.io/) - Interview practice with SQL query execution, Python, and data modeling exercises.
 - [Fixzi](https://fixzi.ai) - JSON/XML validation and API contract monitoring tool for debugging and testing structured data.
 - [dbmask](https://github.com/sealandseacat/dbmask) [![GitHub stars](https://img.shields.io/github/stars/sealandseacat/dbmask?style=flat)](https://github.com/sealandseacat/dbmask/stargazers) - Open-source tool that scans SQL databases for sensitive columns, masks them with deterministic fakes, and validates the masked copy row by row against the original.
+- [Data Contract CLI](https://cli.datacontract.com) - Tests data in Snowflake, Databricks, BigQuery, Kafka and other sources against data contracts in the Open Data Contract Standard (ODCS), and converts contracts to and from SQL DDL, dbt, Avro and JSON Schema.
 
 ## Community
 
@@ -418,7 +431,7 @@
 
 ### Conferences
 
-- [Data Council](https://www.datacouncil.ai/about) - The first technical conference that bridges the gap between data scientists, data engineers and data analysts.
+- [Data Council](https://www.datacouncil.ai/) - The first technical conference that bridges the gap between data scientists, data engineers and data analysts.
 
 ### Podcasts
 

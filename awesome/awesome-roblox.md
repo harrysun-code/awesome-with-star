@@ -50,6 +50,7 @@
 - [Centurion](https://github.com/paradoxuum/centurion) [![GitHub stars](https://img.shields.io/github/stars/paradoxuum/centurion?style=flat)](https://github.com/paradoxuum/centurion/stargazers) - A flexible and extensible command framework for roblox-ts.
 - [Cmdr](https://github.com/evaera/Cmdr) [![GitHub stars](https://img.shields.io/github/stars/evaera/Cmdr?style=flat)](https://github.com/evaera/Cmdr/stargazers) - Extensible command console for developers.
 - [Conch](https://github.com/alicesaidhi/conch) [![GitHub stars](https://img.shields.io/github/stars/alicesaidhi/conch?style=flat)](https://github.com/alicesaidhi/conch/stargazers) - Modern and scalable developer console with a shell-like turing-complete scripting language.
+- [HD Admin](https://github.com/nanoblox/hd-admin) [![GitHub stars](https://img.shields.io/github/stars/nanoblox/hd-admin?style=flat)](https://github.com/nanoblox/hd-admin/stargazers) - Moderation, monetisation and game management with over 200 commands.
 - [Kohl's Admin](https://github.com/kohls-admin/kohls-admin) [![GitHub stars](https://img.shields.io/github/stars/kohls-admin/kohls-admin?style=flat)](https://github.com/kohls-admin/kohls-admin/stargazers) - All-in-one solution for experience management.
 - [Nexus-Admin](https://github.com/TheNexusAvenger/Nexus-Admin) [![GitHub stars](https://img.shields.io/github/stars/TheNexusAvenger/Nexus-Admin?style=flat)](https://github.com/TheNexusAvenger/Nexus-Admin/stargazers) - Admin system for Roblox meant for normal players.
 

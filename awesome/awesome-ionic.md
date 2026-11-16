@@ -168,6 +168,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 ## Unit Testing
 - [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 - [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
+- [Ionic Testing: Unit, End-to-End and Real Device Tests](https://www.testmuai.com/blog/ionic-testing/) - Guide to unit, end-to-end and real device testing for Ionic apps (by TestMu AI).
 
 ## Ionic Native / Cordova Plugins
 - [Playing music in Ionic 4 apps](https://enappd.com/blog/spotify-like-music-in-ionic-4-apps/48)
@@ -362,6 +363,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 - [Vite plugin](https://github.com/Cap-go/vite-capacitor) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/vite-capacitor?style=flat)](https://github.com/Cap-go/vite-capacitor/stargazers) - Keep native platform configs in sync with the Vite dev server URL.
 - [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/n8n-nodes-capgo?style=flat)](https://github.com/Cap-go/n8n-nodes-capgo/stargazers) - Automate live updates and native builds from n8n workflows.
 - [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) [![GitHub stars](https://img.shields.io/github/stars/Cap-go/standard-version-for-capacitor?style=flat)](https://github.com/Cap-go/standard-version-for-capacitor/stargazers) - Automated versioning for apps.
+- [Apparent for Capacitor](https://github.com/AhmedAshour/apparent-sdks/tree/main/capacitor) [![GitHub stars](https://img.shields.io/github/stars/AhmedAshour/apparent-sdks/tree/main/capacitor?style=flat)](https://github.com/AhmedAshour/apparent-sdks/tree/main/capacitor/stargazers) - Analytics for Ionic apps without Firebase: screens from any router, events, purchases and JavaScript errors.
 - [CI/CD pipeline setup](https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide/) - Automate build, test, and live update deployment.
 - [OTA updates in CI/CD](https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide/) - Ship over-the-air updates from your pipeline.
 

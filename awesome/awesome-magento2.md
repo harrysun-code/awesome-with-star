@@ -28,7 +28,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **230** projects · **65** actively maintained · **11** 🔥 hot · **50** 🪦 on the graveyard shelf.
+> Tracking **230** projects · **63** actively maintained · **11** 🔥 hot · **51** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md) [![GitHub stars](https://img.shields.io/github/stars/sindresorhus/awesome/blob/master/awesome.md?style=flat)](https://github.com/sindresorhus/awesome/blob/master/awesome.md/stargazers)
 - [Contribution guide](contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -99,19 +99,19 @@ Also see:
 [Meet Magento events](https://www.meet-magento.com/) bring together everyone from merchants through developers, solution and technology providers, and marketers—and we continue to expand.
 
 - [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
-- [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) 🫡 - Meet Magento event series — Malaysia.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
 - [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
-- [Meet Magento Brazil](https://meetmagentobrasil.org/) - Meet Magento event series — Brazil.
 - [Meet Magento Romania](https://ro.meet-magento.com/) - Meet Magento event series — Romania.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
+- [Meet Magento Brazil](https://meetmagentobrasil.org/) - Meet Magento event series — Brazil.
+- [Meet Magento India](https://www.meetmagento.in/) - Meet Magento event series — India.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -141,8 +141,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) [![GitHub stars](https://img.shields.io/github/stars/jellesiderius/mage-db-sync?style=flat)](https://github.com/jellesiderius/mage-db-sync/stargazers) 🫡 - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [Mage](https://github.com/GrimLink/mage) [![GitHub stars](https://img.shields.io/github/stars/GrimLink/mage?style=flat)](https://github.com/GrimLink/mage/stargazers) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge](https://github.com/OpenForgeProject/mageforge) [![GitHub stars](https://img.shields.io/github/stars/OpenForgeProject/mageforge?style=flat)](https://github.com/OpenForgeProject/mageforge/stargazers) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
-- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) [![GitHub stars](https://img.shields.io/github/stars/magespecialist/mage-chrome-toolbar?style=flat)](https://github.com/magespecialist/mage-chrome-toolbar/stargazers) - Chrome extension for Magento 2 development by MageSpecialist.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) [![GitHub stars](https://img.shields.io/github/stars/AmpersandHQ/ampersand-magento2-upgrade-patch-helper?style=flat)](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper/stargazers) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
+- [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) [![GitHub stars](https://img.shields.io/github/stars/magespecialist/mage-chrome-toolbar?style=flat)](https://github.com/magespecialist/mage-chrome-toolbar/stargazers) - Chrome extension for Magento 2 development by MageSpecialist.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) [![GitHub stars](https://img.shields.io/github/stars/magespecialist/m2-MSP_DevTools?style=flat)](https://github.com/magespecialist/m2-MSP_DevTools/stargazers) - Developer toolbar for Magento 2.
 - [Tango](https://github.com/roma-glushko/tango) [![GitHub stars](https://img.shields.io/github/stars/roma-glushko/tango?style=flat)](https://github.com/roma-glushko/tango/stargazers) - CLI for analyzing access logs.
 - [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) [![GitHub stars](https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=flat)](https://github.com/run-as-root/magento2-message-queue-retry/stargazers) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
@@ -248,10 +248,10 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) [![GitHub stars](https://img.shields.io/github/stars/magefan/module-blog?style=flat)](https://github.com/magefan/module-blog/stargazers) 🔥 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) [![GitHub stars](https://img.shields.io/github/stars/mageplaza/magento-2-blog-extension?style=flat)](https://github.com/mageplaza/magento-2-blog-extension/stargazers) 🫡 - Simple but well-working Blog Extension.
-- [module-page-builder-widget](https://github.com/mage-os/module-page-builder-widget) [![GitHub stars](https://img.shields.io/github/stars/mage-os/module-page-builder-widget?style=flat)](https://github.com/mage-os/module-page-builder-widget/stargazers) 🫡 - Native Magento Page Builder support for CMS Widgets
 - [Opengento GDPR](https://github.com/opengento/magento2-gdpr) [![GitHub stars](https://img.shields.io/github/stars/opengento/magento2-gdpr?style=flat)](https://github.com/opengento/magento2-gdpr/stargazers) - Magento 2 GDPR module to help be GDPR compliant.
 - [hyva-ai-tools](https://github.com/hyva-themes/hyva-ai-tools) [![GitHub stars](https://img.shields.io/github/stars/hyva-themes/hyva-ai-tools?style=flat)](https://github.com/hyva-themes/hyva-ai-tools/stargazers) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
 - [magento-2-seeder](https://github.com/run-as-root/magento-2-seeder) [![GitHub stars](https://img.shields.io/github/stars/run-as-root/magento-2-seeder?style=flat)](https://github.com/run-as-root/magento-2-seeder/stargazers) - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
+- [module-page-builder-widget](https://github.com/mage-os/module-page-builder-widget) [![GitHub stars](https://img.shields.io/github/stars/mage-os/module-page-builder-widget?style=flat)](https://github.com/mage-os/module-page-builder-widget/stargazers) - Native Magento Page Builder support for CMS Widgets
 
 ### Marketing
 
@@ -315,11 +315,11 @@ The storefront of Magento 2 can be styled in numerous ways:
 ### Infrastructure
 
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) [![GitHub stars](https://img.shields.io/github/stars/Ethan3600/magento2-CronjobManager?style=flat)](https://github.com/Ethan3600/magento2-CronjobManager/stargazers) 🔥 - Cron Job Manager for Magento 2.
-- [magento-cache-clean](https://github.com/mage-os/magento-cache-clean) [![GitHub stars](https://img.shields.io/github/stars/mage-os/magento-cache-clean?style=flat)](https://github.com/mage-os/magento-cache-clean/stargazers) 🫡 - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [module-theme-optimization](https://github.com/mage-os/module-theme-optimization) [![GitHub stars](https://img.shields.io/github/stars/mage-os/module-theme-optimization?style=flat)](https://github.com/mage-os/module-theme-optimization/stargazers) 🫡 - bfcache, speculative loading, and view transitions for Magento
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) [![GitHub stars](https://img.shields.io/github/stars/fastly/fastly-magento2?style=flat)](https://github.com/fastly/fastly-magento2/stargazers) - Magento 2 Fastly integration.
 - [Interceptor Optimization](https://github.com/creatuity/magento2-interceptors) [![GitHub stars](https://img.shields.io/github/stars/creatuity/magento2-interceptors?style=flat)](https://github.com/creatuity/magento2-interceptors/stargazers) - New interceptors approach for Magento 2.
 - [Clean Media](https://github.com/sivaschenko/magento2-clean-media) [![GitHub stars](https://img.shields.io/github/stars/sivaschenko/magento2-clean-media?style=flat)](https://github.com/sivaschenko/magento2-clean-media/stargazers) - A module that provides information about media files and potential removal options.
+- [magento-cache-clean](https://github.com/mage-os/magento-cache-clean) [![GitHub stars](https://img.shields.io/github/stars/mage-os/magento-cache-clean?style=flat)](https://github.com/mage-os/magento-cache-clean/stargazers) - A faster drop in replacement for bin/magento cache:clean with file watcher
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) [![GitHub stars](https://img.shields.io/github/stars/shkoliar/magento-ngrok?style=flat)](https://github.com/shkoliar/magento-ngrok/stargazers) - Magento 2 Ngrok Integration.
 
 ### Proprietary Extensions
@@ -384,12 +384,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Podcasts
 
 - [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
+- [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
-- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 </details>
 

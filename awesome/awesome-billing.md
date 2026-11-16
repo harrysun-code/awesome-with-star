@@ -13,6 +13,21 @@
 </p>
 
 <p align="center">
+  <a href="https://go.nli.one/billing">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-billing/main/assets/whop-logo-dark-background.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-billing/main/assets/whop-logo-light-background.svg">
+      <img width="300" src="https://raw.githubusercontent.com/kdeldycke/awesome-billing/main/assets/whop-logo-light-background.svg" alt="Whop">
+    </picture>
+    <br/>
+    <strong>Sponsored by Whop:</strong> if you use awesome-billing to design pricing, invoicing and subscription flows, Whop is a way to accept payments, manage subscriptions and sell your software, services or digital products worldwide, at competitive fees.
+  </a>
+  <br/>
+  <sup><i>(Partner link: your partner earns a commission from Whop, at no extra cost to you. As a bonus, you get their exclusive resources by private message after signing up, plus reduced fees within 24 to 48 hours.)</i></sup>
+  <br/><br/>
+</p>
+
+<p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Your brand → here 🚀</strong>
     <br/>
@@ -103,11 +118,13 @@ This highlight the strategic importance of the domain, not only for cloud provid
 
 - [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/) - A great introduction on all the various aspects of a billing system, from currency to invoices, including great illustrations on the logic of changing plans. All these topics are detailed in dedicated sections below.
 
+- [Billing systems are a nightmare for engineers](https://news.ycombinator.com/item?id=31424450) - There is a shadow army of billing software engineers behind the biggest companies of the world. Here they share their nightmare stories.
+
 - [Open guide to AWS](https://github.com/open-guides/og-aws#billing-and-cost-management) [![GitHub stars](https://img.shields.io/github/stars/open-guides/og-aws?style=flat)](https://github.com/open-guides/og-aws/stargazers) - Links to the *Billing and Cost Management* section which details the broad characteristics of billing for a cloud provider.
 
-- [Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000](https://xunroll.com/thread/1668082843728367616) - [Get rid of integers and floats for monetary values](https://xunroll.com/thread/1599113889093890049). Use decimals. Or face the risks of anomalous x100 charges.
+- [Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000](https://xunroll.com/thread/1668082843728367616) - Get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and [parse them, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/). Or face the risks of anomalous x100 charges, like [Google with its coupons](https://web.archive.org/web/20250326135824/http://rachelbythebay.com/w/2022/12/02/25k/).
 
-- How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the antechamber of data engineering.” ([source](https://x.com/kdeldycke/status/1422564355799924736))
+- How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the antechamber of data engineering.” — me, 2021-08-03
 
 ## Pricing
 
@@ -137,11 +154,13 @@ The dynamic scheme for elastic resources.
 
 - [A Survey of Profit Optimization Techniques for Cloud Providers](http://www.cs.newpaltz.edu/~lik/publications/Peijin-Cong-ACM-CS-a-2020.pdf) - “The strategy of improving user service quality is discussed first, followed by the pricing strategy for cloud resources to maximize revenue.”
 
-- “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://x.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.
+- “Billing is not complex on purpose: it's the price to pay for elasticity.” — me, [2020-01-06](https://web.archive.org/web/20200110052254/https://twitter.com/kdeldycke/status/1214160678363246592). Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.
 
 - [Riemann sum](https://en.wikipedia.org/wiki/Riemann_sum) - The starting point about quantization of usage.
 
 - [Allen's interval algebra](https://en.wikipedia.org/wiki/Allen%27s_interval_algebra) - Implementing usage-based pricing is tricky, and this algebra will help you organize temporal reasoning. Also see this [Stack Overflow question with clean schema](https://web.archive.org/web/20240413010618/https://stackoverflow.com/questions/12069082/allens-interval-algebra-operations-in-sql?rq=1).
+
+- [Billing pipeline: a critical time sensitive system](https://kevin.deldycke.com/2020/billing-pipeline-critical-time-sensitive-system) - Design notes on Scaleway's billing pipeline, built to “track nano-euros at the milli-seconds time granularity”. My takeaways: get the current time from one central method, randomize the order of the tests, and do not deploy in the first days of the month, when the accounting reports are produced.
 
 - [Reconcile Your Monthly GCP Invoice with BigQuery Billing Export](https://web.archive.org/web/20201107232605/https://medium.com/@lukwam/reconcile-your-monthly-gcp-invoice-with-bigquery-billing-export-b36ae0c961e) - Behind the quest of this developer to track its expenses, you get a glimpse on cloud billing difficulties. While not explicitly pointed out, pricing cloud resources is hard and the result of quantization, granularity and rounding, between space, time and currencies.
 
@@ -154,8 +173,6 @@ The dynamic scheme for elastic resources.
 - [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform=&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
 
 - [Lago](https://github.com/getlago/lago) [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=flat)](https://github.com/getlago/lago/stargazers) - 💸 Open-source metering & usage-based billing in Ruby. Lago SAS sells a hosted Cloud and Premium add-ons on top of the AGPL core.
-
-- [StripeMeter](https://github.com/geminimir/stripemeter) [![GitHub stars](https://img.shields.io/github/stars/geminimir/stripemeter?style=flat)](https://github.com/geminimir/stripemeter/stargazers) - 🆓 Open-source, Stripe-native usage metering in TypeScript. Reconciles computed usage against Stripe invoices for “pre-invoice parity”, with exactly-once processing and real-time cost projections.
 
 - [CGRateS](https://github.com/cgrates/cgrates) [![GitHub stars](https://img.shields.io/github/stars/cgrates/cgrates?style=flat)](https://github.com/cgrates/cgrates/stargazers) - 🆓 An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go. Vendor-neutral, support-only commercial model.
 
@@ -221,7 +238,7 @@ Simulate a virtual invoice depending on the resource you plan to use.
 
 - [Infracost](https://github.com/infracost/infracost) [![GitHub stars](https://img.shields.io/github/stars/infracost/infracost?style=flat)](https://github.com/infracost/infracost/stargazers) - 💸 Cloud cost estimates from Terraform code, surfaced as a breakdown in the terminal or as a diff in pull requests before resources are provisioned. Infracost Inc. sells a hosted dashboard (Infracost Cloud) on top of the Apache-2.0 CLI.
 
-- [Cloudorado](https://www.cloudorado.com) - 💸 A comparison matrix which use ECU (Amazon's vCPU) as a CPU power measure unit. Operated by Cloudorado as a commercial cloud-comparison product.
+- [Cloudorado](https://web.archive.org/web/20250917102424/https://www.cloudorado.com/) - 💸 A comparison matrix which use ECU (Amazon's vCPU) as a CPU power measure unit. Operated by Cloudorado as a commercial cloud-comparison product.
 
 - [EC2Instances.info](https://ec2instances.info) - 💸 Easy Amazon EC2 Instance Comparison. Operated by Vantage as a free lead-gen surface for its commercial FinOps platform.
 
@@ -261,7 +278,7 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 - [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - A bit of vocabulary: “In a casino, the term *rake* refers to the commission that the house earns for operating a poker game. (…) While casinos use the term *rake*, a plethora of interesting word choices exist which all describe the same thing – keeping a little bit of the revenue for the company that is running the service.”
 
-- “If we only paid in $0.07 intervals, their commission algorithm would round down to the nearest whole cent (…) on the unit transaction level, not the monthly invoice level.” ([source](https://news.ycombinator.com/item?id=49457878)) - Mechanical Turk's rake was [“20% (…) on the reward and bonus amount”](https://web.archive.org/web/20260828220059/https://requester.mturk.com/pricing), with a minimum fee of $0.01 per bonus payment, so a 7-cent bonus is billed one cent instead of 1.4: an effective 14.3% instead of 20%. The requester's [`round_payment()`](https://git.generalresearch.com/panels/amt-jb/tree/jb/flow/assignment_tasks.py#n528) snaps every payout onto the 5-cent grid where that truncation always applies, and holds anything below 7 cents in the worker's wallet: “~\$50 a day” saved. Rounding per transaction rather than per invoice hands the remainder to whoever picks the transaction amounts.
+- “If we only paid in $0.07 intervals, their commission algorithm would round down to the nearest whole cent (…) on the unit transaction level, not the monthly invoice level.” ([source](https://news.ycombinator.com/item?id=49457878)) - Mechanical Turk's rake was [“20% (…) on the reward and bonus amount”](https://web.archive.org/web/20260828220059/https://requester.mturk.com/pricing), with a minimum fee of $0.01 per bonus payment, so a 7-cent bonus is billed one cent instead of 1.4: an effective 14.3% instead of 20%. The requester's [`round_payment()`](https://web.archive.org/web/20260827013838/https://git.generalresearch.com/panels/amt-jb/tree/jb/flow/assignment_tasks.py#n528) snaps every payout onto the 5-cent grid where that truncation always applies, and holds anything below 7 cents in the worker's wallet: “~\$50 a day” saved. Rounding per transaction rather than per invoice hands the remainder to whoever picks the transaction amounts.
 
 ### Cloud Resources
 
@@ -487,6 +504,8 @@ Once issued, an invoice must be immutable.
 
 ## Payments
 
+- [Whop](https://go.nli.one/billing) - Platform to accept payments, manage subscriptions and sell software, services or digital products worldwide, at competitive fees. Partner link: the sponsor of this list earns a commission from Whop, at no extra cost to you.
+
 - [The Best Payment Gateway for Startups](https://web.archive.org/web/20230204235716/http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
 
 - [Avoiding Double Payments in a Distributed Payments System](https://web.archive.org/web/20260516074518/https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb) - RDBMS were build for banks around transactions to solve that specific issue. Then NoSQL came forcing us to carefully implement systems to avoid double spending.
@@ -499,7 +518,7 @@ Once issued, an invoice must be immutable.
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944) - The root cause? People wearing a lot of wool in low humidity air, generating a lot of static.
 
-- How ACH works: A developer perspective, [part 1](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1-339d3e7bea1), [part 2](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2-7a890638c4dd), [part 3](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3-cd98728cf31f), [part 4](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4-718a48cb8d2c), [part 5](https://web.archive.org/web/20200101000000/https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-5-1d998bbcd82c).
+- How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/), [part 5](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-5/).
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox's experience trying to account for an unreliable payment provider.
 
@@ -549,13 +568,13 @@ The old-fashioned way of payment: by the way of banks.
 
 The usual money transfer services.
 
-- [UPI 101: The Basics](https://blog.setu.co/articles/upi-101-the-basics) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
+- [UPI 101: The Basics](https://web.archive.org/web/20250521190704/https://blog.setu.co/articles/upi-101-the-basics) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
 
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/) - A huge collection of everything that went wrong, and still is, with payment APIs from the past 2 decades. Any issue exposed in this article that gets unaddressed will end up as stolen money.
 
 <!--lint ignore balanced-punctuation-->
 
-- [The untold story of Stripe](https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook) - In which we learn that “once turnover hit a certain level, Paypal automatically put the business on a 21 to 60 day rolling reserve, meaning that up to 30 per cent of a company's revenue could be locked up for up to two months.”
+- [The untold story of Stripe](https://web.archive.org/web/20230716194531/https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook) - In which we learn that “once turnover hit a certain level, Paypal automatically put the business on a 21 to 60 day rolling reserve, meaning that up to 30 per cent of a company's revenue could be locked up for up to two months.”
 
 - [Idempotency in the context of payments](https://developers.google.com/standard-payments/reference/idempotency) - “Idempotency prevents race conditions. Idempotency dictates that multiple identical requests from the same client do not result in a different final state.”
 
@@ -619,6 +638,8 @@ Best tools to automate fraud detection.
 
 - [Integer percentages as electoral falsification fingerprints](https://arxiv.org/pdf/1410.6059.pdf) - In the same spirit as above, this paper show that frequency of reported round numbers in election is a signal of man-made anomalies. Might be applicable in some fraud-fighting area.
 
+- [JPMorgan Chase v. Javice](https://storage.courtlistener.com/recap/gov.uscourts.ded.81082/gov.uscourts.ded.81082.1.0.pdf#page=41) - Like Benford's law, applied to Excel: “JPMC first noticed irregularities with the list when a JPMC employee observed that the list contained exactly 1,048,576 rows, the maximum permitted by Microsoft Excel.” A count that stops at the limit of a tool is a sign of truncated or made-up data. Here, the executives of a startup sold for \$175 million had bought that list of customers from a marketing firm.
+
 - [Huber loss](https://en.wikipedia.org/wiki/Huber_loss) - “A loss function used in robust regression, that is less sensitive to outliers in data than the squared error loss.”
 
 - [Peak Detection in the Python World](https://blog.ytotech.com/2015/11/01/findpeaks-in-python/) - Simple way to detect outliers.
@@ -659,7 +680,7 @@ Definition and collection of Key Performance Indicators (KPIs) worth monitoring.
 
 - [16 Startup Metrics](https://a16z.com/16-startup-metrics/) - The 2 critical metrics being Customer Acquisition Cost (CAC) and Customer Lifetime Value (CLV).
 
-- [Thinking about growth and profit](https://jlongster.com/thinking-growth-profit) - Discuss the relationship between investments, profit and growth, and how it influence decisions on pricing, free trials and plan structure.
+- [Thinking about growth and profit](https://web.archive.org/web/20200711083123/https://jlongster.com/thinking-growth-profit) - Discuss the relationship between investments, profit and growth, and how it influence decisions on pricing, free trials and plan structure.
 
 - [A Quantitative Approach to Product Market Fit](https://tribecap.co/a-quantitative-approach-to-product-market-fit/) - Metrics produced above have a greater reach, as they're used as important signals to validate product-market fit.
 
@@ -757,6 +778,8 @@ A bunch of resources to keep track of the current status and progress of all com
 
 - [Graphic methods for presenting facts](https://archive.org/details/graphicmethodsfo00brinrich/page/336/mode/2up?view=theater&ui=embed&wrapper=false) - A way to optimize pricing using a physical model made in plaster of Paris, from 1914.
 
+- [Payroll consolidation, circa 1965](https://web.archive.org/web/20240917025608/https://collections.museumsvictoria.com.au/items/383697) - A program from the punched card era: a plugboard buried under a tangle of patch wires.
+
 ## Humour
 
 Billing is not funny.
@@ -764,6 +787,8 @@ Billing is not funny.
 - [Detax](https://detax.framer.website) - A site mockup of an tax avoidance product for small businesses.
 
 - [Superman III](https://en.wikipedia.org/wiki/Superman_III) - The 1983 film in which Gus Gorman, a laid-off clerk who retrains as a programmer, embezzles from his employer's payroll by skimming the fractions of a cent it rounds down.
+
+- “Every time someone violates the arrow of time, the billing department throw a kitty in a black hole.” — me, 2016-09-01
 
 ## Contributing
 

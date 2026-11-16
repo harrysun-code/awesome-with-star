@@ -89,6 +89,8 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) [![GitHub stars](https://img.shields.io/github/stars/softwaremill/gatling-zeromq?style=flat)](https://github.com/softwaremill/gatling-zeromq/stargazers) - A Gatling stress test plugin for ZeroMQ protocol.
 - [gatling-dubbo](https://github.com/youzan/gatling-dubbo) [![GitHub stars](https://img.shields.io/github/stars/youzan/gatling-dubbo?style=flat)](https://github.com/youzan/gatling-dubbo/stargazers) - A Gatling plugin for running load tests on Apache Dubbo.
 - [gatling-wait](https://github.com/Amerousful/gatling-wait) [![GitHub stars](https://img.shields.io/github/stars/Amerousful/gatling-wait?style=flat)](https://github.com/Amerousful/gatling-wait/stargazers) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
+- [gatling-dummy-sampler](https://github.com/i-nahornyi/gatling-dummy-sampler) [![GitHub stars](https://img.shields.io/github/stars/i-nahornyi/gatling-dummy-sampler?style=flat)](https://github.com/i-nahornyi/gatling-dummy-sampler/stargazers) - Gatling implementation of Dummy Sampler, a plugin for simulating realistic actions without making actual requests.
+- [gatling-playwright-plugin](https://github.com/i-nahornyi/gatling-playwright-plugin) [![GitHub stars](https://img.shields.io/github/stars/i-nahornyi/gatling-playwright-plugin?style=flat)](https://github.com/i-nahornyi/gatling-playwright-plugin/stargazers) - A simple Gatling plugin for UI performance testing using Playwright.
 
 ### Frameworks
 

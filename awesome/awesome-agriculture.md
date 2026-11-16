@@ -10,7 +10,7 @@
 
 [Agriculture](https://en.wikipedia.org/wiki/Agriculture) is the science and art of cultivating plants and livestock for food and materials.
 
-Contributions welcome! Please follow the [contributing guidelines](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md) [![GitHub stars](https://img.shields.io/github/stars/beaorn/awesome-agriculture/blob/master/contributing.md?style=flat)](https://github.com/beaorn/awesome-agriculture/blob/master/contributing.md/stargazers).
+Contributions welcome! Please follow the [contributing guidelines](https://github.com/brycejohnston/awesome-agriculture/blob/master/contributing.md) [![GitHub stars](https://img.shields.io/github/stars/brycejohnston/awesome-agriculture/blob/master/contributing.md?style=flat)](https://github.com/brycejohnston/awesome-agriculture/blob/master/contributing.md/stargazers).
 
 ## Contents
 
@@ -19,6 +19,10 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Climate, Environment and Weather](#climate-environment-and-weather)
 - [Crop Modeling, Phenotyping, and Pathology](#crop-modeling-phenotyping-and-pathology)
 - [Datasets](#datasets)
+  - [Research and General Data](#research-and-general-data)
+  - [Regional Data](#regional-data)
+    - [India](#india)
+    - [United States](#united-states)
 - [Data Standardization, Interoperability and APIs](#data-standardization-interoperability-and-apis)
 - [Farm Management Systems and Record Keeping](#farm-management-systems-and-record-keeping)
 - [Geospatial and GIS](#geospatial-and-gis)
@@ -29,21 +33,26 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Automation and Robotics
 
-- [Ant Robotics](https://antrobotics.de/) - development from Ecoterra bot
 - [Acorn Rover](https://github.com/Twisted-Fields) [![GitHub stars](https://img.shields.io/github/stars/Twisted-Fields?style=flat)](https://github.com/Twisted-Fields/stargazers) - precision farming rover, Odrive, Python.
-- [Earth Rover](https://github.com/earthrover) [![GitHub stars](https://img.shields.io/github/stars/earthrover?style=flat)](https://github.com/earthrover/stargazers) - Ag AGV ROS1 precision farming rover 
-- [EcoTerra Bot](https://ecoterrabot.com/) - Delta & Rover
+- [Ant Robotics](https://antrobotics.de/) - development from Ecoterra bot
+- [Earth Rover](https://github.com/earthrover) [![GitHub stars](https://img.shields.io/github/stars/earthrover?style=flat)](https://github.com/earthrover/stargazers) - Ag AGV ROS1 precision farming rover
 - [FarmBot](https://github.com/farmbot) [![GitHub stars](https://img.shields.io/github/stars/farmbot?style=flat)](https://github.com/farmbot/stargazers) - Open source precision gardening project.
 - [FarmBot-ROS](https://github.com/farmbot-ros/) [![GitHub stars](https://img.shields.io/github/stars/farmbot-ros/?style=flat)](https://github.com/farmbot-ros//stargazers) - Open source farming robot.
+- [Feldfreund Dev Kit](https://github.com/zauberzeug/feldfreund_devkit) [![GitHub stars](https://img.shields.io/github/stars/zauberzeug/feldfreund_devkit?style=flat)](https://github.com/zauberzeug/feldfreund_devkit/stargazers) - Open source development platform for autonomous outdoor robotics and agricultural weeding.
+- [Field Mission Planner](https://github.com/tecelskyyivan-alt/ardu-field-planner) [![GitHub stars](https://img.shields.io/github/stars/tecelskyyivan-alt/ardu-field-planner?style=flat)](https://github.com/tecelskyyivan-alt/ardu-field-planner/stargazers) - Open-source spraying route planner for ArduPilot drones (coverage routes around obstacles, MAVLink upload, offline).
 - [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) [![GitHub stars](https://img.shields.io/github/stars/Fields2Cover/Fields2Cover?style=flat)](https://github.com/Fields2Cover/Fields2Cover/stargazers) - Robust and efficient coverage paths for autonomous agricultural vehicles.
-- [Field Friend](https://github.com/zauberzeug/field_friend) [![GitHub stars](https://img.shields.io/github/stars/zauberzeug/field_friend?style=flat)](https://github.com/zauberzeug/field_friend/stargazers) - A Development Platform for Autonomous Weeding. 
-- [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project 
-- [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
+- [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project
+- [ROS Agriculture](https://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools.
 - [Weedinator](https://hackaday.io/project/53896-weedinator-2019) - Line following weeding robot
 
 ## Calculators
 
+- [CoverCalc Pro Landscape Quantity Kit](https://github.com/LydiaTools/covercalcpro-landscape-quantity-kit) [![GitHub stars](https://img.shields.io/github/stars/LydiaTools/covercalcpro-landscape-quantity-kit?style=flat)](https://github.com/LydiaTools/covercalcpro-landscape-quantity-kit/stargazers) - MIT-licensed offline browser checker for landscape volumes and whole-bag counts.
+- [Direct Beef Tools](https://github.com/cmhenry79/direct-beef-tools) [![GitHub stars](https://img.shields.io/github/stars/cmhenry79/direct-beef-tools?style=flat)](https://github.com/cmhenry79/direct-beef-tools/stargazers) - Browser-only worksheet for comparing another-sale net value with direct-to-customer beef break-even and target prices.
 - [farm-calculators](https://github.com/brycejohnston/farm-calculators) [![GitHub stars](https://img.shields.io/github/stars/brycejohnston/farm-calculators?style=flat)](https://github.com/brycejohnston/farm-calculators/stargazers) - WordPress plugin for calculating various farming and crop related information.
+- [flower-farm-math](https://github.com/SaschaHeyer/flower-farm-math) [![GitHub stars](https://img.shields.io/github/stars/SaschaHeyer/flower-farm-math?style=flat)](https://github.com/SaschaHeyer/flower-farm-math/stargazers) - Zero-dependency JavaScript library for flower farm and farmer-florist math: wedding stem counts, costs-up CSA bouquet pricing, and a bloom-to-sales weekly reconciliation of stems cut vs. promised by variety.
+- [mycro-grow](https://github.com/SaschaHeyer/mycro-grow) [![GitHub stars](https://img.shields.io/github/stars/SaschaHeyer/mycro-grow?style=flat)](https://github.com/SaschaHeyer/mycro-grow/stargazers) - JavaScript library and CLI for gourmet mushroom cultivation math: substrate hydration, spawn ratio, biological-efficiency yield, and batch economics.
+- [yard-material-coverage-data](https://github.com/demi-valerith/yard-material-coverage-data) [![GitHub stars](https://img.shields.io/github/stars/demi-valerith/yard-material-coverage-data?style=flat)](https://github.com/demi-valerith/yard-material-coverage-data/stargazers) - Open landscape material coverage, density, and bag conversion data with a reusable calculator component.
 
 ## Climate, Environment and Weather
 
@@ -58,45 +67,75 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Crop Modeling, Phenotyping, and Pathology
 
-- [Open Plant Pathology](https://www.openplantpathology.org/) - A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.
+- [Open Plant Pathology](https://openplantpathology.netlify.app/) - A community that values open data and computational tools for advancing epidemiology and pathogen population biology and ecology.
 
 ## Datasets
+
+### Research and General Data
+
+Research datasets and collections with broad agricultural applications.
+
 - [Agriculture Datasets Collection](https://lacunafund.org/datasets/agriculture/) - Curated collection of machine learning datasets specifically designed to address food security challenges in developing regions.
 - [CEAOD](https://ceaod.github.io/) - Controlled Environment Agriculture Open Data repository providing standardized datasets for greenhouse and indoor farming research with data analysis tools.
 - [CropHarvest](https://github.com/nasaharvest/cropharvest) [![GitHub stars](https://img.shields.io/github/stars/nasaharvest/cropharvest?style=flat)](https://github.com/nasaharvest/cropharvest/stargazers) - Open source remote sensing dataset for global crop type mapping with 95,186 labeled datapoints from satellite imagery, supporting machine learning research for food security.
 - [CWFID](https://github.com/cwfid/dataset) [![GitHub stars](https://img.shields.io/github/stars/cwfid/dataset?style=flat)](https://github.com/cwfid/dataset/stargazers) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
 - [FAO/NASA Harvest Crop Type Dataset](https://data.harvestportal.org/dataset/fao-bha-nasa-harvest-public-crop-type-datasets) - Ground truth crop type observations dataset with geolocated field data for validation and training of cropland classification models.
+- [Furrow](https://furrow.land/farmland-price-index) - Farmland prices in 37 countries on 6 continents from national statistics.
 - [Growstuff](https://www.growstuff.org/crops) - Record keeping & crop database, nice API
 - [PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease) - Dataset containing leaf images of healthy and diseased plants, covering 38 disease classes across 14 different crops.
-- [SoybeanYield](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction?tab=readme-ov-file) [![GitHub stars](https://img.shields.io/github/stars/saeedkhaki92/CNN-RNN-Yield-Prediction?tab=readme-ov-file?style=flat)](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction?tab=readme-ov-file/stargazers) - A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters. 
+- [Robot Lawn Mower Specs](https://yumaheymans.github.io/robot-lawn-mower-specs/) - CC BY 4.0 dataset of robotic mower specifications with cited sources and CSV/JSON downloads.
+- [SoybeanYield](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction) [![GitHub stars](https://img.shields.io/github/stars/saeedkhaki92/CNN-RNN-Yield-Prediction?style=flat)](https://github.com/saeedkhaki92/CNN-RNN-Yield-Prediction/stargazers) - A multimodal agricultural dataset for soybean yield forecasting, integrating yield performance, management practices, weather data, and soil parameters.
 - [TERRA REF](https://terraref.org) - 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103&origin_path=%2F))
+
+### Regional Data
+
+Country and location-specific reference data for markets, land records, and growing conditions.
+
+#### India
+
+- [India Agri Export Price Index](https://nidhi-bhai.github.io/india-agri-export-prices/) - Weekly reference prices for Indian agri exports (USD/kg from UN Comtrade, INR/quintal mandi prices from Agmarknet) with sources, an append-only history and CSV/JSON downloads.
+- [India Land Data](https://github.com/Vyzma-AI/india-land-data) [![GitHub stars](https://img.shields.io/github/stars/Vyzma-AI/india-land-data?style=flat)](https://github.com/Vyzma-AI/india-land-data/stargazers) - Official land-record portals for 11 Indian states and Indian land area units (gunta, bigha, kanal and others) with state variations, as CC BY 4.0 JSON.
+- [VarshaKrishi Field NDVI](https://www.varshakrishi.com/open-data) - One year of Sentinel-2 NDVI for a farm field near Katol, India, with field-level cloud and haze flags (CC BY 4.0, CSV/JSON).
+
+#### United States
+
+- [massachusetts-frost-dates-zones](https://github.com/sackio/massachusetts-frost-dates-zones) [![GitHub stars](https://img.shields.io/github/stars/sackio/massachusetts-frost-dates-zones?style=flat)](https://github.com/sackio/massachusetts-frost-dates-zones/stargazers) - CC BY 4.0 CSV datasets of Massachusetts frost dates from NOAA normals and USDA hardiness zones for towns and villages.
+- [US Farmers Market Statistics](https://harvestlymarkets.com/farmers-market-statistics/) - USDA-derived state-by-state farmers market counts and SNAP/EBT and organic-vendor statistics, with CC BY 4.0 CSV/JSON downloads.
+- [USDA Market Prices](https://juantorresmi.github.io/usda-market-prices/) - Daily USDA boxed beef, pork and fed cattle prices by cut and region, with history since 2020 and free CSV downloads, in English and Spanish.
 
 ## Data Standardization, Interoperability and APIs
 
 - [AgGateway’s ADAPT Toolkit](https://adaptframework.org) - Open Source project providing tools to simplify communication between growers, their machines, and their partners.
+- [Agro GPS MCP](https://github.com/TheHiddenPandaDev/agro_gps_mcp) [![GitHub stars](https://img.shields.io/github/stars/TheHiddenPandaDev/agro_gps_mcp?style=flat)](https://github.com/TheHiddenPandaDev/agro_gps_mcp/stargazers) - MCP server exposing the official plant protection product registers of 30 European countries (authorisation status, active substances, authorised uses per crop) to AI assistants; free, no key.
 - [Agstack](https://github.com/agstack) [![GitHub stars](https://img.shields.io/github/stars/agstack?style=flat)](https://github.com/agstack/stargazers) - Open-Source Digital Infrastructure for the Agriculture Ecosystem.
 - [API-Code-Samples](https://github.com/aWhereAPI/API-Code-Samples) [![GitHub stars](https://img.shields.io/github/stars/aWhereAPI/API-Code-Samples?style=flat)](https://github.com/aWhereAPI/API-Code-Samples/stargazers) - Contains aWhere's API platform code samples.
 - [Botanica](https://github.com/Michael-A-Kuykendall/botanica) [![GitHub stars](https://img.shields.io/github/stars/Michael-A-Kuykendall/botanica?style=flat)](https://github.com/Michael-A-Kuykendall/botanica/stargazers) - Production-ready Rust crate for professional botanical data management with taxonomic hierarchy, cultivation tracking, and Darwin Core compliance.
-- [ClearAg-API-Examples](https://github.com/IterisClearAg/ClearAg-API-Examples) [![GitHub stars](https://img.shields.io/github/stars/IterisClearAg/ClearAg-API-Examples?style=flat)](https://github.com/IterisClearAg/ClearAg-API-Examples/stargazers) - A collection of code examples using the ClearAg APIs.
+- [ClearAg API Examples](https://github.com/DTNClearAg/clearag_api_examples) [![GitHub stars](https://img.shields.io/github/stars/DTNClearAg/clearag_api_examples?style=flat)](https://github.com/DTNClearAg/clearag_api_examples/stargazers) - A collection of code examples using the ClearAg APIs.
 - [Fiware AgriFood](https://www.fiware.org/community/smart-agrifood/) - Open Source data standards and IoT framework that help connect farm systems and enable practical smart farming and agrifood solutions—part of the larger Fiware.org project.
-- [JDLinkMachineDataAPI-OAuth2-CSharp-Example](https://github.com/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example?style=flat)](https://github.com/JohnDeere/JDLinkMachineDataAPI-OAuth2-CSharp-Example/stargazers) - CSharp JDLink Machine Data API client example.
+- [ISO-15143-3-API-OAuth2-CSharp-Example](https://github.com/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example?style=flat)](https://github.com/JohnDeere/ISO-15143-3-API-OAuth2-CSharp-Example/stargazers) - C# example for the John Deere ISO 15143-3 machine data API.
 - [Open Ag Data Alliance](https://github.com/oada) [![GitHub stars](https://img.shields.io/github/stars/oada?style=flat)](https://github.com/oada/stargazers) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
-- [MyJohnDeereAPI-OAuth2-Java-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example?style=flat)](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Java-Example/stargazers) - Java MyJohnDeere API client example.
-- [MyJohnDeereAPI-OAuth2-NodeJS-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-NodeJS-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/MyJohnDeereAPI-OAuth2-NodeJS-Example?style=flat)](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-NodeJS-Example/stargazers) - Node.js MyJohnDeere API client example.
-- [MyJohnDeereAPI-OAuth2-Python-Example](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Python-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/MyJohnDeereAPI-OAuth2-Python-Example?style=flat)](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth2-Python-Example/stargazers) - Python MyJohnDeere API client example.
+- [Open Agri Common Semantic Model (OCSM)](https://github.com/agstack/OpenAgri-OCSM) [![GitHub stars](https://img.shields.io/github/stars/agstack/OpenAgri-OCSM?style=flat)](https://github.com/agstack/OpenAgri-OCSM/stargazers) - Ontology reusing existing standards to support semantic interoperability across smart farming solutions.
+- [Open-Agriculture](https://github.com/Open-Agriculture) [![GitHub stars](https://img.shields.io/github/stars/Open-Agriculture?style=flat)](https://github.com/Open-Agriculture/stargazers) - Free and open source ISOBUS (ISO 11783) tools, including the AgIsoStack++ library, a Virtual Terminal, a DDOP editor and a VT object pool designer.
 - [OpenTeam](https://openteam.community/) - Open Technology Ecosystem for Agricultural Management
+- [OperationsCenterAPI-OAuth2-Java-Example](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Java-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/OperationsCenterAPI-OAuth2-Java-Example?style=flat)](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Java-Example/stargazers) - Java example for the John Deere Operations Center API.
+- [OperationsCenterAPI-OAuth2-NodeJS-Example](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-NodeJS-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/OperationsCenterAPI-OAuth2-NodeJS-Example?style=flat)](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-NodeJS-Example/stargazers) - Node.js example for the John Deere Operations Center API.
+- [OperationsCenterAPI-OAuth2-Python-Example](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Python-Example) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/OperationsCenterAPI-OAuth2-Python-Example?style=flat)](https://github.com/JohnDeere/OperationsCenterAPI-OAuth2-Python-Example/stargazers) - Python example for the John Deere Operations Center API.
 - [SampleData](https://github.com/JohnDeere/SampleData) [![GitHub stars](https://img.shields.io/github/stars/JohnDeere/SampleData?style=flat)](https://github.com/JohnDeere/SampleData/stargazers) - Sample datacards, shapefiles, and other files you can use for testing.
 - [SencropAPI-JavaScript-Client](https://github.com/sencrop/sencrop-js-api-client) [![GitHub stars](https://img.shields.io/github/stars/sencrop/sencrop-js-api-client?style=flat)](https://github.com/sencrop/sencrop-js-api-client/stargazers) - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.
+- [Tilth](https://www.tilth.uk/data) - Free daily UK fertiliser price index API for nine grades, CC BY 4.0 licensed.
+- [Trefle](https://github.com/treflehq/trefle-api) [![GitHub stars](https://img.shields.io/github/stars/treflehq/trefle-api?style=flat)](https://github.com/treflehq/trefle-api/stargazers) - Open source botanical REST API for querying plant species, taxonomy, and growing information.
 
 ## Farm Management Systems and Record Keeping
 
 - [Ekylibre](https://github.com/ekylibre/ekylibre) [![GitHub stars](https://img.shields.io/github/stars/ekylibre/ekylibre?style=flat)](https://github.com/ekylibre/ekylibre/stargazers) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
 - [farmOS](https://github.com/farmOS/farmOS) [![GitHub stars](https://img.shields.io/github/stars/farmOS/farmOS?style=flat)](https://github.com/farmOS/farmOS/stargazers) - Web-based farm record keeping application built with Drupal and PHP.
-- [GrowGood](https://gitlab.com/growgood)) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
+- [GrowerHub](https://github.com/aspinozaxxx-lab/growerhub) [![GitHub stars](https://img.shields.io/github/stars/aspinozaxxx-lab/growerhub?style=flat)](https://github.com/aspinozaxxx-lab/growerhub/stargazers) - Greenhouse and small-farm management with Zigbee2MQTT monitoring, plant and watering journals, and lighting and irrigation automation.
+- [GrowGood](https://gitlab.com/growgood) - GrowGood is an open-source farm management platform using open standards like ValueFlows and JSON-LD to help track and share interoperable data across agricultural operations and marketplaces.
+- [HortusFox](https://github.com/danielbrendel/hortusfox-web) [![GitHub stars](https://img.shields.io/github/stars/danielbrendel/hortusfox-web?style=flat)](https://github.com/danielbrendel/hortusfox-web/stargazers) - Self-hosted collaborative plant management system with plant records, care tasks, inventory, photos, and a calendar.
 - [LiteFarm](https://github.com/LiteFarmOrg/LiteFarm) [![GitHub stars](https://img.shields.io/github/stars/LiteFarmOrg/LiteFarm?style=flat)](https://github.com/LiteFarmOrg/LiteFarm/stargazers) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
-- [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) [![GitHub stars](https://img.shields.io/github/stars/Open-Source-Agriculture/soil_mate?style=flat)](https://github.com/Open-Source-Agriculture/soil_mate/stargazers) - Helper app designed to assist the collection of soil data.
-- [Tania](https://github.com/Tanibox/tania-core) [![GitHub stars](https://img.shields.io/github/stars/Tanibox/tania-core?style=flat)](https://github.com/Tanibox/tania-core/stargazers) - Free and open source farming management system for everyone built with Go and Vue.js.
-
+- [Plant-it](https://github.com/MDeLuise/plant-it) [![GitHub stars](https://img.shields.io/github/stars/MDeLuise/plant-it?style=flat)](https://github.com/MDeLuise/plant-it/stargazers) - Android gardening companion for logging plant care, keeping photos, and setting reminders.
+- [Soil Mate](https://github.com/Open-Source-Agriculture/soil_logr) [![GitHub stars](https://img.shields.io/github/stars/Open-Source-Agriculture/soil_logr?style=flat)](https://github.com/Open-Source-Agriculture/soil_logr/stargazers) - Helper app designed to assist the collection of soil data.
+- [Tania](https://github.com/usetania/tania-core) [![GitHub stars](https://img.shields.io/github/stars/usetania/tania-core?style=flat)](https://github.com/usetania/tania-core/stargazers) - Free and open source farming management system for everyone built with Go and Vue.js.
 
 ## Geospatial and GIS
 
@@ -106,6 +145,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ### GIS Platforms
 
+- [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) [![GitHub stars](https://img.shields.io/github/stars/TerraLabAI/QGIS_AI-Segmentation?style=flat)](https://github.com/TerraLabAI/QGIS_AI-Segmentation/stargazers) - QGIS imagery segmentation plugin with local interactive processing and optional hosted processing with free-tier limits.
 - [QGIS](https://qgis.org) - QGIS is a free, open source, cross platform (lin/win/mac) geographical information system.
 
 ### Shapefiles
@@ -115,11 +155,11 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## IoT, Hardware
 
-- [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) [![GitHub stars](https://img.shields.io/github/stars/farmerbriantee/AgOpenGPS?style=flat)](https://github.com/farmerbriantee/AgOpenGPS/stargazers) - Ag precision mapping and section control software.
-- [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) [![GitHub stars](https://img.shields.io/github/stars/timmbogner/Farm-Data-Relay-System?style=flat)](https://github.com/timmbogner/Farm-Data-Relay-System/stargazers) - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
+- [AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) [![GitHub stars](https://img.shields.io/github/stars/AgOpenGPS-Official/AgOpenGPS?style=flat)](https://github.com/AgOpenGPS-Official/AgOpenGPS/stargazers) - Ag precision mapping and section control software.
 - [Farm Hack](https://farmhack.org/tools) - Worldwide community of farmers that build and modify our own tools.
+- [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) [![GitHub stars](https://img.shields.io/github/stars/timmbogner/Farm-Data-Relay-System?style=flat)](https://github.com/timmbogner/Farm-Data-Relay-System/stargazers) - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) [![GitHub stars](https://img.shields.io/github/stars/OpenAgricultureFoundation?style=flat)](https://github.com/OpenAgricultureFoundation/stargazers) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
-- [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS 
+- [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS
 - [OpenMinder](https://github.com/autogrow/openminder) [![GitHub stars](https://img.shields.io/github/stars/autogrow/openminder?style=flat)](https://github.com/autogrow/openminder/stargazers) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 - [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) [![GitHub stars](https://img.shields.io/github/stars/geezacoleman/OpenWeedLocator?style=flat)](https://github.com/geezacoleman/OpenWeedLocator/stargazers) - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
 - [Simplesteer](https://github.com/matmis/simplesteer) [![GitHub stars](https://img.shields.io/github/stars/matmis/simplesteer?style=flat)](https://github.com/matmis/simplesteer/stargazers) - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
@@ -136,17 +176,19 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) [![GitHub stars](https://img.shields.io/github/stars/JiaxuanYou/crop_yield_prediction?style=flat)](https://github.com/JiaxuanYou/crop_yield_prediction/stargazers) - Deep gaussian process for crop yield prediction based on remote sensing data.
 - [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) [![GitHub stars](https://img.shields.io/github/stars/totti0223/deep_learning_for_biologists_with_keras?style=flat)](https://github.com/totti0223/deep_learning_for_biologists_with_keras/stargazers) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
 - [FarmVibes.AI](https://github.com/microsoft/farmvibes-ai) [![GitHub stars](https://img.shields.io/github/stars/microsoft/farmvibes-ai?style=flat)](https://github.com/microsoft/farmvibes-ai/stargazers) - Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability.
+- [HealthyCropping](https://github.com/keylorpineda/healthycropping) [![GitHub stars](https://img.shields.io/github/stars/keylorpineda/healthycropping?style=flat)](https://github.com/keylorpineda/healthycropping/stargazers) - Android crop disease diagnosis application in development, using on-device computer vision for offline use.
 - [PlantCV](https://github.com/danforthcenter/plantcv) [![GitHub stars](https://img.shields.io/github/stars/danforthcenter/plantcv?style=flat)](https://github.com/danforthcenter/plantcv/stargazers) - Plant phenotyping software using computer vision.
 
 ## Remote Sensing and Imagery
 
-- [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) [![GitHub stars](https://img.shields.io/github/stars/Fernerkundung/awesome-sentinel?style=flat)](https://github.com/Fernerkundung/awesome-sentinel/stargazers) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
+- [Awesome Sentinel](https://github.com/kr-stn/awesome-sentinel) [![GitHub stars](https://img.shields.io/github/stars/kr-stn/awesome-sentinel?style=flat)](https://github.com/kr-stn/awesome-sentinel/stargazers) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 - [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) [![GitHub stars](https://img.shields.io/github/stars/px39n/Awesome-Vegetation-Index?style=flat)](https://github.com/px39n/Awesome-Vegetation-Index/stargazers) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 - [Raster Vision](https://github.com/azavea/raster-vision) [![GitHub stars](https://img.shields.io/github/stars/azavea/raster-vision?style=flat)](https://github.com/azavea/raster-vision/stargazers) - Deep learning for aerial/satellite imagery.
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) [![GitHub stars](https://img.shields.io/github/stars/Sen2Agri/Sen2Agri-System?style=flat)](https://github.com/Sen2Agri/Sen2Agri-System/stargazers) - Software system processing high resolution satellite images for agricultural purposes.
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Bryce Johnston](https://github.com/brycejohnston) [![GitHub stars](https://img.shields.io/github/stars/brycejohnston?style=flat)](https://github.com/brycejohnston/stargazers) has waived all copyright and related or neighboring rights to this work.
+

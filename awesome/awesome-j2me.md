@@ -39,7 +39,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) [![Gi
 
 ## Communities
 
-- [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub. Features Awesome J2ME in its resources section.
+- [HackClub Retrospect J2ME](https://retrospect.hackclub.com/j2me) - J2ME development contest by Hackclub. Features Awesome J2ME in it's resources section.
 - [Kahvibreak Discord](https://discord.gg/8TgbHAG) - Discord community focused on preserving J2ME games.
 - [Ketai Wiki](https://keitaiwiki.com/wiki/KeitaiWiki) - Wiki dedicated to cataloging games from Japanese Feature Phones (keitai), pre-Android/iPhone mobile devices released in Japan.
 - [r/J2MEGaming](https://reddit.com/r/j2megaming) - Reddit community for J2ME, Symbian, and related platforms.
@@ -57,7 +57,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) [![Gi
 
 ### IDEs
 
-- [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of Eclipse IDE.
+- [Eclipse](https://archive.eclipse.org/eclipse/downloads) - Archive of all versions of the Eclipse IDE.
 - [NetBeans 6.1](https://archive.org/download/netbeans-olds/6.1) - Mobility-pack, normal NetBeans and Java-ME SDK, all of them are required to set up MIDP development environment.
 
 ### SDKs
@@ -70,7 +70,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) [![Gi
 - [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
 - [Soap ME](https://dl.acm.org/doi/abs/10.1145/1462802.1462805) - SOAP-compliant Web service container that supports dynamic development.
 - [Sun Java Me SDK](https://www.oracle.com/java/technologies/javame-sdk/java-me-sdk-v30.html) [mirror](https://archive.org/details/sun_java_me_sdk-3_0-win) - Successor to WTK that integrates CLDC/MIDP development.
-- [Sun WTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun.
+- [Sun WTK](https://www.oracle.com/java/technologies/java-archive-downloads-javame-downloads.html#sun_java_wireless_toolkit-2.5.2_01) - Official J2ME SDK by Sun version 2.5.2.
 
 
 
@@ -99,7 +99,8 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) [![Gi
 
 ### Apps
 
-- [Discord J2ME](https://github.com/gtrxAC/discord-j2me) [![GitHub stars](https://img.shields.io/github/stars/gtrxAC/discord-j2me?style=flat)](https://github.com/gtrxAC/discord-j2me/stargazers) - Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
+- [Discofi](https://github.com/gtrxAC/Discofi) [![GitHub stars](https://img.shields.io/github/stars/gtrxAC/Discofi?style=flat)](https://github.com/gtrxAC/Discofi/stargazers) - Unofficial Discord client for J2ME, designed to connect directly to Discord without a proxy. Supports select devices (Nokia and Sony Ericsson).
+- [Discord J2ME](https://github.com/gtrxAC/discord-j2me) [![GitHub stars](https://img.shields.io/github/stars/gtrxAC/discord-j2me?style=flat)](https://github.com/gtrxAC/discord-j2me/stargazers) - (Discontinued) Unofficial Discord client for J2ME. Utilizes a proxy server for HTTP and gateway connections.
 - [Hotpants](https://github.com/baumschubser/hotpants/) [![GitHub stars](https://img.shields.io/github/stars/baumschubser/hotpants/?style=flat)](https://github.com/baumschubser/hotpants//stargazers) - HOTP/TOTP client.
 - [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various emulators that run on J2ME.
 - [Jtube](https://github.com/shinovon/JTube) [![GitHub stars](https://img.shields.io/github/stars/shinovon/JTube?style=flat)](https://github.com/shinovon/JTube/stargazers) - YouTube client based on Invidious API.
@@ -116,6 +117,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) [![Gi
 - [Kahvibreak](https://bluemaxima.org/kahvibreak) - Collection of J2ME games.
 - [Moby Games](https://www.mobygames.com/platform/j2me) - Database of J2ME games with links to official stores.
 - [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
+- [New J2ME Software Archive Search](https://toca-1.github.io/new-j2me-software-archive-search/) - Search interface for the "New" J2ME software archive, with filename and MIDlet metadata searches as well as exact CRC32/SHA-1/SHA-256 lookups. Most importantly, it provides links to individual file downloads from the Internet Archive.
 - [Nowhere Dialogues](https://gist.github.com/hstsethi/d4ef0c9f0710e5b713d1beb2ff93a1ce) - Dialogues from a Nowhere, a 2007 J2ME game, with character names reverse engineered.
 - [J2ME Games at MyAbandonware](https://www.myabandonware.com/browse/platform/j2me) - Curated catalog of abandoned J2ME games with direct downloads.
 - [J2ME Games Speedruns](https://www.speedrun.com/games?platform=nzel5r6q) - List of all speedruns related to J2ME games along with guides, discussions and screen recordings.

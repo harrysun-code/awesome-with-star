@@ -81,6 +81,7 @@ GeoJSON utilities that will make your life easier.
 * [koop](https://koopjs.github.io): Server with plugins that recast Esri, GitHub, Socrata and other services as GeoJSON endpoints
 * [featureserver](https://github.com/featureserver/featureserver) [![GitHub stars](https://img.shields.io/github/stars/featureserver/featureserver?style=flat)](https://github.com/featureserver/featureserver/stargazers): An open source Esri-Style Feature Server
 * [geojson minify](https://open-innovations.github.io/geojson-minify/): Minifier (compressor) to reduce file sizes
+* [Stopwatch Transit](https://transit.shivrajsinh.in): Open public transit timetables, stop lookups, and GeoJSON route shapes across 120+ transit networks
 
 ### conversion
 

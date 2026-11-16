@@ -8,7 +8,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of tools for research. Also available on [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/).
+A list of tools for research. Also available on [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/), with a page for each tool, open [JSON data](https://tools.kausalflow.com/tools.json), [RSS](https://tools.kausalflow.com/index.xml), [llms.txt](https://tools.kausalflow.com/llms.txt) and [AI access](https://tools.kausalflow.com/ai/).
+
+Want to add a tool? See [CONTRIBUTING.md](CONTRIBUTING.md), or use the [submission form](https://tools.kausalflow.com/submit/).
 
 ## TOC
 
@@ -171,7 +173,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [graph.tk](http://graph.tk/): Online plotting with rich features.
 * [Wolfram Alpha](http://www.wolframalpha.com/): Make graphs for functions, from your data and even more.
 * [SankeyDiagram.net](https://sankeydiagram.net/): Web-based tool for creating & sharing Sankey Diagrams from data (open-source)
-
+* [Scientific Figure](https://scientificfigure.com/): AI tool that draws scientific illustrations, graphical abstracts, data plots, and conference posters from a text prompt, sketch, or PDF; exports SVG and PPTX at journal column widths.
 
 ### Datasets
 
@@ -208,6 +210,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 * [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 * [Voidly Censorship Index](https://voidly.ai/data) (`Lookup`, `API`): Open dataset of global internet censorship — 19.6M live OONI samples, 1.6M historical records across 119+ countries, 5,356 citable incidents with 16,822 evidence items. CC BY 4.0, REST/MCP API, [HuggingFace parquet exports](https://huggingface.co/datasets/emperor-mew/global-censorship-index).
+* [twtData X Trends Archive](https://twtdata.com/twitter-trends/) (`Lookup`): X (Twitter) trending topics by country and city, with a page for each past day; the largest countries are recorded hourly.
 
 
 ### Colors
@@ -267,6 +270,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [Rousseau](https://github.com/GitbookIO/rousseau) [![GitHub stars](https://img.shields.io/github/stars/GitbookIO/rousseau?style=flat)](https://github.com/GitbookIO/rousseau/stargazers): Lightweight proofreader written in JavaScript.
 * [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau) [![GitHub stars](https://img.shields.io/github/stars/azu/textlint-rule-rousseau?style=flat)](https://github.com/azu/textlint-rule-rousseau/stargazers): A textlint rule to check English sentences using Rousseau.
 * [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
+* [Articlo](https://getarticlo.com/): Prepares existing Word manuscripts for a target journal with an editable document, change summary, and author checklist. Free readiness check; paid manuscript preparation.
 
 
 ### Hosting
@@ -327,6 +331,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [Findings](https://findingsapp.com): Your research assistant & lab notebook, all in one app.
 * [Learnly AI](https://learnlyai.co.uk/): AI-powered academic assistant for students, featuring smart note-taking from lectures, PDFs and videos, essay writing with literature review, and AI presentation generator.
+* [Glasp](https://glasp.co): Web and YouTube highlighter with AI summaries and notes, plus Kindle highlights import. Browser extensions, iOS and Android apps, and an MCP server; export to Notion, Obsidian and Zotero.
 
 ### Editors
 
@@ -336,6 +341,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 #### Markdown
 
+* [markon](https://metaory.github.io/markon/) (`Cloud`, `Local PWA`): Minimal distraction-free live Markdown editor.
 * [Hackmd.io](https://hackmd.io) (`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
 * [StackEdit](https://stackedit.io/)(`Cloud`): StackEdit is a Markdown editor with many integrated services such as math (MathJax), Google Drive, Dropbox, and GitHub.
 * [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
@@ -372,6 +378,7 @@ Notebook softwares that you can write in Markdown:
 * [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`): JaxEdit doesn't provide full LaTeX support but is good enough for simple LaTeX documents and slides.
 * [SpicyChai LaTeX](https://latex.spicychai.com/)(`Cloud`): Online LaTeX editor with AI-powered template population, real-time PDF preview, and pre-built templates for resumes, papers, and more. Free anonymous renders without signup.
+* [Manulyx](https://manulyx.com/)(`Cloud`): Online LaTeX editor for writing and revising papers with co-authors: real-time co-editing, track changes, publisher templates, submission stages, response-to-reviewers letters and marked manuscripts. Free plan available.
 
 
 **You can also host one using your own machine.**
@@ -384,6 +391,7 @@ Notebook softwares that you can write in Markdown:
 * [LyX](https://www.lyx.org) - Cross-platform WYSIWYM editor that uses LaTeX behind the scenes to render documents.
 * [TeXshop](http://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX.
 * [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform.
+* [Oleafly](https://oleafly.com) - Open-source desktop editor for LaTeX, Typst and Markdown with a built-in LaTeX engine, live PDF preview and Zotero citations. Runs offline on macOS, Windows and Linux.
 
 **You can also add notes directly to academic papers**
 
@@ -542,6 +550,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [vim](https://github.com/vim/vim) [![GitHub stars](https://img.shields.io/github/stars/vim/vim?style=flat)](https://github.com/vim/vim/stargazers)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
   * [Vundle](https://github.com/VundleVim/Vundle.vim) [![GitHub stars](https://img.shields.io/github/stars/VundleVim/Vundle.vim?style=flat)](https://github.com/VundleVim/Vundle.vim/stargazers): the vim plugin manager
   * [vimrc from amix](https://github.com/amix/vimrc) [![GitHub stars](https://img.shields.io/github/stars/amix/vimrc?style=flat)](https://github.com/amix/vimrc/stargazers): "The ultimate Vim configuration: vimrc"
+* [neovim](https://neovim.io/)(`Free`,`Cross-platform`,`Plugins`): Vim-fork focused on extensibility and usability.
 
 
 ### Softwares
@@ -596,6 +605,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [ODataMap](https://github.com/CherishChenCherish/odatamap) [![GitHub stars](https://img.shields.io/github/stars/CherishChenCherish/odatamap?style=flat)](https://github.com/CherishChenCherish/odatamap/stargazers) - Interactive map of global scientific research. Visualizes 250M+ papers across 7 knowledge continents with AI research assistant. [Demo](https://odatamap.cherishchen2510.workers.dev)
 * [citracer](https://github.com/marcpinet/citracer) [![GitHub stars](https://img.shields.io/github/stars/marcpinet/citracer?style=flat)](https://github.com/marcpinet/citracer/stargazers): Trace citation chains for any concept across research papers. Given a source PDF (or arXiv/DOI), recursively walks the citation graph and produces an interactive HTML visualization. Supports forward and reverse tracing.
 * [BGPT MCP API](https://bgpt.pro/mcp/): Search scientific papers with structured full-text experimental data (methods, results, conclusions, sample sizes, limitations, quality scores — 25+ fields per paper). Works via the Model Context Protocol with Claude, Cursor, and other AI tools. Free tier: 50 searches without authentication. [Repository](https://github.com/connerlambden/bgpt-mcp) [![GitHub stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat)](https://github.com/connerlambden/bgpt-mcp/stargazers). MCP registry: `io.github.connerlambden/bgpt-mcp`.
+* [JournalCompass](https://journalcompass.com): Free bilingual journal finder: CAS zones, impact factors, review times, APC/OA status and an AI journal matcher.
 
 ### Get Yourself A Citable Code for Anything
 
@@ -624,13 +634,16 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [doi2bib](https://www.doi2bib.org/): Retrieves a BibTeX entry from a DOI.
 * [crossref](https://www.crossref.org/): Makes research outputs easy to find, cite, link, and assess.
 * [CiteMe](https://citeme.app): AI-powered citation generator that searches 11+ academic databases and formats references in 43+ styles including APA, Harvard, Chicago, Vancouver, and IEEE.
+* [citeguard](https://github.com/wedo911/citeguard) [![GitHub stars](https://img.shields.io/github/stars/wedo911/citeguard?style=flat)](https://github.com/wedo911/citeguard/stargazers): Checks a `.bib`/`.ris` bibliography (or a single DOI) for cited papers that have been retracted, corrected, or flagged with an expression of concern, via Crossref and the Retraction Watch records it carries. Python library/CLI, MCP server, and GitHub Action; no API key. `pip install citeguard-cli`
 * [org-ref](https://github.com/jkitchin/org-ref) [![GitHub stars](https://img.shields.io/github/stars/jkitchin/org-ref?style=flat)](https://github.com/jkitchin/org-ref/stargazers): Citations, cross-references, indexes, glossaries, and bibtex utitlies for org-mode in Emacs.
 * [ScholarRef](https://github.com/brodie-neuro/ScholarRef) [![GitHub stars](https://img.shields.io/github/stars/brodie-neuro/ScholarRef?style=flat)](https://github.com/brodie-neuro/ScholarRef/stargazers): Convert citation styles (APA 7, Harvard, Vancouver) directly inside Word `.docx` files.
+* [Reference Verifier](https://github.com/the-aurora-lab/reference-verifier) [![GitHub stars](https://img.shields.io/github/stars/the-aurora-lab/reference-verifier?style=flat)](https://github.com/the-aurora-lab/reference-verifier/stargazers): Checks that every reference in a .bib file or LaTeX paper exists in Crossref, OpenAlex, DBLP, arXiv or PubMed, and flags invented papers and wrong DOIs. Open source (MIT).
 
 ### Tips for Researchers
 
 * [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules): Series of quick "Ten Simple Rules" articles for research scientists to manage challenges in their careers. Number of articles are life-science specific, but rest the of articles are general enough for any researcher.
 * Check the [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature) [![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-osint?style=flat)](https://github.com/jivoi/awesome-osint/stargazers) of the [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) [![GitHub stars](https://img.shields.io/github/stars/jivoi/awesome-osint?style=flat)](https://github.com/jivoi/awesome-osint/stargazers) for search engines to search for papers.
+* [ProfScout](https://profscout.com): Finds professors most likely to reply to research cold emails, ranked by reply-fit. Freemium.
 
 ## Pacifier
 
@@ -807,9 +820,10 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 * [Online Whiteboard](https://awwapp.com): A simple online whiteboard that users can collaborate; Good for online meetings.
 * [MapInSeconds.com](http://www.mapinseconds.com/): Create maps with corresponding data quickly by copy-pasting from a spreadsheet.
 * [Unpay Wall](http://unpaywall.org/): legally download research papers for free.
+* [ToolStack](https://tools.mindutil.com/en): a free toolbox of 122 browser-based utilities (text, JSON, image, PDF, unit conversion, color) that run entirely client-side, with no signup and no file uploads.
 
 -----
 
-This is a CC BY-SA licensed project. Use the source! Keep the source open!
+This is a [CC BY-SA 4.0](LICENSE) licensed project. Use the source! Keep the source open!
 
 ![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)

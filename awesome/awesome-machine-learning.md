@@ -1385,6 +1385,7 @@ be
 * [autobatcher](https://github.com/doublewordai/autobatcher) [![GitHub stars](https://img.shields.io/github/stars/doublewordai/autobatcher?style=flat)](https://github.com/doublewordai/autobatcher/stargazers) - Drop-in AsyncOpenAI replacement that transparently batches requests via the Batch API for cheaper LLM inference.
 * [Future AGI](https://github.com/future-agi/future-agi) [![GitHub stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat)](https://github.com/future-agi/future-agi/stargazers) - Open-source, self-hostable platform to evaluate, trace, and guard LLM applications and AI agents.
 * [GNN Fraud Ring Detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) [![GitHub stars](https://img.shields.io/github/stars/RishabhPande/GNN-fraud-ring-detection?style=flat)](https://github.com/RishabhPande/GNN-fraud-ring-detection/stargazers) - GraphSAGE, GAT, GCN and GIN implemented from scratch in pure Python to detect synthetic fraud rings and money-mule chains.
+* [eigenkit](https://github.com/eigenorbit/eigenkit) [![GitHub stars](https://img.shields.io/github/stars/eigenorbit/eigenkit?style=flat)](https://github.com/eigenorbit/eigenkit/stargazers) - Quantum machine learning in Python: hybrid quantum neural networks as PyTorch modules and quantum kernel models (QSVC/QSVR) with a scikit-learn API, run on PennyLane, Qiskit, CUDA-Q and other simulators or on IBM, IQM and Amazon Braket QPUs.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization

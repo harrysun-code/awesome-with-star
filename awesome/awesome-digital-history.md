@@ -102,6 +102,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Global
 
+- [Allmaps](https://allmaps.org/) - Curate, georeference and explore collections of digitized IIIF maps.
 - [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) - Database with sources relating to VOC (Dutch East India Company) and WIC (Dutch West India Company).
 - [Bitsavers.org](http://bitsavers.trailing-edge.com/) - Computer code, reference manuals, and magazines.
 - [Castlemap](https://thecastlemap.com/) - Interactive world map and downloadable CC0 dataset of castles, fortresses, palaces, and ruins around the world.
@@ -237,4 +238,4 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md?style=flat)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md/stargazers) and [Editorial Policy](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md) [![GitHub stars](https://img.shields.io/github/stars/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md?style=flat)](https://github.com/maehr/awesome-digital-history/blob/main/EDITORIAL_POLICY.md/stargazers) first.
+Contributions welcome! Read the [CONTRIBUTING.md](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) [![GitHub stars](https://img.shields.io/github/stars/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md?style=flat)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md/stargazers) first. To propose a new resource, open an [Addition issue](https://github.com/maehr/awesome-digital-history/issues/new?template=addition.yml) [![GitHub stars](https://img.shields.io/github/stars/maehr/awesome-digital-history/issues/new?template=addition.yml?style=flat)](https://github.com/maehr/awesome-digital-history/issues/new?template=addition.yml/stargazers) and wait for maintainer approval.

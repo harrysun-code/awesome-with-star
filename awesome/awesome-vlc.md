@@ -37,6 +37,7 @@ This is a list of awesome resources about VLC and LibVLC.
 - [vlc-plugin-marker](https://github.com/nemosharma6/vlc-plugin-marker) [![GitHub stars](https://img.shields.io/github/stars/nemosharma6/vlc-plugin-marker?style=flat)](https://github.com/nemosharma6/vlc-plugin-marker/stargazers) - The marker plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 - [vlc-win10smtc](https://github.com/spmn/vlc-win10smtc) [![GitHub stars](https://img.shields.io/github/stars/spmn/vlc-win10smtc?style=flat)](https://github.com/spmn/vlc-win10smtc/stargazers) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 - [vlc-mixer](https://github.com/lachie/vlc-mixer) [![GitHub stars](https://img.shields.io/github/stars/lachie/vlc-mixer?style=flat)](https://github.com/lachie/vlc-mixer/stargazers) - Audio mixer VLC plugin written in Zig.
+- [vlc-waveform](https://github.com/ChrizzElabs/vlc-waveform) [![GitHub stars](https://img.shields.io/github/stars/ChrizzElabs/vlc-waveform?style=flat)](https://github.com/ChrizzElabs/vlc-waveform/stargazers) - Full-file audio waveform visualization with click-to-seek for VLC on Windows.
 
 ## VLC web & lua extensions
 

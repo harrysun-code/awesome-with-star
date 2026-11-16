@@ -53,6 +53,7 @@ Feel free to send a PR :)
  * [Clifm](https://github.com/leo-arch/clifm) [![GitHub stars](https://img.shields.io/github/stars/leo-arch/clifm?style=flat)](https://github.com/leo-arch/clifm/stargazers) - The terminal is always in your reach when managing your files.
  * [Clipboard](https://github.com/Slackadays/Clipboard) [![GitHub stars](https://img.shields.io/github/stars/Slackadays/Clipboard?style=flat)](https://github.com/Slackadays/Clipboard/stargazers) - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
  * [fzf](https://github.com/junegunn/fzf) [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf?style=flat)](https://github.com/junegunn/fzf/stargazers) - Fuzzy find anything in your directories.
+ * [Glim](https://github.com/NeoPanic/Glim) [![GitHub stars](https://img.shields.io/github/stars/NeoPanic/Glim?style=flat)](https://github.com/NeoPanic/Glim/stargazers) - MIT-licensed macOS file viewer for Markdown, source code, JSON and CSV, with read-only PDF/Office previews and basic UTF-8 text editing.
 
 ## Collaboration Tools
 

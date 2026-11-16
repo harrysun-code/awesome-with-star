@@ -66,29 +66,26 @@
 	- [Miscellaneous](#miscellaneous)
 	- [Related](#related)
 	- [Other awesome lists](#other-awesome-lists)
-	- [Expired links](#expired-links)
 
 ## AppImage discovery
 
 ### App catalogs
 
 - [AppImage.GitHub.io](https://appimage.github.io/) - Catalog of AppImages that passed an automated test, links to upstream download pages.
+- [Get AppImage](https://srevinsaju.github.io/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
 
 ### App stores
 
 - [AppImageHub.com](https://www.appimagehub.com/) - Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/).
 - [pling.com](https://www.pling.com/) - Open store where creators can publish their libre products and creative content including AppImages.
-- [Manjaro Software Discover](https://software.manjaro.org/appimages) - Web-based app store that contains applications in multiple formats, including AppImage.
 
 ### App centers
 
-- [NX Software Center](https://github.com/Nitrux/nx-software-center) [![GitHub stars](https://img.shields.io/github/stars/Nitrux/nx-software-center?style=flat)](https://github.com/Nitrux/nx-software-center/stargazers) - Portable Software Center for portable AppImage applications.
 - [AppImagePool](https://github.com/prateekmedia/appimagepool) [![GitHub stars](https://img.shields.io/github/stars/prateekmedia/appimagepool?style=flat)](https://github.com/prateekmedia/appimagepool/stargazers) - Simple, modern AppImageHub Client, powered by flutter.
 
 ### App scrapers
 
 - [appimages.scraper](https://github.com/azubieta/appimages.scraper) [![GitHub stars](https://img.shields.io/github/stars/azubieta/appimages.scraper?style=flat)](https://github.com/azubieta/appimages.scraper/stargazers) - Search for AppImage releases over the web.
-- [AppImageRadar](https://github.com/AppImage/AppImageRadar) [![GitHub stars](https://img.shields.io/github/stars/AppImage/AppImageRadar?style=flat)](https://github.com/AppImage/AppImageRadar/stargazers) - Search for AppImage-related activity on GitHub using Travis CI.
 
 ## AppImage consumption tools
 
@@ -96,7 +93,6 @@
 
 - [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - Verbosely explains how to manage AppImages without the need for further software.
 - [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) [![GitHub stars](https://img.shields.io/github/stars/probonopd/go-appimage/tree/master/src/appimaged?style=flat)](https://github.com/probonopd/go-appimage/tree/master/src/appimaged/stargazers) - Optional daemon that integrates AppImages into the system (experimental).
-- [appimaged](https://github.com/AppImage/appimaged) [![GitHub stars](https://img.shields.io/github/stars/AppImage/appimaged?style=flat)](https://github.com/AppImage/appimaged/stargazers) - Optional daemon that integrates AppImages into the system (deprecated).
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) [![GitHub stars](https://img.shields.io/github/stars/TheAssassin/AppImageLauncher?style=flat)](https://github.com/TheAssassin/AppImageLauncher/stargazers) - Integrates into users' systems and establishes a single `~/Applications` directory, assisting the user to move AppImages into there, with support for updating and removing AppImages through apps launcher.
 - [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - Program for creating, deleting, controlling and organizing shortcuts to AppImage.
 - [LinuxPA](https://github.com/CalebQ42/LinuxPA) [![GitHub stars](https://img.shields.io/github/stars/CalebQ42/LinuxPA?style=flat)](https://github.com/CalebQ42/LinuxPA/stargazers) - PortableApps.com type launcher for Linux with AppImage support.
@@ -104,6 +100,7 @@
 - [Thumbnailer for AppImages](https://github.com/mttbernardini/appimage-thumbnailer) [![GitHub stars](https://img.shields.io/github/stars/mttbernardini/appimage-thumbnailer?style=flat)](https://github.com/mttbernardini/appimage-thumbnailer/stargazers) - Generates icons for AppImages that are shown in file managers of GNOME and KDE compatible desktop environments.
 - [XApp Thumbnailers](https://github.com/linuxmint/xapp-thumbnailers) [![GitHub stars](https://img.shields.io/github/stars/linuxmint/xapp-thumbnailers?style=flat)](https://github.com/linuxmint/xapp-thumbnailers/stargazers) - Thumbnailers for GTK Desktop Environments, including one for the AppImage file format. Makes Gtk based file managers like Caja (MATE), Nautilus (GNOME), Nemo (Cinnamon), PCManFM (LXDE), and Thunar (Xfce) show application icons on AppImages.
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) [![GitHub stars](https://img.shields.io/github/stars/DejfCold/ATG?style=flat)](https://github.com/DejfCold/ATG/stargazers) - Monitors and (de)installs AppImages from the Gnome desktop.
+- [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) [![GitHub stars](https://img.shields.io/github/stars/w-j-r/AppImage-Integrator?style=flat)](https://github.com/w-j-r/AppImage-Integrator/stargazers) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
 - [gnome_appimage_installer](https://github.com/knork-fork/gnome_appimage_installer) [![GitHub stars](https://img.shields.io/github/stars/knork-fork/gnome_appimage_installer?style=flat)](https://github.com/knork-fork/gnome_appimage_installer/stargazers) - Somewhat a misnomer (AppImages don't need to be "installed"), creates a desktop file that follows the freedesktop.org spec for your AppImage files; written in bash.
 - [Gear lever](https://github.com/mijorus/gearlever/) [![GitHub stars](https://img.shields.io/github/stars/mijorus/gearlever/?style=flat)](https://github.com/mijorus/gearlever//stargazers) - Integrates AppImages into the Gnome desktop by drag-and-drop onto the Gear lever application.
 
@@ -126,13 +123,11 @@ __Note:__ The AppImage format is explicitly designed _not to need any package ma
 - [appimage-manager](https://github.com/AppImageCrafters/appimage-manager) [![GitHub stars](https://img.shields.io/github/stars/AppImageCrafters/appimage-manager?style=flat)](https://github.com/AppImageCrafters/appimage-manager/stargazers) - Command-line tool for managing AppImages allowing to search, install, remove and update applications.
 - [bauh](https://github.com/vinifmor/bauh) [![GitHub stars](https://img.shields.io/github/stars/vinifmor/bauh?style=flat)](https://github.com/vinifmor/bauh/stargazers) - Graphical user interface for managing Linux applications supporting AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
 - [homebrew-appimage](https://github.com/athrunsun/homebrew-appimage) [![GitHub stars](https://img.shields.io/github/stars/athrunsun/homebrew-appimage?style=flat)](https://github.com/athrunsun/homebrew-appimage/stargazers) - Linuxbrew AppImage Formulae.
-- [AIPM](https://github.com/michaeldelago/aipm) [![GitHub stars](https://img.shields.io/github/stars/michaeldelago/aipm?style=flat)](https://github.com/michaeldelago/aipm/stargazers) - A Package Manager for AppImages.
 - [Zap](https://github.com/srevinsaju/zap) [![GitHub stars](https://img.shields.io/github/stars/srevinsaju/zap?style=flat)](https://github.com/srevinsaju/zap/stargazers) - AppImage package manager. Downloads the AppImage if it does not exist. If it already exists, updates it with AppImageUpdate. Integrates AppImage into the system.
 - [RookiePM](https://github.com/18fadly-anthony/rookie) [![GitHub stars](https://img.shields.io/github/stars/18fadly-anthony/rookie?style=flat)](https://github.com/18fadly-anthony/rookie/stargazers) - Package manager for AppImages and Shell Scripts.
 - [AppMan](https://github.com/ivan-hc/AppMan) [![GitHub stars](https://img.shields.io/github/stars/ivan-hc/AppMan?style=flat)](https://github.com/ivan-hc/AppMan/stargazers) - AppImage Manager that works like APT or Pacman.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - Command line AppImage store made in ruby.
 - [ayy](https://github.com/lawl/ayy) [![GitHub stars](https://img.shields.io/github/stars/lawl/ayy?style=flat)](https://github.com/lawl/ayy/stargazers) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
-- [leap](https://github.com/lnxcz/leap) [![GitHub stars](https://img.shields.io/github/stars/lnxcz/leap?style=flat)](https://github.com/lnxcz/leap/stargazers) - Fast and simple AppImage manager. Written in Rust.
 - [Bread](https://github.com/pegvin/bread) [![GitHub stars](https://img.shields.io/github/stars/pegvin/bread?style=flat)](https://github.com/pegvin/bread/stargazers) - Download, update, remove, and run AppImages from GitHub on the command line, and integrate apps into the desktop.
 
 ### Linux distributions
@@ -145,6 +140,8 @@ Although the AppImage format was carefully designed not to need any special supp
 - [Zenwalk GNU Linux](http://www.zenwalk.org/) - Is "AppImage ready" and distributes some applications in AppImage format.
 
 ## AppImage developer tools
+
+New to making AppImages? Start with the [packaging guide](https://docs.appimage.org/packaging-guide/index.html), which explains how an AppImage is structured and walks through creating one. The tools below automate parts of that process.
 
 ### Low-level tools
 
@@ -179,15 +176,13 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Deployment tools for Electron applications
 
 - [electron-builder](https://github.com/electron-userland/electron-builder) [![GitHub stars](https://img.shields.io/github/stars/electron-userland/electron-builder?style=flat)](https://github.com/electron-userland/electron-builder/stargazers) - Supports AppImage as an output format.
-- [electron-forge-maker-appimage](https://github.com/saleae/electron-forge-maker-appimage) [![GitHub stars](https://img.shields.io/github/stars/saleae/electron-forge-maker-appimage?style=flat)](https://github.com/saleae/electron-forge-maker-appimage/stargazers) - Electron Forge builder for AppImage.
 - [Appnativefy](https://github.com/sarweshparajuli/appnativefy) [![GitHub stars](https://img.shields.io/github/stars/sarweshparajuli/appnativefy?style=flat)](https://github.com/sarweshparajuli/appnativefy/stargazers) - Create AppImage with embedded Electron browser from any website.
 
 ### Deployment tools for Windows applications
 
 - [wine32-deploy](https://github.com/sudo-give-me-coffee/wine32-deploy) [![GitHub stars](https://img.shields.io/github/stars/sudo-give-me-coffee/wine32-deploy?style=flat)](https://github.com/sudo-give-me-coffee/wine32-deploy/stargazers) - Creates AppImages for 32-bit Windows applications that can run on 64-bit Linux systems without multilib installed.
 - [AppImage For WINE](https://github.com/Hackerl/Wine_Appimage) [![GitHub stars](https://img.shields.io/github/stars/Hackerl/Wine_Appimage?style=flat)](https://github.com/Hackerl/Wine_Appimage/stargazers) - WINE-based AppImages and LD_PRELOAD based patches to launch WINE from AppImages.
-- [ferion11/Wine_Appimage](https://github.com/ferion11/Wine_Appimage) [![GitHub stars](https://img.shields.io/github/stars/ferion11/Wine_Appimage?style=flat)](https://github.com/ferion11/Wine_Appimage/stargazers) - AppImage for WINE 32bits from PlayOnLinux, an run on no-multilib systems.
-- [GameImage](https://gitlab.com/formigoni/gameimage) - Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.
+- [GameImage](https://github.com/gameimage/gameimage) [![GitHub stars](https://img.shields.io/github/stars/gameimage/gameimage?style=flat)](https://github.com/gameimage/gameimage/stargazers) - Is a way to package up games with either Wine or an Emulator into a portable AppImage that could be useful for the Steam Deck.
 
 ### Deployment tools for Java applications
 
@@ -214,9 +209,7 @@ Although the AppImage format was carefully designed not to need any special supp
 - [appimage2pkg](https://gitlab.com/nixtux-packaging/appimage2pkg) - Repack AppImage and make rpm/deb which does not require FUSE.
 - [flatpak2appdir](https://github.com/sudo-give-me-coffee/flatpak2appdir) [![GitHub stars](https://img.shields.io/github/stars/sudo-give-me-coffee/flatpak2appdir?style=flat)](https://github.com/sudo-give-me-coffee/flatpak2appdir/stargazers) - Turn Flatpak into AppDir which in turn can be turned into AppImage.
 - [make-portable](https://github.com/sudo-give-me-coffee/make-portable) [![GitHub stars](https://img.shields.io/github/stars/sudo-give-me-coffee/make-portable?style=flat)](https://github.com/sudo-give-me-coffee/make-portable/stargazers) - Deploys installed application to AppDir, uses strace to fetch all file system calls and copies all accessed files in to AppDir including glibc.
-- [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - Python application that takes strace.log and turns it into a directory suited for an AppImage.
 - [Elements](https://github.com/s-zeid/elements) [![GitHub stars](https://img.shields.io/github/stars/s-zeid/elements?style=flat)](https://github.com/s-zeid/elements/stargazers) - Tool to generate single-file, runc-based AppImages using a minimal (~3 MB compressed) Alpine Linux rootfs.
-- [arch2appimage](https://github.com/hanzala123/arch2appimage) [![GitHub stars](https://img.shields.io/github/stars/hanzala123/arch2appimage?style=flat)](https://github.com/hanzala123/arch2appimage/stargazers) - Python script to convert any Arch Linux package (official/AUR) to an AppImage.
 - [appimage-bash](https://github.com/valicm/appimage-bash) [![GitHub stars](https://img.shields.io/github/stars/valicm/appimage-bash?style=flat)](https://github.com/valicm/appimage-bash/stargazers) - GitHub Action for creating AppImage releases from binaries inside `.tar.gz` archives.
 - [Package-to-appimage](https://github.com/CausaPrincipalis71/package-to-appimage) [![GitHub stars](https://img.shields.io/github/stars/CausaPrincipalis71/package-to-appimage?style=flat)](https://github.com/CausaPrincipalis71/package-to-appimage/stargazers) - Tool for converting `.deb` and `.rpm` packages into AppImage format by using Docker.
 - [GMAppImager](https://github.com/samuelvenable/GMAppImager) [![GitHub stars](https://img.shields.io/github/stars/samuelvenable/GMAppImager?style=flat)](https://github.com/samuelvenable/GMAppImager/stargazers) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
@@ -233,8 +226,6 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Continuous integration
 
-- [GitHub Actions example](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) [![GitHub stars](https://img.shields.io/github/stars/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml?style=flat)](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml/stargazers) - Example of how to upload AppImages built using GitHub Actions to GitHub Releases.
-- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) [![GitHub stars](https://img.shields.io/github/stars/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml?style=flat)](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml/stargazers) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) [![GitHub stars](https://img.shields.io/github/stars/AppImageCrafters/build-appimage-action?style=flat)](https://github.com/AppImageCrafters/build-appimage-action/stargazers) - GitHub Action for producing AppImages using appimage-builder.
 - [jniltinho/packages](https://github.com/jniltinho/packages) [![GitHub stars](https://img.shields.io/github/stars/jniltinho/packages?style=flat)](https://github.com/jniltinho/packages/stargazers) - Drone.io example for producing AppImages using go-appimagetool.
 - [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - Example of how to directly link to the latest build artifact on GitLab CI (can be tricky).
@@ -308,7 +299,6 @@ Although the AppImage format was carefully designed not to need any special supp
 ### Miscellaneous
 
 - [AppImage wiki](https://github.com/AppImage/AppImageKit/wiki) - Official AppImage wiki.
-- [AppImageZip](https://github.com/sagebind/appimagezip) [![GitHub stars](https://img.shields.io/github/stars/sagebind/appimagezip?style=flat)](https://github.com/sagebind/appimagezip/stargazers) - Experimental pure Rust implementation of the AppImage runtime that uses Zip as the backing file system image.
 - [help-wanted](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues) [![GitHub stars](https://img.shields.io/github/stars/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues?style=flat)](https://github.com/search?q=user%3Aappimage+label%3Ahelp-wanted+state%3Aopen&type=Issues/stargazers) - AppImage issues that the AppImage team would like your help with. A great way to get started contributing to the project.
 - [appdwarf](https://github.com/Phantop/appdwarf) [![GitHub stars](https://img.shields.io/github/stars/Phantop/appdwarf?style=flat)](https://github.com/Phantop/appdwarf/stargazers) - A tool to convert an AppDir or an existing AppImage file, either as a local file or from a URL, into a highly compressed portable image using dwarfs.
 
@@ -321,10 +311,3 @@ Although the AppImage format was carefully designed not to need any special supp
 - [awesome-linuxdeploy](https://github.com/linuxdeploy/awesome-linuxdeploy) [![GitHub stars](https://img.shields.io/github/stars/linuxdeploy/awesome-linuxdeploy?style=flat)](https://github.com/linuxdeploy/awesome-linuxdeploy/stargazers) - Awesome list on linuxdeploy.
 - [All Awesome Lists](https://github.com/topics/awesome) [![GitHub stars](https://img.shields.io/github/stars/topics/awesome?style=flat)](https://github.com/topics/awesome/stargazers) - All the Awesome lists on GitHub.
 
-### Expired links
-
-- [App Outlet](https://app-outlet.github.io/) - Universal app store that works with AppImages, Flatpaks and Snaps.
-- [appimage2desktop](https://github.com/me1ting/appimage2desktop) [![GitHub stars](https://img.shields.io/github/stars/me1ting/appimage2desktop?style=flat)](https://github.com/me1ting/appimage2desktop/stargazers) - Creates a desktop file and an icon in the system for an AppImage, nothing else.
-- [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) [![GitHub stars](https://img.shields.io/github/stars/w-j-r/AppImage-Integrator?style=flat)](https://github.com/w-j-r/AppImage-Integrator/stargazers) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
-- [Get AppImage](https://g.sreve/get-appimage/) - Collection of all AppImages in one website. Great search functionality.
-- [AppStream Generator](https://output.jsbin.com/qoqukof) - Very simple generator for AppStream MetaInfo files which application authors can use to add metadata (like descriptions, screenshots, links) to their AppImage.

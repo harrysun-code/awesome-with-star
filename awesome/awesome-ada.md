@@ -14,7 +14,7 @@
 <br/><br/>
 
 
-> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
+> <font size="7">[Ada is powering satellites, aircraft, ships, power plants, surgical robots](http://www.seas.gwu.edu/%7Emfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
 > Ada is arguably the most { <b>performant</b> &cap; <b>capable</b> &cap; <b>precise</b> &cap; <b>readable</b> &cap; <b>mature</b> } programming language.
 > Ada is alive and kicking!
 >
@@ -190,7 +190,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Questions and Answers
 - [ada-forum](https://forum.ada-lang.io/) - Ada Forum at ada-lang.io.
-- [gitter-ada](https://gitter.im/ada-lang/Lobby) - Ada channel at Gitter.
+- [gitter-ada](https://app.gitter.im/#/room/#ada-lang_Lobby:gitter.im) - Ada channel at Gitter.
 - [comp-lang-ada](https://usenet.ada-lang.io/comp.lang.ada/) - Ada Usenet newsgroup/forum.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
 - [subreddit-ada](https://www.reddit.com/r/ada/) - Ada at Reddit.
@@ -348,7 +348,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/gnatcoll-core?style=flat)](https://github.com/AdaCore/gnatcoll-core/stargazers) - This is the core module of the GNAT Components Collection.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/gnatcoll-bindings?style=flat)](https://github.com/AdaCore/gnatcoll-bindings/stargazers) - This is the bindings module of the GNAT Components Collection.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/gnatcoll-db?style=flat)](https://github.com/AdaCore/gnatcoll-db/stargazers) - This is the DB module of the GNAT Components Collection.
-- [gnatcoll-json](https://github.com/persan/gnatcoll-json) [![GitHub stars](https://img.shields.io/github/stars/persan/gnatcoll-json?style=flat)](https://github.com/persan/gnatcoll-json/stargazers) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
+- [gnatcoll-json](https://github.com/persan/gnatcoll-json) [![GitHub stars](https://img.shields.io/github/stars/persan/gnatcoll-json?style=flat)](https://github.com/persan/gnatcoll-json/stargazers) - This is a set of helpers for writing JSON-interfaces it contains JSON parses for most of the Ada runtime components.
 - [gneiss](https://github.com/Componolit/gneiss) [![GitHub stars](https://img.shields.io/github/stars/Componolit/gneiss?style=flat)](https://github.com/Componolit/gneiss/stargazers) - An interface collection to be used with applications for component based systems. It aims to be easily portable/platform independent and is compatible with the [ada-runtime].
 - [lace](https://github.com/charlie5/lace) [![GitHub stars](https://img.shields.io/github/stars/charlie5/lace?style=flat)](https://github.com/charlie5/lace/stargazers) - A set of Ada components to allow 3D simulations, games and GUI's in Ada.
 - [asap](https://github.com/annexi-strayline/ASAP) [![GitHub stars](https://img.shields.io/github/stars/annexi-strayline/ASAP?style=flat)](https://github.com/annexi-strayline/ASAP/stargazers) - A set of general libraries and thick bindings for use with the AURA package management/build tool. Includes TCP, TLS, HTTP, a high-performance JSON parser/generator, and a formally verified (SPARK) UTF-8 stream decoder.
@@ -376,7 +376,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Terminal User Interface
 
 - [curses](https://github.com/annexi-strayline/Curses) [![GitHub stars](https://img.shields.io/github/stars/annexi-strayline/Curses?style=flat)](https://github.com/annexi-strayline/Curses/stargazers) - Advanced UNIX Terminal UI Ada Binding Package.
-- [ncurses-ada95](https://invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
+- [ncurses-ada95](https://www.invisible-island.net/ncurses/ncurses-Ada95.html) - Ada95 bindings for ncurses.
 - [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - Bindings to the Linenoise line-editing library (patched to support UTF-8).
 - [areadline](https://github.com/samueltardieu/areadline) [![GitHub stars](https://img.shields.io/github/stars/samueltardieu/areadline?style=flat)](https://github.com/samueltardieu/areadline/stargazers) - Ada binding to the readline library.
 - [flyology-tui](https://github.com/flyology-ada/flyology-tui) [![GitHub stars](https://img.shields.io/github/stars/flyology-ada/flyology-tui?style=flat)](https://github.com/flyology-ada/flyology-tui/stargazers) - Typed, declarative terminal user-interface toolkit for Ada.
@@ -388,7 +388,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) [![GitHub stars](https://img.shields.io/github/stars/AdaDoom3/AdaDoom3?style=flat)](https://github.com/AdaDoom3/AdaDoom3/stargazers) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Database
-- [ada-ado](https://github.com/stcarrez/ada-ado) [![GitHub stars](https://img.shields.io/github/stars/stcarrez/ada-ado?style=flat)](https://github.com/stcarrez/ada-ado/stargazers) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
+- [ada-ado](https://github.com/stcarrez/ada-ado) [![GitHub stars](https://img.shields.io/github/stars/stcarrez/ada-ado?style=flat)](https://github.com/stcarrez/ada-ado/stargazers) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developed for ADO come from the Java Hibernate ORM.
 - [ada-base](https://github.com/jrmarino/AdaBase) [![GitHub stars](https://img.shields.io/github/stars/jrmarino/AdaBase?style=flat)](https://github.com/jrmarino/AdaBase/stargazers) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 - [apq-base](https://github.com/ada-apq/apq/) [![GitHub stars](https://img.shields.io/github/stars/ada-apq/apq/?style=flat)](https://github.com/ada-apq/apq//stargazers) - APQ is a database interface library written in Ada95.
 - [flyology-postgres](https://github.com/flyology-ada/flyology-postgres) [![GitHub stars](https://img.shields.io/github/stars/flyology-ada/flyology-postgres?style=flat)](https://github.com/flyology-ada/flyology-postgres/stargazers) - Client and server primitives for the PostgreSQL frontend/backend protocol, built on [flyology] task-aware I/O.
@@ -413,7 +413,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - A simple unit test library and framework for the Ada programming.
-language.  It is loosely modelled after JUnit and some ideas from AUnit.
+language.  It is loosely modeled after JUnit and some ideas from AUnit.
 - [aunit](https://github.com/AdaCore/aunit) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/aunit?style=flat)](https://github.com/AdaCore/aunit/stargazers) - Ada unit testing framework.
 - [bbt](https://github.com/LionelDraghi/bbt) [![GitHub stars](https://img.shields.io/github/stars/LionelDraghi/bbt?style=flat)](https://github.com/LionelDraghi/bbt/stargazers) - Simple tool to black box check the behavior of an executable through the command line.
 - [gnatbdd](https://github.com/briot/gnatbdd) [![GitHub stars](https://img.shields.io/github/stars/briot/gnatbdd?style=flat)](https://github.com/briot/gnatbdd/stargazers) - Behavior Driven Development in Ada.
@@ -423,6 +423,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Stackable logging framework for Ada.
 - [elogs](https://github.com/kevlar700/elogs) [![GitHub stars](https://img.shields.io/github/stars/kevlar700/elogs?style=flat)](https://github.com/kevlar700/elogs/stargazers) - Logging framework for embedded systems absent of runtime errors.
+- [prometheus-ada](https://github.com/kokhlo/prometheus-ada) [![GitHub stars](https://img.shields.io/github/stars/kokhlo/prometheus-ada?style=flat)](https://github.com/kokhlo/prometheus-ada/stargazers) - Prometheus client library: counters, gauges, histograms with label escaping and a thread-safe exposition endpoint.
+- [ratelimit-ada](https://github.com/kokhlo/ratelimit-ada) [![GitHub stars](https://img.shields.io/github/stars/kokhlo/ratelimit-ada?style=flat)](https://github.com/kokhlo/ratelimit-ada/stargazers) - Rate limiting primitives: token bucket and fixed window, zero dependencies.
+- [backoff-ada](https://github.com/kokhlo/backoff-ada) [![GitHub stars](https://img.shields.io/github/stars/kokhlo/backoff-ada?style=flat)](https://github.com/kokhlo/backoff-ada/stargazers) - Retry backoff strategies: exponential with jitter, bounded caps.
 
 ### Machine Learning
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
@@ -459,7 +462,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### UML
 - [ada-ml](https://github.com/rocher/AdaML) [![GitHub stars](https://img.shields.io/github/stars/rocher/AdaML?style=flat)](https://github.com/rocher/AdaML/stargazers) - Ada-tailored UML Modeling Language.
 - [coldframe](https://github.com/simonjwright/coldframe) [![GitHub stars](https://img.shields.io/github/stars/simonjwright/coldframe?style=flat)](https://github.com/simonjwright/coldframe/stargazers) - This tool generates Ada framework code and documentation from UML models.
-- [umbrello](https://apps.kde.org/es/umbrello/) - Unified Modelling Language (UML) diagram program based on KDE Technology. Outputs Ada.
+- [umbrello](https://apps.kde.org/es/umbrello/) - Unified Modeling Language (UML) diagram program based on KDE Technology. Outputs Ada.
 
 ### Encryption
 - [ada-keystore](https://github.com/stcarrez/ada-keystore) [![GitHub stars](https://img.shields.io/github/stars/stcarrez/ada-keystore?style=flat)](https://github.com/stcarrez/ada-keystore/stargazers) - Ada Keystore - protect your sensitive data with secure storage.
@@ -481,7 +484,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [si-units](https://github.com/HeisenbugLtd/si_units) [![GitHub stars](https://img.shields.io/github/stars/HeisenbugLtd/si_units?style=flat)](https://github.com/HeisenbugLtd/si_units/stargazers) - Utility library to pretty print physical values in proper metric units.
  
 ### Algorithms, Containers and Protocols
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/ada_language_server?style=flat)](https://github.com/AdaCore/ada_language_server/stargazers) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/ada_language_server?style=flat)](https://github.com/AdaCore/ada_language_server/stargazers) - Adacore server implementation of the the Microsoft Language Protocol for Ada and SPARK.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) [![GitHub stars](https://img.shields.io/github/stars/reznikmm/ada-lsp?style=flat)](https://github.com/reznikmm/ada-lsp/stargazers) - Language Server Protocol for Ada.
 - [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) [![GitHub stars](https://img.shields.io/github/stars/Alex-Gamper/Ada-LanguageServer?style=flat)](https://github.com/Alex-Gamper/Ada-LanguageServer/stargazers) - Prototype implementation of LSP client - Visual Studio 2017.
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/ada-traits-containers?style=flat)](https://github.com/AdaCore/ada-traits-containers/stargazers) - Generic Ada Library for Algorithms and Containers.
@@ -559,7 +562,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-lisp-embedded](https://github.com/BrentSeidel/Ada-Lisp-Embedded) [![GitHub stars](https://img.shields.io/github/stars/BrentSeidel/Ada-Lisp-Embedded?style=flat)](https://github.com/BrentSeidel/Ada-Lisp-Embedded/stargazers) - Embeddable Lisp interpreter.
 
 ### Format Readers, Writers and Checkers
-- [ini-files](https://github.com/zertovitch/ini-files) [![GitHub stars](https://img.shields.io/github/stars/zertovitch/ini-files?style=flat)](https://github.com/zertovitch/ini-files/stargazers) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
+- [ini-files](https://github.com/zertovitch/ini-files) [![GitHub stars](https://img.shields.io/github/stars/zertovitch/ini-files?style=flat)](https://github.com/zertovitch/ini-files/stargazers) - The Ini file manager consists of a package, Config, which can read and modify information pieces from various configuration files known as "ini" files.
 - [protobuf-ada](https://github.com/persan/protobuf-ada) [![GitHub stars](https://img.shields.io/github/stars/persan/protobuf-ada?style=flat)](https://github.com/persan/protobuf-ada/stargazers) - Experimental Ada code generation support for Google Protocol Buffers.
 - [protobuf](https://github.com/reznikmm/protobuf) [![GitHub stars](https://img.shields.io/github/stars/reznikmm/protobuf?style=flat)](https://github.com/reznikmm/protobuf/stargazers) - A Google Protocol Buffers implementation in Ada, using [matreshka].
 - [ada-yaml](https://github.com/yaml/AdaYaml) [![GitHub stars](https://img.shields.io/github/stars/yaml/AdaYaml?style=flat)](https://github.com/yaml/AdaYaml/stargazers) - Experimental YAML 1.3 implementation in Ada.
@@ -587,8 +590,10 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [anet](https://www.codelabs.ch/anet/) - Networking library for the Ada programming language.
 - [adhcp](https://codelabs.ch/adhcp/index.html) - Implementation of the DHCP protocol in Ada.
 - [adasockets](https://github.com/samueltardieu/adasockets) [![GitHub stars](https://img.shields.io/github/stars/samueltardieu/adasockets?style=flat)](https://github.com/samueltardieu/adasockets/stargazers) - IPv4 socket library (TCP, UDP, and multicast).
+- [websocket-ada](https://github.com/kokhlo/websocket-ada) [![GitHub stars](https://img.shields.io/github/stars/kokhlo/websocket-ada?style=flat)](https://github.com/kokhlo/websocket-ada/stargazers) - WebSocket client library: RFC 6455 framing, ping/pong keepalive, automatic reconnect.
+- [redis-ada](https://github.com/kokhlo/redis-ada) [![GitHub stars](https://img.shields.io/github/stars/kokhlo/redis-ada?style=flat)](https://github.com/kokhlo/redis-ada/stargazers) - Redis client library: connection pooling, RESP protocol, pub/sub.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
-- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) [![GitHub stars](https://img.shields.io/github/stars/persan/zeromq-Ada.git?style=flat)](https://github.com/persan/zeromq-Ada.git/stargazers) - Binding to the ZeroMQ comunications-library.
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) [![GitHub stars](https://img.shields.io/github/stars/persan/zeromq-Ada.git?style=flat)](https://github.com/persan/zeromq-Ada.git/stargazers) - Binding to the ZeroMQ communications-library.
 - [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - Wrappers for various client/server and pub/sub messaging protocols (AMQP, STOMP and ZeroMQ), focusing exclusively on text message communications.
 - [mosquitto-ada](https://github.com/persan/mosquitto-ada) [![GitHub stars](https://img.shields.io/github/stars/persan/mosquitto-ada?style=flat)](https://github.com/persan/mosquitto-ada/stargazers) - Binding for the MQTT broker Mosquitto.
 - [tlsada](https://git.sr.ht/~nytpu/tlsada) - Bindings to the libtls TLS/SSL library.
@@ -682,13 +687,13 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/win32ada?style=flat)](https://github.com/AdaCore/win32ada/stargazers) - Ada API to the Windows library.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) [![GitHub stars](https://img.shields.io/github/stars/Alex-Gamper/Ada-NetFramework?style=flat)](https://github.com/Alex-Gamper/Ada-NetFramework/stargazers) - Ada bindings to the Microsoft NetFramework Api.
-- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) [![GitHub stars](https://img.shields.io/github/stars/Alex-Gamper/Ada-WinRT?style=flat)](https://github.com/Alex-Gamper/Ada-WinRT/stargazers) - Ada bindings for the Microsft WinRT Api.
+- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) [![GitHub stars](https://img.shields.io/github/stars/Alex-Gamper/Ada-WinRT?style=flat)](https://github.com/Alex-Gamper/Ada-WinRT/stargazers) - Ada bindings for the Microsoft WinRT Api.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) [![GitHub stars](https://img.shields.io/github/stars/Alex-Gamper/Ada-Win32?style=flat)](https://github.com/Alex-Gamper/Ada-Win32/stargazers) - Ada bindings for the Microsoft Win32 Api.
 
 ### Bindings to Other Languages
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) [![GitHub stars](https://img.shields.io/github/stars/simonjwright/tcladashell?style=flat)](https://github.com/simonjwright/tcladashell/stargazers) - Tcl Ada SHell (Tash) is an Ada binding to Tcl/Tk.
 - [tashy](https://github.com/thindil/tashy) [![GitHub stars](https://img.shields.io/github/stars/thindil/tashy?style=flat)](https://github.com/thindil/tashy/stargazers) - Tcl Ada SHell Younger (Tashy) is derivate of Tash, focused mostly on Tk binding.
-- [tashy2](https://github.com/thindil/tashy2) [![GitHub stars](https://img.shields.io/github/stars/thindil/tashy2?style=flat)](https://github.com/thindil/tashy2/stargazers) - Derivate of Tashy that aims to be more idiomatic and uses a more permisive license.
+- [tashy2](https://github.com/thindil/tashy2) [![GitHub stars](https://img.shields.io/github/stars/thindil/tashy2?style=flat)](https://github.com/thindil/tashy2/stargazers) - Derivate of Tashy that aims to be more idiomatic and uses a more permissive license.
 - [ada-lua](https://github.com/AdaCore/ada-lua) [![GitHub stars](https://img.shields.io/github/stars/AdaCore/ada-lua?style=flat)](https://github.com/AdaCore/ada-lua/stargazers) - Ada binding for Lua.
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) [![GitHub stars](https://img.shields.io/github/stars/io7m/coreland-lua-ada?style=flat)](https://github.com/io7m/coreland-lua-ada/stargazers) - Ada bindings to the Lua language.
 
@@ -795,7 +800,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [yotroc](https://github.com/docandrew/YOTROC) [![GitHub stars](https://img.shields.io/github/stars/docandrew/YOTROC?style=flat)](https://github.com/docandrew/YOTROC/stargazers) - Assembler/Emulator for a fictional CPU architecture. IDE implemented in [gtkada].
 
 ### Programming Languages
-- [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
+- [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originally owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
 
 ### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) [![GitHub stars](https://img.shields.io/github/stars/simonjwright/dhondt?style=flat)](https://github.com/simonjwright/dhondt/stargazers) - Ada implementation of D'Hondt electoral result calculator.

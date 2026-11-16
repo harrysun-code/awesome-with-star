@@ -230,6 +230,7 @@ _Tools that makes SAP Commerce Developer life easier._
 
 - [Developers Toolset](https://plugins.jetbrains.com/plugin/12867-sap-commerce-developers-toolset) - A SAP Commerce Intellij plugin.
 - [JRebel](https://www.jrebel.com/blog/sap-hybris) - Reduces build time significantly.
+- [Reclazz](https://github.com/onurkat/reclazz) [![GitHub stars](https://img.shields.io/github/stars/onurkat/reclazz?style=flat)](https://github.com/onurkat/reclazz/stargazers) - Free, open-source hot reload for SAP Commerce and Spring; save a class or an items.xml, no restart.
 - [Hybris Integration Developer Workbench](https://blogs.sap.com/2017/01/23/hybris-integration-developer-workbench/#:~:text=Hybris%20Integration%20Developer%20Workbench%20is,Hub%20projects%20easily%20and%20quickly) - Eclipse based tool to model and create Data Hub.
 
 ### GitHub

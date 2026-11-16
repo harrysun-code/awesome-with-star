@@ -147,6 +147,7 @@ If your project is rejected, treat it as a learning opportunity
 
 - [Hashes](https://github.com/zefr0x/hashes) [![GitHub stars](https://img.shields.io/github/stars/zefr0x/hashes?style=flat)](https://github.com/zefr0x/hashes/stargazers) - Identify hashing algorithms (GUI frontend for Name That Hash).
 - [hashgen](https://github.com/cyclone-github/hashgen) [![GitHub stars](https://img.shields.io/github/stars/cyclone-github/hashgen?style=flat)](https://github.com/cyclone-github/hashgen/stargazers) - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
+- [hx](https://github.com/Cynosureprime/hx) [![GitHub stars](https://img.shields.io/github/stars/Cynosureprime/hx?style=flat)](https://github.com/Cynosureprime/hx/stargazers) - A domain-specific language for describing, computing and verifying cryptographic hash compositions.
 - [Name That Hash](https://github.com/HashPals/Name-That-Hash) [![GitHub stars](https://img.shields.io/github/stars/HashPals/Name-That-Hash?style=flat)](https://github.com/HashPals/Name-That-Hash/stargazers) - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
 
 ### Notable People
