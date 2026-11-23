@@ -132,7 +132,7 @@ _Studies and research on the Svelte framework._
 
 _UI frameworks for mobile._
 
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Svelte Native](https://svelte.nativescript.org/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - Full featured HTML framework for building iOS & Android apps.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - Build native mobile apps with web technology and Svelte.
 - [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
@@ -199,6 +199,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) [![GitHub stars](https://img.shields.io/github/stars/zerodevx/svelte-toast?style=flat)](https://github.com/zerodevx/svelte-toast/stargazers) - Simple elegant toast notifications.
 - [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) [![GitHub stars](https://img.shields.io/github/stars/kbrgl/svelte-french-toast?style=flat)](https://github.com/kbrgl/svelte-french-toast/stargazers) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 - [svelte-sonner](https://github.com/wobsoriano/svelte-sonner) [![GitHub stars](https://img.shields.io/github/stars/wobsoriano/svelte-sonner?style=flat)](https://github.com/wobsoriano/svelte-sonner/stargazers) - An opinionated toast component for Svelte.
+- [Ding](https://github.com/YusufCeng1z/ding) [![GitHub stars](https://img.shields.io/github/stars/YusufCeng1z/ding?style=flat)](https://github.com/YusufCeng1z/ding/stargazers) - Zero-dependency toast notifications for Svelte 5 with spring physics, where one toast stays on screen and a new call morphs it in place instead of stacking.
 
 ### Grid
 
@@ -221,6 +222,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [svesome](https://github.com/pouchlabs/svesome) [![GitHub stars](https://img.shields.io/github/stars/pouchlabs/svesome?style=flat)](https://github.com/pouchlabs/svesome/stargazers) - A fontawesome v6 icons wrapper for svelte its awesome.
 - [hugeicons](https://github.com/hugeicons/svelte) [![GitHub stars](https://img.shields.io/github/stars/hugeicons/svelte?style=flat)](https://github.com/hugeicons/svelte/stargazers) - Beautiful, production-ready icon package for Svelte with complete icon coverage.
 - [moving icons](https://github.com/jis3r/icons) [![GitHub stars](https://img.shields.io/github/stars/jis3r/icons?style=flat)](https://github.com/jis3r/icons/stargazers) - A collection of beautifully crafted, animated Lucide icons.
+- [favicons.page](https://github.com/peleda-app/favicons/tree/main/clients/js) [![GitHub stars](https://img.shields.io/github/stars/peleda-app/favicons/tree/main/clients/js?style=flat)](https://github.com/peleda-app/favicons/tree/main/clients/js/stargazers) - A `use:favicon` action that shows any website's icon as a sandboxed SVG, served by a privacy-first, self-hostable favicon service.
 
 ### Calendar
 
@@ -284,6 +286,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) [![GitHub stars](https://img.shields.io/github/stars/GantonL/templates/tree/main/sveltekit-shadcn-v5?style=flat)](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5/stargazers) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more.
 - [My SvelteKit Starter](https://github.com/moisesvalero/my-sveltekit-starter) [![GitHub stars](https://img.shields.io/github/stars/moisesvalero/my-sveltekit-starter?style=flat)](https://github.com/moisesvalero/my-sveltekit-starter/stargazers) - A production-ready SvelteKit boilerplate optimized for AI-assisted development, featuring Svelte 5 runes, Tailwind CSS v4, shadcn-svelte style components, i18n, and pre-configured agent instructions.
 - [microfolio](https://github.com/aker-dev/microfolio) [![GitHub stars](https://img.shields.io/github/stars/aker-dev/microfolio?style=flat)](https://github.com/aker-dev/microfolio/stargazers) - A static portfolio generator for creatives built with SvelteKit and Tailwind CSS 4, where content is just folders and Markdown files instead of a database, with interactive maps, EXIF metadata extraction and no tracking.
+- [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) [![GitHub stars](https://img.shields.io/github/stars/itswadesh/svelte-commerce?style=flat)](https://github.com/itswadesh/svelte-commerce/stargazers) - A headless SvelteKit storefront that connects to Shopify, WooCommerce, Medusa, Saleor, Vendure and 21 other ecommerce backends through swappable connector packages.
 
 ## Utilities
 
@@ -404,6 +407,7 @@ _Lint and format your code._
 - [svelte-jester](https://github.com/mihar-22/svelte-jester) [![GitHub stars](https://img.shields.io/github/stars/mihar-22/svelte-jester?style=flat)](https://github.com/mihar-22/svelte-jester/stargazers) - A Jest transformer to compile your components before importing them into tests.
 - [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) [![GitHub stars](https://img.shields.io/github/stars/testing-library/svelte-testing-library?style=flat)](https://github.com/testing-library/svelte-testing-library/stargazers) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
 - [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) [![GitHub stars](https://img.shields.io/github/stars/rspieker/jest-transform-svelte?style=flat)](https://github.com/rspieker/jest-transform-svelte/stargazers) - Jest Transformer for Svelte components.
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider for testing GitHub, Google and six other sign-ins in SvelteKit apps without real accounts, with a [SvelteKit guide](https://mockatoo.globalunderdog.com/docs/sveltekit) for Better Auth and Auth.js.
 
 ### Editors
 
@@ -434,3 +438,4 @@ _Text editor plugins._
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) [![GitHub stars](https://img.shields.io/github/stars/FerrisMind/oxide-lab?style=flat)](https://github.com/FerrisMind/oxide-lab/stargazers) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 - [Zephyr](https://github.com/Prismo-Studio/Zephyr) [![GitHub stars](https://img.shields.io/github/stars/Prismo-Studio/Zephyr?style=flat)](https://github.com/Prismo-Studio/Zephyr/stargazers) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.
 - [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) [![GitHub stars](https://img.shields.io/github/stars/theolundqvist/pr-cockpit?style=flat)](https://github.com/theolundqvist/pr-cockpit/stargazers) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents. Svelte 5 runes UI over a Bun server.
+- [NiceDB](https://github.com/maxib0n/NiceDB) [![GitHub stars](https://img.shields.io/github/stars/maxib0n/NiceDB?style=flat)](https://github.com/maxib0n/NiceDB/stargazers) - Desktop database client for PostgreSQL, MySQL, MongoDB, Redis and twenty other engines, with a Svelte 5 interface in a Tauri 2 shell.

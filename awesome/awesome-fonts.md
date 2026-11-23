@@ -66,6 +66,7 @@ A curated list of fonts and typography resources.
 * [Redacted](https://github.com/christiannaths/Redacted-Font) [![GitHub stars](https://img.shields.io/github/stars/christiannaths/Redacted-Font?style=flat)](https://github.com/christiannaths/Redacted-Font/stargazers) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans) [![GitHub stars](https://img.shields.io/github/stars/RoelN/SansBullshitSans?style=flat)](https://github.com/RoelN/SansBullshitSans/stargazers)
 * [Urbanist](https://github.com/coreyhu/Urbanist) [![GitHub stars](https://img.shields.io/github/stars/coreyhu/Urbanist?style=flat)](https://github.com/coreyhu/Urbanist/stargazers) - Geometric sans-serif variable font
+* [Vazirmatn Soft](https://github.com/truthofmatthew/vazirmatn-soft) [![GitHub stars](https://img.shields.io/github/stars/truthofmatthew/vazirmatn-soft?style=flat)](https://github.com/truthofmatthew/vazirmatn-soft/stargazers) - A rounded Persian and Arabic typeface based on Vazirmatn, with a variable weight axis
 * [Vigil](https://github.com/vigilantkeno/vigilfont) [![GitHub stars](https://img.shields.io/github/stars/vigilantkeno/vigilfont?style=flat)](https://github.com/vigilantkeno/vigilfont/stargazers) - A softened geometric grotesk for body copy, rounded by hierarchy rather than uniformly
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans) [![GitHub stars](https://img.shields.io/github/stars/weiweihuanghuang/Work-Sans?style=flat)](https://github.com/weiweihuanghuang/Work-Sans/stargazers)
 
@@ -177,7 +178,7 @@ A curated list of fonts and typography resources.
 
 ## JavaScript libs
 * [Beatrix](https://github.com/funbox/beatrix) [![GitHub stars](https://img.shields.io/github/stars/funbox/beatrix?style=flat)](https://github.com/funbox/beatrix/stargazers) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
-* [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
+* [Font.js](https://github.com/Pomax/Font.js) [![GitHub stars](https://img.shields.io/github/stars/Pomax/Font.js?style=flat)](https://github.com/Pomax/Font.js/stargazers)
 * [fontkit](https://github.com/devongovett/fontkit) [![GitHub stars](https://img.shields.io/github/stars/devongovett/fontkit?style=flat)](https://github.com/devongovett/fontkit/stargazers) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) [![GitHub stars](https://img.shields.io/github/stars/ecomfe/fontmin?style=flat)](https://github.com/ecomfe/fontmin/stargazers) - Font minifier
 * [Fontsource](https://github.com/fontsource/fontsource) [![GitHub stars](https://img.shields.io/github/stars/fontsource/fontsource?style=flat)](https://github.com/fontsource/fontsource/stargazers) - Self-host Open Source fonts in neatly bundled NPM packages
@@ -202,6 +203,7 @@ A curated list of fonts and typography resources.
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font) [![GitHub stars](https://img.shields.io/github/stars/alyssais/font?style=flat)](https://github.com/alyssais/font/stargazers)
+* [Ductus](https://ductus.sorenblank.com/) - Turn your own handwriting into a font right in the browser
 * [fnt](https://github.com/alexmyczko/fnt) [![GitHub stars](https://img.shields.io/github/stars/alexmyczko/fnt?style=flat)](https://github.com/alexmyczko/fnt/stargazers) - Apt for fonts, the missing font manager for macOS/linux
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge](https://github.com/fontforge/fontforge) [![GitHub stars](https://img.shields.io/github/stars/fontforge/fontforge?style=flat)](https://github.com/fontforge/fontforge/stargazers) - Cross-platform font editor

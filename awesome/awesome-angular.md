@@ -521,6 +521,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-esy-jsonapi](https://github.com/zFl4wless/ngx-esy-jsonapi) [![GitHub stars](https://img.shields.io/github/stars/zFl4wless/ngx-esy-jsonapi?style=flat)](https://github.com/zFl4wless/ngx-esy-jsonapi/stargazers) - A lightweight Angular v20+ adapter for JSON API.
 * [ngx-native-middlewares](https://github.com/dkhrunov/ngx-native-middlewares/tree/development/projects/ngx-native-middlewares) [![GitHub stars](https://img.shields.io/github/stars/dkhrunov/ngx-native-middlewares/tree/development/projects/ngx-native-middlewares?style=flat)](https://github.com/dkhrunov/ngx-native-middlewares/tree/development/projects/ngx-native-middlewares/stargazers) - Write your HTTP middleware once to cover all underlying web transports and their wrapper libraries.
 * [ng-signal-request](https://github.com/theunal/ng-signal-request) [![GitHub stars](https://img.shields.io/github/stars/theunal/ng-signal-request?style=flat)](https://github.com/theunal/ng-signal-request/stargazers) - A signal-based HTTP layer for Angular (v22+).
+* [mutation](https://github.com/ngsignal/mutation) [![GitHub stars](https://img.shields.io/github/stars/ngsignal/mutation?style=flat)](https://github.com/ngsignal/mutation/stargazers) - An Angular low-level Signal-based primitive for mutations (POST/PUT/DELETE).
 
 ### Micro Frontends
 
@@ -595,6 +596,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official Angular Skills](https://github.com/angular/skills) [![GitHub stars](https://img.shields.io/github/stars/angular/skills?style=flat)](https://github.com/angular/skills/stargazers)
 * [Official llms.txt file](https://angular.dev/llms.txt)
 * [Official llms-full.txt file](https://angular.dev/assets/context/llms-full.txt)
+* [a2ui](https://github.com/a2ui-project/a2ui) [![GitHub stars](https://img.shields.io/github/stars/a2ui-project/a2ui?style=flat)](https://github.com/a2ui-project/a2ui/stargazers) - Open-source generative UI framework that lets agents stream layout data rendered with native Angular components.
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) [![GitHub stars](https://img.shields.io/github/stars/slsfi/abbi-ng-ai-image-descriptor?style=flat)](https://github.com/slsfi/abbi-ng-ai-image-descriptor/stargazers) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 * [AGENT.md](https://ampcode.com/AGENT.md#tool-integration) - The universal agent configuration file.
 * [agentbridge](https://github.com/ayoubachak/agentbridge) [![GitHub stars](https://img.shields.io/github/stars/ayoubachak/agentbridge?style=flat)](https://github.com/ayoubachak/agentbridge/stargazers) - A framework that standardizes how AI agents discover, interact with, and control application components.
@@ -606,6 +608,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
 * [angular-nest-ai-kit](https://github.com/eusouwilson/angular-nest-ai-kit) [![GitHub stars](https://img.shields.io/github/stars/eusouwilson/angular-nest-ai-kit?style=flat)](https://github.com/eusouwilson/angular-nest-ai-kit/stargazers) - Skills and AI agents for standalone Angular + PrimeNG (frontend) and NestJS + Prisma (backend) monorepos, organized in Nx.
 * [@full-stack-skills/angular-skills](https://github.com/full-stack-skills/angular-skills) [![GitHub stars](https://img.shields.io/github/stars/full-stack-skills/angular-skills?style=flat)](https://github.com/full-stack-skills/angular-skills/stargazers) - Angular framework development skills for AI coding agents.
+* [Angular TypeScript Developer](https://github.com/dimitriskl/angular-typescript-developer) [![GitHub stars](https://img.shields.io/github/stars/dimitriskl/angular-typescript-developer?style=flat)](https://github.com/dimitriskl/angular-typescript-developer/stargazers) - Claude Code and Codex agent for typed Angular components, signals, accessibility, and frontend tests.
 * [angular-vibe-kit](https://github.com/vuanhtung10/angular-vibe-kit) [![GitHub stars](https://img.shields.io/github/stars/vuanhtung10/angular-vibe-kit?style=flat)](https://github.com/vuanhtung10/angular-vibe-kit/stargazers) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.
 * [aparté](https://github.com/apartejs/aparte) [![GitHub stars](https://img.shields.io/github/stars/apartejs/aparte?style=flat)](https://github.com/apartejs/aparte/stargazers) - AI chat UI as Web Components with an Angular wrapper: streaming Markdown, tool calls a user approves, AG-UI agents and any LLM backend.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
@@ -624,6 +627,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngAutoPilot](https://github.com/janpereira-dev/ngAutoPilot) [![GitHub stars](https://img.shields.io/github/stars/janpereira-dev/ngAutoPilot?style=flat)](https://github.com/janpereira-dev/ngAutoPilot/stargazers) - Agent-agnostic catalog of micro-skills for Angular, TypeScript, JavaScript, RxJS, testing, code quality, architecture, versioning, and quality governance workflows.
 * [ng-agentic-skills](https://github.com/L-X-T/ng-agentic-skills) [![GitHub stars](https://img.shields.io/github/stars/L-X-T/ng-agentic-skills?style=flat)](https://github.com/L-X-T/ng-agentic-skills/stargazers) - Agent skills for Angular development. The official companion repo for the [Agentic Engineering series](https://www.angulararchitects.io/blog/best-llms-for-angular/).
 * [ng-mocks-testing-skill](https://github.com/mintarasss/ng-mocks-testing-skill) [![GitHub stars](https://img.shields.io/github/stars/mintarasss/ng-mocks-testing-skill?style=flat)](https://github.com/mintarasss/ng-mocks-testing-skill/stargazers) - A collection of Claude Code skills for writing high-quality Angular unit tests with Jest and `ng-mocks`.
+* [ng-point](https://github.com/abiramcodes/ng-point) [![GitHub stars](https://img.shields.io/github/stars/abiramcodes/ng-point?style=flat)](https://github.com/abiramcodes/ng-point/stargazers) - Dev-mode Angular package for capturing LLM-ready element context via `Alt+Click`.
 * [ngx-agents-md](https://github.com/suprasannaojha/ngx-agents-md) [![GitHub stars](https://img.shields.io/github/stars/suprasannaojha/ngx-agents-md?style=flat)](https://github.com/suprasannaojha/ngx-agents-md/stargazers) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [ngx-ai](https://github.com/Arul1998/ngx-ai) [![GitHub stars](https://img.shields.io/github/stars/Arul1998/ngx-ai?style=flat)](https://github.com/Arul1998/ngx-ai/stargazers) - RxJS-friendly Angular client for OpenAI-compatible chat APIs (OpenAI, xAI Grok, or your own proxy) with first-class streaming.
 * [ngx-ai-devtools](https://github.com/ahmedkhan1/ngx-ai-devtools) [![GitHub stars](https://img.shields.io/github/stars/ahmedkhan1/ngx-ai-devtools?style=flat)](https://github.com/ahmedkhan1/ngx-ai-devtools/stargazers) -  See every prompt, response, token, and dollar your app spends without leaving the browser tab.
@@ -846,6 +850,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [JunoLint](https://github.com/Myxelium/JunoLint) [![GitHub stars](https://img.shields.io/github/stars/Myxelium/JunoLint?style=flat)](https://github.com/Myxelium/JunoLint/stargazers) - This Angular ESLint 9 configuration lints TypeScript and HTML layout, ordering, and style rules, most of which auto-fix using `eslint --fix`.
 * [angular-estree-parser](https://github.com/prettier/angular-estree-parser) [![GitHub stars](https://img.shields.io/github/stars/prettier/angular-estree-parser?style=flat)](https://github.com/prettier/angular-estree-parser/stargazers) - A parser that converts Angular template expressions and bindings into an ESTree-compatible AST.
 * [eslint-plugin-ng-perfectionist](https://github.com/ChrisAraneo/eslint-plugin-ng-perfectionist) [![GitHub stars](https://img.shields.io/github/stars/ChrisAraneo/eslint-plugin-ng-perfectionist?style=flat)](https://github.com/ChrisAraneo/eslint-plugin-ng-perfectionist/stargazers) - An ESLint plugin that enforces alphabetical sorting for Angular objects.
+* [shadcn-lint-angular](https://github.com/ChernyshovA/shadcn-lint-angular) [![GitHub stars](https://img.shields.io/github/stars/ChernyshovA/shadcn-lint-angular?style=flat)](https://github.com/ChernyshovA/shadcn-lint-angular/stargazers) - Checks Tailwind design system rules in Angular templates and suggests fixes based on your theme and component variants.
 
 ### Performance
 
@@ -1061,6 +1066,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-flow](https://github.com/danseid/ngx-signal-flow) [![GitHub stars](https://img.shields.io/github/stars/danseid/ngx-signal-flow?style=flat)](https://github.com/danseid/ngx-signal-flow/stargazers) - Manages state with Angular Signals, updates via Immer, and handles async side effects using RxJS.
 * [homeostate](https://github.com/mixedrays/homeostate) [![GitHub stars](https://img.shields.io/github/stars/mixedrays/homeostate?style=flat)](https://github.com/mixedrays/homeostate/stargazers) - Keep the store you already use in sync with any CRDT.
 * [soucouyant](https://github.com/julienetie/soucouyant) [![GitHub stars](https://img.shields.io/github/stars/julienetie/soucouyant?style=flat)](https://github.com/julienetie/soucouyant/stargazers) - A simple, framework-agnostic JavaScript state management library with optional time travel and animation support.
+* [sp00ky](https://github.com/mono424/sp00ky) [![GitHub stars](https://img.shields.io/github/stars/mono424/sp00ky?style=flat)](https://github.com/mono424/sp00ky/stargazers) - Local-first sync engine and reactive data layer for SurrealDB with optimistic updates, live queries, and offline support.
+* [chain-store](https://github.com/graverok/chain-store) [![GitHub stars](https://img.shields.io/github/stars/graverok/chain-store?style=flat)](https://github.com/graverok/chain-store/stargazers) - Event-based state manager with an Angular adapter.
 
 ## Testing
 
@@ -1540,6 +1547,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-editra](https://github.com/Khatri-Sanjay/ngx-editra) [![GitHub stars](https://img.shields.io/github/stars/Khatri-Sanjay/ngx-editra?style=flat)](https://github.com/Khatri-Sanjay/ngx-editra/stargazers) - A CKEditor-inspired rich text editor for Angular, featuring a customizable toolbar, tables, images, formatting, and extensible plugins.
 * [Sqwig](https://sqwig.com/) - Rich text editor with spellcheck built in.
 * [angular-mrydex-editor](https://github.com/MRydex/angular-mrydex-editor) [![GitHub stars](https://img.shields.io/github/stars/MRydex/angular-mrydex-editor?style=flat)](https://github.com/MRydex/angular-mrydex-editor/stargazers) - Generic, plugin-driven rich text editor built on Tiptap for Angular 21.2+.
+* [viveEditor](https://github.com/mtvrkan/viveeditor) [![GitHub stars](https://img.shields.io/github/stars/mtvrkan/viveeditor?style=flat)](https://github.com/mtvrkan/viveeditor/stargazers) - A free, open-source rich text editor that drops into any website.
 
 ### File Upload
 
@@ -1559,6 +1567,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [filestack](https://www.filestack.com/sdks/angular/) - Integrate powerful file uploads into Angular with a single command using the Filestack SDK to seamlessly ingest, process, and deliver files behind a unified provider call.
 * [ngx-bulk-uploader](https://github.com/suraj-26/ngx-bulk-uploader) [![GitHub stars](https://img.shields.io/github/stars/suraj-26/ngx-bulk-uploader?style=flat)](https://github.com/suraj-26/ngx-bulk-uploader/stargazers) - A schema-driven bulk Excel upload grid for Angular, built on `Handsontable`.
 * [ngx-photo-uploader](https://github.com/pablomillaquen/ngx-photo-uploader) [![GitHub stars](https://img.shields.io/github/stars/pablomillaquen/ngx-photo-uploader?style=flat)](https://github.com/pablomillaquen/ngx-photo-uploader/stargazers) - Standalone Angular component for uploading images via click, drag-and-drop, or camera, with built-in preview and full Reactive Forms support.
+* [PageSignal](https://www.pagesignal.studio/) - Native Angular 21 document workspace with multi-file upload, editable extracted fields, document previews, and JSON export through an application-provided backend adapter.
 
 ### Forms
 
@@ -1725,6 +1734,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [glyphflow](https://glyph-flow-zeta.vercel.app/) - Lucide icons hand-choreographed per icon and animated on the native Web Animations API — zero animation dependencies, real tree-shaking.
 * [Neural Icons](https://icons.neuralui.org/) - Compare outline and filled styles across 250 icon families to inspect details and copy code directly into your project.
 * [TanDD Icons](https://icons.tandd.dev/) - 1,440 stroke icons that turn into each other with spring physics.
+* [HubToolify](https://hubtoolify.com/docs/angular) - A standalone `<hti-icon>` component for Angular 17+, with server rendering and TypeScript types.
 
 ### Images
 
@@ -1955,6 +1965,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dialog-forge](https://github.com/HoplaGeiss/ngx-dialog-forge) [![GitHub stars](https://img.shields.io/github/stars/HoplaGeiss/ngx-dialog-forge?style=flat)](https://github.com/HoplaGeiss/ngx-dialog-forge/stargazers) - Declarative, signals-native Angular dialog library built on the native dialog element.
 * [ngx-modalieur](https://github.com/kazepis/ngx-modalieur) [![GitHub stars](https://img.shields.io/github/stars/kazepis/ngx-modalieur?style=flat)](https://github.com/kazepis/ngx-modalieur/stargazers) - Bootstrap-styled modals using Angular CDK Dialog.
 * [ngx-minimal-modal](https://github.com/ThePipeFox/ngx-minimal-modal) [![GitHub stars](https://img.shields.io/github/stars/ThePipeFox/ngx-minimal-modal?style=flat)](https://github.com/ThePipeFox/ngx-minimal-modal/stargazers) - A small, unopinionated library that provides a straightforward way to work with modals (pop-ups) in an Angular app.
+* [ngx-flyout](https://github.com/vishaalsharmaa/ngx-flyout) [![GitHub stars](https://img.shields.io/github/stars/vishaalsharmaa/ngx-flyout?style=flat)](https://github.com/vishaalsharmaa/ngx-flyout/stargazers) - An accessible side flyout panel for Angular.
 
 ### Notifications
 
@@ -2020,6 +2031,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [pdf-viewer-kit](https://github.com/AmanKrr/pdf-viewer-kit) [![GitHub stars](https://img.shields.io/github/stars/AmanKrr/pdf-viewer-kit?style=flat)](https://github.com/AmanKrr/pdf-viewer-kit/stargazers) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of `pdf.js`.
 * [rm-ng-pdf-export](https://github.com/malikrajat/rm-ng-pdf-export) [![GitHub stars](https://img.shields.io/github/stars/malikrajat/rm-ng-pdf-export?style=flat)](https://github.com/malikrajat/rm-ng-pdf-export/stargazers) - Angular library for generating and exporting ultra-high-quality PDFs from HTML content with smart page breaking and crystal-clear rendering.
 * [ngpdf](https://github.com/ngpdf/ngpdf) [![GitHub stars](https://img.shields.io/github/stars/ngpdf/ngpdf?style=flat)](https://github.com/ngpdf/ngpdf/stargazers) - Write PDFs as Angular components: pdf-* elements laid out with flexbox, paginated tables with repeating headers, page numbers and selectable text, rendered in the browser.
+* [embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) [![GitHub stars](https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer?style=flat)](https://github.com/embedpdf/embed-pdf-viewer/stargazers) - Embeddable PDF viewer for plain HTML, React, Vue, Svelte, and Angular.
 
 ### Pipes
 
@@ -2069,6 +2081,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-typed-router](https://github.com/dominicbachmann/angular-typed-router) [![GitHub stars](https://img.shields.io/github/stars/dominicbachmann/angular-typed-router?style=flat)](https://github.com/dominicbachmann/angular-typed-router/stargazers) - Type‑safe Angular navigation from a single Routes array, yielding inferred path unions and typed navigate tuples with zero codegen or runtime cost.
 * [real-router](https://github.com/greydragon888/real-router) [![GitHub stars](https://img.shields.io/github/stars/greydragon888/real-router?style=flat)](https://github.com/greydragon888/real-router/stargazers) - Data-first router for JavaScript — the most declarative router for client applications.
 * [ssgoi](https://github.com/meursyphus/ssgoi) [![GitHub stars](https://img.shields.io/github/stars/meursyphus/ssgoi?style=flat)](https://github.com/meursyphus/ssgoi/stargazers) - Animates the change between routes without taking over navigation.
+* [ngx-urlik](https://github.com/tsopeh/ngx-urlik) [![GitHub stars](https://img.shields.io/github/stars/tsopeh/ngx-urlik?style=flat)](https://github.com/tsopeh/ngx-urlik/stargazers) - Type-safe URL parameters and navigation for Angular.
 
 ### Scroll
 
@@ -2299,6 +2312,7 @@ for the creation of web applications developed with Angular.
 * [NeuralTech](https://github.com/hasanaydin7/NeuralTech) [![GitHub stars](https://img.shields.io/github/stars/hasanaydin7/NeuralTech?style=flat)](https://github.com/hasanaydin7/NeuralTech/stargazers) - AI-first, headless and Signal-native Angular UI components with machine-readable contracts.
 * [aria-ng-ui](https://github.com/phalla-doll/aria-ng-ui) [![GitHub stars](https://img.shields.io/github/stars/phalla-doll/aria-ng-ui?style=flat)](https://github.com/phalla-doll/aria-ng-ui/stargazers) - A modern, accessible Angular component library inspired by `shadcn/ui` — built with Angular-native patterns, Tailwind CSS, and accessibility-first primitives.
 * [lily-design-system](https://github.com/LilyDesignSystem/lily-design-system) [![GitHub stars](https://img.shields.io/github/stars/LilyDesignSystem/lily-design-system?style=flat)](https://github.com/LilyDesignSystem/lily-design-system/stargazers) - A free, headless design system with hundreds of accessible components across seven frameworks, complete with themes and example apps.
+* [Kirana UI](https://github.com/kirana-style/primitives) [![GitHub stars](https://img.shields.io/github/stars/kirana-style/primitives?style=flat)](https://github.com/kirana-style/primitives/stargazers) - Framework-agnostic headless components with an idiomatic Angular adapter, backed by a single core that also targets React, Vue, Svelte, Solid, and Custom Elements.
 
 ### Viewers
 

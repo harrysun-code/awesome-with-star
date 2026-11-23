@@ -262,6 +262,7 @@
 - [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
 - [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
 - [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.
+- [KosmoWorld](https://www.kosmoworld.com/) - Explore and share 3D scenes captured with Hesai's Kosmo.
 - [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
@@ -289,7 +290,6 @@
 - [Torchweave](https://torchweave.com/) - Train and publish splats using your phone.
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 - [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
-- [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 - [Voxelo](https://www.voxelo.ai/) - AI-powered studio turning product videos into realistic 3D digital twins.
 - [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
 

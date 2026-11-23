@@ -413,6 +413,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) [![GitHub stars](https://img.shields.io/github/stars/neonbjb/tortoise-tts?style=flat)](https://github.com/neonbjb/tortoise-tts/stargazers) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
 - [Bark](https://github.com/suno-ai/bark) [![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=flat)](https://github.com/suno-ai/bark/stargazers) - A transformer-based text-to-audio model. #opensource
 - [TTS WebUI](https://github.com/rsxdalv/TTS-WebUI) [![GitHub stars](https://img.shields.io/github/stars/rsxdalv/TTS-WebUI?style=flat)](https://github.com/rsxdalv/TTS-WebUI/stargazers) - Web UI for running multiple text-to-speech, music generation, and audio tools. #opensource
+- [VoiceStudio](https://voicestudio.sh/) - A local AI voice studio for speech generation, voice cloning, voice design, dubbing, and transcription. [#opensource](https://github.com/debpalash/VoiceStudio) [![GitHub stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat)](https://github.com/debpalash/VoiceStudio/stargazers)
 
 ### Speech-to-text
 
@@ -423,6 +424,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) [![GitHub stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=flat)](https://github.com/Softcatala/whisper-ctranslate2/stargazers) - A Whisper CLI client compatible with the original OpenAI client, using CTranslate2 for faster inference. [#opensource](https://github.com/Softcatala/whisper-ctranslate2) [![GitHub stars](https://img.shields.io/github/stars/Softcatala/whisper-ctranslate2?style=flat)](https://github.com/Softcatala/whisper-ctranslate2/stargazers)
 - [NeMo](https://github.com/NVIDIA-NeMo/Speech) [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Speech?style=flat)](https://github.com/NVIDIA-NeMo/Speech/stargazers) - An open-source framework by NVIDIA for building speech AI systems, including automatic speech recognition and text-to-speech. #opensource
 - [Parakeet](https://huggingface.co/collections/nvidia/parakeet-asr-659711f49d1469e51546e021) - A family of open speech recognition models by NVIDIA, including streaming and multilingual variants. #opensource
+- [Handy](https://handy.computer/) - A desktop application for offline speech transcription into text fields on Windows, macOS, and Linux. [#opensource](https://github.com/cjpais/Handy) [![GitHub stars](https://img.shields.io/github/stars/cjpais/Handy?style=flat)](https://github.com/cjpais/Handy/stargazers)
 
 ### Music
 

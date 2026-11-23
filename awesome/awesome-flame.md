@@ -162,6 +162,9 @@
 <!--lint ignore double-link-->
 - Broadside - [Android](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.broadside) - Sail a wooden ship up a sea of big-eyed creatures while the cannons fire on their own, and sink a sea monster boss at the end of every voyage. By [Illumination Development](https://illuminationdevelopment.com)
 
+<!--lint ignore double-link-->
+- Voideron - [Android](https://play.google.com/store/apps/details?id=com.teoktonos.voideron) - A twin-stick black-hole dungeon: clear all 10 levels. Offline, no ads. By [Teoktonos](https://voideron.teoktonos.com)
+
 #### Arcade
 
 <!--lint ignore double-link-->
@@ -178,6 +181,14 @@
 
 <!--lint ignore double-link-->
 - Twinglide - [Android](https://play.google.com/store/apps/details?id=com.teoktonos.twinglide) - Steer two wingsuit flyers at once, one per thumb, through an endless procedural canyon that narrows as you speed up. By [Teoktonos](https://twinglide.teoktonos.com)
+
+<!--lint ignore double-link-->
+- PaddleX - [Android](https://play.google.com/store/apps/details?id=com.grabow.paddlex) - A paddle duel across 300 levels and ten ways to play: power-ups, building, a second ball, marble runs, foosball, table ice hockey and a shooting gallery, with a champion at the end of every world and two players on one device. By [Grabow Commuter](https://paddlex.drawla.app)
+
+<!--lint ignore double-link-->
+- Hungry Fish: Eat, Grow, Evolve - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.hungryfish) - A fish-eat-fish game: grow through 13 evolution stages across 11 ocean worlds and beat a giant boss in each. By [NewAgeDevs](https://newagedevs.com)
+
+- Egg Beat! - [Android](https://play.google.com/store/apps/details?id=com.luciosoft.eggbeat&hl=en), [iOS](https://apps.apple.com/app/id6833969842) - A physics-based rhythm arcade game where you balance a tray on your head to catch falling eggs, pack cartons, dodge bombs, and master themed worlds with unique hazards plus a Daily Doodle challenge. By [LucioSoft](https://github.com/adlucio87) [![GitHub stars](https://img.shields.io/github/stars/adlucio87?style=flat)](https://github.com/adlucio87/stargazers)
 
 #### Board
 
@@ -277,6 +288,17 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - [Pixelado](https://g4me.info/pixelado?utm_source=flame-awesome) - A Pixel art focused match-3 puzzle game for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
 
+- Arrow Duel - [Android](https://play.google.com/store/apps/details?id=com.binduintelligence.arrowduel) - An arrow-escape puzzle where every level is a turn-based duel against a computer rival: clear your arrows first without opening the way for theirs. 100 levels, bosses, a League and a Daily Challenge. By [jeshan-coder](https://github.com/jeshan-coder) [![GitHub stars](https://img.shields.io/github/stars/jeshan-coder?style=flat)](https://github.com/jeshan-coder/stargazers)
+
+<!--lint ignore double-link-->
+- Arrow Rush: Untangle Puzzle - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.arrow_rush), [iOS](https://apps.apple.com/app/id6797708666) - Tap the arrows off the board in the right order. Every level is generated to be solvable, with a boss board every tenth level. By [NewAgeDevs](https://newagedevs.com)
+
+<!--lint ignore double-link-->
+- Cars to Rockets: Parking Jam - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.carstorockets), [iOS](https://apps.apple.com/app/id6827221344) - A parking-jam puzzle with 1,600 solver-checked levels across eight worlds, from a city car park to the snowy peaks. By [NewAgeDevs](https://newagedevs.com)
+
+<!--lint ignore double-link-->
+- Jelly Float: Merge & Evolve - [Android](https://play.google.com/store/apps/details?id=com.newagedevs.jellyverse), [iOS](https://apps.apple.com/app/id6820272178) - Launch jellyfish, let them float up and merge into bigger ones, with a daily challenge. By [NewAgeDevs](https://newagedevs.com)
+
 #### Role Playing
 
 <!--lint ignore double-link-->
@@ -305,6 +327,7 @@ By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
 - Mortigen - [Android](https://play.google.com/store/apps/details?id=com.ler.mortigen), [iOS](https://apps.apple.com/us/app/mortigen/id6761758806) - A top-down auto-fire survival shooter where Dr. Luisen survives a biopharma outbreak through procedural labs, escalating hordes, and upgrade-driven builds. By [Luis Enrique Ruiz](https://koldo92.github.io/mortigen/).
+- Grim Hand - [Android](https://play.google.com/store/apps/details?id=com.andreyrub.grim_hand), [iOS](https://apps.apple.com/us/app/grim-hand-roguelike-deck-rpg/id6791943856) - A turn-based dark fantasy roguelike deckbuilder where your cards come from your weapon and shield. By [HedgeCat Studios](https://hedgecatstudios.com/)
 
 #### Simulation
 

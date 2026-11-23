@@ -939,6 +939,7 @@ _Libraries for parsing and manipulating plain text._
   - [pygments](https://github.com/pygments/pygments) [![GitHub stars](https://img.shields.io/github/stars/pygments/pygments?style=flat)](https://github.com/pygments/pygments/stargazers) - A generic syntax highlighter.
   - [pyparsing](https://github.com/pyparsing/pyparsing) [![GitHub stars](https://img.shields.io/github/stars/pyparsing/pyparsing?style=flat)](https://github.com/pyparsing/pyparsing/stargazers) - A Python library for creating PEG parsers.
   - [sqlparse](https://github.com/andialbrecht/sqlparse) [![GitHub stars](https://img.shields.io/github/stars/andialbrecht/sqlparse?style=flat)](https://github.com/andialbrecht/sqlparse/stargazers) - A non-validating SQL parser.
+  - [sqlglot](https://github.com/tobymao/sqlglot) [![GitHub stars](https://img.shields.io/github/stars/tobymao/sqlglot?style=flat)](https://github.com/tobymao/sqlglot/stargazers) - A no-dependency SQL parser, transpiler, optimizer, and engine.
   - [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) [![GitHub stars](https://img.shields.io/github/stars/daviddrysdale/python-phonenumbers?style=flat)](https://github.com/daviddrysdale/python-phonenumbers/stargazers) - Parsing, formatting, storing and validating international phone numbers.
   - [parsy](https://github.com/python-parsy/parsy) [![GitHub stars](https://img.shields.io/github/stars/python-parsy/parsy?style=flat)](https://github.com/python-parsy/parsy/stargazers) - Easy, generic parser combinator library for creating parsers.
 - Transliteration and Slugs
@@ -1063,6 +1064,7 @@ _Awesome game development libraries._
   - [pygame-ce](https://github.com/pygame-community/pygame-ce) [![GitHub stars](https://img.shields.io/github/stars/pygame-community/pygame-ce?style=flat)](https://github.com/pygame-community/pygame-ce/stargazers) - An actively developed drop-in replacement with new features and performance improvements ([pygame](https://github.com/pygame/pygame) [![GitHub stars](https://img.shields.io/github/stars/pygame/pygame?style=flat)](https://github.com/pygame/pygame/stargazers) fork).
   - [pygame](https://github.com/pygame/pygame) [![GitHub stars](https://img.shields.io/github/stars/pygame/pygame?style=flat)](https://github.com/pygame/pygame/stargazers) - Pygame is a set of Python modules designed for writing games.
   - [arcade](https://github.com/pythonarcade/arcade) [![GitHub stars](https://img.shields.io/github/stars/pythonarcade/arcade?style=flat)](https://github.com/pythonarcade/arcade/stargazers) - An easy-to-use library for creating 2D arcade games.
+  - [pyxel](https://github.com/kitao/pyxel) [![GitHub stars](https://img.shields.io/github/stars/kitao/pyxel?style=flat)](https://github.com/kitao/pyxel/stargazers) - Retro game engine with built-in pixel art, tilemap, sound and music editors.
 - Visual Novels
   - [renpy](https://github.com/renpy/renpy) [![GitHub stars](https://img.shields.io/github/stars/renpy/renpy?style=flat)](https://github.com/renpy/renpy/stargazers) - A visual novel engine.
 

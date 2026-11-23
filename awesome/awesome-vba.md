@@ -30,7 +30,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
       - [Dictionary](#dictionary)
     - [Math libraries](#math-libraries)
     - [Database tools](#database-tools)
-    - [Userform tools](#userform-tools)
+    - [UI / UserForm tools](#ui--userform-tools)
     - [Image tools](#image-tools)
     - [Low level tools](#low-level-tools)
     - [Encryption](#encryption)
@@ -146,8 +146,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_by]](#- 'Kevin Nowaczyk') ![GHStars](https://img.shields.io/github/stars/Beakerboy/VBA-SQL-Library?style&logo=github&label) [SQL Library](https://github.com/Beakerboy/VBA-SQL-Library) - An OOP SQL Library for psql, mssql, mysql databases.
 
-### Userform tools
+### UI / UserForm tools
 
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![o_by]](#- 'William Smith') ![GHStars](https://img.shields.io/github/stars/WilliamSmithEdward/ReDim?style&logo=github&label) [ReDim](https://github.com/WilliamSmithEdward/ReDim) - Worksheet UI components, state bindings, and cooperative async tasks for Windows x64 Microsoft 365 Excel. Requires ROneCOne.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_by]](#- 'fafalone') ![GHStars](https://img.shields.io/github/stars/fafalone/cTaskDialog64?style&logo=github&label) [Task Dialog](https://github.com/fafalone/cTaskDialog64) - A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see [vbforums](https://www.vbforums.com/showthread.php?777021-VB6-TaskDialogIndirect-Complete-class-implementation-of-Vista-Task-Dialogs) post for more information.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_by]](#- 'fafalone') ![GHStars](https://img.shields.io/github/stars/fafalone/ucSimplePlayer?style&logo=github&label) [![o_dll]](#- 'Requires external OCX') [ucSimplePlayer](https://github.com/fafalone/ucSimplePlayer) - Simple video player user control.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_by]](#- 'fafalone') ![GHStars](https://img.shields.io/github/stars/fafalone/ucWebView2?style&logo=github&label) [![o_dll]](#- 'Requires external OCX') [ucWebView2](https://github.com/fafalone/ucWebView2) - WebView2 user control.
@@ -276,6 +277,8 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Games / Fun projects
 
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![o_paid]](#- 'Free download; optional payment') [![o_by]](#- 'Cookie#Soft') [Lemmings for Excel](https://cookiesoft.itch.io/lemmings-for-excel) - Cell-based Lemmings recreation with random maps, specialist units and shareable level codes; VBA source is accessible.
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![o_by]](#- 'Dynamic Pear') [Excel FPS Survival](https://storyteller-blog.com/2026/06/05/i-made-a-3d-fps-game-in-excel-free-download/) - A raycasting survival FPS rendered with MSForms label controls rather than GDI drawing calls.
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Space Shooter](https://www.reddit.com/r/vba/comments/1wmrczg/excel_i_built_a_120_fps_space_shooter_in_pure_vba/) - A 120 FPS 2D space shooter in pure VBA and WinAPI GDI. Also check out the [video](https://youtu.be/xpXRNlfyqXk).
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![o_by]](#- 'DylanTallchiefGit') ![GHStars](https://img.shields.io/github/stars/DylanTallchiefGit/xlStudio?style&logo=github&label) [xlStudio](https://github.com/DylanTallchiefGit/xlStudio) - A DAW for Microsoft Excel. Also check out the awesome [video](https://youtu.be/RFdCM2kHL64).
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![o_by]](#- 's0lly') [Cellivization](https://s0lly.itch.io/cellivization) - A cool RTS-like game created in Excel. Also check out the awesome [video](https://www.youtube.com/watch?v=PzETBRcr_i8).
@@ -295,6 +298,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_mac]](#-) [![o_by]](#- 'Kevin Nowaczyk') ![GHStars](https://img.shields.io/github/stars/Beakerboy/MS-OVBA?style&logo=github&label) [![a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35).
 - [![p_win]](#-) [![p_nom]](#-) [![o_paid]](#- 'Will be licensed') [![o_dll]](#- 'Uses an external exe') [WinVBA](https://winvba.com/) - A modern IDE for Visual Basic for Applications (VBA) development.
 - [![p_win]](#-) [![p_nom]](#-) [![o_dll]](#- 'Uses an external exe') [![o_by]](#- 'John') [VBE_Colours](https://www.thevbahelp.com/vbe-colours) - A small external utility to configure the colours of the VBE editor. Not open-source, but [its Github presence provides additional information](https://github.com/john-tvh/VBE_Colours) [![GitHub stars](https://img.shields.io/github/stars/john-tvh/VBE_Colours?style=flat)](https://github.com/john-tvh/VBE_Colours/stargazers).
+- [![p_win]](#-) [![p_nom]](#-) [![a_misc]](#- 'VB6') [![o_inst]](#- 'pip install') ![GHStars](https://img.shields.io/github/stars/47Hunter47/vb6decompiler?style&logo=github&label) [vb6decompiler](https://github.com/47Hunter47/vb6decompiler) - Recovers structure from native-compiled VB6 binaries, with measured coverage.
 
  
 ## Style Guides
@@ -436,4 +440,4 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](./Contributing.md) first.
+Your contributions are always welcome! Please take a look at the [curation guidelines](./CURATION.md) for what belongs here and the [contribution guidelines](./Contributing.md) for how to submit an entry.

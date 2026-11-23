@@ -22,6 +22,7 @@ Reducing the potential negative effects of technology on society.
 - [Children & AI Design Code](https://5rightsfoundation.com/resource/children-ai-design-code/) - a process to identify, evaluate, and mitigate the known risks of AI to children and prepare for the known unknowns. The 5rights Foundation have also published [Tick to Agree – Age appropriate presentation of published terms](https://5rightsfoundation.com/resource/tick-to-agree-age-appropriate-presentation-of-published-terms/).
 - [Civic AI - 6-Pack of Care](https://civic.ai) - AI alignment that asks who gets heard, who is accountable, how failures are repaired, and when a system should stop. Alignment is not solved once. It is maintained in public.
 - [Consequence Scanning](https://www.tech-transformed.com/product-development/) - A new agile event that fits into an iterative development cadence. A way to think about the potential impact of a product or service on people and society early on in the development cycle.
+- [Design with Human Data Kit](https://designhumandata.net) - A free workshop kit for product teams to decide which personal data they need, what people get in return, and what happens when automated decisions go wrong.
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - Activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
 - [Permacomputing design principles](https://permacomputing.net/Principles/) - Permacomputing is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture.
 <!--lint disable no-repeat-punctuation-->
@@ -52,7 +53,7 @@ Reducing the potential negative effects of technology on society.
 - [All Tech Is Human](https://alltechishuman.org/) - Bringing together people, organizations, and ideas to tackle wicked tech & society issues and co-create a tech future aligned with the public interest.
 - [Center for Humane Technology](https://www.humanetech.com/) - Envisioning a world with technology that respects our attention, improves our well-being, and strengthens communities.
 - [The Design Justice Network](https://designjustice.org/) - A home for people who are committed to embodying and practicing the [Design Justice Network Principles](https://designjustice.org/principles).
-- [The Distributed AI Research Institute](https://www.dair-institute.org/) - The Distributed AI Research Institute is a space for independent, community-rooted AI research, free from Big Tech's pervasive influence.
+- [The Distributed AI Research Institute](https://www.dair-institute.org/) - A space for independent, community-rooted AI research, free from Big Tech's pervasive influence.
 - [Foxglove](https://www.foxglove.org.uk) - We stand up to tech giants and governments and for a future where technology is used to benefit everyone, not just the rich and powerful.
 - [The Minderoo Centre for Technology and Democracy](https://www.mctd.ac.uk) - An independent team of researchers at the University of Cambridge who are radically rethinking the power relationships between digital technologies, society, and our planet.
 - [Omidyar Network: Responsible Technology](http://omidyar.com/responsible-technology-2/) - Social change venture that reimagines critical systems, and the ideas that govern them, to build more inclusive and equitable societies. Responsible technology is one of its three key focus areas.
@@ -62,8 +63,8 @@ Reducing the potential negative effects of technology on society.
 ## Company-specific
 
 - [Amazon Employees for Climate Justice](https://www.amazonclimatejustice.org) - Amazon employees applying pressure on Amazon to redefine what it means to be a responsible company in the era of the climate crisis.
-- [No Tech For Apartheid](https://www.notechforapartheid.com) - a worker-led campaign of Google and Amazon workers organizing against the companies' $1B Project Nimbus cloud computing contract with the Israeli government and military (see also [No Azure for Apartheid](https://noazureforapartheid.com)).
-- [No Tech for ICE](https://notechforice.com) - fighting against the tech corporations fueling ICE disappearances, raids and the growing surveillance state.
+- [No Tech For Apartheid](https://www.notechforapartheid.com) - A worker-led campaign of Google and Amazon workers organizing against the companies' $1B Project Nimbus cloud computing contract with the Israeli government and military (see also [No Azure for Apartheid](https://noazureforapartheid.com)).
+- [No Tech for ICE](https://notechforice.com) - Fighting against the tech corporations fueling ICE disappearances, raids and the growing surveillance state.
 
 ## See also
 
@@ -72,6 +73,6 @@ Reducing the potential negative effects of technology on society.
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software) [![GitHub stars](https://img.shields.io/github/stars/Green-Software-Foundation/awesome-green-software?style=flat)](https://github.com/Green-Software-Foundation/awesome-green-software/stargazers)
 - [Awesome Permacomputing](https://github.com/idematos/awesome-permacomputing) [![GitHub stars](https://img.shields.io/github/stars/idematos/awesome-permacomputing?style=flat)](https://github.com/idematos/awesome-permacomputing/stargazers)
 - [Awesome tech for good](https://github.com/TechforgoodCAST/awesome-techforgood) [![GitHub stars](https://img.shields.io/github/stars/TechforgoodCAST/awesome-techforgood?style=flat)](https://github.com/TechforgoodCAST/awesome-techforgood/stargazers)
-- [Deceptive Patterns](https://www.deceptive.design) - cataloging and exposing tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.
+- [Deceptive Patterns](https://www.deceptive.design) - Cataloging and exposing tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.
 - The ["Digital Rights & Ethics" section of the Green Web Syllabus](https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection)
 - [Organize.fyi](https://organize.fyi/)

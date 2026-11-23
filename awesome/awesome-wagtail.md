@@ -58,6 +58,7 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 
 - [Wagtail CRX (CodeRed Extensions)](https://github.com/coderedcorp/coderedcms) [![GitHub stars](https://img.shields.io/github/stars/coderedcorp/coderedcms?style=flat)](https://github.com/coderedcorp/coderedcms/stargazers) - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
 - [Puput](https://github.com/APSL/puput) [![GitHub stars](https://img.shields.io/github/stars/APSL/puput?style=flat)](https://github.com/APSL/puput/stargazers) - A Django blog app implemented in Wagtail.
+- [Commentail](https://github.com/hardcodd/Commentail) [![GitHub stars](https://img.shields.io/github/stars/hardcodd/Commentail?style=flat)](https://github.com/hardcodd/Commentail/stargazers) - Self-hosted comments for Wagtail with moderation, email-verified guests and threaded replies.
 
 ### Rich text editor extensions
 
@@ -159,6 +160,7 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 - [wagtail-pdf-view](https://github.com/donhauser/wagtail-pdf) [![GitHub stars](https://img.shields.io/github/stars/donhauser/wagtail-pdf?style=flat)](https://github.com/donhauser/wagtail-pdf/stargazers) - PDF rendering views for the Wagtail CMS.
 - [Wagtail Grapple](https://github.com/torchbox/wagtail-grapple) [![GitHub stars](https://img.shields.io/github/stars/torchbox/wagtail-grapple?style=flat)](https://github.com/torchbox/wagtail-grapple/stargazers) - A Wagtail app that makes building GraphQL endpoints a breeze.
 - [Wagtail Cache Invalidator](https://github.com/vicktornl/wagtail-cache-invalidator) [![GitHub stars](https://img.shields.io/github/stars/vicktornl/wagtail-cache-invalidator?style=flat)](https://github.com/vicktornl/wagtail-cache-invalidator/stargazers) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
+- [wagtail-subscriptions](https://github.com/mojnomiya/wagtail_subscriptions) [![GitHub stars](https://img.shields.io/github/stars/mojnomiya/wagtail_subscriptions?style=flat)](https://github.com/mojnomiya/wagtail_subscriptions/stargazers) - Subscription management system for Wagtail CMS with Stripe integration, feature-based access control, and multi-tenant support.
 
 ## Tools
 

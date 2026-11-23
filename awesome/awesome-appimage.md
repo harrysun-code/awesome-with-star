@@ -163,6 +163,7 @@ New to making AppImages? Start with the [packaging guide](https://docs.appimage.
 - [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) [![GitHub stars](https://img.shields.io/github/stars/probonopd/linuxdeployqt?style=flat)](https://github.com/probonopd/linuxdeployqt/stargazers) - Deploys dependencies into AppDirs and creates AppImages; for Qt and other compiled applications.
 - [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) [![GitHub stars](https://img.shields.io/github/stars/linuxdeploy/linuxdeploy?style=flat)](https://github.com/linuxdeploy/linuxdeploy/stargazers) - AppDir creation and maintenance tool using plugins.
 - [XojoToAppImage](https://github.com/AlwaysOfflineSoftware/XojoToAppImage) [![GitHub stars](https://img.shields.io/github/stars/AlwaysOfflineSoftware/XojoToAppImage?style=flat)](https://github.com/AlwaysOfflineSoftware/XojoToAppImage/stargazers) - Graphical tool for packaging compiled Xojo Linux programs into AppImages.
+- [AppImage Packaging](https://github.com/AppImageCommunity/AppImagePackaging) [![GitHub stars](https://img.shields.io/github/stars/AppImageCommunity/AppImagePackaging?style=flat)](https://github.com/AppImageCommunity/AppImagePackaging/stargazers) - Skills for Claude and other coding agents (Codex, Cursor, OpenCode, ...) that package Linux applications as self-contained AppImages, build and publish them from GitHub Actions, and verify and troubleshoot them on other distributions.
 
 ### Deployment tools for Python applications
 

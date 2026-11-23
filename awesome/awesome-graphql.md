@@ -135,6 +135,7 @@
 - [gqty](https://github.com/gqty-dev/gqty) [![GitHub stars](https://img.shields.io/github/stars/gqty-dev/gqty?style=flat)](https://github.com/gqty-dev/gqty/stargazers) - No-query-language GraphQL client for TypeScript.
 - [genql](https://github.com/remorses/genql) [![GitHub stars](https://img.shields.io/github/stars/remorses/genql?style=flat)](https://github.com/remorses/genql/stargazers) - Type safe TypeScript client for any GraphQL API.
 - [zodql](https://github.com/mattiasahlsen/zodql) [![GitHub stars](https://img.shields.io/github/stars/mattiasahlsen/zodql?style=flat)](https://github.com/mattiasahlsen/zodql/stargazers) - Type-safe GraphQL client that uses Zod schemas as the single source of truth to build queries, infer response types, and validate responses at runtime.
+- [HyperFetch](https://github.com/BetterTyped/hyper-fetch) [![GitHub stars](https://img.shields.io/github/stars/BetterTyped/hyper-fetch?style=flat)](https://github.com/BetterTyped/hyper-fetch/stargazers) - Type-safe data fetching framework whose GraphQL adapter sends typed queries and mutations over HTTP and subscriptions over WebSocket, with caching, retries, and React hooks.
 
 ##### Frontend Framework Integrations
 

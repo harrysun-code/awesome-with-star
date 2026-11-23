@@ -68,6 +68,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 	- [Build Systems](#build-systems)
 	- [Static Code Analysis](#static-code-analysis)
 	- [Coding Style Tools](#coding-style-tools)
+	- [Formal Verification](#formal-verification)
 - [Resources](#resources)
 	- [API Design](#api-design)
 	- [Articles](#articles)
@@ -1240,6 +1241,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [protobuf](https://github.com/protocolbuffers/protobuf) [![GitHub stars](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat)](https://github.com/protocolbuffers/protobuf/stargazers) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) [![GitHub stars](https://img.shields.io/github/stars/protobuf-c/protobuf-c?style=flat)](https://github.com/protobuf-c/protobuf-c/stargazers) - Protocol Buffers implementation in C. [BSD]
 * [Protocol Puffers](https://github.com/PragmaTwice/protopuf) [![GitHub stars](https://img.shields.io/github/stars/PragmaTwice/protopuf?style=flat)](https://github.com/PragmaTwice/protopuf/stargazers) - A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20. [Apache-2.0]
+* [RapidProto](https://github.com/VeaaC/rapidproto) [![GitHub stars](https://img.shields.io/github/stars/VeaaC/rapidproto?style=flat)](https://github.com/VeaaC/rapidproto/stargazers) - A fast Protocol Buffers decoder generator for C++ and Rust. [Apache-2.0]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) [![GitHub stars](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat)](https://github.com/real-logic/simple-binary-encoding/stargazers) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 * [upb](https://github.com/protocolbuffers/upb) [![GitHub stars](https://img.shields.io/github/stars/protocolbuffers/upb?style=flat)](https://github.com/protocolbuffers/upb/stargazers) - A small protobuf implementation in C. [BSD]
 * [Wirehair](https://github.com/catid/wirehair) [![GitHub stars](https://img.shields.io/github/stars/catid/wirehair?style=flat)](https://github.com/catid/wirehair/stargazers) - O(N) Fountain Code for Large Data. [BSD-3-Clause]
@@ -1585,6 +1587,13 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles across different editors and IDEs.
 * [Uncrustify](https://github.com/uncrustify/uncrustify) [![GitHub stars](https://img.shields.io/github/stars/uncrustify/uncrustify?style=flat)](https://github.com/uncrustify/uncrustify/stargazers) - Code beautifier.
 
+## Formal Verification
+*Tools for formal verification and model checking C++ code.*
+
+* [CppVerify](https://swayaminsync.github.io/cpp-verify/) - Extending C++ to support Program Verification using SMT solvers. [Apache2]
+* [Frama-Clang](https://frama-c.com/fc-plugins/frama-clang.html) - C++ front-end to [Frama-C](https://www.frama-c.com/), based on the clang compiler. [LGPL]
+* [ESBMC](https://esbmc.github.io/) - The efficient SMT-based context-bounded model checker (ESBMC). [Apache2/BSD-4-Clause]
+ 
 # Resources
 *Various resources, such as books, websites, and articles for improving your C++ development skills and knowledge.*
 

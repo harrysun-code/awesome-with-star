@@ -63,6 +63,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 ### Multimedia
 
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface 📌.
+- [Chordist](https://github.com/RitwickVerma/chordist) [![GitHub stars](https://img.shields.io/github/stars/RitwickVerma/chordist?style=flat)](https://github.com/RitwickVerma/chordist/stargazers) - A Plasma 6 widget that shows the chords, tab, synced lyrics and fingerings for whatever is playing, in step with the song.
 - [Elisa](https://elisa.kde.org/) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
 - [Haruna](https://invent.kde.org/multimedia/haruna) - Open source video player built with Qt/QML and libmpv 📌.
 - [KCast](https://github.com/Agundur-KDE/KCast) [![GitHub stars](https://img.shields.io/github/stars/Agundur-KDE/KCast?style=flat)](https://github.com/Agundur-KDE/KCast/stargazers) - A Plasma 6 widget to cast video files or YouTube URLs to a Chromecast device.
@@ -104,6 +105,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
 - [dictee](https://github.com/rcspam/dictee) [![GitHub stars](https://img.shields.io/github/stars/rcspam/dictee?style=flat)](https://github.com/rcspam/dictee/stargazers) - Push-to-talk voice dictation with KDE Plasma 6 plasmoid, PyQt6 setup wizard, and tray icon. 4 ASR backends (Parakeet, Vosk, Whisper, Canary), post-processing pipeline, translation. 100% local, 25+ languages.
+- [dotplasma](https://github.com/A-Murchison/dotplasma) [![GitHub stars](https://img.shields.io/github/stars/A-Murchison/dotplasma?style=flat)](https://github.com/A-Murchison/dotplasma/stargazers) - A CLI to back up, compare, import, and restore KDE Plasma configurations.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) [![GitHub stars](https://img.shields.io/github/stars/Maldela/fancontrol-gui?style=flat)](https://github.com/Maldela/fancontrol-gui/stargazers) - GUI for fancontrol which is part of lm_sensors.
 - [KDE Wallet Manager](https://invent.kde.org/utilities/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.

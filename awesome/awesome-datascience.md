@@ -27,6 +27,8 @@ $ brew install academic
 
 ## Sponsors
 
+[![Hangar: run AI coding agents in a macOS, Linux or Windows VM on your Mac](https://raw.githubusercontent.com/baseguard/hangar/main/docs/assets/banner.gif)](https://hangar.bot/?utm_source=github&utm_medium=sponsorship&utm_campaign=hangar_launch&utm_content=awesome_datascience_banner)
+
 [![Creavit Studio: recording, editing, and motion in one app](https://raw.githubusercontent.com/creavit-studio/files/refs/heads/main/static/crvt-banner.png)](https://creavit.studio/?utm_source=github&utm_medium=sponsorship&utm_campaign=creavit_founding_alpha&utm_content=crvt_banner)
 
 [![Graphyn: visualize specialized agent workflows](https://raw.githubusercontent.com/fuego-wtf/graphyn-code/main/assets/graphyn-agent-workflows.png)](https://graphyn.ai/?utm_source=github&utm_medium=sponsorship&utm_campaign=graphyn_founding_alpha&utm_content=awesome_datascience_banner)
@@ -865,7 +867,6 @@ This section includes some additional reading material, channels to watch, and t
 - [NYC Taxi Visualization Blog](https://chriswhong.github.io/nyctaxi/)
 - [Data-Mania](https://www.data-mania.com/)
 - [Data-Magnum](https://data-magnum.com/)
-- [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](https://www.tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
 - [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said's science blog
@@ -1124,6 +1125,8 @@ Some data mining competition platforms
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                 | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets
+- [openradar research dataset](https://openradar.fun/research) - Live and monthly frozen pay medians for IT jobs and freelance orders (CC BY 4.0), with methodology and CSV/JSON downloads.
+
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [WhatFontIs-Bench](https://github.com/whatfontis/WhatFontIs-Bench) [![GitHub stars](https://img.shields.io/github/stars/whatfontis/WhatFontIs-Bench?style=flat)](https://github.com/whatfontis/WhatFontIs-Bench/stargazers) - Synthetic benchmark for font family identification with 11,995 images of words set in 600 known fonts, annotated with word and per-letter boxes.
@@ -1207,7 +1210,7 @@ Some data mining competition platforms
 - [latamdata-py](https://github.com/juanmoisesd/latamdata-py) [![GitHub stars](https://img.shields.io/github/stars/juanmoisesd/latamdata-py?style=flat)](https://github.com/juanmoisesd/latamdata-py/stargazers) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 - [ZipCheckup](https://github.com/artakulov/us-water-quality-data) [![GitHub stars](https://img.shields.io/github/stars/artakulov/us-water-quality-data?style=flat)](https://github.com/artakulov/us-water-quality-data/stargazers) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
 - [Helium](https://heliumtrades.com/mcp-page/) - Real-time news corpus with structured bias features across 15+ dimensions (3.2M+ articles, 5,000+ sources), live financial market data (stocks, ETFs, crypto) with AI-generated analysis, ML options pricing with probability metrics and full Greeks, historical options chain data for quantitative research; available via MCP server or REST API.
-- [Verified Supplement Evidence](https://github.com/erinheit451/verified-supplement-evidence) [![GitHub stars](https://img.shields.io/github/stars/erinheit451/verified-supplement-evidence?style=flat)](https://github.com/erinheit451/verified-supplement-evidence/stargazers) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
+- [Verified Supplement Evidence](https://huggingface.co/datasets/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement dataset covering dosing, bioavailability by form, drug-nutrient interactions, NHANES deficiency prevalence, FDA FAERS adverse-event signals, and cost-per-effective-dose, with every clinical claim citing a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 - [US Provider Industry Payments](https://github.com/npiwho/us-provider-payments) [![GitHub stars](https://img.shields.io/github/stars/npiwho/us-provider-payments?style=flat)](https://github.com/npiwho/us-provider-payments/stargazers) - 1.65M US healthcare providers joined by NPI to the drug and device company payments reported to them in CMS Open Payments (2019-2025): total, payment count, largest payer and payment type, with state and specialty rollups. Gzipped CSV, no login, CC0, Zenodo DOI 10.5281/zenodo.23098004.
 - [US Tariff Data](https://github.com/checkdutyrates/us-tariff-data) [![GitHub stars](https://img.shields.io/github/stars/checkdutyrates/us-tariff-data?style=flat)](https://github.com/checkdutyrates/us-tariff-data/stargazers) - The US Harmonized Tariff Schedule (about 30,000 lines with rates), chapter 99 additional duties by country (Section 301, 232 and others) and EU import duties by HS subheading and origin, refreshed with each HTS revision. CSV and JSON, no login, CC0 (US data) and OGL v3 (EU data), Zenodo DOI 10.5281/zenodo.23093989.
 - [Tour Group Headset and Loudspeaker Rules](https://huggingface.co/datasets/first-point/tour-group-headset-rules) - 198 written rules from 36 countries on how guided tour groups may be heard at museums, palaces, archaeological sites and historic city centres (headset requirements, loudspeaker bans), each checked against its official source. CSV and JSONL, CC-BY-4.0.

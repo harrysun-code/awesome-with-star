@@ -305,6 +305,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [mrwatts88/ghost.nvim](https://github.com/mrwatts88/ghost.nvim) [![GitHub stars](https://img.shields.io/github/stars/mrwatts88/ghost.nvim?style=flat)](https://github.com/mrwatts88/ghost.nvim/stargazers) - Write a question using a comment starting with `?` to get a response from your favourite LLM via virtual text.
 - [kova1max/float-claude.nvim](https://github.com/kova1max/float-claude.nvim) [![GitHub stars](https://img.shields.io/github/stars/kova1max/float-claude.nvim?style=flat)](https://github.com/kova1max/float-claude.nvim/stargazers) - Ask Claude Code about the current file or selection from a popup, using the `claude` CLI subscription instead of an API key.
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) [![GitHub stars](https://img.shields.io/github/stars/vshulcz/deja-vu?style=flat)](https://github.com/vshulcz/deja-vu/stargazers) - Local session search, line-level blame, and cross-agent handoff via Snacks, Telescope, or `fzf-lua`.
+- [~foosoft/boomer.nvim](https://git.sr.ht/~foosoft/boomer.nvim) - Minimalist agent chat buffer for Codex and ACP agents such as Copilot CLI, Gemini CLI, and Claude Agent.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -450,6 +451,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) [![GitHub stars](https://img.shields.io/github/stars/acidsugarx/babel.nvim?style=flat)](https://github.com/acidsugarx/babel.nvim/stargazers) - Translate text using Google Translate with async support, float display, and multi-picker integration.
 - [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) [![GitHub stars](https://img.shields.io/github/stars/noir4y/comment-translate.nvim?style=flat)](https://github.com/noir4y/comment-translate.nvim/stargazers) - Translate code comments and strings using online as well as local LLMs or external translators.
 - [Imngzx/jisho.nvim](https://github.com/Imngzx/jisho.nvim) [![GitHub stars](https://img.shields.io/github/stars/Imngzx/jisho.nvim?style=flat)](https://github.com/Imngzx/jisho.nvim/stargazers) - Japanese dictionary, powered by `jisho.org`.
+- [refine-sh/refine.nvim](https://github.com/refine-sh/refine.nvim) [![GitHub stars](https://img.shields.io/github/stars/refine-sh/refine.nvim?style=flat)](https://github.com/refine-sh/refine.nvim/stargazers) - Grammar and fluency checks with a local LLM, powered by the `Refine` app for macOS.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1304,6 +1306,7 @@ then it is not supported:
 - [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 - [pewpewnor/dove.nvim](https://github.com/pewpewnor/dove.nvim) [![GitHub stars](https://img.shields.io/github/stars/pewpewnor/dove.nvim?style=flat)](https://github.com/pewpewnor/dove.nvim/stargazers) - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
 - [trimclain/builder.nvim](https://github.com/trimclain/builder.nvim) [![GitHub stars](https://img.shields.io/github/stars/trimclain/builder.nvim?style=flat)](https://github.com/trimclain/builder.nvim/stargazers) - Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.
+- [cxwx/rslime.nvim](https://github.com/cxwx/rslime.nvim) [![GitHub stars](https://img.shields.io/github/stars/cxwx/rslime.nvim?style=flat)](https://github.com/cxwx/rslime.nvim/stargazers) - Slime-style REPL for the CERN ROOT C++ interpreter (Cling); send `// %%` cells to `root -l`, with kernel restart, `.undo`, and `THttpServer` inspection.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1744,6 +1747,7 @@ then it is not supported:
 - [uhs-robert/sshfs.nvim](https://github.com/uhs-robert/sshfs.nvim) [![GitHub stars](https://img.shields.io/github/stars/uhs-robert/sshfs.nvim?style=flat)](https://github.com/uhs-robert/sshfs.nvim/stargazers) - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
 - [nosduco/remote-sshfs.nvim](https://github.com/nosduco/remote-sshfs.nvim) [![GitHub stars](https://img.shields.io/github/stars/nosduco/remote-sshfs.nvim?style=flat)](https://github.com/nosduco/remote-sshfs.nvim/stargazers) - Explore, edit, and develop on a remote machine via SSHFS.
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) [![GitHub stars](https://img.shields.io/github/stars/azratul/live-share.nvim?style=flat)](https://github.com/azratul/live-share.nvim/stargazers) - Provides remote collaboration capabilities from anywhere, making it ideal for pair-programming scenarios.
+- [bradley101/nvim-remote-ssh](https://github.com/bradley101/nvim-remote-ssh) [![GitHub stars](https://img.shields.io/github/stars/bradley101/nvim-remote-ssh?style=flat)](https://github.com/bradley101/nvim-remote-ssh/stargazers) - Work on a remote machine, similar to VSCode's "Remote-SSH" plugin.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->
@@ -1998,6 +2002,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist](https://git
 - [ChuYanLon/chad46](https://github.com/ChuYanLon/chad46) [![GitHub stars](https://img.shields.io/github/stars/ChuYanLon/chad46?style=flat)](https://github.com/ChuYanLon/chad46/stargazers) - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 - [Neovim Cheatsheet](https://neovimcheatsheet.com) - Searchable, interactive cheatsheet with per-keypress search, remappable keybindings, and JSON import/export.
 - [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.
+- [editortheme/editorthemes.com](https://editorthemes.com/editors/neovim) - Directory for various colorschemes, with live previews and install snippets.
 <!--lint disable double-link -->
 [**⬆ back to top**](#contents)
 <!--lint enable double-link -->

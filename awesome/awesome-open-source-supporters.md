@@ -33,7 +33,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [Better Code Hub](https://bettercodehub.com/) - Source code maintainability analysis.
 - [Codacy](https://www.codacy.com/) - Automated code reviews & analytics.
 - [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
-- [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 - [Hound](https://houndci.com/) - Source code style review.
 - [lgtm](https://lgtm.com/) - Automated code reviews for developers.
@@ -49,6 +48,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
+- [Latchkey](https://latchkey.dev/open-source) `requires-approval` - Self-healing GitHub Actions runners with a CLI and MCP server for coding agents.
 - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
 - [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
@@ -114,7 +114,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
-- [Libraries.io](https://libraries.io/) - Open source discovery service.
 - [LoginRadius](https://www.loginradius.com/)  `requires-approval`  - Authentication and SSO Made Simple.
 - [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.

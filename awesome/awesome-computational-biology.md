@@ -247,6 +247,11 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 
 ### Drug Response & Perturbation
 
+- [scCT-DB](http://scctdb.ncpsb.org.cn) — Cancer treatment single-cell database with 266 paired pre/post-treatment datasets, 6.19M cells, 1,142 samples, 27 cancer types, and 102 drugs.
+- [scICB](http://www.scimmnue.com/) — Pan-cancer ICB therapy single-cell database spanning 338 patients, 807 samples, 3.69M cells, and 13 cancer types, including 247 matched pre/post-treatment patients.
+- [CellResDB](https://cellknowledge.com.cn/cellresponse) — Cancer therapy response single-cell database containing 4.7M cells from 1,391 patient samples, 72 datasets, and 24 cancer types.
+- [Gondal et al. 2025 ICB scRNA-seq collection](https://cellxgene.cziscience.com/collections/61e422dd-c9cd-460e-9b91-72d9517348ef) — Integrated ICB-treated cancer single-cell collection from eight studies and 223 patients, with 90,270 cancer cells and 265,671 other cells.
+
 - [BEAT AML](https://biodev.github.io/BeatAML2/) — Functional ex vivo drug sensitivity measurements paired with genomics for acute myeloid leukemia.
 - [Cancer Therapeutics Response Portal (CTRP)](https://portals.broadinstitute.org/ctrp/) — Drug sensitivity profiles across ~900 cancer cell lines for >400 compounds.
 - [Chem-PerturBridge](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Harmonized compendium and processing pipelines for small-molecule perturbation transcriptomics across heterogeneous assays and gene panels.
@@ -270,6 +275,9 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [VCPI-0002](https://github.com/theislab/Chem-PerturBridge) [![GitHub stars](https://img.shields.io/github/stars/theislab/Chem-PerturBridge?style=flat)](https://github.com/theislab/Chem-PerturBridge/stargazers) — Bulk chemical perturbation dataset used in Chem-PerturBridge; the Bison benchmark view contains 18,139 profiles and 1,488 molecules in one cellular context.
 
 ### Genetic Perturbation & Perturb-seq
+
+- [scPerturbBench (TianGzlab / PerturbArena)](https://github.com/TianGzlab/scPerturbBench) [![GitHub stars](https://img.shields.io/github/stars/TianGzlab/scPerturbBench?style=flat)](https://github.com/TianGzlab/scPerturbBench/stargazers) — Benchmark of single-cell genetic perturbation prediction covering unseen perturbations, combinations, cell-state transfer, and 24 evaluation metrics.
+- [scPerturBench (BM2 Lab)](https://github.com/bm2-lab/scPerturBench) [![GitHub stars](https://img.shields.io/github/stars/bm2-lab/scPerturBench?style=flat)](https://github.com/bm2-lab/scPerturBench/stargazers) — Benchmark comparing 27 single-cell perturbation-response prediction methods across 29 genetic and chemical perturbation datasets.
 
 - [Dixit et al. 2016 Perturb-seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90063) — Pooled CRISPR knockout with single-cell RNA-seq across K562 and dendritic-cell screens, including stimulated conditions and combinatorial perturbations.
 - [Adamson et al. 2016 Perturb-seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE90546) — CRISPRi Perturb-seq in K562 cells for systematic dissection of the unfolded protein response.
@@ -318,6 +326,8 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 
 ### General Biological ML & Knowledge Graph Benchmarks
 
+- [CellBench (CellVoyager)](https://github.com/zou-group/CellVoyager/tree/main/CellBench) [![GitHub stars](https://img.shields.io/github/stars/zou-group/CellVoyager/tree/main/CellBench?style=flat)](https://github.com/zou-group/CellVoyager/tree/main/CellBench/stargazers) — Benchmark for evaluating LLMs and data-analysis agents on reproducible single-cell research tasks.
+
 - [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
 - [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink) [![GitHub stars](https://img.shields.io/github/stars/OpenBioLink/OpenBioLink?style=flat)](https://github.com/OpenBioLink/OpenBioLink/stargazers) — Benchmark datasets for biological knowledge graph completion.
 
@@ -337,6 +347,8 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 ---
 
 ## Preprocessing Tools
+
+- [SpatialData](https://spatialdata.scverse.org/) — Interoperable data structures and tooling for spatial omics, microscopy images, coordinates, segmentation shapes, and annotations.
 
 - [Chemistry Development Kit](https://github.com/cdk/cdk) [![GitHub stars](https://img.shields.io/github/stars/cdk/cdk?style=flat)](https://github.com/cdk/cdk/stargazers) — Cheminformatics software & machine learning tools.
 - [Biopython](https://biopython.org/) — Collection of Python tools for biological computation including sequence analysis, structure parsing, and database access.
@@ -481,6 +493,8 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 
 #### Bioinformatics & Omics Agents
 
+- [CellVoyager](https://github.com/zou-group/CellVoyager) [![GitHub stars](https://img.shields.io/github/stars/zou-group/CellVoyager?style=flat)](https://github.com/zou-group/CellVoyager/stargazers) — Jupyter-based scientific agent that plans, executes, and evaluates single-cell transcriptomics analyses, accompanied by CellBench.
+
 - [CASSIA](https://github.com/ElliotXie/CASSIA) [![GitHub stars](https://img.shields.io/github/stars/ElliotXie/CASSIA?style=flat)](https://github.com/ElliotXie/CASSIA/stargazers) — Multi-agent LLM framework for reference-free and interpretable single-cell cell-type annotation with dedicated annotation, validation, scoring, and reporting agents.
 - [STELLA](https://github.com/zaixizhang/STELLA) [![GitHub stars](https://img.shields.io/github/stars/zaixizhang/STELLA?style=flat)](https://github.com/zaixizhang/STELLA/stargazers) — Self-evolving biomedical research agent that expands its tool repertoire and supports literature reasoning, computational analysis, and laboratory-oriented scientific workflows.
 - [AutoBA](https://github.com/JoshuaChou2018/AutoBA) [![GitHub stars](https://img.shields.io/github/stars/JoshuaChou2018/AutoBA?style=flat)](https://github.com/JoshuaChou2018/AutoBA/stargazers) — Automated multi-omics analysis agent that plans, executes, and repairs bioinformatics workflows from natural-language objectives.
@@ -503,6 +517,8 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 #### Single-cell Foundation Models
 
 ##### Transcriptomics Foundation Models
+
+- [Cell2Sentence / C2S-Scale](https://github.com/vandijklab/cell2sentence) [![GitHub stars](https://img.shields.io/github/stars/vandijklab/cell2sentence?style=flat)](https://github.com/vandijklab/cell2sentence/stargazers) — Single-cell language-model family representing gene-expression profiles as cell sentences for cellular interpretation, generation, and question answering.
 
 - [scFoundation](https://github.com/biomap-research/scFoundation) [![GitHub stars](https://img.shields.io/github/stars/biomap-research/scFoundation?style=flat)](https://github.com/biomap-research/scFoundation/stargazers) — Large-scale foundation model for single-cell gene expression, enabling multiple downstream tasks.
 - [scGPT](https://github.com/bowang-lab/scGPT) [![GitHub stars](https://img.shields.io/github/stars/bowang-lab/scGPT?style=flat)](https://github.com/bowang-lab/scGPT/stargazers) — Transformer-based foundation model pretrained on millions of single-cell profiles.
@@ -604,6 +620,9 @@ The explorer also includes the eight perturbation datasets used in the Bison uns
 - [EvoDiff](https://github.com/microsoft/evodiff) [![GitHub stars](https://img.shields.io/github/stars/microsoft/evodiff?style=flat)](https://github.com/microsoft/evodiff/stargazers) — Discrete diffusion framework for protein sequence generation trained on evolutionary-scale data, supporting unconditional generation, disordered region design, and functional motif scaffolding. [ [paper-2023](https://www.biorxiv.org/content/10.1101/2023.09.11.556673v1) ]
 
 #### Multi-Modal Foundation Models
+
+- [TxGemma](https://deepmind.google/models/gemma/txgemma/) — Open Gemma-based therapeutic-development model family (2B, 9B, and 27B) for property prediction and interactive scientific reasoning.
+- [NVIDIA Nemotron for Science](https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents) — Scientific-agent development stack based on Nemotron 3.5 Super VL, with post-training recipes and chemistry reasoning benchmark LitmusBench v0.2.
 
 - [CHIEF](https://github.com/hms-dbmi/CHIEF) [![GitHub stars](https://img.shields.io/github/stars/hms-dbmi/CHIEF?style=flat)](https://github.com/hms-dbmi/CHIEF/stargazers) — Clinical Histopathology Imaging Evaluation Foundation model integrating histology images and clinical context for pan-cancer analysis.
 - [BiomedCLIP](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_g_14) — CLIP-based vision-language foundation model for biomedical images and text trained on PubMed figure–caption pairs.

@@ -26,21 +26,16 @@ This list is a collection of the best Deno modules and resources.
   - [Frontend framework](#frontend-framework)
   - [Game engine](#game-engine)
   - [Logging](#logging)
-  - [Machine Learning](#machine-learning)
   - [Mail](#mail)
   - [Markdown](#markdown)
-  - [Math](#math)
   - [Static site generator](#static-site-generator)
-  - [String utils](#string-utils)
   - [Social Platform APIs](#social-platform-apis)
   - [Template engine](#template-engine)
   - [Testing](#testing)
   - [Utils](#utils)
   - [Web framework](#web-framework)
-  - [WebSocket](#websocket)
   - [Web utils](#web-utils)
   - [Webview](#webview)
-  - [XML](#xml)
 - [Registries](#registries)
 - [Showcases](#showcases)
 - [Tools](#tools)
@@ -77,119 +72,88 @@ This list is a collection of the best Deno modules and resources.
 ## Modules
 
 ### Automation
-- [swissknife](https://github.com/fakoua/SwissKnife) [![GitHub stars](https://img.shields.io/github/stars/fakoua/SwissKnife?style=flat)](https://github.com/fakoua/SwissKnife/stargazers) - SwissKnife - Deno Swiss Knife tools for Windows.
 - [zuke](https://github.com/zuke-build/zuke) [![GitHub stars](https://img.shields.io/github/stars/zuke-build/zuke?style=flat)](https://github.com/zuke-build/zuke/stargazers) - Code-first, strongly-typed build automation system where builds are defined as TypeScript classes.
 
 ### CLI utils
 - [cac](https://github.com/cacjs/cac) [![GitHub stars](https://img.shields.io/github/stars/cacjs/cac?style=flat)](https://github.com/cacjs/cac/stargazers) - Simple yet powerful framework for building command-line apps.
-- [charmd](https://github.com/littletof/charmd) [![GitHub stars](https://img.shields.io/github/stars/littletof/charmd?style=flat)](https://github.com/littletof/charmd/stargazers) - A simple, extendable markdown renderer for your terminal.
 - [cli-spinner](https://github.com/ameerthehacker/deno-cli-spinners) [![GitHub stars](https://img.shields.io/github/stars/ameerthehacker/deno-cli-spinners?style=flat)](https://github.com/ameerthehacker/deno-cli-spinners/stargazers) - Show spinners in the terminal while running long tasks.
 - [cliffy](https://github.com/c4spar/cliffy) [![GitHub stars](https://img.shields.io/github/stars/c4spar/cliffy?style=flat)](https://github.com/c4spar/cliffy/stargazers) - The complete solution for building interactive command-line tools.
-- [clite](https://github.com/jersou/clite-parser) [![GitHub stars](https://img.shields.io/github/stars/jersou/clite-parser?style=flat)](https://github.com/jersou/clite-parser/stargazers) - Automatic CLI generation from a class.
+- [clinfer](https://github.com/jersou/clinfer) [![GitHub stars](https://img.shields.io/github/stars/jersou/clinfer?style=flat)](https://github.com/jersou/clinfer/stargazers) - Automatically generate CLIs from JS objects, classes or ES modules.
 - [commit-sage-cli](https://github.com/AhmedOsman101/commit-sage-cli) [![GitHub stars](https://img.shields.io/github/stars/AhmedOsman101/commit-sage-cli?style=flat)](https://github.com/AhmedOsman101/commit-sage-cli/stargazers) - Generates Conventional Commit messages with AI based on Git repository changes.
-- [tui](https://github.com/Im-Beast/deno_tui) [![GitHub stars](https://img.shields.io/github/stars/Im-Beast/deno_tui?style=flat)](https://github.com/Im-Beast/deno_tui/stargazers) - Module which allows easy creation of Terminal User Interfaces.
 - [yargs](https://github.com/yargs/yargs) [![GitHub stars](https://img.shields.io/github/stars/yargs/yargs?style=flat)](https://github.com/yargs/yargs/stargazers) - The modern, pirate-themed successor to optimist.
 
 ### Cloud APIs
-- [aws-api](https://aws-api.deno.dev/) - From-scratch Typescript AWS API client built for Deno.
+- [aws-api](https://aws-api.danopia.deno.net/) - From-scratch Typescript AWS API client built for Deno.
 - [sigflint](https://github.com/bompus/sigflint) [![GitHub stars](https://img.shields.io/github/stars/bompus/sigflint?style=flat)](https://github.com/bompus/sigflint/stargazers) - AWS Signature Version 4 and SigV4a request signing with no dependencies, for use with `fetch`.
 
 ### Database
 - [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
-- [aloedb](https://github.com/Kirlovon/aloedb) [![GitHub stars](https://img.shields.io/github/stars/Kirlovon/aloedb?style=flat)](https://github.com/Kirlovon/aloedb/stargazers) - Light, Embeddable, NoSQL database for Deno without dependencies.
 - [deno_mongo](https://github.com/denodrivers/mongo) [![GitHub stars](https://img.shields.io/github/stars/denodrivers/mongo?style=flat)](https://github.com/denodrivers/mongo/stargazers) - MongoDB database driver.
-- [deno_mysql](https://github.com/denodrivers/mysql) [![GitHub stars](https://img.shields.io/github/stars/denodrivers/mysql?style=flat)](https://github.com/denodrivers/mysql/stargazers) - MySQL database driver.
-- [denodb](https://github.com/eveningkid/denodb) [![GitHub stars](https://img.shields.io/github/stars/eveningkid/denodb?style=flat)](https://github.com/eveningkid/denodb/stargazers) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
-- [dongoose](https://github.com/roonie007/dongoose) [![GitHub stars](https://img.shields.io/github/stars/roonie007/dongoose?style=flat)](https://github.com/roonie007/dongoose/stargazers) - A simple and easy to use ORM for Deno KV.
+- [kvdock](https://github.com/zisam-glitch/kvdock) [![GitHub stars](https://img.shields.io/github/stars/zisam-glitch/kvdock?style=flat)](https://github.com/zisam-glitch/kvdock/stargazers) - Zero-dependency key-value and multi-tier caching engine with native Deno KV support and single-flight stampede protection.
 - [maxminddb](https://github.com/josh-hemphill/maxminddb-wasm) [![GitHub stars](https://img.shields.io/github/stars/josh-hemphill/maxminddb-wasm?style=flat)](https://github.com/josh-hemphill/maxminddb-wasm/stargazers) - A library that enables the usage of MaxmindDB geoIP database files
-- [nessie](https://github.com/halvardssm/deno-nessie) [![GitHub stars](https://img.shields.io/github/stars/halvardssm/deno-nessie?style=flat)](https://github.com/halvardssm/deno-nessie/stargazers) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
+- [nessie](https://github.com/lmxrd/deno-nessie) [![GitHub stars](https://img.shields.io/github/stars/lmxrd/deno-nessie?style=flat)](https://github.com/lmxrd/deno-nessie/stargazers) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 - [postgres](https://github.com/denodrivers/postgres) [![GitHub stars](https://img.shields.io/github/stars/denodrivers/postgres?style=flat)](https://github.com/denodrivers/postgres/stargazers) - Driver for PostgreSQL database.
 - [redis](https://github.com/denodrivers/redis) [![GitHub stars](https://img.shields.io/github/stars/denodrivers/redis?style=flat)](https://github.com/denodrivers/redis/stargazers) - An experimental implementation of redis client for deno.
-- [yongo](https://github.com/yooneskh/yongo) [![GitHub stars](https://img.shields.io/github/stars/yooneskh/yongo?style=flat)](https://github.com/yooneskh/yongo/stargazers) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
 
 ### Editor framework
 
 - [Denops](https://github.com/vim-denops/denops.vim) [![GitHub stars](https://img.shields.io/github/stars/vim-denops/denops.vim?style=flat)](https://github.com/vim-denops/denops.vim/stargazers) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ### Frontend framework
-- [fresh](https://github.com/denoland/fresh) [![GitHub stars](https://img.shields.io/github/stars/denoland/fresh?style=flat)](https://github.com/denoland/fresh/stargazers) - The next-gen web framework.
-- [packup](https://github.com/kt3k/packup) [![GitHub stars](https://img.shields.io/github/stars/kt3k/packup?style=flat)](https://github.com/kt3k/packup/stargazers) - Zero-config web application packager for Deno.
-- [ultra](https://github.com/exhibitionist-digital/ultra) [![GitHub stars](https://img.shields.io/github/stars/exhibitionist-digital/ultra?style=flat)](https://github.com/exhibitionist-digital/ultra/stargazers) - 💎 Modern Streaming React Framework in Deno.
+- [fresh](https://github.com/freshframework/fresh) [![GitHub stars](https://img.shields.io/github/stars/freshframework/fresh?style=flat)](https://github.com/freshframework/fresh/stargazers) - The next-gen web framework.
 
 ### Game engine
 - [caviar](https://github.com/load1n9/caviar) [![GitHub stars](https://img.shields.io/github/stars/load1n9/caviar?style=flat)](https://github.com/load1n9/caviar/stargazers) - ⚡ Blazing fast, modern, Game Engine powered by WebGPU for Deno and the browser
 - [sdl2](https://github.com/littledivy/deno_sdl2) [![GitHub stars](https://img.shields.io/github/stars/littledivy/deno_sdl2?style=flat)](https://github.com/littledivy/deno_sdl2/stargazers) - SDL2 module for Deno
 
 ### Image
-- [ImageScript](https://github.com/matmen/ImageScript) [![GitHub stars](https://img.shields.io/github/stars/matmen/ImageScript?style=flat)](https://github.com/matmen/ImageScript/stargazers) - Image processing in JavaScript, utilizing WebAssembly for performance.
+- [aigifmaker](https://github.com/hanshs474/aigifmaker-ts) [![GitHub stars](https://img.shields.io/github/stars/hanshs474/aigifmaker-ts?style=flat)](https://github.com/hanshs474/aigifmaker-ts/stargazers) - Turn text prompts into animated GIFs with the AI GIF Maker API.
+- [ImageScript](https://github.com/imagescript/ImageScript) [![GitHub stars](https://img.shields.io/github/stars/imagescript/ImageScript?style=flat)](https://github.com/imagescript/ImageScript/stargazers) - Image processing in JavaScript, utilizing WebAssembly for performance.
 - [kavel](https://github.com/hanshs474/kavel-ts) [![GitHub stars](https://img.shields.io/github/stars/hanshs474/kavel-ts?style=flat)](https://github.com/hanshs474/kavel-ts/stargazers) - Generate and edit images with AI without an API key or account.
-- [monke](https://github.com/retraigo/monke) [![GitHub stars](https://img.shields.io/github/stars/retraigo/monke?style=flat)](https://github.com/retraigo/monke/stargazers) - Color quantization and dithering library with extra image filters (blur, invert, etc).
 
 ### Logging
 - [LogTape](https://github.com/dahlia/logtape) [![GitHub stars](https://img.shields.io/github/stars/dahlia/logtape?style=flat)](https://github.com/dahlia/logtape/stargazers) - Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers.
 
-### Machine learning
-- [appraisal](https://github.com/retraigo/appraisal) [![GitHub stars](https://img.shields.io/github/stars/retraigo/appraisal?style=flat)](https://github.com/retraigo/appraisal/stargazers) - Feature extraction and conversion.
-- [classy-lala](https://github.com/retraigo/la-classy) [![GitHub stars](https://img.shields.io/github/stars/retraigo/la-classy?style=flat)](https://github.com/retraigo/la-classy/stargazers) - Single-layer perceptrons for supervised learning tasks.
-- [netsaur](https://github.com/denosaurs/netsaur) [![GitHub stars](https://img.shields.io/github/stars/denosaurs/netsaur?style=flat)](https://github.com/denosaurs/netsaur/stargazers) - Powerful machine learning, accelerated by WebGPU
-
 ### Mail
-- [deno-smtp](https://github.com/manyuanrong/deno-smtp) [![GitHub stars](https://img.shields.io/github/stars/manyuanrong/deno-smtp?style=flat)](https://github.com/manyuanrong/deno-smtp/stargazers) - A smtp mail sender for deno.
 - [dmarc-rua](https://github.com/domaincanary/dmarc-rua) [![GitHub stars](https://img.shields.io/github/stars/domaincanary/dmarc-rua?style=flat)](https://github.com/domaincanary/dmarc-rua/stargazers) - Parse DMARC aggregate reports from XML, gzip, zip and report emails.
 
 ### Markdown
 - [LiteMarkup](https://github.com/tuures/LiteMarkup) [![GitHub stars](https://img.shields.io/github/stars/tuures/LiteMarkup?style=flat)](https://github.com/tuures/LiteMarkup/stargazers) - AST-first parser. Under 3 KB gzipped, zero dependencies.
 
-### Math
-- [neo](https://github.com/denosaurs/neo/) [![GitHub stars](https://img.shields.io/github/stars/denosaurs/neo/?style=flat)](https://github.com/denosaurs/neo//stargazers) - Matrix and other math, accelerated by WebGPU
-
 ### Static site generator
 - [lume](https://github.com/lumeland/lume) [![GitHub stars](https://img.shields.io/github/stars/lumeland/lume?style=flat)](https://github.com/lumeland/lume/stargazers) - A static site generator similar to Jekyll or Eleventy with support for multiple file formats.
-- [pagic](https://github.com/xcatliu/pagic) [![GitHub stars](https://img.shields.io/github/stars/xcatliu/pagic?style=flat)](https://github.com/xcatliu/pagic/stargazers) - The easiest way to generate static html page from markdown, built with Deno.
 - [zerho](https://github.com/glastor-core/zerho) [![GitHub stars](https://img.shields.io/github/stars/glastor-core/zerho?style=flat)](https://github.com/glastor-core/zerho/stargazers) - High-performance documentation engine for Deno 2 and Edge runtimes with interactive playground, OpenAPI explorer, and native llms.txt support.
 
-### String utils
-- [written](https://github.com/vixalien/written) [![GitHub stars](https://img.shields.io/github/stars/vixalien/written?style=flat)](https://github.com/vixalien/written/stargazers) - A provides a set of utilities for manipulating text, with a focus on providing typographic tools rather than pure string manipulation.
-
 ### Social Platform APIs
+- [Circe](https://github.com/sxnnyside-project/circe) [![GitHub stars](https://img.shields.io/github/stars/sxnnyside-project/circe?style=flat)](https://github.com/sxnnyside-project/circe/stargazers) - Inversion-of-control framework for discord.js bots with file-system routing, guards and Gateway or HTTP transport.
 - [discordeno](https://github.com/discordeno/discordeno) [![GitHub stars](https://img.shields.io/github/stars/discordeno/discordeno?style=flat)](https://github.com/discordeno/discordeno/stargazers) - Discord API library for Deno
 - [grammY](https://github.com/grammyjs/grammY) [![GitHub stars](https://img.shields.io/github/stars/grammyjs/grammY?style=flat)](https://github.com/grammyjs/grammY/stargazers) - Telegram Bot API framework for Deno.
 - [MTKruto](https://github.com/MTKruto/MTKruto) [![GitHub stars](https://img.shields.io/github/stars/MTKruto/MTKruto?style=flat)](https://github.com/MTKruto/MTKruto/stargazers) - Deno-first, cross-runtime client library for Telegram's MTProto API.
 
 
 ### Template engine
-- [dejs](https://github.com/syumai/dejs) [![GitHub stars](https://img.shields.io/github/stars/syumai/dejs?style=flat)](https://github.com/syumai/dejs/stargazers) - Ejs template engine for deno.
 - [eta](https://github.com/bgub/eta) [![GitHub stars](https://img.shields.io/github/stars/bgub/eta?style=flat)](https://github.com/bgub/eta/stargazers) - Fast, lightweight, and configurable embedded template engine.
-- [handlebars](https://github.com/alosaur/handlebars) [![GitHub stars](https://img.shields.io/github/stars/alosaur/handlebars?style=flat)](https://github.com/alosaur/handlebars/stargazers) - Handlebars template engine for deno
 
 ### Testing
-- [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) [![GitHub stars](https://img.shields.io/github/stars/lucacasonato/deno-puppeteer?style=flat)](https://github.com/lucacasonato/deno-puppeteer/stargazers) - A library which provides a high-level API to control Chromium or Chrome over the DevTools Protocol.
 - [keploy](https://github.com/keploy/keploy) [![GitHub stars](https://img.shields.io/github/stars/keploy/keploy?style=flat)](https://github.com/keploy/keploy/stargazers) - Record real traffic to generate integration tests and mock Postgres, Redis, and fetch calls.
 - [qunitx](https://github.com/izelnakri/qunitx) [![GitHub stars](https://img.shields.io/github/stars/izelnakri/qunitx?style=flat)](https://github.com/izelnakri/qunitx/stargazers) - Zero dependency, fully customizable, mature, universal test API that can run interchangably in node.js, Deno & browser, using default runtime test runners.
-- [rhum](https://github.com/drashland/rhum) [![GitHub stars](https://img.shields.io/github/stars/drashland/rhum?style=flat)](https://github.com/drashland/rhum/stargazers) - A lightweight testing framework for Deno.
 - [superdeno](https://github.com/cmorten/superdeno) [![GitHub stars](https://img.shields.io/github/stars/cmorten/superdeno?style=flat)](https://github.com/cmorten/superdeno/stargazers) - Super-agent driven library for testing Deno HTTP servers.
-- [superoak](https://github.com/cmorten/superoak) [![GitHub stars](https://img.shields.io/github/stars/cmorten/superoak?style=flat)](https://github.com/cmorten/superoak/stargazers) - HTTP assertions for Oak made easy via SuperDeno.
-- [tepi](https://deno.land/x/tepi) - A .http Test Runner
+- [tepi](https://github.com/jupegarnica/tepi) [![GitHub stars](https://img.shields.io/github/stars/jupegarnica/tepi?style=flat)](https://github.com/jupegarnica/tepi/stargazers) - A .http Test Runner
 - [unexpected](https://github.com/unexpectedjs/unexpected) [![GitHub stars](https://img.shields.io/github/stars/unexpectedjs/unexpected?style=flat)](https://github.com/unexpectedjs/unexpected/stargazers) - Extensible BDD assertion toolkit.
 
 ### Utils
-- [buckets](https://github.com/jacoborus/deno-buckets) [![GitHub stars](https://img.shields.io/github/stars/jacoborus/deno-buckets?style=flat)](https://github.com/jacoborus/deno-buckets/stargazers) - Bundle assets and scripts in a single executable file.
-- [colors](https://github.com/retraigo/colors) [![GitHub stars](https://img.shields.io/github/stars/retraigo/colors?style=flat)](https://github.com/retraigo/colors/stargazers) - Color conversions and operations in TypeScript.
 - [computed_types](https://github.com/neuledge/computed-types) [![GitHub stars](https://img.shields.io/github/stars/neuledge/computed-types?style=flat)](https://github.com/neuledge/computed-types/stargazers) - Joi like validators for Typescript and Deno.
 - [croner](https://github.com/Hexagon/croner) [![GitHub stars](https://img.shields.io/github/stars/Hexagon/croner?style=flat)](https://github.com/Hexagon/croner/stargazers) - Cron library with advanced scheduling features, well-documented API, and zero dependencies.
 - [csv-pipe](https://github.com/martsinlabs/csv-pipe) [![GitHub stars](https://img.shields.io/github/stars/martsinlabs/csv-pipe?style=flat)](https://github.com/martsinlabs/csv-pipe/stargazers) - Typed, zero-dependency CSV parser and encoder for every runtime.
-- [deno-config](https://github.com/yooneskh/deno-unified-config) [![GitHub stars](https://img.shields.io/github/stars/yooneskh/deno-unified-config?style=flat)](https://github.com/yooneskh/deno-unified-config/stargazers) - Utility to streamline deno app configuration management through cli, .env and json files
 - [deno_kv_fs](https://github.com/hviana/deno_kv_fs) [![GitHub stars](https://img.shields.io/github/stars/hviana/deno_kv_fs?style=flat)](https://github.com/hviana/deno_kv_fs/stargazers) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
-- [denon](https://github.com/denosaurs/denon) [![GitHub stars](https://img.shields.io/github/stars/denosaurs/denon?style=flat)](https://github.com/denosaurs/denon/stargazers) - A file watcher with a for-await generator.
-- [dinoenv](https://deno.land/x/dinoenv) - tiny library to manage environment variables with deno.
 - [durationjs](https://github.com/retraigo/duration.js) [![GitHub stars](https://img.shields.io/github/stars/retraigo/duration.js?style=flat)](https://github.com/retraigo/duration.js/stargazers) - Get formatted time duration from a timestamp or a human-readable string.
 - [envapt](https://github.com/materwelonDhruv/envapt) [![GitHub stars](https://img.shields.io/github/stars/materwelonDhruv/envapt?style=flat)](https://github.com/materwelonDhruv/envapt/stargazers) - Read environment variables as typed values with built-in converters, Standard Schema validation, and zero dependencies.
 - [esm-itter](https://github.com/tillsanders/esm-itter) [![GitHub stars](https://img.shields.io/github/stars/tillsanders/esm-itter?style=flat)](https://github.com/tillsanders/esm-itter/stargazers) – A strongly typed fork of the popular EventEmitter3 with a focus on EcmaScript module syntax, TypeScript and modern tooling.
 - [evt](https://github.com/garronej/evt) [![GitHub stars](https://img.shields.io/github/stars/garronej/evt?style=flat)](https://github.com/garronej/evt/stargazers) - Type safe replacement for EventEmitter.
 - [fastest-validator](https://github.com/icebob/fastest-validator) [![GitHub stars](https://img.shields.io/github/stars/icebob/fastest-validator?style=flat)](https://github.com/icebob/fastest-validator/stargazers) - Schema validator for all javascript platforms
 - [fortuna](https://github.com/retraigo/fortuna) [![GitHub stars](https://img.shields.io/github/stars/retraigo/fortuna?style=flat)](https://github.com/retraigo/fortuna/stargazers) - Weighted gacha system.
-- [garn-validator](https://github.com/jupegarnica/garn-validator) [![GitHub stars](https://img.shields.io/github/stars/jupegarnica/garn-validator?style=flat)](https://github.com/jupegarnica/garn-validator/stargazers) - Create validations with ease.
-- [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit) [![GitHub stars](https://img.shields.io/github/stars/locale-kit/locale-kit?style=flat)](https://github.com/locale-kit/locale-kit/stargazers)) - A internationalisation/localisation/translation (i18n/l10n/t9n) library with a wrapper for Fresh and support for plurals and dynamic replacement.
+- [injecute](https://github.com/Masyaka/injecute) [![GitHub stars](https://img.shields.io/github/stars/Masyaka/injecute?style=flat)](https://github.com/Masyaka/injecute/stargazers) - Type-safe dependency injection container with explicit wiring and no decorators.
+- [json-schema-for-llms](https://github.com/carmenaresearch/json-schema-for-llms) [![GitHub stars](https://img.shields.io/github/stars/carmenaresearch/json-schema-for-llms?style=flat)](https://github.com/carmenaresearch/json-schema-for-llms/stargazers) - Turn a JSON document too large for an LLM context window into a short JSON Schema with counts, ranges and example records.
 - [optionals](https://github.com/OliverBrotchie/optionals) [![GitHub stars](https://img.shields.io/github/stars/OliverBrotchie/optionals?style=flat)](https://github.com/OliverBrotchie/optionals/stargazers) - Rust-like error handling and options with exhaustive pattern matching.
 - [PLS](https://github.com/xorgram/pls) [![GitHub stars](https://img.shields.io/github/stars/xorgram/pls?style=flat)](https://github.com/xorgram/pls/stargazers) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
 - [qrcode](https://github.com/denorg/qrcode) [![GitHub stars](https://img.shields.io/github/stars/denorg/qrcode?style=flat)](https://github.com/denorg/qrcode/stargazers) - QR code image generator for Deno.
@@ -200,98 +164,68 @@ This list is a collection of the best Deno modules and resources.
 
 ### Validation
 
-- [is-kit](https://github.com/nyaomaru/is-kit) [![GitHub stars](https://img.shields.io/github/stars/nyaomaru/is-kit?style=flat)](https://github.com/nyaomaru/is-kit/stargazers) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
+- [is-kit](https://github.com/necoz-oss/is-kit) [![GitHub stars](https://img.shields.io/github/stars/necoz-oss/is-kit?style=flat)](https://github.com/necoz-oss/is-kit/stargazers) - Build small, composable type guards with natural TypeScript narrowing and zero dependencies.
 - [zod](https://github.com/colinhacks/zod) [![GitHub stars](https://img.shields.io/github/stars/colinhacks/zod?style=flat)](https://github.com/colinhacks/zod/stargazers) - TypeScript-first schema validation with static type inference.
 
 ### Web framework
 - [alosaur](https://github.com/alosaur/alosaur) [![GitHub stars](https://img.shields.io/github/stars/alosaur/alosaur?style=flat)](https://github.com/alosaur/alosaur/stargazers) - Alosaur - Deno web framework with many ES Decorators.
-- [aqua](https://github.com/predetermined/aqua) [![GitHub stars](https://img.shields.io/github/stars/predetermined/aqua?style=flat)](https://github.com/predetermined/aqua/stargazers) - A minimal and fast web framework for Deno.
 - [danet](https://github.com/Savory/Danet) [![GitHub stars](https://img.shields.io/github/stars/Savory/Danet?style=flat)](https://github.com/Savory/Danet/stargazers) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 - [drash](https://github.com/drashland/drash) [![GitHub stars](https://img.shields.io/github/stars/drashland/drash?style=flat)](https://github.com/drashland/drash/stargazers) - A REST microframework for Deno's HTTP server with zero dependencies.
 - [faster](https://github.com/hviana/faster) [![GitHub stars](https://img.shields.io/github/stars/hviana/faster?style=flat)](https://github.com/hviana/faster/stargazers) - A fast and optimized middleware server with a set of useful middlwares.
 - [faster_react](https://github.com/hviana/faster_react) [![GitHub stars](https://img.shields.io/github/stars/hviana/faster_react?style=flat)](https://github.com/hviana/faster_react/stargazers) - Full Stack web framework with React + Faster. Fully compatible with Deno Deploy.
 - [hono](https://github.com/honojs/hono) [![GitHub stars](https://img.shields.io/github/stars/honojs/hono?style=flat)](https://github.com/honojs/hono/stargazers) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-- [oak](https://github.com/oakserver/oak) [![GitHub stars](https://img.shields.io/github/stars/oakserver/oak?style=flat)](https://github.com/oakserver/oak/stargazers) - A middleware framework for Deno's net server.
-  - [oak-http-proxy](https://github.com/cmorten/oak-http-proxy) [![GitHub stars](https://img.shields.io/github/stars/cmorten/oak-http-proxy?style=flat)](https://github.com/cmorten/oak-http-proxy/stargazers) - Proxy middleware for Deno Oak HTTP servers.
-  - [oak-routing-ctrl](https://github.com/Thesephi/oak-routing-ctrl) [![GitHub stars](https://img.shields.io/github/stars/Thesephi/oak-routing-ctrl?style=flat)](https://github.com/Thesephi/oak-routing-ctrl/stargazers) - TypeScript Decorators for easy scaffolding API services with the oak framework.
-- [opine](https://github.com/cmorten/opine) [![GitHub stars](https://img.shields.io/github/stars/cmorten/opine?style=flat)](https://github.com/cmorten/opine/stargazers) - Fast, minimalist web framework ported from ExpressJS.
-  - [opine-http-proxy](https://github.com/cmorten/opine-http-proxy) [![GitHub stars](https://img.shields.io/github/stars/cmorten/opine-http-proxy?style=flat)](https://github.com/cmorten/opine-http-proxy/stargazers) - Proxy middleware for Deno Opine HTTP servers.
 - [orpc](https://github.com/middleapi/orpc) [![GitHub stars](https://img.shields.io/github/stars/middleapi/orpc?style=flat)](https://github.com/middleapi/orpc/stargazers) - End-to-end typesafe APIs with RPC and OpenAPI support, without code generation.
 
-### WebSocket
-- [dropper](https://github.com/denyncrawford/dropper-deno) [![GitHub stars](https://img.shields.io/github/stars/denyncrawford/dropper-deno?style=flat)](https://github.com/denyncrawford/dropper-deno/stargazers) - Custom event-based WebSockets framework for building real-time apps on Deno 🦕
-- [wocket](https://github.com/drashland/wocket) [![GitHub stars](https://img.shields.io/github/stars/drashland/wocket?style=flat)](https://github.com/drashland/wocket/stargazers) - A WebSocket library for Deno.
-
 ### Web utils
-- [djwt](https://github.com/Zaubrik/djwt) [![GitHub stars](https://img.shields.io/github/stars/Zaubrik/djwt?style=flat)](https://github.com/Zaubrik/djwt/stargazers) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 - [forwarded](https://github.com/deno-libs/forwarded) [![GitHub stars](https://img.shields.io/github/stars/deno-libs/forwarded?style=flat)](https://github.com/deno-libs/forwarded/stargazers) - Deno port of `forwarded` library.
-- [fresh_chart](https://github.com/denoland/fresh_charts) [![GitHub stars](https://img.shields.io/github/stars/denoland/fresh_charts?style=flat)](https://github.com/denoland/fresh_charts/stargazers) - A server-side-rendered charting library for Fresh.
-- [gentleRpc](https://github.com/timonson/gentle_rpc) [![GitHub stars](https://img.shields.io/github/stars/timonson/gentle_rpc?style=flat)](https://github.com/timonson/gentle_rpc/stargazers) - A JSON-RPC 2.0 TypeScript library for Deno and the browser.
 - [gql](https://github.com/deno-libs/gql) [![GitHub stars](https://img.shields.io/github/stars/deno-libs/gql?style=flat)](https://github.com/deno-libs/gql/stargazers) - Universal GraphQL HTTP middleware.
 - [graphql-tag](https://github.com/deno-libs/graphql_tag) [![GitHub stars](https://img.shields.io/github/stars/deno-libs/graphql_tag?style=flat)](https://github.com/deno-libs/graphql_tag/stargazers) - GraphQL schema AST from template literal.
-- [nats](https://github.com/nats-io/nats.deno) [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats.deno?style=flat)](https://github.com/nats-io/nats.deno/stargazers) - A Deno client for the [NATS messaging system](https://nats.io/).
-- [obsidian](https://github.com/open-source-labs/obsidian) [![GitHub stars](https://img.shields.io/github/stars/open-source-labs/obsidian?style=flat)](https://github.com/open-source-labs/obsidian/stargazers) - A native GraphQL caching client and server module.
-- [router](https://github.com/zhmushan/router) [![GitHub stars](https://img.shields.io/github/stars/zhmushan/router?style=flat)](https://github.com/zhmushan/router/stargazers) - A high-performance basic router works anywhere.
+- [linkpeek](https://github.com/thegruber/linkpeek) [![GitHub stars](https://img.shields.io/github/stars/thegruber/linkpeek?style=flat)](https://github.com/thegruber/linkpeek/stargazers) - Extract Open Graph, Twitter Card and JSON-LD link-preview metadata from a URL.
 - [rpc](https://github.com/deno-libs/rpc) [![GitHub stars](https://img.shields.io/github/stars/deno-libs/rpc?style=flat)](https://github.com/deno-libs/rpc/stargazers) - JSONRPC server implementation for Deno.
-- [ts-prometheus](https://github.com/marcopacini/ts_prometheus) [![GitHub stars](https://img.shields.io/github/stars/marcopacini/ts_prometheus?style=flat)](https://github.com/marcopacini/ts_prometheus/stargazers) - A prometheus client.
 
 ### Webview
 - [webview](https://github.com/webview/webview_deno) [![GitHub stars](https://img.shields.io/github/stars/webview/webview_deno?style=flat)](https://github.com/webview/webview_deno/stargazers) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
 
-### XML
-- [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) [![GitHub stars](https://img.shields.io/github/stars/Maxim-Mazurok/sax-ts?style=flat)](https://github.com/Maxim-Mazurok/sax-ts/stargazers) - SAX-style XML parser ported from [sax-js](https://github.com/isaacs/sax-js) [![GitHub stars](https://img.shields.io/github/stars/isaacs/sax-js?style=flat)](https://github.com/isaacs/sax-js/stargazers).
-
 ## Registries
 
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
-- [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
 ## Showcases
 
 - [Chobble Tickets](https://github.com/chobbledotcom/tickets) [![GitHub stars](https://img.shields.io/github/stars/chobbledotcom/tickets?style=flat)](https://github.com/chobbledotcom/tickets/stargazers) - Open source ticket sales system with encrypted attendee data and Stripe, Square, or SumUp payments.
 - [Deno Rest](https://github.com/Prolifode/deno_rest) [![GitHub stars](https://img.shields.io/github/stars/Prolifode/deno_rest?style=flat)](https://github.com/Prolifode/deno_rest/stargazers) - A Boilerplate for deno RESTful apis.
-- [Edrys](https://github.com/edrys-org/edrys) [![GitHub stars](https://img.shields.io/github/stars/edrys-org/edrys?style=flat)](https://github.com/edrys-org/edrys/stargazers) - Remote Teaching Software
 - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) [![GitHub stars](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy?style=flat)](https://github.com/ryo-ma/github-profile-trophy/stargazers) - 🏆 Add dynamically generated GitHub Trophy on your readme
 - [globnotes](https://github.com/alexindigo/globnotes) [![GitHub stars](https://img.shields.io/github/stars/alexindigo/globnotes?style=flat)](https://github.com/alexindigo/globnotes/stargazers) - Self-hosted Markdown note-taking app for Obsidian vaults and nested folders, with full-text search and sandboxed plugins.
 - [Medusa Edge API Gateway](https://github.com/glastor-core/medusa) [![GitHub stars](https://img.shields.io/github/stars/glastor-core/medusa?style=flat)](https://github.com/glastor-core/medusa/stargazers) - Resilient Edge API Gateway and caching proxy on Deno Deploy with circuit breaker, single-flight deduplication, and Deno KV.
 - [ShopSavvy Deno Deploy](https://github.com/shopsavvy/deno-deploy-shopsavvy) [![GitHub stars](https://img.shields.io/github/stars/shopsavvy/deno-deploy-shopsavvy?style=flat)](https://github.com/shopsavvy/deno-deploy-shopsavvy/stargazers) - Deno Deploy router with Hono for product search, real-time pricing, and price history.
-- [The Official Showcase](https://deno.land/showcase) - The official showcase of Deno.
+- [The Official Showcase](https://deno.com/showcase) - The official showcase of Deno.
 
 ## Tools
 
+- [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/deno) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/templates/tree/main/src/deno?style=flat)](https://github.com/bare-devcontainer/templates/tree/main/src/deno/stargazers) - Security-focused Deno dev container for JS/TS with hardened defaults and cached modules. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/src/deno) [![GitHub stars](https://img.shields.io/github/stars/bare-devcontainer/images/tree/main/src/deno?style=flat)](https://github.com/bare-devcontainer/images/tree/main/src/deno/stargazers).
 - [clone](https://github.com/ekaragodin/clone) [![GitHub stars](https://img.shields.io/github/stars/ekaragodin/clone?style=flat)](https://github.com/ekaragodin/clone/stargazers) - A simple utility for the convenient clone.
 - [CompatLab](https://github.com/siddiksawani/CompatLab) [![GitHub stars](https://img.shields.io/github/stars/siddiksawani/CompatLab?style=flat)](https://github.com/siddiksawani/CompatLab/stargazers) - Check npm package loading across pinned Deno, Node.js and Bun versions with shareable reports.
-- [denoflow](https://github.com/denoflow/denoflow) [![GitHub stars](https://img.shields.io/github/stars/denoflow/denoflow?style=flat)](https://github.com/denoflow/denoflow/stargazers) - Configuration as code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/Javascript codes
+- [copilotz](https://github.com/copilotzhq/copilotz) [![GitHub stars](https://img.shields.io/github/stars/copilotzhq/copilotz?style=flat)](https://github.com/copilotzhq/copilotz/stargazers) - TypeScript runtime for apps used by people, the app's own agents and AI assistants over MCP, with one set of Actions, access rules and audit record for every caller.
 - [denoify](https://github.com/garronej/denoify) [![GitHub stars](https://img.shields.io/github/stars/garronej/denoify?style=flat)](https://github.com/garronej/denoify/stargazers) - For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [denoliver](https://github.com/joakimunge/denoliver) [![GitHub stars](https://img.shields.io/github/stars/joakimunge/denoliver?style=flat)](https://github.com/joakimunge/denoliver/stargazers) - A simple, dependency free file server with live reload.
 - [denomander](https://github.com/siokas/denomander) [![GitHub stars](https://img.shields.io/github/stars/siokas/denomander?style=flat)](https://github.com/siokas/denomander/stargazers) - Deno command-line interfaces inspired from commander.js.
-- [denon](https://github.com/denosaurs/denon) [![GitHub stars](https://img.shields.io/github/stars/denosaurs/denon?style=flat)](https://github.com/denosaurs/denon/stargazers) - A daemon script runner, like nodemon. Built in and for Deno.
-- [denopendabot](https://github.com/apps/denopendabot) [![GitHub stars](https://img.shields.io/github/stars/apps/denopendabot?style=flat)](https://github.com/apps/denopendabot/stargazers) - Dependabot for Deno projects.
 - [denopkg](https://github.com/egoist-labs/denopkg.com) [![GitHub stars](https://img.shields.io/github/stars/egoist-labs/denopkg.com?style=flat)](https://github.com/egoist-labs/denopkg.com/stargazers) - An easier way to use code from GitHub in your Deno project.
-- [Deno Dig](https://github.com/theGEBIRGE/DenoDig) [![GitHub stars](https://img.shields.io/github/stars/theGEBIRGE/DenoDig?style=flat)](https://github.com/theGEBIRGE/DenoDig/stargazers) - A tool for extracting application code and npm packages from stand-alone Deno executables.
 - [deno_docker](https://github.com/denoland/deno_docker) [![GitHub stars](https://img.shields.io/github/stars/denoland/deno_docker?style=flat)](https://github.com/denoland/deno_docker/stargazers) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
-- [dmm](https://github.com/drashland/dmm) [![GitHub stars](https://img.shields.io/github/stars/drashland/dmm?style=flat)](https://github.com/drashland/dmm/stargazers) - Lightweight Deno Module Manager
 - [dnt](https://github.com/denoland/dnt) [![GitHub stars](https://img.shields.io/github/stars/denoland/dnt?style=flat)](https://github.com/denoland/dnt/stargazers) - Deno to npm package build tool.
-- [dpm](https://github.com/dpmland/dpm) [![GitHub stars](https://img.shields.io/github/stars/dpmland/dpm?style=flat)](https://github.com/dpmland/dpm/stargazers) - Deno Package Manager, a NPM | Yarn Experience for Deno
 - dvm
   - [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno) [![GitHub stars](https://img.shields.io/github/stars/asdf-community/asdf-deno?style=flat)](https://github.com/asdf-community/asdf-deno/stargazers) - Deno plugin for [asdf](https://asdf-vm.com/)
   - [justjavac/dvm](https://github.com/justjavac/dvm) [![GitHub stars](https://img.shields.io/github/stars/justjavac/dvm?style=flat)](https://github.com/justjavac/dvm/stargazers) - Deno Version Manager: manage multiple active Deno versions.
-  - [axetroy/dvm](https://github.com/axetroy/dvm) [![GitHub stars](https://img.shields.io/github/stars/axetroy/dvm?style=flat)](https://github.com/axetroy/dvm/stargazers) - Version manger for Deno without runtime dependencies.
   - [ghosind/dvm](https://github.com/ghosind/dvm) [![GitHub stars](https://img.shields.io/github/stars/ghosind/dvm?style=flat)](https://github.com/ghosind/dvm/stargazers) - A lightweight Deno Version Manager for Linux/MacOS.
-- [entype](https://github.com/bcheidemann/entype) [![GitHub stars](https://img.shields.io/github/stars/bcheidemann/entype?style=flat)](https://github.com/bcheidemann/entype/stargazers) - A CLI tool used to generate type definitions for serialised data, currently supporting JSON to Rust and TypeScript.
-- [kopo-cli](https://github.com/littletof/kopo-cli) [![GitHub stars](https://img.shields.io/github/stars/littletof/kopo-cli?style=flat)](https://github.com/littletof/kopo-cli/stargazers) - A Deno registry browser in the terminal.
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) [![GitHub stars](https://img.shields.io/github/stars/bevry/make-deno-edition?style=flat)](https://github.com/bevry/make-deno-edition/stargazers) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 - [nemesis](https://github.com/glastor-core/nemesis) [![GitHub stars](https://img.shields.io/github/stars/glastor-core/nemesis?style=flat)](https://github.com/glastor-core/nemesis/stargazers) - Automated DevSecOps auditing, repository hygiene, auto-fix, and compliance CLI built with Deno 2.
 - [pup](https://github.com/Hexagon/pup) [![GitHub stars](https://img.shields.io/github/stars/Hexagon/pup?style=flat)](https://github.com/Hexagon/pup/stargazers) - Advanced process manager for Deno. With autorestart, fs watch, cron start, process telemetry, ipc, clustering, load balancer and more.
 - [studio-pack-generator](https://github.com/jersou/studio-pack-generator) [![GitHub stars](https://img.shields.io/github/stars/jersou/studio-pack-generator?style=flat)](https://github.com/jersou/studio-pack-generator/stargazers) - Convert a folder or a RSS URL to Studio pack for Lunii device
-- [trex](https://github.com/crewdevio/Trex) [![GitHub stars](https://img.shields.io/github/stars/crewdevio/Trex?style=flat)](https://github.com/crewdevio/Trex/stargazers) - Package management like npm for deno.
-- [udd](https://github.com/hayd/deno-udd) [![GitHub stars](https://img.shields.io/github/stars/hayd/deno-udd?style=flat)](https://github.com/hayd/deno-udd/stargazers) - Update Deno dependencies: updates import statements to their latest published version.
 - [vscode-deno](https://github.com/denoland/vscode_deno) [![GitHub stars](https://img.shields.io/github/stars/denoland/vscode_deno?style=flat)](https://github.com/denoland/vscode_deno/stargazers) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
 
 ## Integrations
 
-- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
-- [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
+- [Netlify Edge Functions](https://docs.netlify.com/build/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+- [Slack Custom Functions](https://docs.slack.dev/tools/deno-slack-sdk/guides/creating-custom-functions/) - Build custom Run On Slack functions using Deno.
 - [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
@@ -315,7 +249,6 @@ This list is a collection of the best Deno modules and resources.
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
-- Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 - [Getting Started with Deno](https://sabe.io/tutorials/getting-started-with-deno)
 - [How to deploy a Deno app using Docker](https://sabe.io/tutorials/how-to-deploy-deno-app-docker)
 

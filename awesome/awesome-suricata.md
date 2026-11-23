@@ -122,6 +122,7 @@
 - [Antiphishing](https://github.com/julioliraup/Antiphishing) [![GitHub stars](https://img.shields.io/github/stars/julioliraup/Antiphishing?style=flat)](https://github.com/julioliraup/Antiphishing/stargazers) - Suricata rules and datasets to detect phishing attacks.
 - [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) [![GitHub stars](https://img.shields.io/github/stars/OISF/suricata-intel-index?style=flat)](https://github.com/OISF/suricata-intel-index/stargazers) - OISF's curated, machine-readable list of sources used by Suricata-Update.
 - [EveBox Rules](https://rules.evebox.org) - Suricata Rule Browser, indexes many free rulesets, including rules from the Suricata Ruleset Index.
+- [Whatoblock Blocklists](https://whatoblock.com/) - Hourly IP blocklists built from honeypot observations, with a Suricata export (account required; a free sample feed is available).
 
 
 ## Rule/Security Content Management and Handling

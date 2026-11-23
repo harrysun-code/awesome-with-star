@@ -67,11 +67,15 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 ### Jetpack Compose
 
 - [Jetpack Compose](https://developer.android.com/compose) - Modern toolkit for building native Android UI with declarative Kotlin APIs and Material 3 support.
+- [Haze](https://github.com/chrisbanes/haze) [![GitHub stars](https://img.shields.io/github/stars/chrisbanes/haze?style=flat)](https://github.com/chrisbanes/haze/stargazers) - Blur and frosted-glass effects for Jetpack Compose and Compose Multiplatform.
+- [Showkase](https://github.com/airbnb/Showkase) [![GitHub stars](https://img.shields.io/github/stars/airbnb/Showkase?style=flat)](https://github.com/airbnb/Showkase/stargazers) - Annotation-processor-based browser for your Jetpack Compose UI elements, colors and typography.
 
 ### Architecture
 
 - [Circuit](https://github.com/slackhq/circuit) [![GitHub stars](https://img.shields.io/github/stars/slackhq/circuit?style=flat)](https://github.com/slackhq/circuit/stargazers) - Modern architecture framework for building Android apps with Compose.
 - [Decompose](https://github.com/arkivanov/Decompose) [![GitHub stars](https://img.shields.io/github/stars/arkivanov/Decompose?style=flat)](https://github.com/arkivanov/Decompose/stargazers) - Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components.
+- [Molecule](https://github.com/cashapp/molecule) [![GitHub stars](https://img.shields.io/github/stars/cashapp/molecule?style=flat)](https://github.com/cashapp/molecule/stargazers) - Build a StateFlow or Flow stream using Jetpack Compose runtime.
+- [Store](https://github.com/MobileNativeFoundation/Store) [![GitHub stars](https://img.shields.io/github/stars/MobileNativeFoundation/Store?style=flat)](https://github.com/MobileNativeFoundation/Store/stargazers) - Kotlin Multiplatform library for loading, caching and syncing data with a Flow-based API.
 
 ### Charts
 
@@ -109,12 +113,12 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) [![GitHub stars](https://img.shields.io/github/stars/mikepenz/MaterialDrawer?style=flat)](https://github.com/mikepenz/MaterialDrawer/stargazers) - Simple take on a material design navigation drawer.
 - [AppIntro](https://github.com/AppIntro/AppIntro) [![GitHub stars](https://img.shields.io/github/stars/AppIntro/AppIntro?style=flat)](https://github.com/AppIntro/AppIntro/stargazers) - Library for creating beautiful intro slides for your app.
 - [Lottie](https://github.com/airbnb/lottie-android) [![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-android?style=flat)](https://github.com/airbnb/lottie-android/stargazers) - Library for rendering After Effects animations natively on Android.
-- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) [![GitHub stars](https://img.shields.io/github/stars/daimajia/AndroidViewAnimations?style=flat)](https://github.com/daimajia/AndroidViewAnimations/stargazers) - Cute view animation collection.
 - [Compressor](https://github.com/zetbaitsu/Compressor) [![GitHub stars](https://img.shields.io/github/stars/zetbaitsu/Compressor?style=flat)](https://github.com/zetbaitsu/Compressor/stargazers) - Lightweight and powerful Android image compression library.
 - [Material Dots Indicators](https://github.com/tommybuonomo/dotsindicator) [![GitHub stars](https://img.shields.io/github/stars/tommybuonomo/dotsindicator?style=flat)](https://github.com/tommybuonomo/dotsindicator/stargazers) - Three Material Dots Indicators styles for View Pagers.
 - [Glide](https://github.com/bumptech/glide) [![GitHub stars](https://img.shields.io/github/stars/bumptech/glide?style=flat)](https://github.com/bumptech/glide/stargazers) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/meta/fresco) [![GitHub stars](https://img.shields.io/github/stars/meta/fresco?style=flat)](https://github.com/meta/fresco/stargazers) - An Android library for managing images and the memory they use.
 - [Coil](https://github.com/coil-kt/coil) [![GitHub stars](https://img.shields.io/github/stars/coil-kt/coil?style=flat)](https://github.com/coil-kt/coil/stargazers) - Image loading for Android backed by Kotlin Coroutines.
+- [Landscapist](https://github.com/skydoves/landscapist) [![GitHub stars](https://img.shields.io/github/stars/skydoves/landscapist?style=flat)](https://github.com/skydoves/landscapist/stargazers) - Image loading for Jetpack Compose and Kotlin Multiplatform with Coil, Glide and Fresco as backends.
 - [Media3 (ExoPlayer)](https://github.com/androidx/media) [![GitHub stars](https://img.shields.io/github/stars/androidx/media?style=flat)](https://github.com/androidx/media/stargazers) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android.
 - [CameraX](https://developer.android.com/training/camerax) - Jetpack library that makes camera app development easier with consistent API across devices.
 
@@ -140,6 +144,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) [![GitHub stars](https://img.shields.io/github/stars/apollographql/apollo-kotlin?style=flat)](https://github.com/apollographql/apollo-kotlin/stargazers) - Strongly-typed GraphQL client for Kotlin and Java.
 - [Android Volley](https://google.github.io/volley/) - Official Android HTTP library that makes networking for easier and faster.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) [![GitHub stars](https://img.shields.io/github/stars/amitshekhariitbhu/Fast-Android-Networking?style=flat)](https://github.com/amitshekhariitbhu/Fast-Android-Networking/stargazers) - A Complete Fast Android Networking Library that also support HTTP/2.
+- [Wire](https://github.com/square/wire) [![GitHub stars](https://img.shields.io/github/stars/square/wire?style=flat)](https://github.com/square/wire/stargazers) - Protocol buffers and gRPC for Kotlin, Java and Kotlin Multiplatform.
 
 ### Logger
 - [timber](https://github.com/JakeWharton/timber) [![GitHub stars](https://img.shields.io/github/stars/JakeWharton/timber?style=flat)](https://github.com/JakeWharton/timber/stargazers) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
@@ -170,6 +175,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Roborazzi](https://github.com/takahirom/roborazzi) [![GitHub stars](https://img.shields.io/github/stars/takahirom/roborazzi?style=flat)](https://github.com/takahirom/roborazzi/stargazers) - Screenshot testing library for Android using Robolectric.
 - [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) [![GitHub stars](https://img.shields.io/github/stars/ghost-in-the-droid/android-agent?style=flat)](https://github.com/ghost-in-the-droid/android-agent/stargazers) - Python MCP server for AI agent control of Android and iOS devices via ADB and WebDriverAgent.
 - [Droidline](https://github.com/KnifeLemon/Droidline) [![GitHub stars](https://img.shields.io/github/stars/KnifeLemon/Droidline?style=flat)](https://github.com/KnifeLemon/Droidline/stargazers) - Automate real Android phones from Python, Node.js, C# or a CLI over Wi-Fi, without ADB or root.
+- [e2e](https://github.com/e2e-inc/e2e) [![GitHub stars](https://img.shields.io/github/stars/e2e-inc/e2e?style=flat)](https://github.com/e2e-inc/e2e/stargazers) - End-to-end testing framework for Android and web apps that combines natural-language agent steps with locator-based assertions.
 
 ### Tracking
 
@@ -194,12 +200,13 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [ADB Enhanced](https://github.com/ashishb/adb-enhanced) [![GitHub stars](https://img.shields.io/github/stars/ashishb/adb-enhanced?style=flat)](https://github.com/ashishb/adb-enhanced/stargazers) - A command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands.
 - [handsets](https://github.com/elliotgao2/handsets) [![GitHub stars](https://img.shields.io/github/stars/elliotgao2/handsets?style=flat)](https://github.com/elliotgao2/handsets/stargazers) - Android control CLI that drives devices over ADB with no APK required.
 - [Pidcat](https://github.com/JakeWharton/pidcat) [![GitHub stars](https://img.shields.io/github/stars/JakeWharton/pidcat?style=flat)](https://github.com/JakeWharton/pidcat/stargazers) - A colored command-line ADB wrapper that only shows log entries for a specific application package.
+- [scrcpy](https://github.com/Genymobile/scrcpy) [![GitHub stars](https://img.shields.io/github/stars/Genymobile/scrcpy?style=flat)](https://github.com/Genymobile/scrcpy/stargazers) - Display and control Android devices connected via USB or TCP/IP.
 
 
 ### Wireless
 
 - [Kable](https://github.com/JuulLabs/kable) [![GitHub stars](https://img.shields.io/github/stars/JuulLabs/kable?style=flat)](https://github.com/JuulLabs/kable/stargazers) - Kotlin Asynchronous Bluetooth Low Energy library for Android and other platforms.
-- [Nordic Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) [![GitHub stars](https://img.shields.io/github/stars/NordicSemiconductor/Android-BLE-Library?style=flat)](https://github.com/NordicSemiconductor/Android-BLE-Library/stargazers) - Android BLE library from Nordic Semiconductor for reliable BLE communication.
+- [Nordic Android-BLE-Library](https://github.com/nordicsemi/Android-BLE-Library) [![GitHub stars](https://img.shields.io/github/stars/nordicsemi/Android-BLE-Library?style=flat)](https://github.com/nordicsemi/Android-BLE-Library/stargazers) - Android BLE library from Nordic Semiconductor for reliable BLE communication.
 
 ### Chat & Messaging
 
@@ -301,6 +308,7 @@ My personal recommendation is (for now) to use the Android SDK to build a native
 - [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/compose-multiplatform?style=flat)](https://github.com/JetBrains/compose-multiplatform/stargazers) - Jetpack Compose for iOS, Desktop, and Web built on Kotlin Multiplatform.
 - [KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) [![GitHub stars](https://img.shields.io/github/stars/Tencent-TDS/KuiklyUI?style=flat)](https://github.com/Tencent-TDS/KuiklyUI/stargazers) - Kotlin Multiplatform UI framework supporting Android, iOS, and other platforms.
 - [Kotlin coding challenges](https://github.com/igorwojda/kotlin-coding-challenges) [![GitHub stars](https://img.shields.io/github/stars/igorwojda/kotlin-coding-challenges?style=flat)](https://github.com/igorwojda/kotlin-coding-challenges/stargazers) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
+- [Compose Hot Reload](https://github.com/JetBrains/compose-hot-reload) [![GitHub stars](https://img.shields.io/github/stars/JetBrains/compose-hot-reload?style=flat)](https://github.com/JetBrains/compose-hot-reload/stargazers) - Hot reload for Compose Multiplatform, by JetBrains.
 
 ## Build & Performance
 

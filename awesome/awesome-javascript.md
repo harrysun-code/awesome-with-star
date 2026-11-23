@@ -377,6 +377,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) [![GitHub stars](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat)](https://github.com/vizzuhq/vizzu-lib/stargazers) - Library for animated data visualizations and data stories.
 * [G6](https://github.com/antvis/g6) [![GitHub stars](https://img.shields.io/github/stars/antvis/g6?style=flat)](https://github.com/antvis/g6/stargazers) - A graph visualization engine.
 * [Infographic](https://github.com/antvis/Infographic) [![GitHub stars](https://img.shields.io/github/stars/antvis/Infographic?style=flat)](https://github.com/antvis/Infographic/stargazers) - A next-generation declarative infographic visualization engine.
+* [d3-3d](https://github.com/Niekes/d3-3d) [![GitHub stars](https://img.shields.io/github/stars/Niekes/d3-3d?style=flat)](https://github.com/Niekes/d3-3d/stargazers) - 3D charts and shapes for D3.js, projected to plain SVG or canvas with no WebGL needed.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
@@ -643,6 +644,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [React Query](https://github.com/tannerlinsley/react-query) [![GitHub stars](https://img.shields.io/github/stars/tannerlinsley/react-query?style=flat)](https://github.com/tannerlinsley/react-query/stargazers) - Hooks for fetching, caching and updating asynchronous data in React.
 * [SWRV](https://github.com/Kong/swrv) [![GitHub stars](https://img.shields.io/github/stars/Kong/swrv?style=flat)](https://github.com/Kong/swrv/stargazers) - Stale-while-revalidate data fetching for Vue.
 * [Vue Query](https://github.com/DamianOsipiuk/vue-query) [![GitHub stars](https://img.shields.io/github/stars/DamianOsipiuk/vue-query?style=flat)](https://github.com/DamianOsipiuk/vue-query/stargazers) - Hooks for fetching, caching and updating asynchronous data in Vue.
+* [HyperFetch](https://github.com/BetterTyped/hyper-fetch) [![GitHub stars](https://img.shields.io/github/stars/BetterTyped/hyper-fetch?style=flat)](https://github.com/BetterTyped/hyper-fetch/stargazers) - Type-safe HTTP, GraphQL and realtime client with caching, retries, deduplication and offline queue.
 
 ## Streaming
 
@@ -1070,6 +1072,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Knex](https://github.com/knex/knex) [![GitHub stars](https://img.shields.io/github/stars/knex/knex?style=flat)](https://github.com/knex/knex/stargazers) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 * [MikroORM](https://github.com/mikro-orm/mikro-orm) [![GitHub stars](https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=flat)](https://github.com/mikro-orm/mikro-orm/stargazers) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 * [Objection.js](https://github.com/Vincit/objection.js) [![GitHub stars](https://img.shields.io/github/stars/Vincit/objection.js?style=flat)](https://github.com/Vincit/objection.js/stargazers) A SQL-friendly ORM for Node.js built on top of Knex.js, with powerful relational support.
+* [Reylo](https://github.com/reylosql/reylo) [![GitHub stars](https://img.shields.io/github/stars/reylosql/reylo?style=flat)](https://github.com/reylosql/reylo/stargazers) - Import .sql files into TypeScript with types inferred from the database. Postgres, MySQL and SQLite.
 
 
 ## WebSockets

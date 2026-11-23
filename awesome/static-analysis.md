@@ -1062,6 +1062,8 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) [![GitHub stars](https://img.shields.io/github/stars/nikic/PHP-Parser?style=flat)](https://github.com/nikic/PHP-Parser/stargazers) — A PHP parser written in PHP.
 
+- [php-speller](https://github.com/mekras/php-speller) [![GitHub stars](https://img.shields.io/github/stars/mekras/php-speller?style=flat)](https://github.com/mekras/php-speller/stargazers) — PHP spell check library.
+
 - [PHPArkitect](https://github.com/phparkitect/arkitect) [![GitHub stars](https://img.shields.io/github/stars/phparkitect/arkitect?style=flat)](https://github.com/phparkitect/arkitect/stargazers) — PHPArkitect helps you to keep your PHP codebase coherent and solid, by permitting to add some architectural constraint check to your workflow. You can express the constraint that you want to enforce, in simple and readable PHP code.
 
 - [phpDocumentor](https://www.phpdoc.org) — Analyzes PHP source code to generate documentation.
@@ -1130,10 +1132,6 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 
 - **PHP Refactoring Browser** :warning: — Refactoring helper.
-
-
-
-- **php-speller** :warning: — PHP spell check library.
 
 
 
@@ -2083,6 +2081,8 @@ orchestration to ensure zero breaking changes. Specialized for React, Next.js, a
 
 - [Qwiet AI](https://qwiet.ai/) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
 
+- [REA](https://rea.tools/) — Local CLI and MCP server for static analysis of native binaries, .NET assemblies, and JavaScript and Electron bundles. Reports binary hardening flags, dependencies, and release exposure such as shipped source maps, with supporting evidence. The release audit can fail a build at a chosen severity.
+
 - [relint](https://github.com/codingjoe/relint) [![GitHub stars](https://img.shields.io/github/stars/codingjoe/relint?style=flat)](https://github.com/codingjoe/relint/stargazers) — A static file linter that allows you to write custom rules using regular expressions (RegEx).
 
 - [Repowise](https://www.repowise.dev) — Deterministic, zero-LLM code-health analysis. Scores every file 1-10 for defect risk, maintainability, and performance from 25 markers: McCabe complexity, LCOM4 cohesion, god classes, Rabin-Karp clone detection, change entropy, and untested hotspots. Adds a dependency graph, dead-code detection, git-history signals (churn, ownership, co-change), and concrete graph-aware refactoring plans. Ships as a CLI, an MCP server, and a VS Code extension across 15 languages.
@@ -2661,7 +2661,11 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [GitGuardian ggshield](https://www.gitguardian.com/ggshield) — ggshield is a CLI application that runs in your local environment  or in a CI environment to help you detect more than 350+ types of secrets,  as well as other potential security vulnerabilities or policy breaks affecting your codebase.
 
+- [glsec](https://glsec.github.io) — Static analysis for GitLab CI/CD pipeline files (.gitlab-ci.yml), detecting insecure patterns such as unpinned includes, components and images, leaked secrets, injection through pipeline inputs and job scripts, unsafe deployments, and supply-chain risks. Runs as a CLI, pre-commit hook, CI step, or GitLab CI/CD component.
+
 - [Goblint](https://goblint.in.tum.de) — A static analyzer for the analysis of multi-threaded C programs. Its primary focus is the  detection of data races, but it also reports other runtime errors, such as buffer overflows and null-pointer dereferences.
+
+- [GuardLink](https://guardlink.bugb.io/) — Continuous threat modeling as code. Security annotations in source comments (threats, exposures, mitigations, flows) form a threat model that updates with the code and is validated and diffed against the base branch in CI. Without an LLM, it reports untrusted-entry-to-sink paths with no control, citing file:line, and tracks which claims are verified or stale. Open exposures become test templates to prove them. Any comment syntax; coding agents maintain it via MCP. Optional LLM threat reports.
 
 - [PullRequest](https://www.hackerone.com/product/code) :copyright: — Code review as a service with built-in static analysis.  Increase velocity and reduce technical debt through quality code review by expert engineers backed by best-in-class automation.
 
@@ -2773,6 +2777,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) [![GitHub stars](https://img.shields.io/github/stars/angular-eslint/angular-eslint?style=flat)](https://github.com/angular-eslint/angular-eslint/stargazers) — Linter for Angular projects
 
 - [axe-core](https://www.deque.com/axe/) — Accessibility engine for automated Web UI testing. Tests HTML against WCAG 2.0, 2.1, and 2.2 guidelines. Used by Google Lighthouse, Microsoft Accessibility Insights, and thousands of organizations worldwide.
+
+- [djLint](https://djlint.com) — Linter and formatter for HTML templates. It understands the template syntax together with the markup and has profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. The linter reports accessibility, correctness and style problems. Runs as a CLI, a language server (LSP), a pre-commit hook and a VS Code extension.
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) [![GitHub stars](https://img.shields.io/github/stars/Shopify/erb-lint?style=flat)](https://github.com/Shopify/erb-lint/stargazers) — Lint your ERB or HTML files
 
@@ -3180,7 +3186,11 @@ It does this by running periodic diff outputs against heuristically crafted rege
 
 - [Gitleaks](https://github.com/zricethezav/gitleaks) [![GitHub stars](https://img.shields.io/github/stars/zricethezav/gitleaks?style=flat)](https://github.com/zricethezav/gitleaks/stargazers) — A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 
+- [glsec](https://glsec.github.io) — Static analysis for GitLab CI/CD pipeline files (.gitlab-ci.yml), detecting insecure patterns such as unpinned includes, components and images, leaked secrets, injection through pipeline inputs and job scripts, unsafe deployments, and supply-chain risks. Runs as a CLI, pre-commit hook, CI step, or GitLab CI/CD component.
+
 - [Grype](https://github.com/anchore/grype) [![GitHub stars](https://img.shields.io/github/stars/anchore/grype?style=flat)](https://github.com/anchore/grype/stargazers) — Vulnerability scanner for container images and filesystems. Developed by Anchore, it scans container images, directories, and archives for known vulnerabilities. Supports multiple image formats, SBOM integration, and VEX (Vulnerability Exploitability eXchange) for accurate vulnerability assessment. Works with various vulnerability databases and provides detailed reporting.
+
+- [GuardLink](https://guardlink.bugb.io/) — Continuous threat modeling as code. Security annotations in source comments (threats, exposures, mitigations, flows) form a threat model that updates with the code and is validated and diffed against the base branch in CI. Without an LLM, it reports untrusted-entry-to-sink paths with no control, citing file:line, and tracks which claims are verified or stale. Open exposures become test templates to prove them. Any comment syntax; coding agents maintain it via MCP. Optional LLM threat reports.
 
 - [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
 
@@ -3335,6 +3345,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 <h2>Template-Languages</h2>
 
 
+- [djLint](https://djlint.com) — Linter and formatter for HTML templates. It understands the template syntax together with the markup and has profiles for Django, Jinja, Twig, Nunjucks, Handlebars, Mustache, Liquid, Go templates, Angular, Tera, Askama and Mako. The linter reports accessibility, correctness and style problems. Runs as a CLI, a language server (LSP), a pre-commit hook and a VS Code extension.
+
 - [ember-template-lint](https://github.com/ember-template-lint/ember-template-lint) [![GitHub stars](https://img.shields.io/github/stars/ember-template-lint/ember-template-lint?style=flat)](https://github.com/ember-template-lint/ember-template-lint/stargazers) — Linter for Ember or Handlebars templates.
 
 - [haml-lint](https://github.com/sds/haml-lint) [![GitHub stars](https://img.shields.io/github/stars/sds/haml-lint?style=flat)](https://github.com/sds/haml-lint/stargazers) — Tool for writing clean and consistent HAML.
@@ -3377,6 +3389,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 
 - [Frame](https://github.com/lambdasec/frame) [![GitHub stars](https://img.shields.io/github/stars/lambdasec/frame?style=flat)](https://github.com/lambdasec/frame/stargazers) — Security scanner that pairs taint analysis with separation-logic checks in Z3, plus an optional LLM layer. Symbolic frontends cover Python, Java, JavaScript/TypeScript, C/C++ and C#. LLM findings are reported in a separate tier from symbolic ones, and the LLM layer runs on any OpenAI-compatible endpoint, including a local one.
+
+- [GuardLink](https://guardlink.bugb.io/) — Continuous threat modeling as code. Security annotations in source comments (threats, exposures, mitigations, flows) form a threat model that updates with the code and is validated and diffed against the base branch in CI. Without an LLM, it reports untrusted-entry-to-sink paths with no control, citing file:line, and tracks which claims are verified or stale. Open exposures become test templates to prove them. Any comment syntax; coding agents maintain it via MCP. Optional LLM threat reports.
 
 - [squirrelscan](https://squirrelscan.com) — squirrelscan is a website QA tool built for coding agents such as Claude Code and Cursor. Its squirrel CLI crawls a live site and runs 260+ audit rules across SEO, performance, security, accessibility, structured data and agent experience, then returns exact source-mapped fixes. Runs from the terminal, CI, the cloud, or over MCP.
 
@@ -3450,6 +3464,8 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [compose-lint](https://tmatens.github.io/compose-lint/) — Security linter for Docker Compose files. Checks compose.yaml against 27 rules taken from the OWASP Docker Security Cheat Sheet and the CIS Docker Benchmark: mounted Docker socket, privileged mode, missing no-new-privileges, extra capabilities, writable root filesystem, ports bound to all interfaces, credentials in environment variables, unpinned images. Each finding says how to fix it and which runtime error the fix can cause. JSON and SARIF output, a GitHub Action, and a dry-run auto-fix.
 
+- [glsec](https://glsec.github.io) — Static analysis for GitLab CI/CD pipeline files (.gitlab-ci.yml), detecting insecure patterns such as unpinned includes, components and images, leaked secrets, injection through pipeline inputs and job scripts, unsafe deployments, and supply-chain risks. Runs as a CLI, pre-commit hook, CI step, or GitLab CI/CD component.
+
 - [LintLang](https://lintlang.ai/) — Static linter for natural-language instructions that control AI agents. Detects ambiguous tool descriptions, missing limits, conflicting directives, and schema gaps in local files and CI without model or network calls.
 
 - [skillsaw](https://skillsaw.org/) — Configurable linter for the files that steer AI coding agents, including skills, plugins, instruction files, hooks, and related configuration. Detects structural, content-quality, and security issues and provides deterministic autofixes, baselines, and CI-ready output.
@@ -3483,6 +3499,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 - [AppSec Santa — SAST Tools](https://appsecsanta.com/sast-tools) — Independent comparison of 30+ static analysis security testing tools with features, pricing, and alternatives
 - [Clean code linters](https://github.com/collections/clean-code-linters) [![GitHub stars](https://img.shields.io/github/stars/collections/clean-code-linters?style=flat)](https://github.com/collections/clean-code-linters/stargazers) — A collection of linters in github collections
 - [Code Quality Checker Tools For PHP Projects](https://github.com/collections/code-quality-in-php) [![GitHub stars](https://img.shields.io/github/stars/collections/code-quality-in-php?style=flat)](https://github.com/collections/code-quality-in-php/stargazers) — A collection of PHP linters in github collections
+- [Dev Quality Gates](https://github.com/mokevnin/dev-quality-gates) [![GitHub stars](https://img.shields.io/github/stars/mokevnin/dev-quality-gates?style=flat)](https://github.com/mokevnin/dev-quality-gates/stargazers) — An opinionated list of quality gates for a dozen languages, CI, infrastructure and git workflows, with one recommended tool per job and its limits
 - [go-tools](https://github.com/dominikh/go-tools) [![GitHub stars](https://img.shields.io/github/stars/dominikh/go-tools?style=flat)](https://github.com/dominikh/go-tools/stargazers) — A collection of tools and libraries for working with Go code, including linters and static analysis
 - [linters](https://github.com/mcandre/linters) [![GitHub stars](https://img.shields.io/github/stars/mcandre/linters?style=flat)](https://github.com/mcandre/linters/stargazers) — An introduction to static code analysis
 - [OWASP Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) — List of tools maintained by the Open Web Application Security Project

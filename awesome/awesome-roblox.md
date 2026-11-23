@@ -56,7 +56,6 @@
 
 ### Backpack
 
-- [Neobar](https://github.com/ImAvafe/NeoHotbar) [![GitHub stars](https://img.shields.io/github/stars/ImAvafe/NeoHotbar?style=flat)](https://github.com/ImAvafe/NeoHotbar/stargazers) - A modern, customizable hotbar for Roblox.
 - [Purse](https://github.com/ryanlua/purse) [![GitHub stars](https://img.shields.io/github/stars/ryanlua/purse?style=flat)](https://github.com/ryanlua/purse/stargazers) - CoreGui decoupled version of the Roblox default backpack.
 - [Satchel](https://github.com/ryanlua/satchel) [![GitHub stars](https://img.shields.io/github/stars/ryanlua/satchel?style=flat)](https://github.com/ryanlua/satchel/stargazers) - Modern alternative to Roblox's default backpack.
 
@@ -73,7 +72,6 @@
 
 ### API Wrappers
 
-- [noblox.js](https://github.com/noblox/noblox.js) [![GitHub stars](https://img.shields.io/github/stars/noblox/noblox.js?style=flat)](https://github.com/noblox/noblox.js/stargazers) - A Node.js API wrapper for Roblox.
 - [Openblox](https://github.com/cameronpcampbell/openblox) [![GitHub stars](https://img.shields.io/github/stars/cameronpcampbell/openblox?style=flat)](https://github.com/cameronpcampbell/openblox/stargazers) - API wrapper for Roblox, written in TypeScript. Fully typesafe, optional caching, use any http client.
 - [ro.py](https://github.com/ro-py/ro.py) [![GitHub stars](https://img.shields.io/github/stars/ro-py/ro.py?style=flat)](https://github.com/ro-py/ro.py/stargazers) - A modern, asynchronous Python 3 wrapper for the Roblox API.
 
@@ -89,7 +87,6 @@
 
 - [ECR](https://github.com/centau/ecr) [![GitHub stars](https://img.shields.io/github/stars/centau/ecr?style=flat)](https://github.com/centau/ecr/stargazers) - A sparse-set based ECS library for Luau.
 - [Jecs](https://github.com/Ukendio/jecs) [![GitHub stars](https://img.shields.io/github/stars/Ukendio/jecs?style=flat)](https://github.com/Ukendio/jecs/stargazers) - A fast, portable Entity Component System for Luau.
-- [Matter](https://github.com/matter-ecs/matter) [![GitHub stars](https://img.shields.io/github/stars/matter-ecs/matter?style=flat)](https://github.com/matter-ecs/matter/stargazers) - A modern ECS library for Roblox.
 - [Planck](https://github.com/YetAnotherClown/planck) [![GitHub stars](https://img.shields.io/github/stars/YetAnotherClown/planck?style=flat)](https://github.com/YetAnotherClown/planck/stargazers) - An Agnostic Scheduler for ECS.
 - [Replecs](https://github.com/PepeElToro41/replecs) [![GitHub stars](https://img.shields.io/github/stars/PepeElToro41/replecs?style=flat)](https://github.com/PepeElToro41/replecs/stargazers) - A fast, fine controlled JECS replication library.
 
@@ -103,7 +100,6 @@
 - [Blink](https://github.com/1Axen/blink) [![GitHub stars](https://img.shields.io/github/stars/1Axen/blink?style=flat)](https://github.com/1Axen/blink/stargazers) - An IDL compiler written in Luau for ROBLOX buffer networking.
 - [ByteNet](https://github.com/ffrostfall/ByteNet) [![GitHub stars](https://img.shields.io/github/stars/ffrostfall/ByteNet?style=flat)](https://github.com/ffrostfall/ByteNet/stargazers) - Advanced, modern networking library.
 - [RbxNet](https://github.com/roblox-aurora/rbx-net) [![GitHub stars](https://img.shields.io/github/stars/roblox-aurora/rbx-net?style=flat)](https://github.com/roblox-aurora/rbx-net/stargazers) - Advanced multi-language networking framework.
-- [Red](https://github.com/red-blox/red) [![GitHub stars](https://img.shields.io/github/stars/red-blox/red?style=flat)](https://github.com/red-blox/red/stargazers) - Simple, fast, and powerful networking library.
 - [Zap](https://github.com/red-blox/zap) [![GitHub stars](https://img.shields.io/github/stars/red-blox/zap?style=flat)](https://github.com/red-blox/zap/stargazers) - Lightning fast networking solution.
 
 ### Open Cloud
@@ -139,6 +135,7 @@
 
 ### Documentation Generators
 
+- [LuauDocs](https://github.com/kohltastrophe/luaudocs) [![GitHub stars](https://img.shields.io/github/stars/kohltastrophe/luaudocs?style=flat)](https://github.com/kohltastrophe/luaudocs/stargazers) - Documentation generator for Luau.
 - [Moonwave](https://github.com/evaera/moonwave) [![GitHub stars](https://img.shields.io/github/stars/evaera/moonwave?style=flat)](https://github.com/evaera/moonwave/stargazers) - Tool for generating documentation from comments in Lua source code.
 
 ### Language Servers
@@ -162,6 +159,7 @@
 
 ### Syncing Tools
 
+- [Azul](https://github.com/Ransomwave/azul) [![GitHub stars](https://img.shields.io/github/stars/Ransomwave/azul?style=flat)](https://github.com/Ransomwave/azul/stargazers) - Finally, an easy to use two-way sync tool where Roblox Studio is the source of truth.
 - [Argon](https://github.com/argon-rbx/argon) [![GitHub stars](https://img.shields.io/github/stars/argon-rbx/argon?style=flat)](https://github.com/argon-rbx/argon/stargazers) - Full featured tool for Roblox development.
 - [Lync](https://github.com/Iron-Stag-Games/Lync) [![GitHub stars](https://img.shields.io/github/stars/Iron-Stag-Games/Lync?style=flat)](https://github.com/Iron-Stag-Games/Lync/stargazers) - File sync tool.
 - [Rojo](https://github.com/rojo-rbx/rojo) [![GitHub stars](https://img.shields.io/github/stars/rojo-rbx/rojo?style=flat)](https://github.com/rojo-rbx/rojo/stargazers) - Enables Roblox developers to use professional-grade software engineering tools.
